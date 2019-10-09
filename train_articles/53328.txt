@@ -1,0 +1,110 @@
+(PDF) The Risks of Operational Militarization: Increased Conflict Against Militarized Police
+            
+
+DE GRUYTER   
+
+and what type of call they were responding to when the assault occurred, with what weapon w as used for the
+
+assault, and if there was bodily injury as a result of the assault. As research is mixed on type of call being the
+
+most dangerous (Ellis, Choi & Blaus, 1993; Hirschel, Dean & Lumb, 1994; S tanford & Mowry , 1990), this analysis
+
+takes a summation of assaults on all possible call categories within a given state-month. Since research argues
+
+that aggravated assaults are far less likely to be underreported (Kaminski, Jeﬀeris & Gu, 2003; Marg arita, 1980),
+
+we reduced our analysis to examining only those assaults in which an injury was reported.
+
+3.3.2 Independent variables
+
+3.3.2.1 Purchases of material and operational militarization
+
+As the 1033 program oﬀered items at reduced cost, equipment transfers will be counted by quantity bought.
+
+This present research will be analyzing the militarization of police through two speciﬁc indicators of police mil-
+
+itarization – of material and of operational (Kraska, 2007). Material militarization refers to visible qualities of
+
+militarization – weapons, body armor , and militar y clothing. Operational militarization is deﬁned as “ patterns
+
+of activity modeled after the military such as in the areas of intelligence, supervision, handling high-risk situa-
+
+tions, or war-making/rest oration ” (Kraska, 2007, p. 3) and therefore includes sonar , radar, photography , bomb
+
+kits, disaster relief, and communication-based devices. In short, operational militarization should encompass
+
+all purchases that assist in surveillance or high-risk scenarios.
+
+Equipment needs time to ship, unload, be trained, and potentially for it be noticed b y the public. T o account
+
+for this delay in eﬀect, all equipment purchases will be lagged 6 months in time. This will control for direc-
+
+tionality – purchases 6 months prior are being used to predict contemporary assaults. Because the equipment
+
+comes with a “ use it or lose it ” attachment (Walker , 2014), one can assume that the equipment has been used
+
+at least once (and therefore, should hav e an eﬀect) and stays with the department and can be considered stock-
+
+piled over time. Sensitivity analysis will be check ed at 3 and 12 month lagged eﬀects to substantiate any results
+
+from the proceeding analyses (Bove & Ga vrilova, 2017; W ickes, 2015).
+
+3.4 Analytic strategy
+
+We impro ve on prior research (Bov e & Gavrilova, 2017; Harris et al., 2017) by using cross-time negativ e bi-
+
+nomial regression model with state and month ﬁxed eﬀects (Dietz et al., 2003) to predict assaults on oﬀicers
+
+and purchases by the state. Negativ e binomial regressions were chosen, in comparison to instrumented panels
+
+(Harris et al., 2017) or linear regression (Bove & Ga vrilova, 2017), due to the nature of the dependent variable.
+
+The dependent variable of interest (assaults on oﬀicers) is a highly negativ ely skewed discrete count variable
+
+with overdispersion, ha ving a variance 162 times larger than the mean. Our choice of using month-level eﬀects,
+
+instead of year -level eﬀects (Bov e & Gavrilova, 2017; Harris et al., 2017), allows f or a more nuanced approach to
+
+these eﬀects and provides us with more power to justify our results with the increase in observations per state.
+
+And, as stated in Analytic Sample, since crime has a seasonal, inter-tem poral pattern within the year , using a
+
+month level analysis allows us a more nuanced examination of the results.
+
+The negative binomial model includes an exposure variable in order to account f or the fact that diﬀerent
+
+states may ha ve a diﬀerent amount of face-time with citizens, which w ould increase the risk of being assaulted.
+
+In all models, we use the violent crime rate as the exposure variable within the negative binomial model. States
+
+with higher crime rates should hav e higher volumes of calls, higher v olume of interactions with citizens, and
+
+more opportunity to expose citizens to their militarized equipment. Exposure variables adjust the dependent
+
+variable to become a rate of ev ents (assaults) per unit exposure (crime).
+
+We run three models. The ﬁrst model will be the number of assaults with injury police oﬀicers in state i
+
+at time t as predicted by 6-month prior purchases of both material and operational militarization equipment.
+
+Notably , purchases are not lost at the next month, but states continually acquire more equipment. A more
+
+meaningful measure of purchases is the cumulative summation of purchases for each state i at time t , which
+
+will be the second model, scaled to every 100 purchases. The coeﬀicients represent change in predicted assaults
+
+for every one hundred additional units of militarized equipment purchased since 1992, the ﬁrst year in which
+
+the dataset reports purchases. The third model will add a quadratic term to each purchase category to examine
+
+if there are nonlinear marginal eﬀects over time. All control and exposure v ariables will be used in all three
+
+models, along with state and month ﬁxed eﬀects.
+
+5
+
+Brought to you by | University of Saskatchewan
+
+Authenticated
+
+Download Date | 8/8/17 6:53 PM

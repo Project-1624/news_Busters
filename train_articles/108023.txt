@@ -1,0 +1,18 @@
+How Radar Detectors Work
+Two conventional radar guns Photo courtesy K40 Electronics
+
+­To understand how radar detectors work, you first have to know what they're dete­cting. The concept of measuring vehicle speed with radar is very simple. A basic speed gun is just a radio transmitter and receiver combined into one unit. A radio transmitter is a device that oscillates an electrical current so the voltage goes up and down at a certain frequency. This electricity generates electromagnetic energy, and when the current is oscillated, the energy travels through the air as an electromagnetic wave. A transmitter also has an amplifier that increases the intensity of the electromagnetic energy and an antenna that broadcasts it into the air.
+
+A radio receiver is just the reverse of the transmitter: It picks up electromagnetic waves with an antenna and converts them back into an electrical current. At its heart, radio is just the transmission of electromagnetic waves through space.
+
+Radar is the use of radio waves to detect and monitor various objects. The simplest function of radar is to tell you how far away an object is. To do this, the radar device emits a concentrated radio wave and listens for any echo. If there is an object in the path of the radio wave, it will reflect some of the electromagnetic energy, and the radio wave will bounce back to the radar device. Radio waves move through the air at a constant speed (the speed of light), so the radar device can calculate how far away the object is based on how long it takes the radio signal to return.
+
+This content is not compatible on this device.
+
+Radar can also be used to measure the speed of an object, due to a phenomenon called Doppler shift. Like sound waves, radio waves have a certain frequency, the number of oscillations per unit of time. When the radar gun and the car are both standing still, the echo will have the same wave frequency as the original signal. Each part of the signal is reflected when it reaches the car, mirroring the original signal exactly.
+
+But when the car is moving, each part of the radio signal is reflected at a different point in space, which changes the wave pattern. When the car is moving away from the radar gun, the second segment of the signal has to travel a greater distance to reach the car than the first segment of the signal. As you can see in the diagram below, this has the effect of "stretching out" the wave, or lowering its frequency. If the car is moving toward the radar gun, the second segment of the wave travels a shorter distance than the first segment before being reflected. As a result, the peaks and valleys of the wave get squeezed together: The frequency increases.
+
+Based on how much the frequency changes, a radar gun can calculate how quickly a car is moving toward it or away from it. If the radar gun is used inside a moving police car, its own movement must also be factored in. For example, if the police car is going 50 miles per hour and the gun detects that the target is moving away at 20 miles per hour, the target must be driving at 70 miles per hour. If the radar gun determines that the target is not moving toward or away from the police car, than the target is driving at exactly 50 miles per hour.
+
+Police officers have been catching speeders this way for more than 50 years. Recently, many police departments have added a new sort of speed detector, one that uses light instead of radio waves. In the next section, we'll see how these cutting-edge devices work.

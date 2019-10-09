@@ -1,0 +1,56 @@
+Which States Have the Worst Congressional Gerrymandering in the Country?
+This post, inspired in part by a 2014 Washington Post piece by Christopher Ingraham, is my first in a series dedicated to gerrymandering.
+
+With the 2020 Census right around the corner, there’s bound to be a lot of talk in the news over the coming months about redistricting. That’s the process, carried out every 10 years upon completion of the U.S. Census, by which states redraw the boundaries for their voting districts for the U.S. House of Representatives and for state legislatures.
+
+This is notable, in part, because if there’s going to be talk of redistricting, that means there’s inevitably also going to be talk of political gerrymandering, the practice of intentionally manipulating district boundaries to give one party an advantage over the other during upcoming elections.
+
+Ultimately, the goal in gerrymandering is to maximize the influence of supporters’ votes while minimizing the influence of opponents’ votes. This can be accomplished a number of ways, but two of the most common strategies are “cracking” and “packing.”
+
+When “cracking” is employed, the voting power of the political opposition is “cracked” by spreading supporters out across many districts, which thereby dilutes their influence in any one district in particular. With “packing,” on the other hand, the opposing party’s voters are “packed” into one or a few districts so as to reduce their influence throughout the rest of the state.
+
+Notably, these tactics aren’t necessarily mutually exclusive, so real-world gerrymandering within a given state will typically involve a mixture of approaches, such as packing opponents’ voters into some districts, which can be safely forfeited by the party in power, while cracking opposition support across many other districts to help ensure victory throughout the state more widely.
+
+Although gerrymandering is, in many cases for now, entirely legal, it’s probably fair to say it’s at least ethically dubious from the standpoint of a pure democracy. Indeed, critics contend gerrymandering essentially allows elected officials to pick their constituents, rather than the other way around. Nonetheless, examples of brazen gerrymandering abound.
+
+Take a look, for instance, at North Carolina’s 12th congressional district, which was drawn by Republican lawmakers after the last census in 2010.
+
+According to an analysis by Christopher Igraham in the Washington Post, this was the worst example of gerrymandering in the United States back in 2014. In fact, up until 2016, North Carolina was home to 3 of the top ten worst cases of congressional gerrymandering in the country.
+
+North Carolina might still hold the reputation as the worst gerrymandered state in the country if it weren’t for the fact that, back in February of 2016, a federal court panel struck down two of North Carolina’s congressional districts, NC 1 and NC 12, for being unconstitutional racial gerrymanders. Essentially, the panel concluded that North Carolina Republicans drew these districts in such a way as to dilute the influence of not only Democrats throughout the state, but also African Americans and other minority groups.
+
+Following this decision, state lawmakers were forced to go back and redraw the district maps early and in advance of the 2016 primaries. The Supreme Court later upheld this lower court ruling earlier this year.
+
+Where Are The Worst Gerrymandered Congressional Districts?
+
+So now that North Carolina has again redrawn the boundaries of it’s congressional districts, which state holds the title for having the worst, most gerrymandered congressional district in the country? And which state has the worst congressional gerrymandering overall?
+
+To find out, I analyzed geographic data, obtained from the U.S. Census, for each of the 435 congressional districts in the United States.
+
+To estimate the degree of gerrymandering in each district, I used a popular measure developed by Polsby and Popper, which quantifies a district’s compactness based on area and perimeter. Highly gerrymandered districts, with their squiggly, meandering boundaries and long tentacle-like arms, are usually less compact than non-gerrymandered districts, so they generally score rather poorly on this measure.
+
+Below is an interactive map showing where the most and least gerrymandered congressional districts in the country are located. Darker shades of blue indicate greater degrees of gerrymandering, whereas lighter shades of blue and white indicate lesser degrees of gerrymandering. Note that I excluded states with only two or fewer congressional districts, because the district boundaries in these states are likely determined more so by the shapes of the states themselves than by any attempt on the part of politicians to maintain a grasp on power.
+
+Also, in keeping with the methodology employed by Ingraham in his 2014 Washington Post piece, I re-scaled the values obtained from my calculations just a bit to ease interpretation. Unlike the scores resulting from a straightforward application of the Polsby and Popper test, the Gerrymandering scores presented below range from 0-100, with 0 indicating maximum compactness (i.e., no obvious sign of gerrymandering) and 100 indicating complete lack of compactness (i.e., probable evidence of gerrymandering).
+
+Scores range from 0-100, with 0 indicating “no obvious sign of gerrymandering” and 100 indicating “probable evidence of gerrymandering.” Darker shades of blue indicate greater degrees of gerrymandering, whereas lighter shades of blue and white indicate lesser degrees of gerrymandering. States with two or fewer congressional districts were excluded.
+
+My analysis revealed that, with a score of 96.78, Maryland’s 3rd congressional district is currently the worst example of congressional gerrymandering in the country.
+
+Overall State Rankings
+
+In addition to calculating scores for each congressional district, I also calculated, for each state, the average gerrymandering score across districts. Below is a rank-ordering of the states according to their average gerrymandering scores (shown in parentheses).
+
+Average Gerrymandering Scores For All States With More Than Two Congressional Districts
+
+Maryland (88.75) West Virginia (86.35) Louisiana (86.03) Pennsylvania (83.62) Virginia (81.72) Ohio (81.68) Kentucky (81.62) Illinois (81.34) Alabama (81.21) New Jersey (80.65) Tennessee (80.65) Texas (80.51) Arkansas (80.36) South Carolina (79.63) Massachusetts (78.42) California (76.85) Colorado (76.38) North Carolina (76.06) Connecticut (75.92) Oklahoma (75.13) Georgia (74.35) Missouri (73.91) Mississippi (73.68) Utah (72.96) Washington (72.92) Wisconsin (72.37) Michigan (72.11) Oregon (70.80) Arizona (70.71) Minnesota (69.04) New York (66.81) New Mexico (66.00) Nebraska (65.05) Iowa (65.04) Florida (64.60) Kansas (59.23) Indiana (56.41) Nevada (49.32)
+
+But Maryland, West Virginia, and Louisiana Are Not The Only Ones That Matter
+
+Finally, there’s one important caveat to keep in mind regarding all of this, and that is that the scores presented above merely reflect imperfect estimates of the degree of gerrymandering in each congressional district. As such, a state not included among those at the top of the list might nonetheless possess districts that have been intentionally drawn to favor one political party over the other. Political activists therefore shouldn’t assume that places like Maryland, West Virginia, and Louisiana are the only battlegrounds states that matter in this fight, and that gerrymandering is less of an issue than it used to be in states such as North Carolina, for instance.
+
+In fact, the recently redrawn congressional districts in North Carolina are being challenged in court right now. Moreover, Republican lawmakers in North Carolina have openly admitted that the latest congressional districts were, in fact, drawn to favor Republican candidates for office.
+
+Author
+
+Brian Kurilla is a psychological scientist with a Ph.D. in cognitive psychology. You can follow Brian on Twitter @briankurilla

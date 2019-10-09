@@ -1,0 +1,98 @@
+Documentation
+A food dollar represents a $1 expenditure on domestically produced food by U.S. consumers. The food dollar is allocated to expenditures on each of the various food commodities sold in proportions that represent their share of annual sales in the U.S. market. (See Food Prices, Expenditures & Costs for information on total U.S. food expenditures and U.S. Agricultural Trade for information on the import share of domestic food expenditures).
+
+The food dollar series divides the food dollar into a set of input component values. There are three primary series—the marketing bill series, the industry group series, and the primary factor series. For each primary food dollar series, the combined input component values are equal to the $1 output market value. The three series represent distinct perspectives on the sources of market value for the combined annual food dollar expenditures.
+
+This page provides information on:
+
+Marketing bill series
+
+The marketing bill series is based on sales proceeds. Proceeds from each food dollar expenditure are divided into two sub-components of market value:
+
+Farm share measures proceeds of farm commodity sales tied to a food dollar expenditure and sold to non-farm establishments. It does not include sales of farm commodities that are incorporated into other commodities and resold to a domestic farm industry—this eliminates double counting.
+
+measures proceeds of farm commodity sales tied to a food dollar expenditure and sold to non-farm establishments. It does not include sales of farm commodities that are incorporated into other commodities and resold to a domestic farm industry—this eliminates double counting. Marketing bill is the market value added to farm commodities that are embodied in a food dollar expenditure, measured as $1 minus the farm share.
+
+For calendar year 2017, the farm share was 14.6 cents of each food dollar expenditure, and the marketing bill was 85.4 cents, accounting for the remainder of the food dollar.
+
+Value Added Component Series—For establishments contributing to the U.S. food supply, value added for an establishment equals the proceeds from the sale of outputs minus the outlays for commodities purchased from other establishments. The sum of value added by all establishments that contribute to total food dollar purchases equals $1. The industry group and primary factor component series are based on this value added concept.
+
+Industry group series
+
+Industry groups are establishments grouped together by type of product or service provided. Twelve industry groupings are examined based on the importance of their contributions to the market value of food. For sub-contracting establishments—those not classified into one of the 12 industry groups—their value-added contributions are allocated across the 12 industry groups in proportion to the value of goods or services provided to each industry group. The 12 industry groups are:
+
+Agribusiness— all establishments producing farm inputs (except those described in other industry groups) such as seed, fertilizers, farm machinery, and farm services, and all subcontracting establishments.
+
+all establishments producing farm inputs (except those described in other industry groups) such as seed, fertilizers, farm machinery, and farm services, and all subcontracting establishments. Farm Production —all establishments classified within the agriculture, forestry, fishing, and hunting industry.
+
+—all establishments classified within the agriculture, forestry, fishing, and hunting industry. Food Processing— all establishments classified within the food and beverage manufacturing industries, and all subcontracting establishments.
+
+all establishments classified within the food and beverage manufacturing industries, and all subcontracting establishments. Packaging— all establishments classified within the packaging, container, and print manufacturing industries, and all subcontracting establishments.
+
+all establishments classified within the packaging, container, and print manufacturing industries, and all subcontracting establishments. Transportation— all establishments classified within the freight services industries, and all subcontracting establishments.
+
+all establishments classified within the freight services industries, and all subcontracting establishments. Wholesale Trade— all non-retail establishments that resell products to other establishments for the purpose of contributing to the U.S. food supply, and all subcontracting establishments.
+
+all non-retail establishments that resell products to other establishments for the purpose of contributing to the U.S. food supply, and all subcontracting establishments. Retail Trade— all food retailing and related establishments, and all subcontracting establishments.
+
+all food retailing and related establishments, and all subcontracting establishments. Foodservice —all eating, drinking, and related establishments, and all subcontracting establishments.
+
+—all eating, drinking, and related establishments, and all subcontracting establishments. Energy— oil and coal mining, gas and electric utilities, refineries, and related establishments, and all subcontracting establishments.
+
+oil and coal mining, gas and electric utilities, refineries, and related establishments, and all subcontracting establishments. Finance and Insurance— all financial services and insurance carrier establishments, and all subcontracting establishments.
+
+all financial services and insurance carrier establishments, and all subcontracting establishments. Advertising— all advertising services and related establishments, and all subcontracting establishments.
+
+all advertising services and related establishments, and all subcontracting establishments. Legal and Accounting—establishments providing legal, accounting, and bookkeeping services, and all subcontracting establishments.
+
+For calendar year 2017, farm production value added was 7.8 cents of each food dollar expenditure, implying that 6.8 cents from farm commodity sales (from the 14.6-cent farm share) was used to purchase products from the other industry groups. The 2017 industry group value-added food dollar also indicates that about 49.3 cents of the food dollar value covers the services from food retailers (12.6 cents) and foodservice establishments (36.7 cents). The use of energy throughout the food supply chain accounted for 3.8 cents of every 2017 food dollar expenditure. Advertising accounted for 2.6 cents of a food dollar expenditure.
+
+Primary factor component series
+
+Primary factors are assets employed by establishments to use or transform products purchased from other establishments (intermediate inputs) to produce and market a different product. These assets add market value to the purchased intermediate products. In the food dollar accounts, value added is recorded as income to primary factors as follows:
+
+Domestic hired labor is allocated salary and benefits for services on behalf of a domestic establishment that directs sales towards fulfilling the supply of food to the U.S. market.
+
+for services on behalf of a domestic establishment that directs sales towards fulfilling the supply of food to the U.S. market. Property income —machinery, equipment, structures, natural resources, product inventory, and other tangible or intangible assets—is allocated compensation to various owners for services on behalf of a domestic establishment that directs sales to the U.S. food supply.
+
+—machinery, equipment, structures, natural resources, product inventory, and other tangible or intangible assets—is allocated compensation to various owners for services on behalf of a domestic establishment that directs sales to the U.S. food supply. Output taxes— excise, sales, property, and severance taxes (less subsidies), customs duties, and non-tax fees are levied by Federal, State, and local governments independently of establishment dispersals to primary factor owners. Taxes that are tied to outlays for domestic labor and capital, such as income-based taxes, are not reported separately but are included in the primary domestic factor returns.
+
+excise, sales, property, and severance taxes (less subsidies), customs duties, and non-tax fees are levied by Federal, State, and local governments independently of establishment dispersals to primary factor owners. Taxes that are tied to outlays for domestic labor and capital, such as income-based taxes, are not reported separately but are included in the primary domestic factor returns. Imports—international assets are compensated for their services on behalf of non-domestic establishments whose products are imported and are directed to supplying U.S.-produced food to the U.S. market. Because these services cannot be traced to their primary factor sources, their values are measured in the form of the products imported and their value added is assigned to industry groups with which they are associated.
+
+For calendar year 2017, the primary factor series indicates that 50.5 cents of every food dollar expenditure goes to the salary and benefits of domestic workers, 35.3 cents is dispensed as property income, and the remainder is split between U.S. government (output taxes) and international assets (imports).
+
+Underlying detailed value added data
+
+Cross-tabulated statistics of primary factor value added by industry group are displayed in table form because these data provide more detail than can effectively be displayed in a food dollar visual. The underlying detailed value-added data for 2017 are presented below:
+
+Industry Group Value Added by Primary Factors, 2017 Industry group Total Imports Output taxes Property income Salary and benefits All industries 100.0¢ 5.0¢ 9.2¢ 35.3¢ 50.5¢ Agribusiness 2.1¢ 0.5¢ 0.1¢ 1.0¢ 0.6¢ Farm production 7.8¢ 0.8¢ 0.2¢ 5.3¢ 1.4¢ Food processing 15.0¢ 0.8¢ 0.8¢ 5.8¢ 7.7¢ Packaging 2.3¢ 0.6¢ 0.1¢ 0.6¢ 1.0¢ Transportation 3.5¢ 0.2¢ 0.1¢ 1.2¢ 1.9¢ Wholesale trade 9.1¢ 0.0¢ 1.6¢ 3.1¢ 4.5¢ Retail trade 12.6¢ 0.3¢ 2.2¢ 3.5¢ 6.6¢ Foodservice 36.7¢ 0.6¢ 3.5¢ 10.2¢ 22.4¢ Energy 3.8¢ 1.0¢ 0.4¢ 1.6¢ 0.8¢ Finance and insurance 3.2¢ 0.1¢ 0.1¢ 1.3¢ 1.7¢ Advertising 2.6¢ 0.1¢ 0.1¢ 1.2¢ 1.1¢ Legal and accounting 1.3¢ 0.0¢ 0.1¢ 0.5¢ 0.7¢ Note: Values may not add to totals due to rounding.
+
+Source: USDA, Economic Research Service, Food Dollar Series, 2019.
+
+Food dollar data tables are available in Excel and csv formats:
+
+Data sources and estimation methodology
+
+ERS's national input-output food dollar time series is based on three data sources:
+
+Annual input-output (IO) data published every even-numbered year by the Bureau of Labor Statistics;
+
+Data from the 1997, 2002, and 2007 detailed U.S. benchmark IO accounts published by the Bureau of Economic Analysis (BEA); and
+
+IO data published annually by the BEA.
+
+Using conventional IO analysis, the annual food marketing bill series is estimated for all available years from 1993 to 2017. The current data for 2017 are preliminary and subject to revision. The real (inflation-adjusted) 2016 data are also available.
+
+Supply chain IO analysis is used to determine where food dollars end up (as income) by tracing the market value-added measures for 12 supply chain industry groups (industry group food dollar series) and for primary production factors (primary factor food dollar series). All estimates are reported in both nominal (current price) and real (inflation-adjusted) dollars.
+
+With data for the 1997, 2002, and 2007 detailed U.S. benchmark IO accounts forming the basis for ERS's food dollar series, BLS's IO data are used to index all of the 1997 food dollar series for annual estimates for 1993 to 1996. BLS IO data are used to index all 2007 food dollar series forward to annual estimates for the years 2008 to the present. The same BLS IO data are used to produce a chain-weighted index for each food dollar series for the years between benchmark estimates—1998 to 2006.
+
+With the BEA release of the 2007 detailed benchmark IO account in early 2014, a 2007 ERS benchmark was added for each food dollar series; the same chain-weighted indexing methods were applied to update series data for the years 2003 to 2006, while the indexing procedures currently used to update the 2002 benchmark series data were applied to the 2007 benchmark. Additionally, all series data for the years 1993 to 2002 were revised due to minor changes in the estimation methodology. For more detail on these data sources and estimation methods, see the 2011 report below:
+
+To update BLS annual IO data released in even-numbered years (or the base year account) to an interim year account reported in odd-numbered years, ERS uses a mathematical programming model to reconcile the more detailed base year account with the less detailed interim year account. The mechanics of this process are the same as is described in the ERS report A Revised and Expanded Food Dollar Series: A Better Understanding of Our Food Costs (link above, see page 39, equations A22 to A24), with the added dimension of bringing the accounts forward one year.
+
+These additional articles provide useful information about ERS's estimation methodology:
+
+Recommended citation
+
+Economic Research Service (ERS), U.S. Department of Agriculture (USDA). Food Dollar Series, https://www.ers.usda.gov/data-products/food-dollar-series/ (March 2019).

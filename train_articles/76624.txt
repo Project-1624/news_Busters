@@ -1,0 +1,89 @@
+Immigration Policy and Its Possible Effects on U.S. Agriculture
+
+Highlights: Policymakers are considering changes to U.S. immigration law that would affect the market for hired farm labor--including mandatory use of an Internet-based employment eligibility verification system and an expanded program for temporary nonimmigrant foreign-born farmworkers.
+
+Labor is an important input to U.S. agriculture--accounting for about 17 percent of the sector's variable production expenses and roughly 40 percent of such expenses for farms specializing in fruit, vegetables, or nursery products.
+
+ERS analysis quantifies the possible effects of a decrease in the supply of unauthorized labor in all sectors of the U.S. economy--including agriculture--and an increase in the number of temporary nonimmigrant foreign-born farmworkers.
+
+The 112th Congress is considering a variety of proposed changes to U.S. immigration law as it relates to foreign-born farmworkers. Some of these proposals would create additional opportunities for persons from other countries to work legally in U.S. agriculture, while others would use different methods to enforce existing U.S. immigration restrictions.
+
+Any of these proposals, if enacted, is likely to have a substantial impact on U.S. agriculture and the market for hired farm labor. Labor is a major input for many agricultural sectors, and persons not authorized to work legally in the United States constitute a large share of the farmworkers employed by U.S. agriculture.
+
+A recent ERS study considers two possible changes in the supply of foreign-born farmworkers: (1) a 156,000-person increase in the number of temporary nonimmigrant foreign-born farmworkers, such as those admitted under the current H-2A Temporary Agricultural Program, and (2) a 5.8-million-person reduction in the number of unauthorized workers in all sectors of the economy, including agriculture. The study quantifies the possible effects of these hypothetical scenarios on agricultural output and exports, the agricultural and nonagricultural job markets, and the economy as a whole.
+
+Farm Labor's Importance to U.S. Agriculture
+
+During 2006-10, hired farm labor accounted for 17 percent of variable production expenses in U.S. agriculture and even higher proportions of such expenses in more labor-intensive sectors, such as vegetables (35 percent), nursery products (46 percent), and fruit (48 percent). The farm labor situation is complicated, however, by the fact that many U.S. farmworkers lack the immigration status needed to work legally in this country. Analysis conducted by Daniel Carroll, Annie Georges, and Russell Saltz using the U.S. Department of Labor's National Agricultural Workers Survey indicates that over the past 15 years, about half of the hired workers employed in U.S. crop agriculture were unauthorized, with the overwhelming majority of these workers coming from Mexico. Similar survey-based information on immigration status is not available for workers in livestock and dairy production.
+
+What Has Been Introduced in the 112th Congress?
+
+Several bills related to immigration and farmworkers were introduced in the 112th Congress, two of which are discussed here. The Comprehensive Immigration Reform Act of 2011 (S. 1258) incorporates many elements of the Agricultural Job Opportunities, Benefits, and Security Act (AgJOBS), a decade-old proposal crafted by worker advocates and agricultural employers that was last introduced as a stand-alone bill in 2009. Several of its provisions make changes to the Federal Government's H-2A Temporary Agricultural Program that might increase the program's attractiveness to prospective employers. The H-2A program, as described by the U.S. Department of Labor, 'establishes a means by which agricultural employers who anticipate a shortage of domestic workers can bring in nonimmigrant foreign workers to the U.S. to perform agricultural labor or services of a temporary or seasonal nature.' In fiscal year 2011, a total of 68,088 positions in the program were certified. Use of the H-2A program has decreased in recent years, and the number of certifications now corresponds with roughly one-tenth of hired farm laborers, according to USDA's Farm Labor Survey.
+
+One of the bill's proposed modifications to the H-2A program concerns the adverse effect wage rate (AEWR), a wage rate that is determined by the U.S. Department of Labor so as not to affect adversely the employment opportunities of U.S. citizens and legal residents who want to perform farm work. Employers must pay their H-2A workers the highest of the Federal or State minimum wage, the prevailing hourly or piece rate, the agreed-upon collective bargaining rate, or the AEWR. For 2012, the AEWRs range from $9.30 per hour (Arkansas) to $12.26 per hour (Hawaii) and average $10.40 per hour for the 50 States.
+
+The current bill would freeze the AEWR for each State at its January 1, 2011, level. If Congress does not establish a new wage standard for the H-2A program within 3 years of the bill's enactment, then the AEWR would rise by the average of the consumer price index during the previous 2 years but by no more than 4 percent on an annual basis.
+
+Another proposed modification to the H-2A program would allow goat herders, sheep herders, and dairy workers to participate and eventually apply for permanent residency under certain conditions. Currently, the H-2A program is limited to temporary or seasonal workers, which largely excludes dairy, livestock, and nursery operations from participating.
+
+A second bill introduced to the 112th Congress, the Legal Workforce Act (H.R. 2885), would require all employers, agricultural and nonagricultural, to use E-Verify to confirm the employment eligibility of new hires. E-Verify is an Internet-based system operated by the U.S. Department of Homeland Security in partnership with the Social Security Administration. The system enables employers to determine the eligibility of their employees to work in the United States using the information reported by employees on their Form I-9, Employment Eligibility Verification.
+
+The Legal Workforce Act would give agricultural employers 36 months to comply with its E-Verify mandate. Currently, the Federal Government does not require all private-sector employers to confirm the eligibility of their employees using E-Verify, although several State governments do. Some farm groups have expressed concern that mandating E-Verify—without some sort of new or expanded program for foreign-born, agricultural workers who are not currently authorized to work in the United States—would adversely affect many agricultural employers.
+
+Simulation Analysis of Immigration Policy and U.S. Agriculture
+
+ERS has not attempted to estimate the exact effects of the two proposed bills mentioned in this article. Instead, ERS has used a computable general equilibrium (CGE) model to analyze the impact on the U.S. economy under two alternative scenarios in which the supply of foreign-born labor increases or decreases appreciably. A CGE model is a type of economic model that uses interrelated equations to represent an entire economy—agricultural and nonagricultural—and the interactions among its parts.
+
+The model used in ERS's study—the U.S. Applied General Equilibrium (USAGE) Model—differentiates the U.S. workforce into three categories according to immigration status:
+
+U.S. born;
+
+foreign-born, permanent resident: a person with the U.S. immigration status of permanent resident (including naturalized citizens) and thus legally authorized to work in the United States; and
+
+foreign-born, not a permanent resident: a person without the U.S. immigration status of permanent residency.
+
+The majority of persons in this third category are not legally authorized to work in the United States. For this reason, the term 'unauthorized' is sometimes used to refer to people in the third category, and the term 'authorized' is sometimes used to refer to people in the first and second categories. The third category, however, also includes foreign-born persons with nonimmigrant visas, such as H-2A workers, who are legally authorized to work in the United States during a specified period but are not permanent residents of the United States.
+
+With these categories in place, researchers used the model to generate longrun (15-year) economic projections for the United States under a base forecast and two alternative labor supply scenarios--one in which the number of temporary nonimmigrant, foreign-born farmworkers increases and one in which the number of unauthorized workers in all sectors of the economy decreases. The base forecast simulates how the economy would evolve under current laws and policies and serves as a benchmark for evaluating the two scenarios.
+
+Like many CGE models, the USAGE model achieves a longrun equilibrium in which all labor and capital resources are nearly fully employed. Thus, the simulations reported here do not apply to the current economic environment, in which about 8.1 percent of the U.S. workforce is unemployed (as of April 2012). Instead, the model results describe hypothetical longrun scenarios in which the U.S. economy is much closer to full employment and has an unemployment rate of about 5 percent.
+
+In the first scenario (increased farm labor supply), the number of temporary nonimmigrant foreign-born farmworkers is assumed to increase by about 30,000 in Year 1 of the simulation and 83,000 in Year 2. The growth rate for the number of such workers declines in subsequent years, with participation reaching 156,000 additional workers in Year 15. The additional workers are assumed to be available to all agricultural sectors, including those that have been traditionally excluded by the H-2A program, and no constraint similar to the AEWR is placed on their wages.
+
+In the second scenario (decreased unauthorized labor supply), the unauthorized workforce—agricultural and nonagricultural—is assumed to decrease by 2.1 million in absolute terms over the first 5 years of the scenario. Under this scenario in Year 5, the unauthorized workforce in the U.S. economy as a whole is 4.0 million people smaller than in the base forecast. Growth in the unauthorized workforce resumes thereafter but at a slower pace than in the base forecast. By Year 15, the projected size of the unauthorized workforce is 8.5 million, compared with 14.3 million in the base forecast, a difference of 5.8 million, or 40 percent.
+
+Modeling Results
+
+The results from the increased farm labor supply scenario conform to basic economic principles when the supply of one factor or input of production—such as labor, land, or machinery—becomes more plentiful. Greater availability of temporary nonimmigrant foreign-born farmworkers leads to their increased employment at lower wages. This, in turn, results in longrun increases in agricultural output and exports, above and beyond the growth projected by the base forecast. The increases in output and exports are generally larger in labor-intensive sectors such as fruit, tree nuts, vegetables, and nursery products. By Year 15 of the scenario, these four sectors experience a 1.1- to 2.0-percent increase in output and a 1.7- to 3.2-percent increase in exports, relative to the base forecast. Less labor-intensive sectors, such as grains, oilseeds, and livestock production, tend to have smaller increases, ranging from 0.1 to 1.5 percent for output and from 0.2 to 2.6 percent for exports.
+
+Accompanying this additional growth in agricultural output and employment, however, would be a relative decrease of about 5.7 percent in the number of U.S.-born and other permanent residents employed as farmworkers and a 3.4-percent relative decrease in their wage rate. In the model, U.S.-born and foreign-born permanent resident workers are assumed to compete with foreign-born temporary nonimmigrant workers in the labor market. A 3.4-percent relative decrease in the wage rate does not mean that the wage rate is projected to fall by 3.4 percent over the 15-year period of the projection. Instead, it means that the wage rate in Year 15 is projected to be 3.4 percent lower in the increased farm labor supply scenario than in the base forecast.
+
+The longrun results from the decreased unauthorized labor supply scenario show a reduction in the labor supply to agriculture with effects on agricultural output and exports that are opposite in sign from the increased farm labor supply scenario and larger in magnitude. Fruit, tree nuts, vegetables, and nursery production are again among the most affected sectors but with longrun relative declines of 2.0 to 5.4 percent in output and 2.5 to 9.3 percent in exports. These effects tend to be smaller in other, less labor-intensive, parts of agriculture—a 1.6- to 4.9-percent decrease in output and a 0.3- to 7.4-percent decrease in exports.
+
+Changes in labor supply affect output, exports, employment, and earnings in the long run (percent change) Variable
+
+(assumed impact on labor supply) Scenario:
+
+Increased farm labor supply
+
+(+ 156,000 temporary nonimmigrant, foreign-born farm­workers) Scenario:
+
+Decreased unauthorized labor supply
+
+(- 5.8 million unauthorized workers, farm and nonfarm) Fruit, tree nuts, vegetables, nurseries Output + 1.1 to 2.0 -2.0 to -5.4 Exports + 1.7 to 3.2 -2.5 to -9.3 Other agricultural sectors Output + 0.1 to 1.5 -1.6 to -4.9 Exports + 0.2 to 2.6 -0.3 to -7.4 Employment in agriculture + 1.7 -3.4 to -5.5 U.S.-born & foreign-born, permanent resident - 5.7 +2.4 to 4.0 Foreign-born, not a permanent resident + 32.4 -34.1 to -38.8 Earnings per job in agriculture - 4.4 + 3.9 to 9.9 U.S.-born & foreign-born, permanent resident - 3.4 + 3.3 to 7.5 Foreign-born, not a permanent resident - 10.0 + 13.6 to 39.8 Nonfarm employment of U.S.-born and other permanent residents Lower paying occupations Negligible effects on nonfarm economy +2.2 to 3.2 Higher paying occupations* Negligible effects on nonfarm economy -0.5 to -0.7 Nonfarm earnings per job of U.S.-born and other permanent residents Lower paying occupations Negligible effects on nonfarm economy +1.7 to 4.5 Higher paying occupations* Negligible effects on nonfarm economy -0.2 to -0.6 GNP, less payments to people without permanent residency status Negligible effects on nonfarm economy -0.9 to -1.1 *Annual income of $20,000 or more.
+
+GNP = Gross National Product.
+
+A negligible effect is an increase or decrease of less than 0.05 percent.
+
+Results are estimates of percent difference in the outcome between the base forecast and the alternative scenario in Year 15 of the policy period.
+
+Source: USDA, Economic Research Service.
+
+As part of the decreased unauthorized labor supply scenario, the number of unauthorized workers employed as farmworkers falls by between 34.1 and 38.8 percent, depending on modeling assumptions, relative to the base forecast for Year 15. At the same time, the number of farmworkers who are either U.S.-born or foreign-born, permanent residents increases by about 2.4 to 4.0 percent in the long run, compared with the base forecast, and their wage rate increases by 3.3 to 7.5 percent. However, the increased farm employment of U.S.-born and other permanent resident workers is not sufficient to offset the decrease in unauthorized farmworkers. As a result, the total number of farmworkers decreases by 3.4 to 5.5 percent.
+
+Some observers question whether a reduction in the number of unauthorized workers would benefit or harm U.S.-born and other permanent resident workers. Model results suggest that wages would rise (relative to the base forecast) in some lower paying occupations where unauthorized workers are common, decrease slightly in many higher paying occupations, and decrease on average.
+
+Several factors account for the slight decrease in earnings. First, the decrease in the supply of unauthorized labor leads to a longrun relative decrease in production, not just in agriculture but in all sectors of the economy. This, in turn, reduces incomes to many complementary factors of production, including U.S.-born and foreign-born, permanent resident workers in higher paying occupations. Second, with the departure of so many unauthorized workers, the occupational distribution of U.S.-born and other permanent resident workers necessarily shifts in the direction of more hired farm work and other lower paying occupations, such as food service, child care, and housekeeping, and away from higher paying occupations (a much larger category). The effect of this compositional change is to reduce the average real wage for U.S.-born and foreign-born, permanent resident workers in all sectors of the economy, even as real wages in many lower paying occupations rise.
+
+In the long term, overall gross national product accruing to U.S.-born and foreign-born, permanent residents would fall by about 1 percent, compared with the base forecast. This result indicates that the negative economic effects generated by the departure of a significant portion of the labor force outweigh the positive effects on the wages of U.S.-born workers and other permanent residents employed in lower paying occupations. This conclusion, however, might be different in a model that reproduced current levels of unemployment, rather than describing a longrun equilibrium in which the economy is much closer to full employment.

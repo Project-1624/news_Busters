@@ -1,0 +1,76 @@
+AT&T, Verizon And Sprint Push Back Against The NSA, Too
+ASSOCIATED PRESS
+
+WASHINGTON (AP) — When Apple, Google, Microsoft and other tech giants united in outrage last summer over the National Security Agency's unfettered spying, telecommunications giants such as AT&T, Verizon and Sprint —whose customers are also the targets of secret government spying— remained noticeably mum.
+
+But now the phone companies are speaking up. In closed-door meetings with policymakers they are taking a less accommodating stance with government and rattling the historically tight bond between telecom and the surveillance community.
+
+"It's been extremely unusual for telecoms to resist any requests from the government," says software engineer Zaki Manian of Palo Alto, who advocates against mass government surveillance.
+
+"The telecom companies have a long history of providing raw data dumps to the government and typically taking some money in return and calling it a day," Manian says.
+
+Technology companies typically comply with requests for information about individual users but resist demands for bulk data. But telecommunications companies share a connection with government unlike that of any other industry.
+
+They "have been tied to our national security agencies for all of their history," says Susan Crawford, a visiting professor at Harvard Law School who was a special assistant to President Barack Obama for science, technology and innovation policy.
+
+During World War II and for decades after, telegraph companies such as Western Union —which was controlled by AT&T— turned over copies of international telegrams originating in the U.S. to the NSA and its predecessor agency. In the 1950s, 60s and 70s, government agents reviewed tens of thousands of telegrams each month under "Project Shamrock," deemed by lawmakers to be the biggest intelligence-intercept operation in U.S. history.
+
+Since the earliest days of wiretapping in the late 19th century, telephone companies have assisted law enforcement and intelligence agencies. For decades, a series of laws cemented the relationship, including a 1994 wiretapping act that requires telecom companies to build networks that allow law enforcement to eavesdrop in real time.
+
+But 2014 marks a pivotal moment for the telecom industry. White House policymakers are considering significant changes as public debate about surveillance heightens in the aftermath of NSA spying exposed by former agency contractor Edward Snowden.
+
+The central pillar of Obama's plan to overhaul the surveillance programs calls for shifting storage of Americans' phone data from the government to telecom companies or an independent third party. But telecoms don't want that job.
+
+Phone industry executives have privately told administration officials they don't like the idea of storing phone records gathered by the NSA because they don't want to become the government's data minders. Companies say they are wary of being forced to standardize their own data collection to conform to the NSA's needs.
+
+Industry officials spoke on condition of anonymity because they were not authorized to comment on their private discussions with the administration.
+
+CTIA-The Wireless Association, a wireless industry trade group, says the balance between national security and civil liberties "can be achieved without the imposition of data retention mandates that obligate carriers to keep customer information any longer than necessary for legitimate business purposes."
+
+The NSA's massive collection of calling records under secret court orders was revealed by Snowden last June in the first of many disclosures about surveillance programs based on classified documents. Snowden was granted asylum in Russia in August and faces espionage charges in the U.S.
+
+The Snowden documents also revealed NSA programs that scoop up data from the nation's Internet companies and tap into Google and Yahoo's data-center communications overseas.
+
+The tech giants lashed out when news broke that their customers' data was being tapped, escalating pressure on Obama to curb the NSA programs. And on Jan. 27, the government announced it will allow five companies — Google Inc., Microsoft Corp., Yahoo Inc., Facebook Inc. and LinkedIn Corp. — to share more information with the public about how often they receive orders to assist national security investigations.
+
+Meanwhile, telecom companies remained largely on the sidelines. An opinion from the secret Foreign Intelligence Surveillance Court, which was declassified in September, said no telecom company that has received an order to turn over bulk phone records has challenged the directive.
+
+By contrast, at least one tech company asked the court to make public its orders to turn over customer data so the company could show it had fought them. Yahoo said in a filing with the court last year that such disclosure would allow it to "demonstrate that it objected strenuously to the directives that are now the subject of debate, and objected at every stage of the proceeding," but that its objections were overruled.
+
+The Snowden documents, which revealed that the NSA has been collecting the phone records of hundreds of millions of Americans, include an April 2013 court order granting the NSA permission to collect Verizon customers' records on an "ongoing, daily basis." The order was good until July 19, according to a report by Britain's Guardian newspaper.
+
+Intelligence experts say the NSA program also swept up the records of other phone companies.
+
+Verizon's General Counsel Randal Milch says the government should publicly disclose the number of demands it makes for customer data. In December, responding to pressure from major shareholders, AT&T and Verizon said they will publish reports on the number of law enforcement requests for customer information, a disclosure Internet companies already make. Verizon's first report, released in January, showed it received at least 1,000 government requests for customer information last year.
+
+When asked why they've remained mostly silent about revelations documenting their cooperation with the government, Verizon referred The Associated Press to recent blogs by Milch.
+
+"While we have a legal obligation to provide customer information to law enforcement in response to lawful demands, we take seriously our duty to provide such information only when authorized by law," he wrote on Jan. 22.
+
+Milch wrote on Jan. 27 that authorities can only ask for records stored in the U.S., and that if the government tries to obtain customer data stored outside the U.S., "we would challenge that in court."
+
+Sprint referred the AP to the CTIA-The Wireless Association's statement that welcomes the Obama administration's efforts "to start a dialogue to address these important issues."
+
+Although the agreement announced Jan. 27 only applies to five Internet companies, AT&T spokesman Mark Siegel implied it could affect telecom carriers as well.
+
+"We welcome the opportunity to provide more transparency into government data requests and will take this new flexibility into account when we issue our initial transparency report, which will happen shortly," Siegel says.
+
+When asked if AT&T interpreted the ruling to apply to the company as well, AT&T refused further comment.
+
+"They're in very different situations, the telecoms versus the tech firms," says Daniel Castro, a senior analyst with the Information Technology and Innovation Foundation, noting that historically their relations have been very different.
+
+The much-younger Internet companies evolved in a new technological era, offering an array of electronic services in a constantly changing marketplace. The phone companies, functioning as communications utilities, developed in tandem with other traditional industries like railroads and were always closely regulated by the government.
+
+Privacy proponents took note of the widely differing responses to the Snowden revelations.
+
+"We've been disappointed to see how silent the telecoms have been. They're the ones most directly implicated by the disclosures from Snowden, yet they haven't even responded," says Matt Simons, a director at ThoughtWorks, a software design firm that advocates for social change.
+
+But some observers say they're not surprised how easily the NSA gets data from the telecoms.
+
+Critics from privacy organizations including the ACLU and the Electronic Frontier Foundation say telecom companies are unlikely to resist the government because they rely heavily on federal contracts for revenue, they need its approval for the mergers they seek, and they crave spectrum, the invisible real estate on the airwaves that the government auctions off to mobile networks.
+
+While defense contractors are the largest federal contractors, Verizon Communications Inc., with $2.1 billion in federal contracts, ranked 14th for technology firms last year, according to an analysis of the Federal Contract Data System by Washington Technology, an online service for government contractors and tech firms. AT&T Inc., with $1.6 billion in contracts ranked 17th, and Sprint Corp., with $601 million in contracts, ranked 38th. Internet companies like Google, Facebook and Microsoft don't make the top 100.
+
+__
+
+AP National Writer Martha Mendoza reported from San Jose, Calif.

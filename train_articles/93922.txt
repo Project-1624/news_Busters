@@ -1,0 +1,52 @@
+Congressman Lashes Out in Obamacare Hearing: This Is a 'Monkey Court!'
+Decorum broke down during the contentious House hearing over the buggy Healthcare.gov website on Thursday morning. Republican Rep. Joe Barton of Texas charged the witnesses with a violation of the law; New Jersey Rep. Frank Pallone pushed back, calling the hearing a "monkey court."
+
+Barton's critique focused on a portion of the source code of the insurance exchange website. In the code, Barton pointed out, is a line reading, "You have no reasonable expectation of privacy regarding any communication or data transiting or stored on this information system." Barton asked the witness from CGI Federal how that stipulation could be compliant with the Health Insurance Portability and Accountability Act of 1996. That law set strict rules around sharing personal health information.
+
+"How in the world can this be HIPAA compliant," Barton asked, "when HIPAA is designed to protect the patient's privacy and this explicitly says in order to continue you have to accept this condition that you have no privacy — no reasonable expectation of privacy?"
+
+Barton: You told Rep. Blackburn that [the site] was HIPAA compliant. You know that's not hipaa compliant. You admit that you knew [that language] was in there. … You're telling every American that you sign up with this or even attempt to, you have no reasonable expectation of privacy. that is a direct contradiction to HIPAA and you know it. yes or no?
+
+
+
+Cheryl Campbell of CGI: … That is a [HHS / Centers for Medicare and Medicaid] call. That is not a contractor call.
+
+
+
+Barton: To break the law? You're now saying that CMS made a decision to break the law, do you agree with in a decision?
+
+There are several ways in which Barton's analysis is incorrect. The first is that Barton says the language is "hidden" — because it's in the source code. "Source code," for those who don't know, is the tagged language that tells a browser how to display a website. It's "hidden" only because it's information about the web page, not the content of the page itself. Meaning it doesn't show up on the page, meaning that there's no way it could even be legally enforceable.
+
+Not only that, but the language, as detailed by the conservative Weekly Standard, is itself commented out. Developers will occasionally put marks around lines of code telling the computer, in essence, "ignore this." (Why? Often developers will leave notes like "// Section two begins here" to make code easier to scan.) In this case, the language was likely commented out because the document, a fairly standard "Terms and Conditions" page, was repurposed form another project. Take standard legal language, comment out the parts you won't use, and done. (Update: Expert Clay Johnson suggests that the use of a template is exactly what happened. It wasn't commented out, though — just never activated by the code to appear.)
+
+Barton is also confusing two types of privacy: the privacy afforded under HIPAA (discussed below) and the privacy that is necessary for online communication. Earlier this year, Google came under fire when it was reported that its attorneys argued that GMail users didn't have a reasonable expectation of privacy. As The Verge pointed out, this is a fairly common legal stipulation that allows online companies to process information submitted online. When you send your emails to Google, you acknowledge that Google has a right to see who sent the message and where it's going, and so on. It would be hard to maintain that information privately and have your email get to its destination! The language commented out in the source code of one page of Healthcare.gov is almost certainly similar in its intent. The witness from CGI Federal mentioned none of this.
+
+When Barton wrapped up, Pallone jumped in. First, he pointed out that there was no legal violation.
+
+Pallone: I started out in my opening statement saying there was no legitimacy to this hearing and the last line of the questioning certainly confirms is that.
+
+
+
+HIPAA only applies when there's health information being provided. That's not in play here today. No health information is required in the application process. And why is that? Because pre-existing conditions don't matter! So once again, here we have my Republican colleagues trying to scare everybody —
+
+
+
+Barton, interrupting: If the gentleman will yield?
+
+
+
+Pallone: No, I will not yield to this monkey court or whatever —
+
+
+
+Barton: This is not a monkey court!
+
+Pallone's point is valid: There is no personal health information submitted to the Healthcare.gov site — though other personal information is.
+
+One of the problems with Healthcare.gov is that it is complex, has a large number of interlocking parts. Barton's critique identified one of the little bits of messiness that, at its heart, is unimportant. But given the contentiousness of the debate over Obamacare — again on display on Thursday — that line of attack might spread.
+
+Photo: Barton in 2010. (AP)
+
+Want to add to this story? Let us know in comments or send an email to the author at pbump at theatlantic dot com. You can share ideas for stories on the Open Wire.
+
+Philip Bump

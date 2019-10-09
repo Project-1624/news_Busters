@@ -1,0 +1,33 @@
+Ultrasupercritical
+
+Increasing the temperature and pressure of steam improves the efficiency of boilers and turbines that use steam as the working fluid. These higher efficiency boilers and turbines require less coal and produce less greenhouse gases. Identifying materials that can operate for long periods of time at extreme temperatures and pressures is a major goal of NETL’s Advanced Research Materials Program.
+
+To understand the terminology of boilers and turbines, it is first necessary to understand the basics of the water/steam phase diagram (see Figure 1). The normal boiling point (nbp) of water occurs at 1 atmosphere (0.1 MPa or 14.7 psi) pressure and 100 °C (212 °F). Increasing the temperature and pressure above these levels causes water and steam to coexist as two phases in the subcritical range, following the curve labeled AC in the phase diagram. (Currently operating subcritical coal-fired power plants in the United States have an average efficiency of 35 percent [HHV]). Point C, which occurs at 374 oC/ 22.1 MPa (705 oF/3,208 psi), is called the critical point of water. Here liquid water and steam become indistinguishable (this is evident in the lack of a black phase separation line above Point C in the phase diagram). Increasing the temperature and pressure above the critical point pushes steam into the supercritical (SC) range. Many of the large pulverized coal power plants in existence today produce supercritical steam, and have an efficiency of a little more than 40 percent.
+
+t
+
+But the phase diagram does not stop there (even though it looks like it does in Figure 1). Further increases in temperature and pressure produce ultrasupercritical (USC) steam. Today, NETL scientists and engineers, as well as researchers around the world, are trying to develop systems that work in the USC range around 760 °C/35 MPa (1,400 °F/5,000 psi). These USC power plants have potential efficiencies of about 47 percent. Figure 2 shows the trends in supercritical and ultrasupercritical coal-fired power plant development since the 1970s.
+
+To develop the materials that are capable of withstanding these extreme conditions, NETL’s Advanced Research Materials Program has teamed up with scientists and engineers in industry and academia to form the USC Steam Boiler Consortium and the USC Steam Turbines Consortium.
+
+The USC Steam Boiler Consortium is a collaborative, five-year effort among the U.S. Department of Energy, energy research organizations, and major equipment suppliers to develop materials technologies to support the use of boilers, including a possible oxy-fueled combustion unit at USC conditions. The Consortium has identified a number of candidate superalloys, and will test them for suitability using such criteria as ease of fabrication, weldability, cycling capability, base meta creep strength, steamside oxidation resistance, and fireside corrosion resistance. A major task will be to produce a mechanical properties database of all the candidate materials.
+
+A key program milestone was NETL’s conceptual design of a 750-MW USC steam generator, which outlined cost issues, critical component sizes, and specific material selection. Analysis showed that the capital cost for a USC boiler is higher than that for a comparable subcritical boiler, but thermal efficiency improvements achieve equal or lower electricity costs and significant reductions in emissions per kilowatt-hour. A conceptual design study is planned for an oxy-fueled combustion unit.
+
+Most recently, a three-year USC Steam Turbines Consortium was formed to supplement the work of the Boiler Consortium by focusing on the following USC Steam Turbines research and development.
+
+Coatings for steam oxidation and solid particle erosion protection
+
+Component requirements and candidate materials for welded rotors
+
+Non-welded integral rotor development
+
+Castings development
+
+Design and economic studies
+
+Material property data characterization, microstructural analysis
+
+To date, the USC Steam Turbines Consortium has completed a computer simulation of heat transfer in large intermediate-pressure rotor forging, evaluated cracking susceptibility for various ingot cooling rates, prepared an extensive spread sheet of mechanical, physical, and thermal properties of 19 candidate superalloys, and performed thermogravimetric oxidation studies on some of these alloys.
+
+Together, these efforts will make the United States a leader in developing and operating highly efficient, near-zero emissions coal-fired power plants, thereby putting our most abundant fossil fuel natural resource—coal—to its best use.

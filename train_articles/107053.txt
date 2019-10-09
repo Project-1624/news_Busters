@@ -1,0 +1,34 @@
+Zomato Blog – Security Notice
+[Update] 60% of our users use third party OAuth services (i.e. Google and Facebook) for logging in to Zomato. We don’t have any passwords for these accounts - therefore, these users are at zero risk - both within Zomato, as well as on Google and Facebook (and any other services where the same Google/Facebook ID is being used to log in). For all our other users, as a safety measure, we strongly advise changing your passwords on other services where you might have used the same password as Zomato - we are also sending emails to such users prompting them to do the same as we speak.
+
+—–
+
+Over 120 million users visit Zomato every month. What binds all of these varied individuals is the desire to enjoy the best a city has to offer, in terms of food. When Zomato users trust us with their personal information, they naturally expect the information to be safeguarded. And that’s something we do diligently, without fail. We take cyber security very seriously - if you’ve been a regular at Zomato for years, you’d agree.
+
+
+
+The reason you’re reading this blog post is because of a recent discovery by our security team - about 17 million user records from our database were stolen. The stolen information has user email addresses and hashed passwords.
+
+We hash passwords with a one-way hashing algorithm, with multiple hashing iterations and individual salt per password. This means your password cannot be easily converted back to plain text. We however, strongly advise you to change your password for any other services where you are using the same password.
+
+Important note - payment related information on Zomato is stored separately from this (stolen) data in a highly secure PCI Data Security Standard (DSS) compliant vault. No payment information or credit card data has been stolen/leaked.
+
+As a precaution, we have reset the passwords for all affected users and logged them out of the app and website. Our team is actively scanning all possible breach vectors and closing any gaps in our environment. So far, it looks like an internal (human) security breach - some employee’s development account got compromised. [Update: The hacker has provided exact details of how he/she stole the data. The loophole has been plugged to prevent any further data leakage. Complete update: http://blog.zomato.com/post/160807042556/security-notice-update]
+
+How can this stolen information be misused?
+
+Since we have reset the passwords for all affected users and logged them out of the app and website, your zomato account is secure. Your credit card information on Zomato is fully secure, so there’s nothing to worry about there.
+
+
+
+What next?
+
+Over the next couple of days and weeks, we’ll be actively working to plug any more security gaps that we find in our systems.
+
+
+
+We’ll be further enhancing security measures for all user information stored within our database
+
+A layer of authorisation will be added for internal teams having access to this data to avoid the possibility of any human breach.
+
+We regret any disruption this may cause and appreciate your immediate attention to this information. If you have queries/concerns, please do not hesitate to contact our security team by sending an email directly to support@zomato.com and we’ll reach out to you right away.

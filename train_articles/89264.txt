@@ -1,0 +1,36 @@
+The Battle Deaths Dataset version 3.0
+This is the last update of the PRIO Battle Deaths Dataset (v.1.0 and v.2.0) first published in 2005 and updated in 2006. The dataset is compatible with the UCDP/PRIO Armed Conflict Dataset (Gleditsch et al., 2002; Harbom & Wallensteen, 2009) for the period 1946–2008. Versions 1.0 and 2.0 are also compatible with the Correlates of War Dataset (Sarkees, 2000) for the period 1900–97; and the Fearon & Laitin (2003) dataset on civil conflict in the period 1945–99. Since the Correlates of War and Fearon & Laitin datasets have not been updated, we refer to Version 2.0 for data and documentation relating to these two datasets.
+
+The dataset will not be updated beyond 2008. For further information, see the main PRIO Battle Deaths Data page.
+
+Versions 3.0 and 3.1 do not include a list of battle deaths by participants. Users in need of such data should consult Version 1.0.
+
+Please continue to cite the data by referring to the original data article:
+
+Lacina, Bethany & Nils Petter Gleditsch (2005) Monitoring trends in global combat: A new dataset of battle deaths’, European Journal of Population 21(2–3): 145–166.
+
+The article is available for download here.
+
+The following graph is based on Version 3.0:
+
+Version 3.1 differs slightly from Version 3.0 for a few wars with multiple governments participating on one side (variables gwnoa, gwnoa2nd, gwnob, gwnob2nd in columns Z, AA, AB, and AC in the Excel sheet) as well as wars in multiple locations (variable gwnoloc in column AD). In Versions 1.0 and 2.0, the country codes for the government participants were separated by a comma. In Version 3.0 they are not. Some countries have country codes below 100 or even below 10 (such as the US, with number 2), and they have inadvertently been listed without the leading zeros. For wars where all the country codes > 100, this is not a problem. Thus, the Suez conflict in 1956 (row 587 in the Excel sheet) the number in column Z reads 220666200, and this means 220 (France), 666 (Israel), and 200 (the UK). However, for the Iraq War in 2003 (row 1906), the country codes of Iraq’s three opponents (column AB) are listed with just seven digits, 9002002. Without consulting the country names in columns K and M, it is not obvious that this means 900 (Canada), 200 (the UK), and 002 (the US). In Version 3.1 we have added commas to separate the country numbers for these five columns. In addition, for a few conflicts with numerous countries participating, not all country names had been listed. This has now been rectified, resulting in changes in rows 614–618 (Iraq 2004–08), 1403–04 (Afghanistan 1987–88), 1421–1423 (2006–08), and 1699 (Iraq 1991).
+
+In addition to not being comma-separated, some country numbers were also missing or incorrectly listed. These errors seem to have originated in the 2009–4 version of the UCDP/PRIO armed conflict dataset, on which our battle deaths data are based.
+
+For conflict id 84 in the years 1963–69, the UK was listed in sidea2nd but not in gwnoa2nd. For conflict id 91 in the years 1969–72, 1978, and 1983–87, France was listed in sidea2nd but not in gwnoa2nd. For the same conflict in the years 1980–81, Libya was listed in sidea2nd but not in gwnoa2nd, while in 1983–87 Libya was listed in sideb2nd but not in gwnob2nd.
+
+For conflict id 103, South Vietnam and USA were missing from gwnoa2nd for the year 1970, and incorrectly listed for the year 1974. Similarly, for the same conflict, North Vietnam was both missing from gwnoa2nd and incorrectly listed in gwnob2nd in the year 1979, and for the year 1990 was incorrectly listed.
+
+For conflict id 176 in the year 1991, Kuwait was missing from gwnob, and the UAR and USA were missing from gwnob2nd.
+
+For conflict id 214 in the year 1997, Angola and Chad are listed as aiding both sides in sidea2nd and sideb2nd, but are only listed in gwnob2nd. Version 2009–4 of the original UCDP/PRIO armed conflict dataset has the exact same listings. Since we are using the country name listings to inform the correct gwno listings, and since even the newest version 4–2016 of the UCDP/PRIO armed conflict dataset simultaneously lists the countries in both gwnoa2nd and gwnob2nd, our interpretation is that Angola and Chad aided both sides and should be listed as such in both gwnoa2nd and gwnob2nd.
+
+These errors have been rectified in version 3.1. Except for the ones just listed, the country numbers in columns AA, AB, AC, and AD were correct and complete.
+
+Otherwise, Version 3.1 is identical to Version 3.0. We retain Version 3.0 on the website for replication purposes, but we recommend using Version 3.1 for all new analyses.
+
+We have also discovered a minor error in the Documentation of the coding decisions for conflict #199, the Iran-Iraq War of 1980–88. Here, it is said with reference to the Correlates of War Dataset (Sarkees, 2000) that there were 175,000 Iranian deaths and 500,000 Iraqi deaths for a total of 1,250,000 deaths. This should read 750,000 + 500,000 = 1,250,000. This error does not affect the final coding for the battle deaths for that war so have not posted a corrected version of the Documentation.
+
+References
+
+For a list of references cited here, see the main PRIO Battle Deaths Data page.

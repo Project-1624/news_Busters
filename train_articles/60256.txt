@@ -1,0 +1,88 @@
+America’s most gerrymandered congressional districts
+Crimes against geography.
+
+This election year we can expect to hear a lot about Congressional district gerrymandering, which is when political parties redraw district boundaries to give themselves an electoral advantage.
+
+Gerrymandering is at least partly to blame for the lopsided Republican representation in the House. According to an analysis I did last year, the Democrats are under-represented by about 18 seats in the House, relative to their vote share in the 2012 election. The way Republicans pulled that off was to draw some really, really funky-looking Congressional districts.
+
+Contrary to one popular misconception about the practice, the point of gerrymandering isn't to draw yourself a collection of overwhelmingly safe seats. Rather, it's to give your opponents a small number of safe seats, while drawing yourself a larger number of seats that are not quite as safe, but that you can expect to win comfortably. Considering this dynamic, John Sides of The Washington Post's Monkey Cage blog has argued convincingly that gerrymandering is not what's behind the rising polarization in Congress.
+
+The compactness of a district -- a measure of how irregular its shape is, as determined by the ratio of the area of the district to the area of a circle with the same perimeter -- can serve as a useful proxy for how gerrymandered the district is. Districts that follow a generally regular shape tend to be compact, while those that have a lot of squiggles and offshoots and tentacle-looking protuberances tend to score poorly on this measure.
+
+Using district boundary files from the Census, I calculated compactness scores for each of the districts of the 113th Congress and mapped them so you can see where the least compact -- and likely most-gerrymandered --districts are. Click through for an interactive map, along with detailed methodological notes for the brave.
+
+There's a lot to say about these districts, about who drew them, the factors that went into their creation and the electoral consequences. Here's a straightforward run-down of where the most- and least-gerrymandered districts are.
+
+1. Democrats won in nine of the 10 most-gerrymandered districts. But eight out of 10 of those districts were drawn by Republicans.
+
+This speaks to the notion that the point of gerrymandering isn't to draw yourself a safe seat but to put your opponents in safe seats by cramming all of their supporters into a small number of districts. This lets you spread your own supporters over a larger number of districts. And the way to do this is to draw outlandishly-shaped districts that bring far-flung geographic areas together. North Carolina's 12th district, which holds the title of the nation's most-gerrymandered, is a textbook example of this: It snakes from north of Greensboro, to Winston-Salem, and then all the way down to Charlotte, spanning most of the state in the process.
+
+2. Three of the 10 most-gerrymandered districts are in North Carolina.
+
+North Carolina Republicans really outdid themselves in 2012. In addition to the 12th district, there's the 4th, which covers Raleigh and Burlington and snakes a narrow tentacle all the way south to pick up parts of Fayetteville. And then there's the 1st District, which covers a sprawling arbitrarily shaped region in the northeastern part of the state. All three of these seats were won by Democrats in 2012.
+
+Overall, the North Carolina GOP's efforts paid off handsomely. Based on their statewide vote share you'd expect North Carolina Democrats to hold about seven seats. But they won only four. This is because an outsized share of the state's Democratic voters were shunted off into the three highly-gerrymandered districts above.
+
+3. Indiana and Nevada stand out as states with the least amount of gerrymandering.
+
+In contrast to North Carolina's Republicans, Indiana's did a remarkably good job of drawing sensible district boundaries. The same holds true for Nevada's Democrats, although with only four districts, the district boundaries in Nevada are dictated to a large degree by the state's borders.
+
+4. Maryland and North Carolina are essentially tied for the honor of most-gerrymandered state.
+
+With average gerrymander scores of about 88 out of a possible 100, Maryland and North Carolina are home to some of the ugliest districts in the nation among states with at least three Congressional districts. In fact, North Carolina is home to three out of the top 10 most-gerrymandered districts in the country. Maryland is proof that gerrymandering isn't just a Republican pastime, as the state's Democrats redrew those boundaries in 2012. The standout in that state is the 3rd Congressional district, which is the nation's second-most gerrymandered and home to Democratic congressman John Sarbanes.
+
+5. Republicans drew Congressional boundaries in six of the 10 most-gerrymandered states.
+
+In addition to North Carolina, Republicans drew district boundaries in Louisiana, Virginia, Pennsylvania, Ohio and Alabama. Democrats drew districts in West Virginia and Illinois, in addition to Maryland. Boundaries in Kentucky were drawn up by that state's mixed legislature.
+
+Again, the payoff for Republicans is in the makeup of the state's delegations: In those six states, Republicans picked up about 11 more seats than you'd expect from simply looking at the parties' vote shares.
+
+6. Gerrymandering is easier to get away with in more densely-populated areas.
+
+You'll notice that many of the highly irregular districts are clustered around cities and metro areas. When there are more people in a given area, partisans have more leeway in how to draw their districts.
+
+7. This is what the 10 most-gerrymandered districts look like.
+
+For a sense of just how ridiculous gerrymandered districts look, nothing beats a visual. I've listed the 10 most gerrymandered districts below.
+
+NORTH CAROLINA'S 12TH DISTRICT
+
+Gerrymander index score: 97.09
+
+MARYLAND'S 3RD DISTRICT ("The praying mantis")
+
+Gerrymander index score: 96.79
+
+FLORIDA'S 5TH DISTRICT
+
+Gerrymander index score: 96.15
+
+PENNSYLVANIA'S 7TH DISTRICT ("Goofy kicking Donald Duck")
+
+Gerrymander index score: 96.05
+
+NORTH CAROLINA'S 1ST DISTRICT
+
+Gerrymander index score: 96.01
+
+TEXAS'S 33RD DISTRICT
+
+Gerrymander index score: 95.60
+
+NORTH CAROLINA'S 4TH DISTRICT
+
+Gerrymander index score: 95.16
+
+ILLINOIS'S 4TH DISTRICT
+
+Gerrymander index score: 94.96
+
+TEXAS'S 35TH DISTRICT ("The upside-down elephant")
+
+Gerrymander index score: 94.63
+
+LOUISIANA'S 2ND DISTRICT
+
+Gerrymander index score: 94.41
+
+Want more on gerrymandering? Check out this excellent video produced by PostTV last year.

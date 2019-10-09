@@ -1,0 +1,68 @@
+GUIDE: How to verify a website and the people behind it
+Fake news sites can look very convincing. Here are two tools as well as tips to help you check the credibility of a website.
+
+When an online website reported last year that former Paralympic athlete Oscar Pistorius had committed suicide in prison, the story was rapidly shared online.
+
+After all, it was a story that had all the elements of a Greek tragedy: a young man born without legs overcomes his disability to become an international sports star. Then, one night, he shoots his beautiful girlfriend and after a long trial in the full media spotlight, he is sentenced to prison for her murder.
+
+His reported suicide neatly closed the loop on the tragic story of a young man who had it all, but threw it away.
+
+There’s only one problem: the story wasn’t true and the site that published it is notorious for running sensational “fake news” stories, often about the supposed deaths of celebrities.
+
+Several clues showing it was made up
+
+The Oscar Pistorius fake death report was quickly debunked by Politifact, a US-based fact-checking organisation. It rated the claim as “pants on fire” – basically, a big fat lie!
+
+Yet a quick read of the undated story would have shown clues that it was made up and would have saved many sharers from red faces.
+
+As Politifact pointed out, the site had spelt Pistorius’ name wrong. It also quoted unnamed prison officials confirming “on Saturday” that the athlete had been found “hanging in his prison cell at 5:30 am local time on Sunday” – the day after his death was announced.
+
+Furthermore, the story was poorly written. And, ask yourself, how did an obscure US online site pull of a scoop that other local, credible media had completely missed?
+
+Sadly, the cruel reporting of the death of celebrities is something that regularly lights up social media. Here are two tools as well as tips to help you check the credibility of a website and the people behind it:
+
+Whois
+
+There are many free Whois tools available to help you find out who is behind a website. These tools give you important details about who a site is registered to, their physical address and the phone number of the organisation. If the information is available, it will also show when the site was first registered.
+
+I often use www.whois.com/whois.
+
+How to do a Whois search :
+
+Copy the URL of the website you want to check. Navigate to the Whois tool. Paste or type the URL of the site in the search bar, and then initiate a search.
+
+In the case of legitimate sites – like eNCA, for example – you’ll usually find that the name, address and contact details of the person responsible for the site, as well as where it is registered, are listed.
+
+An important thing to look for is when the site was first created or registered, as “fake news” sites often pop up overnight.
+
+Dodgy sites, like the infamous wcmleaks.com, which has launched scurrilous attacks against anyone critical of the Gupta family and President Jacob Zuma, usually hide behind opaque offshore masking companies. WCMLeaks, which was launched in April 2017, is registered under the name of a US-based company with no information about the real people behind it.
+
+While legitimate organisations may sometimes use a third party offshore domain registration company to avoid spammers, proceed with caution if the site’s ownership details are hidden.
+
+And even if a contact is given, be wary. For example, if the contact person is Peter Brown and the company is Fresh News, but the contact email is name@xyznewsonline.com, there’s something dodgy going on.
+
+KnowNews
+
+One of my favourite free tools is the easy-to-use KnowNews app by Media Monitoring Africa. It helps you check the credibility of a South African website on your desktop computer with the click of your mouse.
+
+Unfortunately, it’s only available for the Chrome browser, but there are plans to adapt it for others soon. Download it here. Once you’ve downloaded the app, it will appear among your browser bookmarks.
+
+How to use KnowNews:
+
+Just click on the KnowNews icon in your browser while you’re on a South African news website and a pop-up box will appear rating the website’s credibility
+
+The tool uses a regularly updated database of both known dodgy and credible websites. If you think a site that is not listed is dodgy, you can report it from the extension and Media Monitoring Africa will check it out and add it their database if they agree.
+
+Common sense
+
+This is one of the most powerful tools in your fact-checking toolkit. Never forget that if something seems to be good to be true, it probably is.
+
+Do a quick Google search to check if any credible news sources are also reporting the story. Good examples are when stories claimed that satellite pay-TV service DStv will soon be free to air and that former South African president Thabo Mbeki was elected secretary-general of the United Nations. A search shows that no credible media reported either of these stories, both of which would have been big news in Africa if they were true.
+
+Questions to ask about a website to assess its credibility:
+
+Is the Whois data transparent and are the details of the owners given? Does it publish a contact number and an address where its offices are located? Does it have an “about” tab? Often sites that make up stories hide behind a clause stating that the content might include “parody” content or other disclaimers. Always check the date of a story. Often old reports, like those announcing the death of famous people who died years earlier, resurface on social media and are then widely reshared. Always check the URL of a story. Dodgy sites often use URLs that appear similar to the real thing – but with a slight change, like T1mesLive.co.za. Check the URL to make sure you’re at the right place. You may have clicked on a link to City Press, but the URL is actually PressCity.co.za This is how bank account phishing works by directing you to fake sites. Does the URL address begin with https? Most credible sites – as well as genuine banking and eCommerce sites – will always have a URL starting with https. It takes a bit of work and expense to set up a secure site so fakers usually don’t bother with an https URL. Look for a lock alongside the URL, which shows the site is secure. If you click on the lock you will find details about the site, including a certificate verifying that it is genuine. Sloppy design and poorly written stories containing bad spelling are red flags. So is the overuse of capital letters. Does the site often publish sensational stories without proper sources or else fail to link to a news source they quote? Google the story plus the name of the supposed source, to see if they have in fact published such a story. Or go to the alleged source site and search for the story. If in doubt, don’t share.
+
+Raymond Joseph is a freelance journalist, journalism trainer and media consultant.
+
+© Copyright Africa Check 2019. Read our republishing guidelines. You may reproduce this piece or content from it for the purpose of reporting and/or discussing news and current events. This is subject to: Crediting Africa Check in the byline, keeping all hyperlinks to the sources used and adding this sentence at the end of your publication: “This report was written by Africa Check, a non-partisan fact-checking organisation. View the original piece on their website", with a link back to this page.

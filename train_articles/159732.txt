@@ -1,0 +1,15 @@
+Mortality Improvement Scale MP-2016
+
+Experience Studies – Pension
+
+The Retirement Plans Experience Committee of the Society of Actuaries (RPEC) is pleased to present this annual update to the RPEC_2014 model and its corresponding mortality improvement scales. This new version of the model reflects three additional years (2012-2014) of historical U.S. population mortality data (2012-2014) and modification of two input values designed to improve the model’s year-over-year financial stability. For clarity, the updated mortality improvement scale based on this 2016 version of the model is called Scale MP-2016.
+
+The Scale MP-2016 Report has been posted at right under ‘Related Links’ along with an Excel version of Scale MP-2016.
+
+Also at right under “Related Links” is a new version of the RPEC_2014 model which incorporates the modified inputs and three additional years of historical data. This Excel-based implementation tool can be used to generate alternate improvement scales using the RPEC_2014 methodology.
+
+Per Section 6.2 of the MP-2016 report, RPEC has also created an update to the tool that calculates a one-dimensional improvement scale (by attained age) approximately equivalent to Scale MP-2016 and a corresponding base mortality table. This tool can be found at right under “Related Links”. Please note that this is the last year that RPEC expects to produce an annual update to this tool.
+
+The response to “Q6” in Section 7 of the Scale MP-2016 report refers to a set of factors that can be used to adjust the RP-2014 values to base year 2006. These factors can be found at right under “Related Links”
+
+The final items under “Related Links” are links to the home pages for Scale MP-2015, Scale MP-2014, and the RP-2014 Mortality Tables.

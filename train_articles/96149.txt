@@ -1,0 +1,188 @@
+Wisconsin Lawyer: Decoding the Maze: Wisconsin’s Campaign Finance Laws:
+Wisconsin’s system of campaign finance regulation, contained in Wis. Stat. chapter 11 [hereinafter chapter 11], is built on four pillars: source restrictions, contribution limits, disclosure requirements, and the regulation of independent speech. In the last five years, each has been affected by court decisions and other developments, but Wisconsin statutes and administrative rules have not been updated to reflect the changes. The campaign finance legislation enacted this year as 2013 Wisconsin Act 153 made minor modifications but unfortunately did not include the significant revisions necessary to ensure Wisconsin statutes comport with current case law and contemporary practices.
+
+The Seventh Circuit Court of Appeals recently urged state lawmakers to update the statutes, calling Wisconsin campaign finance laws “labyrinthian and difficult to decipher.”1 Such a task may be easier said than done, however. Not only is the Wisconsin Legislature adjourned until 2015,2 but also political realities make enacting significant changes to chapter 11 a challenging task. As a result, it remains understandably difficult to navigate Wisconsin’s campaign finance laws. The impact of recent developments described below is intended to assist anyone attempting to work through this maze.
+
+Source Restrictions
+
+In Wisconsin, all contributions to candidates for state office and to other political committees originate from individuals. Corporations (both nonprofit and for-profit) and limited liability companies are prohibited by chapter 11 from contributing to candidates and other political committees (political action committees (PACs) and political party committees, which include legislative campaign committees organized to support legislative candidates of a single political party).3 These restrictions apply to both monetary and in-kind contributions (the provision of goods and services to a candidate’s campaign at no charge or at less than the usual and normal charge), as well as to noncommercial loans.
+
+Mike B. Wittenwyler, U.W. 1998, is an administrative and regulatory attorney at Godfrey & Kahn S.C., Madison, and the lead attorney in the firm’s political law group. His practice includes campaign finance, election law, ethics and lobbying regulation, and the tax regulation of political and lobbying activities. Jodi E. Jensen, U.W. 1995, is an administrative and regulatory attorney at Godfrey & Kahn S.C., Madison, and a member of the firm’s political law group. Her practice includes campaign finance, election law, and lobbying regulation.
+
+The U.S. Supreme Court’s landmark decision in Citizens United v. Federal Election Commision4 is incorrectly perceived by some to have eliminated these source restrictions. However, the Court did not address the issue of corporate contributions made directly to candidates or other political committees. Rather, Citizens United struck down prohibitions on corporate sponsorship of independent political speech – speech by someone other than a candidate.
+
+PAC and Conduit Sponsorship. Corporations cannot contribute to a PAC or a conduit,5 but they can sponsor both. Chapter 11 allows unlimited corporate expenditures for administrative costs but caps spending for the purpose of soliciting members and contributions.6 Act 153 increased this cap from $500 annually to $20,000 or 20 percent of the amount of contributions made to the PAC or conduit in the previous year.7 It also established separate expenditure caps for PACs and conduits sponsored by the same organization.
+
+In 2014, the Seventh Circuit Court of Appeals ruled in Wisconsin Right to Life Inc. v. Barland (Barland II) that any cap on the solicitation of contributions to an independent expenditure-only PAC (a PAC that engages in independent political speech, but does not contribute directly to candidates) is unconstitutional.8 In response to the ruling, the Wisconsin Government Accountability Board (G.A.B.) also ceased enforcing the $20,000/20 percent cap against sponsors of traditional PACs (those formed primarily to contribute to candidates) and conduits. As a result, corporations can spend unlimited amounts to recruit members to and raise funds for their Wisconsin PACs and conduits until the G.A.B. advises otherwise.
+
+Contribution Limits
+
+Contributions to candidates from individuals, PACs, and other candidate committees are subject to statutory caps, which are referred to as base limits.9 A base limit is the maximum amount an individual may contribute, or a committee may transfer, to a single candidate during a two-year or four-year election cycle. Under Wisconsin law, it is a combined limit for both the primary election and the general election. Contributions to state political parties or PACs from individuals are not subject to base limits. The state’s base limits have not been increased since their enactment in 1973.10 (See Figure 1: Base Contribution Limits.)
+
+The base limits apply to monetary and in-kind contributions combined. For example, an individual who spends $500 hosting a fundraising event for a Wisconsin Assembly candidate has reached the contribution cap for that two-year cycle. He or she cannot make any further monetary or in-kind contributions to that candidate until the following cycle. Small businesses can make in-kind contributions only if organized as a sole proprietorship or partnership. In any other case, an individual must purchase the goods or services and then contribute them to the candidate. Candidates must be notified about an in-kind contribution before it is made and then report its fair market value to the G.A.B.11
+
+Figure 1 Base Contribution Limits* Office Individual Limit Committee Limit** Governor $10,000 $43,128 Lt. Governor $10,000 $12,939 Attorney General $10,000 $21,560 State Treasurer, Secretary of State, Superintendent of Public Instruction, Supreme Court Justice $10,000 $8,625 State Senate $1,000 $1,000 State Assembly $500 $500 *Since members of the Assembly serve two-year terms, these contribution limits apply to a two-year election cycle. Limits for other offices apply to a four-year election cycle. ** This limit applies to PAC’s and other candidate committees.
+
+The base limits apply separately to a husband and a wife. While the fundraiser host in the example reached the $500 cap with event expenses, his or her spouse would be permitted to contribute $500 to the same candidate. To ensure that the contributions are reported correctly, spouses should notify the campaign about proper attribution by identifying which spouse made the contribution, on the memorandum line of a check or as an attachment to a receipt for an in-kind contribution or to a check.
+
+Like other individuals, a lobbyist registered with the G.A.B. may contribute an unlimited amount to a political party or a PAC at any time. A lobbyist may also contribute to a candidate for partisan state office, subject to the base limits, but only during a time period defined by statute.12 Before passage of Act 153, this period began on June 1 of an even-numbered year and ended on Election Day, unless the legislature had not completed its final floor period or was in special or extraordinary session. In such cases, a lobbyist was prohibited from contributing to a candidate committee until the floor period had passed or the legislature had adjourned. Act 153 adjusted this lobbyist contribution period so that it begins on April 15 of an even-numbered year, while retaining the limitations related to an unfinished floor period or an ongoing special or extraordinary session. A lobbyist’s spouse, although not subject to these limitations, must abide by the base limits.
+
+Aggregate Limits Unconstitutional.With the U.S. Supreme Court’s decision in McCutcheon v. Federal Election Commission,13 the amount that an individual may contribute to all state committees, including candidates, PACs, and political parties, is now unlimited. In McCutcheon, the Court struck down aggregate limits, finding that they “intrude without justification on a citizen’s ability to exercise ‘the most fundamental First Amendment activities.’”14 Before the Court’s holding, Wisconsin prohibited an individual from contributing more than $10,000 in a calendar year to all political committees.15
+
+When the McCutcheon decision was issued, a challenge to Wisconsin’s aggregate limit was pending in the U.S. District Court for the Eastern District of Wisconsin.16 On May 22, 2014, the Eastern District Court issued an order declaring the limit unconstitutional as applied to contributions to all candidates and committees and permanently enjoining its enforcement.17 On the same day, the G.A.B. announced that it will no longer enforce the statutory $10,000 annual aggregate limit for individuals.18 Base limits were not affected by McCutcheon or the district court order, and they remain in effect in Wisconsin.
+
+Before McCutcheon, the Seventh Circuit Court of Appeals found Wisconsin’s aggregate limit unconstitutional as applied to contributions to independent expenditure-only PACs. In Wisconsin Right to Life State Political Action Committee v. Barland (Barland I), the court permanently enjoined enforcement of the aggregate limit in this context, allowing individuals to contribute unlimited amounts for the purpose of funding independent expenditures.19
+
+Wisconsin’s Other Aggregate Limit. Wisconsin statutes contain another aggregate limit that caps the amount of contributions a candidate may accept from all PACs, political party committees, and other candidates’ committees. These statutory provisions establish separate caps for contributions from PACs and contributions from all committees combined.20 Once the cap is reached, no other committee may contribute any amount – even the base limit – to that candidate. In September 2014, the U.S. District Court for the Eastern District of Wisconsin issued a preliminary injunction prohibiting enforcement of this aggregate limit.21 Soon thereafter, the G.A.B. announced that it will not enforce the statutory caps, but it did not address the possibility of an appeal.22 Once again, the base limits are not affected and remain in place. However, because contributions to candidates from political party committees, including legislative campaign committees, are not subject to base limits, these committees may now make unlimited contributions to candidates. Until the G.A.B. or a court directs otherwise, there is no limit on the amount of contributions that candidates may accept from a single political party committee or from all state committees combined. (See Figure 2: Political Committee Aggregate Contribution Limits.)
+
+Figure 2 Political Committee Aggregate Contribution Limits (currently enjoined by the U.S. District Court for the Eastern District of Wisconsin) Office PAC Limit All Committees Limit* Governor $485,190 $700,830 Lt. Governor $145,544 $210,259 Attorney General $242,550 $350,350 State Treasurer, Secretary of State, Superintendent of Public Instruction, Supreme Court Justice $97,031 $140,156 State Senate $15,525 $22,425 State Assembly $7,763 $11,213 *This includes PAC’s, political party committees, and other candidate committees.
+
+Disclosure Requirements
+
+Candidate committees and other political committees must register with the G.A.B. and report their contributions and disbursements at least twice per year.23 The frequency of reporting increases before a primary election and a general election if a committee is active during that time.24 Committees with minimal activity, as defined by statute, are exempt from the reporting requirements.25 Electronic filing is required for committees that accept contributions of $20,000 or more during a calendar year.26
+
+Every candidate committee must register with the G.A.B. before accepting contributions or making disbursements.27 PACs and political party committees must register if they accept contributions, incur obligations, or make disbursements of more than $300 during a calendar year.28 Before passage of Act 153, the registration threshold was $25.
+
+All committees must report the name and address of every individual and committee contributing more than $20 during an election cycle.29 If an individual contributes $100 or more, his or her employer and occupation must also be reported.30 The dollar thresholds include monetary and in-kind contributions, as well as loans. In addition, a committee receiving contributions of $500 or more from a single contributor within 15 days of a primary election or a general election must report the contribution within 48 hours.31 Before Act 153, reporting of late contributions was required within 24 hours after their receipt.
+
+Independent Political Speech
+
+When an individual or organization other than a candidate engages in political speech, it is generally considered to be “independent” political speech. These independent speakers may use television or radio ads, direct mail, Internet sites, and other means of communication to share with the general public their views about public officials, candidates, and public policy.
+
+Independent political speech is classified as either express advocacy or issue advocacy. Express advocacy communications expressly advocate for the election or defeat of a clearly identified candidate and are regulated under chapter 11. Express advocacy communications funded by third parties are called independent expenditures. Issue advocacy communications avoid any statements of express advocacy and provide information about a public official, candidate, or public policy without calling for anyone’s election or defeat. Issue advocacy communications are considered to be grassroots lobbying messages and are not regulated by chapter 11.32
+
+While independent expenditures have long been subject to campaign finance regulation, the First Amendment strictly limits governmental regulation of issue advocacy.33 Furthermore, in Citizens United, the Supreme Court made clear that the government cannot restrict or limit any speech based on the identity of the speaker – individuals, corporations, labor organizations, or tribes.34 In the four years since Citizens United was issued, the Wisconsin Legislature has not acted to repeal the state’s statutory ban on corporate sponsorship of independent expenditures. Nonetheless, the G.A.B. ceased enforcement of it in 2010 in response to a Wisconsin Attorney General Opinion interpreting Citizens United.35 Earlier this year, the Seventh Circuit Court of Appeals permanently enjoined the statute in Barland II.36
+
+Reporting of Independent Expenditures. After the Supreme Court issued Citizens United, the G.A.B. adopted an administrative rule allowing organizations, including for-profit and nonprofit corporations, to make unlimited independent expenditures. The rule, section GAB 1.91 of the Wisconsin Administrative Code [hereinafter section GAB 1.91], requires an organization making independent expenditures (referred to as an independent-disbursement organization) to follow most of the rules applicable to PACs including establishing a separate bank account, registering with the G.A.B., and filing periodic campaign finance reports.37 On these reports, the organization must disclose all earmarked contributions made for independent expenditures but not donations or other revenues received for other purposes.38
+
+In Barland II, the Seventh Circuit held that section GAB 1.91 is unconstitutional as applied to organizations whose major purpose is not express advocacy because the rule establishes a special “PAC-like disclosure program” for them.39 Although the government can impose reporting requirements on organizations that make independent expenditures, it can require PAC status only if an organization’s major purpose is political activity.40 The court acknowledged that the public’s interest in information about independent expenditures is strong, but that it can be achieved in a less burdensome manner than what was adopted in the G.A.B. rule.41
+
+The G.A.B. has suspended reporting of independent expenditures by independent-disbursement organizations while it awaits the Eastern District Court’s order giving effect to Barland II. Independent-disbursement organizations nonetheless might wish to voluntarily report during this time. It is possible that the G.A.B. will require organizations whose major purpose is express advocacy to belatedly report these expenditures once it lifts the suspension. Additionally, organizations choosing to report may benefit from having an oath on file with the G.A.B. affirming that they are not impermissibly coordinating expenditures with any candidate.42
+
+Attempted Regulation of Issue Advocacy. Although issue advocacy communications are not regulated under chapter 11, the G.A.B. promulgated Wisconsin Administrative Code section GAB 1.28(3)(b) [hereinafter section GAB 1.28(3)(b)] in 2010 in an attempt to regulate such communications during the 30 days before a primary election and the 60 days before a general election. The rule deemed these communications independent expenditures subject to the reporting and disclosure requirements of chapter 11. Within a few days of the rule’s promulgation, three separate lawsuits were filed.43 The G.A.B. ceased enforcement of the amended rule almost immediately after this occurred, but the rule remains in place and no court had ruled on its constitutionality until Barland II.
+
+In Barland II, the Seventh Circuit ruled that section GAB 1.28(3)(b) violates the First Amendment because it subjects sponsors of issue advocacy communications to overly burdensome disclosure requirements. While the government may establish only narrow disclosure requirements for sponsors of issue advocacy under Citizens United, the G.A.B. rule subjects them to the same registration and reporting requirements as a PAC.44 In striking down the rule, the Seventh Circuit said that “ordinary political speech about issues, policy, and public officials must remain unencumbered.”45
+
+Furthermore, chapter 11 does not authorize the G.A.B. to place even limited, constitutional disclosure requirements on the sponsors of issue advocacy.46 According to the Seventh Circuit, the government’s authority to regulate political speech under state campaign finance law extends only to “express advocacy and its functional equivalent as those terms were explained [by the Supreme Court].”47 As a result, section GAB 1.28 “sweeps a far wider universe of political speech into the ‘applicable requirements of chap. 11, Stats.’ than does Chapter 11 itself.”48 Unless the Wisconsin Legislature amends chapter 11, sponsors of issue advocacy communications cannot be required to file any type of campaign finance report with the G.A.B.
+
+Coordination Prohibited. A PAC or other organization may not coordinate an independent expenditure with a candidate or a candidate’s agent.49 In general, impermissible coordination occurs when an expenditure is made at the request or suggestion of the candidate, when a candidate is able to exercise control or influence over the expenditure, or when there has been substantial discussion or negotiation with the candidate regarding the expenditure.50 This is a fact-intensive inquiry that is determined on a case-by-case basis.51 The G.A.B. has issued an advisory opinion setting forth a coordination standard but has yet to promulgate an administrative rule on the topic. Similarly, the state legislature has not updated statutes to reflect the case law and other legal developments related to impermissible coordination.
+
+If impermissible coordination occurs, the independent expenditure will be treated as an in-kind contribution to the candidate. Generally, the in-kind contribution will be prohibited by chapter 11 because the independent expenditure is funded with corporate funds or because it exceeds the base contribution limit, or both.
+
+The G.A.B. has advised that coordinated issue advocacy communications also are prohibited,52 and its position is currently being challenged in litigation over the John Doe investigation into the political speech of third-party organizations. While the Seventh Circuit Court of Appeals recently declined to consider this issue,53 a supervisory writ and a writ of mandamus are pending in the Wisconsin Court of Appeals and a petition for bypass is pending in the Wisconsin Supreme Court.54 Until the case is resolved, individuals and organizations sponsoring issue advocacy communications should avoid discussions with a candidate about their independent activities, including discussions that illustrate control or influence by the candidate.
+
+Conclusion
+
+Court decisions in recent years have significantly affected Wisconsin campaign finance law, and chapter 11 needs updating. While state statutes were not updated before the 2014 election, legislation may be considered during the upcoming 2015 legislative session.
+
+Endnotes
+
+1 Wisconsin Right to Life Inc. v. Barland (Barland II), 751 F.3d 804, 808 (7th Cir. 2014).
+
+2 2013 Senate Joint Resolution 1.
+
+3 Wis. Stat. §§ 11.01(6L), 11.38(1)(a)1. While not mentioned in the statute, labor organizations and tribes are effectively prohibited by the G.A.B. from making direct contributions to candidates.
+
+4 558 U.S. 310 (2010).
+
+5 Wis. Stat. § 11.01(5m). “Conduit” means an individual who or an organization that receives a contribution of money and transfers the contribution to another individual or organization without exercising discretion as to the amount that is transferred and the individual to whom or organization to which the transfer is made.
+
+6 Wis. Stat. § 11.38(1)(b).
+
+7 Wis. Stat. § 11.38(1)(a)3.
+
+8 Barland II, 751 F.3d at 832.
+
+9 Wis. Stat. § 11.26.
+
+10 Ch. 334, Laws of 1973, July 6, 1974.
+
+11 Wis. Admin. Code § GAB 1.20.
+
+12 Wis. Stat. § 13.625(1)(c)(intro.).
+
+13 134 S. Ct. 1434 (2014).
+
+14 Id. at 1450 (internal citations omitted).
+
+15 Wis. Stat. § 11.26(4).
+
+16 Young v. Vocke, No. 13-635 (E.D. Wis. filed June 6, 2013).
+
+17 Order at 1, Young v. Vocke, No. 13-635 (E.D. Wis. May 22, 2014).
+
+18 Press Release, G.A.B. Will Not Enforce Aggregate Campaign Donation Limit (May 22, 2014).
+
+19 664 F.3d 139 (7th Cir. 2011).
+
+20 Wis. Stat. § 11.26(9)(a), (b).
+
+21 CRG Network v. Barland, No. 14-C-719, 2014 WL 4391193 (E.D. Wis. Sept. 5, 2014).
+
+22 Press Release, G.A.B. Stops Enforcing Aggregate PAC Limit (Sept. 9, 2014).
+
+23 Wis. Stat. §§ 11.05, 11.20.
+
+24 Wis. Stat. § 11.20(2), (3).
+
+25 Wis. Stat. § 11.05(2r).
+
+26 Wis. Stat. § 11.21(16).
+
+27 Wis. Stat. § 11.05(2g).
+
+28 Wis. Stat. §§ 11.05(1), 11.07(1).
+
+29 Wis. Stat. § 11.06(1)(a).
+
+30 Wis. Stat. § 11.06(1)(b).
+
+31 Wis. Stat. § 11.12(5).
+
+32 Wis. Stat. § 11.01(16)(a): “Acts which are for ‘political purposes’ include but are not limited to:
+
+1. The making of a communication which expressly advocates the election, defeat, recall or retention of a clearly identified candidate or a particular vote at a referendum. 2. The conduct of or attempting to influence an endorsement or nomination to be made at a convention of political party members or supporters concerning, in whole or in part, any campaign for state or local office.”
+
+33 Buckley v. Valeo, 424 U.S. 1 (1976); Federal Election Comm’n v. Wisconsin Right to Life Inc., 551 U.S. 449 (2007).
+
+34 Citizens United v. Federal Election Comm’n, 558 U.S. 310 (2010).
+
+35 Opinion of Wis. Att’y Gen. to Kevin Kennedy, Director and General Counsel, G.A.B., AOG 5-10 (Aug. 9, 2010).
+
+36 Barland II,751 F.3d at 831.
+
+37 Wis. Admin. Code § GAB 1.91(4), (8).
+
+38 Wis. Admin. Code § GAB 1.91(8).
+
+39 Barland II,751 F.3d at 834, 840-42.
+
+40 Buckley, 424 U.S. 1; North Carolina Right to Life Inc. v. Leake, 525 F.3d 274 (4th Cir. 2008); Citizens United, 558 U.S. 310.
+
+41 Barland II, 751 F.3dat 875.
+
+42 Wis. Stat. § 11.06(7); Wis. Admin. Code § GAB 1.42.
+
+43 Wisconsin Prosperity Network v. Myse, 2012 WI 27, 339 Wis. 2d 243, 810 N.W.2d 356; Wisconsin Club for Growth Inc. v. Myse, No. 10-427 (W.D. Wis. filed July 31, 2010); Wisconsin Right to Life Inc. v. Myse, No. 10-669 (E.D. Wis. filed Aug. 5, 2010).
+
+44 Barland II, 751 F.3d at 841.
+
+45 Id. at 810.
+
+46 Id. at 835; Wis. Stat. § 11.01(16)(a).
+
+47 Barland II, 751 F.3dat 834.
+
+48 Id. at 835.
+
+49 Wis. Stat. § 11.06(7); Wis. Admin. Code §§ GAB 1.42, 1.91(1)(f), El. Bd. Op. 00-2 (Reaffirmed by the G.A.B. March 26, 2008).
+
+50 El. Bd. Op. 00-2 (Reaffirmed by the G.A.B. March 26, 2008).
+
+51 Id.
+
+52 Id.
+
+53 Order at 2-3, Wisconsin Club for Growth v. Schmitz, No. 14-1822 (7th Circuit Sept. 24, 2014).
+
+54 State ex rel. Schmitz v. Peterson, 2014 AP 417-2014 AP 421 (Wis. Ct. App. filed Feb. 21, 2014); State ex rel. Schmitz v. Peterson, 2014 AP 417-2014 AP 421 (Wis. filed April 9, 2014) (petition to bypass).

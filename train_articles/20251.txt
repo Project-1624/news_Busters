@@ -1,0 +1,64 @@
+Methodological Notes and FAQ for “Which States Win Migration? Part I”
+What’s That You Said About Taxes?
+
+Thanks for asking! The relationship between taxes and migration is a topic of heated debate that I’ve written about extensively in the past (just search for “migration” on that page). The best academic evidence suggests that taxes do impact migration. On face value, that lends a lot of support to typically conservative- or small-government arguments for lower taxes. Even when digging deeper, actually, the taxes-migration relationship does support generally conservative claims about taxes, in principle.
+
+But before I’m branded as an ideologue, let me clarify: a statistically significant effect of higher taxes just means “a statistician can show it exists.” It doesn’t mean it’s big. Most studies of migration and taxes find effects that can be categorized as “small but significant.” Cutting taxes doesn’t create seismic changes in migration. It won’t solve deep-seated problems of governance, single-handedly create community renewal, or make a depressed area blossom into new life. Rather, lower taxes can marginally improve migration flows.
+
+Later on in this series, I’m going to talk about taxes in greater length. For now, I hope you’ll be patient and reserve judgment on this question if you disagree with me.
+
+Alaska‘s Migration Was HOW BAD? Could you explain that, please?
+
+Alaska’s alarmingly negative migration rate should be interpreted carefully: low population states with very volatile data often have significant revisions to migration rates when the Census produces 3-year or 5-year averages. The American Community Survey 1-year data generally tends to produce more volatile and extreme measures of migration than Census estimates due to differences in methodology. I use ACS for consistency, because I prefer its methodology, and because it gives a much larger number of ways to disaggregate the data. Alaska’s especially negative migration rate may also relate to its geographic isolation: it may be that out-migrants from Alaska are easier for the ACS to survey and measure than in-migrants into Alaska, thereby overstating out-migration compared to in-migration.
+
+It seems challenging to reconcile Alaska’s ACS-reported 2007–2013 total population loss to migration (331,000 people, or about 48% of the 2006 population) with its ACS-measure population, which grew by 34,000 over the period, or almost 5%. This would necessitate either prodigiously high birth rates, or remarkably high international migration. It seems far more plausible that Alaska’s unusual migration rates reflect some form of methodological issue in the ACS.
+
+DC Is Losing People? But It’s One of the Fastest Growing Metros in the Nation!
+
+True! The Washington, DC metro area is growing. But the District of Columbia isn’t. Most of the growth in the DC metro area is in Virginia or Maryland. The district itself did see fairly high population growth from 2006 to 2013 (8.8%), but much of that is due to extremely low death rates compared to birth rates due to a very young population. International migration also fuels growth in DC.
+
+A major factor in DC’s migration flows is suburbanization. This may also be one component of Delaware’s growth. Increasing populations in “exurban” areas farther from urban cores is often fueld by outmigration from city-centers. In DC, the District itself has very high in-migration by 20-somethings, yet extraordinarily high out-migration by people over the age of 30. People “go home” to their states of origin, or, maybe more commonly, settle out in the ‘burbs, especially once they have kids.
+
+You Show How Many People Moved: But What About Income? How Much Money is Moving?
+
+It’s common for political writing about migration (and much academic writing) to include information about the migration of income. This is the core of How Money Walks, mentioned above, and has featured prominently in writing by political campaigns and by nonpartisan think tanks. This data comes from the IRS’ Statistics of Income (IRS SOI).
+
+IRS SOI is often used to measure migration. In fact, they’re probably the most common tool used to measure migration. There are several reasons for this. The data is fairly easy to use and understand, and can be downloaded in pretty straightforward formats. Spreadsheets are available going back for quite a number of years. Plus, the data gives what appears to be a very clickbait worthy piece of data: how much money entered or left a state?
+
+But as Michael Mazerov at the Center on Budget and Policy Priorities recently laid out, those numbers are pretty dubious (to be clear, there are plenty of places he and I disagree on other migration issues, but on this particular question his point is well made). IRS SOI data simply doesn’t show the migration of income, but rather shows the migration of people who formerly earned a given stream of income (which may, but probably more often may not, migrate with them).
+
+Plus, IRS SOI data has other shortcomings for measuring society in any larger sense. As anyone who has read the user manual for IRS SOI migration data should know (I’m an optimist, and like to think people read user manuals), the data comes with a warning: “Care should be exercised when using these data as proxies for other population universes.” In other words, “Don’t extrapolate this data unless you really know what you’re doing.”
+
+The manual further identifies six reasons the IRS knows exist that may skew migration data: tax preparers may list their address rather than the taxpayer’s address, refunds from financial institutions can impact listed address for tax purposes, individuals with pass-through businesses may file their taxes from their business address (even if they themselves move), college students and the military personnel may send from multiple different addresses (“home” or institutional address), people with dual residences may me mis-measured for migration, or the use of P.O. boxes.
+
+To be clear, what the IRS SOI data measures is not migration in the way I talk about migration. It’s address changes by tax filers. For individuals who are less likely to file taxes (according to the manual, the poor and elderly are big concerns in this regard), IRS SOI will fail to track migration. For individuals who may have non-traditional work and tax arrangements, IRS SOI data may fail to track migration. For people using tax preparers, IRS SOI data may fail to track migration. Some “migration” IRS SOI measures doesn’t actually involve anyone moving, while much migration I like to measures doesn’t show up in IRS SOI at all.
+
+So Is IRS Data Useless? Why Does Anyone Use It?
+
+No, IRS SOI data has lots of uses! It’s especially useful if you want easy-to-use data showing how movement from one specific county or state to another specific county or state. But even for that, it’s really only approximating migration among some population subgroups.
+
+In other words, the only population we can reliably say IRS SOI carefully tracks is wage-earners who file tax returns, and anyone they claim as living with them. That’s a far cry from the whole population and is actually a group that is disproportionately less likely to not migrate.
+
+How Do IRS SOI-Derived Migration Rates Compare to ACS-Derived Migration Rates?
+
+You’re really asking some great questions!
+
+In general, IRS SOI finds a much lower migration rate than ACS data does (IRS SOI migration rates track somewhat more closely with Current Population Survey Annual Social and Economic Supplement migration data). IRS SOI total net migration by state from 2007–2011 (the longest time period for which we have both IRS SOI and ACS data) has a 39.4% correlation with ACS data. Depending on your prior assumptions, that may be low, or may be high.
+
+But that correlation is overwhelmingly influenced by one simple factor: ACS data is much more volatile than IRS data. When Alaska and DC (two major outliers) are excluded, the correlation between ACS and IRS-derived migration rates rises to 84.7%: much, much better. Because the IRS is more likely to track migration based on place of work (for contractors and sole proprietors) than place of residence, while ACS only measures place of residence, the two have very different measures for DC. The IRS finds net positive migration (if only just) from 2007–2011: ACS-measured out-migrants may still be working or owning a business in DC, even if they live in Virginia or Maryland, or may be disproportionately poor and elderly.
+
+There are only 6 states and DC where the IRS and ACS disagree about whether net migration was positive or negative. The ACS data suggests that PA, NE, NV, MO, and KS all had fairly positive in-migration from 2007–2011(between 0.4% and 0.8%). Meanwhile, ACS data suggests that Wyoming lost 0.4% of its 2006 population, and DC lost 8.2%. IRS data suggests PA, NE, NV, MO, and KS all experienced very slightly negative out-migration, while Wyoming saw substantial in-migration.
+
+Are There Any Other Reasons to Use ACS Instead of IRS?
+
+Yes, there are! I use ACS because it gives far more detail about who migrants are. With ACS data, we can ask questions about demographics, socioeconomic status, and even some pieces of migrants’ personal histories. IRS SOI data is governed by privacy protection laws (understandably: do you want me snooping through your tax documents?), and thus can’t provide similar granularity. Furthermore, using ACS just makes sense: if we want to understand migrants, it makes sense to just survey people where they are, and ask where they came from. Tax data will obviously be incomplete, and subject to whatever strategies taxpayers use to reduce tax burdens. An independent survey is a far more reasonable way to track migration.
+
+IRS SOI data is useful, and provides an essential resource for double-checking ACS data. States with major deviations can point to shortcomings in either set of data (like Alaska: IRS SOI data suggests a much smaller amount of net out-migration). But on its own, IRS SOI data excludes significant sections of the migrant population, has systematic shortcomings, and is simply not an intuitive first-recourse for studying migration.
+
+Go back to the main post!
+
+Start the series from the beginning!
+
+If you like this post and want to see more research like it, I’d love for you to share it on Twitter or Facebook. But what’s just as valuable for me is if you click the recommend button at the bottom of the page. Thanks!
+
+Follow me on Twitter. Follow my Medium Collection at In a State of Migration. I’m a grad student in International Trade and Investment Policy at the George Washington University’s Elliott School. I like to write and tweet about migration, airplanes, trade, space, and other new and interesting research. Cover photo fromUnsplash.

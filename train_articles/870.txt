@@ -1,0 +1,164 @@
+The Accessibility of Firearms and Risk for Suicide and Homicide Victimization Among Household MembersA Systematic Review and Meta-analysis
+Abstract
+
+This article has been corrected. The original version (PDF) is appended to this article as a Supplement. Background: Research suggests that access to firearms in the home increases the risk for violent death. Purpose: To understand current estimates of the association between firearm availability and suicide or homicide. Data Sources: PubMed, EMBASE, the Cochrane Central Register of Controlled Trials, and Web of Science were searched without limitations and a gray-literature search was performed on 23 August 2013. Study Selection: All study types that assessed firearm access and outcomes between participants with and without firearm access. There were no restrictions on age, sex, or country. Data Extraction: Two authors independently extracted data into a standardized, prepiloted data extraction form. Data Synthesis: Odds ratios (ORs) and 95% CIs were calculated, although published adjusted estimates were preferentially used. Summary effects were estimated using random- and fixed-effects models. Potential methodological reasons for differences in effects through subgroup analyses were explored. Data were pooled from 16 observational studies that assessed the odds of suicide or homicide, yielding pooled ORs of 3.24 (95% CI, 2.41 to 4.40) and 2.00 (CI, 1.56 to 3.02), respectively. When only studies that used interviews to determine firearm accessibility were considered, the pooled OR for suicide was 3.14 (CI, 2.29 to 4.43). Limitations: Firearm accessibility was determined by survey interviews in most studies; misclassification of accessibility may have occurred. Heterogeneous populations of varying risks were synthesized to estimate pooled odds of death. Conclusion: Access to firearms is associated with risk for completed suicide and being the victim of homicide. Primary Funding Source: None.
+
+Firearms cause an estimated 31 000 deaths annually in the United States (1) . Data from the 16-state National Violent Death Reporting System indicate that 51.8% of deaths from suicide in 2009 (n = 9949) were firearm-related; among homicide victims (n = 4057), 66.5% were firearm-related. Most suicides (76.4%) occurred in the victims’ homes. Homicides also frequently occurred in the home, with 45.5% of male victims and 74.0% of female victims killed at home (2)
+
+Firearm ownership is more prevalent in the United States than in any other country; approximately 35% to 39% of households have firearms (3, 4) , and 22% of persons report owning firearms. The annual rate of suicide by firearms (6.3 suicides per 100 000 residents) is higher in the United States than in any other country with reported data, and the annual rate of firearm-related homicide in the United States (7.1 homicides per 100 000 residents) is the highest among high-income countries (4) . Results from ecological studies suggest that state restrictions on firearm ownership are associated with decreases in firearm-related suicides and homicides (5)
+
+Specific characteristics about storage and types of firearms seem to increase suicide risk. Firearms that are stored loaded or unlocked are more likely to be used than those that are unloaded or locked (6, 7) , and adolescent suicide victims often use an unlocked firearm in the home (8) . The apparent increased risk for suicide associated with firearms in the home is not unique to persons with a history of mental illness (7) and may be more of an indicator of the ease of impulsive suicide.
+
+Impulsiveness may be a catalyst in using a firearm to commit suicide and may also play a role in firearm-related homicide. Researchers have estimated higher odds of homicide victimization among women than men (9, 10) . Because most homicide victims know their perpetrators (9) , this finding may indicate an impulsive reaction to domestic disputes.
+
+To our knowledge, this is the first systematic review and meta-analysis to estimate the association between firearm accessibility and suicide or homicide victimization.
+
+Methods
+
+We used Cochrane Collaboration methods (11) throughout the review process.
+
+Data Sources and Searches
+
+We searched PubMed, EMBASE, the Cochrane Central Register of Controlled Trials, and Web of Science without date, geographic, or language limitations. We also examined bibliographies of included articles to identify additional references. In addition, we searched the gray literature for papers related to firearms and suicide or homicide. The Appendix and Appendix Table 1 (both available at www.annals.org ) present details of our search strategy and screening process.
+
+Appendix Table 1. Search Strategy Appendix Table 1. Search Strategy
+
+Study Selection
+
+Study Design
+
+Study designs eligible for inclusion in our review were randomized, controlled trials; nonrandomized, controlled trials; pre- or postintervention evaluations; and observational studies (for example, cohort or case–control studies) if a comparator was available. Because we were concerned with the individual effects of firearm accessibility, we included only studies with individual-level data and excluded those with population-level data (for example, ecological studies).
+
+Types of Participants
+
+Participants were not restricted by age, sex, or country of residence.
+
+Types of Exposures
+
+Studies needed to assess whether firearms were available for all participants. In addition, included studies needed to assess outcomes between participants with and without access to firearms. Specifically, studies needed to compare firearm ownership or availability (that is, accessibility) with no firearm ownership or availability (that is, no accessibility) or provide adequate data to estimate the effect that firearms had on selected harms outcomes. Firearm accessibility could be defined as self- or proxy-reported or assumed from other types of exposure data (for example, firearm purchase records).
+
+Types of Outcome Measures
+
+The primary outcomes of interest were suicide or homicide victimization (that is, being a victim of homicide rather than a perpetrator).
+
+Data Extraction and Quality Assessment
+
+Two authors independently extracted relevant data into a standardized, prepiloted data extraction form.
+
+Assessment of Risk of Bias
+
+Two authors independently assessed the risk of bias for each study by using the Newcastle–Ottawa Scale (12, 13) . We resolved disagreements by discussion or by involving the third author to adjudicate ( Table 1 and Appendix Table 2 ).
+
+Table 1. Summary of Critical Appraisal of Included Studies Using the Newcastle–Ottawa Scale for Assessing the Quality of Observational Studies* Table 1. Summary of Critical Appraisal of Included Studies Using the Newcastle–Ottawa Scale for Assessing the Quality of Observational Studies*
+
+Appendix Table 2. Detailed Risk of Bias Results Using the Newcastle–Ottawa Scale for Assessing Quality for Observational Studies Appendix Table 2. Detailed Risk of Bias Results Using the Newcastle–Ottawa Scale for Assessing Quality for Observational Studies
+
+Data Synthesis and Analysis
+
+2) (14). When necessary, we calculated the odds ratio (OR) and 95% CI for dichotomous outcomes, although published adjusted estimates were preferentially used if provided in the report. We pooled data across studies and estimated summary effect sizes by using fixed- and random-effects models. The choice of model was determined by the significance of the maximum likelihood estimate of the heterogeneity parameter (τ
+
+2 did not significantly differ from 0, the fixed-effects model was used 2 statistic and the τ coefficient. Estimates of the former are interpreted as the percentage of variability in effect estimates due to heterogeneity rather than chance, whereas the latter can be interpreted as the clinical heterogeneity as determined by the estimated SD of underlying effects across studies. Unlike the I2 statistic, the τ coefficient does not change with the number of patients included in the studies in a meta-analysis If the estimate of τdid not significantly differ from 0, the fixed-effects model was used (14) . We present 2 estimates of heterogeneity—the Istatistic and the τ coefficient. Estimates of the former are interpreted as the percentage of variability in effect estimates due to heterogeneity rather than chance, whereas the latter can be interpreted as the clinical heterogeneity as determined by the estimated SD of underlying effects across studies. Unlike the Istatistic, the τ coefficient does not change with the number of patients included in the studies in a meta-analysis (15) . We used R, version 3.0.0 (R Foundation for Statistical Computing, Vienna, Austria), for statistical analyses. The τ coefficient was measured on the log OR scale.
+
+This review is registered in PROSPERO (CRD42013004469).
+
+Results
+
+Search Results
+
+The database searches yielded 6902 references ( Figure 1 ). We removed 2929 duplicates and an additional 2881 clearly irrelevant references. We then identified 2382 records through gray-literature searches. We closely reviewed 3474 titles and abstracts. After this screening, we selected 70 articles for full-text review. We identified an additional 4 studies by cross-referencing bibliographies (16–19) . Overall, 16 observational studies met our inclusion criteria. The Appendix shows the disposition of studies excluded after full-text review.
+
+Figure 1.
+
+Study Characteristics
+
+Demographic Characteristics
+
+Firearm Access
+
+Among 11 U.S. case–control studies using survey data, proportions of firearm access ranged from 62.7% to 75.4% among case patients and from 26.4% to 50.8% among controls participants. One non-U.S. study (20) used survey data to estimate the proportion of case patients (23.9%) and control participants (18.5%) with firearm access, and another non-U.S. study (25) assumed firearm access from military duty and estimated the proportion of case patients (41%) and control participants (17%) with access. Among U.S.-based studies with reported data, the proportion of completed suicides using a firearm ranged from 47% to 73% (6, 7, 10, 16, 17, 21–24) ; 3 studies did not report adequate data (8, 18, 19)
+
+One non–U.S.-based study of civilians reported that 13% of suicides were completed using a firearm (20) , whereas another non-U.S. study of military personnel reported that 52% of suicides were completed using a firearm (25) . The proportion of homicides using a firearm ranged from 50% to 76% (13, 15, 27–29)
+
+Studies of Suicide
+
+Table 2. Characteristics of Included Studies of Suicide and Homicide Victimization Table 2. Characteristics of Included Studies of Suicide and Homicide Victimization
+
+Studies of Homicide Victimization
+
+Three of 6 studies (50.0%) interviewed proxies to determine firearm accessibility in the home of decedents or control participants ( Table 1 (9, 10, 23) . Two studies (33.0%) used firearm purchase records to determine firearm accessibility of decedents or control participants (22, 24) . In the 3 studies that used survey data, proportions of case patients with firearm access ranged from 30.7% to 45.4% and proportions of control participants ranged from 32.0% to 35.8%. Four studies (66.7%) defined homicide victimization as intentional death by any means, and 1 defined it as firearm- or violence-related injury (24) . All homicides were reported consecutively or identified by using death certificates. In the 5 case–control studies with homicide outcomes, various types of control participants were identified, including community or school control participants (40.0%) (9, 48) , nonhomicide decedents (40.0%) (10, 24) , or living HMO-based control participants (20.0%) (22)
+
+Control Participant Selection
+
+Three case–control studies had potential selection bias resulting from how control participants were selected (16, 17, 22) . Cummings and colleagues (22) used an HMO population as the source of their control participants, whereas 2 other studies used inpatient hospital control participants (16, 17) . Using HMO or inpatient hospital control participants can violate principles in control selection—namely, that firearm accessibility for control participants may not be the same as that in the study base (30) . This bias may occur when patients use the HMO system or hospital to seek care for suicidal planning with firearms as the means. Two studies (16, 17) are especially prone to the Berkson bias—that is, firearm access is related to inpatient hospitalization due to suicidal planning (31)
+
+Comparability
+
+Five studies of suicide had potential comparability bias resulting from a lack of adequate adjustment for major confounders (for example, history of mental illness) (10, 16, 22, 24, 25) . Specifically, 1 study's authors describe significant differences between case patients and control participants with regard to some diagnoses of mental illness, although these are not adjusted for in the model with firearm accessibility (16) . Four other studies did not report data on history of mental illness (10, 22, 24, 25) . Similarly, 3 studies of homicide victimization had potential comparability bias resulting from a lack of adequate adjustment for major confounders (for example, arrest history of someone in the household) (10, 22, 24) . In turn, it was not possible to discern whether domestic violence or arrest history differ between homicide case patients and control participants, which may have resulted in confounding.
+
+Exposure
+
+Eleven of 14 studies of suicide and 2 of 6 studies of homicide had potential exposure bias due to unblinded interviews of proxies of case patients and control participants or differential nonresponse rates between case patients and control participants (6–10, 16–21, 23) . Specifically, these studies used surveys to collect data on firearm accessibility; proxies for case patients and control participants knew their case patient or control participant status, thereby potentially biasing recall of firearm accessibility. Finally, although 7 case–control studies reported equal nonresponse rates between case patients and control participants (6, 9, 10, 20, 22, 24, 25) , 7 others did not report this (7, 8, 16–19, 21) , potentially leading to differential misclassification of firearm exposure.
+
+Meta-analysis of Effects of Guns in the Home
+
+Suicide Outcomes
+
+2 = 89%; τ = 0.45) ( We pooled data from 14 identified observational studies that assessed the odds of suicide (6–8, 10, 16–25) and, using a random-effects model, calculated a pooled OR of 3.24 (95% CI, 2.41 to 4.40) with substantial heterogeneity (I= 89%; τ = 0.45) ( Figure 2 ). All but 1 study (20) found significantly higher odds of suicide among participants who had firearm access than among those who did not, with ORs ranging from 1.38 to 10.38.
+
+Figure 2.
+
+Homicide Outcomes
+
+2 = 63%; τ = 0.22) ( We also pooled data from 6 studies that assessed the odds of homicide (9, 10, 22–24, 48) and, using a random-effects model, estimated a pooled OR of 2.00 (CI, 1.56 to 3.02) with substantial heterogeneity (I= 63%; τ = 0.22) ( Figure 2 ). All studies found significantly higher odds of homicide victimization among participants who had access to a firearm than among those who did not, with ORs ranging from 1.41 to 3.54.
+
+Subgroup Analyses
+
+To determine the effect that differences between subgroups had on pooled estimates, we stratified results by sex, age (adolescent or adult), year of publication (before 1997 or 1997 to 2013), location of death (in home only or not in home only), and risk of bias (high or moderate to low) ( Figure 3 ). Most tests for interaction between subgroups were not statistically significant, although women had significantly higher odds of homicide victimization than men (P < 0.001) and studies with moderate or low risk of bias yielded higher odds of homicide victimization than high-risk studies when firearm access was compared with no access (P < 0.001).
+
+Figure 3.
+
+Discussion
+
+We performed a systematic review and meta-analysis of all studies that compared the odds of suicide or homicide victimization between persons with and without reported firearm access. All but 1 of the 16 studies identified in this review reported significantly increased odds of death associated with firearm access. We found strong evidence for increased odds of suicide among persons with access to firearms compared with those without access (OR, 3.24 [CI, 2.41 to 4.40]) and moderate evidence for an attenuated increased odds of homicide victimization when persons with and without access to firearms were compared (OR, 2.00 [CI, 1.56 to 3.02]).
+
+Although our study attempts to quantify a person's risk for suicide and homicide in the context of firearm access, many studies have used population-level data to describe the public health risk in terms of aggregate firearm ownership (34–48) . Reported proportions of U.S. households and persons with access to firearms are the highest in the world (3, 4) , whereas rates of firearm-related deaths are among the highest among high-income countries (4)
+
+It has been suggested that higher rates of suicide and homicide in areas with the highest rates of gun availability may indicate impulsivity and ease of locating firearms (37, 49) . In addition, although a public health approach to prevention that entails restriction of access to firearms may lead to violent death by other means, the increased rates of violent death (suicide and homicide) in states with the highest rates of firearm access were attributable more to firearm violence than to nonfirearm violence (37)
+
+Sex-specific subgroup analyses suggest that men with access to firearms have statistically nonsignificant higher odds for committing suicide than women (ORs, 3.71 and 3.56, respectively). Moreover, the nonsignificant pooled OR of suicide among women when firearm access was compared suggests that evidence of an increased risk for suicide among women may not be very strong when all of the available literature is considered. Recent research that found that women are less likely to achieve suicide completion by firearm or hanging and are nearly 4 times more likely to use poison than men (OR, 3.65 [CI, 1.87 to 7.09]) (50) seems to support these findings.
+
+Although men with access to firearms may have higher odds of committing suicide than women, women have higher odds of homicide victimization. The tests for interaction between sex subgroups in our meta-analysis were significant in fixed-effects models (P < 0.001). Although men account for more than three quarters of all suicides and homicides, women with firearm access have a higher risk for homicide victimization, a finding that previous studies support (9, 10) . Of note, in our review, homicide was the result of victimization rather than perpetration. Furthermore, empirical evidence suggests that most homicide victims know their assailant (10, 24) , which suggests an interpersonal dispute within the household or other domestic violence and not an unknown intruder.
+
+Our results suggest that the pooled OR of suicide is similar between adults and adolescents (ORs, 3.34 and 2.56, respectively; P value for interaction = 0.31). To determine the extent to which data from firearm purchases or military duty contribute to the effects seen among adults, we performed a sensitivity analysis that excluded studies with those data; the pooled OR for suicide among adults was slightly decreased (3% reduction; pooled OR, 3.25) in this analysis. We performed an additional sensitivity analysis that excluded the remaining non-U.S. study, and the pooled OR increased slightly (9% increase; pooled OR, 3.64). Tests for interactions among age subgroups remained nonsignificant (P = 0.170), although estimates for adults were more than 40% higher than those for adolescents. Accessibility may explain part of the difference in risk between adults and adolescents; adults typically purchase and store the firearms, and improper storage practices pose a serious risk because they have been previously associated with adolescent suicide (51)
+
+The availability of firearms in the home may not be the catalyst for suicidal ideation, but firearms may be a preferred method of suicide among those who have suicidal thoughts. Betz and colleagues (52) found that adolescents with firearm access were no more likely to have suicidal thoughts or a suicide plan in the past 12 months than those without firearm access. However, among adolescents with a suicide plan, those with a firearm in the home were more than 7 times more likely to have a plan involving firearms than those without a firearm in the home (OR, 7.39 [CI, 2.04 to 26.84]) (52)
+
+Since 1996, federal law has prohibited U.S. Department of Health and Human Services agencies from using funds for research that could be interpreted as promoting or advocating for gun control (53) . Although we anticipated a lower absolute number of studies since 1996, we found that 63% of all studies (n = 10) were published from 1997 to 2013 compared with 37% published before 1997. Similarly, a recent study of publication rates of studies of firearm-related death among youths found an increase in publications (54) . The investigators found that, although the rates of publication increased, the relative increase was lower than among publications of other leading causes of death among youths, and models exploring the effects of the federal law passed in 1996 did not suggest a temporal pattern in publication (54)
+
+We also stratified our pooled results by risk of bias and found no significant difference between studies with high risk and those with moderate or low risk (ORs, 3.43 and 3.23, respectively). To the extent that we measured bias in the studies of suicide, we were not able to detect any influence of these biases in the pooled results. Among studies with only moderate or low risk of bias that evaluated the effect of firearm ownership on homicide, the pooled OR was 2.36 (CI, 1.81 to 3.01), which is 18% higher than the pooled OR that included all studies, suggesting that the higher bias in homicide studies may trend estimates toward the null.
+
+Our review has limitations. First, our conclusions are only as good as the data and studies that we identified. To minimize this limitation, we searched extensively by using standardized search strategies from the Cochrane Collaboration to identify all relevant studies. Studies of death commonly have a case–control design, although the cohort study included in our meta-analysis found results similar to those of the case–control studies. In addition, although we limited our analysis to individual-level data, we acknowledge that several available ecological studies have also explored the link between firearms and violent death (5, 55) . Among other concerns, we decided not to include population-level data because we were concerned about ecological bias; for example, gun ownership data on a population level may not reflect the persons who actually commit suicide, so no true link between gun ownership and harms outcomes can be made. Despite their limitations, individual-level data, such as those we included in this study, are ideal because confounding and explanatory reasons for the relationship among firearms and suicide and homicide can be better explored.
+
+Second, misclassification of firearm exposure and cause of death is a potential risk in included studies. Although all studies of homicide were among adults, causes of firearm-related deaths are inconsistently reported as homicide or accidental, particularly among children (56) . In fact, in some cases, accidental firearm-related deaths among children may be classified as homicide due to an unsecured firearm or as a result of a medical examiner's decision that any death resulting from 1 person shooting another, regardless of intent, is a homicide (56) . Further, to determine firearm availability, proxies were interviewed in 79% of studies evaluating suicide outcomes and 50% evaluating homicide outcomes. However, evidence suggests apparent differences between sexes in describing firearm ownership or firearm storage within the same household (57, 58) . In fact, husbands are most often acknowledged by both men and women to be the person responsible for firearm storage and ownership (58) , a sex gap that may introduce selection bias in proxy interviews.
+
+Third, we synthesized heterogeneous populations of varying risks to estimate pooled ORs of death. We analyzed our pooled data by using fixed- and random-effects models but note that fixed-effects models only marginally changed pooled effects in the suicide outcomes and all models retained statistical significance. Specifically, when fixed-effects models were used instead of random-effects models, the pooled ORs changed from 3.24 to 3.32 for suicide and from 1.94 to 1.65 for homicide. Moreover, for the 11 U.S. studies that used survey data to classify firearm exposure, proportions of case patients with gun access were closely related, ranging from 62.7% to 75.4%. The reported proportions of control participants with gun access varied more, from 26.4% to 50.8%. Perhaps as a reflection of different firearm ownership culture or restrictions, the only non-U.S. study in a civilian population used survey data and estimated the proportions of suicide case patients and control participants with firearm access to be considerably lower than those in U.S. studies (23.9% and 18.5%, respectively) (20)
+
+Fourth, we considered studies of suicide and homicide victimization by any means, and firearm-specific outcomes may differ. In addition to the other differences between U.S. and non-U.S. studies, 47% to 73% of suicide cases in the United States were firearm-specific compared with only 13% of cases in the study of non-U.S. civilians (20) . When considering suicides by nonfirearm methods in the identified literature, researchers have generally found reduced odds of suicide completion by any means other than a firearm, comparing firearm accessibility (OR range, 0.68 to 0.90) (7, 10, 22, 24) . Among homicide victimization studies, none reported a significant finding for homicides that are not firearm-specific, although the proportion of homicides in which firearms was used ranged from 50% to 100% (9, 10, 22–24, 48)
+
+Fifth, in studies with homicide outcomes, whether the presence of a firearm among case patients is the result of environmental characteristics or living conditions is unclear. For example, some persons may purchase a firearm for protection because of neighborhood crime, which then translates the risk from the ownership of a firearm to the neighborhood. Also, in homicides, the case patients are by definition deceased and injuries due to firearms may be more lethal than other means; thus, assault by other means would be less likely to be captured (59)
+
+Finally, other sources of bias are an ever-present threat. Among them, using firearm purchase data or military duty as a proxy for firearm access or ownership may not accurately represent ownership. The pooled OR for suicide in our random-effects meta-analyses with data from firearm purchase or military duty was only 3.2% higher than the pooled OR without these studies (3.24 and 3.14, respectively). In contrast, the pooled OR for homicide in the random-effects meta-analyses with firearm purchase data was 29.9% higher than the pooled OR (fixed-effects) without these studies (2.00 and 1.54, respectively), although this is probably partly an artifact of model specification. Finally, although publication bias is a concern, the Egger regression tests for asymmetry of the funnel plot (27) for suicide studies were not significant (P = 0.88). However, we identified too few studies of homicide to reasonably assess publication bias.
+
+In summary, we found the association between firearm availability and homicide to be more modest than that between firearm availability and completed suicide. Future studies of firearm access and homicide risk should focus on the role that social factors and surrounding living conditions play in homicide victimization. Furthermore, the National Research Council has acknowledged the difficulty in establishing firearm ownership in studies because of privacy and questionable legality concerns (28) . As such, it recommended that researchers receive adequate access to data to trace firearms (28) . Future studies of the effect of firearms used in violent injuries may, as a result, have a lower risk for misclassification of firearm ownership and yield more methodologically robust results. Nonetheless, the evidence that we synthesize here helps to elucidate the risks of having a firearm in the home; restricting that access may effectively prevent injury (29)
+
+Appendix: The Accessibility of Firearms and Risk for Suicide and Homicide Victimization Among Household Members
+
+Search Strategy
+
+One investigator reviewed the titles and abstracts identified in the initial search to assess potential relevance to the topic. After removing irrelevant titles, 2 investigators independently read the titles, abstracts, and descriptor terms of the remaining citations to identify eligible reports. We obtained full-text articles for all citations identified as potentially eligible, and 2 investigators independently determined the relevance of the articles according to our inclusion criteria.
+
+When there was uncertainty about a study's eligibility, we obtained the full-text article. The 2 investigators independently applied the inclusion criteria, and any differences were resolved by discussion with the third investigator. We reviewed studies for relevance based on design, types of participants, and outcome measures.
+
+Disposition of Excluded Studies After Full-Text Review
+
+References

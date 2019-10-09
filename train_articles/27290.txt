@@ -1,0 +1,257 @@
+WikiLeaks is a not-for-profit media organisation. Our goal is to bring important news and information to the public. We provide an innovative, secure and anonymous way for sources to leak information to our journalists (our electronic drop box). One of our most important activities is to publish original source material alongside our news stories so readers and historians alike can see evidence of the truth. We are a young organisation that has grown very quickly, relying on a network of dedicated volunteers around the globe. Since 2007, when the organisation was officially launched, WikiLeaks has worked to report on and publish important information. We also develop and adapt technologies to support these activities.
+
+WikiLeaks has sustained and triumphed against legal and political attacks designed to silence our publishing organisation, our journalists and our anonymous sources. The broader principles on which our work is based are the defence of freedom of speech and media publishing, the improvement of our common historical record and the support of the rights of all people to create new history. We derive these principles from the Universal Declaration of Human Rights. In particular, Article 19 inspires the work of our journalists and other volunteers. It states that everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers. We agree, and we seek to uphold this and the other Articles of the Declaration.
+
+1.2 How WikiLeaks works
+
+WikiLeaks has combined high-end security technologies with journalism and ethical principles. Like other media outlets conducting investigative journalism, we accept (but do not solicit) anonymous sources of information. Unlike other outlets, we provide a high security anonymous drop box fortified by cutting-edge cryptographic information technologies. This provides maximum protection to our sources. We are fearless in our efforts to get the unvarnished truth out to the public. When information comes in, our journalists analyse the material, verify it and write a news piece about it describing its significance to society. We then publish both the news story and the original material in order to enable readers to analyse the story in the context of the original source material themselves. Our news stories are in the comfortable presentation style of Wikipedia, although the two organisations are not otherwise related. Unlike Wikipedia, random readers can not edit our source documents.
+
+As the media organisation has grown and developed, WikiLeaks been developing and improving a harm minimisation procedure. We do not censor our news, but from time to time we may remove or significantly delay the publication of some identifying details from original documents to protect life and limb of innocent people.
+
+We accept leaked material in person and via postal drops as alternative methods, although we recommend the anonymous electronic drop box as the preferred method of submitting any material. We do not ask for material, but we make sure that if material is going to be submitted it is done securely and that the source is well protected. Because we receive so much information, and we have limited resources, it may take time to review a source’s submission.
+
+We also have a network of talented lawyers around the globe who are personally committed to the principles that WikiLeaks is based on, and who defend our media organisation.
+
+1.3 Why the media (and particularly Wiki leaks) is important
+
+Publishing improves transparency, and this transparency creates a better society for all people. Better scrutiny leads to reduced corruption and stronger democracies in all society’s institutions, including government, corporations and other organisations. A healthy, vibrant and inquisitive journalistic media plays a vital role in achieving these goals. We are part of that media.
+
+Scrutiny requires information. Historically, information has been costly in terms of human life, human rights and economics. As a result of technical advances particularly the internet and cryptography - the risks of conveying important information can be lowered. In its landmark ruling on the Pentagon Papers, the US Supreme Court ruled that "only a free and unrestrained press can effectively expose deception in government." We agree.
+
+We believe that it is not only the people of one country that keep their own government honest, but also the people of other countries who are watching that government through the media.
+
+In the years leading up to the founding of WikiLeaks, we observed the world’s publishing media becoming less independent and far less willing to ask the hard questions of government, corporations and other institutions. We believed this needed to change.
+
+WikiLeaks has provided a new model of journalism. Because we are not motivated by making a profit, we work cooperatively with other publishing and media organisations around the globe, instead of following the traditional model of competing with other media. We don’t hoard our information; we make the original documents available with our news stories. Readers can verify the truth of what we have reported themselves. Like a wire service, WikiLeaks reports stories that are often picked up by other media outlets. We encourage this. We believe the world’s media should work together as much as possible to bring stories to a broad international readership.
+
+1.4 How WikiLeaks verifies its news stories
+
+We assess all news stories and test their veracity. We send a submitted document through a very detailed examination a procedure. Is it real? What elements prove it is real? Who would have the motive to fake such a document and why? We use traditional investigative journalism techniques as well as more modern rtechnology-based methods. Typically we will do a forensic analysis of the document, determine the cost of forgery, means, motive, opportunity, the claims of the apparent authoring organisation, and answer a set of other detailed questions about the document. We may also seek external verification of the document For example, for our release of the Collateral Murder video, we sent a team of journalists to Iraq to interview the victims and observers of the helicopter attack. The team obtained copies of hospital records, death certificates, eye witness statements and other corroborating evidence supporting the truth of the story. Our verification process does not mean we will never make a mistake, but so far our method has meant that WikiLeaks has correctly identified the veracity of every document it has published.
+
+Publishing the original source material behind each of our stories is the way in which we show the public that our story is authentic. Readers don’t have to take our word for it; they can see for themselves. In this way, we also support the work of other journalism organisations, for they can view and use the original documents freely as well. Other journalists may well see an angle or detail in the document that we were not aware of in the first instance. By making the documents freely available, we hope to expand analysis and comment by all the media. Most of all, we want readers know the truth so they can make up their own minds.
+
+1.5 The people behind WikiLeaks
+
+WikiLeaks is a project of the Sunshine Press. It’s probably pretty clear by now that WikiLeaks is not a front for any intelligence agency or government despite a rumour to that effect. This rumour was started early in WikiLeaks’ existence, possibly by the intelligence agencies themselves. WikiLeaks is an independent global group of people with a long standing dedication to the idea of a free press and the improved transparency in society that comes from this. The group includes accredited journalists, software programmers, network engineers, mathematicians and others.
+
+To determine the truth of our statements on this, simply look at the evidence. By definition, intelligence agencies want to hoard information. By contrast, WikiLeaks has shown that it wants to do just the opposite. Our track record shows we go to great lengths to bring the truth to the world without fear or favour.
+
+The great American president Thomas Jefferson once observed that the price of freedom is eternal vigilance. We believe the journalistic media plays a key role in this vigilance.
+
+1.6 Anonymity for sources
+
+As far as we can ascertain, WikiLeaks has never revealed any of its sources. We can not provide details about the security of our media organisation or its anonymous drop box for sources because to do so would help those who would like to compromise the security of our organisation and its sources. What we can say is that we operate a number of servers across multiple international jurisdictions and we we do not keep logs. Hence these logs can not be seized. Anonymization occurs early in the WikiLeaks network, long before information passes to our web servers. Without specialized global internet traffic analysis, multiple parts of our organisation must conspire with each other to strip submitters of their anonymity.
+
+However, we also provide instructions on how to submit material to us, via net cafes, wireless hot spots and even the post so that even if WikiLeaks is infiltrated by an external agency, sources can still not be traced. Because sources who are of substantial political or intelligence interest may have their computers bugged or their homes fitted with hidden video cameras, we suggest that if sources are going to send WikiLeaks something very sensitive, they do so away from the home and work.
+
+A number of governments block access to any address with WikiLeaks in the name. There are ways around this. WikiLeaks has many cover domains, such as https://destiny.mooo.com, that don’t have the organisation in the name. It is possible to write to us or ask around for other cover domain addresses. Please make sure the cryptographic certificate says wikileaks.org .
+
+2. WikiLeaks’ journalism record
+
+2.1 Prizes and background
+
+WikiLeaks is the winner of:
+
+the 2008 Economist Index on Censorship Freedom of Expression award
+
+the 2009 Amnesty International human rights reporting award (New Media)
+
+WikiLeaks has a history breaking major stories in major media outlets and robustly protecting sources and press freedoms. We have never revealed a source. We do not censor material. Since formation in 2007, WikiLeaks has been victorious over every legal (and illegal) attack, including those from the Pentagon, the Chinese Public Security Bureau, the Former president of Kenya, the Premier of Bermuda, Scientology, the Catholic & Mormon Church, the largest Swiss private bank, and Russian companies. WikiLeaks has released more classified intelligence documents than the rest of the world press combined.
+
+2.2 Some of the stories we have broken
+
+War, killings, torture and detention
+
+Government, trade and corporate transparency
+
+Suppression of free speech and a free press
+
+Diplomacy, spying and (counter-)intelligence
+
+Ecology, climate, nature and sciences
+
+Corruption, finance, taxes, trading
+
+Censorship technology and internet filtering
+
+Cults and other religious organizations
+
+Abuse, violence, violation
+
+War, killings, torture and detention
+
+Changes in Guantanamo Bay SOP manual (2003-2004) - Guantanamo Bay’s main operations manuals
+
+Of Orwell, Wikipedia and Guantanamo Bay - In where we track down and expose Guantanamo Bay’s propaganda team
+
+Fallujah jail challenges US - Classified U.S. report into appalling prison conditions in Fallujah
+
+U.S lost Fallujah’s info war - Classified U.S. intelligence report on the battle of Fallujah, Iraq
+
+US Military Equipment in Iraq (2007) - Entire unit by unit equipment list of the U.S army in Iraq
+
+Dili investigator called to Canberra as evidence of execution mounts - the Feb 2008 killing of East Timor rebel leader Reinado
+
+Como entrenar a escuadrones de la muerte y aplastar revoluciones de El Salvador a Iraq - The U.S. Special Forces manual on how to prop up unpopular government with paramilitaries
+
+Government, trade and corporate transparency
+
+Change you can download: a billion in secret Congressional reports - Publication of more than 6500 Congressional Research Reports, worth more than a billion dollars of US tax-funded research, long sought after by NGOs, academics and researchers
+
+ACTA trade agreement negotiation lacks transparency - The secret ACTA trade agreement draft, followed by dozens of other publications, presenting the initial leak for the whole ACTA debate happening today
+
+Toll Collect Vertraege, 2002 - Publication of around 10.000 pages of a secret contract between the German federal government and the Toll Collect consortium, a private operator group for heavy vehicle tolling system
+
+Leaked documents suggest European CAP reform just a whitewash - European farm reform exposed
+
+Stasi still in charge of Stasi files - Suppressed 2007 investigation into infiltration of former Stasi into the Stasi files commission
+
+IGES Schlussbericht Private Krankenversicherung, 25 Jan 2010 - Hidden report on the economics of the German private health insurance system and its rentability
+
+Suppression of free speech and a free press - The Independent: Toxic Shame: Thousands injured in African city, 17 Sep 2009 - Publication of an article originally published in UK newspaper The Independent, but censored from the Independent’s website. WikiLeaks has saved dozens of articles, radio and tv recordings from disappearing after having been censored from BBC, Guardian, and other major news organisations archives. - Secret gag on UK Times preventing publication of Minton report into toxic waste dumping, 16 Sep 2009 - Publication of variations of a so-called super-injunction, one of many gag-orders published by WikiLeaks to expose successful attempts to suppress the free press via repressive legal attacks - Media suppression order over Turks and Caicos Islands Commission of Inquiry corruption report, 20 Jul 2009 - Exposure of a press gagging order from the Turks and Caicos Islands, related to WikiLeaks exposure of the Commission of Inquiry corruption report - Bermuda’s Premier Brown and the BCC bankdraft - Brown went to the Privy council London to censor the press in Bermuda - How German intelligence infiltrated Focus magazine - Illegal spying on German journalists
+
+Diplomacy, spying and (counter-)intelligence
+
+U.S. Intelligence planned to destroy WikiLeaks, 18 Mar 2008 - Classified (SECRET/NOFORN) 32 page U.S. counterintelligence investigation into WikiLeaks. Has been in the worldwide news.
+
+CIA report into shoring up Afghan war support in Western Europe, 11 Mar 2010 - This classified CIA analysis from March, outlines possible PR-strategies to shore up public support in Germany and France for a continued war in Afghanistan. Received international news coverage in print, radio and TV.
+
+U.S. Embassy profiles on Icelandic PM, Foreign Minister, Ambassador - Publication of personal profiles for briefing documents for U.S. officials visiting Iceland. While lowly classified are interesting for subtle tone and internal facts.
+
+Cross-border clashes from Iraq O.K. - Classified documents reveal destabalizing U.S. military rules
+
+Tehran Warns US Forces against Chasing Suspects into Iran - Iran warns the United States over classified document on WikiLeaks
+
+Inside Somalia and the Union of Islamic Courts - Vital strategy documents in the Somali war and a play for Chinese support
+
+Ecology, climate, nature and sciences
+
+Draft Copenhagen climate change agreement, 8 Dec 2009 - Confidential draft "circle of commitment" (rich-country) Copenhagen climate change agreement
+
+Draft Copenhagen Accord Dec 18, 2009 - Three page draft Copehagen "accord", from around Friday 7pm, Dec 18, 2009; includes pen-markings
+
+Climatic Research Unit emails, data, models, 1996-2009 - Over 60MB of emails, documents, code and models from the Climatic Research Unit at the University of East Anglia, written between 1996 and 2009 that lead to a worldwide debate
+
+The Monju nuclear reactor leak - Three suppressed videos from Japan’s fast breeder reactor Monju revealing the true extent of the 1995 sodium coolant disaster
+
+Corruption, finance, taxes, trading
+
+The looting of Kenya under President Moi - $3,000,000,000 presidential corruption exposed; swung the Dec 2007 Kenyan election, long document, be patient
+
+Gusmao’s $15m rice deal alarms UN - Rice deal corruption in East Timor
+
+How election violence was financed - the embargoed Kenyan Human Rights Commission report into the Jan 2008 killings of over 1,300 Kenyans
+
+Financial collapse: Confidential exposure analysis of 205 companies each owing above EUR45M to Icelandic bank Kaupthing, 26 Sep 2008 - Publication of a confidential report that has lead to hundreds of newspaper articles worldwide
+
+Barclays Bank gags Guardian over leaked memos detailing offshore tax scam, 16 Mar 2009 - Publication of censored documents revealing a number of elaborate international tax avoidance schemes by the SCM (Structured Capital Markets) division of Barclays
+
+Bank Julius Baer: Grand Larceny via Grand Cayman - How the largest private Swiss bank avoids paying tax to the Swiss government
+
+Der Fall Moonstone Trust - Cayman Islands Swiss bank trust exposed
+
+Over 40 billion euro in 28167 claims made against the Kaupthing Bank, 23 Jan 2010 - List of Kaupthing claimants after Icelandic banking crash
+
+Northern Rock vs. WikiLeaks - Northern Rock Bank UK failed legal injunctions over the ¡Ì24,000,000,000 collapse
+
+Whistleblower exposes insider trading program at JP Morgan - Legal insider trading in three easy steps, brought to you by JP Morgan and the SEC
+
+Censorship technology and internet filtering
+
+Eutelsat suppresses independent Chinese-language TV station NTDTV to satisfy Beijing - French sat provider Eutelsat covertly removed an anti-communist TV channel to satisfy Beijing
+
+Internet Censorship in Thailand - The secret internet censorship lists of Thailand’s military junta
+
+Cults and other religious organizations
+
+Church of Scientology’s ’Operating Thetan’ documents leaked online - Scientology’s secret, and highly litigated bibles
+
+Censored Legion de Cristo and Regnum Cristi document collection - Censored internal documents from the Catholic sect Legion de Cristo (Legion of Christ)
+
+US Department of Labor investigation into Landmark Education, 2006 - 2006 investigative report by the U.S. Department of Labor on Landmark Education
+
+Abuse, violence, violation
+
+Report on Shriners raises question of wrongdoing - corruption exposed at 22 U.S. and Canadian children’s hospitals.
+
+Claims of molestation resurface for US judo official
+
+Texas Catholic hospitals did not follow Catholic ethics, report claims - Catholic hospitals violated catholic ethics
+
+3. Short essays on how a more inquiring media can make a difference in the world
+
+3.1 The Malaria Case Study: the antidote is good governance born from a strong media
+
+Malaria is a case study in why good governance not just good science is the solution to so much human suffering. This year, the mosquito borne disease will kill over one million people. More than 80% of these will be children. Great Britain used to have malaria. In North America, malaria was epidemic and there are still a handful of infections each year. In Africa malaria kills over 100 people per hour. In Russia, amidst the corruption of the 1990s, malaria re-established itself. What is the difference between these cases?
+
+Why does Malaria kill so many people in one place but barely take hold in another? Why has malaria been allowed to gain a foothold in places like Russia where it was previously eradicated? We know how to prevent malaria epidemics. The science is universal. The difference is good governance.
+
+Put another way, unresponsive or corrupt government, through malaria alone, causes a children’s "9/11" every day. [1]
+
+It is only when the people know the true plans and behaviour of their governments that they can meaningfully choose to support or reject them. Historically, the most resilient forms of open government are those where publication and revelation are protected. Where that protection does not exist, it is our mission to provide it through an energetic and watchful media.
+
+In Kenya, malaria was estimated to cause 20% of all deaths in children under five. Before the Dec 2007 national elections, WikiLeaks exposed $3 billion of Kenyan corruption, which swung the vote by 10%. This led to changes in the constitution and the establishment of a more open government. It is too soon to know if it will contribute to a change in the human cost of malaria in Kenya but in the long term we believe it may. It is one of many reforms catalyzed by WikiLeaks unvarnished reporting.
+
+3.2 The importance of principled leaking to journalism, good government and a healthy society
+
+Principled leaking has changed the course of history for the better. It can alter the course of history in the present, and it can lead us to a better future.
+
+Consider Daniel Ellsberg, working within the US government during the Vietnam War. He comes into contact with the Pentagon Papers, a meticulously kept record of military and strategic planning throughout the war. Those papers reveal the depths to which the US government has sunk in deceiving the American people about the war. Yet the public and the media know nothing of this urgent and shocking information. Indeed, secrecy laws are being used to keep the public ignorant of gross dishonesty practised by their own government. In spite of those secrecy laws and at great personal risk, Ellsberg manages to disseminate the Pentagon papers to journalists and to the world. Despite criminal charges against Ellsberg, eventually dropped, the release of the Pentagon Papers shocks the world, exposes the government lying and helps to shorten the war and save thousands of both American and Vietnamese lives.
+
+The power of principled leaking to call governments, corporations and institutions to account is amply demonstrated through recent history. The public scrutiny of otherwise unaccountable and secretive institutions forces them to consider the ethical implications of their actions. Which official will chance a secret, corrupt transaction when the public is likely to find out? What repressive plan will be carried out when it is revealed to the citizenry, not just of its own country, but the world? When the risks of embarrassment and discovery increase, the tables are turned against conspiracy, corruption, exploitation and oppression. Open government answers injustice rather than causing it. Open government exposes and undoes corruption. Open governance is the most effective method of promoting good governance.
+
+Today, with authoritarian governments in power in much of the world, increasing authoritarian tendencies in democratic governments, and increasing amounts of power vested in unaccountable corporations, the need for openness and transparency is greater than ever. WikiLeaks interest is the revelation of the truth. Unlike the covert activities of state intelligence agencies, as a media publisher WikiLeaks relies upon the power of overt fact to enable and empower citizens to bring feared and corrupt governments and corporations to justice.
+
+With its anonymous drop box, WikiLeaks provides an avenue for every government official, every bureaucrat, and every corporate worker, who becomes privy to damning information that their institution wants to hide but the public needs to know. What conscience cannot contain, and institutional secrecy unjustly conceals, WikiLeaks can broadcast to the world. It is telling that a number of government agencies in different countries (and indeed some entire countries) have tried to ban access to WikiLeaks. This is of course a silly response, akin to the ostrich burying its head in the sand. A far better response would be to behave in more ethical ways.
+
+Authoritarian governments, oppressive institutions and corrupt corporations should be subject to the pressure, not merely of international diplomacy, freedom of information laws or even periodic elections, but of something far stronger - the consciences of the people within them.
+
+3.3 Should the press really be free?
+
+In its landmark ruling on the Pentagon Papers, the US Supreme Court ruled that "only a free and unrestrained press can effectively expose deception in government." We agree.
+
+The ruling stated that "paramount among the responsibilities of a free press is the duty to prevent any part of the government from deceiving the people and sending them off to distant lands to die of foreign fevers and foreign shot and shell."
+
+It is easy to perceive the connection between publication and the complaints people make about publication. But this generates a perception bias, because it overlooks the vastness of the invisible. It overlooks the unintended consequences of failing to publish and it overlooks all those who are emancipated by a climate of free speech. Such a climate is a motivating force for governments and corporations to act justly. If acting in a just manner is easier than acting in an unjust manner, most actions will be just.
+
+Sufficient principled leaking in tandem with fearless reporting will bring down administrations that rely on concealing reality from their own citizens.
+
+It is increasingly obvious that corporate fraud must be effectively addressed. In the US, employees account for most revelations of fraud, followed by industry regulators, media, auditors and, finally, the SEC. Whistleblowers account for around half of all exposures of fraud.
+
+Corporate corruption comes in many forms. The number of employees and turnover of some corporations exceeds the population and GDP of some nation states. When comparing countries, after observations of population size and GDP, it is usual to compare the system of government, the major power groupings and the civic freedoms available to their populations. Such comparisons can also be illuminating in the case of corporations.
+
+Considering the largest corporations as analogous to a nation state reveals the following properties:
+
+The right to vote does not exist except for share holders (analogous to land owners) and even there voting power is in proportion to ownership.
+
+All power issues from a central committee.
+
+There is no balancing division of power. There is no fourth estate. There are no juries and innocence is not presumed.
+
+Failure to submit to any order may result in instant exile.
+
+There is no freedom of speech.
+
+There is no right of association. Even romance between men and women is often forbidden without approval.
+
+The economy is centrally planned.
+
+There is pervasive surveillance of movement and electronic communication.
+
+The society is heavily regulated, to the degree many employees are told when, where and how many times a day they can go to the toilet.
+
+There is little transparency and something like the Freedom of Information Act is unimaginable.
+
+Internal opposition groups, such as unions, are blackbanned, surveilled and/or marginalized whenever and wherever possible.
+
+While having a GDP and population comparable to Belgium, Denmark or New Zealand, many of these multi-national corporations have nothing like their quality of civic freedoms and protections. This is even more striking when the regional civic laws the company operates under are weak (such as in West Papua, many African states or even South Korea); there, the character of these corporate tyrannies is unregulated by their civilizing surroundings.
+
+Through governmental corruption, political influence, or manipulation of the judicial system, abusive corporations are able to gain control over the defining element of government the sole right to deploy coercive force.
+
+Just like a country, a corrupt or unethical corporation is a menace to all inside and outside it. Corporations will behave more ethically if the world is watching closely. WikiLeaks has exposed unethical plans and behaviour in corporations and this as resulted in recompense or other forms of justice forms of justice for victims.
+
+3.4 Could oppressive regimes potentially come to face legal consequences as a result of evidence posted on WikiLeaks?
+
+The laws and immunities that are applied in national and international courts, committees and other legal institutions vary, and we can’t comment on them in particular. The probative value of documents posted on WikiLeaks in a court of law is a question for courts to decide.
+
+While a secure chain of custody cannot be established for anonymous leaks, these leaks can lead to successful court cases. In many cases, it is easier for journalists or investigators to confirm the existence of a known document through official channels (such as an FOI law or legal discovery) than it is to find this information when starting from nothing. Having the title, author or relevant page numbers of an important document can accelerate an investigation, even if the content itself has not been confirmed. In this way, even unverified information is an enabling jump-off point for media, civil society or official investigations. Principled leaking has been shown to contribute to bringing justice to victims via the court system.

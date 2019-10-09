@@ -1,0 +1,15 @@
+Internet Voting Is Years Away, And Maybe Always Will Be
+
+Reading Time: 2 minutes
+
+In today’s New York Times Magazine, political writer Matt Bai grumbles in a short piece about his inability to vote online in an era where nearly everything else can be done over the Internet. “The best argument against Internet voting,” he writes, “is that it stacks the system against old and poor people who can’t afford or use computers, but the same could be said about cars.” That, he argues, is a problem that could easily be solved by the electronic equivalent of giving people rides to a polling place. If only it were so simple.
+
+Voting, alas, has unique characteristics that make internet implementations all but impossible given current technology. The big problem is that we make two demands of it that cannot be met simultaneously. We want voting to be very, very secure. And we want it to be very, very anonymous.
+
+Internet security is difficult under the best of conditions. But voting has the additional complication that it is very difficult, if not impossible, to remedy a breach. Most of the time, all that is at stake is money, and we know how to fix that. Identity theft is more complex but still there are remedies. A stolen vote is gone forever.
+
+Anonymity complicated the problem immensely. The usual way to secure an internet transaction to to make certain that both the server and the person at the other end and who or what they claim to be. To cast a ballot at a poling place or vote an absentee ballot, you have to produce identification or, at a minimum, a signature that matches one on file. It’s not perfect. but it’s generally better than we can do on the internet. Then you are given a ballot or a card that activates an electronic voting machine, but there is no link between the ballot and your identity, guaranteeing anonymity. This is really, really hard to simulate online. The more that is done to assure your identity, the harder it is to separate that identity from the vote that is cast.
+
+Furthermore, trust is central to elections and people, rightly, have their doubts about trusting online voting. In 2010, the District of Columbia set up a web-based voting system for residents living abroad. A team from the University of Michigan was able to compromise the system in minutes. The test was quickly aborted.
+
+We will see more trials in this year’s voting. But widespread internet voting is still waiting for a day that may never come.

@@ -1,0 +1,121 @@
+How the Census Bureau Measures Poverty
+
+Following the Office of Management and Budget's (OMB) Statistical Policy Directive 14, the Census Bureau uses a set of money income thresholds that vary by family size and composition to determine who is in poverty. If a family's total income is less than the family's threshold, then that family and every individual in it is considered in poverty. The official poverty thresholds do not vary geographically, but they are updated for inflation using Consumer Price Index (CPI-U). The official poverty definition uses money income before taxes and does not include capital gains or noncash benefits (such as public housing, Medicaid, and food stamps).
+
+Income Used to Compute Poverty Status (Money Income)
+
+Includes earnings, unemployment compensation, workers' compensation, Social Security, Supplemental Security Income, public assistance, veterans' payments, survivor benefits, pension or retirement income, interest, dividends, rents, royalties, income from estates, trusts, educational assistance, alimony, child support, assistance from outside the household, and other miscellaneous sources.
+
+Noncash benefits (such as food stamps and housing subsidies) do not count.
+
+count. Before taxes
+
+Excludes capital gains or losses.
+
+If a person lives with a family, add up the income of all family members. (Non-relatives, such as housemates, do not count.)
+
+Measure of Need (Poverty Thresholds)
+
+Poverty thresholds are the dollar amounts used to determine poverty status.
+
+Each person or family is assigned one out of 48 possible poverty thresholds [XLS - 48k]
+
+Thresholds vary according to:
+
+Size of the family
+
+Ages of the members
+
+The same thresholds are used throughout the United States (do not vary geographically).
+
+Updated annually for inflation using the Consumer Price Index for All Urban Consumers (CPI-U).
+
+Although the thresholds in some sense reflect families needs,
+
+They are intended for use as a statistical yardstick, not as a complete description of what people and families need to live.
+
+Many government aid programs use a different poverty measure, the Department of Health and Human Services (HHS) poverty guidelines
+
+Poverty thresholds were originally derived in 1963-1964, using:
+
+U.S. Department of Agriculture food budgets designed for families under economic stress.
+
+Data about what portion of their income families spent on food.
+
+Computation
+
+If total family income is less than the threshold appropriate for that family,
+
+The family is in poverty.
+
+All family members have the same poverty status.
+
+For individuals who do not live with family members, their own income is compared with the appropriate threshold.
+
+If total family income equals or is greater than the threshold, the family (or unrelated individual) is not in poverty.
+
+Example
+
+Family A has five members: two children, their mother, father, and great-aunt.
+
+Their threshold was $28,960 in 2014. (See poverty thresholds for 2014). [XLS - 48k]
+
+Suppose the members' incomes in 2014 were:
+
+Mother $11,000 Father 9,000 Great-aunt 10,000 First Child 0 Second Child 0 Total Family Income $30,000
+
+Compare total family income with their family's threshold:
+
+Income / Threshold = $30,000 / $28,960 = 1.04
+
+Since their income was greater than their threshold, Family A is not "in poverty" according to the official definition.
+
+The income divided by the threshold is called the Ratio of Income to Poverty.
+
+-- Family A's ratio of income to poverty was 1.04.
+
+The difference in dollars between family income and the family's poverty threshold is called the Income Deficit (for families in poverty) or Income Surplus (for families above poverty)
+
+-- Family A’s income surplus was $1,040 (or $30,000 - $28,960).
+
+People Whose Poverty Status Cannot Be Determined
+
+Unrelated individuals under age 15 (such as foster children):
+
+Income questions are asked of people age 15 and older.
+
+If someone is under age 15 and not living with a family member, we do not know their income.
+
+Since we cannot determine their poverty status, they are excluded from the "poverty universe" (table totals).
+
+People in:
+
+Institutional group quarters (such as prisons or nursing homes)
+
+College dormitories
+
+Military barracks
+
+Living situations without conventional housing (and who are not in shelters)
+
+Authority Behind Official Poverty Measure
+
+The official measure of poverty was established by the Office of Management and Budget (OMB) in Statistical Policy Directive 14
+
+To be used by federal agencies in their statistical work.
+
+Government aid programs do not have to use the official poverty measure as eligibility criteria.
+
+Many government aid programs use a different poverty measure, the Department of Health and Human Services (HHS) poverty guidelines
+
+Each aid program may define eligibility differently.
+
+Official poverty data come from the Current Population Survey (CPS) Annual Social and Economic Supplement (ASEC), formerly called the Annual Demographic Supplement or simply the "March Supplement."
+
+How Poverty is Calculated in the American Community Survey [PDF - 11k]
+
+History
+
+
+
+The Development of the Orshansky Thresholds and Their Subsequent History as the Official U.S. Poverty Measure , by Gordon M. Fisher

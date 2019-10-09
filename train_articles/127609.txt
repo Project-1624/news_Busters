@@ -1,0 +1,8 @@
+The 5 U.S. Counties Where Racial Diversity Is Highest—and Lowest
+Data wizard Randy Olson, the guy behind that astounding graph illuminating the reality of paying for college with minimum-wage work, has created another beautiful visualization: a map of racial diversity across the United States' nearly 3,000 counties.
+
+He had been looking at these other maps depicting specific demographic densities by county:
+
+There are three more of those—for Native American, Asian, and white (non-Hispanic) populations. But Olson wanted to combine the data to see how and where the different demographics mix. He ranked the counties according to how evenly split their populations were between the six categories of race tracked in the census.
+
+Each county has a breakdown of race by percentage—i.e., Montgomery County, Maryland, is 49.3 percent white, 16.6 percent black, 0.2 percent Native American, 13.9 percent Asian, 17 percent Latino, and 3.1 percent "other." Olson quantified diversity by calculating entropy for each of these sets. He explains it on his blog like this: "A county will come out with high entropy when all six ethnic categories are as even as possible (i.e., each ~16.7 percent), whereas it will come out with low entropy if the county is only inhabited by people of one ethnic category."

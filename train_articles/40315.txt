@@ -1,0 +1,10 @@
+Joining Bipartisan Bills
+Additional Notes
+
+The Speaker’s Votes: Missed votes are not computed for the Speaker of the House. According to current House rules, the Speaker of the House is not required to vote in “ordinary legislative proceedings.” In practice this means the Speaker of the House rarely votes but is not considered absent.
+
+Leadership/Ideology: The leadership and ideology scores are not displayed for Members of Congress who introduced fewer than 10 bills, or, for ideology, for Members of Congress that have a low leadership score, as there is usually not enough data in these cases to compute reliable leadership and ideology statistics.
+
+Ranking Members (RkMembs): The chair of a committee is always selected from the political party that holds the most seats in the chamber, called the “majority party”. The “ranking member” (sometimes “RkMembs”) is the title given to the senior-most member of the committee not in the majority party.
+
+Freshmen/Sophomores: Freshmen and sophomores are Members of Congress whose first term (in the same chamber at the end of the 114th Congress) was the 114th Congress (freshmen) or 113th (sophomores). Members of Congress who took office within the last few months of a Congress are considered freshmen in the next Congress as well.

@@ -1,0 +1,41 @@
+E-5 Population and Housing Estimates for Cities, Counties, and the State, 2011-2019 with 2010 Census Benchmark
+
+May 2019
+
+Contents
+
+This report provides the revised population and housing estimates for January 1, 2011-2019 and provisional population and housing estimates for January 1, 2019, for the state, counties, and cities. These population estimates incorporate 2010 census counts.
+
+Methodology
+
+City and Unincorporated Area Estimates. The Housing Unit Method (HUM) is used to estimate total and occupied housing units, household size, household population, and group quarters population. American Community Survey (ACS) data were used to distribute 2010 census housing units into our standard housing types (single detached units, single attached units, two to four units, five plus or apartment units, and mobile homes). Housing units are estimated by adding new construction and annexations and subtracting demolitions, and adjusting for units lost or gained by conversions. Annual housing unit change data are supplied by local jurisdictions and the U.S. Census Bureau. Occupied housing units are estimated by applying a derived civilian vacancy rate to the estimated civilian housing units. Vacancy rates are based on 2010 Census benchmark data, adjusted to incorporate the directional changes described by the latest available ACS data. Exact data on foreclosures or other housing market indicators are not reliably available to adjust vacancy rates and are not used.
+
+Military occupied housing units are added to civilian occupied housing units to calculate total occupied housing units. Military surveys are used to track military changes including base realignments and closures. Household population estimates are derived by multiplying the number of occupied housing units by the current persons per household. The persons per household estimates are based on 2010 census benchmark data and are adjusted by raking the current county population series into these estimates. The group quarters population is based on the Census Bureau’s 2010 SF1 File counts on group quarters and annually adjusted using reported changes for group quarters by state, federal, and local agencies. The household and group quarters populations are summed to produce the initial city population estimates. These estimates are aligned to the county estimates described below.
+
+County Estimates. County population estimates were developed using three separate methods:
+
+County Driver License Address Change (DLAC) Method. A modified version of the state DLAC method is used for counties. County-level estimated population results from changes in annual counts for births, deaths, school enrollment, foreign and domestic migration, medical care enrollment data for the population 65 and over, and group quarters population.
+
+Ratio-Correlation Method. This method models change in household population as a function of changes in the distributions of births, deaths, driver licenses, public elementary school enrollment, labor force, and county housing unit counts. Estimates of county group quarters are added.
+
+Administrative Records (ADREC) Method. County population estimates are derived using the U.S. Census Bureau ADREC Method, which are updated from their most recent estimates series and the Demographic Research Unit’s (DRU) own estimated half-year migration data along with the most recent vital statistics (from the California Department of Public Health) and group quarters data obtained from several state and local sources. The DRU’s half-year migration data are calculated using the percentage of change in net migration in two consecutive years.
+
+State Estimates. The state population was estimated from averaging three methods:
+
+State Driver License Address Change (DLAC) Method. This component method separately estimates the population under age 18, 18 through 64, and 65 years and older. Administrative records such as births, deaths, driver license address changes, legal migration to the United States, medical care enrollment data for the population 65 and over, immigration, public elementary school enrollments, and group quarters population are the data used in this method. All data are in summary tables and do not reveal the identity of any individual.
+
+Administrative Records (ADREC) Method. State January population estimates are derived by using the ADREC estimated migration data on the percentage of change in net migration in two consecutive years along with vital statistics and group quarters data.
+
+County Driver License Address Change (DLAC) Method. The modified DLAC Method used in county estimates is compiled and summed to produce the third state estimate.
+
+Data Considerations
+
+Sources. Data used in estimation models come from administrative records of several state and federal government departments and agencies, and from the local jurisdictions for which Finance produces population estimates. Because timeliness and coverage in these series vary, corrections, smoothing, and other adjustments may be applied. Changes to 2010 Summary File 1 data in the classification of student housing on or near campus was necessary to remain consistent with the census group quarters definition. In only a few instances, some student housing (residence hall and apartment units) counted as household population in the census was redefined as group quarters student housing population. College dorm group quarters population is defined as student population living in residence halls and apartment units located on or near college campuses.
+
+Suggested Citation
+
+State of California, Department of Finance, E-5 Population and Housing Estimates for Cities, Counties and the State — January 1, 2011-2019. Sacramento, California, May 2019.
+
+Contact Information
+
+For questions on the E-5, contact Doug Kuczynski or John Boyne in the Demographic Research Unit at 916-323-4086 or e-mail at ficalpop@dof.ca.gov.

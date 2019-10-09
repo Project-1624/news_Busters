@@ -1,0 +1,33 @@
+Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data Data Contributors PARKINSON, CLAIRE L.
+
+GLOERSEN, PER
+
+ZWALLY, H. JAY
+
+CAVALIERI, DONALD J.
+
+MEIER, WALT
+
+FETTERER, F.
+
+KNOWLES, KENNETH
+
+SAVOIE, MATTHEW
+
+BRODZIK, MARY J. Parameters SEA ICE > SEA ICE CONCENTRATION Instruments SMMR : SCANNING MULTICHANNEL MICROWAVE RADIOMETER
+
+SSM/I : SPECIAL SENSOR MICROWAVE/IMAGER
+
+SSMIS : SPECIAL SENSOR MICROWAVE IMAGER/SOUNDER Documentation FTP Polaris
+
+
+
+This data set is generated from brightness temperature data derived from the following sensors: the Nimbus-7 Scanning Multichannel Microwave Radiometer (SMMR), the Defense Meteorological Satellite Program (DMSP) -F8, -F11 and -F13 Special Sensor Microwave/Imagers (SSM/Is), and the DMSP-F17 Special Sensor Microwave Imager/Sounder (SSMIS). The data are provided in the polar stereographic projection at a grid cell size of 25 x 25 km. This product is designed to provide a consistent time series of sea ice concentrations (the fraction, or percentage, of ocean area covered by sea ice) spanning the coverage of several passive microwave instruments. To aid in this goal, sea ice algorithm coefficients are changed to reduce differences in sea ice extent and area as estimated using the SMMR and SSM/I sensors. The data are generated using the NASA Team algorithm developed by the Oceans and Ice Branch, Laboratory for Hydrospheric Processes at NASA Goddard Space Flight Center (GSFC). These data include gridded daily (every other day for SMMR data) and monthly averaged sea ice concentrations for both the north and south polar regions. The data are produced at GSFC about once per year, with roughly a one-year latency, and include data since 26 October 1978. Data are produced from SMMR brightness temperature data processed at NASA GSFC and from SSM/I and SSMIS brightness temperature data processed at the National Snow and Ice Data Center (NSIDC). Data are scaled and stored as one-byte integers in flat binary arrays. For each data file, a corresponding PNG browse image file is provided. Data are available via FTP. View Metadata Record Data Citation The following example shows how to cite the use of this data set in a publication. For more information, see our Use and Copyright Web page. Cavalieri, D. J., C. L. Parkinson, P. Gloersen, and H. Zwally. 1996, updated yearly. Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data. [indicate subset used]. Boulder, Colorado USA: NASA DAAC at the National Snow and Ice Data Center.
+
+See Also Sea Ice Remote Sensing at NASA Goddard Space Flight Center
+
+Near-Real-Time DMSP SSM/I-SSMIS Daily Polar Gridded Sea Ice Concentrations
+
+Sea Ice Data at NSIDC
+
+Contact User Services

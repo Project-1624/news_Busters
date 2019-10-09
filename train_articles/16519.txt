@@ -1,0 +1,83 @@
+0518 rennpftexas
+
+Emails, Aaron M. Renn, senior fellow, Manhattan Institute for Policy Research, May 10-11, 2018
+
+On May 10, 2018, at 5:25 PM, Selby, Gardner (CMG-Austin) wrote:
+
+Hello from the Austin newspaper where I work on stories for the fact-checking PolitiFact Texas project.
+
+I write with urgency mindful of your recent work here and to seek the latest best information as we evaluate Austin Mayor Steve Adler’s claim that Austin is “creating more jobs than any other city in the country.”
+
+An Adler aide points out that according to BLS figures, Austin saw 3.6 percent jobs growth between March 2017 and March 2018, which breaks out to the fastest growth rate among 50 major metro areas, at least as presented locally here.
+
+We’ve noticed, though, that Austin isn’t tops in raw jobs gained.
+
+Thoughts for our story? Research recommendations?
+
+I’d be happy to hear back soon by phone or email. As ever, we rely on attributable on-the-record information for our stories.
+
+Thanks,
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+From: Aaron Renn
+
+Sent: Thursday, May 10, 2018 4:35 PM
+
+Subject: Re: Urgent fact-check inquiry, Texas reporter
+
+
+
+I won’t be at my computer for a while but I believe percentage change is the best way to measure growth, restricted to regions of the same size class. This would be similar to how we think about financial fund returns. I typically look at metro areas with more than one million people. Others use different measures.
+
+
+
+On Thu, May 10, 2018 at 8:13 PM, Selby, Gardner (CMG-Austin) wrote:
+
+
+
+https://www.bls.gov/web/metro/largemetro_oty_change.htm
+
+9:27 p.m.
+
+May 10, 2018
+
+Well, you obviously clicked to sort and saw that Austin was #1. Monthly figures can be volatile and the March 2018 data is preliminary, but any way you slice it, Austin is a fearsome jobs creator. Even over the longer run from 2000 to 2017 (the most recent annual data available), Austin ranked #1 in the country for percentage job growth. So this isn't just a cherry picked data slice based on one month's good data.
+
+On Fri, May 11, 2018 at 10:29 AM, Selby, Gardner (CMG-Austin) wrote:
+
+Can you guide me on how you did the sort going back to 2000?
+
+
+
+9:34 a.m.
+
+May 11, 2018
+
+I used the CES State and Area employment figures, the Total Non-Farm Payroll Annual Average. I just calculated the percentage change between those dates, filter by metro areas greater than one million in population since 2017, and sorted by percentage change.
+
+Unfortunately there's not a page like the one you sent me previously for this. I downloaded the raw download files into a database. It's similar to how I created the original post of mine you saw.
+
+From: Aaron M. Renn Sent: Friday, May 11, 2018 9:34 AM
+
+I used the CES State and Area employment figures, the Total Non-Farm Payroll Annual Average. I just calculated the percentage change between those dates, filter by metro areas greater than one million in population since 2017, and sorted by percentage change.
+
+Unfortunately there's not a page like the one you sent me previously for this. I downloaded the raw download files into a database. It's similar to how I created the original post of mine you saw.
+
+On Fri, May 11, 2018 at 10:36 AM, Selby, Gardner (CMG-Austin) wrote:
+
+Can you e me, to run linked from our story, your own spreadsheet for the MSAs covering the time period?
+
+9:46 a.m.
+
+Here you go. The totals are in thousands. The change columns are database extracts, so are actual numbers not formulas.

@@ -1,0 +1,76 @@
+NOAA Tides & Currents
+Tidal Datums
+
+In general, a datum is a base elevation used as a reference from which to reckon heights or depths. A tidal datum is a standard elevation defined by a certain phase of the tide. Tidal datums are used as references to measure local water levels and should not be extended into areas having differing oceanographic characteristics without substantiating measurements. In order that they may be recovered when needed, such datums are referenced to fixed points known as bench marks. Tidal datums are also the basis for establishing privately owned land, state owned land, territorial sea, exclusive economic zone, and high seas boundaries. Below are definitions of tidal datums maintained by the Center for Operational Oceanographic Products and Services.
+
+HAT
+
+Highest Astronomical Tide The elevation of the highest predicted astronomical tide expected to occur at a specific tide station over the National Tidal Datum Epoch. MHHW*
+
+Mean Higher High Water The average of the higher high water height of each tidal day observed over the National Tidal Datum Epoch. For stations with shorter series, comparison of simultaneous observations with a control tide station is made in order to derive the equivalent datum of the National Tidal Datum Epoch. MHW
+
+Mean High Water The average of all the high water heights observed over the National Tidal Datum Epoch. For stations with shorter series, comparison of simultaneous observations with a control tide station is made in order to derive the equivalent datum of the National Tidal Datum Epoch.
+
+DTL
+
+Diurnal Tide Level The arithmetic mean of mean higher high water and mean lower low water. MTL
+
+Mean Tide Level The arithmetic mean of mean high water and mean low water.
+
+MSL
+
+Mean Sea Level The arithmetic mean of hourly heights observed over the National Tidal Datum Epoch. Shorter series are specified in the name; e.g. monthly mean sea level and yearly mean sea level.
+
+MLW
+
+Mean Low Water The average of all the low water heights observed over the National Tidal Datum Epoch. For stations with shorter series, comparison of simultaneous observations with a control tide station is made in order to derive the equivalent datum of the National Tidal Datum Epoch. MLLW* Mean Lower Low Water The average of the lower low water height of each tidal day observed over the National Tidal Datum Epoch. For stations with shorter series, comparison of simultaneous observations with a control tide station is made in order to derive the equivalent datum of the National Tidal Datum Epoch. LAT
+
+Lowest Astronomical Tide The elevation of the lowest astronomical predicted tide expected to occur at a specific tide station over the National Tidal Datum Epoch. GT
+
+Great Diurnal Range The difference in height between mean higher high water and mean lower low water.
+
+MN
+
+Mean Range of Tide The difference in height between mean high water and mean low water. DHQ
+
+Mean Diurnal High Water Inequality One-half the average difference between the two high waters of each tidal day observed over the National Tidal Datum Epoch. It is obtained by subtracting the mean of all the high waters from the mean of the higher high waters.
+
+DLQ
+
+Mean Diurnal Low Water Inequality One-half the average difference between the two low waters of each tidal day observed over the National Tidal Datum Epoch. It is obtained by subtracting the mean of the lower low waters from the mean of all the low waters. HWI
+
+Greenwich High Water Interval The average interval (in hours) between the moon's transit over the Greenwich meridian and the following high water at a location. LWI
+
+Greenwich Low Water Interval The average interval (in hours) between the moon's transit over the Greenwich meridian and the following low water at a location. Max Tide
+
+Highest Observed Tide The maximum height reached by a rising tide. The high water is due to the periodic tidal forces and the effects of meteorological, hydrologic, and/or oceanographic conditions. Min Tide
+
+Lowest Observed Tide The minimum height reached by a falling tide. The low water is due to the periodic tidal forces and the effects of meteorological, hydrologic, and/or oceanographic conditions. Station Datum A fixed base elevation at a tide station to which all water level measurements are referred. The datum is unique to each station and is established at a lower elevation than the water is ever expected to reach. It is referenced to the primary bench mark at the station and is held constant regardless of changes to the water level gauge or tide staff. The datum of tabulation is most often at the zero of the first tide staff installed. National Tidal Datum Epoch
+
+The specific 19-year period adopted by the National Ocean Service as the official time segment over which tide observations are taken and reduced to obtain mean values (e.g., mean lower low water, etc.) for tidal datums. It is necessary for standardization because of periodic and apparent secular trends in sea level. The present NTDE is 1983 through 2001 and is actively considered for revision every 20-25 years. Tidal datums in certain regions with anomolous sea level changes (Alaska, Gulf of Mexico) are calculated on a Modified 5-Year Epoch.
+
+*Some locations have diurnal tides--one high tide and one low tide per day. At most locations, there are semidiurnal tides--the tide cycles through a high and low twice each day, with one of the two high tides being higher than the other and one of the two low tides being lower than the other.
+
+References
+
+All documents available at http://tidesandcurrents.noaa.gov/pub.html
+
+
+
+
+
+Navigating the Datums Page
+
+The Datums page (example at right) provides access to established datums for the station indicated in the upper left corner of the page. The tidal datums on this page are referenced to an arbitrary station datum. In order to apply these datums for surveying or coastal management they must be reduced to Mean Lower Low Water (MLLW), which is the reference datum for predictions, bench mark publication and nautical charting. Other tidal (Mean High Water(MHW)) and geodetic (North American Vertical Datum 1988 (NAVD 88)) datums may also be used for specific reasons. The time meridian (TM) is the reference meridian used to calculate time. An epoch is a 19-year tidal cycle used to calculate datums. The present National Tidal Datum Epoch (NTDE) is 1983 through 2001. Tidal datums in certain regions with anomolous sea level changes (Alaska, Gulf of Mexico) are calculated on a Modified 5-Year Epoch. The data can be displayed in either feet or meters. Click the Submit button to apply the selected unit to the table of values for tidal datums. The heading of the table will reflect the units currently applied to the table. Link to other types of data for the same station using the links on the top. Links are highlighted only for data types that are available for the station.
+
+Geodetic Datums
+
+The National Geodetic Survey (NGS) defines a geodetic datum as: 1. "A set of constants used for calculating the coordinates of points on the Earth." Generally a datum is a reference from which measurements are made. In surveying and geodesy, a datum is a reference point on the earth's surface against which position measurements are made, and an associated model of the shape of the earth for computing positions. Horizontal datums are used for describing a point on the earth's surface, in latitude and longitude. Vertical datums are used to measure elevations or underwater depths.
+
+North American Vertical Datum of 1988 (NAVD88) A fixed reference for elevations determined by geodetic leveling. The datum was derived from a general adjustment of the first-order terrestrial leveling nets of the United States, Canada, and Mexico. In the adjustment, only the height of the primary tidal bench mark, referenced to the International Great Lakes Datum of 1985 (IGLD 85) local mean sea level height value, at Father Point, Rimouski, Quebec, Canada was held fixed, thus providing minimum constraint. NAVD 88 and IGLD 85 are identical. However, NAVD 88 bench mark values are given in Helmert orthometric height units while IGLD 85 values are in dynamic heights. See International Great Lakes Datum of 1985, National Geodetic Vertical Datum of 1929, and geopotential difference. NAVD 88 should not be used as Mean Sea Level. National Geodetic Vertical Datum of 1929 (NGVD29) A fixed reference adopted as a standard geodetic datum for elevations determined by leveling. The datum was derived for surveys from a general adjustment of the first-order leveling nets of both the United States and Canada. In the adjustment, mean sea level was held fixed as observed at 21 tide stations in the United States and 5 in Canada. The year indicates the time of the general adjustment. A synonym for Sea-level Datum of 1929. The geodetic datum is fixed and does not take into account the changing stands of sea level. Because there are many variables affecting sea level, and because the geodetic datum represents a best fit over a broad area, the relationship between the geodetic datum and local mean sea level is not consistent from one location to another in either time or space. For this reason, the National Geodetic Vertical Datum should not be confused with mean sea level. See North American Vertical Datum of 1988 (NAVD 88). NGVD 29 should not be used as Mean Sea Level. NGVD 29 is no longer supported by NGS.
+
+References
+
+Tidal and Geodetic Relationships
+
+Geodetic datum relationships to tidal datums are established at tide stations by connecting tidal bench mark networks to the National Spatial Reference System (NSRS) maintained by NGS. There are two survey procedures used to make this connection. The first is to connect the tidal bench marks with traditional differential levels to nearby geodetic bench marks with known geodetic elevations. The second is to occupy the tidal bench marks using a static GPS survey to determine the geodetic elevations of the bench marks directly. In all cases it is advised to make the connections to more than one bench mark, preferably to three marks, in order to confirm the connection and identify unstable bench marks. The elevation relationship between geodetic datums and tidal datums should not be extrapolated away from a particular location without correction or interpolation as the relationships vary with parameters such as variations in range of tide, bathymetry, topography, geoid variations, and vertical land movement. Any interpolation should be done carefully, and where possible guided by the use of the National Ocean Service VDatum tool which can be obtained at: http://vdatum.noaa.gov.

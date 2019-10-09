@@ -1,0 +1,135 @@
+0718 dhowardpftexas
+
+Emails, Jacob Cottingham, chief of staff, state Rep. Donna Howard, July 19 and Aug. 9-10, 2018
+
+From: Selby, Gardner (CMG-Austin) Sent: Wednesday, July 18, 2018 1:18 PM
+
+Jacob:
+
+Good afternoon. In a tweet, Rep. Howard said: “In Tx, charters get 100% state $/pupil funding while district schools (95% students) get about 1/3 funding from state w/ rest coming from local prop taxes (which is why those taxes are so high).”
+
+Can she or you share her factual backup?
+
+The tweet also says school districts get less because dollars go to charter schools. Was that a factual claim? If so, how did she reach that conclusion?
+
+A note: We count on attributable on-the-record information for all our stories.
+
+Thanks for your help,
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+5:32 p.m.
+
+July 19, 2018
+
+...
+
+There's a decent amount of info packed into that tweet.
+
+Primarily, that info is from LBB data, I've attached two data sets they provided us this year as well as a look at the spreadsheet I set up to dig into the numbers a little more.
+
+The first portion of the tweet relating to charter funding, that is referring to the statutory obligation of the state to pay for charter schools as they do not have local tax authority as a district does.
+
+"while district schools (95% students)" - see LBB charts of school ADA from 2018; looks like it's 94.9% of ADA in district schools for 2017 and 94.3% for 2018.
+
+"get about 1/3 funding from state w/ rest coming from local prop taxes (which is why those taxes are so high)." - This is harkening back to the debates about the state's share of public education funding. Rep. Howard and the Appropriations Committee have been discussing this in terms of FSP entitlement funding. Using LBB numbers, the office pulled out funding to charter schools from the equation to see what the state share of funding is when talking just about school districts. Combining that with previous estimates of local district funds shows the state contributing 34.6% toward the total entitlements from the FSP in 2018. That number drops to 32% by 2019.
+
+"Districts getting less b/c scarce $ going to charters. #txlege" - This is the Representative's analysis looking at the growth in state spending per ADA in charter schools versus district ADA, that is also broken out in one of the charts.
+
+If you're interested in some background or context as to how that funding is shifted around, I believe Ellen Williams had a piece in the DMN earlier in the year that got into the mechanics of rising property values and how that growth corresponds to greater local tax burden and less state spending on districts.
+
+thanks,
+
+Jacob
+
+11:28 a.m.
+
+Aug. 9, 2018
+
+Here you go, tried to do color coding to sections of emails I was responding to.
+
+I’m not understanding the bolded part of your previous reply (pasted below). I am mindful too that DeSilva said the relevant chart didn’t come from the board staff. That leads me to ask how it was put together, from what sources.
+
+As you heard, that info is from LBB data in those two charts - so that's the source. The third chart, I set up in order to tease out funding to charter schools from the equation to see what the state share of funding is when talking just about school districts. So that chart is by and large just combining the two LBB data points and parsing. There's some additional noise in there regarding the 50% state share as that was part of a bill Rep. Howard carried in the special session. To calculate the state share to districts we subtracted out the state charter funding from the numerator.
+
+(State aide for pub ed) - (state charter funding)
+
+-----------------------------------------------------------
+
+total funding
+
+EXCERPT FROM YOUR EMAIL: "get about 1/3 funding from state w/ rest coming from local prop taxes (which is why those taxes are so high)." - This is harkening back to the debates about the state's share of public education funding. Rep. Howard and the Appropriations Committee have been discussing this in terms of FSP entitlement funding. Using LBB numbers, the office pulled out funding to charter schools from the equation to see what the state share of funding is when talking just about school districts. Combining that with previous estimates of local district funds shows the state contributing 34.6% toward the total entitlements from the FSP in 2018. That number drops to 32% by 2019.
+
+The January 2018 board chart that you provided says, if I read right, that state aid totaling nearly $45.5 billion accounted for 44 percent of combined state and local funding for school districts’ maintenance and operations plus facilities aid in fiscal 2016--with that percentage decreasing each year after, the chart says, before reaching a projected 38 percent in fiscal 2019. According to the chart, the state’s share of districts’ M&O funding, 47 percent in fiscal 2016, is projected to dip to 41 percent by fiscal 2019. All these figures exceed one third.
+
+I don't think you are reading that chart right. The state aid of $45.5b is for all public schools, both district and charter schools. So to say "the state's share of districts’ M&O funding," would be incorrect, that is the state's share of combined funding to charters and districts. So that third chart we made is trying to pull out what the state share is for the school districts. Looking at the previous politifact, it seems you came around to the 38% number for 2019 for all of pub ed (and that's a number that's widely used), so what you and I are discussing is, what is that % when you take out the portion of that funding that goes to charter schools?
+
+Second, I am not understanding why the escalated spending shown per student for charter school ADAs means funding goes down for other students. I believe this also appears on the non-board chart, which means I’d like to learn more about how the figures were derived.
+
+The ADA spending is on both our chart and the LBB one (Charter and District State Aid pdf). Those numbers are the total state aid to districts divided by the ADA. For charters, it's the same calculation, total state aid to charters divided by ADA.
+
+The correlation between state aid and charters is complicated, but I'll try to give it a go. As you noted in the previous politifact " Lawmakers [aren't required] to budget as much state aid when school districts are expected to reap more revenue locally thanks to escalating property values." However, the legislature *is* required to fund charters at 100% of their entitlement formula. Charter school formulas are another whole topic (they are broadly an 'average' of school district formulas) but for the sake of this conversation, the rate is what's especially relevant to what you and I are discussing.
+
+Because the state has to contribute the whole entitlement cost per new student, each new charter student costs the state much more than each new District student (who the state covers at a variable rate). So when there are the gains in property values, and thus ISD gross tax receipts, the legislature has by and large chosen to use that growth to take up a greater share of entitlement funding, lessening the state's burden to put in GR because the state isn't required to maintain its portion, it's only required to make sure the total meets the minimum entitlements. But the minimal entitlements still require 100% of the share of charters. I hope that's making more sense, let me know if it's still confusing.
+
+second email:
+
+Per differences in the LBB and TEA state-share percentages, is it accurate that the education agency calculates state and local shares by focusing on expenditures that districts report to the state while the LBB tracks only money appropriated to districts in accordance with the FSP?
+
+It also looks to me like perhaps the education agency counts more than $1 billion a year recaptured from districts with lucrative property tax bases as local spending -- while the board classifies that state-regulated money as state aid. Is that so?
+
+This is getting a little far afield from the original tweet and I'm not sure I understand exactly what you're asking here. Clearly, the TEA presentation has different categories and thus numbers for state share. Recapture dollars clearly come from local property taxes. The House Appropriations Committee and Senate Finance have been using the LBB framing for some years now.
+
+According to the chart, charter schools in 2016 fielded $8,956 in state aid per ADA and school districts drew $3,800--meaning charter schools got 136 percent of what districts drew. By our calculations, charter schools were estimated to get 149 percent of what districts got in 2017 and were projected to get 167 percent of what districts would get in 2018 and 190 percent of what districts would get in 2019.
+
+Why these differences and why the seeming escalation of the differences?
+
+Looking at that third email regarding state ADA to districts and charters, I hope the above covered that. The main concept to internalize is how the state funding reacts to the rising property values and the whole scheme of backing out state funding when that happens.
+
+-JC
+
+From: Selby, Gardner (CMG-Austin) Sent: Thursday, August 9, 2018 6:36 PM
+
+Jacob:
+
+It’s our sense now that a student who leaves a district school to attend a charter school costs the district state aid based on enrollment. Also, such a student brings the charter school thousands of dollars more in per-pupil state aid than what a district would get. However, it’s local property values and related revenue that drive whether a district faces ups or downs in state aid.
+
+Agree? What are we missing?
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+4:29 p.m.
+
+Aug. 10, 2018
+
+Here's the response (from Rep. Howard), thanks for your patience.
+
+"It’s our sense now that a student who leaves a district school to attend a charter school costs the district state aid based on enrollment. Also, such a student brings the charter school thousands of dollars more in per-pupil state aid than what a district would get. However, it’s local property values and related revenue that drive whether a district faces ups or downs in state aid.
+
+Agree? What are we missing?"
+
+It's actually local revenue per pupil. State aid is based both on local revenue (which is determined by property values and tax rate) and on the number of students. Therefore, increases in property wealth reduces the minimum required state aid, as does a decrease in student population. When students leave a district for a charter (or private school or drop out), the property wealth per student increases as there are fewer students, and the state's required minimum share to the district is decreased. As well, a student doesn't have to leave an ISD and go to a charter for this impact, a newly arriving student to the region could just go straight into a charter and that would also have an effect.
+
+Revisiting the original tweet and Marchand's response - the implication is that property taxes are high because local taxes fund such a high percentage of school district funding.
+
+My 190-character statement was as succinct and in context as I could provide. The state covers 100% of charter students but only about 1/3 of district students (statewide). With an additional $7 billion projected in this 2-year budget, the Legislature had the option to actually use those dollars for public education. It could have put all of those dollars into public education by increasing the basic allotment or through other increases. It basically chose to only cover student population growth which meant providing districts about 1/3 of each new student and the growth of charter students at 100% of their cost. Theoretically, the state could have covered more of the cost of the district students.

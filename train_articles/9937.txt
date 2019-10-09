@@ -1,0 +1,44 @@
+Education Data Model (National Forum on Education Statistics). Strategies for building education software systems.
+About The National Education Data Model (NEDM)
+
+The National Education Data Model is a conceptual but detailed representation of the education information domain focused at the student, instructor and course/class levels. It delineates the relationships and interdependencies between the data elements necessary to document, operate, track, evaluate, and improve key aspects of an education system. The NEDM strives to be a shared understanding among all education stakeholders as to what information needs to be collected and managed at the local level in order to enable effective instruction of students and superior leadership of schools. It is a comprehensive, non-proprietary inventory and a map of education information that can be used by schools, LEAs, states, vendors, and researchers to identify the information required for teaching, learning, administrative systems, and evaluation of education programs and approaches.
+
+The NEDM is a catalogue of the data used in PK-12 education and a description of the relationships among those data. It is designed to be used as a reference tool that can be used to:
+
+Facilitate the identification, merging, and matching of data across different systems;
+
+Provide similar descriptions across LEA systems, across LEAs, and from LEAs to the state and federal government;
+
+Specify the content and structure of logical and physical data models.
+
+The information in this conceptual model takes into account the processes associated with teaching, learning, and the business operations of education organizations. The Model focuses on granular information at the school and LEA level rather than upon aggregate statistics or indicators for accountability. However, the Model includes information that is necessary to produce aggregate and other types of statistics.
+
+This is the first non-proprietary national education data model developed to help schools, LEAs, and states design or guide the selection of systems for instructional delivery, data driven decision making, data collection, operations, and reporting. It provides a national blueprint for schools. This blueprint enables schools to evaluate and improve instructional tools, communicate those needs to their umbrella agency or directly to vendors, enhance the movement of student information from one LEA to another, and in the end, have better tools to inform instruction. The Education Data Model can be used by educators, vendors, and researchers to understand the information required for teaching, learning, and administrative systems.
+
+In general is seeks to answer questions such as:
+
+What data do schools, LEAs, and states need to collect and manage at the local level to meet the information needs of students, staff, and other stakeholders?
+
+What data are needed to effectively manage education organizations to improve the success of teaching, learning, and school leadership?
+
+What data is needed to efficiently manage and run an education organization from a fiscal and administrative perspective? A single, comprehensive model of education data is a prerequisite to establishing automated systems with the right data, data that are comparable across time and systems, and data accurate enough to answer our questions.
+
+Development of the Data Model
+
+The development of the Data Model involved taking important education questions, issues, or processes, and identifying the things (entities) that need to be tracked in order to answer the questions, address the issues, or reflect the processes involved. Next, for each item identified, appropriate measures or descriptions (attributes) of the things were identified that were required in order to answer those questions, issues, or processes. Finally, the important logical relationships among the items (relations) were identified. These relations reflect the real-world function of each thing (entity) and add more meaning to the model.
+
+Overview of the Core Content
+
+The NEDM uses the lowest level of data granularity within PK-12, usually the individual, school, and LEA levels, where data originate and have the greatest impact on the teaching and learning process. Figure 6 illustrates the core domains of the Data Model “spine”: teaching and learning. Especially important in this depiction is the triad of student, staff (teacher), and course/class. The interactions among the three members of the triad formed the core processes of interest in the development of the Data Model. Other domains have been and continue to be developed around this core interaction, such as programs, activities, assessment, transportation, facilities management, professional development, and accountability.
+
+Where to Begin
+
+The following guide is provided to give users of this website an idea of how best to approach using the resources on this site. The best approach for all first-time users regardless of their background is to go through our website tutorial. This will give you an excellent overview and provide a good foundation.
+
+First Time Users - If this is your first time on the NEDM Website you might want to start by going to the How to Navigate the Data Model section of our help area. This interactive tutorial will give you a good foundation to make your visit as easy as possible. After going through that section it will be helpful to go through the rest of our extensive Help area before actually going through the Data Model itself.
+
+School Districts - If you are interested in finding out how the Education Data Model could be used in your LEA and are just learning about conceptual data models, read straight through the chapters in our User Guide (PDF XXX). Also, read Appendix A: Core Data Model Concepts. The example uses of the Data Model in Chapter 3 will be of interest to you. Be sure to go to the Education Data Model website and study the use case scenarios that are mentioned in Chapter 3.
+
+Policy Makers - If you are an LEA or SEA policy maker, focus on Chapters 1, 2, and 4 of the User Guide.
+
+Data Modelers - If you are coming from a background in other data model domains such as banking, healthcare, etc. and want to familiarize yourself with the education data model domain, read Chapter 3: How to use the Data Model. Review Appendix C: Common Attributes. Then go directly to the Education Data Model using the link provided in Chapter 3. If you are interested in localizing or extending the Data Model for use in your own organization be sure to read Appendix D – Q&A; for technical details concerning the structure of the Data Model and Appendix B – Data Model Content Structure for information about how the Education Data Model content was produced.

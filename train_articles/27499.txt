@@ -1,0 +1,60 @@
+Carbon Dioxide Capture and Sequestration
+Overview
+
+What is carbon dioxide capture and sequestration?
+
+Quick Fact What's the difference between carbon dioxide capture and sequestration (CCS) and geologic sequestration? Geologic sequestration is one step in the CCS process. Unlike terrestrial, or biologic, sequestration, where carbon is stored via agricultural and forestry practices, geologic sequestration involves injecting carbon dioxide deep underground where it stays permanently.
+
+Learn More EPA's Greenhouse Gas Reporting Program (GHGRP) collects information from facilities in 41 industry types that directly emit large quantities of GHGs, suppliers of certain fossil fuels, and facilities that inject CO2 underground. EPA's Proposed Carbon Pollution Standards for New Power Plants
+
+On September 20, 2013, the U.S. Environmental Protection Agency announced a first step under President Obama's Climate Action Plan to reduce carbon pollution from power plants. EPA is proposing carbon pollution standards for new power plants built in the future. Carbon capture and sequestration is one of the technologies new power plants can employ to meet the standard.Learn more about the proposed standards.
+
+Carbon dioxide (CO 2 ) capture and sequestration (CCS) is a set of technologies that can greatly reduce CO 2 emissions from new and existing coal- and gas-fired power plants and large industrial sources. CCS is a three-step process that includes:
+
+Capture of CO 2 from power plants or industrial processes
+
+from power plants or industrial processes Transport of the captured and compressed CO 2 (usually in pipelines).
+
+(usually in pipelines). Underground injection and geologic sequestration (also referred to as storage) of the CO 2 into deep underground rock formations. These formations are often a mile or more beneath the surface and consist of porous rock that holds the CO 2 . Overlying these formations are impermeable, non-porous layers of rock that trap the CO 2 and prevent it from migrating upward.
+
+The figure below illustrates the general CCS process and shows a typical depth at which CO 2 would be injected. Watch the following videos to learn more about how CCS works:
+
+CCS Schematic (Subsurface depth to scale, 5,280 feet equals one mile)
+
+Why is it important?
+
+Carbon dioxide (CO 2 ) capture and sequestration (CCS) could play an important role in reducing greenhouse gas emissions, while enabling low-carbon electricity generation from power plants. As estimated in the U.S. Inventory of Greenhouse Gas Emissions and Sinks , more than 40% of CO 2 emissions in the United States are from electric power generation. CCS technologies are currently available and can dramatically reduce (by 80-90%) CO 2 emissions from power plants that burn fossil fuels. Applied to a 500 MW coal-fired power plant, which emits roughly 3 million tons of CO 2 per year, [1] the amount of GHG emissions avoided (with a 90% reduction efficiency) would be equivalent to:
+
+Planting more than 62 million trees, and waiting at least 10 years for them to grow.
+
+Avoiding annual electricity-related emissions from more than 300,000 homes.
+
+To see this emissions reduction expressed in other equivalent terms, see EPA's Carbon Equivalencies Calculator.
+
+CCS could also viably be used to reduce emissions from industrial process such as cement production and natural gas processing facilities.
+
+What sources of carbon dioxide can it be applied to?
+
+Carbon dioxide (CO 2 ) capture and sequestration (CCS) can significantly reduce emissions from large stationary sources of CO 2 , which include coal- and natural-gas-fired power plants, as well as certain industry types such as ethanol and natural gas processing plants. EPA's Greenhouse Gas Reporting Program includes facilities that capture CO 2 for the purpose of supplying the CO 2 to the economy or for injecting it underground (Subpart PP). According to the Greenhouse Gas Reporting Program, CO 2 capture is currently occurring at over 120 facilities in the United States, mainly on industrial processes, and the CO 2 is used for a wide range of end uses. End uses of CO 2 include enhanced oil recovery (EOR), food and beverage manufacturing, pulp and paper manufacturing, and metal fabrication. The figure below shows the portion of CO 2 that is currently being captured from power plants and other industrial facilities and the portion that is extracted by production wells from natural CO 2 bearing formations in the United States. The second figure shows the various domestic end uses of captured and extracted CO 2 . (Note that natural sources of CO 2 are not considered in the Total CO 2 Supply End Uses figure). As CCS becomes more widespread, it is expected that the portion of CO 2 captured in the United States from power generation and industrial processes will increase.
+
+Capture and Extraction Facilities CO 2 Supplied in 2011
+
+Capture and Extraction Facilities CO 2 Supplied to End Uses in 2011 * Source: EPA Greenhouse Gas Reporting Data - Subpart PP - Suppliers of Carbon Dioxide. Based on 2011 data. MMT = million metric tons
+
+Where can captured carbon dioxide be stored?
+
+After capture, carbon dioxide (CO 2 ) is compressed and then transported to a site where it is injected underground for permanent storage (also known as "sequestration"). CO 2 is commonly transported by pipeline, but it can also be transported by train, truck, or ship. Geologic formations suitable for sequestration include depleted oil and gas fields, deep coal seams, and saline formations. The U.S. Department of Energy estimates that anywhere from 1,800 to 20,000 billion metric tons of CO 2 could be stored underground in the United States. [2] That is equivalent to 600 to 6,700 years of current level emissions from large stationary sources in the United States. [3]
+
+Overview of Geologic Storage Potential in the United States (Source: U.S. Department of Energy, NATCARB)
+
+Potential sequestration sites must undergo appropriate site characterization to ensure that the site can safely and securely store CO 2 . After being transported to the sequestration site, the compressed CO 2 is injected deep underground into solid, but porous rock, such as sandstone, shale, dolomite, basalt, or deep coal seams. Suitable formations for CO 2 sequestration are located under one or more layers of cap rock, which trap the CO 2 and prevent upward migration. These sites are then rigorously monitored to ensure that the CO 2 remains permanently underground. The safety and security of CO 2 geologic sequestration is a priority for EPA.
+
+For more information, visit the National Carbon Sequestration Database and Geographic Information System (NATCARB), a geographic information system (GIS)-based tool developed to provide an overview of CCS projects and storage potential.
+
+References
+
+[1] MIT (2007) The Future of Coal: Options for a Carbon-Constrained World , Massachusetts Institute of Technology, 2007.
+
+[2] NACAP (2012) The North American Carbon Storage Atlas , The U.S. Department of Energy (DOE), Natural Resources Canada (NRCan), and the Mexican Ministry of Energy (SENER).
+
+[3] GHGRP(2012) EPA Greenhouse Gas Reporting Data-Subpart PP-Suppliers of Carbon Dioxide. Based on 2011 data.

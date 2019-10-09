@@ -1,0 +1,10 @@
+Price Spreads from Farm to Consumer
+ERS compares prices paid by consumers for food with prices received by farmers for corresponding commodities. This data set reports these comparisons for a variety of foods sold through retail foodstores such as supermarkets and supercenters.
+
+Comparisons are made for individual foods and groupings of individual foods—market baskets—that represent what a typical U.S. household buys at retail in a year. The retail costs of these baskets are compared with the money received by farmers for a corresponding basket of agricultural commodities.
+
+This data set is regularly updated in the Spring and then again in the Fall, as the underlying data become available.
+
+ERS data on price spreads for meat, pork, poultry, and eggs can be found in the Meat Price Spreads data product. A different method is used to calculate monthly price spreads for beef, pork, broilers, turkeys, and eggs.
+
+Users may also be interested in an interactive data visualization; see Interactive Chart: Price Spreads and Food Markets.

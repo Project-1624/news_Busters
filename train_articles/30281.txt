@@ -1,0 +1,206 @@
+Analysis: Why US carbon emissions have fallen 14% since 2005
+A pipeline for the distribution of natural gas, with wind turbines in the background; Texas, US.
+
+A pipeline for the distribution of natural gas, with wind turbines in the background; Texas, US. Credit: Jim Parkin / Alamy Stock Photo
+
+Before 2005, US carbon emissions were marching upwards year after year, with little sign of slowing down. After this point, they fell quickly, declining 14% from their peak by the end of 2016.
+
+Researchers have given a number of different reasons for this marked turnaround. Some have argued that it was mainly due to natural gas and, to a lesser extent, wind both replacing coal for generating electricity. Others have suggested that the declines were driven by the financial crisis and its lasting effects on the economy.
+
+Here Carbon Brief presents an analysis of the causes of the decline in US CO2 since 2005. There is no single cause of reductions. Rather, they were driven by a number of factors, including a large-scale transition from coal to gas, a large increase in wind power, a reduction in industrial energy use and changes in transport patterns.
+
+Declines in US CO2 have persisted despite an economic recovery from the financial crisis. While the pace of reductions may slow, many of these factors will continue to push down emissions, notwithstanding the inclinations of the current administration.
+
+Carbon Brief’s analysis shows that in 2016…
+
+Overall, CO2 emissions were around 18% lower than they would have been, if underlying factors had not changed, and 14% lower than their 2005 peak.
+
+Coal-to-gas switching in the power sector is the largest driver, accounting for 33% of the emissions reduction in 2016.
+
+Wind generation was responsible for 19% of the emissions reduction.
+
+Solar power was responsible for 3%.
+
+Reduced electricity use – mostly in the industrial sector – was responsible for 18%.
+
+Without these changes, electricity sector CO2 emissions would have been 46% higher than they are today.
+
+Reduced fuel consumption in homes and industry was responsible for an additional 12% of the overall emissions reductions.
+
+Changes in transport emissions from fewer miles per-capita, more efficient vehicles, and less air travel emissions per-capita account for the final 15%.
+
+The ‘big picture’
+
+US emissions peaked in 2005 at just below 6,000 million tonnes of CO2 (MtCO2), and have declined to below 5,200MtCO2 in 2016. The figure below shows actual US emissions in black, as well as the reductions in emissions due to each different cause as a colored “wedge”.
+
+If underlying factors driving emissions had not changed, a growing population would have led to emissions increasing rather than declining over the past decade.
+
+
+
+
+
+Annual US CO2 emissions (in million metric tonnes) from energy in black, with estimated reductions by factor shown by colored wedges. Top chart shows zoomed-in reductions with a truncated y-axis, while bottom chart shows the same chart with a y-axis starting at zero. See methods at the end for details on chart creation. Chart by Carbon Brief using Highcharts
+
+In Carbon Brief’s analysis, overall CO2 emissions are around 18% lower than they would have been, if underlying factors had not changed, and 14% lower than their 2005 peak. No single factor is responsible for more than a third of total declines in US CO2.
+
+Increases in gas electricity generation is the largest driver, accounting for 33% of the total emissions reduction in 2016. Gas is far from zero-carbon, but reduces CO2 in the US because it mostly displaces high-carbon coal.
+
+Wind generation was responsible for 19% of emissions reduction, while reduced electricity use – mostly in the industrial sector – was responsible for 18%. Reduced industrial CO2 emissions from non-electric sources, such as on-site burning of oil or natural gas, accounted for an additional 7%
+
+Other important factors include reduced miles driven, increased vehicle fuel economy and lower emissions from air travel via reductions in CO2 per passenger mile. Solar power accounts for a small, but growing part of emissions reductions, representing 3% of the reduction in 2016.
+
+To assess the causes of the reduction in US CO2 emissions, it is necessary to create a “business-as-usual” scenario where the factors behind those reductions did not change. To do this, Carbon Brief takes the approach of fixing energy use and emissions at 2005 per-capita levels. This shows what emissions would be across various sectors of the economy if conditions had stayed the way they were in 2005.
+
+Each sector of the economy that emits CO2 from energy is explored in more detail in the sections below. This includes: electricity generation, transport, and fuel use by buildings and industry.
+
+The analysis in this article builds on similar work done by researchers at IIASA, the US Department of Energy, the Breakthrough Institute and others, and extends the data up to the end of 2016. It also extends across most of the sources of CO2 emissions in the economy, rather than just focusing on electricity generation.
+
+It is important to note that this analysis concerns itself only with CO2 from energy and not with CO2 emissions from land-use changes or other greenhouse gases. However, as CO2 emissions from energy comprise upwards of 90% of total greenhouse gas emissions, and most US non-CO2 emissions have been declining in recent years in official inventories, a more thorough assessment of all sources of greenhouse gases over the past decade would be likely to lead to similar results.
+
+This analysis also does not look at CO2 emissions embodied in trade, though since 2005 the share of CO2 emissions exported through the outsourcing of manufacturing has slightly decreased.
+
+Electricity generation
+
+Some 36% of US CO2 comes from burning coal, oil and gas to produce electricity, making the sector the single largest source of emissions.
+
+Coal’s share of this mix has fallen precipitously since 2005, down from 55% of total generation to only 33% today. This has largely been replaced by gas and wind.
+
+The figure below shows the amount of electricity generated by each fuel between 1990 and 2016. It also includes a “business-as-usual” scenario, shown in dashed lines for each fuel. In this scenario, both the electricity generation mix and per-capita electricity use remain frozen at 2005 levels, with total electricity use increasing along with the growing population.
+
+
+
+
+
+Annual electricity generation in terawatt-hours (TWh) per year by fuel (solid lines), along with a “business-as-usual” scenario (dashed lines) where grid mix and per-capita electricity use was held constant at 2005 levels. Chart by Carbon Brief using Highcharts
+
+This gives a sense of what the US power sector would have looked like without the factors that have driven major shifts in recent years. Coal would have remained king, with gas and wind staying close to level and solar remaining negligible. Nuclear generation would have remained largely the same, only increasing slightly over what actually occurred.
+
+Carbon Brief’s business-as-usual scenario also fixes per-capita electricity consumption at 2005 levels, across the three main sectors of the economy that use electricity: homes, business, and industry.
+
+The figure below compares this fixed-demand scenario (dashed lines) to actual demand, which fell in each sector (solid lines).
+
+
+
+
+
+Annual electricity use in TWh by sector (solid lines), along with a “business-as-usual” scenario (dashed lines) where per-capita electricity use by sector was held constant at 2005 levels. Chart by Carbon Brief using Highcharts
+
+The overall decline in per-capita electricity use is primarily concentrated in industry. As the US economy increasingly moves away from heavy manufacturing, electricity use in that sector is falling. Industry also had larger declines as a result of the recent recession than other sectors, though electricity use has continued to decline even as the economy has recovered. Residential electricity use per-capita has also declined, as a result of the increased deployment of energy efficiency measures.
+
+These “business-as-usual” scenarios for electricity generation and consumption provide a way to calculate contributions to declining US CO2 emissions. The figure below shows actual electric sector CO2 emissions in black, along with the additional emissions that would have occurred if not for the rise of gas, wind, solar and the reduction in electricity use.
+
+
+
+
+
+Annual US CO2 emissions in MtCO2 from electricity generation in black, with estimated reductions from gas (in grey), reduced electricity use (in dark purple), solar power generation (pink), and wind generation (light blue). Chart by Carbon Brief using Highcharts
+
+Coal-to-gas switching is the largest driver of electricity sector CO2 emission reductions, accounting for 45% of the total in 2016. Wind and reduced electricity use each account for around 25%, while solar contributed the remaining 5%.
+
+Carbon Brief’s estimates of CO2 reductions due to gas and wind are nearly identical to those from the US Department of Energy’s Energy Information Administration.
+
+Without the effects of gas, wind and reduced electricity use, CO2 emissions from the sector could have been expected to continue increasing in line with past trends. By 2016, electricity sector CO2 emissions would then have been almost 46% higher than they are today.
+
+This analysis of electricity sector emissions is incomplete, as it does not consider methane leakage. While official inventories suggest that methane emissions from energy have decreased during the US shale boom, other studies show emissions could be much larger. This would offset a portion of the CO2 benefit of switching from coal to gas, at least in the short term. Similarly, some have suggested that the US gas boom has depressed coal prices, potentially leading to increased imports and use by other countries.
+
+Transport
+
+Transport is the second largest source of US carbon emissions after electricity generation. It includes personal vehicles, corporate fleets, trucks, aviation, public transport, ships and any other mobile emission source.
+
+Reductions in transport emissions have primarily come from three sources: people driving less; the vehicle fleet becoming more fuel-efficient; and airlines using less fuel per passenger.
+
+The figure below shows trends in these factors since the late 1970s. The dashed black line is the “business-as-usual” scenario, where conditions remain at 2005 levels.
+
+
+
+
+
+Annual miles driven per capita, vehicle fuel economy (in miles per gallon) and airline fuel use per capita. Dashed black lines in each plot represent fixed 2005 levels. Chart by Carbon Brief using Highcharts
+
+The number of miles driven in the US has increased dramatically over the past 40 years, from around 6,000 miles per person per year in 1973 to more than 10,000 miles per year in 2007.
+
+After 2007, however, miles driven per-person began to decline. While it has rebounded a bit since the end of the financial crisis, it remains well below its 2005 peak, perhaps suggesting longer-term changes in driving behavior.
+
+Cars and trucks have also become more fuel efficient in recent years. Fuel economy increased through the 1970s and 80s before levelling off after 1992, as standards were met, but not extended.
+
+It began to rise again after 2005, as new standards were brought in. These have ratcheted up in recent years, with vehicles on average now 5% more fuel efficient than in 2005.
+
+Air travel has become more efficient, too, flying more passengers using less fuel over the past decade as a result of better engines, lighter aircraft and fuller flights.
+
+The chart also show significant declines in airline fuel use per person from fewer flights, in the wake of the September 11 terrorist attacks in 2001 and the 2008/2009 recession. Jet fuel use per person has recovered slightly in recent years, but is still well below what it was a decade ago.
+
+The combined effect of these three factors is shown in the figure below, where the black area is actual emissions and the three wedges reflect the emission reductions from reduced miles driven per person, increased fuel economy, and reduced jet fuel used per person.
+
+
+
+
+
+Annual US CO2 emissions in MtCO2 from transport in black, with estimated reductions from reduced miles driven (in orange), vehicle fuel economy (purple) and aviation efficiency emissions (red). Chart by Carbon Brief using Highcharts
+
+This is not a complete analysis of the transport sector, however, as it does not cover changes in other emission sources, including public transport and shipping.
+
+Buildings and industry
+
+Energy used by buildings and industry, excluding electricity generation, comes in the form of on-site fuel combustion. For homes and businesses, this is mainly gas and oil used for space and water heating. For industry, a number of different processes burn fuels that release CO2.
+
+The figure below shows CO2 emissions from the residential, commercial and industrial sectors between 1990 and 2016, along with a “business-as-usual” scenario where emissions stay constant at 2005 levels. This fixes emissions at 2005 levels rather than 2005 per-capita levels, as they were already flat or declining on a per-capita basis.
+
+
+
+
+
+Annual non-electric emissions from energy use in MtCO2 by sector (solid lines), along with a “business-as-usual” scenario (dashed lines) where energy use by sector was held constant at 2005 levels. Chart by Carbon Brief using Highcharts
+
+Reduced non-electric CO2 emissions from industry are the main factor driving declines, repeating the picture in the electricity sector.
+
+Homes have also seen meaningful declines in emissions, due to a combination of energy efficiency and a switch away from using oil for space and water heating. Note that year-to-year variations are affected by the weather and other factors.
+
+Commercial non-electric CO2 emissions have remained steady. This reflects the opposing effects of economic activity and efficiency, which are both increasing.
+
+The figure below shows the combined CO2 reductions from each of these sectors. Total non-electric CO2 emissions is shown in black, while the reductions in each sector are shown by the colored wedges. This figure is much flatter than the previous ones, as the “business-as-usual” scenario fixes emissions at 2005 levels rather than 2005 per-capita levels.
+
+
+
+
+
+Annual US emissions in MtCO2 from non-electric fuel use in homes, businesses and industry in black, with estimated emissions reductions from industry (in light blue), businesses (yellow) and homes (dark blue). Chart by Carbon Brief using Highcharts
+
+Conclusion
+
+Many factors have come together to drive US emissions down in recent years. While gas, wind and reduced electricity and energy use played the largest roles, other sectors made important contributions, too.
+
+Emissions continued to fall as the US economy recovered from the financial crisis and associated recession, suggesting this was not the main cause of emission reductions, though it may have served as a catalyst.
+
+The falling price of gas, wind and solar, ongoing efficiency efforts and vehicle fuel economy standards mean US emissions may remain flat or continue to decline, regardless of current federal inaction on climate change.
+
+States are also increasingly taking their own actions to meet emission reduction goals in the absence of federal policy. In this context, significant increases in US emissions would be unexpected, barring subsidies for coal or equally unconventional market interventions.
+
+However, the current rate of US CO2 reductions is not sufficient to meet the commitments it made under the Paris Agreement. It is also much too slow to avoid more than 2C of warming since the pre-industrial era.
+
+While it is useful to understand the factors behind CO2 reductions to date, both federal and local policy will need to play a role in driving the deep reductions needed to avoid potentially dangerous warming.
+
+Methodology
+
+Electricity
+
+Electricity use and emissions by sector and fuel are taken from the US Energy Information Administration’s Monthly Energy Review.
+
+A “business-as-usual” scenario assumes that both grid mixes (percent by fuel) and per capita electricity consumption stay constant at 2005 levels. Population data is from the US Bureau of Economic Analysis.
+
+The contribution of reduced electricity use to CO2 reductions was calculated by multiplying the difference in actual and “business-as-usual” (BAU)scenario electricity generation by month, by the average BAU scenario grid mix emission factor for that month.
+
+To calculate the relative contribution of wind, solar and gas to CO2 reductions, their additional power output is assumed to equally displace the energy sources that declined relative to the BAU scenario. In other words, if coal, oil and nuclear have decreased relative to the BAU scenario, new generation from wind, gas and solar is assumed to replace each equally.
+
+The choice of what fuels are offset can have a big impact on the estimated emission reductions and help explain differing results from other groups. The approach taken here attempts to give all sources an equal weight and produces results nearly identical to the method used by the US Energy Information Administration. This sort of analysis can also be done more granularly at the state-level.
+
+Transport
+
+Data on vehicle miles travelled per month is from the US Department of Transportation Federal Highway Administration. Vehicle fuel economy is based on Monthly Energy Review diesel and petrol use for transport and vehicle miles travelled. Airline seat miles come from the US Bureau of Transportation Statistics, while airline fuel use is from the Monthly Energy Review.
+
+Fuel economy was calculated by dividing the total monthly vehicle fuel consumption (both petrol and diesel) by the total miles driven by all vehicles.
+
+A BAU scenario was created by assuming vehicle miles travelled per capita, airline fuel use per capita, and vehicle fuel economy all remained fixed at 2005 levels. CO2 reductions were calculated based on the difference between the BAU scenario and actual behavior for each.
+
+Buildings and industry
+
+Non-electric CO2 emissions from homes, businesses and industry are taken from the Monthly Energy Review. A BAU scenario was created by fixing non-electric CO2 emissions for each sector at 2005 levels. CO2 reductions were calculated by comparing the BAU scenario and actual behavior for each.

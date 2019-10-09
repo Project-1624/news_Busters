@@ -1,0 +1,34 @@
+$7.77 trillion in secret Federal Reserve loans to banks?
+I have been looking into the claim recently made by any number of internet sites (for example, here’s one of the many hundreds, if you insist on a link) that the Federal Reserve made $7.77 trillion in secret loans to banks. The claim is outrageously inaccurate, as I explain below.
+
+Let me begin with some accounting basics. Suppose that at the start of January I make a 3-month loan of $100 to person A and a 1-month loan of $100 to person B. At the start of February, person B rolls it over into a new 1-month loan, and does so again at the beginning of March. On the first day of April, person A and person B both repay me the original $100. So, students, here’s your question: how much did I lend to person A, and how much did I lend to person B?
+
+The correct answer, of course, is that I lent $100 to person A and I lent $100 to person B. But, if you were trying to sensationalize and misrepresent what actually happened, perhaps you’d say that I lent $300 to person B, by adding the three $100 1-month loans together.
+
+This is a very elementary point in economics or accounting. A loan is what we refer to as a “stock” variable. It’s measured in units of dollars at a particular point in time. It is a completely meaningless exercise to take outstanding loan amounts at different dates and add them up as if it’s one big total.
+
+On the other hand, if your goal is to come up with a number that sounds really big, you’ll be excited to learn that I also lent $100 to person C in the form of a series of daily loans. These were rolled over for the same 3 months, so someone with a sufficiently bizarre theory of accounting (or a sufficiently strong political agenda) might claim that I lent $9,000 to person C.
+
+So where in particular did people come up with this $7.77 trillion figure? The source appears to be a recent story from Bloomberg news, which includes the following statement:
+
+Add up guarantees and lending limits, and the Fed had committed $7.77 trillion as of March 2009 to rescuing the financial system.
+
+I contacted the reporters who prepared the Bloomberg story to try to learn some more details. They communicated to me that those who claim that the Fed provided $7.77 trillion in secret loans to banks have misinterpreted their article. Specifically, they clarified that the $7.77 trillion number was not intended to represent loans the Fed actually made, but instead refers to loans it potentially might have made, that the number refers not to loans to banks but to the broader financial sector, and that Bloomberg’s use of the term “secret” in describing these loans refers not to the total amount but instead to the specific identities of the recipients.
+
+The source for the $7.77 trillion figure turns out to be this Bloomberg article from March 31, 2009. At the end of that second article is a table that breaks down what it calls the “limit” on various categories of Federal Reserve lending.
+
+According to that table, the biggest single component in the $7.77 trillion total is a $1.8 trillion item labeled “net portfolio CP funding”. This apparently refers to the Commercial Paper Funding Facility. The $1.8 trillion was evidently calculated by Bloomberg by taking the formula for the maximum amount of commercial paper that the Federal Reserve said it would be willing to buy from any one institution and assuming that the Fed in fact purchased this maximum amount from every single eligible institution. As actually implemented, the maximum outstanding balance ever reached by the CPFF was $350 B on January 21, 2009. That was all repaid, and the CPFF outstanding balance has been zero since February 2010.
+
+The second biggest component in the $7.77 trillion is $1 trillion in mortgage-backed securities. Here the Fed actually did end up buying even more than this. But these purchases were made when the CPFF and other items included in the $7.77 trillion were being wound down. Adding together the $1 trillion in MBS held in February 2010 to the $350 B in CPFF loans in January 2009 (or, even sillier, to this $1.8 trillion CPFF figure) is the kind of nonsensical calculation with which I began my discussion. Furthermore, these are agency MBS, not those issued by private banks. It was the U.S. Treasury, not the Federal Reserve, that had already taken over the guarantees of these MBS before the Fed bought them. There is no sense in which the Fed’s purchase of these MBS could be construed as a loan to banks.
+
+The third biggest item in the $7.77 trillion figure is the Term Auction Facility, whose “limit” entry in the Bloomberg table is $900 billion. Apparently the source for this number was the statement issued by the Federal Reserve on October 6, 2008 that “$900 billion of TAF credit will potentially be outstanding over year end.”
+
+There were never any secret commitments associated with the TAF. The way the program worked was the Fed would decide how much additional reserves it wanted to add to the system, invite bids in the form of interest rates banks were willing to pay to borrow this fixed quantity of funds, and lend the prespecified quantity to the highest bidders. That’s why it was called an “auction” facility. The Fed never lent anywhere near $900 B through this program. The maximum amount ever reached was $493 billion, the outstanding balance as of March 11, 2009. The loans were all repaid, and the outstanding balance has been zero since April 2010.
+
+Moreover, there was never anything secret about any of these numbers. They were all published continuously each and every week in the Fed’s H.4.1 statement, and readers of Econbrowser saw their pros and cons actively evaluated as the programs were initially proposed and subsequently implemented. If you are interested in ex-post evaluations of whether programs such as the CPFF and TAF were beneficial, you can consult for example Christensen, Lopez, and Rudebusch (2009), McAndrews,
+
+Sarkar, and Wang (2008), Taylor and Williams (2009), Adrian, Kimbrough, and Marchioni
+
+(2011) and Duygan-Bump, Parkinson, Rosengren, Suarez, and Willen (2010).
+
+You’re free to take your own position on whether these programs had beneficial effects. But please know that anyone who tells you that the Federal Reserve secretly loaned $7.77 trillion to banks is spreading a lie.

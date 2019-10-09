@@ -1,0 +1,56 @@
+Federal Marketplace Progress Fact Sheet
+Progress Continues in Building Marketplaces
+
+Update: May 31, 2013
+
+The Centers for Medicare & Medicaid Services (CMS) is working to build the Health Insurance Marketplace, also known as the Affordable Insurance Exchange. Consumers and small businesses in every state (including the District of Columbia) will have access to the Marketplace. All Marketplaces will launch open enrollment in October 2013.
+
+A Federally-Facilitated Marketplace (FFM) will operate in states that have chosen not to build their own Marketplace. The Marketplace developed by CMS will be easily adapted to meet the needs of any state that chooses to utilize this model on a temporary or permanent basis. On May 16, 2012, CMS released guidance describing our approach to implementing an FFM. The FFM guidance that CMS has released can be found here.
+
+For all marketplaces, CMS is also building a tool called the Data Services Hub to help with verifying applicant information used to determine eligibility for enrollment in qualified health plans and insurance affordability programs. The hub will provide one connection to the common federal data sources (including but not limited to SSA, IRS, DHS) needed to verify consumer application information for income, citizenship, immigration status, access to minimum essential coverage, etc. CMS has completed the technical design, and reference architecture for this work, is establishing a cross-agency security framework as well as the protocols for connectivity, and has begun testing the hub. The hub will not store consumer information, but will securely transmit data between state and federal systems to verify consumer application information. Protecting the privacy of individuals remains the highest priority of CMS.
+
+The FFM, like other marketplaces, will support the following operational functions:
+
+Eligibility & Enrollment
+
+CMS is establishing a system to determine consumer eligibility and a mechanism for consumers to enroll in a qualified health plan (QHP). The FFM will also assist in determining eligibility for Medicaid and the Children’s Health Insurance Program (CHIP).
+
+CMS released for comment the elements of a streamlined, consumer-focused application, and earlier this Spring, finalized the application, found here. Consumers in all states that choose to use it will complete this application starting in the fall of 2013. The application will help individuals and families identify various insurance affordability programs that may be available to help them get and pay for health insurance.
+
+CMS has completed and released the initial set of business service design documentation that describes the interactions with the Hub for eligibility verifications. CMS has been working with industry experts to define technical rules for enrollment transactions. The goal is to make eligibility determinations paper-free to the maximum extent possible.
+
+Plan Management
+
+All plans that health insurers want to offer in the marketplace must be certified as a QHP. In the FFM, CMS will coordinate plan management activities with states, including QHP certification, monitoring and oversight, account management, and recertification. Health insurers will submit their applications throughout April to be certified as QHPs for the 2014 coverage.
+
+In November 2012, CMS released the data elements insurance plans needed to integrate into this application. The application elements that CMS has released can be found here.
+
+Small Business Health Options Program (SHOP) Application
+
+Earlier this year, CMS released for comment the elements of the applications employers and employees will use when applying for coverage in the SHOP. CMS moved forward in finalizing these applications in the Spring of 2013, which can be found here.
+
+Financial Management
+
+CMS has outlined the parameters for managing payment processing across entities. These proposed payment parameters were finalized in March and can be found here.
+
+CMS has completed the initial design and will begin testing of a distributed data processing tool (Edge Server) to support risk adjustment and reinsurance analysis with issuers and States.
+
+Consumer Support
+
+CMS will provide consumer support to help purchasers of health insurance determine eligibility and apply for a plan through the Marketplace. CMS released the Navigator funding opportunity announcement in April to fund a Navigator grant program in FFM states to provide consumers with fair, unbiased help with determining if they are eligible for tax credits, comparing QHPs, and the application process for health coverage. Information on this funding opportunity can be found here. Training modules are under development and Navigator grants will be awarded in June.
+
+CMS will launch a website with chat capabilities and a 24 hour call center for the Marketplace that consumers can use to identify and compare QHPs, check their eligibility for affordability programs to help them pay for coverage, and enroll in a QHP. As with all marketplaces, eligible consumers will be able to enroll in a QHP on line, over the phone, or in person at certain locations.
+
+CMS is drawing on significant experience from the implementation of Medicare Part D and CHIP. Based on research and evidence, the education and outreach initiative is focused on ensuring that uninsured consumers have the support and information they need to access quality affordable health insurance for themselves and their families.
+
+Timeline Summary
+
+Spring 2013 - HUB testing, consumer application complete, and plans submit QHP applications.
+
+Summer 2013 - Call center live and consumer assistance training begins.
+
+October 2013 - Open enrollment begins.
+
+January 2014 - Health plan coverage begins.
+
+March 2014 - Open enrollment ends.

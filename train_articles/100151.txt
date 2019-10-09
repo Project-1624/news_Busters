@@ -1,0 +1,344 @@
+2015 ONSC 4601 (CanLII)
+CITATION: Council of Canadians v. Canada (Attorney General), 2015 ONSC 4601
+
+COURT FILE NO.: CV-14-513961
+
+DATE: 20150717
+
+
+
+ONTARIO
+
+
+
+SUPERIOR COURT OF JUSTICE
+
+BETWEEN: ) ) THE COUNCIL OF CANADIANS,
+
+THE CANADIAN FEDERATION OF STUDENTS, JESSICA McCORMICK, PEGGY WALSH CRAIG, and SANDRA McEWING Applicants – and – HER MAJESTY IN RIGHT OF CANADA AS REPRESENTED BY THE ATTORNEY GENERAL OF CANADA Respondent – and – CHIEF ELECTORAL OFFICER OF CANADA and THE BRITISH COLUMBIA CIVIL LIBERTIES ASSOCIATION Intervenors ) ) ) ) ) ) ) ) ) )
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+))) Steven Shrybman, Louis Century and Lucy Chislett, for the Applicants Christine Mohr and Andrea Bourke, for the Respondent Nadia Effendi, for the Chief Electoral Officer of Canada Brendan van Niejenhuis and Justin Safayeni, for The British Columbia Civil Liberties Association HEARD at Toronto: July 2 and 3, 2015
+
+REASONS FOR DECISION
+
+Stinson J.
+
+Introduction
+
+“Every citizen of Canada has the right to vote in an election of members of the House of Commons… .”
+
+“The right of every citizen to vote, guaranteed by s.3 of the Canadian Charter of Rights and Freedoms, lies at the heart of Canadian democracy. … The right to vote is fundamental to our democracy and the rule of law and cannot be lightly set aside.”[2]
+
+“There is a fine balance between facilitating the franchise and protecting an election’s integrity. To preserve public trust in the electoral system, this balance has to be defined, understood and respected.”
+
+[1] This case involves an examination of Parliament’s most recent efforts at finding the balance between facilitating the exercise of Canadians’ right to vote and prescribing appropriate procedures for the conduct of federal elections. It also involves a consideration of the role of the courts in granting interim relief at the early stages of the judicial process, when litigants challenge the constitutionality of electoral legislation.
+
+[2] A federal election is scheduled to take place in Canada not later than October 19, 2015, a little more than three months from now. In anticipation of that event, the applicants have brought a motion for an interlocutory injunction to suspend the operation of one provision of the Fair Elections Act (“FEA”)[4] pending the outcome of an application commenced by them seeking a declaration that a number of provisions of the FEA are unconstitutional. That application, and this injunction motion, are founded on the applicants’ assertion that various aspects of the FEA contravene the Canadian Charter of Rights and Freedoms. While this decision will address the availability of the injunctive relief sought, the ultimate determination of the constitutionality of the challenged legislation will not be made until the full application can be argued, something the parties agree could not be accomplished before the upcoming election.
+
+[3] The full application hearing will entail a much broader examination of various changes enacted by the FEA than arise on this injunction motion, which is concerned with one specific amendment. A great deal more evidence will be placed before the court for that hearing. It will also include submissions by the parties, and a possible determination by the court, concerning whether, if the legislation violates s.3 of the Charter, it can be justified by the government under s.1. The parties’ evidence and arguments at this preliminary stage of the litigation did not address s.1. Instead, they were confined to the availability and suitability of an interim determination whether one particular amendment that would otherwise form part of the rules governing the upcoming election should remain in place or be suspended pending the final decision as to its constitutionality.
+
+Overview
+
+[4] The regime for the conduct of federal elections in Canada is governed by the Canada Elections Act (“CEA”).[6] That statute contains a comprehensive code of the rules and procedures concerning the electoral process, including electoral rights, registration of electors, and election procedures and vote counting. It empowers the Chief Electoral Officer (“CEO”) to exercise general direction and supervision of elections and to perform all functions necessary for the administration of the CEA. In the past, among other things, the CEO has used that authority to conduct public outreach and voter education programs, and also to prescribe the types of identity documents that may be accepted at polling stations to establish voters’ identities and addresses.
+
+[5] The CEA has a long history. It has been the subject of many reviews and studies, by the CEO and others under his direction, and by parliamentary committees. It has also been the subject of a large number of legislative amendments over the years. It has been examined by the courts on numerous occasions, both as to its interpretation and application and also as to its constitutionality. For example, at one stage the CEA prohibited all prison inmates from voting in federal elections, regardless of the length of their sentences. This section was found by the courts to be unconstitutional as an unjustified denial of the right to vote guaranteed by s.3 of the Charter. Parliament responded to that litigation by enacting a new provision that denied the right to vote to all inmates serving sentences of two years or more. It, too, was found to be unconstitutional and was not saved by s.1 of the Charter.
+
+[6] In 2007, by means of Bill C-31, Parliament enacted changes to the CEA imposing new voter identification requirements on electors. Prior to these changes, an elector on the list of electors did not have to produce identification in order to vote, but rather only needed to state his or her name and address to the clerk at the polling station. The new identification requirements were challenged as a violation of the unqualified right to vote guaranteed by s.3 of the Charter. In Henry v. Canada (Attorney General), the changes were found to violate s.3 because they interfered with the right of those citizens who were unable to produce the required documentation to play a meaningful role in the electoral process by precluding them from voting. The impugned provisions were found to be lawful under s.1 of the Charter, however, because the limitations (and an accompanying provision that made it possible for voters who lacked the required identification documents to establish their identity by way of vouching by another qualified elector) constituted a reasonable and demonstrably justifiable limit on the right to vote.
+
+[7] In June 2014, Parliament enacted Bill C-23, the FEA, which amended various provisions of the CEA. Among the changes implemented were revisions to the rules and procedures concerning proof of identity and residence address by electors at the polling station when they attend to cast their vote. The changes expressly prohibited the use by voters on the list of electors of the Elections Canada-issued Voter Information Card (“VIC”) to prove their identity and address. As well, the former vouching process was replaced by a so-called “attestation” process, which is limited to proving address (but not identity) by this means.
+
+[8] As matters stand now, in order to obtain a ballot to vote in a federal election, all electors, including those on the list of electors, must have identification document(s) to prove their identity and residence. For most electors, this simply means producing a valid driver’s licence. According to the applicants’ evidence, however, nearly four million Canadians do not have a driver’s licence, and because few will carry with them any other document showing their current address, many may have difficulty providing the proof of name and address now required by the amended CEA. The applicants contend that those most affected are youth, Aboriginals, elderly electors in care facilities, homeless electors and the thousands of electors who will move during the election period.
+
+[9] The applicants assert that for such electors, prior to the passage of the FEA, the CEA contained various safeguards that facilitated their exercise of their democratic franchise. These included the authority of the CEO to implement public education and information programs to inform Canadians about the electoral process and their democratic rights, and to determine and authorize the kinds of identification documents that electors could use to prove their identity and residence (including the VIC) and the former vouching process. The applicants complain that the FEA curtailed or eliminated these powers. They argue that, without recourse to these safeguards, the administrative burden of obtaining a ballot will effectively deprive eligible electors (including many on the list of electors) of their right to vote in the next election, and for certain groups of eligible electors, their equality rights as well. The constitutionality of these various changes – including whether they violate s.3 or whether they are saved by s.1 of the Charter – will be determined in the main application.
+
+[10] In this preliminary injunction motion, the applicants seek to restore the authority of the CEO to authorize electors to use their VIC to prove their identity and address. They therefore ask the court to suspend the operation of s.46(3) of the FEA, the provision by which the CEA was amended by Parliament to prohibit the CEO from accepting the VIC as proof by electors of their identity or address as part of the voting process, for purposes of the upcoming federal election.
+
+The parties
+
+[11] This proceeding has been commenced by an alliance of parties. They are the Council of Canadians, the Canadian Federation of Students, Jessica McCormick, Peggy Walsh Craig, and Sandra McEwing. The Council of Canadians is a non-partisan citizens’ interest group. The Canadian Federation of Students is a national federation of student organizations representing over half a million students from over 80 university and college student unions across Canada. Jessica McCormick was, at the time this application was commenced, the national chairperson of the Canadian Federation of Students. Peggy Walsh Craig and Sandra McEwing are eligible voters in the electoral districts of Nipissing-Timiskaming and Winnipeg South respectively.
+
+[12] The respondent, the Attorney General of Canada (“AGC”), represents the Government of Canada.
+
+[13] After the litigation was commenced, two parties were added as intervenors, at their own instance. One is the CEO, who filed affidavit evidence concerning the role and function of his office and the administration of the electoral process, and the ongoing review and assessment by Elections Canada (the independent, non-partisan agency responsible for conducting federal elections and referendums) of the electoral process in Canada.
+
+[14] The other intervenor is the British Columbia Civil Liberties Association (“BCCLA”), a non-profit and non-partisan advocacy group whose objects include the promotion, defence, sustainment and extension of civil liberties and human rights throughout British Columbia and Canada. BCCLA supported the position of the applicants.
+
+The legal regime governing federal elections: the Canada Elections Act and the Fair Elections Act
+
+Overview of the Canadian electoral system
+
+[15] Canada’s electoral system is a single member plurality system, referred to as “first past the post.” In this system, one Member of Parliament is elected in each defined electoral district or riding to represent residents of that riding. It is therefore essential to ensure that only eligible voters residing in an electoral district be permitted to vote and that each elector votes only once.
+
+[16] Section 3 of the CEA provides that an individual is qualified as an elector if he or she is 18 years old and a Canadian citizen on polling day. Section 6 provides that all qualified electors are entitled to be included on the list of electors for the polling division in which they are ordinarily resident and that an individual is entitled to vote at the polling station for that polling division. Section 8 defines a person’s residence for the purpose of voting as the place an individual adopts as his/her dwelling place, and that he/she intends to return to. This could include a shelter, long term care facility, university residence, or family home.
+
+[17] A qualified elector must be registered on the National Register of Electors (“NRE”) in order to cast a ballot. The list of eligible electors for each polling station is generated from the NRE, which is a permanent list maintained by Elections Canada that is updated on an ongoing basis through cooperation with federal and provincial agencies, including the Canada Revenue Agency, Citizenship and Immigration Canada, provincial and territorial drivers’ licence agencies, and the bodies that prepare provincial and territorial voting lists. The NRE includes the name, sex, date of birth, civic address, mailing address and unique identifier for each registered voter. Eligible electors who are not on the NRE may register to be added to it online or by mail. They may also register to be added in person at an advance poll or at a polling station on election day.
+
+[18] According to the most recent information available on the Elections Canada website, there are approximately 25 million Canadians listed on the NRE. As of November 2014, 92.4% of eligible electors were included in the NRE and, of all eligible electors, 84% were listed at their correct address.
+
+[19] Once writs of election are issued, the NRE is used to generate a list of eligible voters for each polling division. This list is then revised throughout the revision period (from 33 days before election day until 6 days before election day). Revision activities are aimed at improving the accuracy of the NRE, and include door knocking by revising agents, usually targeted to high mobility neighbourhoods, student neighbourhoods, nursing homes and chronic care facilities.
+
+[20] The preliminary list of electors generated by the NRE is sent to the Returning Officers who are responsible for each electoral district. Pursuant to s.95 of the CEA, each Returning Officer then sends a Confirmation of Registration (also known as a Voter Information Card or VIC) to all the individuals listed on the preliminary list of electors not later than 24 days before the election. Not later than the fifth day before election day, pursuant to s.102 of the CEA, a VIC is sent to every individual who is added to the list of electors during the revision period. In this fashion, electors whose names were omitted from the preliminary list but who have since registered to vote will also receive a VIC.
+
+[21] The VIC contains the following information: the location of the polling station, the voting hours on election day, the location and hours for advance polls, a contact number, and notification that proof of identification and residence is required at the polls. The VIC is addressed to the named individual voter (or to “The Elector”) at the indicated residence address.
+
+[22] After the seventh day before election day and no later than the third day before election day, Returning Officers must prepare the official list of electors for each polling division for use on election day. The list of electors for that polling division is sent to the Deputy Returning Officer in charge of that polling division and is used on election day.
+
+Voter identification on election day
+
+[23] As previously mentioned, prior to the 2007 amendments to the CEA effected by Bill C-31, an elector whose name was on the list of electors was not required to present any identification documents at a polling station in order to obtain a ballot. The identification requirements implemented in 2007 were found in s.143 of the CEA. That section, as it read prior to the most recent amendments enacted by the FEA, provided that in order to vote, an elector was required to establish his or her identity and residence in one of three ways:
+
+(1) by showing one piece of government-issued photo identification that established the elector’s name and address (i.e. a driver’s licence); or
+
+(2) by showing two pieces of identification authorized by the CEO, both of which established the elector’s name and one of which established the elector’s name and address; or
+
+(3) by having another elector from the same polling division “vouch” for him or her.
+
+[24] In relation to the “two pieces of identification” mentioned in the old s.143(2), the CEO was previously empowered under s.143(2.1) to authorize as a piece of identification “any document, regardless of who issued it.” Pursuant to that power, the CEO authorized 47 documents for use in this manner, some of which could be used to prove identity and others which could be used to prove residence.
+
+[25] Examples of items that could be used to prove one’s name included a health card, social insurance card, birth certificate, passport, Certificate of Indian Status, Certificate of Canadian Citizenship or citizenship card, credit/debit card with elector’s name, employee card issued by employer, old age security identification card, student ID card, library card, a label on a prescription bottle or a hospital bracelet.
+
+[26] Examples of items that could be used to prove one’s name and address included a utility bill, bank statement, credit card statement, government cheque or cheque stub, residential lease, tax assessment, or a letter of confirmation of residence issued by a college, university, shelter, or long-term care facility.
+
+[27] Prior to the FEA, if an elector was unable to obtain or produce any of the documents above, then that elector could still establish his or her identity and address by means of “vouching.” The vouching process put in place by Bill C-31 in 2007, therefore, enabled a person without any proof of identity or address whatsoever still to cast a ballot. Such a person would attend the polling station on election day accompanied by another registered elector who lived in the same polling division and who could attest to her his or her identity and residence. The elector who was being vouched for was required to be orally advised of the qualifications for electors prior to taking the prescribed oath. An elector was only permitted to vouch for one other person.
+
+Past use of the VIC
+
+[28] Historically, electors have been encouraged to bring the VIC to the polls on election day to help election officials readily determine the elector’s polling division and/or riding. Following the January 2006 election, however, concerns were raised over the potential misuse of VICs. For example, in one riding, due to inaccuracies in the NRE, a small number of electors was permitted to vote in a riding where they did not reside, because they had received VICs addressed to their business addresses, in error. This and other issues prompted a review of the CEA by the House of Commons Standing Committee on Procedure and House Affairs (“PROC”), which focussed on the integrity and accuracy of the NRE, voter identification and voter fraud.
+
+[29] In its report, PROC expressed concern about VICs being left in apartment lobbies or being discarded. PROC recommended the introduction of identification requirements and expressly indicated that VICs should not entitle a person to cast a ballot. In response to the PROC recommendations, Parliament enacted Bill C-31, which implemented the rules regarding voter identification that were the subject of the Charter challenge in Henry. Those amendments did not, however, address the potential use of the VIC as a means of voter identification.
+
+VIC pilot projects
+
+[30] Following the 2007 amendments, the CEO addressed the question of what types of identification documents would suffice to meet the new requirements. In a November 2010 by-election, Elections Canada undertook a pilot project in which the CEO authorized the use of VICs to prove residence or identity at limited polling stations that served seniors, Aboriginals, and students. The elector was required to have one additional authorized piece of identification. The purpose of the pilot project was to facilitate voting by persons who might otherwise have difficulty meeting the new identification requirements on election day.
+
+[31] The VIC pilot project was expanded during the 2011 general election to include 900,000 individuals in the same target groups. Approximately 400,000 of these persons used VICs to prove either identity or residence, though it is unknown how many used the VIC to prove residence and how many used it to prove identity. It is also unknown how many electors used the VIC in conjunction with a driver’s licence, which would have rendered the VIC unnecessary as a piece of identification.
+
+[32] Due to the perceived success of the pilot projects, the CEO made it clear that he intended to authorize the VIC for use by all electors in the next general election as part of the process by which they could establish identity or residence.
+
+The impugned FEA provision
+
+[33] Following the 2011 general election, more concerns were raised about the integrity of electoral procedures. Elections Canada responded by commissioning an independent review of the extent, causes, and potential solutions to perceived problems of non-compliance with administrative rules and procedures by election officials at polling stations. Subsequently, the Government introduced Bill C-23, the FEA. Bill C-23 was widely debated and discussed and, prior to its enactment, was the subject of several amendments.
+
+[34] The specific provision of the FEA that is the subject of this injunction motion is s.46(3). It modified s.143 of the CEA and eliminated the authority of the CEO to allow the VIC to be used as a means of proving identity and residence at the polling station.
+
+[35] The old and new versions of s.143(2), setting out the identification requirements for voting and registration, read as follows:
+
+Old New s.143(2)(a) one piece of identification issued by a Canadian government, whether federal, provincial or local, or an agency of that government, that contains a photograph of the elector and his or her name and address; or (b) two pieces of identification authorized by the Chief Electoral Officer each of which establish the elector’s name and at least one of which establishes the elector’s address. s.143(2)(a) one piece of identification issued by a Canadian government, whether federal, provincial or local, or an agency of that government, that contains a photograph of the elector and his or her name and address; or (b) two pieces of identification of a type authorized under subsection 2.1, each of which establishes the elector’s name and at least one of which establishes the elector’s address.
+
+[36] The old and new versions of s.143(2.1) read as follows:
+
+
+
+
+
+Old New s.143(2.1) For greater certainty, the Chief Electoral Officer may authorize as a piece of identification for the purposes of paragraph (2)(b) any document, regardless of who issued it. s.143(2.1) The Chief Electoral Officer may authorize types of identification for the purposes of paragraph (2)(b). For greater certainty, any document — other than a notice of confirmation of registration sent under section 95 or 102 — regardless of who issued the document, may be authorized.
+
+[37] By means of this injunction motion, the applicants seek to stay the implementation of s.46(3) of the FEA and the consequent changes to s.143 of the CEA in advance of the upcoming general election. The effect of the injunction, therefore, would be to restore the discretion of the CEO to authorize the VIC as an identity and residence proving document should he so wish. The CEO has indicated that, should the court grant the interlocutory relief sought by the applicants, he intends to take the necessary steps to add the VIC to the approved list of identification documents, and to conduct the election on this basis.
+
+The legal test for interlocutory injunctions to restrain the implementation of legislation on grounds of unconstitutionality
+
+[38] The term “interlocutory injunction” is used to describe a court order that temporarily directs a party to do or refrain from doing a particular thing, before the court has a chance to decide the case on the merits following a full hearing. In the context of interlocutory injunctions that are sought on the grounds that certain government action is unlawful, such an order may be sought to stay or suspend the implementation of that new law or policy on the basis that it might eventually be found to infringe other laws, such as the Charter. Thus, an interlocutory injunction may be sought when there is insufficient time to undertake a full examination of the propriety of a new law or policy, but there is a concern that it will cause real and irreparable harm in the period before the legal process may be completed.
+
+[39] It is important to acknowledge that, as a judge hearing and deciding a preliminary motion such as this, I am constrained in several ways. First, I must recognize that I do not have at hand all the information and arguments that will be available when the case is fully argued. Secondly, and in part due to the factor I have just mentioned, my comments on the evidence and the merits of the case must be viewed as preliminary only and not determinative of the merits of the underlying arguments or my view of the merits. As stated by the Supreme Court of Canada in RJR-Macdonald v. Canada,[12] “a prolonged examination of the merits is generally neither necessary nor desirable” at the interlocutory injunction stage.
+
+[40] Because the judge is being asked at an early stage in the proceedings to issue an order that will temporarily - and, potentially, significantly - affect the parties’ legal rights, at a time before the parties have the opportunity to gather and present all their evidence and arguments and without the benefit of a full hearing, the courts have developed a well-recognized test to be applied when this type of judicial relief is sought. The party seeking the interim relief must satisfy the following requirements: (1) there is a serious issue to be tried; (2) irreparable harm would befall the applicant if the injunction were not granted; (3) the balance of convenience favours granting the injunction.
+
+[41] The first step in the analysis, therefore, requires the court to make a preliminary assessment of the merits of the case to ensure that there is a “serious issue to be tried.” The threshold to establish that there is a serious issue to be tried is a low one and can be satisfied upon demonstrating that the claim is not frivolous or vexatious.
+
+[42] According to the Supreme Court in RJR, this low threshold is especially appropriate in Charter cases because it is difficult and undesirable to decide complex factual and legal issues based upon the limited evidence available in an interlocutory proceeding. Thus, courts are not to undertake a s.1 analysis at this stage. Further, courts should not attempt to make a tentative determination on the merits given the incomplete evidentiary record available.
+
+[43] Despite this low threshold for finding there is a serious issue, the Court in RJR notes that a more searching inquiry should be taken into the seriousness of the issue if the relief sought is final relief.
+
+[44] While the urgency of the relief sought is a factor to consider at this stage, according to Sharpe on Injunctions, “urgency will not, however, always cause a court to overcome the reluctance to decide the merits at the interlocutory stage, particularly where enforcing an injunction would raise other complex issues of public administration.”
+
+[45] The second step in the analysis requires the court to determine whether the applicant would suffer irreparable harm if the injunction request were refused.
+
+[46] At this stage, the only issue to be decided is whether a refusal to grant relief could so adversely affect the applicant’s interests that the harm could not be remedied if the eventual decision on the merits does not accord with the result of the interlocutory application. The harm to the respondent or to the public interest should be considered at the third stage, not at the second.
+
+[47] “Irreparable” refers to the nature of the harm suffered: it is harm which either cannot be quantified in monetary terms or which cannot be cured.
+
+[48] The final element of the test is the so-called balance of convenience, sometimes described as the balance of in convenience. In determining the balance of convenience, the court assesses which of the parties would suffer greater harm from the grant or refusal of the remedy pending a decision on the merits.
+
+[49] In all constitutional cases, the public interest is a “special factor” which must be considered in assessing where the balance of convenience lies: the court in RJR noted that the public interest must be given “the weight it should carry.”
+
+[50] “Public interest” includes both the concerns of society generally and the particular interests of identifiable groups.
+
+[51] While the government does not have a monopoly on the public interest, the onus of demonstrating irreparable harm to a public authority is less than that of a private applicant. The test will usually be satisfied upon proof that the authority is charged with the duty of promoting or protecting the public interest and upon some indication that the impugned legislation was enacted pursuant to that responsibility. The court should usually assume that irreparable harm to the public interest would result from the staying the implementation of that legislation.
+
+[52] When the nature and declared purpose of legislation is to promote the public interest, a motions court should not investigate whether the legislation actually has such an effect. It must be assumed to do so. As stated in Sharpe on Injunctions:
+
+A constitutional challenge has implications for the public at large. If interlocutory injunctions were granted too readily in constitutional cases, suspending the operation of duly enacted laws prior to a determination on the merits of their constitutional validity, the orderly function of government and the application of laws enacted by democratically elected legislatures for the common good could be disrupted. [27]
+
+[53] In order to overcome the assumed benefit to the public interest arising from the continued application of duly enacted legislation, an applicant who relies on the public interest must demonstrate that the suspension of the legislation would itself provide a public benefit. When a private applicant alleges that the public interest is at risk, that harm must be demonstrated.
+
+Positions of the Parties
+
+Applicants
+
+[54] The applicants contend that their case meets all three elements of the test for interlocutory relief.
+
+[55] In relation to the first branch, a serious issue to be tried, they submit that any restriction to or limitation on the right to vote, including identification requirements, is a violation of s.3 of the Charter. By imposing stricter identification requirements than those which were enacted by the 2007 amendments to the CEA (which were themselves found to breach s.3, although upheld under s.1 of the Charter) the changes made by the FEA are liable to be set aside as unconstitutional. The specific prohibition against the use of the VIC as an acceptable form of identification, the argument continues, is a further unjustifiable and unlawful limitation on the right to vote, and therefore liable to be set aside, too. These questions demonstrate that the applicants’ case does involve serious issues, and thus the first branch of the test is satisfied.
+
+[56] In relation to the second branch of the test, irreparable harm, the applicants submit that disenfranchisement is, by definition, an irreparable harm. Once an election has been held, the constitutional right to vote in that election will be gone and the right of those who were unable to vote due to the impugned limitations will be lost forever. Those citizens will have lost the right to participate in the selection of the new Members of Parliament who will thereafter govern them. The applicants argue that eliminating the CEO’s discretion to authorize the VIC as an acceptable form of identification will result in effective denial of the right to vote of thousands of Canadians, harm to the integrity of the electoral process through the possibility that lost votes will have affected the election result, and harm to the legitimacy of Canadian democracy. The applicants submit that the test of irreparable harm is easily met.
+
+[57] In relation to the third element of the injunction test, balance of convenience, the applicants contend that the demonstrated public interest in favour of granting an injunction outweighs the presumed public interest in favor of upholding the impugned provisions. They submit that the risk arising from disenfranchising electors by prohibiting the use of the VIC at the next election is greater than the risk of someone making unlawful use of a VIC. Further, the risk of harm to public confidence in the electoral process due to prohibiting the use of the VIC is greater than that which would arise from allowing the CEO to authorize the use of the VIC. Section 3 Charter rights have “special importance” and thus limits on the right to vote require careful examination. Since the evidence in this case supports the conclusion that the impugned provisions imperil the right to vote, which denies individuals their democratic rights and undermines the legitimacy of Canadian democracy, this public interest rebuts the presumed public interest in enforcing a duly enacted law.
+
+[58] Finally, the applicants submit that the risk of harm asserted by the government is unsubstantiated and remote. They argue that there is no evidence demonstrating that restoring the discretion of the CEO to authorize the use of the VIC would compromise the government’s objectives of protecting against fraud and upholding the integrity of the electoral system, given that there are safeguards against abuse: the VIC must be accompanied by another authorized piece of identification proving identity and the CEA contains significant criminal sanctions for fraud. Given that the right to vote is a fundamentally important right that cannot be lightly interfered with, where the right to vote is at stake, the courts should be willing to grant an injunction despite their reluctance to grant interlocutory injunctions in other elections cases.
+
+BCCLA
+
+[59] BCCLA intervenes in support of the applicants’ position, in particular focusing on the balance of convenience. It argues that there should be no public interest presumption in election cases due to the expansive nature of the s.3 Charter right and its foundational importance in our legal system. The ability to vote a legislature into power grounds and legitimizes the laws that legislature enacts and laws that purport to curtail voting rights therefore undermine the very source of their legitimacy.
+
+[60] The BCCLA also points out that, while there have been no instances of a court granting an interlocutory injunction in an elections case, this does not mean that the court does not have the authority to do so in a proper case. In Harper v. Canada (Attorney General), the majority noted that injunctions against the enforcement of a law on grounds of alleged unconstitutionality will succeed “in clear cases.” BCCLA submits that this is a clear case requiring court intervention in light of the serious risk of disenfranchisement to tens of thousands of individuals.
+
+Chief Electoral Officer
+
+[61] The CEO intervened in order to provide background information relating to the electoral system and the impact of any interlocutory injunction on election preparedness. The CEO took no position on the merits of the case.
+
+[62] The CEO stated that, if this court were to restore his discretion to authorize the VIC as an identity and residence-proving document, he would add it to the list of acceptable documents for the upcoming general election.
+
+[63] The CEO also emphasized that his office has been preparing poll instruction manuals and other materials for the upcoming election in compliance with the CEA as amended by the FEA. Consequently, modifications to some materials will be required if the implementation of s.46(3) is suspended. In particular, the content of the VICs, which have already been printed in “template” form, will need to be modified to remove the statement that they cannot be used as an identification document at the polls. It is highly unlikely that there is sufficient time to reprint the template VICs entirely, so the alternative now is to cover that statement with black ink.
+
+Respondent AGC
+
+[64] The respondent AGC submits that the applicants have failed to satisfy any of the elements of the test for injunctive relief.
+
+[65] First, the respondent argues that there is no serious issue as to whether s.46(3) of the FEA infringes s.3 of the Charter. The crux of this submission by the respondent is that electors do not have a Charter right to prove their identity or residence by using the VIC. Moreover, the respondent submits that the applicants have not demonstrated a causal link between the removal of CEO’s discretion to authorize the VIC and any alleged inability of electors to vote.
+
+[66] The respondent further argues that no irreparable harm will result from denying injunctive relief. Authorizing the use of the VIC will not be a panacea for students, the homeless, Aboriginals, or the elderly, and is no more enfranchising than any of the other 47 options to prove identification which are authorized by the CEO. The respondent submits that the applicants have provided no substantial evidence that those who used the VIC to vote in the pilot projects would have otherwise been unable to cast a ballot. In fact, individuals who have difficulty proving their address due to high mobility will also be the least likely to receive a VIC, since they are the least likely to be registered on the NRE. Finally, the safeguards in the CEA, such as letters of confirmation of residence and the attestation procedure, provide meaningful options for those individuals who lack driver’s licences or other residence-proving documents.
+
+[67] In relation to the final element of the test, balance of convenience, the respondent contends that it is not open to this court to issue an interlocutory injunction in an election case, because the court is bound by stare decisis to follow the decisions of higher courts on this issue. The respondent argues that those courts have made it clear that there is a rule against granting interlocutory relief in election cases, and that I am bound by that rule.
+
+[68] The respondent also argues that the court should apply the presumption that the legislation was enacted in the public interest, and thus the balance of convenience favours refusing the injunction. That presumption exists to ensure that courts do not overstep their proper role by suspending the operation of legislation before public authorities can fully and fairly respond. In election cases, where the constitutionality of the impugned provisions has not been fully examined, there is a heightened need to follow the presumption that the duly enacted legislative provisions are in the public interest pending a full hearing on the merits.
+
+Issues and Analysis
+
+Serious issue to be tried
+
+[69] As previously mentioned, the threshold to establish a serious issue to be tried is a low one that may be satisfied upon demonstrating that the claim is not frivolous or vexatious. This low threshold is especially appropriate in Charter cases where there is limited available evidence at the interlocutory motion stage.
+
+[70] In Henry BCSC, and Henry BCCA, the courts found that the previous voter identification requirements that were enacted by Parliament in the 2007 reforms to the CEA violated s.3 of the Charter. Given that the changes enacted by the FEA impose even stricter requirements for voter identification, it is logical to infer that they, too, would be found to violate s.3. The prohibition against the use of the VIC to establish identity or residence is, arguably, a further restriction on access to the polls since it restricts the means by which voters may establish their identity or residence in order to obtain a ballot.
+
+[71] The respondent AGC argues that there is no serious issue that s.46(3) of the FEA infringes the Charter because it does not bar any qualified elector from casting a ballot and the government is not constitutionally obligated to make voting “convenient.” In short, the respondent contends, there is no “constitutional right” to prove one’s identity or residence by use of the VIC. It argues that the regime as enacted provides for a variety of methods for the elector to establish his or her identity and address. Thus, it says, the applicants’ argument amounts to saying that precluding an elector from using the VIC is in and of itself sufficient to make the entire regime unconstitutional.
+
+[72] The respondent’s arguments highlight the fact that a determination of the VIC usage issue implicates the entire voter identification regime in the CEA and also raises evidentiary questions. At this interlocutory stage, however, the court does not have the benefit of all the evidence. Moreover, only s.46(3) is in question here, while other provisions of the FEA will be challenged in the full application. This demonstrates the difficulties faced by the court when considering a constitutional challenge to a subset of the elements of a legislative scheme at the interlocutory stage. In my view, only by assessing the regime as a whole can the significance and constitutionality of the various elements be weighed and considered in a proper context.
+
+[73] The extent to which the prohibition against use of the VIC for purposes of establishing identity or residence further restricts voting rights, and in particular those of specific categories of electors, will depend upon the findings of the judge who hears the full application. Similarly, the question whether the new regime may be justified and upheld under s.1 of the Charter is a question for the applications judge. Suffice to say at this stage that these are not frivolous questions. At this juncture, therefore, and in particular in light of the low threshold applicable to this element of the test, I find that the applicants have demonstrated that their case raises a serious question to be tried.
+
+Irreparable harm
+
+[74] In Frank v. Canada (Attorney General), the court was asked to grant a stay of a judgment of a lower court pending the disposition of an appeal to the Ontario Court of Appeal. The granting of a stay pending appeal has the effect of suspending the operation of a court order or decision until the full hearing and disposition of the appeal. Such a motion to stay requires the court to consider the same three-part test as a motion for an interlocutory injunction, namely, a serious question to be determined, irreparable harm and the balance of convenience.
+
+[75] Frank ONCA involved a constitutional challenge to the provisions of the CEA that suspended the voting rights of citizens who had been non-residents for five years or more, until they re-established residence in Canada. At the lower court level, after hearing the full application (not just an interlocutory motion), Penny J. held that the impugned provisions violated s.3 of the Charter and were not saved by s.1. He therefore made an order extending the vote to all Canadian citizens resident outside Canada, regardless of the length of time they had lived outside Canada.
+
+[76] The Attorney General commenced an appeal from the decision of Penny J., and sought a stay of his judgment pending the outcome of the appeal. The effect of a stay pending the appeal, therefore, would have been to restore the operation of the previous law and thus to prevent affected non-residents from voting while the appeal was pending. In his decision refusing the request for a stay, Sharpe J.A. recognized that disenfranchisement is an irreparable harm, writing:
+
+Once the election has passed, the constitutional right to vote in that election will be lost forever. If the election is decided by one or very few votes and if the judgment is affirmed on appeal, the stay requested by the Attorney General will have improperly disenfranchised voters whose vote could have changed the result of the election. That would constitute irreparable harm to the non-resident voters and to the public.
+
+[77] The respondent AGC submits that there is no evidence that eliminating the CEO’s ability to authorize the VIC for voter identification purposes will disenfranchise anybody. It argues that the applicants have failed to establish a “causal link” between removing the CEO’s authority to authorize the VIC and an impairment of their clients’ ability to vote.
+
+[78] Before me, extensive submissions were devoted to the merits of the case, that is, the evidence for or against the disenfranchising effects of s.46(3). It is not my function at this stage to decide the merits of the application. For the purposes of demonstrating irreparable harm, it is sufficient for the applicants to provide some evidence to support the conclusion that removing the VIC option could have the effect of disenfranchising electors, as a consequence of which irreparable harm will follow.
+
+[79] The evidentiary record contains opinion evidence relating to the potential disenfranchisement of students, the homeless, the elderly, and those who may move during the election period. There is also evidence that the CEO has viewed (and used) the VIC as a means to enable various groups of electors to exercise their right to vote. A key mandate of the CEO is to facilitate voting. It may thus be argued that prohibiting the CEO from authorizing the VIC is an impairment of the facilitation of the right to vote. The more that the CEO’s facilitation of the right to vote is impaired, the more difficult it is for people to vote. This would support the implication that s.46(3) may infringe or impair the voting rights of certain qualified electors and thus prevent them from voting.
+
+[80] Bearing in mind that the same test of irreparable harm applies to the case I am deciding, in my view, the comments of Sharpe J.A. in Frank ONCA quoted above apply equally to this case. In making that comment I am not overlooking the potential evidentiary and causation hurdles that the applicants will need to overcome to succeed in the main application. That said, if the interlocutory injunction is refused, and if the impugned provision (s.46(3) of the FEA) is ultimately found to be unconstitutional, there will be no way to restore the right of improperly disenfranchised voters to participate in a past election. In the words of Sharpe J.A. “[t]hat would constitute irreparable harm.”
+
+[81] I therefore conclude that the applicants have met the second branch of the test.
+
+Balance of convenience
+
+[82] I turn now to the final branch of the test for granting an interlocutory injunction: does the balance of convenience favour granting or refusing the relief sought by the applicants? The concern, of course, is that granting injunctive relief on a preliminary basis may be akin to granting judgment without affording the defendant the opportunity to mount a proper defence, something our justice system ordinarily avoids. Thus, the mere fact that the moving party has satisfied the “serious question to be tried” and the “irreparable harm” branches of the test does not mean the court should intervene, unless the court concludes that this final hurdle has been cleared.
+
+[83] For the reasons previously discussed, in assessing the balance of convenience in the context of a motion for injunctive relief that would temporarily suspend the operation of a duly enacted law, ordinarily I should assume that the public interest would be served by upholding the legislation, pending full review of all parties’ evidence and arguments. The applicants argue, however, that because voting rights – guaranteed by s.3 of the Charter – are in issue here, the public interest of ensuring broad participation in the electoral process should trump the public interest in applying the statute enacted by Parliament in the discharge of its constitutional responsibility to legislate the rules governing the conduct of elections.
+
+[84] There is strong and long-standing appellate authority, however, stating that it is inappropriate to grant interlocutory relief in elections cases on the grounds of a constitutional challenge to electoral legislation. Indeed, the applicants acknowledged that there is no case in which an interlocutory injunction has been granted to stay the implementation of changes to the CEA. All of the decided cases relied upon by the applicants to demonstrate interlocutory relief in constitutional challenges involved legislation that did not relate to elections.
+
+[85] In the leading case of Harper #1 the Supreme Court considered the balance of convenience on a motion to stay an interlocutory injunction that had been granted by lower courts on the basis of an argument that certain CEA spending limitations were unconstitutional. In that case the Court said:
+
+This application is governed by the principles set forth in previous cases. On appeal the applicant Harper may seek alteration of these principles, but for the moment they govern. Applying these principles, the balance of convenience in this case favours granting the stay of the injunction. One of these principles is the rule against granting the equivalent of final relief in interlocutory challenges to electoral statutes, even in the course of elections governed by those statutes: Gould v. Attorney General of Canada, 1984 CanLII 142 (SCC), [1984] 2 S.C.R. 124; see also Manitoba (Attorney General) v. Metropolitan Stores Ltd., 1987 CanLII 79 (SCC), [1987] 1 S.C.R. 110, per Beetz J., at p. 144; Haig v. Canada, 1993 CanLII 58 (SCC), [1993] 2 S.C.R. 995. In this case, allowing the injunction to stay in place will in effect give Mr. Harper the ultimate relief he seeks in his action, at least with respect to the current election. The trial judge, however, did not address this factor, nor the case law which addresses it.
+
+It may also be noted that, in Thomson Newspapers Co. v. Canada (Attorney General), S.C.C., No. 25593, May 7, 1997 (published in the Bulletin of Proceedings of the Supreme Court of Canada, 1997, at p. 882), this Court refused to grant a stay suspending the enforcement of the provisions mandating publication bans on opinion polls set forth in the Canada Elections Act, R.S.C., 1985, c. E-2, s. 322.1. In so doing, the Court relied on its previous decision in Gould, supra. The Court refused the stay even though the ultimate decision found the poll prohibition to be unconstitutional.
+
+[86] There is a long line of cases in which courts have stated that it is inappropriate to grant what would amount to final relief in relation to a pending election on an interlocutory basis, beginning with Gould v. Attorney General of Canada. In my view, the relief sought on this motion – the suspension of the prohibition against use of the VIC for identification purposes in the upcoming election – would be tantamount to final relief in relation to that topic for purposes of the upcoming election.
+
+[87] Since the first pronouncement in Gould, Canadian courts have adhered to the rule against granting final relief in interlocutory proceedings involving constitutional challenges in elections cases. In Metropolitan Stores, the Supreme Court cited Gould with approval and added that:
+
+Such cautious restraint respects the rights of both parties to a full trial… to think that the question of constitutional validity can be determined at the interlocutory stage is to ignore the many hazards of litigation, constitutional or otherwise … at this stage, even in cases where the plaintiff has a serious question to be tried or even a prima facie case, the court is generally much too uncertain as to the facts and the law to be in a position to decide the merits.
+
+[88] Following this authority, in Figueroa v. Canada (Attorney General), the Divisional Court overturned an injunction in an election case on the basis that the motion judge had failed to adhere to the binding precedent to this effect. There, the court wrote: “the public interest in the uniform, fair and orderly conduct of election procedures requires that cases like this be decided after a trial, not before a trial.”
+
+[89] More recent decisions have continued to follow this rule, at times despite the judge’s opinion that the injunction might have been warranted, but for the prohibition. For example, in Tan v. British Columbia (Chief Electoral Officer), Maczko J. of the British Columbia Supreme Court wrote: “were it not for the admonition of the Supreme Court of Canada, I might well have granted the injunction in this case. However, taking the law as it is following Harper, I do not consider it open to me to grant the injunction.”
+
+[90] Again, in British Columbia Teachers’ Federation v. British Columbia (Attorney General), the court referred to and ultimately followed Harper #1, stating:
+
+At para. 7, McLachlin C.J. referred to the principle against granting the equivalent of final relief in interlocutory challenges to electoral statutes, even in the course of elections governed by those statutes. It is apparent that to grant the injunction sought in the present case would, in effect, give the plaintiffs the ultimate relief they seek in this action, at least with respect to the upcoming election.
+
+[91] One of the cornerstones of our common law system is the concept of stare decisis (Latin for “to stand by things decided”), also known as the doctrine of precedent, “under which it is necessary for a court to follow earlier judicial decisions when the same points arise again in litigation.” In the case of higher court decisions on a particular legal point, lower courts are bound to follow them. To depart from this concept and to decide cases without regard to established lines of authority would be to invite chaos and uncertainty into our judicial system. Even where there may be a persuasive argument to depart from a higher court precedent, the Supreme Court has recently reminded us that it is inappropriate for a lower court to ‘strike out on its own.’ In Canada v. Craig, the Court observed that, in situations where a party urges a lower court to depart from established precedent, the role of the lower court must be limited to writing reasons as to why the existing precedent is problematic, while remaining bound to follow it until it is modified or changed by a decision of the higher court.
+
+[92] More importantly, I am not persuaded that the precedent articulated in Gould and Harper #1 is problematic. To the contrary, in my view the logic behind the rule against granting final relief at the interlocutory stage in elections cases is exemplified by the facts of the present case, for the following reasons.
+
+[93] First and foremost, on this motion I am faced with a limited evidentiary record and I am being asked to stay the operation of only one provision of many that will be challenged on the full application. The identification provisions in the CEA are a cohesive scheme. Whether the effects of s.46(3) of the FEA will be held to be unconstitutional in light of other changes (including those made to the vouching procedure, for instance) is a question that is not before me.
+
+[94] Where, as here, a reforming statute makes multiple changes to the legislation, to pick and choose among them without considering the overall scheme runs the risk of unfairly isolating or highlighting concerns arising out of one specific provision without considering the impact and context provided by the rest, and the potential justification that may be found to exist in light of the whole. Given the public interest presumption of the validity of duly enacted legislation, it is inappropriate to venture a guess as to the constitutionality of provisions not before me, or to determine the constitutionality of an entire scheme in light of one provision. As McLachlin C.J.C. commented in Harper, interference by the court may be appropriate in the “clearest of cases.” However, given the issues raised, this is not such a case.
+
+[95] Secondly, it is problematic to change the rules for elections at the last minute through the blunt instrument of judicial intervention. Such action might harm public confidence and could lead to further errors in the election process. There are many actors in an election: parties, candidates, campaign workers, volunteers, election officials and staff, and electors themselves. Parties’ and candidates’ election strategies and election day plans are formulated having regard to the known and established rules of engagement. In order to be fair to all, any changes must be fully known and fairly implemented. Late changes in election rules run the risk of unfairness or, at the very least, the perception of unfairness.
+
+[96] Third, the rule against granting final relief in interlocutory proceedings involving constitutional challenges to electoral laws is informed by the risk of creating difficulties in the legislative scheme without considering the potential justification arguments that might be made under s.1 of the Charter and further without allowing Parliament the opportunity to respond. This, too, runs the risk of unfairness and decreasing public confidence in the electoral process.
+
+[97] One example of such a risk was raised by me during the course of argument, when it became evident that under s.106(1)(d) of the CEA as it currently stands, a registered elector who is visited at his or her home by a Revising Officer during the revision period may register other occupants of the premises without providing any proof of their identity (upon the taking of an oath). Those occupants will then be added to the list of electors and will receive VICs in the mail. If the VIC is authorized as an identity and address-proving document, then the very document being used to prove identity and address at the polling station may have been obtained without any proof of identity or address in the first place. Arguably, this is a potential “soft spot” that would result from the relief being sought on this motion. In turn, it may support the rationale for Parliament’s decision that VICs should not be used to prove identity and residence. This is a matter that the respondent should be entitled to address by way of a s.1 argument, or by way of a legislative response should the court ultimately determine that s.46(3) is unconstitutional.
+
+[98] As McLachlin C.J.C. further commented in Harper, “the determination of the constitutionality will turn on the application of s. 1 of the Charter, which is always a complex factual and legal analysis.” This reinforces the rationale behind the rule against granting interlocutory relief in constitutional challenges to electoral statutes.
+
+[99] The applicants have stressed the importance of ensuring the integrity of the electoral process and guarding against disenfranchisement, which would undermine public confidence in the process. However, as stated at the beginning of this decision, preserving public trust in the electoral process involves a balancing between enabling electors to vote and ensuring the integrity of the system. As the majority of the Supreme Court stated with reference to the CEA in Opitz v. Wrzesnewskyj:
+
+While enfranchisement is one of the cornerstones of the Act, it is not free-standing. Protecting the integrity of the process is also a central purpose of the Act. The same procedures that enable entitled voters to cast their ballots also serve the purpose of preventing those not entitled from casting ballots. These safeguards address the potential for fraud, corruption, and illegal practices, and the public’s perception of the integrity of the electoral process…. Fair and consistent observance of the statutory safeguards serves to enhance the public’s faith and confidence in fair elections and in the government itself, both of which are essential to an effective democracy.
+
+[100] In light of all of the foregoing considerations, I find that the balance of convenience does not favour granting injunctive relief. It follows that the applicants’ motion cannot succeed.
+
+Summary of conclusions and disposition
+
+[101] For the reasons set out above, and applying the well-established legal test for granting pre-trial injunctions, my analysis leads me to the following conclusions:
+
+(a) the complaint of the applicants that s.46(3) of the Fair Elections Act is unconstitutional because it prohibits the Chief Electoral Officer from authorizing the Voter Information Card as a form of voter identification on election day raises a serious question that warrants a full hearing;
+
+(b) based on the evidence to date, there is a risk that some individuals who would otherwise rely on the Voter Information Card to enable them to vote will be unable to do so due to s.46(3), which would result in irreparable harm due to their inability to exercise their right to vote in that fashion;
+
+(c) despite the above, established principles that govern the availability of injunctions, including the rule against temporarily suspending properly enacted electoral legislation in the run-up to an election, dictate that the court should not stay the operation of the disputed law without a full hearing on the merits, something the parties agree cannot be accomplished before the upcoming federal election.
+
+[102] I therefore conclude that the motion of the applicants must be dismissed.
+
+[103] As agreed by the parties, the issue of costs of the motion (as between the applicants and the respondent AGC) will be reserved to be decided by the judge who ultimately hears and decides the main application. Under the terms of their intervention, no costs are recoverable by the intervenors.
+
+[104] Finally, I express my thanks to all counsel for the thorough and professional fashion in which they presented their arguments to the court.
+
+___________________________
+
+Stinson J.
+
+Released: July 17, 2015

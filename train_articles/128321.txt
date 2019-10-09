@@ -1,0 +1,176 @@
+A Timeline of the Apple-FBI iPhone Controversy (UPDATED: 3/29/16)
+Apple has been making headlines recently for its refusal to comply with a court order requiring it to help federal authorities unlock a mass shooter’s iPhone. This story dates back to the late spring of 2015. The timeline below summarizes how this controversy has played out thus far.
+
+June 8, 2015
+
+The Information Technology Industry Council (ITI) and the Software & Information Industry Association, of which Apple is a member, write a letter to President Obama urging him “not to pursue any policy or proposal that would require or encourage companies to weaken [their digital products and services], including the weakening of encryption or creating encryption ‘work-arounds.'”
+
+July 8, 2015
+
+FBI Director James Comey testifies before the Senate’s judiciary and intelligence committees that the Islamic State’s use of end-to-end encryption places a “devil” on the shoulders of potential recruits “saying kill, kill, kill, kill”. Such technologies prohibit the FBI from disrupting a number of IS plots, he claims, which necessitates that law enforcement engage in a “debate” with communications providers such as Apple over the possibility of inserting backdoors into encryption technology.
+
+December 2, 2015
+
+Syed Rizwan Farook, 28, and his 29-year-old wife Tashfeen Malik kill 14 and wound 22 in a mass shooting and attempted bombing at the Inland Regional Center in San Bernardino, California. The couple is killed several hours later in a shootout with police.
+
+December 3, 2015
+
+The FBI opens a counter-terrorism investigation into the couple following a statement issued by Islamic State in Iraq and the Levant (ISIL) in which the terrorist organization identifies the shooters as “supporters.”
+
+February 9, 2016
+
+James Comey tells a Senate panel that investigators involved with the San Bernardino case are still attempting to unlock Farook’s iPhone 5C they recovered from the couple’s vehicle back in December.
+
+“We still have one of those killer’s phones that we haven’t been able to open,” Comey told members of the Senate Intelligence Committee during a hearing on homeland security. “It’s been over two months now. We are still working on it.”
+
+The FBI director notes that Apple’s encryption measures, which would disable Farook’s iPhone temporarily and remove user data off of the device if an incorrect passcode is entered too many times, continues to present a major obstacle to investigators.
+
+February 16, 2016
+
+U.S. Magistrate Judge Sheri Pym of U.S. District Court in Los Angeles rules that Apple must provide “reasonable technical assistance” to the Federal Bureau of Investigation in their efforts to break into Farook’s iPhone 5C. Specifically, the tech giant is ordered to develop a workaround that will bypass the device’s auto-erase function and passcode protection so investigators can brute force their way onto the suspected terrorist’s iPhone.
+
+February 17, 2016
+
+Tim Cook, CEO of Apple, publishes a statement in which he announces that Apple will be challenging the court’s ruling and explains to customers the company’s reason for doing so.
+
+“They have asked us to build a backdoor to the iPhone…,” Cook observes. “The government is asking Apple to hack our own users and undermine decades of security advancements that protect our customers — including tens of millions of American citizens — from sophisticated hackers and cybercriminals. The same engineers who built strong encryption into the iPhone to protect our users would, ironically, be ordered to weaken those protections and make our users less safe.”
+
+Google’s CEO Sundar Pichai and Reform Government Surveillance, an advocacy group supported by Facebook, Microsoft, Google, Twitter, and other large technology companies, publically voice their support for Apple’s decision to contest the ruling.
+
+Following the publication of Cook’s statement, the White House clarifies that the Department of Justice is asking Apple to unlock only a single iPhone.
+
+The Department of Justice is not asking Apple to “create a new backdoor to its products,” White House spokesman Josh Earnest said during the briefing. “The president certainly believes that is an important national priority.”
+
+February 18, 2016
+
+Additional voices insert their perspective into the ensuing controversy between Apple and the FBI. Twitter CEO and co-founder Jack Dorsey tweets out his support for Tim Cook and Apple, whereas John McAfee, computer programming expert and founder of McAfee antivirus, offers to decrypt the information on Farook’s iPhone 5C without Apple’s involvement. He states that he and his team could carry out their work primarily using social engineering, and he reports that he and his team would need only three weeks to do it.
+
+February 19, 2016
+
+The Justice Department files a motion against Apple in which it explains that Apple’s refusal “appears to be based on its concern for its business model and public brand marketing strategy” rather than a legal rationale. The motion goes on to state that Apple’s compliance with the order would not lead to “the end of privacy.” The Department of Justice therefore demands that a judge order Apple to begin assisting the FBI with its investigation immediately.
+
+As if in response to the DOJ, a senior Apple executive confirms that any tool developed by Apple to break into Farook’s iPhone 5C would work on any other iPhone currently being sold, including newer models equipped with Secure Enclave feature. The deadline for Apple to comply with the court order is also extended to February 26.
+
+In the meantime, Matthew Panzarino of TechCrunch responds to reports that Apple has unlocked 70 iPhones for the U.S. government in the past. He examines several of the cases and finds that most if not all of them involved Apple extracting data that was accessible on still-locked devices.
+
+February 20, 2016
+
+The FBI releases a statement in which it confirms that it cooperated with the county of San Bernardino to reset the iCloud account password associated with Farook’s iPhone 5C shortly after it launched its investigation into the mass shooting.
+
+“Since the iPhone 5C was locked when investigators seized it during the lawful search on December 3rd, a logical next step was to obtain access to iCloud backups for the phone in order to obtain evidence related to the investigation in the days following the attack,” the statement reads. “The FBI worked with San Bernardino County to reset the iCloud password on December 6th, as the county owned the account and was able to reset the password in order to provide immediate access to the iCloud backup data. The reset of the iCloud account password does not impact Apple’s ability to assist with the the court order under the All Writs Act.”
+
+February 21, 2016
+
+James Comey takes to Lawfare to explain the FBI’s position in seeking Apple’s assistance.
+
+“The particular legal issue is actually quite narrow,” he explains in a blog post. “The relief we seek is limited and its value increasingly obsolete because the technology continues to evolve. We simply want the chance, with a search warrant, to try to guess the terrorist’s passcode without the phone essentially self-destructing and without it taking a decade to guess correctly. That’s it. We don’t want to break anyone’s encryption or set a master key loose on the land. I hope thoughtful people will take the time to understand that. Maybe the phone holds the clue to finding more terrorists. Maybe it doesn’t. But we can’t look the survivors in the eye, or ourselves in the mirror, if we don’t follow this lead.”
+
+February 22, 2016
+
+Tim Cook sends out an email to employees thanking them for their support and calling for the FBI to drop its order lest they set a “dangerous precedent” by forcing Apple to unlock Farook’s device. A Q&A between the tech giant and its customers restates Apple’s belief that “the only way to guarantee that such a powerful tool isn’t abused and doesn’t fall into the wrong hands is to never create it.”
+
+Apparently, a majority of Americans disagrees with Cook.
+
+The results of a survey of more than 1,000 American adults conducted by the Pew Research Center are made public. That study reveals that just over half (51 percent) of respondents feel that Apple should comply with the FBI’s order, compared to 38 percent who support Apple’s position.
+
+The founders of two notable technology giants also voice their appraisal of Apple’s position. Microsoft founder Bill Gates breaks ranks with the rest of Silicon Valley and comes out in support of the FBI, whereas Mark Zuckerberg, creator of Facebook, says, “We lean toward Apple.” Zuckerberg is careful to point out that his company would cooperate with law enforcement if that meant stopping a terrorist threat.
+
+February 24, 2016
+
+Apple announces that its engineers have begun developing new security measures that would make it impossible for law enforcement authorities to break into a locked iPhone using brute force tactics such as those the FBI would like to employ on Farook’s iPhone 5C.
+
+February 25, 2016
+
+The tech giant files its legal response to the FBI’s demand to help it unlock Farook’s device and requests that the court vacate its previous order.
+
+The motion begins by arguing that the U.S. government is attempting to significantly expand the All Writs Act, a 1789 law which at its core empowers federal judges to issue court orders.
+
+“No court has ever granted the government power to force companies like Apple to weaken its security systems to facilitate the government’s access to private individuals’ information,” the motion reads. “The All Writs Act does not support such sweeping use of judicial power, and the First and Fifth Amendments to the Constitution forbid it.”
+
+Apple goes on to assert that it would need to create an entirely new department that is essentially dedicated to complying with future government orders if it were to agree to assist the FBI.
+
+It also reveals that it is working on enhancing the encryption of iCloud backups in particular as a way to protect users’ data from law enforcement in the future.
+
+In the meantime, Verizon comes out in support of Apple’s position, as does Microsoft, which in an apparent break with its founder Bill Gates states that it “wholeheartedly” supports the iPhone maker.
+
+February 29, 2016
+
+A federal judge in Brooklyn denies the U.S. government’s request that the court force Apple to bypass the passcode mechanism on an iPhone belonging to a criminal defendant in a drug-related case. In his ruling, the judge explains that the U.S. government failed to establish that the All Writs Act applies to the legal issues involved in the case.
+
+March 1, 2016
+
+The House judiciary committee considers the FBI’s demand that Apple provide it with technical assistance in its efforts to unlock Farook’s iPhone.
+
+Lawmakers from both parties condemn the FBI and the Justice Department for overreaching their authority. Many also vocalize their support for a law setting boundaries on digital security.
+
+“Can you appreciate my frustration with what appears to be little more than an end-run around this committee?” asks Democratic congressman John Conyers.
+
+Representative Zoe Lofgren calls the FBI’s demands to weaken Apple’s security a “fool’s errand” that undermined cybersecurity.
+
+At the same hearing, FBI Director James Comey tells lawmakers that the Justice Department made a mistake in ordering Farook’s iCloud password to be reset shortly after launching its investigation into the San Bernardino shooting. He says that while FBI personnel believed resetting the password would grant them access to the iPhone, the opposite ultimately proved to be true.
+
+March 7, 2016
+
+The U.S. government appeals the Brooklyn judge’s ruling that Apple need not help authorities bypass the passcode mechanism on an iPhone belonging to a criminal defendant in a drug-related case
+
+Later that day, Apple co-founder Steve Wozniak expresses his support for Apple, stating “I side with Apple on this one” in an interview with late-night talk show host Conan O’Brien. He also points out that the FBI has picked “the lamest case they ever could,” given the lack of a court conviction in the San Bernardino shooting.
+
+March 8, 2016
+
+Apple executive Eddy Cue warns that the U.S. government could set a dangerous precedent for users’ privacy and security if they succeed in forcing Apple to help them unlock Farook’s iPhone 5C.
+
+Cue says to Univision: “Someday they will want [Apple] to turn on [a user’s] camera or microphone. We can’t do that now, but what if we’re forced to do that? Where will this stop? In a divorce case? In an immigration case? In a tax case? Some day, someone will be able to turn on a phone’s microphone. That should not happen in this country.”
+
+March 9, 2016
+
+NSA whistleblower dismisses the FBI’s claims it cannot unlock Farook’s iPhone without Apple’s help.
+
+“Respectfully, that’s horse****,” he tells attendees at the Blueprint for Democracy conference in Washington, DC via a video link from Moscow. This echoes his tweet on February 27:
+
+March 11, 2016
+
+President Obama delivers the keynote address at the South By Southwest (SXSW) 2016 festival that the United States must negotiate the desire for strong encryption with a desire to break that encryption in certain circumstances, including disrupting terrorist plots, nabbing child pornographers, and enforcing tax collection.
+
+“You cannot take an absolutist view on this,” he said, as quoted by Ars Technica. “If your view is strong encryption no matter what and we can and should create black boxes, that does not strike the balance that we’ve lived with for 200 or 300 years. And it’s fetishizing our phones above every other value. That can’t be the right answer.”
+
+March 13, 2016
+
+The Department of Justice writes that while Apple maintains it would be a burden to unlock Farook’s iPhone 5C, the FBI remains committed to working with the tech giant towards a solution. It adds, however, that it might need to take more drastic measures if Apple remains non-compliant.
+
+“For the reasons discussed above, the FBI cannot itself modify the software on Farook’s iPhone without access to the source code and Apple’s private electronic signature,” the DOJ said, as quoted by ExtremeTech. “The government did not seek to compel Apple to turn those over because it believed such a request would be less palatable to Apple. If Apple would prefer that course, however, that may provide an alternative that requires less labor by Apple programmers.”
+
+March 15, 2016
+
+Apple condemns the Department of Justice for failing to seek the assistance of governmental agencies, in particular the National Security Agency, which could help the FBI unlock Farook’s phone without the tech company’s help.
+
+“The government does not deny that there may be other agencies in the government that could assist it in unlocking the phone and accessing its data; rather, it claims, without support, that it has no obligation to consult other agencies,” Apple wrote, per an article published by WIRED magazine.
+
+Apple also says that the FBI’s potential inability to unlock the phone should compel it to develop the capabilities to do so and should not force tech companies to assist it in its efforts.
+
+“Defining the scope of the All Writs Act as inversely proportional to the capabilities of the FBI removes any incentive for it to innovate and develop more robust forensic capabilities.”
+
+March 22, 2016
+
+A federal court in central California grants the request of the FBI to postpone all subsequent court proceedings for at least one month. The U.S. government reveals its intention in a court filing to investigate a method of unlocking Farook’s iPhone proposed by an “outside third party” that would not require Apple’s assistance during that time.
+
+Apple requests that the U.S. government share information with it if it is able to unlock the device.
+
+March 25, 2016
+
+Apple announces its plans to transfer iCloud encryption key management to account holders. When completed, this move will render many legal battles like the FBI-iPhone controversy irrelevant. Without the encryption keys, Apple will have no way to access users’ encrypted iCloud data regardless of how much the U.S. government wants it. The onus of data management will therefore shift to the users themselves.
+
+March 28, 2016
+
+The FBI announces that it has successfully cracked a suspected terrorist’s iPhone using a method that did not require Apple’s assistance.
+
+“The government has now successfully accessed the data stored on Farook’s iPhone and therefore no longer requires the assistance from Apple Inc. mandated by Court’s Order Compelling Apple Inc. to Assist Agents in Search dated February 16, 2016,” reads a status report filed by the U.S. government on Monday. “Accordingly, the government hereby requests that the Order Compelling Apple Inc. to Assist Agents in Search dated February 16, 2016 be vacated.”
+
+Apple requests that the U.S. government share the details of its method with the tech giant so that it can verify iPhone users’ security. The company also reiterates its dedication to furthering the conversation on people’s “civil liberties, and our collective security and privacy.”
+
+Conclusion
+
+Scott Schober, president and CEO of Berkeley Varitonic Systems Inc., put the controversy into perspective when he said, “Apple and FBI are not at odds. They both want the same thing–a legal precedent on the value of our digital data.”
+
+That doesn’t mean they have to agree on the precedent. To be sure, Apple and the FBI are on opposite sides of the debate. They aspire to achieve different goals when it comes to our data’s protection. With that in mind, the direction towards which this controversy shifts will likely have far-reaching consequences for the protection of our information and for our rights as users and citizens.
+
+We will post updates to this story as the controversy continues to unfold.

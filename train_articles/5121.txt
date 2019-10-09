@@ -1,0 +1,40 @@
+Gerrymanders, Part 2: How many voters were disenfranchised?
+(Welcome, redditors! And for the hardcore nerds…)
+
+Redistricting is a large and sometimes arcane subject. Take a look at the comments section for the last post. Some of you are quite knowledgeable on the subject. Others are new to it. Before I continue, I’ll lay out some basics, and explain what it is about this problem that interests me.
+
+In the US system, the House of Representatives is elected on the basis of districts. State boundaries are fixed, and the number of Representatives in each state is determined after the Census, which occurs every 10 years. It is left to each state how to elect its Representatives. The current standard practice is that somebody draws up districts, each of which then elects one Representative. A similar procedure is used to determine state-legislature districts.
+
+In such a system, one issue is how to represent the interests of subgroups such as political parties and ethnic minorities. If a minority is small, they can end up on the losing side of every election. Indeed, a general principle of the current district system is that a given fraction of the vote below 50% will usually lead to a fraction of the seats much smaller than 50%. One solution is to craft districts that cluster groups with shared interests, as was recently done in New York state. Another solution advocated by several commenters was that of multi-member districts. Overall, the topic is one of “good government,” which is worthwhile…but not my focus. I do not think it is the central crisis. For purposes of the analysis I have been doing, then, I am using the current standard district system, as practiced across the nation, as a reference for “fairness.”
+
+I also won’t delve too far into structural challenges that arise from the fact that dense populations tilt Democratic, while sparse populations tilt Republican. It is worth understanding what is baked into the system, and has been analyzed by John Sides and others. To the extent that there is an action item, it is in the “good government” category: redistricters of good will could address it wisely if they chose to.
+
+Which brings us to the topic I do care about: “bad government.” My goal is to identify actions that purposely separate the legislative process from overall popular will. It can also happen when redistricting is under the control of partisan legislators, who can (and do) protect incumbents or an entire political party. In the extreme, fewer than 50% of voters can elect more than 50% of the Representatives. In addition, the construction of polarized districts can leave policy positions at the mercy of primary voters.
+
+In Part 1, I laid out a state-level measure of partisan gerrymandering: the number of seats by which a delegation differs from a “typical” national outcome. Here it is, applied to all 50 states.
+
+This is calculated using the vote outcomes of non-extreme states (shaded in gray) to feed the simulations. Red shading indicates Republican Party control over redistricting, blue indicates Democratic Party control, and black indicates nonpartisan commission (AZ) or a court-ordered map (TX).
+
+(I should say that using nongerrymandered districts for the simulations only increases the importance of the “what-if” scenario. Repairing the red-state gerrymandering would lead to a swing of 30-34 seats toward Democrats; repairing the blue state of Illinois would lead to a swing of 2-4 seats toward Republicans.
+
+Finally, applying the gray-states rules to all states would give a mean outcome of 215 D, 220 R, with some variability. That’s compared with the House margin of control starting Thursday, a 33-seat margin of 234 R, 201 D. So if the outlier states had been districted according to prevailing standards, a switch in control this year would have been within reach. At a minimum, power would be more evenly balanced and the possibility of paralysis reduced.
+
+It is safe to say that these outcomes did not arise by chance. Out of 10 states with extreme outcomes, 8 favored the party that controlled the process, and two were under the control of a nonpartisan commission. Indeed, the extreme cases closely match a redistricting watchlist published by the Washington Post in March 2011. From that list, only Nevada and New York have escaped this Hall of Shame.
+
+In the case of the commission-drawn and court-ordered maps, it is possible to see why the Arizona GOP would be displeased. They also didn’t like the fact that there were too many competitive districts, which is usually a good-government goal. Texas is interesting because the redistricting was court-ordered, post-Tom DeLay. 60% of Texas voters voted for Republicans to elect 24 out of 36 seats, which sounds like a lot but is a substantial underperformance.
+
+Now let’s estimate how many voters were disenfranchised by looking at the simulation results:
+
+In the seven Republican-controlled states, the total votes cast were 16.22 million (50.8%) for Republicans, 15.68 million (49.2%) for Democrats for a 74 R, 32 D outcome. The simulations indicate that this seat split would normally only require 11.7 million Democratic votes. In other words, 4 million Democratic voters in seven states were disenfranchised.
+
+In Illinois, the total votes cast were 2.74 million (55.4%) for Democrats, 2.21 million (44.6%) for Republicans for a 12 D, 6 R outcome. In this case, 1.8 million Republican votes would have been “enough” to elect this delegation, so that about 400,000 Illinois Republican voters were disenfranchised.
+
+Therefore the disenfranchisement due to partisan-controlled redistricting was a total of 4.4 million voters from both parties. Democrats were disenfranchised more than Republicans, at a ratio of 10:1.
+
+I will conclude by saying that the problem of partisan gerrymandering has been identified as a major problem, both by nonpartisan Congressional scholars Mann and Ornstein (in book and column), and recently by partisan commenter David Atkins. The problem is finding a remedy. Republicans had an extremely lucky year in 2010, when they assumed control of a record number of legislatures – and therefore control over redistricting.
+
+At this point, remedies would fall in the following general categories:
+
+Persuading courts of the degree of disenfranchisement; Resolving issues at the ballot box; and Improvements in the future redistricting process.
+
+This all gets into the question of how to fix “bad government.” That’s a big topic. One starting point would be the California example.

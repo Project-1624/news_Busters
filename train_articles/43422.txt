@@ -1,0 +1,93 @@
+Medicaid Drug Rebate Program
+
+The Medicaid Drug Rebate Program (MDRP) is a program that includes Centers for Medicare & Medicaid Services (CMS), state Medicaid agencies, and participating drug manufacturers that helps to offset the Federal and state costs of most outpatient prescription drugs dispensed to Medicaid patients. Approximately 600 drug manufacturers currently participate in this program. All fifty states and the District of Columbia cover prescription drugs under the MDRP, which is authorized by Section 1927 of the Social Security Act.
+
+The program requires a drug manufacturer to enter into, and have in effect, a national rebate agreement with the Secretary of the Department of Health and Human Services (HHS) in exchange for state Medicaid coverage of most of the manufacturer’s drugs. When a manufacturer markets a new covered outpatient drug, it must also submit product and pricing data concerning the drug to CMS via the Drug Data Reporting for Medicaid (DDR) system. This ensures that states are aware of the newly marketed drug. In addition, Section II(g) of the Rebate Agreement explains that manufacturers are responsible for notifying states of a new drug’s coverage. Manufacturers are required to report all covered outpatient drugs under their labeler code to the MDRP. Manufacturers may not be selective in reporting their National Drug Code's (NDC) to the program. Manufacturers are then responsible for paying a rebate on those drugs for which payment was made under the state plan. These rebates are paid by drug manufacturers on a quarterly basis to states and are shared between the states and the Federal government to offset the overall cost of prescription drugs under the Medicaid Program.
+
+In addition to signing a national rebate agreement, drug manufacturers are required to enter into agreements with two other Federal programs in order to have their drugs covered under Medicaid: a pricing agreement for the Section 340B Drug Pricing Program, administered by the Health Resources and Services Administration, and a master agreement with the Secretary of Veterans Affairs for the Federal Supply Schedule.
+
+Please note that in accordance with section 1927(a), in order for payment to be made available under Medicare Part B for a manufacturer’s covered outpatient drugs as defined at section 1927(k)(2), the manufacturer must enter into a rebate agreement.
+
+The amount of rebate due for each unit of a drug is based on statutory formulas as follows:
+
+Innovator Drugs – the greater of 23.1% of the Average Manufacturer Price (AMP) per unit or the difference between the AMP and the best price per unit and adjusted by the Consumer Price Index-Urban (CPI-U) based on launch date and current quarter AMP.
+
+Blood Clotting Factors – the greater of 17.1% of the AMP per unit or the difference between the AMP and the best price per unit and adjusted by the CPI-U based on launch date and current quarter AMP.
+
+Drugs Approved by Federal Drug Adminstration (FDA) Exclusively for Pediatric Indications – the larger of 17.1% of the AMP per unit or the difference between the AMP and the best price per unit and adjusted by the CPI-U based on launch date and current quarter AMP.
+
+Line Extensions – For a drug that is a new formulation (line extension) of a brand name drug that is an oral solid dosage form, the rebate is the amount computed under section 1927 of the Act or, if greater, the product of:
+
+The AMP for the line extension drug
+
+The highest additional rebate for any strength of the original brand name drug
+
+The total number of units of each dosage form and strength of the line extension drug (section 1206 of The Health Care & Education Reconciliation Act of 2010 (HCERA), which replaced section 1927(c)(2)(C) as added by section 2501(d) of Patient Protection and Affordable Care Act (PPACA))
+
+Cap on Total Rebate Amount for Innovator Drugs – The limit on the total rebate amount for each innovator drug is at 100% of the AMP.
+
+Non-innovator Drugs – 13% of the AMP per unit.
+
+Unit Rebate Amount Calculation
+
+The CMS Medicaid Drug Rebate (MDR) system performs the URA Calculation using the drug manufacturer's pricing. The specific methodology used is determined by law, and depends upon whether a drug is classified as:
+
+Single source ("S" drug category)
+
+Innovator multiple source ("I" drug category)
+
+Non-innovator multiple source ("N" drug category)
+
+Clotting factor drug (CF)
+
+Exclusively pediatric drug (EP)
+
+CMS provides this URA information to states as a courtesy. However, drug manufacturers remain responsible for correctly calculating the URA for their covered outpatient drugs.
+
+Consumer Price Index Urban Value
+
+This consumer price index urban (CPI-U) value is used as an integral part of the computation of the unit rebate amounts for innovator drugs. It is available from the Bureau of Labor Statistics and it shows every value from 1913 to the present.
+
+Interest Calculation for Late Rebate Payments
+
+Interest is calculated as follows:
+
+Obtain yield rates of weekly auction of 13-Week Treasury bills under Investment Rate % or in the DDR. Determine the date range for which interest is owed beginning with the 38th day from the invoice postmark date. Total the yield rates of each weekly auction for the period during which interest applies. Divide that total by the number of yield rates (i.e., the number of weeks) to determine the average interest rate. Multiply the average interest rate by the amount of unpaid rebate to determine the amount of interest due. Divide the amount of interest due by 365 days to determine the daily interest amount due. Multiply the daily interest amount by the number of days for which interest is owed. This amount represents the total interest owed.
+
+Contact Information
+
+The Drug Manufacturer Contact Information contains Optional Effective Date, Termination Date (if applicable), and Legal, Invoice and Technical Contact information for each drug company participating in the MDRP. A record layout for the drug manufacturer contact information is provided in the Drug Manufacturer contact information record layout.
+
+A drug manufacturer should use the Manufacturer Contact Change Form (CMS 367(d)) to make any changes to its legal, invoice, and/or technical contact information. The drug manufacturer should submit its completed 367d form to the Medicaid Drug Rebate Operations staff via fax (410) 786-0390 or email DDR@cms.hhs.gov. Note: Request for "Labeler Name" name change should be filed with the FDA before they are submitted to CMS **.
+
+The state contact information contains each state's policy, rebate and technical contact information for the MDRP.
+
+A state should use the State Contact Change Form (CMS 368) to make any changes to its Policy, Rebate and/or Technical contact information. The state should submit its completed 368 form to the Medicaid Drug Rebate Operations staff via fax (410) 786-0390 or email DDR@cms.hhs.gov.
+
+**It is our understanding that the FDA no longer accepts Form 2656 for labeler name changes; rather, such changes are now handled through electronic submission with the FDA. After a labeler has electronically filed a name change with the FDA, it should then submit a 367d form to CMS’ Medicaid Drug Rebate program (via fax or email, as described above reflecting the new labeler name, as well as any changes to the Legal, Invoice, or Technical Contact information (e.g., edits to any contact name, email address, mailing address, fax #, etc.).
+
+DDR Access
+
+Drug manufacturers who need to report or certify their data must apply for access to the DDR for Medicaid System. States wishing to view select Medicaid Drug Rebate data also may apply for DDR access. Note: Access to data will be designated by each drug manufacturer's Technical Contact (TC) or state’s State DDR Contact (SDC).
+
+As of November 4, 2018, all users of the DDR system were transitioned from using a CMS Enterprise User Administration (EUA) User ID to using a CMS Enterprise Identity Management (EIDM) User ID to access DDR. The transition has been completed and all DDR users will access DDR through the CMS Enterprise Portal by logging in with their new EIDM credentials.
+
+If you had current access to DDR as of November 4, 2018, you were included in the transition and must take the following actions before you will be able to access DDR. If you experience trouble with the steps below, please email the DDR Help Desk at DDRHelpDesk@dcca.com or by phone at 1-833-879-6075.
+
+If you had an existing CMS EIDM User ID prior to transition:
+
+Log into the CMS Enterprise Portal using your existing CMS EIDM User ID and password. On the top banner, under your name, select “My Access” from the drop-down menu to request a role. Alternatively, you can select “Request/Add Apps” on the “My Portal” page. Search for “Drug Data Reporting for Medicaid (DDR)” in the catalog. When the DDR tile appears, select the gray “Request Access” button. The “Application Description” field automatically populates with” Drug Data Reporting for Medicaid (DDR).” In the “Select a Role” drop-down, choose an appropriate EIDM role. For example, if you are a state employee or state contractor, you would select “DDR State User” or if you are a Drug Manufacturer, you would select “DDR Labeler.” Next, enter any notes to the approver and then select “Submit.” After submitting your request, you may be directed to Identity Verification. If so, please continue to Step 3 for further instruction. Please note: Unless previously completed or you were an existing DDR user who was part of the transition from EUA to EIDM, all users will be subject to mandatory Identity Verification prior to receiving the Multi-Factor Authentication (MFA) prompt. All users will be required to add MFA. When Identity Verification is completed and/or MFA is added, you will be directed to the “Request Acknowledgment” screen. This DDR role request has been processed. Select “Ok” to acknowledge and close the screen. Once you have selected “Ok,” you will be directed to the “View and Manage My Access Screen.” The tables on this screen display roles that you currently hold, as well as any pending and rejected requests. When your role request has been approved or rejected, you will receive an email notification. After your role request has been approved, you will see the MACBIS tile on the main page of the portal after you log in. Click on the “MACBIS” tile, then select “Application” under the DDR heading to access DDR.
+
+If you did not have an existing CMS EIDM User ID prior to transition, an EIDM ID was created on your behalf and you should follow these steps:
+
+Log into the CMS Enterprise Portal using your new CMS EIDM User ID and default password. Your new CMS EIDM ID configuration and default password are as follows: Your assigned EIDM ID will contain the acronym, EIDM, followed by your four-character CMS EUA ID (previous DDR login ID). For example – EIDMABCD, where ABCD was the user’s CMS EUA User ID.
+
+will contain the acronym, EIDM, followed by your four-character CMS EUA ID (previous DDR login ID). For example – EIDMABCD, where ABCD was the user’s CMS EUA User ID. Your default password is the first two letters of your last name, beginning with a capital letter, followed by an “!” and the last five digits of your Social Security number (SSN). For example, Jane Doe’s last five digits of her SSN are 12345. Her default password is Do!12345. The first time you log into the portal with these new credentials, you will be required to complete your user profile. Please follow the prompts and enter your information. You will also need to change your password from the default convention. Please see the EIDM Instruction Guide for DDR Users for information on changing your password. After you have completed these tasks, you can begin the DDR role request process. On the top banner, under your name, select “My Access” from the drop-down menu to request a role. Alternatively, you can select “Request/Add Apps” on the “My Portal” page. Search for “Drug Data Reporting for Medicaid (DDR)” in the catalog. When the DDR tile appears, select the gray “Request Access” button. The “Application Description” field automatically populates with “Drug Data Reporting for Medicaid (DDR).” In the “Select a Role” drop-down, choose an appropriate EIDM role. For example, if you are a state employee or state contractor, you would select “DDR State User” or if you are a Drug Manufacturer, you would select “DDR Labeler.” Next, enter any notes to the approver and then select “Submit.” After submitting your request, you may be directed to Identity Verification. If so, please continue to Step 3 for further instruction. Please note: Unless previously completed or you were an existing DDR user who was part of the transition from EUA to EIDM, all users will be subject to mandatory Identity Verification prior to receiving the Multi-Factor Authentication (MFA) prompt. All users will be required to add MFA. When Identity Verification is completed and/or MFA is added, you will be directed to the “Request Acknowledgment” screen. This DDR role request has been processed. Select “Ok” to acknowledge and close the screen. Once you have selected “Ok,” you will be directed to the “View and Manage My Access Screen.” The tables on this screen display roles that you currently hold, as well as any pending and rejected requests. When your role request has been approved or rejected, you will receive an email notification. After your role request has been approved, you will see the MACBIS tile on the main page of the portal after you log in. Click on the “MACBIS” tile, then select “Application” under the DDR heading to access DDR.
+
+For more detailed instructions and screenshots for all DDR-related EIDM tasks, please refer to the EIDM Instruction Guide for DDR Users.
+
+If you have any questions or concerns regarding the integration, please email the DDR Operations Team at DDR@cms.hhs.gov or contact the DDR Help Desk at DDRHelpDesk@dcca.com or 1-833-879-6075.
+
+Questions on the Medicaid Drug Rebate Program? Email MDROperations@cms.hhs.gov.
+
+Page last updated on November 13, 2018

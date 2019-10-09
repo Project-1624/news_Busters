@@ -1,0 +1,34 @@
+World Development Indicators
+The Aggregation Rules function defines the methodologies to be used when deriving custom aggregates. These rules apply only to custom country groups you have created. They do not apply to official groups presented in your selected database.
+
+For each selected series, choose your Aggregation Rule and Weight Indicator (if needed) from the corresponding drop-down boxes. Check the Apply to all box if you wish to use the same methodology for all selected series.
+
+Aggregation Rules include:
+
+1. Max: Aggregates are set to the highest available value for each time period.
+
+2. Mean: Aggregates are calculated as the average of available data for each time period.
+
+3. Mean 66: Aggregates are calculated as the average of available data for each time period. Values are not shown if more than one third of the observations in the series are missing.
+
+4. Median: Aggregates are calculated as the median of available data for each time period.
+
+5. Median 66: Aggregates are calculated as the median of available data for each time period. Values are not computed if more than a third of the observations in the series are missing.
+
+6. Min: Aggregates are set to the lowest available value for each time period.
+
+7. Sum: Aggregates are calculated as the sum of available data for each time period.
+
+8. Sum 66: Aggregates are calculated as the sum of available data for each time period. Sums are not shown if more than one third of the observations in the series are missing.
+
+9. Weighted Mean: Aggregates are calculated as weighted averages of available data for each time period. Select an appropriate weight variable (GNI, population, GDP, exports, imports, labor force or land area) from the Weight Indicator box, as shown above.
+
+10. Weighted Mean 66: Aggregates are calculated as weighted averages of available data for each time period. No aggregate is shown if missing data account for more than one third of the observations in the series. Select an appropriate weight variable (GNI, population, GDP, exports, imports, labor force or land area) from the Weight Indicator box, as shown above.
+
+11. Weighted Mean 66POP: Aggregates are calculated as weighted averages of available data for each time period. No aggregate is shown if countries with missing data represent more than one third of the total population of your custom group. Select an appropriate weight variable (GNI, population, GDP, exports, imports, labor force or land area) from the Weight Indicator box, as shown above.
+
+
+
+Note 1: In none of the above methodologies are missing values imputed. Therefore, aggregates for groups of economies should be treated as approximations of unknown totals or average values.
+
+Note 2: Aggregation results apply only to your custom-defined groups and do not reflect official World Bank aggregates based on regional and income classification of economies. Results may be inappropriate (e.g., summing series expressed as a percentage) and caution should be observed when using this function.

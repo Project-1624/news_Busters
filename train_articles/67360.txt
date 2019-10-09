@@ -1,0 +1,24 @@
+The Incidental Economist
+I’ve found, read, and reviewed six papers in my Medicaid-IV series. These are ones that met my criteria for sound methodology for estimating the causal effect of Medicaid coverage on health outcomes. This post is a concluding summary.
+
+First let me note that just because I found six papers doesn’t mean there aren’t others that qualify. I just don’t know about them. So, point me to them, and I’ll take a look.
+
+Four of the six papers were either by Currie and Gruber or used methods pioneered by them. The three Currie and Gruber papers focused on maternal and child health, finding that 1980s and 1990s Medicaid expansions improved the health of children (increasing use of care, use of high-tech birth interventions, and birth weight, and decreasing infant and child mortality). Busch and Duchovny, using similar methods, found that late 1990s and early 2000s Medicaid expansions increased cancer-screening rates and decreased the likelihood of forgoing a doctor visit because of cost. A paper by Goldman and colleagues examined the effect of insurance on an HIV population using an IV technique with Medicaid-related instruments. Their methods were sound, and their results were not statistically significant.
+
+I’m not satisfied with the literature in this area, but that’s not the fault of the scholars who’ve worked in it. The areas of focus have been relatively narrow–prenatal and neonatal care, HIV patients–and therefore, not necessarily generalizable to the broader population. Moreover, much of the work with significant results was conducted with data nearly two decades old. Therefore, I think more research needs to be done to prepare for the 2014 expansion of Medicaid authorized by the ACA.
+
+The sixth paper I reviewed promises just that. The Oregon Health Study is a randomized trial of the effects of enrollment in the Medicaid program of that state. It’s the first randomized trial of health insurance since the RAND health insurance experiment. Results are not out yet but when they emerge they’re sure to be important and relevant.
+
+My take-away from the Medicaid-IV literature review is: there is no credible evidence that Medicaid results in worse or equivalent health outcomes as being uninsured. That is Medicaid improves health. It certainly doesn’t improve health as much as private insurance, but the credible evidence to date–that using sound techniques that can control for the self-selection into the program–strongly suggests Medicaid is better for health than no insurance at all.
+
+There are observational studies that purport to reveal otherwise, that Medicaid coverage is worse or no better than being uninsured. One cannot draw such conclusions from such studies if they do not control for the unobservable factors that drive Medicaid enrollment. Causal inference requires appropriate techniques. Even a regression with lots of controls, even propensity score analysis, is insufficient in this area of study.
+
+Finally, none of this means Medicaid is a program without flaws. It is badly in need of reform. It should be federalized or otherwise protected from state-level fiscal woes. Physicians and hospitals treating Medicaid patients should be reimbursed at rates closer to those of Medicare or private insurance. (That might mean lowering the latter, not only increasing the former.) So long as they’re evidence-based, I’m not opposed to adjustments in the design of Medicaid to increase the value of care delivered to the population that relies on it.
+
+However, what we should not do is fool ourselves into thinking Medicaid is not capable of improving health. Based on high-quality evidence to date, it is and it has.
+
+Share this...
+
+email
+
+Tweetable

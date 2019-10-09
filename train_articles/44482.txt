@@ -1,0 +1,200 @@
+Can Soft Drink Taxes Reduce Population Weight?
+Abstract Soft drink consumption has been hypothesized as one of the major factors in the growing rates of obesity in the US. Nearly two-thirds of all states currently tax soft drinks using excise taxes, sales taxes, or special exemptions to food exemptions from sales taxes to reduce consumption of this product, raise revenue, and improve public health. In this paper, we evaluate the impact of changes in state soft drink taxes on body mass index (BMI), obesity, and overweight. Our results suggest that soft drink taxes influence BMI, but that the impact is small in magnitude. Keywords: Obesity, Soft Drink Taxation
+
+Introduction Obesity has been labeled as an ongoing epidemic in the US and many other developed countries (James et al., 2001) as a result of the substantial increase in the prevalence of adult obesity over the last thirty years (Ogden et al., 2006).1 Increases in obesity rates may pose substantial externalities on society through increases in health care costs and losses in productivity (Lakdawalla, Goldman, and Shang, 2005). The long term health consequences of adult obesity include increases in Type II diabetes, coronary heart disease, stroke, and cancer (National Task Force on the Prevention and Treatment of Obesity, 2000). In 2000, the social costs of obesity were estimated at $117 billion (Office of the Surgeon General, 2001). Sturm (2002) suggests that the influence of obesity on chronic health conditions is similar to aging twenty years and the impact on health and health costs due to obesity is greater than both smoking and drinking. Soft drink consumption has been hypothesized as one of the major factors in the growing rates of obesity in the US. One primary reason for this hypothesis is that relatively small increases in consumed calories can accumulate over time and may generate large changes in population weight. For instance, the medical literature suggests that changes in soft drink consumption as small as one serving per day can lead to significant weight change over time if not offset by caloric expenditures (e.g., Ludwig et al., 2001). In fact, the US Department of Agriculture (USDA) has reported that per capita soft-drink consumption has increased by almost 500% over the past 50 years (Putnam and Allshouse, 1999) and soft drinks have been the single largest contributor of energy intake during the last decade (Block, 2004). One policy through which governments can influence individuals’ consumption choices and potentially affect the increase in obesity rates is the taxation of specific categories of food that contribute to weight gains. Similar to “sin taxes” imposed on alcohol and tobacco, taxes on soft drinks have been introduced by states to reduce consumption of this product, raise revenue, and improve public health. In fact, nearly two-thirds of all states currently tax soft drinks using excise taxes, sales taxes, or special exceptions to food exemptions from sales taxes. Additionally, in recent years, many states and localities have proposed excise taxes on soft drinks in an effort to curb the rise in obesity (Chouinard et al., 2007). Although there is extensive research on the impact of alcohol and tobacco taxes on a variety of health outcomes, there is little research regarding the influence of soft drink taxes. This paper contributes to the literature by providing the first empirical examination of the effectiveness of soft drink taxation to reduce adult weight outcomes using a robust empirical strategy that accounts for state and time effects. States have taxed soft drinks directly through excise taxes and indirectly by excluding soft drinks from the food exemptions to sales taxes. We examine the impact of both the incremental soft drink tax rate, which is the tax specifically on soft drinks that is net of any taxes on other foods, and the total soft drink tax rate, which incorporates state's specific exclusions of soft drinks from the food exemptions to the sales tax. We analyze the impact of changes in states’ taxation rates from 1990 to 2006 on changes in body mass index and obesity status utilizing the repeated cross-sections of the Behavioral Risk Factor Surveillance System (BRFSS). During this time period, approximately half of all states changed their soft drink tax rate. By estimating regression models that include state, year, and quarter of year fixed effects, we identify the impact of soft drink tax rates on individuals’ weight from changes in the tax rate within states over time. Our results demonstrate that weight responds to changes in soft drink tax rates. An increase of one percentage point in the state soft drink tax rate leads to a decrease in body mass index (BMI) of 0.003 points. The influence of soft drink taxes varies across demographic groups; we find that soft drink taxes have a larger influence on BMI and obesity for low income adults and Hispanics. Overall, we find that at the current tax rates, with an average of approximately three percent, the behavioral response of adults is small in magnitude. Our results suggest that even a relatively large increase of 18 percentage points, as recently proposed by New York's Governor Paterson (2008), may not have a substantial effect on population weight.
+
+Data A. Soft Drink Taxes We construct a set of total and incremental soft drink taxes at the state and quarter level from 1990 to 2006. We follow the strategy used by Tefft (2008) and describe it in this section.15 The total effective soft drink tax rate is the total tax collected on soft drinks after accounting for sales taxes, food exemptions, and specific excise taxes. The incremental effective soft drink tax rate is the tax on soft drinks relative to the level of taxation on other foods. We first collect information on states’ taxation of soft drinks with respect to specific excise taxes on soft drinks and other snack taxes, general state sales taxes, and special soft drink exceptions to food exemptions from sales taxes. Jacobson and Brownell (2000) provide guidelines and in many cases served as a comparison to measure accuracy in data collection (see Tables 1 and of that article). Research tools used in this effort included web searches, LexisNexis Academic searches, and information gathered directly from states’ Departments of Revenue web sites. Table 2 BMI BMI Obese Obese Overweight Overweight Total Soft Drink Tax Rate −0.0029***
+
+[0.0004] −0.0001*
+
+[0.0000] −0.0002***
+
+[0.0001] Incremental Soft Drink Tax Rate −0.0028***
+
+[0.0005] −0.0001**
+
+[0.0000] −0.0002***
+
+[0.0000] Male 0.572***
+
+[0.045] 0.572***
+
+[0.045] −0.013***
+
+[0.003] −0.013***
+
+[0.003] 0.135***
+
+[0.004] 0.135***
+
+[0.004] Age 0.309***
+
+[0.004] 0.309***
+
+[0.004] 0.016***
+
+[0.000] 0.016***
+
+[0.000] 0.027***
+
+[0.000] 0.027***
+
+[0.000] Age Squared −0.003***
+
+[0.000] −0.003***
+
+[0.000] −0.000***
+
+[0.000] −0.000***
+
+[0.000] −0.000***
+
+[0.000] −0.000***
+
+[0.000] Black 1.851***
+
+[0.058] 1.851***
+
+[0.058] 0.113***
+
+[0.004] 0.113***
+
+[0.004] 0.139***
+
+[0.004] 0.139***
+
+[0.004] Hispanic 1.091***
+
+[0.154] 1.091***
+
+[0.154] 0.059***
+
+[0.010] 0.059***
+
+[0.010] 0.106***
+
+[0.015] 0.106***
+
+[0.015] Observations 2709422 2709422 2709422 2709422 2709422 2709422 R-squared 0.08 0.08 0.04 0.04 0.08 0.08 Open in a separate window We convert all tax descriptions16 such that they may be incorporated into total and incremental tax rates. For taxes that are quoted in dollars per quantity, we refer to the Bureau of Labor Statistics annual nationwide price index for a quantity of soda,17 and convert any level tax into a percent of expenditure. We do not include taxes on soft drink syrups because we do not have information on the expected amount of syrup per quantity of soft drink. In order to build total and incremental soft drink tax rates we must account for general sales tax and food tax information. First, we collect state level sales tax information between 1990 and 2006. The primary sources for this collection effort include The Book of the States, published annually or biennially during the period of interest by The Council of State Governments (CSG, 1990-2007), and LexisNexis Academic database searches. In some cases, we also use information from All States Tax Handbook, published by the Research Institute of America (RIA, 2001). These sources include information on the sales tax rate for each state and effective dates of changes in those tax rates. Next, a special consideration with respect to the taxation of food is that a number of states exempt food from the sales tax. One reason for this is that food is considered to be a basic necessity, so including it in the sales tax is a particularly regressive policy. We included these exemptions (identified in the sources listed above) in calculating the soft drink tax rates by coding net food taxes as zero when exempted. It is also important to note that some states that exempt food from the sales tax do not include some snack foods in this exemption, so we adjusted the rates accordingly in these cases. We merge the specific soft drink tax rates with the information on general sales taxes and food exemptions to generate total and incremental effective soft drink tax rates. The total soft drink tax rate for each state is calculated by summing the specific soft drink tax rate and the general sales tax if the state does not exempt food from the sales tax or if the state exempts food from the sales tax but excludes soft drinks from the food exemption. If the state exempts food from the sales tax and does not exclude soft drinks from this exemption, then the total soft drink tax rate is equal to the specific soft drink tax rate. The incremental soft drink tax rate for each state is calculated as the total soft drink tax rate net of the tax rate for other food categories. Using the effective dates of each tax, we are able to calculate quarterly soft drink tax rates for each state. We determine mean annual tax rates by aggregating quarterly tax rates. An annual summary of the tax rates faced by respondents, including mean rates and the proportion of rates greater than zero, is reported in . Table 1A Year Mean Incremental Tax Mean Total Tax % Incremental > 0 % Total > 0 1990 1.741 3.367 0.392 0.647 1991 1.873 3.556 0.412 0.667 1992 1.969 3.691 0.431 0.686 1993 3.277 5.020 0.471 0.725 1994 3.277 5.035 0.471 0.725 1995 1.986 3.743 0.431 0.686 1996 1.978 3.733 0.431 0.686 1997 1.978 3.710 0.431 0.686 1998 1.856 3.469 0.392 0.667 1999 1.836 3.434 0.392 0.647 2000 1.875 3.493 0.392 0.667 2001 1.758 3.388 0.373 0.647 2002 1.728 3.355 0.353 0.647 2003 1.755 3.328 0.353 0.647 2004 1.895 3.484 0.373 0.647 2005 1.888 3.349 0.373 0.627 2006 1.890 3.296 0.373 0.627 Open in a separate window B. Person Data In order to examine the potential effect on population weight status of soft drink taxes, we use data from the 1990 through 2006 waves of the Behavioral Risk Factor Surveillance System (BFRSS). BRFSS is conducted annually by state and U.S. territory health departments and the Centers for Disease Control to provide up-to-date information on health risks for use by local health officials and health researchers. Some of the advantages of the BRFSS sample are that it is a nationally representative survey with a large sample size and that it contains relevant geographic information. These characteristics allow for a comprehensive analysis of tax changes across the U.S. for the duration of our soft drink tax data. Each respondent identifies his or her state of residence, thus allowing us to assign a soft drink tax rate to each observation. Finally, as a result of the large sample size, we are able to precisely estimate small weight responses to the low levels of taxation that would be difficult to detect in smaller datasets. BRFSS includes information on the height and weight of each respondent, and body mass index (BMI) is calculated from these variables. Because self-reports of height and weight are known to be biased, following Cawley (2000), we compare self-reported measures of height and weight to measured values using NHANES III for each race and gender, and adjust the self-reported height and weight of respondents in the BRFSS accordingly. We then re-calculate BMI based on these adjustments. Dichotomous variables measuring overweight (BMI ≥ 25) and obesity (BMI ≥ 30) are constructed from this adjusted measure of BMI. We exclude individuals from our analysis who are residents of Guam, Puerto Rico, and the Virgin Islands, restricting attention to the 50 states and the District of Columbia. We drop observations for which either age or race is not reported (approximately 1.6% of the sample). Next, we drop women who identify themselves as pregnant (1.1% of the remaining sample). Finally, we drop individuals from the sample who do not report BMI (7.9% of the remaining sample) or whose calculated BMI is less than 13 or greater than 70 (0.02% of the remaining sample), based on individuals’ unadjusted self-reports of height and weight. The final sample used in the analysis is reported in , with men and women shown separately. Reported values are weighted using the BRFSS survey weights to be representative of the national adult population. BRFSS only interviews individuals who are age 18 or older (with a top code at age 99), so our analysis does not apply to children or adolescents. Over 57 percent of the sample respondents are overweight and 20 percent are obese, while a very small fraction is underweight (BMI < 18). The BMI correction yields an overall mean upward shift of approximately 0.4 units relative to the reported values. Table 1B Variable All Men Women BMI (reported) 26.223 26.765 25.689 BMI (adjusted) 26.668 26.928 26.412 Obese 0.209 0.201 0.217 Overweight 0.577 0.641 0.514 Underweight 0.010 0.006 0.014 Age 45.307 43.917 46.675 Black 0.105 0.097 0.113 Hispanic 0.105 0.111 0.100 White 0.863 0.868 0.858 High school grad 0.866 0.867 0.865 College grad 0.272 0.296 0.249 Married 0.597 0.627 0.568 Income < $10k 0.078 0.058 0.099 Income >= $10k & < $15k 0.070 0.059 0.082 Income >= $15k & < $20k 0.087 0.079 0.095 Income >= $20k & < $25k 0.104 0.101 0.108 Income >= $25k & < $35k 0.159 0.161 0.157 Income >= $35k & < $50k 0.183 0.193 0.174 Income >= $50k 0.317 0.349 0.285 N 2709422 1126325 1583097 N (education) 2705954 1124837 1581117 N (income) 2364590 1007142 1357448 N (married) 2705061 1124661 1580400 Open in a separate window
+
+Empirical Methodology In order to estimate the effects of soft drink taxation on weight outcomes, we closely follow the methodology used in the large literature that estimates the effect of taxation and prices on tobacco consumption18,19 The most recent work in this area uses within-state variation in taxes to identify changes in cigarette consumption. As discussed by Carpenter and Cook (2007), there are several data requirements necessary to use the state fixed effects approach. First, we require multiple observations on states. Second, the tax rate must vary within states over time (or else the tax variable will be perfectly collinear with state dummies). A third limitation with the approach is the potential for time-varying state-level unobservables that predict both changes in weight and changes in taxes. In the tobacco-tax literature, measures of “anti-smoking sentiment” have been shown to be important omitted state-level variables that substantially change the estimated price elasticities of tobacco consumption (DeCicca et al., 2006). We use a two-way fixed effects OLS framework in order to estimate the effect of state soft drink prices on various weight outcomes, including BMI, overweight status, and obesity. In particular, we specify the following model: outcome istq = β 1 ′X istq + β 2 T stq + μ s + δ t + γ q + ε istq , (1) where outcome istq is the weight outcome of individual i in state s at time t in quarter q, X is a vector of individual level covariates (e.g. race, income, etc), T is the state-level tax on soft drink sales, μ represents state fixed effects, δ represents year fixed effects, γ represents quarter-of-year fixed effects, and ε is the error term. 20 The coefficient of interest is β 2 , which captures the effect of state soft drink taxes on weight by comparing individuals in the same state who face different soft drink taxes over time. Standard errors are clustered to allow for arbitrary correlation at the state level and observations are weighted using the BRFSS survey weights in all regressions. Within the fixed effects framework, the impact of state soft drink taxes is identified from changes within states over time.21 By using BRFSS data from 1990 to 2006, which is a period when 28 states changed their soft drink tax rates, we are able to overcome the two primary data limitations of this empirical strategy. To demonstrate that there is sufficient variation in soft drink tax rates within states over time, we calculated the R-squared from regressions of the tax rates on state, year, and quarter fixed effects. An R-squared above 0.90 suggests a lack of sufficient variation (Carpenter and Cook, 2007), and the values for the incremental and total tax rates are 0.50 and 0.86, respectively. An additional limitation of this strategy, as outlined above, is the potential that unobserved characteristics that vary within states and over time are related to soft drink taxes and BMI. To address this limitation, following Gruber and Frakes (2005), we modify equation (1) to include state-specific time trends and estimate the relationship between soft drink taxes and weight outcomes as: outcome istq = α 1 ′X istq + α 2 T stq + μ s + δ t + γ q + ϕ s × t + φ s × q + ε istq . (2) In equation (2), α 2 measures the effect of state soft drink taxes on weight outcomes. To further examine the potential that time-varying state characteristics are related to soft drink taxes and BMI, we estimate additional specifications that include state economic conditions, specifically the one-year lagged state annual unemployment rate, and annual cigarette taxes. To address the possibility that unobserved state social norms regarding physical health and obesity are related to soft drink taxes and BMI, we estimate specifications that include one-year lagged values of state BMI averages and also estimate the impact of state soft drink taxes on whether an individual exercises outside of work activities. Finally, as falsification tests, we estimate the impact of state soft drink taxes on mental health status (recorded as a component of CDC's Healthy Days measures) and whether the individual received a flu shot.
+
+Results displays the impact of both total and incremental state soft drink taxes (as defined in the Data section) on BMI, overweight, and obesity as estimated by equation (2), which includes state-specific time trends. These results demonstrate that state soft drink taxes have a statistically significant impact on behavior and weight; however, the magnitude of the effect is small. An increase in the state soft drink tax rate of one percentage point leads to a decrease in BMI of 0.003 points and a decrease in obesity and overweight of 0.01 and 0.02 percentage points, respectively. We present results for both the total soft drink tax rate and the incremental soft drink tax rate and find similar results.22 In appendix Table 1A, we show that excluding state-specific time trends does not affect the results. In appendix Table 1B, we show that limiting the analyses to states with non-zero soft drink taxes also does not change the main results. displays the results of the impact of state soft drink taxes based on income categories. We present only the results for the incremental soft drink tax rate in this table and the remaining tables; the results for the total soft drink tax rate are similar. We find evidence that state soft drink taxes have a greater influence on behavior for adults in the tails of the income distribution. A one percentage point increase in the soft drink tax rate decreases BMI by over 0.01 points for the lowest three categories (income below $20,000) and nearly 0.01 points the highest category (income above $50,000). For individuals with the lowest category of income (income below $10,000), a one percent increase in the soft drink tax rate decreases obesity by 0.08 percentage points and overweight by 0.10 percentage points. For individuals with the highest category of income, the corresponding decreases are 0.05 percentage points for obesity and 0.08 percentage points for overweight. Table 3 BMI Obese Overweight N Income < $10k −0.0153***
+
+[0.0014] −0.0008***
+
+[0.0001] −0.0010***
+
+[0.0001] 175751 Income >= $10k & < $15k −0.0130***
+
+[0.0021] −0.0005***
+
+[0.0001] −0.0005***
+
+[0.0002] 167220 Income >= $15k & < $20k −0.0099***
+
+[0.0020] −0.0008***
+
+[0.0002] 0.0003***
+
+[0.0001] 208096 Income >= $20k & < $25k 0.0117***
+
+[0.0013] 0.0001
+
+[0.0001] 0.0002**
+
+[0.0001] 253257 Income >= $25k & < $35k 0.0032**
+
+[0.0014] 0.0002**
+
+[0.0001] 0.0006***
+
+[0.0001] 373025 Income >= $35k & < $50k −0.0059***
+
+[0.0012] −0.0001
+
+[0.0001] −0.0005***
+
+[0.0001] 429271 Income >= $50k −0.0081***
+
+[0.0010] −0.0005***
+
+[0.0001] −0.0008***
+
+[0.0001] 757970 Open in a separate window presents the impact of state soft drink taxes for various demographic groups. The impact of state soft drink taxes is larger for females, middle aged and older individuals, individuals with greater education, and varies according to race and ethnic categories. A one percentage point increase in the soft drink tax rate decreases BMI by nearly 0.02 points for Hispanics, 0.003 points for whites, and 0.001 for blacks, though this last result is not statistically significant. Table 4 BMI Obese Overweight N Female −0.0040***
+
+[0.0008] 0.0000
+
+[0.0001] −0.0005***
+
+[0.0001] 1583097 Male −0.0009**
+
+[0.0004] −0.0001
+
+[0.0000] 0.0001**
+
+[0.0000] 1126325 Black −0.0012
+
+[0.0017] −0.0001
+
+[0.0001] 0.0001
+
+[0.0001] 235642 White −0.0026***
+
+[0.0005] 0.0000
+
+[0.0000] −0.0002***
+
+[0.0001] 2413637 Hispanic −0.0164***
+
+[0.0019] −0.0021***
+
+[0.0002] −0.0022***
+
+[0.0001] 157002 High School Graduate −0.0031***
+
+[0.0005] −0.0002***
+
+[0.0000] 0.0002***
+
+[0.0000] 2389880 College Graduate −0.0076***
+
+[0.0007] −0.0004***
+
+[0.0000] −0.0004***
+
+[0.0001] 792385 Married −0.0044***
+
+[0.0006] −0.0003***
+
+[0.0000] −0.0005***
+
+[0.0001] 1481699 Age > 65 −0.0038***
+
+[0.0012] −0.0001
+
+[0.0001] −0.0002
+
+[0.0001] 553913 Age 18-25 0.0022
+
+[0.0014] 0.0000
+
+[0.0001] 0.0001
+
+[0.0001] 236521 Age 25-40 −0.0032***
+
+[0.0006] −0.0001
+
+[0.0001] −0.0005***
+
+[0.0001] 740654 Age 40-65 −0.0037***
+
+[0.0005] 0.0000
+
+[0.0001] −0.0001*
+
+[0.0001] 1178334 Open in a separate window The results in through demonstrate a statistically significant impact of soft drink taxes on weight that varies according to demographic and economic characteristics, but is generally small in magnitude. These results suggest that soft drink taxes influence behavior but that these behavioral changes are not sizeable enough to lead to large changes in population weight, based on the current magnitudes of state soft drink tax rates. In order to provide further confidence in our results, we examine the robustness of our results to a variety of additional specifications that are summarized here and are available upon request. First, in addition to state time trends and the control variables outlined above, we include controls for several time-varying state-level factors, such as lagged average BMI in each state, lagged unemployment rates, and also state-level cigarette taxes. In each case, our results are unaffected, which suggests that the estimate of the impact of soft drink taxes on weight is not influenced by unobserved state-level characteristics. Second, we conduct a series of falsification tests and conclude that soft drink taxes are not statistically related to mental health status, flu shot receipt, nor exercise outcomes. Finally, we examine the potential dynamic effects of soft drink taxation by estimating the relationships between past tax rates and current weight. All of the results are small and not statistically significant, except for the previous year tax rate, which is small (less than ½ the size of the contemporaneous effect for BMI, for example), positive and statistically significant.23 Overall, our results suggest little dynamic effects of soft drink taxes on weight and that our preferred estimates are robust to several specification checks.
+
+Conclusion In this study, we estimate the effects of current soft drinks taxes on weight outcomes for the US population. As the “obesity epidemic” has garnered considerable attention in the US in the last decade, we examine the usefulness of attempts to control population weight gain through taxation of undesirable consumption. In doing so, we make several important contributions to estimating the effects of taxation on weight changes in the US population. We use state, year, and quarter-of-year fixed effects, along with state-specific time trends in our baseline specification and find that a one percentage point increase in soft drink taxes decreases adult BMI by 0.003. While soft drink consumption is the single largest contributor of energy intake in the US in the past decade (Block 2004), it represents only 7 percent of total energy intake. Therefore, we should expect only modest changes in population weight through soft drink consumption responses to small tax increases. We verify the robustness of our results by including a variety of time-varying state characteristics in our estimation specifications. We also perform falsification tests on variables that should not be affected directly by soft drink taxes (e.g. mental health status). Overall, our results are robust. While our results suggest modest changes in weight as a result of soft drink taxation, we should note that soft drinks are currently taxed at a low rate and many states are proposing sizeable changes to the soft drink tax rate. Over the period of our data (1990-2006), we calculate the average incremental tax rate on soft drinks to be approximately 3 percent. Maine has recently increased its soft drink tax rate by approximately 20 percentage points. Our results suggest that a 20 percentage point change will lead to a decrease in BMI of 0.06 and that the impact could be larger for some demographic groups. The tax rate of soft drinks is especially low compared to other consumption items like cigarettes. In New York City, smokers pay $0.39 per pack of cigarettes to the federal government, $1.50 to the state government, and $1.50 to the city (Kuchler et al., 2005), so that the price per pack is over $5.75 (Boonn, 2007). The average federal and state taxes on cigarettes across the US are $1.66 of the average retail price of $4.54 (Boonn, 2007)—these taxes are comparable to an ad valorem tax of nearly 58 percent. While a tax rate of 58 percent is nearly out of the support of our data, we perform a back-of-the-envelope calculation to estimate the effects of imposing a soft drink tax of a similar magnitude to current cigarette taxes in the US. Our results suggest that raising the soft drink tax to 58 percent would decrease the mean BMI in the US by 0.16 points.24 In comparison, the average gain in BMI between 1990 and 2006 was more than 2.3 points. A similar calculation suggests that increasing the tax rate by 55 percentage points would decrease the proportion of the population who are obese or overweight by nearly 0.7 percentage points While increasing the tax rate on soft drinks to be comparable with cigarettes will not halt the obesity epidemic, the impact on population weight would likely be non-negligible. Although the impact of soft drink taxes on population weight is small in magnitude, a more complete evaluation of the effectiveness of this policy would compare a wider array of outcomes to the costs of these taxes. Reducing soft drink consumption may lead to improvement in other areas of health, including dental health (WHO, 2003). Additionally, an increase in the soft drink tax of this size would likely raise considerable revenue for the federal and state governments. The downside of the policy of increasing taxes of soft drinks is the likelihood that the tax is regressive.
+
+Acknowledgements The authors thank Kitt Carpenter, Tim Classen, Joseph Newhouse, Tara Watson, and participants at the American Society of Health Economists conference for helpful comments. Financial assistance from the Robert Wood Johnson Foundation (Frisvold) is gratefully acknowledged. The project described was supported by Award Number T32MH018029 from the National Institute of Mental Health (Tefft). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute of Mental Health or the National Institutes of Health. The authors thank Jennifer Hefner, Alejandra Roa, and John Zimmerman for excellent research assistance.

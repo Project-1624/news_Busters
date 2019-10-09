@@ -1,0 +1,87 @@
+HHS MODIFIES HIPAA CODE SETS (ICD-10) AND ELECTRONIC TRANSACTIONS STANDARDS
+
+
+
+OVERVIEW
+
+The U.S. Department of Health and Human Services (HHS) today announced two final rules that will facilitate the United States ’ ongoing transition to an electronic health care environment through adoption of a new generation of diagnosis and procedure codes and updated standards for electronic health care and pharmacy transactions.
+
+The first rule adopts two medical data code sets as Health Insurance Portability and Accountability Act of 1996 (HIPAA) standards for use in reporting diagnoses and inpatient hospital procedures in health care transactions (ICD-10 final rule). The standards adopted under this final rule will replace the ICD-9-CM code sets, developed nearly 30 years ago, with greatly expanded ICD-10 code sets.
+
+The second final rule adopts updated versions of the standards for certain electronic health care transactions, under the authority of HIPAA (5010/D.0 final rule). The updated versions replace the current versions of the standards and will promote greater use of electronic transactions. The final rule also adopts a standard for Medicaid pharmacy subrogation transactions, a process through which State Medicaid agencies recoup payments for pharmacy services in cases where a third party payer has primary financial responsibility.
+
+HHS’ proposed rules, published on Aug. 22, 2008, proposed earlier compliance dates for the transition to the ICD-10 code set and the updated versions of the transactions standards, but a large majority of public comments stated that more time would be needed for effective industry implementation. The final rules accommodate these concerns. Under the transaction standards final rule, covered entities must comply with Version 5010 (for some health care transactions) and Version D.0 (pharmacy transactions) on January 1, 2012. Covered entities must comply with the standard for the Medicaid pharmacy subrogation transaction (Version 3.0) on Jan. 1, 2012. However, for Version 3.0, small health plans have an additional year and must comply on Jan. 1, 2013. The ICD-10 code sets rule sets the compliance date at Oct. 1, 2013.
+
+RELATIONSHIP BETWEEN THE ICD-10 CODE SET AND VERSION 5010 TRANSACTION STANDARDS
+
+The new version of the standard for electronic health care transactions (Version 5010 of the X12 standard) is essential to the use of ICD-10 codes because the current X12 standard (Version 4010/4010A1), cannot accommodate the use of the greatly expanded ICD-10 code sets. Accordingly, HHS closely coordinated the development of the final rules, and the rules are being announced simultaneously.
+
+BACKGROUND ON ICD-10
+
+The ICD-10 final rule concurrently adopts the International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) for diagnosis coding, and the International Classification of Diseases, Tenth Revision, Procedure Coding System (ICD-10-PCS) for inpatient hospital procedure coding. These code sets will replace the International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) Volumes 1 and 2, and the International Classification of Diseases, Ninth Revision, Clinical Modification (CM) Volume 3 for diagnosis and procedure codes, respectively. Covered entities that use these code sets include health plans, health care clearinghouses, and health care providers who transmit any health information in electronic form in connection with a transaction for which HHS has adopted a standard.
+
+Electronic transactions involve the transmission of health care information for specific purposes. Code sets are collections of codes that are used to identify specific diagnoses and clinical procedures in claims and other transactions.
+
+The ICD-10-CM code set is maintained by the National Center for Health Statistics (NCHS) of the Centers for Disease Control and Prevention (CDC) for use in the United States . It is based on ICD-10, which was developed by the World Health Organization (WHO) and is used internationally. The ICD-10-PCS code set is maintained by CMS.
+
+RATIONALE FOR ADOPTING ICD-10
+
+ICD-9-CM is the current code sets standard adopted by the Secretary of HHS under HIPAA. ICD-9 is used by all covered entities to report diagnoses and inpatient hospital procedures on health care transactions for which HHS has adopted a standard. Shortcomings of ICD-9 include:
+
+ICD-9 is outdated, with only a limited ability to accommodate new procedures and diagnoses;
+
+ICD-9 lacks the precision needed for a number of emerging uses such as pay-for-performance and biosurveillance. Biosurveillance is the automated monitoring of information sources that may help in detecting an emerging epidemic, whether naturally occurring or as the result of bioterrorism;
+
+ICD-9 limits the precision of diagnosis-related groups (DRGs) as a result of very different procedures being grouped together in one code;
+
+ICD-9 lacks specificity and detail, uses terminology inconsistently, cannot capture new technology, and lacks codes for preventive services; and
+
+ICD-9 will eventually run out of space, particularly for procedure codes.
+
+Adoption of the ICD-10 code sets is expected to:
+
+Support value-based purchasing and Medicare’s anti-fraud and abuse activities by accurately defining services and providing specific diagnosis and treatment information;
+
+Support comprehensive reporting of quality data;
+
+Ensure more accurate payments for new procedures, fewer rejected claims, improved disease management, and harmonization of disease monitoring and reporting worldwide; and
+
+Allow the United States to compare its data with international data to track the incidence and spread of disease and treatment outcomes because the United States is one of the few developed countries not using ICD-10.
+
+BACKGROUND ON THE 5010 ELECTRONIC TRANSACTIONS STANDARDS
+
+HIPAA requires the Secretary of HHS to adopt standards that covered entities must use in electronically conducting certain health care administrative transactions, such as claims, remittance, eligibility, claims status requests and responses, and others. Covered entities include health plans, health care clearinghouses, and certain health care providers. The Transactions and Code Sets final rule published on Aug. 17, 2000, adopted standards for the statutorily identified transactions. Modifications to some of the standards adopted in that first final rule were made in a subsequent final rule published on Feb. 20, 2003. Covered entities must use only the standards that have been adopted by HHS, and are not permitted to use newer versions of the standards until they are adopted by HHS.
+
+The current versions of the standards, the Accredited Standards Committee X12 Version 4010/4010A1 (Version 4010/4010A1) for health care transactions, and the National Council for Prescription Drug Programs Version 5.1 (Version 5.1) for pharmacy transactions, are widely recognized as outdated and lacking certain functionality needed by the health care industry. The final rule replaces the current versions with Version 5010 and Version D.0, respectively.
+
+The 5010/D.0 rule also adopts a standard for the Medicaid pharmacy subrogation transaction. Medicaid pharmacy subrogation is the process by which State Medicaid agencies recoup funds for payments they have made for pharmacy services for Medicaid recipients, in cases where another third party payer has primary financial responsibility. No HIPAA standard had been adopted for this transaction before. Adoption of a standard for this transaction will also increase efficiencies and reduce costs in this sector.
+
+Version 5010 (Health Care Transactions)
+
+The new version of the HIPAA standards - Version 5010 - includes structural, front matter, technical, and data content improvements. Because the updated version is more specific in requiring the data that is needed, collected, and transmitted in a transaction, its adoption will reduce ambiguities. Version 5010 also addresses a variety of currently unmet business needs, including, for example, providing on institutional claims an indicator for conditions that were “present on admission.” Version 5010 also accommodates the use of the ICD-10 code sets, which are not supported by Version 4010/4010A1.
+
+Version D.0 (Pharmacy Claims)
+
+The updated version of the pharmacy claims transactions standard, Version D.0, replaces the current Version 5.1. Version D.0 specifically addresses business needs that have evolved with the implementation of the Medicare prescription drug benefit (Part D) as well as changes within the health care industry. New data elements and rejection codes in Version D.0 will facilitate both coordination of benefits claims processing and Medicare Part D claims processing. In addition, Version D.0:
+
+Provides more complete eligibility information for Medicare Part D and other insurance coverage;
+
+Better identifies patient responsibility, benefits stages, and coverage gaps on secondary claims; and
+
+Facilitates the billing of multiple ingredients in processing claims for compounded drugs.
+
+Medicaid Pharmacy Subrogation Standard
+
+Currently there is no adopted standard for the Medicaid pharmacy subrogation transaction. Many States presently conduct this transaction electronically, and employ a variety of standards with different payors. The adoption of a standard for use across the industry will improve efficiencies while reducing costs for Medicaid programs.
+
+The compliance date for implementing Version 5010 and Version D.0 is Jan. 1, 2012. For the Medicaid pharmacy subrogation standard, the compliance date is also Jan. 1, 2012, except for small health plans, which have an additional year to comply and must be compliant on Jan. 1, 2013.
+
+Both regulations are on display today at the Federal Register and may be viewed at http://www.archives.gov/federal-register/public-inspection/index.html.
+
+Click on View the Regular Filing Documents.
+
+Both regulations will be published on Jan. 16, 2009, and may be viewed that day and thereafter at http://www.gpoaccess.gov/fr/browse.html. Click “Go” next to where 2009 appears in the year selection box for “Back Issues (HTML Only).”
+
+A news release on both final rules may be viewed at. http://www.cms.hhs.gov/apps/media/press_releases.asp
+
+# # #

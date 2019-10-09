@@ -1,0 +1,465 @@
+National Compensation Survey: Glossary of Employee Benefit Terms
+
+September 2018
+
+For use starting with publications containing reference year 2018 estimates.
+
+This glossary is periodically updated to reflect changes in the National Compensation Survey. Information is applicable to estimates published as of this glossary's release date. Prior versions of the glossary are available at www.bls.gov/ncs/ncspubs.htm. Information on survey concepts, data sources, design, and calculation is available in "National Compensation Measures," in the BLS Handbook of Methods at www.bls.gov/opub/hom/ncs/home.htm.
+
+PDF version of Glossary (PDF)
+
+Overview
+
+The definitions of major plans, key provisions, and related terms presented in this glossary are those used by the U.S Bureau of Labor Statistics (BLS), National Compensation Survey (NCS) program when conducting its survey of employee benefits. Under the NCS program, information on the incidence and provision of benefits is published in several stages and available on the BLS website at www.bls.gov/ncs/ebs.
+
+Data on the incidence (access to and participation in) and key provisions of selected employer-sponsored benefits for retirement, healthcare, life insurance, paid leave, disability, and other benefits are published annually, with a March reference period. These estimates are published for private industry workers, state and local government workers, and civilian workers (private industry workers and state and local government workers combined).
+
+Data on detailed provisions of health and retirement benefits are also published annually, with a calendar year reference period. These estimates are published for private industry workers and state and local government workers.
+
+Note: Access to employee benefit programs and participation in those programs, as these concepts are used in the National Compensation Survey, are defined as follows:
+
+Access to a benefit plan: Employees are considered to have access to a benefit plan if it is available for their use. For example, if an employee is permitted to participate in a medical care plan offered by the employer, but the employee declines to do so, he or she is placed in a category with those having access to medical care.
+
+Participation in a benefit plan: Employees in contributory plans are considered participants in an insurance or retirement plan if they have paid required contributions and fulfilled any applicable service requirements. Employees in noncontributory plans are counted as participating regardless of whether they have fulfilled the service requirements. Note that the term "incidence" can refer to either rates of access or rates of participation in a benefit plan.
+
+Take-up rate: The percentage of workers with access to a plan who participate in the plan.
+
+Retirement Benefits
+
+Retirement plans are classified as either defined benefit or defined contribution plans. Defined benefit plans determine payments according to a fixed formula based on salary, years of service, and age. Defined contribution plans determine the value of individual accounts on the basis of the amount of money contributed and the rate of return on the money invested.
+
+Defined benefit plans
+
+Defined benefit pension plans provide employees with guaranteed retirement benefits based on benefit formulas. A participant's retirement age, length of service, and preretirement earnings may affect the benefits received. Definitions, key provisions, and related terms follow.
+
+Eligibility requirements
+
+Age and the period of time an employee is expected to work for the employer (a service requirement) before becoming eligible to enroll in a defined benefit retirement plan. Some plans require employees to satisfy both the age and the service requirements before being able to enroll. An example of a minimum age requirement is 21 years and an example of a minimum service requirement is 12 months.
+
+Traditional defined benefit formulas
+
+Percent of terminal earnings. Benefits are based on a percentage of average earnings during a specified number of years at the end of a worker's career (or when earnings are highest), multiplied by the number of years of service recognized by the plan.
+
+Percent of career earnings. Benefits are based on a percentage of an average of career earnings for every year of service recognized by the plan.
+
+Dollar amount. Benefits are based on a dollar amount per month for each year of service recognized by the plan.
+
+Percent of employer contribution. Benefits are based on employer and, occasionally, employee contributions. Benefits equal a percentage of total contributions.
+
+Nontraditional defined benefit formulas
+
+Cash balance plans. For each year worked, employees are credited with a specified contribution and a rate of interest on that contribution, which together will provide a lump sum at retirement. The lump sum may also be converted to an annuity.
+
+Pension equity plans. For each year worked, employees are credited with a percentage applied to their final average earnings. Benefits generally are distributed as a lump sum, but may be converted to an annuity.
+
+Frozen retirement plans
+
+Frozen retirement plans are benefit plans that typically are closed to new enrollees and limit future benefit accruals for some or all active plan participants. Some may no longer allow participants to accrue additional benefits. Others may change the plan's prospective benefit formula in such a way as to limit or cease future benefit accruals for some active participants. The length of time is calculated based on the year the plan was modified.
+
+Normal retirement
+
+Normal retirement is the specific age, length of service, or a combination of both, at which plan participants may retire and receive all accrued benefits without a reduction or penalty. In most plans, participants must satisfy a minimum service requirement to be vested in the plan. Typical vesting requirements are 5 years of service; these requirements are not included in the service requirements for normal retirement.
+
+Age and service requirement. The participants' age and service (in years) must each meet the criteria as specified in the plan, and as long as both conditions are satisfied employees may retire without incurring a reduction in benefits.
+
+Age plus service requirement. The sum of participants' age and service (in years) must meet a total minimum number as specified in the plan, such as 80, and as long as the condition is satisfied employees may retire without incurring a reduction in benefits.
+
+Early retirement
+
+Early retirement is the age, length of service, or combination of age and length of service at which plan participants may retire and receive all accrued benefits, minus a reduction or penalty.
+
+Flat percent per year. Reduction in the benefit amount for each year by which early retirement precedes normal retirement. In specific cases, flat percent per year reductions may approximate actuarial reductions, such as early retirement at age 55 with a reduction of 6 percent per year between age 55 and the plan's normal retirement age of 62.
+
+Variable. Reduction that is held constant within age brackets, but differs among brackets, sometimes in approximation of an actuarial table. For example, benefits may be reduced by 3 percent for each year between age 60 and the plan's normal retirement age, and by 6 percent for each year retirement precedes age 60.
+
+Actuarial. Reduction applied to the amount of the normal retirement benefit based on actuarial assumptions, so that on average, the beneficiary receives the total lifetime benefit of equal value regardless of retirement age.
+
+Benefit payment methods
+
+Payments from defined benefit plans may be in the form of a straight-life annuity, a joint-and-survivor annuity, a percentage of the unreduced accrued benefit, or a lump sum.
+
+Straight-life annuity. A periodic payment made for the life of the retiree, with no additional payments to survivors.
+
+Joint-and-survivor annuity. An immediate annuity for the life of the participant and a survivor annuity for the life of the participant's spouse. The amount of the survivor annuity may not be less than 50 percent, or more than 100 percent, of the amount payable during the time the participant and spouse are both alive. The annuity payable for the life of the participant is lower than that for a straight-life annuity; to account for the increased length of time over which payments will be made, this reduction may be a percentage of the straight-life benefit, such as 10 percent, or may be based on the life expectancy of the participant and spouse (an actuarial reduction).
+
+Percentage of unreduced accrued benefit. Under this method, the participant's pension is not reduced to adjust for survivor benefits. The participant will receive an amount equal to the straight-life annuity, and the spouse will receive a proportion of that amount, often 50 percent, should the participant die.
+
+Lump-sum payment. The participant may opt for a full lump sum, with no further benefits received from the plan. If a plan provides for a partial lump-sum payment, the participant receives a reduced annuity as well.
+
+Vesting
+
+Vesting is the period of time a participant must work before earning a nonforfeitable right to a retirement benefit. Once the participant is vested, the accrued benefit is retained even if the worker leaves the employer before reaching retirement age.
+
+Immediate full vesting. An employee is 100 percent vested immediately upon enrollment in the plan.
+
+Cliff vesting. No vesting occurs until an employee satisfies the service requirements for 100 percent vesting, such as 5 years.
+
+Graded vesting (or graduated vesting). An employee is entitled to an increasing share of nonforfeitable benefits, determined by the years of service with the employer, until eventually reaching full vesting. An example would be 50 percent vesting after 3 years of service, 75 percent vesting after 4 years of service, and 100 percent vesting after 5 years of service.
+
+Integration with Social Security
+
+Defined benefit plans may integrate retirement benefits with Social Security benefits. Under this approach, the employer's contribution to Social Security Federal Insurance Contributions Act (FICA) taxes is taken into account when plan benefits are computed. Integration may be accomplished by an offset or a step-rate method.
+
+Offset. Part of a participant's Social Security benefit is subtracted from the benefit otherwise payable by the plan. The maximum allowable offset is 83.3 percent of the Social Security benefit.
+
+Step rate (or Social Security breakpoint). Lower benefit rates are applied to earnings up to the specified taxable Social Security wage base (that is, the earnings subject to FICA tax); higher benefit rates are applied to earnings above the wage base.
+
+Portability
+
+Portability is a participant's ability to maintain and transfer accumulated pension benefits when changing jobs. Portability provisions in defined benefit plans generally cover portability of assets, portability of credited service, or both.
+
+Portability of assets. Participants can withdraw their accumulated pension benefits or transfer them to another retirement arrangement.
+
+Portability of credited service. Participants are allowed to count the years of service with a previous employer when determining benefits from their current employer.
+
+Disability retirement
+
+Disability retirement is retirement resulting from a totally disabling injury or illness prior to eligibility for early or normal retirement. Plans providing disability retirement benefits may have a service requirement, such as 10 years or longer.
+
+Immediate disability retirement. Benefits are available upon the onset of disability or after a waiting period, such as 6 months. Early retirement reductions do not apply to immediate disability benefits; participants' service credits cease to accumulate once immediate disability benefits begin.
+
+Deferred disability retirement. Service credits continue to accumulate and payments do not begin until participants are eligible for normal retirement.
+
+Preretirement survivor annuity
+
+In the case of death prior to retirement (or prior to eligibility for retirement benefits), the surviving spouse becomes eligible for an annuity for the rest of his or her life. At the time of death of the participant, the benefits become fully vested. The amount of annuity is based on the benefit the participant would have been eligible for if retirement had occurred on the date of death.
+
+Defined contribution plans
+
+Defined contribution plans are retirement plans that specify the level of employer contributions and place those contributions into individual employee accounts.
+
+Types of plans
+
+Savings and thrift plans. Employees may contribute a predetermined portion of earnings (usually pre-tax) to an individual account. Employers may match a fixed percentage of employee contributions or a percentage that varies by length of service, amount of employee contribution, or other factors. Contributions are invested as directed by the employee or employer. Although usually designed as a long-term savings vehicle, savings and thrift plans may allow withdrawals and loans before retirement.
+
+Money purchase pension plans. Fixed employer contributions, typically calculated as a percentage of employee earnings, are allocated to individual employee accounts each year. Employers also may make profit-sharing contributions to these plans at their discretion.
+
+Deferred profit-sharing plans. The employer contributes a fixed or discretionary amount of company profits to employees' accounts. The employer contribution is based on the profits of the company and may be zero. The contributions may be spread equally among all employees or may be based on the employee salary. Unlike a savings and thrift plan, a deferred profit-sharing plan does not "require" employees to contribute to their account in order to receive the employer's benefit.
+
+Employee stock ownership plans (ESOPs). The employer pays a designated amount, often borrowed, into a fund that is then invested, primarily in company stock. Any debt incurred in the purchase of the stock is repaid by the company. Stock is then distributed to employees according to a formula. (Available in private industry only).
+
+Individual retirement accounts (IRAs). An IRA is a retirement savings plan. There are several types of IRAs: traditional IRAs, Roth IRAs, simplified employee pension (SEP) IRAs, and savings incentive match plans for employees (SIMPLE) IRAs. Traditional and Roth IRAs are established by individuals who are allowed to contribute earnings up to a set maximum dollar amount. SEPs and SIMPLE are retirement plans established by employers.
+
+Simplified employee pensions (SEPs). An individual retirement account (IRA) is established for each eligible employee. The employee is immediately vested in employer contributions and generally directs the investment of the money.
+
+Savings incentive match plans for employees (SIMPLE). This type of plan is limited to employers with fewer than 100 employees and who also do not have any other qualified retirement plan. SIMPLE can be either part of a 401(k) plan or established as IRAs. Employers must either make matching contributions of up to 3 percent of compensation or make a 2 percent nonelective contribution to all eligible employees. Participants who are 50 years or older may make additional pre-tax employee contributions into a SIMPLE.
+
+Methods of contributions
+
+Pre-tax contributions. This type of contribution is a feature of many savings and thrift plans and other defined contribution plans that allow employees to make contributions to deferred compensation plans through salary reduction agreements before federal and state taxes are deducted from pay. Distributions from a plan funded by pre-tax contributions are taxable at distribution.
+
+Post-tax contributions. This type of contribution combines features of a Roth IRA plan and a 401(k) or 403(b) plan. Under these plans, employees are allowed to make part or all of their retirement plan contributions after taxes have been deducted, similar to the way a Roth IRA plan works. Post-tax contributions and their earnings are not subject to income tax upon distribution.
+
+Amounts up to Internal Revenue Code (IRC) limit. The IRC provides for dollar limitations on benefits and contributions under qualified defined contribution plans. The IRC limit on employee contributions was $18,500 in 2018, and was $18,000 in 2015-17.
+
+Investment choices
+
+Company stock. Employees receive equity in the company that sponsors the defined contribution plan.
+
+Common stock fund. This is a professionally managed fund invested in the common stock of a variety of companies.
+
+Fixed-interest securities. These securities include bonds and other nonfederal instruments that pay a fixed interest rate over a predetermined period.
+
+Diversified investments. These are professionally managed funds that are invested in more than one type of equity or debt instrument.
+
+Money market fund. This is a professionally managed mutual fund that invests in short-term Treasury bills, certificates of deposit, or corporate bonds. The fund managers sell shares to investors, who receive regular payments of interest.
+
+Lifecycle fund (or target date fund). This is a balanced fund designed to become more conservative as the investor approaches retirement by moving from equity funds to fixed-income mutual funds.
+
+Withdrawals, loans and transfers
+
+Withdrawals. Prior to normal payout (usually at retirement), defined contribution plan participants may be allowed to withdraw all or a portion of the employer funds from their accounts.
+
+Hardship withdrawals. Employees usually are not penalized when money is withdrawn as a result of a hardship, often defined as the death or illness of a family member, educational expenses, sudden uninsured losses, or a need to prevent eviction from one's primary residence.
+
+Loans. Defined contribution plans may allow participants to borrow employer funds, with interest, from their accounts. Loan amounts often are limited to a portion of the account balance. They usually have to be repaid within 5 years, but longer payment periods may apply for home purchase or renovation loans.
+
+Transfers or rollovers. A direct payment of plan benefits from a defined contribution plan into an IRA or another employer's plan. In a direct transfer or rollover, the employee is not taxed on the payment until it is withdrawn or distributed later.
+
+Vesting
+
+Vesting is the amount of time a participant must work before earning a nonforfeitable right to a retirement benefit. Once the participant is vested, the accrued benefit is retained even if the worker leaves the employer before reaching retirement age. Vesting schedules apply only to employer contributions; employee contributions are always 100 percent vested.
+
+Immediate full vesting. An employee is 100 percent vested immediately upon enrollment in the plan.
+
+Cliff vesting. No vesting occurs until an employee satisfies the service requirements for 100 percent vesting, such as 5 years.
+
+Graded vesting (or graduated vesting). An employee is entitled to an increasing share of nonforfeitable benefits, determined by the years of service with the employer, until eventually reaching full vesting. An example would be 50 percent vesting after 3 years of service, 75 percent vesting after 4 years of service, and 100 percent vesting after 5 years of service.
+
+Employer contribution methods
+
+Specified matching percent. This feature is common in savings and thrift plans. The employer matches a specified percentage of employee contributions. The matching percentage can vary by length of service, amount of employee contribution, and other factors.
+
+Fixed percentage of profits formula. This feature is common in deferred profit sharing plans. The employer contributes a fixed percentage of total annual profits to the plan. For example, no matter what the level of profits, 5 percent is contributed to the plan. Profits may include those for the entire company or just those in a specific business unit. In a variation of this formula, employers set aside a reserve amount of profits (for example, $1 million) and pay only a fixed percentage of any profits above this amount into the employees' defined contribution plan.
+
+Percentage of employee earnings. The employer contributes a fixed percentage of each employee's earnings to his or her individual account. This feature is common in money purchase pension plans.
+
+Related plans and terms
+
+Stock bonus plan. Contributions are placed in a trust fund that invests in securities, including those of the employing company. This type of plan is financed by the employer or jointly by the employer and employee. Upon the employee's retirement or separation from the company, proceeds from the trust fund are paid out in the form of company stock or cash.
+
+Automatic enrollment. As soon as eligibility requirements are met, employees become covered under a plan, but have the right to decline coverage at any time. A minimum default employee contribution and default investment vehicles usually are set, but employees may choose to contribute a different percentage and change investments.
+
+Automatic escalation. Employee contributions are automatically increased at a predetermined rate over time, raising the contribution rate as a share of earnings. Employees may choose to contribute a different percentage.
+
+Healthcare Benefits
+
+Healthcare benefits provide preventive and protective medical, dental, vision, or prescription drug coverage to employees and their families. Most employer-provided plans cover the employee and the employee’s dependents, including spouse and children.
+
+Medical care
+
+Medical care plans provide services or payments for services rendered in the hospital or by a qualified medical care provider.
+
+Fee-for-service plans
+
+Traditional fee-for-service plan. This type of plan finances, but does not deliver, healthcare services; the plan allows participants the choice of any provider, without affecting reimbursement. Employers pay premiums to a private insurance carrier to provide a specific package of health benefits. Some employers may choose to self-fund a fee-for-service plan, in which case the employer, as opposed to an insurance company, assumes responsibility for payment of all eligible benefits.
+
+Exclusive provider organization (EPO). This type of plan obligates employees to use only the plan’s providers in order to receive coverage, in contrast to PPO benefit plans, which merely offer a financial incentive for enrollees to use the preferred provider.
+
+Preferred provider organization (PPO). This type of plan provides coverage through a network of participating healthcare providers. Enrollees may receive services outside the network, but generally at higher costs. The additional costs may be in the form of higher deductibles, higher coinsurance rates, or both, or in the form of nondiscounted charges from providers.
+
+Point-of-service (POS) plan. This type of plan provides services through a network of participating healthcare providers. Services received within the network or through select medical facilities generally provide more generous benefits than services received outside the network.
+
+Consumer-driven health plan (CDHP). This type of plan combines a high-deductible health policy that provides protection from catastrophic medical expenses with a tax-favored account that pays routine healthcare expenses such as those for prescription medications and doctors’ visits.
+
+High deductible health plan (HDHP). This type of plan typically features a higher deductible and lower insurance premiums than those of traditional health plans. The plan includes catastrophic coverage to protect against large medical expenses, but the insured is responsible for routine out-of-pocket expenses up until they meet the plan deductible. For 2018, the Internal Revenue Service (IRS) minimum deductible amount allowed for single coverage HDHP plans is $1,350; for 2015-17 the amount was $1,300.
+
+Health Maintenance Organizations (HMOs)
+
+HMOs assume both the financial risks associated with providing comprehensive medical services and the responsibility for delivering healthcare in a particular geographic area, usually in return for a fixed, prepaid fee from members. HMOs emphasize preventive care and cover most types of care in full or subject to a copayment.
+
+Traditional HMOs. This type of HMO provides no benefits for services obtained outside the network.
+
+Open-access HMOs. This type of HMO allows enrollees to receive services from a non-network provider at a higher cost than the enrollee would pay at a network provider. The additional costs may be in the form of higher deductibles, copayments, or coinsurance.
+
+Limitations on coverage
+
+Maximum dollar limit. This limit is the maximum amount payable by the insurer for covered expenses for the insured and each covered dependent while the insured is enrolled in the health plan. Plans can have a yearly or a lifetime maximum dollar limit. The most typical maximum limit is a lifetime amount of $1 million per individual. Under the Patient Protection and Affordable Care Act (PPACA), as of September 23, 2010, employers with 50 or more employees were required to eliminate lifetime maximums on eligible medical care.
+
+Maximum out-of-pocket expense. This feature limits the dollar amount a group member is required to pay out-of-pocket during a year, in addition to the plan deductible. Until it is met, the plan and the member share in the cost of covered expenses. After the maximum is reached, the insurer pays all covered expenses.
+
+Deductible. The deductible is a dollar amount that an insured person pays during the benefit period—usually a year—before the insurer starts to make payments for covered medical services. Plans may have both individual and family deductibles. Some plans have separate deductibles for specific services. For example, a plan may have a hospitalization deductible per admission. Deductibles may differ between services received from an approved provider (that is, a provider with whom the insurer has a contract or an agreement specifying payment levels and other requirements) and those received from providers not on the approved list.
+
+Coinsurance. This form of medical cost sharing requires an insured person to pay a stated percentage of medical expenses after the deductible amount, if any, is paid. After any deductible amount and coinsurance are paid, the insurer is responsible for the rest of the reimbursement for covered benefits, up to the maximum allowed charges. The individual is responsible for any charges in excess of what the insurer determines to be “usual, customary, and reasonable.” Coinsurance rates may differ between services received from an approved provider and those received from providers not on the approved list.
+
+Copayments. The fixed dollar amount that an insured person must pay when a service is received before any remaining charges are paid by the insurer.
+
+Overall limits. The NCS uses this term to refer to restrictions that apply to all or most benefits under the plan, as opposed to selected individual benefits. An example of an overall limit is a $300-per-year deductible that must be paid before medical expenses become eligible for reimbursement. Another example is an 80-percent coinsurance that applies to all categories of care except outpatient surgery.
+
+Internal limits. An internal limit applies to individual categories of care—for example, a $250-per-procedure deductible for inpatient surgery.
+
+Plan Networks
+
+In-network. Healthcare providers (e.g., specialists, hospitals, laboratories) that have accepted contracted rates with the insurer are considered in-network. The insured person typically pays a lower price for using services within the network.
+
+Out-of-network. Services received outside the network, healthcare providers with contracted rates, typically carry a higher cost to the insured person.
+
+Most-generous coverage. Insurers may offer tiered networks and provide the insured person with the most-generous coverage, lowest costs, for using the preferred provider(s). The insured person may also receive services from the other in-network providers.
+
+Alternatives to hospitalization
+
+Alternatives are offered as a means of reducing costs.
+
+Skilled nursing facilities. This benefit provides rehabilitation and convalescent services, as well as skilled nursing care, to patients who require less intensive treatment than that provided in a hospital.
+
+Home healthcare. This benefit provides skilled nursing and therapeutic services to patients in their own homes.
+
+Hospice care. These programs provide nursing care and psychological support for terminally ill patients and their families, either on an inpatient basis or in the patient’s home.
+
+Outpatient surgery. Surgical procedures performed in the outpatient department of a hospital or ambulatory facility.
+
+Mental health and substance abuse treatment
+
+These services include inpatient and outpatient care for psychiatric conditions and alcohol and drug dependency. In the past, coverage for these services was usually more restrictive than that for general medical conditions. Under the Mental Health Parity and Addiction Equity Act of 2008 (MHPAEA), employers with 50 employees or more are required to offer medical plans with restrictions on mental health and substance abuse coverage identical to those on the coverage of general medical conditions.
+
+Substance abuse treatment. Plans provide at least partial payment for addiction to alcohol and/or drugs.
+
+Inpatient care. Includes institutional treatment in a hospital or specialized facility.
+
+Outpatient care. Includes treatment in one or more of the following: outpatient department of hospital, residential treatment center, organized outpatient clinic, day-night treatment center, and doctor’s office.
+
+Detoxification. Involves supervised care by medical personnel that is designed to reduce or eliminate the symptoms of chemical dependency. Treatment must occur on an inpatient basis.
+
+Rehabilitation. Intended to alter the behavior of substance abusers and usually are provided after detoxification is complete. Services can be provided on an inpatient or outpatient basis.
+
+Miscellaneous terms
+
+Premium. A premium is the fee paid for coverage of medical benefits for a defined period. Premiums can be paid by employers, unions, or employees or can be shared by the enrollee and the plan sponsor.
+
+Self-insured plan. Under this type of plan, employers directly assume the major cost of health insurance for their employees. Some self-insured plans bear the entire risk. Other self-insured plans insure against large claims through the purchase of stop-loss coverage. Some self-insured plans contract with insurance carriers or third-party administrators for claims processing and other administrative services; other self-insured plans are self-administered.
+
+Provider network. Under nontraditional fee-for-services plans and HMOs, this is a network of approved providers with whom the insurer has a contract or an agreement specifying payment levels and other requirements and whose services are covered more generously by the plan than if they are obtained elsewhere.
+
+Administrative services only (ASO). Under this type of plan, a third party disburses the employer’s funds to pay claims and handle other administrative details.
+
+Insured plan. In an insured plan, the employer contracts with another organization to assume financial responsibility for the costs of enrollees’ medical claims.
+
+Well-baby care. A well-baby care benefit provides for preventive doctors’ visits for children 2 years of age and younger. The benefit includes preventive pediatric care, routine pediatric care, and routine pediatric immunizations. Care immediately after the birth of the child is not included.
+
+Prescription drugs
+
+Prescription drug plans provide coverage for outpatient prescription drugs. Prescription drugs dispensed during a hospital stay are covered as hospital miscellaneous charges.
+
+Name-brand drugs. These are drugs that once were, or still are, under patents.
+
+Generic drugs. These are drugs that are not under any patents. Once a drug’s patent has expired, some plans provide more generous coverage for same-formula generic drugs than for name-brand drugs; the practice is adopted as a cost containment measure.
+
+Mail-order drugs. These are drugs that can be ordered through the mail. As a cost containment measure, some plans use mail-order pharmacies that typically provide a 3-month supply of maintenance drugs.
+
+Formulary drugs. These are both generic and brand-name drugs approved by the healthcare provider. Drugs not approved by the healthcare provider are nonformulary drugs, for which enrollees receive less generous benefits, such as a higher copayment per prescription.
+
+Dental care
+
+Dental care plans provide services or payments for restorative care and related treatment to the teeth and gums.
+
+Preventive services. Services include routine exams, cleanings, x-rays, and other preventive care.
+
+Basic services. Services include fillings, dental surgery, periodontal care (treatment for gum disease), and endodontics (root canal therapy).
+
+Major services. Services include procedures such as crowns and prosthetics (replacement of missing teeth with bridgework or dentures).
+
+Orthodontia services. These are services for the correction of malpositioned teeth.
+
+Vision care
+
+Vision care plans provide coverage for the improvement of eyesight, including eyeglasses and contact lenses. Coverage typically is limited and is subject to applicable copayments or scheduled cash allowances.
+
+Life Insurance Benefits
+
+Life insurance provides a lump-sum payment to a designated beneficiary or beneficiaries of a deceased employee. Companies may provide a basic amount of life insurance benefits, which may vary with an employee’s age, income, and occupation. Companies also may allow employees to pay for additional amounts of coverage.
+
+Benefit formulas
+
+Fixed-multiple-of-earnings benefit plans. These plans link the benefit amount to employee earnings, usually rounded to a stated dollar amount. This link enables the level of protection to increase automatically as income rises.
+
+Variable-multiple-of-earnings benefit plans. Benefit calculations under these plans use multiples that are based on employee earnings. For example, employees earning up to $50,000 per year might receive a benefit equal to their annual earnings, whereas employees earning more than $50,000 per year might receive twice their annual earnings.
+
+Flat-dollar-amount benefit plans. These plans provide a fixed life insurance benefit amount. Insurance amounts ranging from $10,000 to $25,000 are common in such plans.
+
+Variable-dollar-amount benefit plans. These plans provide a dollar amount that varies with an employee’s earnings and length of service.
+
+Paid Leave Benefits
+
+Paid holidays. Holidays are days of special religious, cultural, social, or patriotic significance on which work and business ordinarily cease. Employees usually have these days off from work and may receive either full or partial pay for holidays.
+
+Paid vacations. Vacations are leave from work (or pay in lieu of time off) provided on an annual basis and normally taken in blocks of days or weeks. Paid vacations commonly are granted to employees only after they meet specified service requirements. The amount of vacation leave received each year usually varies with the length of service. Vacation time off normally is paid at full pay or partial pay, or it may be a percentage of employee earnings.
+
+Paid personal leave. Personal leave is a general-purpose leave benefit, used for reasons important to the individual employee, but not otherwise provided by other forms of leave. Some employers place restrictions on the purposes for which personal leave may be used.
+
+Paid sick leave. Sick leave is paid absence from work if an employee is unable to work because of a non-work-related illness or injury. The employer usually provides all or part of an employee’s earnings. Employees commonly receive their regular pay for a specified number of days off per year. Sick leave is provided on a per-year basis, usually expressed in days, and is never insured.
+
+Paid military leave. Military leave is paid absence from work to fulfill military commitments. Pay may be either regular pay or the difference between employees’ regular earnings and the amount they receive from the military.
+
+Paid funeral leave. Funeral leave provides time off from work because of a death in the family. The period of absence is usually limited to a few days (for example, 3 paid days of leave for immediate family members and 1 paid day for other relatives).
+
+Paid jury duty leave. Jury duty leave provides a paid absence from work when one is summoned to serve as a juror. Employer payments commonly make up the difference between the employee’s regular pay and the court’s jury allowance.
+
+Paid family leave. Family leave is granted to an employee to care for a family member and includes paid maternity and paternity leave. The leave may be available to care for a newborn child, an adopted child, a sick child, or a sick adult relative. Paid family leave is given in addition to any sick leave, vacation, personal leave, or short-term disability leave that is available to the employee.
+
+Unpaid family leave. This leave is granted to an employee to care for a family member. The leave may be used to care for a newborn child, an adopted child, a sick child, or a sick adult relative. A typical family leave plan extends leave without pay to an employee for a period of several months while the employee cares for the family member. The Family and Medical Leave Act (FMLA) of 1993 is a Federal law providing unpaid job-protected leave to eligible workers for the care of their families or themselves for specified family and medical conditions. The FMLA provides eligible workers with up to 12 workweeks of unpaid leave per year for the birth, adoption, or foster care placement of a child; the care of a spouse, son, daughter, or parent with a serious health condition; or the employee's own serious health condition resulting in an inability to work. Employers with fewer than 50 employees at a worksite (and within 75 miles of that worksite) are excluded from the FMLA.
+
+Consolidated leave plans. These are plans that replace different types of leave, such as vacation, sick leave, and personal leave. In consolidated leave plans, all types of leave are combined or used interchangeably within a single plan. Employees are allowed to use leave for any purpose that is stipulated by the plan. These plans are most often found at establishments such as hospitals, which must be open around-the-clock.
+
+Leisure leave. This leave provides access to one or more of the following benefits: paid vacation, paid holidays, and paid personal leave.
+
+Disability Benefits
+
+Disability benefits provide protection against loss of income due to a nonoccupational illness or injury.
+
+Short-term disability
+
+Short-term disability plans provide benefits for non-work-related illnesses or accidents on a per-disability basis, typically for a 6-month to 12-month period. Benefits are paid as a percentage of employee earnings or as a flat dollar amount. Short-term disability benefits vary with the amount of predisability earnings, length of service with the establishment, or length of disability.
+
+Plans can be funded in any of the following ways:
+
+Noncommercially insured. The employer is required to have liquid assets corresponding to the projected liability of the plan. These plans must be registered with the Department of Labor and are guaranteed by ERISA. The employer assumes all risks and expenses of providing the benefit.
+
+Commercially insured. The employer pays monthly premiums to an insurance carrier in exchange for the carrier assuming all risks of underwriting a short-term disability policy. The actuarially determined premium is often specified as a rate per $10 of weekly benefit per month. In some cases, the employer contributes a specific amount (often a number of cents per hour worked for each employee) to a designated union fund that provides welfare benefits.
+
+State temporary disability plans. The states of California, Rhode Island, Hawaii, New Jersey, and New York require temporary disability insurance (TDI) coverage. These plans provide temporary income for a limited period to workers who are unable to work because of non-work-related accidents or illnesses. California and Rhode Island mandated plans do not require employer contributions; Hawaii, New Jersey, and New York require employer contributions to disability plans.
+
+Long-term disability
+
+Long-term disability plans provide a monthly benefit to eligible employees who, because of a non-work-related illness or injury, are unable to work for an extended length of time. Benefits usually are paid as a fixed percentage of predisability earnings, up to a set limit. Most participants have a waiting period of 3 to 6 months, or until sick leave or short-term disability benefits end, before long-term disability benefits begin. Long-term disability benefits generally continue until retirement or a specified age, or for a period that varies with the employee’s age at the time of the disability.
+
+Other Benefits
+
+Quality of life benefits
+
+Flexible work schedule. This benefit permits employees to set their own schedules within a general set of parameters. Employees generally are required to work a minimum number of core hours each day.
+
+Childcare assistance. This benefit provides either full or partial reimbursement for the cost of caring for an employee's children in a nursery or daycare center or by a babysitter. Care can be provided in facilities either on or off the employer's premises.
+
+Flexible workplace. This benefit permits workers to work an agreed-upon portion of their work schedule at home or at some other approved location, such as a regional work center. Such arrangements are especially compatible with work requiring the use of computers linking the home or work center to the central office.
+
+Wellness programs. These programs provide a structured plan, independent from health insurance that offers employees two or more of the following benefits: smoking cessation programs, exercise or physical fitness programs, weight control programs, nutrition education, hypertension tests, periodic physical examinations, stress management programs, back-care courses, and lifestyle assessment tests.
+
+Employee assistance programs (EAPs). These programs provide structured plans, closely related to employee wellness programs, which typically deal with more serious personal problems than the essentially medical problems covered by wellness programs. EAPs can offer referral services, or referral services in combination with counseling services. Both the referral services and the counseling services may be supplied by company personnel, by an outside organization under contract, or by a combination of both.
+
+Financial benefits
+
+Health savings accounts (HSAs). These financial tools are employee-owned portable accounts that use tax-exempt contributions to pay for medical expenses. HSAs are used in combination with employer-provided high-deductible health plans (HDHPs) with annual maximum limits on out-of-pocket and deductible expenses. Other features include the rollover of unused contributions from year to year and tax-free interest.
+
+Flexible benefit plans. Also known as cafeteria benefit plans, flexible benefit plans are operated under provisions of Section 125 of the Internal Revenue Code. Section 125 allows employees to make a choice between cash (taxable) and noncash (nontaxable) benefits. The code permits companies providing flexible benefit plans to offer employees the following options: accident and health insurance plans, including healthcare spending accounts; group term life insurance and dependent coverage; disability benefits and accidental death and dismemberment plans; employee contributions to 401(k) plans or other thrift or savings plans (either pre-tax or after tax); dependent care assistance plans, including spending accounts; vacation days; and group legal services. Flexible benefit plans may be funded solely by the employer or through joint employer-employee contributions. Employers usually grant each employee credits to purchase benefits covered by the plan. Many plans include a core group of benefits (for example, life insurance coverage of $25,000) and allow employees to purchase additional levels of the core benefit as well as benefits not included in the core group. An example is the employer’s offering an additional $20,000 in life insurance coverage.
+
+Healthcare reimbursement accounts. Also known as flexible spending accounts, healthcare reimbursement accounts can be part of a flexible benefit plan or stand alone. Employees participating in these accounts allocate a declared pre-tax amount, up to a set limit, for out-of-pocket healthcare expenses such as deductibles, copayments, coinsurance, and other qualified healthcare expenses not covered by their health insurance. Any money not used by the end of the plan year is forfeited.
+
+Dependent care reimbursement accounts. Also known as flexible spending accounts, dependent care reimbursement accounts can be part of a flexible benefit plan or stand alone. Employees participating in these accounts allocate a declared pre-tax amount, up to a set limit, for out-of-pocket qualified expenses, including childcare, elder care, or services to a disabled dependent. Any money not used by the end of the plan year is forfeited.
+
+Savings with no employer contributions. These are cash or deferred arrangement plans used to fund savings and retirement plans authorized by section 401(k), 403(b), or 457 of the Internal Revenue Code. The employees’ contributions can be pre- and post-tax.
+
+Payroll deduction IRA. This plan is established by the employer on behalf of the employee, but with no employer contributions. The employee can open either a traditional (tax deductible) or Roth (contributions are made after taxes but accumulate tax-free until retirement) plan with a financial institution, and the employee authorizes a payroll deduction by the employer. As long as the employer’s involvement is minimal, the plan is not treated as an employer-sponsored retirement plan and it is not subject to the legal requirements of such plans.
+
+Financial planning. This is a service to help employees make decisions related to savings, borrowing, investing, home purchases, education expenses, and retirement income.
+
+Stock options
+
+Stock option plans allow establishment employees the right to buy company stock at a fixed price by a fixed time. Stock options are available only to employees of for-profit private industry establishments.
+
+Performance. This type of stock option is offered to employees only if certain company performance criteria, such as earnings-per-share targets, are met.
+
+Signing. This type of stock option is offered to employees to join a firm by giving them a chance to make a significant capital gain.
+
+Health-related benefits
+
+Long-term care insurance. This type of health plan provides long-term (more than 1 year) custodial care, home care, and nursing home care. Coverage may be extended to active employees, retirees, parents of active employees, and dependents of active employees and retirees. Premiums are generally, though not necessarily, paid by employees. These plans are separate from coverage for extended care facilities and home healthcare found in health insurance plans that provide post-hospitalization benefits for a limited period.
+
+Retiree healthcare. This type of health plan provides coverage to a retiree beyond what is mandated by COBRA or other health continuation laws. Coverage must include provisions typically found in a medical plan, such as hospitalization and doctor’s care. The retiree plan does not have to be the same plan provided to active employees, nor does it matter whether the retiree pays the entire premium. Plans that cover only dental, vision, or prescription drugs are not included.
+
+Nonproduction bonuses
+
+Nonproduction bonuses are payments to employees that are not directly related by any formula to individual employee productivity.
+
+Attendance bonus. This is a payment to employees who achieve a specified attendance goal. For example, all employees who take 2 or fewer days of sick leave within a given year are paid an attendance bonus of $500.
+
+Cash profit sharing. This is a payment to employees in recognition of their contribution to company profitability. Payments may vary with length of service.
+
+Employee recognition bonus. This is a payment to employees that rewards performance or significant accomplishments. An example is an employee-of-the-month award.
+
+End-of-year bonus. This is a payment to employees near the end of the year as a sign of appreciation for working hard throughout the year.
+
+Holiday bonus. This payment to employees is made on a holiday and as a sign of appreciation. The payment is usually a token gesture, with all employees receiving the same amount.
+
+Payment in lieu of benefits. This is a payment to employees in lieu of the employer’s providing a benefit, such as healthcare. In some cases, the employer offers cash to employees who waive employer-sponsored benefits, such as sick leave. When this occurs, the employer passes the savings from the waived benefit to the employee.
+
+Safety bonus. This is a payment to employees for maintaining a high level of safety in the workplace. For example, a department may receive a bonus for experiencing no injury days during a quarter.
+
+Suggestion bonus. This is a payment to employees whose innovative suggestions to create better work processes and improve efficiency in the establishment have been considered or implemented.
+
+Hiring bonus. This payment is made by an employer to induce an individual to accept employment with the company.
+
+Longevity bonus. This is a bonus or a lump-sum payment of some kind (for example, a government savings bond or an add-on to severance pay) paid to employees on the basis of their length of service.
+
+Referral bonus. This payment is given to employees for recommending a qualified applicant who is hired by the establishment.
+
+Retention bonus. This payment is made by an employer to an incumbent to retain that individual within the establishment.
+
+Union-related bonus. This is a payment to employees covered by a collective bargaining agreement upon signing a new labor contract or in lieu of a general wage increase.
+
+Management incentive bonus. This is a payment to managers or supervisors, rewarding them for their ability to direct the performance of a group of employees in their charge in the attainment of a specified goal. For example, a manager may receive a bonus for having the highest sales.
+
+Other bonus. This is a payment to employees that is not applicable to other listed nonproduction bonus categories. Examples are birthday bonuses and retirement bonuses.
+
+Unmarried domestic partner benefits
+
+Some employers extend benefits to domestic partners, defined as two unrelated, unmarried adults who share the same household. In order to qualify for benefits, an employee may need to demonstrate that a partner meets certain criteria set by the employer. Employers may set their own criteria for what constitutes an eligible domestic partner. Benefits offered employees that extend to domestic partners include healthcare plans and survivor benefits within defined benefit retirement plans.

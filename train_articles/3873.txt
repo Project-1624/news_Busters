@@ -1,0 +1,23 @@
+About
+
+Conservation Drones Teaser
+
+Our Mission
+
+The mission of this website is to share our knowledge for building low-cost Conservation Drones to help conservation workers and researchers in developing countries do their jobs a lot more effectively and cost efficiently.
+
+Of course, we recognize that there are highly sophisticated commercial UAV systems in the market and in use by the military, agricultural industry, and even the film industry. But most of them cost tens of thousands of dollars. Instead, we choose to adapt an autopilot hardware/software system developed by an online community of hobbyists and developers (diydrones.com) to build our Conservation Drones.
+
+Our emphasis is on low-cost. The challenge we give ourselves is to build drones that cost no more than a decent pair of field binoculars. These drones could also potentially be adapted for other environmental applications.
+
+This project is partly supported by the Waitt Foundation/National Geographic Society, The Orangutan Conservancy, Philadelphia Zoo, Denver Zoo, Zurich Zoo, and DroneMapper.com.
+
+What are Conservation Drones?
+
+Conservation Drones are inexpensive, autonomous and operator-friendly unmanned aerial vehicles for surveying and mapping forests and biodiversity. Non-technical operators can program each mission by defining waypoints along a flight path using an open-source software.
+
+The latest version of our Conservation Drones are able to fly pre-programmed missions autonomously for a total flight time of ~40-50 minutes and over a distance of up to ~50 km. Depending on the camera system installed, these drones can record high definition videos, and acquire high resolution photographs of 1-2 cm pixel resolution. Aerial photographs can be stitched together to produce near real-time geo-referenced land use/cover maps of surveyed areas.
+
+We believe that Conservation Drones have great potential for environmental and conservation applications, which include near real-time mapping of local land cover, monitoring of illegal forest activities, and surveying of large animal species.
+
+Disclaimer: The Conservation Drones team (Lian Pin Koh and Serge Wich) strives to develop Conservation Drones that are operationally stable and safe. However, we have no control over the operation of Conservation Drones by our collaborators. And therefore, the Conservation Drones Team will be not held liable for any bodily harm and/or property damage resulting from the operation of Conservation Drones by third parties, including our collaborators.

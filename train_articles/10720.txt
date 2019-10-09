@@ -1,0 +1,6 @@
+Life Cycle Greenhouse Gas Emissions of Nuclear Electricity Generation
+Summary
+
+A systematic review and harmonization of life cycle assessment (LCA) literature of nuclear electricity generation technologies was performed to determine causes of and, where possible, reduce variability in estimates of life cycle greenhouse gas (GHG) emissions to clarify the state of knowledge and inform decision making. LCA literature indicates that life cycle GHG emissions from nuclear power are a fraction of traditional fossil sources, but the conditions and assumptions under which nuclear power are deployed can have a significant impact on the magnitude of life cycle GHG emissions relative to renewable technologies.
+
+Screening 274 references yielded 27 that reported 99 independent estimates of life cycle GHG emissions from light water reactors (LWRs). The published median, interquartile range (IQR), and range for the pool of LWR life cycle GHG emission estimates were 13, 23, and 220 grams of carbon dioxide equivalent per kilowatt-hour (g CO 2 -eq/kWh), respectively. After harmonizing methods to use consistent gross system boundaries and values for several important system parameters, the same statistics were 12, 17, and 110 g CO 2 -eq/kWh, respectively. Harmonization (especially of performance characteristics) clarifies the estimation of central tendency and variability.

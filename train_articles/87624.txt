@@ -1,0 +1,534 @@
+Department of Peace and Conflict Research
+A B C D E F G H I J K L M N O P Q R S T U V W
+
+For more definitions please consult the codebooks for UCDP’s datasets, which can be found and downloaded at UCDP Downloads.
+
+Active
+
+(state-based, non-state, one-sided, actors, dyads)
+
+A conflict, both state-based and non-state, is deemed to be active if there are at least 25 battle-related deaths per calendar year in one of the conflict’s dyads. This rule also applies to settle dyad activity and the activity of the primary warring parties. A secondary warring party is however considered to be active if it actively supports one of the primary parties with regular troops within the stated incompatibility. In other words, a secondary warring party does not have to, on its own, incur or suffer 25 battle-related deaths to be classified as active.
+
+A variant of this coding rule is applied in regards to one-sided violence. A one-sided actor is deemed to be active if an organised group incurs at least 25 deliberate killings of civilians in a year.
+
+Actor
+
+A state or a non-state formally organised or informally organised group.
+
+Armed conflict
+
+(state-based)
+
+A state-based armed conflict is a contested incompatibility that concerns government and/or territory where the use of armed force between two parties, of which at least one is the government of a state, results in at least 25 battle-related deaths in one calendar year.
+
+Comment
+
+“Armed conflict” is also referred to as “state-based conflict”, as opposed to “non-state conflict”, in which none of the warring parties is a government.
+
+Armed force, use of
+
+(state-based, non-state, one-sided)
+
+Use of arms in organised violence.
+
+Comment
+
+This definition is, among other things, used to classify a rebel group’s or a government’s first use of armed force in a state-based conflict.
+
+The first use of armed force is considered to occur when a party to a conflict actively uses arms against the other. The attack can be symbolic and does not have to result in deaths. For instance an attack can be launched against a government target such a military compound or a police station. From a government perspective, the use of armed force can be the initiation of a campaign to wipe out rebels. With the first use of armed force the parties to a conflict can be either killed or wounded or symbolically targeted.
+
+Arms
+
+(state-based, non-state, one-sided)
+
+Any material means, e.g. manufactured weapons but also sticks, stones, fire, water, etc.
+
+Comment
+
+‘Arms’ includes anything material, i.e. other than corporal strength and/or psychological power. Nuclear weapons, biological weapons as well as chemical weapons are included as bombs or other explosives regardless of how they have been constructed. The use of airplanes on 11 September also qualifies as use of armed force.
+
+Battle-related deaths
+
+(state-based, non-state)
+
+Counted as battle-related deaths is the use of armed force between warring parties in a conflict dyad, be it state-based or non-state, resulting in deaths.
+
+Comment
+
+Typically, battle-related deaths occur in what can be described as "normal" warfare involving the armed forces of the warring parties. This includes traditional battlefield fighting, guerrilla activities (e.g. hit-and-run attacks / ambushes) and all kinds of bombardments of military units, cities and villages etc. The targets are usually the military itself and its installations, or state institutions and state representatives, but there is often substantial collateral damage in the form of civilians killed in crossfire, indiscriminate bombings etc. All deaths - military as well as civilian - incurred in such situations, are counted as battle-related deaths.
+
+The general rule for counting battle-related deaths is moderation. All battle-related deaths are based on each coder's analysis of the particular conflict. Each battle-related death has to be verified in one way or another. All figures are disaggregated as much as possible. All figures that are not trustworthy are disregarded as much as possible in the coding process. Sometimes there are situations when there is lack of information on disaggregated battle-related deaths. When this occurs, the coder may rely on sources that provide already calculated figures either for some particular incidents, or for total number of deaths in the conflict. The UCDP incorporates such death figures for particular incidents and for an entire armed conflict if they are coherent with the definition. If they are not, or if there is no independent verification of the figure, it cannot be accepted.
+
+Best estimate, of deaths
+
+(state-based, non-state, one-sided, actors, dyads)
+
+The best estimate consists of the aggregated most reliable number of deaths.
+
+Comment
+
+If different reports provide different estimates, an examination is made as to what source is most reliable.
+
+Ceasefire agreements
+
+(state-based)
+
+A ceasefire agreement is an agreement that regulates the conflict behaviour of warring parties in a state-based conflict, but which does not address the incompatibility.
+
+Comment
+
+A so-called ceasefire agreement that de facto addresses the incompatibility is considered to be a peace agreement in the UCDP Conflict Encyclopedia (UCDP database).
+
+Civilians
+
+Note that the UCDP definition of civilian differs from the definition of civilian in international law.
+
+
+
+Civilians in UCDP data are unarmed people who are not active members of the security forces of the state, or members of an organized armed militia or opposition group. Government officials, such as members of parliament, governors, and councilors, are also excluded and are instead seen as representatives of the government of a state.
+
+Conflict, armed
+
+(state-based)
+
+An armed conflict is a contested incompatibility that concerns government and/or territory where the use of armed force between two parties, of which at least one is the government of a state, results in at least 25 battle-related deaths in one calendar year.
+
+Comment
+
+“Armed conflict” is also referred to as “state-based conflict”, as opposed to “non-state conflict”, where none of the warring parties are a government.
+
+Conflict, interstate
+
+(state-based)
+
+A conflict between two or more governments.
+
+Comment
+
+The primary warring parties, who first stated the incompatibility, must be government parties for a conflict to be classified as interstate. The incompatibility criteria is essential since the existence of government parties on both sides of a conflict is not enough to conclude that we are dealing with an interstate conflict, since such instances may include even intrastate armed conflicts with foreign involvement.
+
+Conflict, intrastate
+
+(state-based)
+
+A conflict between a government and a non-governmental party, with no interference from other countries.
+
+Conflict, intrastate with foreign involvement.
+
+(state-based)
+
+An armed conflict between a government and a non-government party where the government side, the opposing side, or both sides, receive troop support from other governments that actively participate in the conflict.
+
+Date of termination of armed force
+
+(state-based)
+
+The date of termination of the use of armed force is coded each time an armed conflict (state-based) ceases to reach the criteria for inclusion; i.e. when a conflict no longer reaches the 25 battle-related deaths threshold.
+
+Comment
+
+If the conflict is terminated by a peace agreement, a victory, or a ceasefire, the date of the event is coded. If the conflict is terminated by low activity, no activity, or by any other reasons such as failure to establish a government or other unclear ties regarding the incompatibility or level of party organisation, the last of December of the last year of activity is coded as the date of termination. If there is a change of positions in the conflict and the opposition side becomes the government side, and the government turns into the opposition side, the date for this event (most often the date when the opposition starts to control the capital) is coded.
+
+Deaths, 25 battle-related
+
+(state-based and non-state)
+
+See Battle-related deaths
+
+The minimum of 25 battle-related deaths per calendar year is required for the inclusion of a new conflict into the UCDP Conflict Encyclopedia (UCDP database). In regards to state-based conflict, 25 battle-related deaths are required per every stated incompatibility and dyad. For non-state conflicts no incompatibility is needed, and only the 25 battle-related deaths per calendar year and dyad criteria are used.
+
+Comment
+
+The criterion concerns each primary warring party dyad in state-based and non-state conflicts, and need to be fulfilled for every active year. Secondary warring parties (applicable only in state-based conflicts) are exempt from this rule, for such parties only active participation with troops is required.
+
+Duration of peace agreement
+
+(state-based)
+
+A peace agreement is viewed as being “durable” (holding) as long as its signatories maintain its provisions.
+
+Comment
+
+A peace agreement fails on the date when one of the parties states that the agreement is annulled, or if violence clearly shows that one or both parties have abandoned the agreement’s provisions.
+
+Dyad
+
+(state-based, non-state)
+
+A dyad is made up of two armed and opposing actors. In state-based conflicts a dyad is defined as two actors, with one or more being the government, that have a stated incompatibility.
+
+In a non-state conflict a dyad is constructed by at least two organised actors, of which none is the government of a state, that oppose each other with arms. In non-state conflicts it is possible for an alliance of non-state actors to enter into a dyad with either an opposing group, or an alliance of opposing groups.
+
+Comment
+
+When studying one-sided events UCDP do not look at dyads but armed actors (a government or a formally organised non-state group) attacking the civilian population.
+
+Dyad active
+
+(state-based, non-state)
+
+State-based and non-state dyads are active when violence between their constituent parts causes at least 25 battle-related deaths in one calendar year.
+
+Comment
+
+When studying one-sided events UCDP do not look at dyads but actors. One-sided actors are active when violence by a state or a formally organised non-state group causes at least 25 civilian deaths.
+
+Extra-systemic conflict
+
+(state-based)
+
+An extra-systemic conflict is a conflict between a state and a non-state group outside its own territory. These conflicts are by definition territorial, since the government side is fighting to retain control of a territory outside the state system.
+
+Comment
+
+The last extra-systemic conflict ended in 1974. This category basically contains colonial conflicts.
+
+Fatalities
+
+(state-based, non-state, one-sided)
+
+Deaths incurred in the three categories of organized violence captured by the UCDP. For state-based armed conflict and non-state conflict these are defined as battle-related deaths (i.e. the use of armed force between warring parties in a conflict dyad, be it state-based or non-state, resulting in deaths). For one-sided violence these are deaths stemming from attacks carried out by organized actors, targeting unarmed civilians.
+
+Formally organised group
+
+(state-based, non-state and one-sided)
+
+Any non-governmental group of people having announced a name for their group and using armed force.
+
+Government
+
+(state-based, non-state, one-sided)
+
+The party controlling the capital of the state.
+
+Comment
+
+The UCDP is concerned with who is controlling power in practice (de facto). We are not concerned with who is the rightful holder of the power (de jure). UCDP uses control of the capital as an indicator of the de facto government. This is not the same as saying that we are interested in whether the current government is a functional government. The government may control the capital and very little else but we still treat that party as the government. Almost by definition, if an armed conflict is occurring in a country, the government is not likely to be fully functional.
+
+High estimate, of deaths
+
+(state-based, non-state, one-sided)
+
+The high estimate consists of the aggregated high estimates of deaths for all incidents of organised violence during a year.
+
+Comment
+
+If different reports provide different estimates and a lower estimate is considered more reliable, the high estimate is also reported if deemed reasonable. If there are incidents when there is some uncertainty about which party was involved, these may also be included in the high estimate.
+
+Incompatibility
+
+(state-based)
+
+The stated (in writing or verbally) generally incompatible positions.
+
+Comment
+
+As one country can experience several conflicts; we need a way to differentiate between them. The incompatibility criterion is only applicable to state-based conflicts and is not a prerequisite for non-state conflicts and one-sided violence. Incompatibility can be either over Government or Territory. There can only be one incompatibility over Government in a given year, but there can be several territorial conflicts. States and parties may have several incompatibilities with several states simultaneously. This is not a problem; we are counting incompatibilities concerning at least one particular state, and it makes no difference whether the opposition organisations are unique to each situation or if one group roams across all states in the world. The primary entity is the state, then the incompatibility, and only after that the opposition organisation. Also, it should be noted that one military situation might include several incompatibilities.
+
+It is tempting to view government and territory as degrees of the same issue. In some respect they are; a conflict over government is about control of the whole state (who should control it and how), whereas a conflict over territory is about control of part of the state (who should control it and how). Thus an incompatibility over government can be seen as a larger issue than one over territory. However, changing the president or a minister may be a much smaller challenge to the state than breaking off a large part of the territory (even autonomy may have that effect). Ranking the two as one being larger than the other is not preferable since the matter is much more complex than that. Still, it helps to think of the two as being basically about the same thing: control over a state, all or part of it.
+
+If they could be ranked we would not need the third category of government and territory, since a governmental incompatibility would always override one over territory. Even though it is not likely to occur very often, a combination of the two is theoretically possible. For example, a party may wish to secede a territory from a state and also be interested in who should control the government of the future neighbour and thus strive for the two at the same time.
+
+Incompatibility concerning government
+
+(state-based)
+
+Incompatibility concerning type of political system, the replacement of the central government or the change of its composition.
+
+Comment
+
+‘Type of political system’ mostly concerns, for example, constitutional changes from a one-party system to a multi-party system or monarchy to republic; ‘replacement of the central government’ is the classical overthrow; and, ‘the change of its composition’ is usually about the replacement of cabinet members, the prime minister or the president. It can be anything from general issues such as changing the whole political system from autocracy to democracy, to very specific issues such as the resignation of a particular cabinet member or specific minor constitutional changes. A governmental incompatibility concerns the structure or distribution of authority, which is sometimes called constitutional politics. When we find incompatibilities concerning type of political system, we mostly have one party striving for a change of the political system (wanting to introduce something new) and the other party striving for status quo. Normally that would be the government.
+
+Incompatibility concerning territory
+
+(state-based)
+
+Incompatibility concerning the status of a specified territory, e.g. the change of the state in control of a certain territory (interstate conflict), secession or autonomy (intrastate conflict).
+
+Comment
+
+Generally an incompatibility cannot deal with territory if it concerns the whole state, unless we are dealing with an interstate conflict or irredentism. The whole state cannot become independent or autonomous from any other unit, since it is already independent, i.e. it has no authority above it.
+
+Informally organised group
+
+(non-state conflict)
+
+Any group who does not have an announced name, but who uses armed force and whose violent activity meets at least one of the following organisational requirements: there must be a clear pattern of incidents which are connected, or there must be evidence that violence was planned in advance.
+
+Intensity level
+
+(state-based)
+
+The intensity variable denotes what level of fighting a state-based conflict or dyad reaches in each specific calendar year. The variable has two categories:
+
+Minor: At least 25 but less than 1000 battle-related deaths in one calendar year.
+
+War: At least 1000 battle-related deaths in one calendar year.
+
+Location
+
+(state-based, non-state and one-sided)
+
+In state-based conflict “location” equals the name of the state that is being challenged by an opposition organisation, and not the geographical location of the fighting.
+
+In contrast, in one-sided violence and non-state conflicts “location” instead refers to the state in which the geographical location of the violence took place.
+
+Comment
+
+In state-based conflicts “location” is not the same as the geographical location of the fighting, but instead represents the entity in which the incompatibility is located. However, in practice, “location” often equals the geographical location of the violence. Opposition groups might not be able to operate within certain states, and instead fight a government in a different geographic location, which can be a long way away from the state in which the incompatibility is located. One example is the USA’s conflict with Al-Qaeda, where the bulk of the fighting takes place not in the USA, but in Pakistan and Afghanistan.
+
+“Location” in non-state conflicts and one-sided violence, in contrast, provides the user with a general overview of where, geographically, the bulk of the violence has taken place. For non-state conflicts and one-sided violent actors with significant activity in several different countries are presented as part of all these countries.
+
+Low activity, concerning termination of conflict
+
+(state-based)
+
+Armed activity in a state-based conflict, but where casualties do not exceed the 25 battle-related deaths threshold.
+
+Low estimate, of deaths
+
+(state-based, non-state and one-sided)
+
+The Low estimate consists of the aggregated low estimates of deaths for all incidents of organised violence during a year.
+
+Comment
+
+If different reports provide different estimates and a higher estimate is considered more reliable, the low estimate is also reported if deemed reasonable.
+
+Negotiation
+
+(state-based)
+
+Negotiations are talks that are held between at least two of the warring parties in a state-based conflict. To be classified as negotiations talks have to be connected to one or more issues related to the armed conflict, such as ceasefires, an exchange of prisoners, or the incompatibility.
+
+Comment
+
+Negotiations about future negotiations, so-called “talks about talks”, are not included in this variable.
+
+When an armed opposition groups splits up while negotiating, the “original” group is the one referred to in the variable. As long as we believe that a splinter group is part of the original group we note their negotiations in the comment box. A splinter group is only viewed as an active new group if it reaches 25 battle-related deaths and declares an incompatibility with the government or over territory.
+
+There are situations in which one section of an opposition is involved in a peace process, but the other side is fighting. If there are reasons to believe that the two sides are members of the same party, but they have poor communication with each other, then they are considered as a single unit and the negotiations are seen as valid.
+
+If secondary parties to a conflict negotiate with one of the primary parties on the opposite side in the conflict, with the primary parties consent, this is considered to be negotiations. However, if secondary warring parties are negotiating without the consent of the primary parties, these kinds of situations are not considered to be negotiations. The various situations are clearly indicated in the comment box.
+
+No activity, concerning termination of conflict
+
+(state-based)
+
+No armed activity in a state-based conflict, i.e. no fighting that results in battle-related deaths.
+
+Non-state conflict
+
+(non-state)
+
+The use of armed force between two organised armed groups, neither of which is the government of a state, which results in at least 25 battle-related deaths in a year.
+
+One-sided violence
+
+(one-sided)
+
+The use of armed force by the government of a state or by a formally organised group against civilians which results in at least 25 deaths in a year.
+
+Comment
+
+Extrajudicial killings in government facilities are excluded.
+
+Opposition organisation
+
+(state-based)
+
+Any non-governmental formally organised group of people having announced a name for their group and using armed force to influence the outcome of the stated incompatibility.
+
+Comment
+
+The UCDP only deals with organised opposition. The focus is on armed conflict involving consciously conducted and planned political campaigns rather than spontaneous violence. Organisations of this kind are, in a sense, state-like entities and usually pose a very different threat to those in power than unorganised opposition. In the case of several levels of organisation, such as that of individual organisations that also operate in alliance as part of an umbrella organisation, the simple rule is to look for which organisation “calls the shots”. If the umbrella organisation is only an organisation in the nominal sense, and the individual organisations take their own political decisions and conduct military action on their own, the individual organisations are treated as the warring parties. If the umbrella organisation commands the individual organisations, then it is the relevant unit.
+
+Other, concerning termination of the use of armed force
+
+(state-based)
+
+All other theoretically possible ways of termination
+
+Comment
+
+The termination of the use of armed force is coded both for the conflict and for the warring party. The termination of the use of armed force for the conflict is set as other when for example the government or the state ceases to exist.
+
+The termination by the party is set as other when a party joins an alliance that is active in the UCDP Conflict Encyclopedia (UCDP database) or if the government has been defeated by another party.
+
+Peace agreement
+
+(state-based)
+
+A peace agreement is a formal agreement between warring parties, which addresses the disputed incompatibility, either by settling all or part of it, or by clearly outlining a process for how the warring parties plan to regulate the incompatibility.
+
+Comment
+
+All peace agreements, which concern, manage or regulate the stated incompatibility, are considered peace agreements, including peace process agreements. There are various types of peace agreements: full, partial, and peace process agreements. A full agreement is an agreement where one or several dyads agree to settle the whole incompatibility. A partial peace agreement is an agreement where one or several dyads agree to settle a part of the incompatibility. A peace process agreement is an agreement where one or several dyads agree to initiate a process that aims to settle the incompatibility.
+
+The peace agreements are also categorised between comprehensive peace agreements which include all conflict dyads, and dyadic agreements in which at least one of the warring parties in the conflict is excluded.
+
+Peace agreement ended
+
+(state-based)
+
+The peace agreement is no longer fully implemented. The validity of the agreement is contested by one or several of the warring parties that signed the agreement.
+
+Comment
+
+A peace agreement cannot, from the UCDP perspective, survive if the primary parties are no longer party to it. If a party officially withdraws from a peace agreement, the agreement is considered to have ended. Sometimes it is difficult to establish whether a peace agreement has ended. For instance, a party may officially be committed to the peace agreement, but covertly have warring militias in field. In this type of situation, the party should be judged by its sincerity of engagement in the process. If the violence clearly shows that one of the parties has left the agreement, the group does not appear sincere in its commitment to the peace or peace agreement; the agreement should therefore be interpreted as ended.
+
+Primary party
+
+(state-based)
+
+The parties that have formed the incompatibility.
+
+Region
+
+(state-based, non-state and one-sided)
+
+In our datasets and the data in the UCDP Conflict Encyclopedia (UCDP database) states are divided into five regions: Africa, Asia, Americas, Europe and Middle East.
+
+Secondary supporting parties, non-warring
+
+(state-based)
+
+A secondary supporting party provides support to a primary party to assist it in an ongoing conflict.
+
+Comment
+
+The support given can be of several types, for instance, financial, military (short of regular troops), logistic etc. Anything relating to normal interaction between states (profits from trade, etc.) is not considered to be support in the conflict, even if the consequences of that interaction may be to the benefit of the warring party that is on the receiving end. We only consider support that is actively given to strengthen the party in the particular conflict and not support which unintentionally happens to strengthen the warring party. Note that – as is the case regarding parties in general – we are looking for organisations, however loosely organised, and not individuals. Support may come from neighbouring states or organisations of states, opposition organisations (or diasporas) in other states that have ethnic or ideological affinities with the group in question, or, some other organisation within or outside the state in question.
+
+Secondary parties, warring
+
+(state-based)
+
+A party that enter a conflict with troops to actively support one of the sides in the conflict.
+
+Comment
+
+A secondary warring party is always a state actor who shares the position in the incompatibility with one of the primary parties in the conflict. A secondary warring party does not need to meet the 25 battle-related deaths criteria to be included in the UCDP Conflict Encyclopedia (UCDP database). An active troop participation of their forces is enough.
+
+Side
+
+(state-based, non-state and one-sided)
+
+In an intrastate conflict the government and its allies are always fighting on side A in a conflict, the opposition organisations and their allies are fighting on side B.
+
+In an interstate conflict side A is the government that comes first in alphabetical order and its allies, side B is the other government and its allies.
+
+In a non-state conflict side A is the organised group that comes first in alphabetical order, side B is the other actor.
+
+In one-sided violence, there is only one actor. Side A thus designate the state or the formally organised group that target civilians.
+
+Signatories of peace agreement
+
+(state-based)
+
+All actors that signed the agreement.
+
+State
+
+(state-based, non-state and one-sided)
+
+A state is either an internationally recognised sovereign government controlling a specified territory, or an internationally unrecognised government controlling a specified territory whose sovereignty is not disputed by another internationally recognised sovereign government previously controlling the same territory.
+
+Comment
+
+Basically coincides with the list of UN member states, with the addition of a few non-members such as Taiwan. These are states both de jure and de facto. If we are dealing with a non-recognised entity, or a de facto state, it can meet the criteria of a state as defined here, if no other state claims that territory - given that the other state once used to control the entity.
+
+State-based armed conflict
+
+A state-based armed conflict is a contested incompatibility that concerns government and/or territory where the use of armed force between two parties, of which at least one is the government of a state, results in at least 25 battle-related deaths in one calendar year.
+
+Comment
+
+"State-based armed conflict" is also referred to as “armed conflict”, as opposed to “non-state conflict”, in which none of the warring parties is a government.
+
+Stated goal of incompatibility
+
+(state-based)
+
+A stated challenge over the governmental power or over a specified territory.
+
+Comment
+
+A conflict is by the UCDP defined as starting when there is an open challenge by a state against another state, or an opposition group against a state, to resort to violence to reach its goal. A general rule for coding the onset variable is that a statement of incompatibility precedes violence. In some cases however, there are no clear statements of incompatibility. These situations may occur when, for example, there is poor media coverage and we cannot provide the user with an exact date of the statement; in these cases, there is an explanation of the situation in a comment. Generally the stated goal of incompatibility is the first start date to be coded. (In the UCDP Conflict Encyclopedia (UCDP database) there are three other start dates of the conflict, first use of armed force, first battle-related death and date that the conflict first reaches 25 battle-related deaths). Sometimes, however, the stated goal of incompatibility can be coded after a first battle-related death has occurred in the conflict. But this can only be done if it is found that a key player on the opposition side is referring back to violence occurring earlier, and taking responsibility for the deaths. The situation is common in circumstances when, for example, the armed opposition group may not be able to reach out to the public before a violent incident has been triggered, or in coup were the violence relies on an element of surprise.
+
+Termination of the use of armed force
+
+(state-based)
+
+The termination of the use of armed force occurs each time the conflict or the warring party fails to reach the level of inclusion in one calendar year. This occurs when the incompatibility is solved either by an agreement or by a victory; when a party cease to exist; or when the use of armed force does not meet the 25 battle-related deaths criteria.
+
+A terminated conflict or warring party is categorised as terminated by any of the following events: 1) victory; 2) peace agreement; 3) ceasefire agreement; 4) low activity; 5) no activity; or 6) other (the latter three are sometimes grouped as other outcome)
+
+Comment
+
+The UCDP has not recorded final end-dates for conflicts. The termination of use of armed force is coded for conflicts and primary warring parties for every temporary ending or low activity situation. In many situations, for example, the conflict is terminated for one year but in fact it remained on a sub-25 battle-related death level.
+
+The conflict fails to reach the level of inclusion in one calendar year when the incompatibility is solved either by an agreement or by a victory; when a party ceases to exist or when the use of armed force does not meet the 25 battle-related deaths criteria.
+
+The termination of use of armed force is not coded for secondary warring parties. The reason is that secondary parties do not need to fulfil the same criteria as primary parties in order to be included.
+
+Third party
+
+(state-based)
+
+A third party is a party that is involved in either helping the warring parties to regulate the incompatibility or the level of the violence, and works as an intermediary between the two parties.
+
+Comment
+
+Typical third party activities are to mediate between the parties in the conflict, host negotiations or attend a peace conference, or monitor a ceasefire or a peace agreement. A third party can be a state, an organisation or an individual, such as a former president. A third party can also be a peace-keeping operation.
+
+The consequences of the involvement of a third party may be to the benefit of one of the warring parties, or, in the extreme case, the third party may even become militarily involved against one of the parties, as has occurred in some UN operations. If a party, most often the forces of a peacekeeping or a peace enforcement operation - more likely the latter - becomes involved in violence, this does not necessarily mean that it is being treated as a warring party as defined above. It is the behaviour and the incompatibility combined, that decides who is a warring party and who is not.
+
+When UCDP decides whether we are dealing with a warring party or not we focus on why and how the party uses armed force. In other words, as in all other cases, we establish whether there is a stated incompatibility concerning government or territory between the parties. Usually one would look at the mandate of the operation to find the answer, i.e. is the operation there to do anything else but peacekeeping, and if it is peace enforcement, does it concern government or territory? A third party can be a state, an organisation or an individual, such as a former president.
+
+Troop size
+
+(state-based)
+
+The size of the warring parties’ troops.
+
+Comment
+
+The type of information presented in the troop size is not comparable between different countries or organisations. If possible, UCDP makes a distinction between total armed forces and the forces actually used in the armed conflict. But often there is no information available to make this distinction. Most often the total armed forces of the government of the location are presented, not just the army. If paramilitaries and Gendarmerie are included, this is noted in the comment. For the opposition group, the total armed force in the conflict location is counted. Regarding secondary warring parties, only the forces active in the conflict location are counted.
+
+Victory
+
+(state-based)
+
+One side is either defeated or eliminated, or otherwise succumbs to the power of the other (e.g. through capitulation).
+
+Comment
+
+A victory is considered to have occurred when a party to a conflict is considered to be defeated. With defeated the UCDP means that their military capability is destroyed to the point that is seems unlikely that they could begin the fighting again. In this situation no other outcome can occur. A party that has been defeated can participate in a conflict again, if there is a new incompatibility or if there are new actors and goals of that party. A victory can occur both on the dyadic level as well as on the conflict level. The victorious party to the conflict does not have to provide concessions to the other side.
+
+War
+
+(state-based)
+
+A state-based conflict or dyad which reaches at least 1000 battle-related deaths in a specific calendar year.
+
+Warring party
+
+(state-based)
+
+A warring party is a government of a state or any opposition organisation or alliance of organisations that uses armed force to promote its position in the incompatibility in an intrastate or an interstate armed conflict.
+
+Comment
+
+Each incompatibility can have an infinite number of warring parties. The warring parties are both divided between primary and secondary warring parties and between governmental and non-governmental parties.
+
+Warring party active
+
+(state-based)
+
+The criterion for determining activity is at least 25 battle-related deaths during the specific year in the dyad of the warring party.
+
+Warring party, type of
+
+(state-based)
+
+A warring party can be of two types: either a governmental party or a non-governmental party. A party is governmental if it is a government, if not it is a non-governmental party. The type of party has nothing to do with which side the party supports in the conflict.

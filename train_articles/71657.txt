@@ -1,0 +1,32 @@
+Local Area Unemployment Statistics: Differences Between Data Series
+Differences Between Data Series
+
+Statistics on nonagricultural employment, hours of work, and earnings are compiled from two major sources: household interviews and reports from employers.
+
+Data based on household interviews are obtained from the Current Population Survey (CPS), a sample survey of the population 16 years of age and over. The survey is conducted each month by the Bureau of the Census for the Bureau of Labor Statistics and provides comprehensive data on the labor force, the employed, and the unemployed, classified by such characteristics as age, sex, race, family relationship, marital status, occupation, and industry attachment. The survey also provides data on the characteristics and past work experience of those not in the labor force. The information is collected by trained interviewers from a sample of about 50,000 households located in 792 sample areas. These areas are chosen to represent all counties and independent cities in the U.S., with coverage in 50 States and the District of Columbia. The data collected are based on the activity or status reported for the calendar week including the 12th of the month.
+
+Data based on establishment records are complied each month from mail questionnaires and telephone interviews by the Bureau of Labor Statistics, in cooperation with State agencies. The Current Employment Statistics (CES) survey is designed to provide industry information on nonfarm wage and salary employment, average weekly hours, average hourly earnings, and average weekly earnings for the Nation, States, and metropolitan areas. The employment, hours, and earnings data are based on payroll reports from a sample of over 390,000 establishments employing over 47 million nonfarm wage and salary workers, full or part time, who receive pay during the payroll period which includes the 12th of the month. The household and establishment data complement one another, each providing significant types of information that the other cannot suitably supply. Population characteristics, for example, are obtained only from the household survey, whereas detailed industrial classifications are much more reliably derived from establishment reports.
+
+Data from these two sources differ from each other because of variations in definitions and coverage, source of information, methods of collection, and estimating procedures. Sampling variability and response errors are additional reasons for discrepancies. The major factors which have a differential effect on the levels and trends of the two data series are as follows.
+
+Employment
+
+Coverage. The household survey definition of employment comprises wage and salary workers (including domestics and other private household workers), self-employed persons, and unpaid workers who worked 15 hours or more during the reference week in family-operated enterprises. Employment in both agricultural and nonagricultural industries is included. The establishment survey covers only wage and salary employees on the payrolls of nonfarm establishments.
+
+Multiple jobholding. The household survey provides information on the work status of the population without duplication, since each person is classified as employed, unemployed, or not in the labor force. Employed persons holding more than one job are counted only once. In the figures based on establishment reports, persons who worked in more than one establishment during the reporting period are counted each time their names appear on payrolls.
+
+Unpaid absences from jobs. The household survey includes among the employed all civilians who had jobs but were not at work during the reference week—that is, were not working but had jobs from which they were temporarily absent because of illness, vacation, bad weather, child care problems, labor-management disputes, or because they were taking time off for various other reasons, even if they were not paid by their employers for the time off. In the figures based on payroll reports, persons on leave paid for by the company are included, but those on leave without pay for the entire payroll period are not.
+
+Hours of work
+
+The household survey measures hours worked for all workers, whereas the payroll survey measures hours for private production and nonsupervisory workers paid for by employers. In the household survey, all persons with a job but not at work are excluded from the hours distribution and the computations of average hours at work. In the payroll survey, production or nonsupervisory employees on paid vacation, paid holiday, or paid sick leave are included and assigned the number of hours for which they were paid during the reporting period.
+
+Earnings
+
+The household survey measures the earnings of wage and salary workers in all occupations and industries in both the private and public sectors. Data refer to the usual earnings received from the worker's sole or primary job. Data from the establishment survey generally refer to average earnings of production and related workers in mining and manufacturing, construction workers in construction, and nonsupervisory employees in private service-producing industries.
+
+Household vs. Unemployment Insurance
+
+The unemployed total from the household survey includes all persons who did not have a job during the reference week, were currently available for a job, and were looking for work or were waiting to be called back to a job from which they had been laid off, whether or not they were eligible for unemployment insurance. Figures on unemployment insurance claims, prepared by the Employment and Training Administration of the U.S. Department of Labor, exclude, in addition to otherwise eligible persons who do not file claims for benefits, persons who have exhausted their benefit rights, persons who have been disqualified from receiving benefits, new workers who have not earned rights to unemployment insurance, and persons losing jobs not covered by unemployment insurance systems (some workers in agriculture, domestic services, and religious organizations, and self employed and unpaid family workers).
+
+In addition, the qualifications for receiving unemployment compensation differ from the definition of unemployment used in the household survey. For example, persons with a job but not at work and persons working only a few hours during the week are sometimes eligible for unemployment compensation, but are classified as employed rather than unemployed in the household survey.

@@ -1,0 +1,20 @@
+Trump Removing Marines From the Navy
+{% set baseFontFamily = "Open Sans" %} /* Add the font family you wish to use. You may need to import it above. */
+
+{% set headerFontFamily = "Open Sans" %} /* This affects only headers on the site. Add the font family you wish to use. You may need to import it above. */
+
+{% set textColor = "#565656" %} /* This sets the universal color of dark text on the site */
+
+{% set pageCenter = "1100px" %} /* This sets the width of the website */
+
+{% set headerType = "fixed" %} /* To make this a fixed header, change the value to "fixed" - otherwise, set it to "static" */
+
+{% set lightGreyColor = "#f7f7f7" %} /* This affects all grey background sections */
+
+{% set baseFontWeight = "normal" %} /* More than likely, you will use one of these values (higher = bolder): 300, 400, 700, 900 */
+
+{% set headerFontWeight = "normal" %} /* For Headers; More than likely, you will use one of these values (higher = bolder): 300, 400, 700, 900 */
+
+{% set buttonRadius = '40px' %} /* "0" for square edges, "10px" for rounded edges, "40px" for pill shape; This will change all buttons */
+
+After you have updated your stylesheet, make sure you turn this module off

@@ -1,0 +1,56 @@
+Debt-to-GDP ratio
+Heatmap of the development of debt-to-GDP ratio for European countries, in percent of GDP.
+
+In economics, the debt-to-GDP ratio is the ratio between a country's government debt (measured in units of currency) and its gross domestic product (GDP) (measured in units of currency per year). A low debt-to-GDP ratio indicates an economy that produces and sells goods and services sufficient to pay back debts without incurring further debt[citation needed]. Geopolitical and economic considerations – including interest rates, war, recessions, and other variables – influence the borrowing practices of a nation and the choice to incur further debt.[1]
+
+Global Statistics [ edit ]
+
+At the end of the 2nd quarter of 2017, United States public debt-to-GDP ratio was at 103.8%.[2] The level of public debt in Japan was 246.1% of GDP, in China 16.5% and in India 61.8%, in 2017 according to the IMF,[3] while the public debt-to-GDP ratio at the end of the 2nd quarter of 2016 was at 70.1% of GDP in Germany, 89.1% in the United Kingdom, 98.2% in France and 135.5% in Italy, according to Eurostat.[4]
+
+Two thirds of US public debt is owned by US citizens, banks, corporations, and the Federal Reserve Bank;[5] approximately one third of US public debt is held by foreign countries – particularly China and Japan. Conversely, less than 5% of Italian and Japanese public debt is held by foreign countries.
+
+Particularly in macroeconomics, various debt-to-GDP ratios can be calculated. The most commonly used ratio is the government debt divided by the gross domestic product (GDP), which reflects the government's finances, while another common ratio is the total debt to GDP, which reflects the finances of the nation as a whole.
+
+Units [ edit ]
+
+The debt-to-GDP ratio is generally expressed as a percentage, but properly has units of years, as below.
+
+By dimensional analysis these quantities are the ratio of a stock (with dimensions of currency) by a flow (with dimensions of currency/time), so[note 1] they have dimensions of time. With currency units of US dollars (or any other currency) and time units of years (GDP per annum), this yields the ratio as having units of years, which can be interpreted as "the number of years to pay off debt, if all of GDP is devoted to debt repayment".
+
+This interpretation must be tempered by the understanding that GDP cannot be entirely devoted to debt repayment — some must be spent on survival, at the minimum, and in general only 5–10% will be devoted to debt repayment, even during episodes such as the Great Depression, which have been interpreted as debt-deflation — and thus actual "years to repay" is debt-to-GDP divided by "fraction of GDP devoted to repayment", which will generally be 10 times as long or more than simple debt-to-GDP[citation needed].
+
+Changes [ edit ]
+
+The change in debt-to-GDP is approximately "net change in debt as percentage of GDP"[dubious – discuss]; for government debt, this is deficit or (surplus) as percentage of GDP[dubious – discuss].
+
+This is only approximate as GDP changes from year to year, but generally year-on-year GDP changes are small (say, 3%)[citation needed], and thus this is approximately correct[dubious – discuss].
+
+However, in the presence of significant inflation, or particularly hyperinflation, GDP may increase rapidly in nominal terms; if debt is nominal, then its ratio to GDP will decrease rapidly. A period of deflation would have the opposite effect[citation needed].
+
+A government's debt-to-GDP ratio can be analysed by looking at how it changes or, in other words, how the debt is evolving over time:
+
+B t Y t − B t − 1 Y t − 1 = ( r − g ) ( B t − 1 Y t − 1 ) + ( G t − T t Y t ) {\displaystyle {\frac {B_{t}}{Y_{t}}}-{\frac {B_{t-1}}{Y_{t-1}}}=(r-g)\left({\frac {B_{t-1}}{Y_{t-1}}}\right)+\left({\frac {G_{t}-T_{t}}{Y_{t}}}\right)}
+
+The left hand side of the equation demonstrates the dynamics of the government's debt. B t Y t {\textstyle {\frac {B_{t}}{Y_{t}}}} is the debt-to-GDP at the end of the period t, and B t − 1 Y t − 1 {\textstyle {\frac {B_{t-1}}{Y_{t-1}}}} is the debt-to-GDP ratio at the end of the previous period (t-1). Hence, the left side of the equation shows the change in the debt-to-GDP ratio. The right hand side of the equation shows the causes of the government's debt[dubious – discuss]. ( r − g ) ( B t − 1 Y t − 1 ) {\textstyle (r-g)({\frac {B_{t-1}}{Y_{t-1}}})} is the interest payments on the stock of debt as a ratio of GDP so far[citation needed], and G t − T t Y t {\textstyle {\frac {G_{t}-T_{t}}{Y_{t}}}} shows the primary deficit-to-GDP ratio.
+
+If the government has the ability to print money, and therefore monetize the outstanding debt, the budget constraint becomes:
+
+( B t Y t − B t − 1 Y t − 1 ) + ( M t Y t − M t − 1 Y t − 1 ) = ( r − g ) ( B t − 1 Y t − 1 ) + ( G t − T t Y t ) {\displaystyle \left({\frac {B_{t}}{Y_{t}}}-{\frac {B_{t-1}}{Y_{t-1}}}\right)+\left({\frac {M_{t}}{Y_{t}}}-{\frac {M_{t-1}}{Y_{t-1}}}\right)=(r-g)\left({\frac {B_{t-1}}{Y_{t-1}}}\right)+\left({\frac {G_{t}-T_{t}}{Y_{t}}}\right)}
+
+The term M t Y t − M t − 1 Y t − 1 {\textstyle {\frac {M_{t}}{Y_{t}}}-{\frac {M_{t-1}}{Y_{t-1}}}} is the change in money balances (i.e. money growth). By printing money the government is able to increase nominal money balances to pay off the debt (consequently acting in the debt way that debt financing does, in order to balance the government's expenditures)[clarification needed]. However, the effect that an increase in nominal money balances has on seignorage is ambiguous, as while it increases the amount of money within the economy, the real value of each unit of money decreases due to inflationary effects. This inflationary effect from money printing is called an inflation tax[citation needed].
+
+Applications [ edit ]
+
+Debt-to-GDP measures the financial leverage of an economy[citation needed].
+
+One of the Euro convergence criteria was that government debt-to-GDP be below 60%[citation needed].
+
+The World Bank and the IMF hold that “a country can be said to achieve external debt sustainability if it can meet its current and future external debt service obligations in full, without recourse to debt rescheduling or the accumulation of arrears and without compromising growth.”[citation needed] According to these two institutions, external debt sustainability can be obtained by a country “by bringing the net present value (NPV) of external public debt down to about 150 percent of a country’s exports or 250 percent of a country’s revenues.” [1] High external debt is believed to have harmful effects on an economy.[6]
+
+In 2013 Herndon, Ash, and Pollin reviewed an influential, widely cited research paper entitled, "Growth in a Time of Debt",[7] by two Harvard economists Carmen Reinhart and Kenneth Rogoff. Herndon, Ash and Pollin argued that "coding errors, selective exclusion of available data, and unconventional weighting of summary statistics lead to serious errors that inaccurately represent the relationship between public debt and GDP growth among 20 advanced economies in the post-war period."[8][9] Correcting these basic computational errors undermined the central claim of the book that too much debt causes recession.[10][11] Rogoff and Reinhardt claimed that their fundamental conclusions were accurate, despite the errors.[12][13]
+
+There is a difference between external debt denominated in domestic currency, and external debt denominated in foreign currency. A nation can service external debt denominated in domestic currency by tax revenues, but to service foreign currency debt it has to convert tax revenues in the foreign exchange market to foreign currency, which puts downward pressure on the value of its currency.
+
+See also [ edit ]
+
+Notes [ edit ]

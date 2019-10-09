@@ -1,0 +1,54 @@
+Tariffs: Comprehensive tariff data on the WTO website
+NOTE: The terms “country” and “countries” are used here for convenience. The terms cover WTO members that are separate customs territories or customs unions such as the EU.
+
+What are you looking for?
+
+Sophisticated, detailed and interactive analysis?
+
+Simpler, standardized tariff statistics, mainly for downloading?
+
+With both of these services, users can obtain and compare two sets of customs tariffs:
+
+the legally bound commitments on customs duty rates, which act as ceilings on the tariffs that member governments can set and are known as “bound rates”, with
+
+the rates that governments actually charge on imports, which can be lower, are known as “applied rates” and have a direct impact on trade.
+
+Tariff Analysis Online is the most versatile and detailed. The tariffs are available at the level of “tariff line” (eight or more digits of the Harmonized System codes). At this level of detail, comparisons between countries are not always possible because countries do not always use the same code numbers to define products.
+
+However, Tariff Analysis Online does allow a number of options for looking up data and for analysing it online, including tariffs, tariff quotas, imports and countries’ commitments on agricultural subsidies. The results can be viewed on screen or downloaded and printed.
+
+The Tariff Download Facility is simpler. The data on bound, applied and preferential tariffs and import statistics are available in up to six digits of the Harmonized System (HS) codes, which are standard for all countries.
+
+The Tariff Download Facility provides more detail than a third collection of data, the World Tariff Profiles, where the figures are for broader categories of products.
+
+Customs codes and standardization
+
+Products in the databases are identified using the World Customs Organization’s internationally agreed “Harmonized System” (HS).
+
+Under the system, the broadest categories of products are identified by two-digit “chapters” (e.g. 04 is dairy products, eggs and other edible animal products). These are then sub-divided by adding more digits: the higher the number of digits, the more detailed the categories. For example the four-digit code or “heading” 0403 is a group of products derived from milk. At six digits, 0403.10 is the “sub-heading” for yoghurt; at the eight-digit level, 0403.10.11 could be low-fat yoghurt “tariff line”.
+
+The codes are standard up to six digits, the most detailed level that can be compared internationally. This is used in the Tariff Download Facility. Beyond that, countries are free to use their own definitions according to their individual requirements, and this is reflected in the new Tariff Analysis Online.
+
+Both Tariff Analysis Online and the Tariff Download Facility allow data to be downloaded in Microsoft Excel spreadsheets and other formats.
+
+For each country
+
+These services and data in simpler forms are also available through each member country’s page on the WTO website (see for example Argentina). These pages can be reached from the list of members.
+
+The original lists of members’ bound commitments remain available. The digit-level of the bound duty rates in these “schedules of commitments”, can vary from country to country. The Tariff Download Facility presents bound and applied information in a uniform consolidated form for all member countries. Since they identify products at the same level of detail (the same number of digits in the Harmonized System coding), they can be used to compare the legally bound ceilings with the rates that are actually applied. They also show which product categories (or tariff subheadings) have no commitments (i.e. are “unbound”).
+
+Tariff Analysis Online provides tariff line detail reports as well as analytical reports at higher levels of aggregation.
+
+Data sources
+
+The information on bound rates is based on the WTO’s Consolidated Tariff Schedules (CTS) database, which covers the legal commitments on tariffs that member governments have made in the WTO.
+
+The information on applied rates is drawn from the WTO’s Integrated Database (IDB). This is data that member governments supply annually on the tariffs they apply normally under the non-discrimination principle of most-favoured nation (MFN). Data on lower preferential duties under free trade agreements or preferential schemes for developing countries are available for some members. Annual import statistics by country of origin are also available in the IDB.
+
+How to obtain the information
+
+1. The database. For standardized tariff information at HS six-digit level go to the WTO Tariff Download Facility. See also its brief explanation and user guide: browse; Word; pdf.
+
+To see a country’s tariffs in detail or to compile analytical reports go to Tariff Analysis Online, and its brief explanation and user guide: browse, pdf, Word
+
+2. By country. Links to this information are available on each WTO member country’s information page on the WTO website. To reach these, go to the list of members and click a country’s name.

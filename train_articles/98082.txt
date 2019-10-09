@@ -1,0 +1,174 @@
+Canadian Income Survey (CIS)
+Detailed information for 2016
+
+Status: Active
+
+Frequency: Annual
+
+Record number: 5200
+
+The Canadian Income Survey (CIS) is a cross-sectional survey developed to provide a portrait of the income and income sources of Canadians, with their individual and household characteristics.
+
+Data release - March 13, 2018
+
+Description
+
+The primary objective of the Canadian Income Survey (CIS) is to provide information on the income and income sources of Canadians, along with their individual and household characteristics. The data collected in the CIS is combined with Labour Force Survey (LFS, record number 3701) and tax data.
+
+
+
+The survey gathers information on labour market activity, school attendance, disability, support payments, child care expenses, inter-household transfers, personal income, and characteristics and costs of housing. This content is supplemented with information on individual and household characteristics (e.g. age, educational attainment, main job characteristics, family type), as well as geographic details (e.g. province, census metropolitan area (CMA)) from the LFS. Tax data for income and income sources are also combined with the survey data.
+
+
+
+Results from the survey are made available not only to various levels of government, but also to individuals and organizations. All levels of government can use CIS data to shape policies and programs related to the economic well-being of Canadians. Statistical organizations such as the Organization for Economic Cooperation and Development (OECD) use the results for international benchmarking and comparison studies.
+
+Reference period: Calendar year
+
+Collection period: January through April of the year following the reference year.
+
+Subjects
+
+Families, households and housing
+
+Household, family and personal income
+
+Income, pensions, spending and wealth
+
+Labour
+
+Low income and inequality
+
+Data sources and methodology
+
+Target population
+
+All individuals in Canada, excluding residents of the Yukon, the Northwest Territories and Nunavut, residents of institutions, persons living on reserves and other Aboriginal settlements in the provinces and members of the Canadian Forces living in military camps. Overall, these exclusions amount to less than 3 percent of the population.
+
+Instrument design
+
+Qualitative testing was carried out by Statistics Canada's Questionnaire Design Resource Centre (QDRC) for selected modules of the survey questionnaire, while questions for the remaining modules came from other Statistics Canada surveys. Question wording adheres as closely as possible to questions established by the Harmonized Content Committee at Statistics Canada.
+
+
+
+The questionnaire follows standard practices and wording used in a computer-assisted interviewing environment, such as the automatic control of flows that depend upon answers to earlier questions and the use of edits to check for logical inconsistencies and capture errors. The computer application for data collection was tested extensively.
+
+Sampling
+
+This is a sample survey with a cross-sectional design.
+
+The Canadian Income Survey is administered to a sub-sample of LFS respondents. The LFS sample is drawn from an area frame and is based on a stratified, multi-stage design that uses probability sampling. The LFS total sample is composed of six independent samples, called rotation groups, because each month one sixth of the sample (or one rotation group) is replaced.
+
+Data sources
+
+Data collection for this reference period: 2017-01-22 to 2017-05-01
+
+Responding to this survey is voluntary.
+
+Data are collected directly from survey respondents and extracted from administrative files.
+
+CIS interviews are conducted by telephone by interviewers working in a regional office or by personal visit from a field interviewer. In addition, respondents who meet certain criteria are offered the option of completing the survey on-line.
+
+
+
+In each dwelling, information about all household members is usually obtained from one knowledgeable household member. Such 'proxy' reporting is used to avoid the high cost and extended time requirements that would be involved in repeat visits or calls necessary to obtain information directly from each respondent.
+
+
+
+Personal income data from the Canada Revenue Agency (CRA) are used for income and income sources information.
+
+View the Questionnaire(s) and reporting guide(s) .
+
+Error detection
+
+The CIS Computer Assisted Interviewing (CAI) questionnaire incorporates many features that serve to maximize the quality of the data collected. There are edits built into the CAI questionnaire to compare the entered data against unusual values, as well as to check for logical inconsistencies. Whenever an edit fails, the interviewer is prompted to correct the information (with the help of the respondent when necessary). For most edit failures, the interviewer has the ability to override the edit failure if they cannot resolve the apparent discrepancy.
+
+
+
+Once the data is received back at head office, an extensive series of processing steps is undertaken to thoroughly verify each record received. This includes the review of interviewer entered notes. The editing phase of processing involves the identification of logically inconsistent items and the correction of such conditions. Since the true value of each entry on the questionnaire is not known, the identification of errors can be done only through recognition of obvious inconsistencies.
+
+Imputation
+
+Households are kept as respondents if information for at least one person in the household was provided, and any key data that is missing for individuals within responding households is imputed. Imputation is carried out for income variables as well as variables related to labour, school attendance, housing and utility costs.
+
+
+
+CIS uses a nearest neighbour approach for the imputation of most income variables, and for labour, school attendance and housing variables. This imputation method involves the selection of a donor record based on matching variables. First, a set of matching variables, each of which is correlated with the variables to be imputed, is defined. Then, through the combined use of a score function (for categorical matching variables) and a distance function (for numeric matching variables), the most similar consistent donor record is identified and used to impute data for the record.
+
+
+
+Deterministic imputation is also used for selected income variables. Amounts for certain government programs, such as refundable provincial tax credits, child benefits, and the Goods and Services/Harmonized Sales Tax Credit, are derived based on qualifying characteristics.
+
+
+
+Cold-deck imputation using donor information from the 2016 Census is used to impute utility costs for all CIS households. Imputation classes are formed to identify groups of Census households sharing characteristics with the CIS household to be imputed. Data from a randomly selected (with replacement) Census household is used to impute data for the CIS household
+
+Estimation
+
+The CIS sample is a sub-sample of the Labour Force Survey sample. LFS uses a complex random sampling plan to select households. Each household in the sample represents a number of other households in the population. Estimates for a given characteristic are obtained by multiplying the survey weight by the corresponding value of this characteristic. The key step in the point estimation process is therefore the derivation of the weights.
+
+
+
+The initial weights are the LFS subweights, which are then adjusted to account for the fact that the CIS is a sub-sample of the LFS sample.
+
+
+
+Two types of adjustment are then applied to these weights in order to improve the reliability of the estimates. The weights are first inflated to compensate for CIS non-response. Then, the non-response adjusted weights are further adjusted to ensure that estimates on relevant population characteristics respect population totals from sources other than the survey.
+
+
+
+The first set of population totals used by the CIS are estimates provided by Statistics Canada's Demography Division of population counts based on the 2011 Census of Population. For each province, population counts for different age/sex groups, household size and economic family size are used. CIS also employs population counts for six Census Metropolitan Areas (Montreal, Toronto, Winnipeg, Calgary, Edmonton, and Vancouver).
+
+
+
+The second set of totals is derived from the T4 file from the Canada Revenue Agency (CRA) and is intended to ensure that the weighted distribution of income (based on wages and salaries) in the dataset matches that of the Canadian population.
+
+
+
+In order to estimate sampling variance, the bootstrap approach is used. A set of 1,000 bootstrap weights is produced.
+
+
+
+A separate set of weights is created specifically for estimating disability. The initial weights are the CIS non-response adjusted weights. These weights are then inflated to account for the fact that only one person in the household among those aged 16 years or older is selected for the disability questions. They are further increased to compensate for non-response to these questions. To ensure that estimates of population characteristics respect population totals, weights are adjusted to match age/sex group counts and income distribution within each province.
+
+
+
+A set of 1,000 bootstrap weights is also produced in order to estimate sampling variance related to disability.
+
+Quality evaluation
+
+Results from the survey are compared with other data sources that include administrative databases and other Statistics Canada surveys.
+
+Disclosure control
+
+CIS tables:
+
+Estimates based on less than 25 observations or with a coefficient of variation higher than 33.3% are suppressed. Population estimates are rounded to the nearest thousandth and income estimates are rounded to the nearest hundredth.
+
+
+
+CIS Public Use Microdata Files (PUMFs):
+
+CIS uses a number of techniques to ensure confidentiality:
+
+- Data reduction involves limiting the amount of identifying information on the PUMF. Techniques include removing direct identifiers, sub-sampling, reducing the level of detail, grouping and suppressing data values for specific records.
+
+- Data perturbation involves applying protective measures by coarsening or perturbing the data to hamper re-identification attempts. The addition of noise and data swapping are examples of perturbation techniques that are often employed.
+
+- Quantitative variables with very large positive or negative values are usually rare or unique in the population. Such extreme values are often top-coded which involves replacing the top values while preserving the integrity of the file for the purposes of producing precise and accurate statistics.
+
+- All income values are rounded.
+
+Revisions and seasonal adjustment
+
+Revisions are made to CIS data every five years after new population estimates become available following the most recent census. At that time, all CIS data back to the previous census is re-weighted using the new population estimates (since the new population estimates will cover the inter-censal period between the two most recent censuses), and all corresponding historical CIS estimates are revised. The last revision occurred with the release of the 2014 data.
+
+Data accuracy
+
+Non-sampling error
+
+Non-sampling errors resulting from human errors such as simple mistakes, misunderstanding or misinterpretation will generally have a minor impact on the overall accuracy of the estimates. Errors occurring systematically and errors arising from sources such as coverage, erroneous response, non-response and processing can have, on the other hand, a major impact on the reliability of estimates. Considerable time and effort is invested into reducing non-sampling errors in CIS.
+
+
+
+Coverage error arises when sampling frame units do not exactly represent the target population. Units may have been omitted from the sampling frame (undercoverage), or units not in the target population may have been included (overcoverage), or units may have been included more than once (duplicates). Undercoverage represents the most common coverage problem. Slippage is a measure of survey coverage error. It is defined as the percentage difference between control totals (postcensal population estimates) and weighted sample counts. In 2015, the CIS person-level slippage rate was 9.6%.

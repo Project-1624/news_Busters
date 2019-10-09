@@ -1,0 +1,48 @@
+Millions of VW's Cars Can Be Hacked With a Cheap Device, Experts Show
+Tens of millions of vehicles sold by Volkswagen over the past 20 years are vulnerable to theft because keyless entry systems can be hacked using cheap technical devices, according to European researchers.
+
+Computer security experts at the University of Birmingham in England have published a paper outlining how they were able to clone VW remote keyless entry controls by eavesdropping nearby when drivers press their key fobs to open or lock up their cars.
+
+Play Facebook
+
+Twitter
+
+Embed Volkswagen to pay US auto dealers restitution after emissions scandal 0:22 autoplay autoplay Copy this code to your website or blog
+
+Vehicles vulnerable to this attack include most Audi, VW, Seat and Skoda models sold since 1995 and many of the approximately 100 million VW Group vehicles on the road since then, the researchers said. The flaw was found in car models as recent as the Audi Q3, model year 2016, they added.
+
+"It is conceivable that all VW Group (except for some Audi) cars manufactured in the past and partially today rely on a 'constant-key' scheme and are thus vulnerable to the attacks," the paper argues.
+
+The only exception the researchers found were cars built on VW's latest MQB production platform, which is used in its top selling model, the Golf VII, which they found does not have the keyless flaw.
+
+A VW spokesman said that the current Golf, Tiguan, Touran and Passat models are not vulnerable to the attack.
+
+"This current vehicle generation is not afflicted by the problems described," VW spokesman Peter Weisheit said in a statement, without commenting on the risks to other models.
+
+In their published paper, the researchers did not identify the auto parts subcontractor responsible for manufacturing the affected keyless systems for VW and potentially other car makers. VW declined to comment on its supplier relationships.
+
+The disclosures come as Europe's largest automaker struggles to overcome its biggest-ever corporate scandal, after it admitted to manipulating diesel emissions tests in about 11 million vehicles globally.
+
+Other Car Makers Vulnerable
+
+Attackers can use cheap and widely available tools for grabbing radio signals, according to the three researchers from the University of Birmingham and a fourth affiliated with the University of Bochum in Germany.
+
+Cars from other manufacturers may share these flaws, including some model years of the Ford Galaxy, the security researchers said.
+
+A spokesman for Ford Europe had no immediate comment.
+
+The reports' authors said they had focused on mass-market models and did not analyze in detail VW's luxury brands including Porsche, Bentley, Lamborghini and Bugatti.
+
+Researchers including University of Birmingham computer science lecturer Flavio Garcia said they disclosed their findings to VW Group from November and met the company and the subcontractor involved in February.
+
+VW Group received a draft and a final copy of the research paper before publication and have acknowledged the vulnerabilities, the authors said.
+
+VW Group has acknowledged the vulnerabilities, the researchers said.
+
+The Wolfsburg-based automaker confirmed it has had a constructive exchange with the researchers and that they had agreed to withhold details that savvy criminals could use to break into cars.
+
+In 2013, VW obtained a restraining order against a group of researchers including Garcia to prevent publication of a paper detailing how anti-theft car immobilizers used by more than 20 different automakers were vulnerable to hacker attacks.
+
+That research was eventually published in 2015 after the authors agreed with VW to remove a pivotal detail that would have allowed low-tech thieves to figure out how to carry out the attack.
+
+The latest paper, entitled "Lock It and Still Lose It: On the (In)Security of Automotive Remote Keyless Entry Systems" is scheduled to be presented at the prestigious Usenix computer security conference in Austin, Texas, on Friday.

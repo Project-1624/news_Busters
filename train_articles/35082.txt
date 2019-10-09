@@ -1,0 +1,24 @@
+Memex (Domain-Specific Search)
+Today's web searches use a centralized, one-size-fits-all approach that searches the Internet with the same set of tools for all queries. While that model has been wildly successful commercially, it does not work well for many government use cases. For example, it still remains a largely manual process that does not save sessions, requires nearly exact input with one-at-a-time entry, and doesn't organize or aggregate results beyond a list of links. Moreover, common search practices miss information in the deep web—the parts of the web not indexed by standard commercial search engines—and ignore shared content across pages.
+
+To help overcome these challenges, DARPA has launched the Memex program. Memex seeks to develop software that advances online search capabilities far beyond the current state of the art. The goal is to invent better methods for interacting with and sharing information, so users can quickly and thoroughly organize and search subsets of information relevant to their individual interests. The technologies developed in the program would provide the mechanisms for improved content discovery, information extraction, information retrieval, user collaboration and other key search functions.
+
+Envisioned benefits of the program include:
+
+Development of next-generation of search technologies to revolutionize the discovery, organization and presentation of domain-specific content
+
+Creation of a new domain-specific search paradigm to discover relevant content and organize it in ways that are more immediately useful to specific tasks
+
+Extension of current search capabilities to the deep web and nontraditional content
+
+Improved interfaces for military, government and commercial enterprises to find and organize publically available information on the Internet
+
+Memex would ultimately apply to any public domain content; initially, DARPA plans to develop Memex to address a key Defense Department mission: fighting human trafficking. Human trafficking is a factor in many types of military, law enforcement and intelligence investigations and has a significant web presence to attract customers. The use of forums, chats, advertisements, job postings, hidden services, etc., continues to enable a growing industry of modern slavery. An index curated for the counter-trafficking domain, along with configurable interfaces for search and analysis, would enable new opportunities to uncover and defeat trafficking enterprises.
+
+Memex plans to explore three technical areas of interest: domain-specific indexing, domain-specific search, and DoD-specified applications. The program is specifically not interested in proposals for the following: attributing anonymous services, deanonymizing or attributing identity to servers or IP addresses, or accessing information not intended to be publicly available. The program plans to use commodity hardware and emphasize creating and leveraging open source technology and architecture.
+
+The Memex program gets its name and inspiration from a hypothetical device described in “As We May Think,” a 1945 article for The Atlantic Monthly written by Vannevar Bush, director of the U.S. Office of Scientific Research and Development (OSRD) during World War II. Envisioned as an analog computer to supplement human memory, the memex (a combination of “memory” and “index”) would store and automatically cross-reference all of the user’s books, records and other information.
+
+This cross-referencing, which Bush called associative indexing, would enable users to quickly and flexibly search huge amounts of information and more efficiently gain insights from it. The memex presaged and encouraged scientists and engineers to create hypertext, the Internet, personal computers, online encyclopedias and other major IT advances of the last seven decades.
+
+The Broad Agency Announcement (BAA) for Memex is available at http://go.usa.gov/BBc5. To familiarize potential participants with the technical objectives of Memex, DARPA has scheduled a Proposers' Day on Tuesday, February 18, 2014, in Arlington, Va. For details, visit http://www.sa-meetings.com/memex. Registration closes on February 13, 2014, at 5 p.m. ET. There will be no on-site registration. For more information, please email memex@darpa.mil.

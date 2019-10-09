@@ -1,0 +1,36 @@
+HEK293 Cell Line Origins, Cytogenetics, and Expression
+HEK 293 cells are popular for their ease of growth and transfection (HEK293 Transfection Kit), making them a common cell culture in cancer research. In addition, high transfection efficiency of HEK293 cells produces exogenous proteins or viruses for pharmaceutical and biomedical research purposes. HEK-293 cells are useful for many transfection experiments, particularly the propagation of adenoviral-based and retroviral-based vectors.
+
+Origins of the HEK293 Cell Line
+
+HEK293 is a cell line derived from human embryonic kidney cells grown in tissue culture. They are also known, more informally, as HEK cells. This particular line was initiated by the transformation and culturing of normal HEK cells with sheared adenovirus 5 DNA. The transformation resulted in the incorporation of approximately 4.5 kilobases from the viral genome into human chromosome 19 of the HEK cells. The line was cultured by scientist Alex Van der Eb in the early 1970s at his lab at the University of Leiden, Holland. The transformation was executed by Frank Graham, another scientist Van der Eb’s lab who invented the calcium phosphate method for transfecting cells. The source of the cells was a healthy aborted fetus. The name HEK293 is thusly named because it was Frank Graham’s 293rd experiment.
+
+The type of kidney cell that the HEK293 cell line came arose from is unknown and it is difficult to conclusively characterize the cells post-transformation since adenovirus 5 could have significantly disrupted cell morphology and expression. Also, embryonic kidneys are a heterogeneous mix of almost all the types of cells present in the body. In fact, it has been speculated by independent researchers, including Van der Eb himself, that the cells may be neuronal in origin. Although theoretically possible, most cells derived from an embryonic kidney would be endothelial, epithelial or fibroblast cells. Neuronal origin is suspected due to the presence of mRNA and gene products typically found in neurons.
+
+Expression in HEK293
+
+Muscarinic acetylcholine receptor M3
+
+Corticotrophin releasing factor type 1 receptor
+
+Transient receptor potential TRPC1, TRPC3, TRPC4, TRPC6
+
+Sphingosine-1-phosphate receptors EDG1, EDG3 and EDG5
+
+HEK293 Cytogenetics
+
+The modal chromosome number for HEK293 cells is 64, which occurs in 60% of cells. Cells with higher ploidies occur less frequently at a rate of 4.2%. HEK293 cell lines display some cytogenetic instability.
+
+Links
+
+HEK Cell (Wikipedia)
+
+PDX Xenograft Models
+
+Purchase HEK293 (ATCC)
+
+HEK293 RNAi Services
+
+GLP-compliant Cell Banking services
+
+Tissue-targeted In Vivo siRNA

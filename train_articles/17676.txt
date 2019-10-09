@@ -1,0 +1,66 @@
+Socio-Economic Data and Scenarios
+SCENARIO PROCESS FOR AR5
+
+REPRESENTATIVE CONCENTRATION PATHWAYS (RCPs)
+
+Four RCPs were selected and defined by their total radiative forcing (cumulative measure of human emissions of GHGs from all sources expressed in Watts per square meter) pathway and level by 2100. The RCPs were chosen to represent a broad range of climate outcomes, based on a literature review, and are neither forecasts nor policy recommendations.
+
+Figure: Radiative Forcing of the Representative Concentration Pathways. From van Vuuren et al (2011) The Representative Concentration Pathways: An Overview. Climatic Change, 109 (1-2), 5-31. . The light grey area captures 98% of the range in previous IAM scenarios, and dark grey represents 90% of the range.
+
+Uses and limits of the RCPs
+
+While each single RCP is based on an internally consistent set of socioeconomic assumptions, the four RCPs together cannot be treated as a set with consistent internal socioeconomic logic. For example, RCP8.5 cannot be used as a no-climate-policy socioeconomic reference scenario for the other RCPs because RCP8.5’s socioeconomic, technology, and biophysical assumptions differ from those of the other RCPs.
+
+Each RCP could result from different combinations of economic, technological, demographic, policy, and institutional futures. For example, the second-to-lowest RCP could be considered as a moderate mitigation scenario. However, it is also consistent with a baseline scenario that assumes a global development that focuses on technological improvements and a shift to service industries but does not aim to reduce greenhouse gas emissions as a goal in itself (similar to the B1 scenario of the SRES scenarios).
+
+The proper uses and limits of the RCPs are detailed with the RCP release data at the website below.
+
+Data access
+
+RCP Release Data
+
+The IAMC database, hosted by IIASA, serves as the central data repository including all data sets that were developed by numerous groups during the process.
+
+IAMC Database: http://www.iiasa.ac.at/web-apps/tnt/RcpDb
+
+Figure: Screenshot of sample RCP data page available from the IAMC Database Web site
+
+The database includes a specific CMIP5 recommended data section for climate modeling teams (available upon registration) and additional references and guidance on usage for the data from the RCP process. The data include historical atmospheric concentrations as well as concentrations for the RCPs (2005-2100) and their extension to 2300 (Extended Concentration Pathways—ECPs). Data for a wide range of substances is provided, including gases controlled under the Kyoto Protocol, ozone depleting substances controlled under the Montreal Protocol, and a wide range of aerosols and particles.
+
+Additional links related to RCPs
+
+IAMC: http://www.iamconsortium.org/
+
+The Integrated Assessment Modeling Consortium (IAMC) is the scientific community organization that coordinated the review and release of the four RCPs and is coordinating additional modeling exercises and intercomparisons.
+
+CMIP5: http://cmip-pcmdi.llnl.gov/cmip5/
+
+The Climate Model Intercomparison Project (CMIP) is using the RCPs in their 5th intercomparison exercise. The web site details the climate model protocol for this project.
+
+Land use harmonization: http://luh.umd.edu/
+
+In order to ensure a smooth transition of land use change from historical to future across the 2005 base year, and provide a consistent set of land use inputs to climate models, a harmonization step was necessary. Additional details are available from this web site.
+
+Historical emissions: ftp://ftp-ipcc.fz-juelich.de/pub/emissions/gridded_netcdf
+
+The four RCPs used a common set of historical emissions data to initialize the integrated assessment models. Those historical data are available for download.
+
+The four RCPs were simulated in Integrated Assessment Models to 2100. The climate modeling community requested additional scenario guidance out to 2300 for long term climate response research. These “Extended Concentration Pathways” are included in the data download from the IIASA site and additional information is available at this web site.
+
+The references in the table below provide links to original data sets as posted by these groups. See the references section for additional documentation.
+
+RCP Description and Citations
+
+Description IA Model Publication – IA Model RCP8.5 Rising radiative forcing pathway leading to 8.5 W/m2 in 2100. MESSAGE Riahi et al. (2007)
+
+Rao & Riahi (2006) RCP6 Stabilization without overshoot pathway to 6 W/m2 at stabilization after 2100 AIM Fujino et al. (2006)
+
+Hijioka et al. (2008) RCP4.5 Stabilization without overshoot pathway to 4.5 W/m2 at stabilization after 2100 GCAM (MiniCAM) Smith and Wigley (2006)
+
+Clarke et al. (2007)
+
+Wise et al. (2009) RCP2.6 Peak in radiative forcing at ~ 3 W/m2 before 2100 and decline IMAGE van Vuuren et al. (2006; 2007)
+
+In addition to these publications which describe the original scenarios that were selected to become the starting point for developing the RCPs, a special issue of Climatic Change provides more detailed information on the further development steps of these scenarios in the RCP process (e.g. harmonization of base year emissions and landuse cover) and guidance on the use of the RCPs.
+
+Content last modified: 14 May 2018

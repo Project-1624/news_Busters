@@ -1,0 +1,2935 @@
+Office of the Inspector General
+
+U.S. Department of Justice
+
+OVERSIGHT INTEGRITY ?k GUIDANCE
+
+A Report of Investigation of Certain
+
+Allegations Relating to Former FBI
+
+Deputy Director Andrew McCabe
+
+Oversight Review Division February 2018
+
+Table of Contents
+
+I.
+
+Introduction and Summary of Findings.................................................... 1
+
+II.
+
+Relevant Statutes, Policies, and Practices ................................................ 3
+
+III.
+
+A.
+
+Lack of Candor ........................................................................... 3
+
+B.
+
+FBI Policies and Practices Regarding Media Contacts and Leaks ......... 3
+
+Factual Findings .................................................................................. 4
+
+A.
+
+Background Facts ....................................................................... 4
+
+1.
+
+2.
+
+3.
+
+B.
+
+Andrew McCabe ................................................................. 4
+
+The Clinton E-mail Investigation .......................................... 4
+
+The Clinton Foundation Investigation .................................... 5
+
+Events Leading to the October 30 Article and its Aftermath ............... 5
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+Comey Refuses To Confirm the Existence of the
+
+CF Investigation (July 7) or Other Investigations
+
+(September 28) ................................................................. 5
+
+McCabeaPADAG Call on the CF Investigation (August 12) ........ 5
+
+The October 23 WSJ Article and Aftermath ............................ 5
+
+The Attorney General Expresses Strong Concerns to McCabe
+
+and other FBI Officials about Leaks, and McCabe Discusses
+
+Recusing Himself from CF Investigation (October 26) .............. 6
+
+McCabe Is Excluded from a Meeting Regarding Clinton E-mails
+
+Found on the Weiner Laptop (October 27) ............................. 7
+
+McCabe Authorizes Special Counsel and AD/OPA To Talk to
+
+Barrett Regarding CF Investigation and To Disclose August 12
+
+McCabe-PADAG Call ........................................................... 8
+
+The October 30 WSJ Article ................................................. 9
+
+McCabe Admonishes Two FBI Executives for Leaks in the
+
+October 30 WSJ Article Regarding the CF Investigation ......... 11
+
+Comey Expresses Concern About Leaks at his Staff Meeting
+
+and Discusses the October 30 WSJ Article with McCabe
+
+(October 31) ................................................................... 11
+
+Knowledge of Other FBI Executives .................................... 13
+
+McCabe Admonishes NY-ADIC for CF Investigation Leaks
+
+Following November 3 WSJ Article (November 4) ................. 14
+
+INSD Opens an Investigation of the WSJ Leak (May 2017) ..... 14
+
+INSD Interviews McCabe under Oath on May 9..................... 15
+
+McCabeas Initial Account under Oath to the OIG on
+
+July 28, 2017 .................................................................. 18
+
+McCabe Calls the OIG on August 1 To Correct his Testimony .. 19
+
+INSD and the OIG Interview Special Counsel under Oath
+
+Regarding the October 30 Article (August 7, September 7,
+
+October 26) .................................................................... 20
+
+i
+
+17.
+
+18.
+
+19.
+
+IV.
+
+INSD Interviews McCabe Again (August 18)......................... 20
+
+The OIG Assumes Responsibility for the Investigation
+
+(August 31) .................................................................... 21
+
+The OIG Interviews McCabe under Oath on November 29 ...... 21
+
+OIG Analysis ..................................................................................... 22
+
+A.
+
+Lack of Candor ......................................................................... 22
+
+1.
+
+2.
+
+3.
+
+4.
+
+Lack of Candor with Then-Director Comey on or around
+
+October 31, 2016.............................................................
+
+Lack of Candor in Interview under Oath with INSD Agents
+
+on May 9, 2017 ...............................................................
+
+Lack of Candor in Interview under Oath with
+
+OIG Investigators on July 28, 2017 ....................................
+
+Lack of Candor in Interview under Oath with
+
+OIG Investigators on November 29, 2017 ...........................
+
+22
+
+27
+
+29
+
+31
+
+B.
+
+Media Policies ........................................................................... 32
+
+C.
+
+Conclusion ............................................................................... 35
+
+ii
+
+I.
+
+Introduction and Summary of Findings
+
+This misconduct report addresses the accuracy of statements made by thenFederal Bureau of Investigation (FBI) Deputy Director Andrew McCabe to the FBIas
+
+Inspection Division (INSD) and the Department of Justice (Department or DOJ)
+
+Office of the Inspector General (OIG) concerning the disclosure of certain law
+
+enforcement sensitive information to reporter Devlin Barrett that was published
+
+online in the Wall Street Journal (WSJ) on October 30, 2016, in an article entitled
+
+aFBI in Internal Feud Over Hillary Clinton Probe.a A print version of the article was
+
+published in the WSJ on Monday, October 31, 2016, in an article entitled aFBI,
+
+Justice Feud in Clinton Probe.a
+
+This investigation was initially opened by INSD to determine whether the
+
+information published by the WSJ in the October 30 article was an unauthorized
+
+leak and, if so, who was the source of the leak. On August 31, 2017, the OIG
+
+opened an investigation of McCabe following INSDas referral of its matter to the OIG
+
+after INSD became concerned that McCabe may have lacked candor when
+
+questioned by INSD agents about his role in the disclosure to the WSJ. Shortly
+
+before that INSD referral, as part of its ongoing Review of Allegations Regarding
+
+Various Actions by the Department and the FBI in Advance of the 2016 Election, the
+
+OIG identified FBI text messages by McCabeas then-Special Counsel (aSpecial
+
+Counsela) that reflected that she and the then-Assistant Director for Public Affairs
+
+(aAD/OPAa) had been in contact with Barrett on October 27 and 28, 2016, and the
+
+OIG began to review the involvement of McCabe, Special Counsel, and AD/OPA in
+
+the disclosure of information to the WSJ in connection with the October 30 article.
+
+In addition to addressing whether McCabe lacked candor, the OIGas
+
+misconduct investigation addressed whether any FBI or Department of Justice
+
+policies were violated in disclosing non-public FBI information to the WSJ.
+
+The OIGas misconduct investigation included reviewing all of the INSD
+
+investigative materials as well as numerous additional documents, e-mails, text
+
+messages, and OIG interview transcripts. The OIG interviewed numerous
+
+witnesses, including McCabe, Special Counsel, former FBI Director James Comey,
+
+and others.
+
+As detailed below, we found that in late October 2016, McCabe authorized
+
+Special Counsel and AD/OPA to discuss with Barrett issues related to the FBIas
+
+Clinton Foundation investigation (CF Investigation). In particular, McCabe
+
+authorized Special Counsel and AD/OPA to disclose to Barrett the contents of a
+
+telephone call that had occurred on August 12, 2016, between McCabe and the
+
+then-Principal Associate Deputy Attorney General (aPADAGa). Among the purposes
+
+of the disclosure was to rebut a narrative that had been developing following a
+
+story in the WSJ on October 23, 2016, that questioned McCabeas impartiality in
+
+overseeing FBI investigations involving former Secretary of State Hillary Clinton,
+
+and claimed that McCabe had ordered the termination of the CF Investigation due
+
+to Department of Justice pressure. The disclosure to the WSJ effectively confirmed
+
+the existence of the CF Investigation, which then-FBI Director Comey had
+
+1
+
+previously refused to do. The account of the August 12 McCabe-PADAG call, and
+
+other information regarding the handling of the CF Investigation, was included in
+
+the October 30 WSJ article.
+
+We found that, in a conversation with then-Director Comey shortly after the
+
+WSJ article was published, McCabe lacked candor when he told Comey, or made
+
+statements that led Comey to believe, that McCabe had not authorized the
+
+disclosure and did not know who did. This conduct violated FBI Offense Code 2.5
+
+(Lack of Candor a No Oath).
+
+We also found that on May 9, 2017, when questioned under oath by FBI
+
+agents from INSD, McCabe lacked candor when he told the agents that he had not
+
+authorized the disclosure to the WSJ and did not know who did. This conduct
+
+violated FBI Offense Code 2.6 (Lack of Candor a Under Oath).
+
+We further found that on July 28, 2017, when questioned under oath by the
+
+OIG in a recorded interview, McCabe lacked candor when he stated: (a) that he
+
+was not aware of Special Counsel having been authorized to speak to reporters
+
+around October 30 and (b) that, because he was not in Washington, D.C., on
+
+October 27 and 28, 2016, he was unable to say where Special Counsel was or what
+
+she was doing at that time. This conduct violated FBI Offense Code 2.6 (Lack of
+
+Candor a Under Oath).
+
+We additionally found that on November 29, 2017, when questioned under
+
+oath by the OIG in a recorded interview during which he contradicted his prior
+
+statements by acknowledging that he had authorized the disclosure to the WSJ,
+
+McCabe lacked candor when he: (a) stated that he told Comey on October 31,
+
+2016, that he had authorized the disclosure to the WSJ; (b) denied telling INSD
+
+agents on May 9 that he had not authorized the disclosure to the WSJ about the
+
+PADAG call; and (c) asserted that INSDas questioning of him on May 9 about the
+
+October 30 WSJ article occurred at the end of an unrelated meeting when one of
+
+the INSD agents pulled him aside and asked him one or two questions about the
+
+article. This conduct violated FBI Offense Code 2.6 (Lack of Candor a Under Oath).
+
+Lastly, we determined that as Deputy Director, McCabe was authorized to
+
+disclose the existence of the CF Investigation publicly if such a disclosure fell within
+
+the apublic interesta exception in applicable FBI and DOJ policies generally
+
+prohibiting such a disclosure of an ongoing investigation. However, we concluded
+
+that McCabeas decision to confirm the existence of the CF Investigation through an
+
+anonymously sourced quote, recounting the content of a phone call with a senior
+
+Department official in a manner designed to advance his personal interests at the
+
+expense of Department leadership, was clearly not within the public interest
+
+exception. We therefore concluded that McCabeas disclosure of the existence of an
+
+ongoing investigation in this manner violated the FBIas and the Departmentas media
+
+policy and constituted misconduct.
+
+The OIG is issuing this report to the FBI for such action as it deems
+
+appropriate.
+
+2
+
+II.
+
+Relevant Statutes, Policies, and Practices
+
+A.
+
+Lack of Candor
+
+The Offense Codes Applicable to the FBIas Internal Disciplinary Process
+
+punish FBI employees for alack of candor.a Offense Code 2.5 (Lack of Candor a No
+
+Oath) prohibits a[k]nowingly providing false information when making a verbal or
+
+written statement, not under oath, to a supervisor, another Bureau employee in an
+
+authoritative position, or another governmental agency, when the employee is
+
+questioned about his conduct or the conduct of another person.a Offense Code 2.6
+
+(Lack of Candor a Under Oath) prohibits a[k]nowingly providing false information in
+
+a verbal or written statement made under oath.a Under both offense codes, lack of
+
+candor is defined to include afalse statements, misrepresentations, the failure to be
+
+fully forthright, or the concealment or omission of a material fact/information.a
+
+B.
+
+FBI Policies and Practices Regarding Media Contacts and Leaks
+
+The then-existing FBI Policy on Media Relations, Section 3.1, authorized the
+
+FBI Director, the FBI Deputy Director, the Associate Deputy Director, and the
+
+Assistant Director for the Office of Public Affairs (OPA) to speak with the media on
+
+behalf of the FBI. Other FBI executives could only speak with the media aat OPAas
+
+request or following coordination with, and approval by, OPA at FBIHQ.a Section
+
+3.4 of this policy provided, in relevant part, that disclosures to the media amust not
+
+address an ongoing investigationa except as indicated in that section. The section
+
+provides two examples of when it amay be permissible to selectively release [nonclassified] information to assure the public that an investigation is in progressa with
+
+prior approval of specific components at FBI headquarters:
+
+(1) to protect the public interest, welfare or safety
+
+(2) to solicit information from the public that might be relevant to an
+
+investigation.
+
+Section 3.3 of the policy also provides that all releases must be consistent
+
+with all applicable laws and regulations and policy as itemized in Section 5, which
+
+includes the United States Attorneysa Manual (USAM), Title 1-7.000, aMedia
+
+Relations.a Title 1-7.000 of the USAM establishes specific guidelines for the release
+
+of information relating to criminal and civil cases by the FBI and other DOJ
+
+components. The USAM guidelines expressly state that they are consistent with 28
+
+C.F.R. ASS 50.2, which provides that awhere background information or information
+
+relating to the circumstances of an arrest or investigation would be highly
+
+prejudicial or where the release thereof would serve no law enforcement function,
+
+such information should not be made public.a 28 C.F.R. ASS 50.2(a)(3)(iv).
+
+Among other things, Section 1-7.530 of the USAM provides that:
+
+A. Except as provided in subparagraph B., of this section, components and
+
+personnel of the Department of Justice shall not respond to questions
+
+about the existence of an ongoing investigation or comment on its nature
+
+3
+
+or progress, including such things as the issuance or serving of a
+
+subpoena, prior to the public filing of the document.
+
+B. In matters that have already received substantial publicity, or
+
+about which the community needs to be reassured that the
+
+appropriate law enforcement agency is investigating the incident,
+
+or where the release of information is necessary to protect the
+
+public interest, safety or welfare, comments about or confirmation
+
+of an ongoing investigation may need to be made. In these
+
+unusual circumstances, the involved investigative agency will
+
+consult and obtain approval from the United States Attorney or
+
+Department Division handling the matter prior to disseminating any
+
+information to the media.
+
+James Comey, who was the FBI Director at the time the WSJ article was
+
+published, told the OIG that the authority to disclose the existence of a pending
+
+investigation is aconfined to the Director and the Deputy Directora and that in
+
+making such decisions athe default is we donat talka about pending investigations.
+
+He also told the OIG that asignificant disclosures about investigations . . . always go
+
+through mea and that he could not remember any disclosure by any of the three
+
+Deputy Directors that served under him during his tenure that did not involve aclose
+
+coordinationa with him. Comey also told the OIG that the FBI does not disclose aa
+
+criminal investigation . . . anonymously sourced in a newspaper.a
+
+III.
+
+Factual Findings
+
+A.
+
+Background Facts
+
+1.
+
+Andrew McCabe
+
+McCabe began his career with the FBI in 1996 as a Special Agent in the New
+
+York Field Office. McCabe has served in a variety of leadership positions in the FBI
+
+during his career, including as the Assistant Director of the Counterterrorism
+
+Division, the Executive Assistant Director of the National Security Branch, and the
+
+Assistant Director in Charge of the FBIas Washington Field Office. On February 1,
+
+2016, McCabe was appointed Deputy Director of the FBI, overseeing all FBI
+
+domestic and international investigative and intelligence activities. McCabe became
+
+Acting Director of the FBI on May 9, 2017, when FBI Director James Comey was
+
+fired. McCabe served as Acting Director until August 1, 2017, when Christopher
+
+Wray was confirmed by the Senate as the new FBI Director. At that time, McCabe
+
+resumed his duties as Deputy Director, a position he held until January 29, 2018.
+
+2.
+
+The Clinton E-mail Investigation
+
+The Clinton E-mail Investigation began as a referral from the Inspector
+
+General of the Intelligence Community concerning Clintonas use of a personal e-mail
+
+server during her time as Secretary of State. On July 5, 2016, Comey publicly
+
+announced the FBIas recommendation to the Department that ano charges are
+
+appropriate in this case.a On July 6, 2016, Attorney General Loretta Lynch
+
+4
+
+announced that no charges would be brought related to the investigation. On
+
+October 28, 2016, two days before the online publication of the WSJ article at issue
+
+in this report, Comey informed Congress that the FBI had discovered additional
+
+Clinton-related e-mails in an unrelated investigation. On November 6, 2016,
+
+Comey announced that the FBI had completed its review of the additional e-mails
+
+and that awe have not changed our conclusions that we expressed in July with
+
+respect to Secretary Clinton.a
+
+3.
+
+The Clinton Foundation Investigation
+
+As detailed below, the disclosures by Special Counsel to the WSJ on October
+
+27 and 28 included statements effectively confirming the existence of the CF
+
+Investigation. Prior to October 27 and 28, the FBI had not publicly confirmed the
+
+existence of the CF Investigation, or issued any statements to the media discussing
+
+the details of that investigation.
+
+B.
+
+Events Leading to the October 30 Article and its Aftermath
+
+1.
+
+Comey Refuses To Confirm the Existence of the CF
+
+Investigation (July 7) or Other Investigations
+
+(September 28)
+
+In testimony before the House Oversight and Government Reform Committee
+
+on July 7, 2016, FBI Director Comey refused to answer questions about whether
+
+the FBI was investigating the Clinton Foundation. Comey stated that he was anot
+
+going to comment on the existence or nonexistencea of the CF Investigation.
+
+Similarly, in testimony before the House Judiciary Committee on September 28,
+
+2016, Comey refused to confirm or deny two different investigations during an FBI
+
+oversight hearing. He stated: aour standard is we do not confirm or deny the
+
+existence of investigations.a
+
+2.
+
+McCabeaPADAG Call on the CF Investigation (August 12)
+
+McCabe told the OIG that on August 12, 2016, he received a telephone call
+
+from PADAG regarding the FBIas handling of the CF Investigation (the aPADAG
+
+calla). McCabe said that PADAG expressed concerns about FBI agents taking overt
+
+steps in the CF Investigation during the presidential campaign. According to
+
+McCabe, he pushed back, asking aare you telling me that I need to shut down a
+
+validly predicated investigation?a McCabe told us that the conversation was avery
+
+dramatica and he never had a similar confrontation like the PADAG call with a highlevel Department official in his entire FBI career.
+
+3.
+
+The October 23 WSJ Article and Aftermath
+
+On October 23, 2016, the WSJ published online an article by reporter Devlin
+
+Barrett stating that a political-action committee (PAC) run by Virginia Governor
+
+Terry McAuliffe and the Virginia Democratic Party (over which the article reported
+
+McAuliffe aexerts considerable controla) collectively donated nearly $675,000 to the
+
+5
+
+2015 unsuccessful state senate campaign of the wife of Andrew McCabe. 1 The
+
+article described McAuliffe as aan influential Democrat with long-standing ties to Bill
+
+and Hillary Clintona and noted that McCabe was an FBI official awho later helped
+
+oversee the investigation into Mrs. Clintonas email use.a The article contained an
+
+official FBI statement that McCabe aplayed no rolea in his wifeas 2015 state senate
+
+campaign and was promoted to FBI Deputy Director months after his wifeas defeat
+
+awhere, . . . he assumed for the first time, an oversight role in the investigation into
+
+Secretary Clintonas emails.a According to the article, FBI officials stated that
+
+McCabeas supervision of the Clinton E-mail case in 2016 did not present a conflict or
+
+ethics issues because his wifeas campaign was over by then. The article went on to
+
+note that when the Clinton E-mail Investigation was launched in July 2015, Mr.
+
+McCabe was arunning the FBIas Washington, D.C., field office, which provided
+
+personnel and resources to the Clinton email probe.a
+
+Immediately following online publication of the article, there was substantial
+
+public discussion as to whether McCabeas oversight of the Clinton E-mail
+
+Investigation had been appropriate in light of the information in the article. 2
+
+Additionally, on October 24, 2016, Barrett e-mailed the AD/OPA about a follow-on
+
+story that he was working on. In that e-mail, Barrett asked AD/OPA a number of
+
+questions about McCabeas involvement in certain matters, including the CF
+
+Investigation. In particular, Barrettas e-mail said that he was told that:
+
+in the summer, McCabe himself gave some instruction as to how to
+
+proceed with the Clinton Foundation probe, given that it was the
+
+height of election season and the FBI did not want to make a lot of
+
+overt moves that could be seen as going after [Clinton] or drawing
+
+attention to the probe.
+
+Barrettas e-mail asked AD/OPA a[h]ow accurate are those descriptions? Anything
+
+else I should know?a As detailed in Section 6 below, McCabe subsequently
+
+instructed Special Counsel to provide information to Barrett for the follow-on story.
+
+4.
+
+The Attorney General Expresses Strong Concerns to
+
+McCabe and other FBI Officials about Leaks, and McCabe
+
+Discusses Recusing Himself from CF Investigation
+
+(October 26)
+
+McCabe told the OIG that during the October 2016 time frame, it was his
+
+aperception that there was a lot of information coming out of likely the [FBIas] New
+
+York Field Officea that was ending up in the news. McCabe told the OIG that he
+
+ahad some heated back-and-forthsa with the New York Assistant Director in Charge
+
+(aNY-ADICa) over the issue of media leaks.
+
+1
+
+A print version of the article was published in the WSJ on Monday, October 24, 2016.
+
+In January 2017, the OIG announced it would conduct a review of allegations regarding
+
+various actions by the Department and the FBI in advance of the 2016 election, including allegations
+
+that McCabe should have been recused from participating in certain investigative matters.
+
+2
+
+6
+
+On October 26, 2016, McCabe and NY-ADIC participated in what McCabe
+
+described as aa hastily convened conference call with the Attorney General who
+
+delivered the same message to usa about leaks, with specific focus being on leaks
+
+regarding the high-profile investigation by FBIas New York Field Office into the death
+
+of Eric Garner. McCabe told us that he anever heard her use more forceful
+
+language.a NY-ADIC confirmed that the participants got aripped by the AG on
+
+leaks.a
+
+According to NY-ADICas testimony and an e-mail he sent to himself on
+
+October 31, McCabe indicated to NY-ADIC and a then-FBI Executive Assistant
+
+Director (aEADa) in a conversation after Attorney General Lynch disconnected from
+
+the call that McCabe was recusing himself from the CF Investigation. According to
+
+NY-ADICas e-mail, McCabe told them ahe may make a more formal decision at a
+
+later time.a NY-ADIC stated during his OIG interview: aI think [McCabe] couched it
+
+as like, hey, this is not final . . . I donat know, I think he says he still has to talk
+
+about it.a NY-ADIC stated that he clarified with McCabe that unless McCabe told
+
+him otherwise, NY-ADIC would begin reporting to EAD on the CF Investigation.
+
+McCabe, however, told the OIG that he did not recall such a conversation.
+
+He said, aI suppose it's possible that I may have referred to the concept if that was
+
+being discussed generally at the time. But I would not have said to [NY-ADIC],
+
+like, I'm thinking about recusing.a
+
+5.
+
+McCabe Is Excluded from a Meeting Regarding Clinton Emails Found on the Weiner Laptop (October 27)
+
+On October 27, 2016 at 10:00 a.m., Comey held a meeting with the Clinton
+
+E-mail Investigation team to discuss obtaining a search warrant for a set of Clintonrelated e-mails the FBI had discovered on a laptop belonging to Anthony Weiner,
+
+and taking additional steps in the Clinton E-mail Investigation. Special Counsel
+
+attended the meeting. McCabe was out of town, but joined the meeting via
+
+conference call. Shortly after the meeting began, the then-FBI General Counsel
+
+(aFBI-GCa) suggested, and Comey agreed, that McCabe should leave the call.
+
+Comey told us that he asked McCabe to drop off the call, and McCabe was avery
+
+unhappy about it.a Special Counsel also left the meeting. After discussions
+
+between FBI and Department leadership, on October 28, 2016, Comey sent a letter,
+
+over Department objections, informing Congress that the FBI was taking additional
+
+steps in the Clinton E-mail Investigation.
+
+Accounts differ about the reason for excluding McCabe from the October 27
+
+call. McCabe told the OIG that the reason stated on the call for dropping him
+
+related to the potential for discussion about classified information. However,
+
+Comey,
+
+, and and Special Counsel all told us that Comey asked McCabe to
+
+leave the call out of an abundance of caution because of appearance issues
+
+following revelations in the WSJ October 23 article about the campaign donations
+
+from McAuliffe-associated PACs to McCabeas wife. McCabe discussed the issue of
+
+his participation in the Clinton e-mail matter further with Comey and FBI-GC by
+
+telephone later that day. After these conversations, McCabe sent a text message to
+
+7
+
+Special Counsel stating: aI spoke to both. Both understand that no decision on
+
+recusal will be made until I return and weigh in.a
+
+On November 1, 2016, McCabe sent e-mails to FBI executives and officials
+
+overseeing the CF Investigation and the Clinton E-mail Investigation informing
+
+them that he was recusing himself from those investigations.
+
+6.
+
+McCabe Authorizes Special Counsel and AD/OPA To Talk
+
+to Barrett Regarding CF Investigation and To Disclose
+
+August 12 McCabe-PADAG Call
+
+a.
+
+McCabeas Authorization
+
+By October 25, 2016, McCabe had been notified that Barrett was working on
+
+a follow-up story to the October 23 article that would cover McCabeas oversight of
+
+the CF Investigation and potential connections with McAuliffe campaign
+
+contributions to McCabeas wife. McCabe thereafter authorized Special Counsel and
+
+AD/OPA to talk to Barrett about this follow-up story. Special Counsel told us that
+
+the authorization from McCabe was done orally and it was apretty general.a Special
+
+Counsel further stated that she understood from AD/OPA that the first call with
+
+Barrett would be areceive modea to understand what Barrettas story would cover
+
+and then they would develop a response.
+
+b.
+
+Calls with Barrett and Special Counselas
+
+Communications with McCabe (October 27 and 28)
+
+At approximately 12:06 p.m. on October 27, 2016, shortly before Special
+
+Counsel was to speak with Barrett for the first time, McCabe texted Special Counsel
+
+asking aAre you in with wsj nowa. 3 About 10 minutes later, at 12:19 p.m., Special
+
+Counsel texted McCabe back stating that she was agoing there nowa and would call
+
+him aimmediately after re call with devlin.a Special Counsel told the OIG that she
+
+and AD/OPA then had their first call with Barrett in areceive modea regarding his
+
+follow-up story. According to Special Counselas contemporaneous notes of the call
+
+and testimony to the OIG, she and AD/OPA learned during the first call that Barrett
+
+had sources who were adamant that McCabe gave a purported order to astand
+
+downa on the CF Investigation before the 2016 presidential election, implying that
+
+McCabe wanted to shut down the investigation for improper reasons.
+
+Special Counsel texted McCabe at 1:25 p.m. and stated aCan you talk now?a
+
+After some additional texts between them to arrange the call, telephone records
+
+reflect that McCabe and Special Counsel spoke by telephone at 2:54 p.m. for 51
+
+minutes. According to Special Counsel, she briefed McCabe on the conversation
+
+with Barrett and the purported astand downa order. Special Counsel told the OIG
+
+that McCabe responded by reminding her that the August 12 PADAG call was
+
+completely inconsistent with that allegation. Special Counsel told us that she
+
+understood McCabe wanted her to provide the account of this August 12 call as
+
+By this time, McCabe had already left for
+
+October 27 through 30, 2016.
+
+3
+
+8
+
+and he remained out of town from
+
+rebuttal to that astand downa allegation and made a large notation of aFri. Aug. 12
+
+with [PADAG]a at the top of her notes to remind herself to discuss it in the next call
+
+with Barrett.
+
+When interviewed by the OIG on November 29, 2017, McCabeas recollection
+
+of his call with Special Counsel was consistent with hers. Specifically, McCabe
+
+stated that he authorized Special Counsel and AD/OPA to provide to Barrett the
+
+account of his August 12 call with PADAG because McCabe thought it was the abest
+
+examplea to counter the aincredibly damaginga narrative in Barrettas intended story.
+
+McCabe said that he did not view the disclosure to the WSJ about the August 12
+
+PADAG call as disclosing the existence of the CF Investigation because the purpose
+
+was to demonstrate the FBIas independence, and athere really wasnat any discussion
+
+of the case, of the merits of the case, the targets and subjects of the case.a
+
+McCabe stated that this was the only time in his career where he had
+
+authorized the disclosure to the media of a one-on-one discussion that he had with
+
+a member of the Departmentas leadership.
+
+FBI text message and phone records show that, immediately before Special
+
+Counsel and AD/OPA spoke for the second time with Barrett, McCabe called Special
+
+Counsel at 4:38 p.m. and the two spoke for 6 minutes. E-mail and text message
+
+records show that, approximately 1 minute after the call between McCabe and
+
+Special Counsel ended, Special Counsel and AD/OPA began their second call with
+
+Barrett, which lasted from approximately 4:45 p.m. to 5:21 p.m. According to
+
+Special Counselas contemporaneous notes and testimony to the OIG, in this followup call with Barrett she responded to the claims regarding FBI leadershipas handling
+
+of the CF Investigation and provided the account of the August 12 McCabe-PADAG
+
+call as the abest evidencea to counter Barrettas narrative.
+
+Two minutes after the call ended, Special Counsel texted McCabe at 5:23
+
+p.m. stating: aWeare done. Heas going to look at his story again and will circle back
+
+with him in the morning.a According to telephone records, McCabe thereafter called
+
+Special Counsel twice, once at 6:47 p.m., when they spoke for about 5 minutes,
+
+and again at 7:06 p.m., when they spoke for about 6 minutes.
+
+During the early afternoon of October 28, 2016, Special Counsel and AD/OPA
+
+had an additional call with Barrett that lasted at least 15 minutes. According to
+
+Special Counselas contemporaneous notes and testimony to the OIG, Barrett
+
+provided them a preview of the revised story, which now incorporated aspects of
+
+the McCabe-PADAG call on August 12 to rebut the astand-downa allegation.
+
+After this call ended, Special Counsel texted McCabe at 1:33 p.m. stating:
+
+aJust got off with barrett. Give me a call here.a According to telephone records, at
+
+1:38 p.m., McCabe and Special Counsel spoke for 23 minutes.
+
+7.
+
+The October 30 WSJ Article
+
+On October 30, 2016, prior to the articleas online publication, Special Counsel
+
+exchanged text messages with a then-FBI Deputy Assistant Director (aDADa)
+
+9
+
+regarding the forthcoming article. DAD forwarded to Special Counsel a Washington
+
+Post article from the day before (October 29), entitled aJustice Officials Warned FBI
+
+that Comeyas Decision to Update Congress Was Not Consistent With Department
+
+Policy.a The article stated that Department officials told Comey that his decision to
+
+update Congress about the discovery of additional Clinton e-mails prior to the
+
+election was inconsistent with Department policy, and DAD observed in his text
+
+message that aThis is all [PADAG].a Special Counsel responded aYeah. I saw it.
+
+Makes me feel WAY less bad about throwing him under the bus in the forthcoming
+
+CF article.a Special Counsel told us that she was referring in this text to her
+
+disclosure to Barrett about the August 12 conversation between McCabe and
+
+PADAG, and what she meant by athrowing [PADAG] under the busa was that it was
+
+an aunfortunate sort of fact or consequencea but it was anecessary to rebut the
+
+notion that [Andy] was trying to kill the Clinton Foundation case for inappropriate
+
+or improper reasons.a
+
+Barrettas follow-up article was published online on Sunday, October 30, 2016,
+
+at about 3:34 p.m., and appeared in the WSJ print edition the next day under the
+
+title aFBI, Justice Feud in Clinton Probe.a The article described how Comeyas
+
+disclosure that FBI agents were taking another look at the Clinton e-mails alays
+
+bare, just days before the election, tensions inside the bureau and the Justice
+
+Department over how to investigate the Democratic presidential nominee.a The
+
+article discussed not only the FBIas handling of the Clinton E-mail Investigation, but
+
+ainternal disagreements within the bureau and the Justice Department surrounding
+
+the Clintonsa family philanthropy.a It stated that aMcCabe in particular was caught .
+
+. . [in] an increasingly acrimonious fight for control between the Justice Department
+
+and FBI agents pursuing the Clinton Foundation case.a Thereafter, the article
+
+highlighted the campaign donations to McCabeas wife by PACs associated with
+
+McAuliffe, who was described as aa longtime ally of the Clintons and . . . a Clinton
+
+Foundation Board member.a The article identified McCabe as the FBI official who
+
+asought to refocus the Clinton Foundation probe,a and reported that agents afurther
+
+down the FBI chain of commanda had been told to a[s]tand downa on the Clinton
+
+Foundation investigation with the understanding that athe order had come from the
+
+deputy director a Mr. McCabe.a The article stated that a[o]thers familiar with the
+
+matter deny Mr. McCabe or any other senior FBI official gave such a stand-down
+
+instruction.a The article recounted the August 12 conversation between McCabe
+
+and PADAG (identified as an unnamed asenior Justice Department Officiala). It
+
+stated:
+
+According to a person familiar with the probes, on Aug. 12, a
+
+senior Justice Department official called Mr. McCabe to voice his
+
+displeasure at finding that New York FBI agents were still openly
+
+pursuing the Clinton Foundation probe during the election season. Mr.
+
+McCabe said agents still had the authority to pursue the issue as long
+
+as they didnat use overt methods requiring Justice Department
+
+approvals.
+
+The Justice Department official was avery pissed off,a according
+
+to one person close to McCabe, and pressed him to explain why the
+
+FBI was still chasing a matter the department considered dormant. . . .
+
+10
+
+aAre you telling me that I need to shut down a validly predicated
+
+investigation?a Mr. McCabe asked, according to people familiar with
+
+the conversation. After a pause, the official replied aOf course not,a
+
+these people said. 4
+
+8.
+
+McCabe Admonishes Two FBI Executives for Leaks in the
+
+October 30 WSJ Article Regarding the CF Investigation
+
+Two FBI Executives, NY-ADIC and the then-Assistant Director in Charge of
+
+the Washington Field Division (aW-ADICa), told us that they each received calls
+
+from McCabe admonishing them for leaks contained in the October 30 WSJ article
+
+about the CF Investigation. At no time did McCabe disclose to either of them that
+
+McCabe had authorized Special Counsel to disclose information about the CF
+
+Investigation to the WSJ reporter.
+
+According to NY-ADICas contemporaneous October 30 calendar notes and
+
+testimony to the OIG, McCabe called NY-ADIC on Sunday, October 30, at 5:11
+
+p.m., to express concerns over leaks from the FBIas New York Field Office in the
+
+October 30 WSJ article. NY-ADIC told the OIG that McCabe was aticked about
+
+leaksa in the article on the CF Investigation, but NY-ADIC apushed backa a little to
+
+note that New York agents were not privy to some of the information in the article.
+
+Also according to NY-ADICas calendar notes, as well as his testimony to the OIG,
+
+NY-ADIC spoke to EAD and other FBI managers after his call with McCabe to voice
+
+concerns aabout getting yelled at about this stuffa when he was supposed to be
+
+dealing with EAD on Clinton Foundation issues because of his understanding that
+
+McCabe had recused himself from the matter.
+
+W-ADIC told the OIG that he received a call from McCabe regarding the
+
+October 30 WSJ article and that McCabe admonished him regarding leaks in the
+
+article. According to W-ADIC, McCabe told him to aget his house in order.a
+
+McCabe told us that he did not recall calling either NY-ADIC or W-ADIC to
+
+reprimand them for leaks in the October 30 WSJ article.
+
+9.
+
+Comey Expresses Concern About Leaks at his Staff
+
+Meeting and Discusses the October 30 WSJ Article with
+
+McCabe (October 31)
+
+On Monday morning, October 31, 2016, Comey held a staff meeting, which
+
+Special Counsel attended. According to Special Counselas contemporaneous notes,
+
+during the meeting Comey said aNeed to figure out how to get our folks to
+
+understand why leaks hurt our organization.a That same day McCabe and Comey
+
+had a face-to-face conversation about the October 30 WSJ article. The accounts
+
+they provided to the OIG of this discussion contradicted one another.
+
+4 Both McCabe and PADAG told the OIG that the account of the August 12, 2016 telephone
+
+call given in the October 30, 2016 WSJ article was an accurate description of their discussion.
+
+However, PADAG told the OIG that he thought that athe Bureau was trying to spin this conversation as
+
+some evidence of political interference, which was totally unfair.a
+
+11
+
+a.
+
+McCabeas Account
+
+According to McCabeas testimony to the OIG on November 29, 2017, he and
+
+Comey discussed the October 30 WSJ article in person on October 31, 2016, when
+
+McCabe returned to the office from a trip
+
+. McCabe said that he told
+
+Comey that he had aauthorized AD/OPA and Special Counsel to disclose the account
+
+of the August 12th calla and did not say anything to suggest in any way that it was
+
+unauthorized. McCabe told us that Comey adid not react negatively, just kind of
+
+accepted it.a McCabe also told us Comey thought it was a agooda idea that they
+
+presented this information to rebut the inaccurate and one-sided narrative that the
+
+FBI was not doing its job and was subject to DOJ political pressure, but the
+
+Department and PADAG were likely to be angry that athis information made its way
+
+into the paper.a
+
+McCabe told us that he did not recall telling Comey prior to publication of the
+
+October 30 article that he intended to authorize or had authorized Special Counsel
+
+and AD/OPA to recount his August 12 call with PADAG to the WSJ, although he said
+
+it was possible he did. When asked why he did not discuss it with the Director in
+
+advance, McCabe said the Director was avery, very occupieda at the time with the
+
+Weiner laptop issue. McCabe told us that if he had not been out of town, he would
+
+have talked to Comey about the disclosure in advance because it involved a
+
+significant issue. When questioned by the OIG as to whether, as Deputy Director,
+
+he had the capability to reach Comey wherever he was and whenever he needed,
+
+McCabe acknowledged that he did but added it was challenging to do so between
+
+October 27 and 28, given the Weiner laptop issue and the fact that Comey told him
+
+he did not want to discuss that issue with him.
+
+b.
+
+Comeyas Account
+
+We questioned Comey specifically about the portion of the October 30 WSJ
+
+article that pertained to the PADAG call. Comey told us that he recalled seeing this
+
+article but did not know how the disclosure about the PADAG call in the October 30
+
+article happened. He said that he was avery concerneda about that part of the
+
+article because he felt it would further poison the FBIas relationship with
+
+Department and it aexplicitly confirms the existence of a criminal investigationa of
+
+the Clinton Foundation. Comey told us he considered the disclosure about the
+
+PADAG call aproblematica because it related to asensitive FBI informationa and was
+
+unauthorized, unless either he or McCabe authorized it and Comey knew that he did
+
+not authorize it.
+
+Comey told us that, prior to the articleas publication, he did not have any
+
+discussions with McCabe regarding disclosure of the August 12 PADAG call.
+
+According to Comey, he discussed the issue with McCabe after the article was
+
+published, and at that time McCabe adefinitely did not tell me that he authorizeda
+
+the disclosure of the PADAG call. Comey said that McCabe gave him the exact
+
+opposite impression:
+
+I donat remember exactly how, but I remember some form or fashion
+
+and it could have been like acan you believe this crap? How does this
+
+12
+
+stuff get outa kind of thing? But I took from whatever communication
+
+we had that he wasnat involved in it.
+
+...
+
+I have a strong impression he conveyed to me ait wasnat me boss.a
+
+And I donat think that was by saying those words, I think it was most
+
+likely by saying aI donat know how this shit gets in the media or why
+
+would people talk about this kind of thing,a words that I would fairly
+
+take as aI, Andy, didnat do it.a And I actually didnat suspect Andy,
+
+after conversations with [my chief of staff], my worry was, was his
+
+aide [Special Counsel] doing it.
+
+When asked by the OIG about whether he would have approved the
+
+disclosure about the PADAG call to the WSJ, Comey stated: a[S]o just to make
+
+sure there's no fuzz on it, I did not authorize this. I would not have authorized this.
+
+If someone says that I did, then we ought to have another conversation because I,
+
+it doesn't make a lot of sense to me.a
+
+Comey said he believed that McCabe would have known from experience to
+
+discuss any disclosures regarding pending FBI investigations with Comey before
+
+releasing such information to the media. Comey told us that McCabe would have
+
+known that the disclosure of the existence of a specific investigation was a
+
+significant event athat he should discuss with me firsta given Comeyas responsibility
+
+as FBI Director for how the FBI interacts with the world. Comey told us that the
+
+disclosure of the existence of a specific investigation would require much internal
+
+discussion on the form and wording, and would not be done through aanonymous[]
+
+source[s] in a newspaper.a Comey further told us that he would not have
+
+authorized the disclosure of the account of the McCabe-PADAG August 12 call, even
+
+if an argument had been made that it was in the best interest of the FBI. Comey
+
+said that such an argument would not have been persuasive for him in light of the
+
+following circumstances: (1) the disclosure involved publicly confirming the
+
+existence of the CF Investigation, which Comey had declined to do 3 months earlier
+
+during testimony before Congress; (2) the disclosure risked harming FBIDepartment relations; and (3) the disclosure occurred 2 days after the firestorm
+
+surrounding the October 28 letter to Congress re-opening the Clinton E-mail
+
+Investigation.
+
+10.
+
+Knowledge of Other FBI Executives
+
+McCabe told us that among FBI executive managers apeople knew that
+
+generallya he had authorized the disclosure to the Wall Street Journal, abecause it
+
+was my conversationa and athe fact that [AD/OPA] and [Special Counsel] were
+
+engaging with Devlin Barrett over the article was not a secret.a McCabe identified
+
+several FBI managers who he believed likely or possibly would have known, based
+
+on his interactions with them, that he authorized Special Counsel and AD/OPA to
+
+talk to the WSJ and disclose the account of his August 12 call with PADAG.
+
+However, none of the potential witnesses identified by McCabe (FBI-GC,
+
+Comeyas Chief of Staff, The Counterintelligence Assistant Director (aAD-CIa), and
+
+13
+
+McCabeas then-Chief of Staff ) corroborated this or recalled knowing at the time, or
+
+even now, that McCabe had authorized the disclosure. 5 FBI-GC told us that, had
+
+McCabe discussed the matter with him, he would have counseled McCabe to avoid
+
+anything related to the CF Investigation, including authorizing disclosures to the
+
+press, given FBI-GCas and Comeyas pending concerns about McCabeas potential
+
+appearance issues on Clinton-related matters. Comeyas Chief of Staff, AD-CI, and
+
+McCabeas Chief of Staff told us that had they heard about such an authorization
+
+they would have remembered it because it would have been significant and spurred
+
+conversation among other senior executive managers. These witnesses also told us
+
+that because the disclosure detailed a private conversation between two highranking officials at the FBI and the Department on a high-profile investigation, they
+
+did not believe that it was an authorized disclosure. McCabeas Chief of Staff told us
+
+that:
+
+I just can't imagine that the Deputy would have authorized the leak.
+
+It just doesn't seem to serve, I mean, I guess it serves, it serves the
+
+purpose of the Deputy by saying, hey look, do you want us to shut this
+
+thing down? I guess it serves Andy in that way, but it really, it really
+
+highlights a dysfunction between the FBI and the, and DOJ. And to
+
+that end, it doesn't really serve the greater good.
+
+11.
+
+McCabe Admonishes NY-ADIC for CF Investigation Leaks
+
+Following November 3 WSJ Article (November 4)
+
+On November 3, 2016, the WSJ published another story by Barrett on the CF
+
+Investigation and it repeated parts of the account of the McCabe-PADAG call. That
+
+evening, McCabe e-mailed NY-ADIC and stated: aThis is the latest WSJ article. Call
+
+me tomorrow.a According to NY-ADICas calendar notes on November 4 and
+
+testimony to the OIG, NY-ADIC and McCabe spoke for approximately 10 minutes
+
+around 7 a.m., regarding aleaks and WSJ articlea and that McCabe was aangry.a
+
+NY-ADICas calendar notes also reflect that McCabe expressed to him: awill be
+
+consequence[s] and get to bottom of it post elect[ion]. Need leaks to stop.
+
+Damaging to org.a
+
+McCabe told the OIG that he did not recall the details of his conversation with
+
+NY-ADIC on November 4, but it was aprobably about leaksa to the media.
+
+12.
+
+INSD Opens an Investigation of the WSJ Leak (May 2017)
+
+In May 2017, the FBI Inspection Division (INSD) expanded a pre-existing
+
+investigation of media leaks to include determining the source of the information in
+
+the October 30 WSJ article regarding the August 12 McCabe-PADAG call. INSD
+
+added the October 30 article to their pre-existing matter because it appeared to
+
+FBI-GC told us that McCabe had told him recently in discussions on attending OIG interviews
+
+that the OIG was looking at the October 30 article and that he, McCabe, had authorized the disclosure
+
+of some unspecified information that appeared in that article.
+
+5
+
+14
+
+involve an instance of someone at the FBI leaking the Deputy Directoras private
+
+conversations to the media.
+
+13.
+
+INSD Interviews McCabe under Oath on May 9
+
+INSD interviewed McCabe under oath regarding the October 30 WSJ article
+
+on May 9, 2017. 6 The INSD investigators documented the May 9 interview in
+
+contemporaneous notes and in a draft Signed Sworn Statement prepared shortly
+
+after the interview, and later provided testimony to the OIG regarding their
+
+recollections of McCabeas testimony. In his interview with the OIG on November
+
+29, 2017, McCabe provided a starkly different account of what he believes he said
+
+and what occurred during this interview. Because these conflicting accounts are
+
+central to the issues addressed in this report, we address the INSD accounts and
+
+McCabeas account in detail in separate subsections below.
+
+a.
+
+INSD Written Record of the Interview and
+
+Testimony by Interviewing Agents
+
+Two INSD agents, a Supervisory Special Agent (aINSD-SSA1a), and the thenChief of the INSD Internal Investigations Section (aINSD Section Chiefa),
+
+interviewed McCabe under oath in his office on the afternoon of May 9 concerning
+
+the leak matters they were investigating. 7 During the interview, after discussing
+
+with McCabe an unrelated media leak allegation, the INSD agents provided McCabe
+
+with a copy of the October 30 article to review, and which McCabe initialed.
+
+According to INSD SSA 1as contemporaneous notes and both agentsa testimony to
+
+the OIG, INSD drew McCabeas attention specifically to the portion of the October 30
+
+WSJ article regarding McCabeas August 12 call with the PADAG.
+
+INSD-Section Chief told us that the entire interview, including the discussion
+
+on the October 30 article, was conducted in the privacy of McCabeas personal office
+
+with just McCabe,
+
+and INSD-SSA1 in attendance, while they were sitting at
+
+a table in McCabeas office, where McCabe initialed the copy of the WSJ article.
+
+INSD-Section Chief told us that all of the INSD interviews with McCabe were
+
+conducted in the privacy of his office at his table afrom beginning to end.a INSDSection Chief said that INSDas standard practice is to conduct an interview in a
+
+private setting solely with INSD agents and the particular witness involved in the
+
+matter.
+
+INSD-SSA1 took two and half pages of contemporaneous notes during the
+
+interview, almost all of which concerned the October 30 article and the August 12
+
+call between McCabe and PADAG. According to INSD-SSA1as notes and testimony
+
+to the OIG, McCabe was given an opportunity to review the article and he then told
+
+Later in the day, after the interview, President Trump fired FBI Director Comey, and McCabe
+
+became Acting FBI Director, a position he remained in until Director Wrayas confirmation on August 1,
+
+2017.
+
+6
+
+7
+
+INSD-Section Chief has since been promoted
+
+15
+
+the agents that he remembered the article and said that the account in the article
+
+of his August 12 call with PADAG was accurate. Also according to INSD-SSA1as
+
+contemporaneous notes and testimony to the OIG, McCabe told them that he had
+
+ano idea where it came from,a that was awho the source wasa who disclosed the
+
+account of his August 12 call with PADAG to the WSJ. INSD-SSA1 further told the
+
+OIG that McCabe stated during the interview that he had related the account of the
+
+August 12 call to others numerous times, leaving INSD-SSA1 with the impression
+
+that INSD-SSA1 would anot get anywhere by askinga McCabe how many people
+
+could have known about what appeared to be a private conversation between him
+
+and PADAG. INSD-SSA1 told us that he didnat need to take many notes during the
+
+interview because, at that point, he viewed McCabe as athe victima of the leak and
+
+McCabe had told the INSD agents that he did not know how this happened. INSDSSA1 also told us that the whole interaction was short, maybe 5 to 7 minutes, and
+
+flowing because McCabe was seemingly the victim and claimed he did not know
+
+who did it. INSD-SSA1 said that McCabeas information could be summarized in one
+
+paragraph in his draft statement.
+
+Similarly, INSD-Section Chief told us that the aoverarchinga take-aways from
+
+their interview with McCabe were that McCabe did not grant anyone permission to
+
+divulge the account of his August 12 call with PADAG to the media, he had not
+
+personally shared that information with the media, and he considered it a leak.
+
+INSD-Section Chief also told us that McCabe acknowledged that he had expressed
+
+the sentiment reflected in the quote aare you telling me that I need to shut down a
+
+validly predicated investigation,a to PADAG, and was disappointed that it had
+
+appeared in the article. INSD-Section Chief further told us that their discussion
+
+with McCabe about the October 30 article was not rushed and that none of their
+
+discussions with McCabe on media leaks ended abruptly.
+
+b.
+
+INSD Prepares a Draft Statement for McCabe To
+
+Sign, Which McCabe Fails To Do (May 12 and June
+
+23)
+
+Three days later, on May 12, 2017, INSD e-mailed McCabe a draft Signed
+
+Sworn Statement (SSS) for his review and signature that initially concerned an
+
+unrelated leak matter but that had been revised to include his comments at the
+
+May 9 interview about the October 30 WSJ article. The e-mail highlighted that a
+
+new paragraph had been added, starting on page 10, regarding statements made
+
+by McCabe about the October 30 article. This paragraph stated:
+
+On 05/09/2017, [INSD-Section Chief] and [INSD-SSA1] provided me
+
+with a photocopy of a Wall Street Journal article, dated 10/30/2016,
+
+and requested I evaluate and assess the content of the first three
+
+paragraphs appearing on the last page for accuracy. My assessment
+
+of the referenced portion of the article is that it is basically an accurate
+
+depiction of an actual telephonic interaction I had with a Department
+
+of Justice (DOJ) executive. I do not know the identity of the source of
+
+the information contained in the article. Since this event, I have
+
+shared the circumstances of this interaction with numerous FBI senior
+
+executives and other FBI personnel. I gave no one authority to share
+
+16
+
+any information relative to my interaction with the DOJ executive with
+
+any member of the media. I initialed a photocopy of the article, which
+
+is attached to my statement as Exhibit Number 5.
+
+This draft SSS paragraph is consistent with INSDas contemporaneous notes of
+
+the May 9 interview and the sworn recollections of both INSD agents who
+
+interviewed McCabe, as they described to the OIG.
+
+As of approximately 1 month later, McCabe had failed to execute and return
+
+the draft SSS. Accordingly, on June 23, INSD again e-mailed it to him and again
+
+requested that he review and sign it. However, INSD accidentally sent it to a
+
+different FBI employee rather than to then-Acting Director Andrew G. McCabe. The
+
+unintended recipient forwarded the INSD e-mail to then-Acting Director McCabe.
+
+That same date, McCabe e-mailed INSD to note the error in the address. McCabe
+
+did not sign the draft SSS and did not communicate with INSD regarding the draft
+
+SSS until August 18, as described below.
+
+c.
+
+McCabeas November 29, 2017 Account of the May 9
+
+INSD Interview and His Response to Draft
+
+Statement
+
+During his OIG interview on November 29, 2017, McCabe provided a very
+
+different account of his interactions with INSD on May 9. Specifically, McCabe told
+
+the OIG that the INSD agents amust havea gotten it wrong when they wrote in the
+
+draft SSS that he told them on May 9 that he did not authorize the conversation
+
+and that he did not know who the source was. McCabe said that he did not believe
+
+he told INSD that he did not authorize the disclosure, but added aI don't remember
+
+what I said to them.a He added aI don't remember discussing authorization of that
+
+articlea with INSD and that athe INSD folks and I walked away from that, from that
+
+exchange with a difference in understanding.a However, he acknowledged to the
+
+OIG that his initials appeared on the copy of the WSJ article that INSD presented to
+
+him for review during the interview. McCabe told the OIG that he did not know and
+
+could not explain how INSD got the impression that he thought it was an
+
+unauthorized leak because he said he does not believe he told INSD that.
+
+McCabe also asserted that the May 9 meeting concerned an unrelated leak
+
+matter and that the discussion about the October 30 article occurred near the end
+
+of the meeting when aone of the people on that team pulled me aside and asked
+
+me a question about the Wall Street Journal article.a He elaborated by stating that
+
+as the INSD agents were awalking out of my office into the hallway, and [INSDSection Chief] kind of grabbed me by the arm and said, hey, let me ask you about
+
+something else.a McCabe said that he and INSD-Section Chief were still in his
+
+office, he thought standing, during the conversation but that the other two INSD
+
+agents (McCabe recalled there being three INSD agents present that day, not two)
+
+were outside his office. He said INSD-Section Chief showed him the October 30
+
+WSJ article at that time and asked him aa question or two about it. And that was it.
+
+It was a very quick exchange.a McCabe said he was confused as to why this article
+
+was even being raised because it did not relate to a different media leak matter
+
+that McCabe asserted was the main focus of their meeting on May 9.
+
+17
+
+McCabe told the OIG that he did not remember when he first reviewed the
+
+revised draft SSS addressing the October 30 WSJ article, but that ait could have
+
+been months latera after he received it. He said: aI don't remember reviewing the
+
+statement while I was Acting Director. It's possible, but I don't remember when I
+
+actually, I think it's possible I just put the entire thing aside and said I'll deal with
+
+that some other time. The other time ended up being when I was back as Deputy
+
+Director.a McCabe returned to his position as Deputy Director after Director Wray
+
+was confirmed, on August 1, 2017.
+
+14.
+
+McCabeas Initial Account under Oath to the OIG on July
+
+28, 2017
+
+On Friday, July 28, 2017, the OIG interviewed McCabe under oath in
+
+connection with its ongoing review of various FBI and Department actions in
+
+advance of the 2016 Election. The primary focus of the interview was to determine
+
+McCabeas awareness of the existence of certain text messages between Special
+
+Counsel and DAD that the OIG had recently discovered. During the course of the
+
+interview, the OIG showed McCabe text messages dated October 27, 28, and 30
+
+from Special Counsel to DAD, indicating that Special Counsel had been in contact
+
+with WSJ reporter Barrett and appeared to have been a source for the October 30
+
+WSJ article. At the time of the interview, the OIG was not aware of INSDas May 9
+
+interview of McCabe.
+
+The OIG showed McCabe a text exchange on October 30 in which DAD
+
+forwarded an article from the Washington Post to Special Counsel, entitled "Justice
+
+officials warned FBI that Comey's decision to update Congress was not consistent
+
+with department policy." DAD texted aThis is all [PADAG].a Special Counsel
+
+responded "Yeah I saw it. Makes me feel WAY less bad about throwing him under
+
+the bus in the forthcoming CF article." These texts suggested that Special Counsel
+
+may have provided the information to Barrett concerning McCabeas August 12 call
+
+that eventually appeared in the October 30 WSJ article. After the OIG showed
+
+these text messages to McCabe, the following exchange took place:
+
+OIG: . . . Which we're not sure what [CF] relates to, perhaps Clinton
+
+Foundation. Do you happen to know?
+
+MR. MCCABE: I don't know what she's referring to.
+
+OIG: Or perhaps a code name?
+
+MR. MCCABE: Not one that I recall, but this thing is like right in the
+
+middle of the allegations about me, and so I don't really want to get
+
+into discussing this article with you.
+
+OIG: Okay.
+
+MR. MCCABE: Because it just seems like we're kind of crossing the
+
+strings a little bit there.
+
+OIG: Was she ever authorized to speak to reporters in this time
+
+period, was [Special Counsel]?
+
+MR. MCCABE: Not that I'm aware of.
+
+18
+
+Later in the interview, the OIG directed McCabeas attention to other texts
+
+from October 27 and 28 indicating that Special Counsel was talking to Barrett.
+
+McCabe stated aI was not even in town during those days. So I can't tell you where
+
+she was or what she was doing.a
+
+15.
+
+McCabe Calls the OIG on August 1 To Correct his
+
+Testimony
+
+On Tuesday, August 1, 2017, McCabe placed a telephone call to an OIG
+
+Assistant Inspector General (aAIGa) to correct the statement he gave on July 28.
+
+In an e-mail prepared the same day, AIG summarized the call, in relevant part, as
+
+follows:
+
+McCabe stated that he believes that [Special Counsel] may have been
+
+authorized by him to work with [AD/OPA] and to speak with the WSJ
+
+for the late October article. He said he had worked with [Special
+
+Counsel] on a previous WSJ article earlier in the month when they
+
+spent the day trying to correct inaccuracies. At the time the second
+
+article was being prepared, McCabe was out of town
+
+He believes he may have authorized [Special Counsel] to work
+
+with [AD/OPA] and speak to Devlin Barrett (the WSJ reporter) because
+
+she had previously worked with McCabe on the issues raised by his
+
+wifeas political campaign and was very familiar with those issues . . . .
+
+He said [AD/OPA] would be familiar with Special Counselas role and
+
+authority to speak.
+
+The OIG questioned McCabe about his August 1 call during his OIG interview,
+
+on November 29. McCabe told the OIG that he called AIG on August 1 after
+
+spending aa lot of time thinking about ita over the weekend, and that aon further
+
+recollection, yeah, I remember authorizing [Special Counsel] and [AD/OPA] to talk
+
+to the Wall Street Journal.a He said ait was important to me that [AIG] and you all
+
+did not have the misimpression about the authorization that I had given to, to
+
+[AD/OPA] and [Special Counsel] to interact with Devlin Barrett on that article.a He
+
+further stated that it was important to him that the OIG not astart heading off in a
+
+direction on [AD/OPA] and [Special Counsel] that's not, that would not have been
+
+accurate.a
+
+When the OIG pointed out that McCabeas statement on July 28 that he didnat
+
+know where Special Counsel was or what she was doing on October 27 or 28 was
+
+inaccurate, he stated:
+
+Yeah, and as I've said before, and she made clear, I, I was very concerned,
+
+as I think I said at that time, uncomfortable about discussing things that I
+
+thought were outside the scope that [AIG] had identified for me that day . . .
+
+. And I felt like that's the direction that the questions were coming from. I
+
+didn't feel comfortable saying, you know, vouching for what was in [DAD]
+
+and [Special Counsel]'s texts and saying what they meant. I had not
+
+thought about the Wall Street Journal article and the conversations we had
+
+around it in quite a long time. And so, I misspoke.
+
+19
+
+McCabe denied that being shown the text messages on July 28 that indicated
+
+Special Counsel had spoken to Barrett caused him to change his account in order to
+
+protect Special Counsel. McCabe told the OIG that this athinking processa was done
+
+aon my owna without talking to any FBI employees or reviewing past e-mails or text
+
+messages. He stated that he did not discuss the Devlin texts with Special Counsel
+
+after the July 28 interview. While Special Counsel told the OIG that following
+
+McCabeas July 28 OIG interview, she and McCabe discussed her text messages, she
+
+said that McCabe did not discuss his OIG testimony about the WSJ article, or the
+
+WSJ article itself, at that time. Special Counsel stated that she and McCabe did not
+
+discuss agetting their stories straighta with respect to the WSJ article. Special
+
+Counsel told the OIG that the last time she spoke with McCabe about the WSJ
+
+article was in approximately October 2016 (when the article was published).
+
+16.
+
+INSD and the OIG Interview Special Counsel under Oath
+
+Regarding the October 30 Article (August 7, September 7,
+
+October 26)
+
+On August 7, 2017, INSD interviewed Special Counsel concerning the
+
+October 30 article. At that time, INSD investigators were not aware of Special
+
+Counselas texts on October 27, 28, and 30 concerning her contacts with Barrett and
+
+they had not made progress uncovering who may have been the source of the
+
+account of the August 12 McCabe-PADAG call provided to the WSJ. During the
+
+interview, Special Counsel told INSD agents under oath that she was a source for
+
+the disclosure of the account of the August 12 McCabe-PADAG call, the disclosure
+
+was fully authorized by McCabe, and Special Counsel and AD/OPA provided the
+
+information to Barrett in a telephone call from the FBI OPA office. Special Counsel
+
+signed an SSS to this effect on August 15, 2017, which included as an exhibit her
+
+contemporaneous notes of the discussions with Barrett on October 27 and 28,
+
+2016. Special Counsel gave the same account to the OIG in two subsequent
+
+interviews on September 7 and October 26, 2017.
+
+17.
+
+INSD Interviews McCabe Again (August 18)
+
+On August 18, 2017, INSD-SSA1 and a second SSA (aINSD-SSA2a) reinterviewed McCabe after being told by Special Counsel that it was McCabe who had
+
+authorized the conversation with Barrett in advance of the October 30 WSJ article.
+
+In light of Special Counselas testimony, INSD-SSA1 told us that, during the
+
+re-interview, he affirmatively showed McCabe the WSJ article again and asked him
+
+again if he authorized the disclosure regarding the PADAG call because INSD had
+
+received conflicting information. INSD-SSA1 said McCabe alooked at it, and he read
+
+it. And as nice as could be, he said yep. Yep, I did,a although he said he did not
+
+recall specifically doing it. INSD-SSA1 stated that McCabe said he did not recall
+
+authorizing the description of the PADAG call, but that McCabe atook responsibility,
+
+or he took ownership of it,a and that he was aokay with it.a According to INSDSSA1as testimony:
+
+I remember saying to him, at, I said, sir, you understand that we put a
+
+lot of work into this based on what you've told us. I mean, and I even
+
+20
+
+said, long nights and weekends working on this, trying to find out who
+
+amongst your ranks of trusted people would, would do something like
+
+that. And he kind of just looked down, kind of nodded, and said, yeah,
+
+I'm sorry.
+
+INSD-SSA1as contemporaneous notes also reflected that he said to McCabe
+
+that INSD would have ataken a different approacha if McCabe ahad told me and
+
+[INSD-Section Chief] that he authorized the article in WSJ.a McCabe responded,
+
+according to INSD-SSA1as notes, aaI knowa but there was a lot going on at the
+
+time.a
+
+According to INSD-SSA2, and consistent with
+
+contemporaneous notes,
+
+McCabe stated that he did authorize Special Counsel and AD/OPA to speak aon
+
+backgrounda to Barrett for the article. INSD-SSA2 said that McCabe told them that
+
+he did not specifically recall authorizing the disclosure of the PADAG call to the
+
+WSJ, but assumes he did.
+
+McCabe told us that he convened the August 18 meeting with INSD afor the
+
+purpose of telling them that I would not sign the signed sworn statementa because,
+
+among other things, it inaccurately reflected that he had not authorized the
+
+disclosure to the WSJ. McCabe told us that the August 18 meeting was the first
+
+time he told INSD that the signed sworn statement was inaccurate.
+
+18.
+
+The OIG Assumes Responsibility for the Investigation
+
+(August 31)
+
+Following the INSD interviews of Special Counsel and McCabe in August
+
+2017, INSD officials became concerned that there was a significant question of
+
+whether Deputy Director McCabe had testified truthfully to INSD on May 9. INSDSection Chief told us that she recommended turning the matter over to the OIG
+
+because it was no longer appropriate for GS-14 agents in the Internal
+
+Investigations Section to continue the investigation of their Deputy Director, and
+
+that INSD aneeded to turn this over to an independent authority to review and
+
+investigate.a The Assistant Director for INSD agreed, and referred the matter to
+
+the OIG. The OIG formally accepted the referral on August 31, 2017.
+
+19.
+
+The OIG Interviews McCabe under Oath on November 29
+
+On November 29, 2017, the OIG interviewed McCabe under oath again, this
+
+time addressing the WSJ leak issue in detail. McCabe was represented by counsel
+
+during the interview, and, consistent with OIG practice, the interview was audio
+
+recorded. Among other things, and as detailed in prior sections, McCabe told the
+
+OIG:
+
+aC/
+
+that he authorized Special Counsel and AD/OPA to disclose his August
+
+12, 2016 conversation with PADAG to the WSJ and he had frequent
+
+contact and communication with Special Counsel about the WSJ
+
+article, before it was published, while he was out of town on October
+
+27 and 28;
+
+21
+
+IV.
+
+aC/
+
+that he did not recall discussing the disclosure with Comey in advance
+
+of authorizing it, although it was possible that he did;
+
+aC/
+
+that after publication of the October 30 WSJ article he told Comey that
+
+he (McCabe) had authorized the disclosure, and that Comey adid not
+
+react negatively, just kind of accepted ita and thought it was agooda
+
+that they presented this information to rebut the inaccurate and onesided narrative that the FBI was not doing its job;
+
+aC/
+
+that other FBI executive managers knew generally that he had
+
+authorized the disclosure;
+
+aC/
+
+that, notwithstanding the accounts of the INSD agents, contemporary
+
+notes, or the draft SSS, he did not tell INSD on May 9 that he had not
+
+authorized the disclosure to the WSJ about the PADAG call;
+
+aC/
+
+that at the end of the May 9 meeting with the INSD agents on an
+
+unrelated leak matter he was pulled aside by INSD-Section Chief alone
+
+and asked a question or two about the October 30 WSJ article;
+
+aC/
+
+that, despite being asked to sign the SSS on multiple occasions, he
+
+probably did not review the language in the draft SSS until after
+
+Director Wray was confirmed (which was on August 1, 2017);
+
+aC/
+
+that the explanation for his inaccurate July 28 testimony to the OIG
+
+was that he was surprised to be asked about the WSJ matter during
+
+that interview;
+
+aC/
+
+that between May 9 and August 18 he did not affirmatively tell INSD
+
+he had authorized the disclosure; and
+
+aC/
+
+that he convened the August 18 meeting with INSD to tell them he
+
+would not sign the SSS because, among other things, the statement in
+
+it denying he had authorized the disclosure was not accurate.
+
+OIG Analysis
+
+A.
+
+Lack of Candor
+
+We concluded that McCabe lacked candor on four separate occasions in
+
+connection with the disclosure to the WSJ. Three of those occasions involved his
+
+testimony under oath.
+
+1.
+
+Lack of Candor with Then-Director Comey on or around
+
+October 31, 2016
+
+We concluded that McCabe lacked candor during his conversation with thenDirector Comey on or about October 31, 2016, when they discussed the October 30
+
+WSJ article. As detailed above, Comey and McCabe gave starkly conflicting
+
+accounts of this conversation. Comey said that McCabe adefinitelya did not tell
+
+Comey that he had authorized the disclosure about the PADAG call. To the
+
+contrary, Comey told the OIG that, on or about October 31, McCabe led him to
+
+22
+
+believe ain form or fashiona that McCabe did not authorize the disclosure about the
+
+PADAG call to the WSJ. Comey described how McCabe gave Comey the impression
+
+that McCabe had not authorized the disclosure about the PADAG call, was not
+
+involved in the disclosure, and did not know how it happened. By contrast, McCabe
+
+asserted that he explicitly told Comey during that conversation that he authorized
+
+the disclosure and that Comey agreed it was a agooda idea.
+
+While the only direct evidence regarding this McCabe-Comey conversation
+
+were the recollections of the two participants, there is considerable circumstantial
+
+evidence and we concluded that the overwhelming weight of that evidence
+
+supported Comeyas version of the conversation. Indeed, none of the circumstantial
+
+evidence provided support for McCabeas account of the discussion; rather, we found
+
+that much of the available evidence undercut McCabeas claim. 8
+
+First, Comey had pointedly refused to confirm the existence of the CF
+
+Investigation in testimony to Congress just 3 months earlier. Additionally, 1 month
+
+before McCabe authorized the disclosure, Comey also refused to confirm or deny
+
+two different investigations during an FBI oversight hearing before the House
+
+Judiciary Committee. Comey stated during the hearing: aour standard is we do not
+
+confirm or deny the existence of investigations.a Comey noted that there is a
+
+public interest exception, but aour overwhelming rule is we do not comment except
+
+in certain exceptional circumstances.a Comey told us that when the FBI made
+
+disclosures of this type during his tenure, such as occurred in connection with the
+
+Clinton E-mail and Russia investigations, it did so only after careful deliberations as
+
+to form and wording; he also noted that such a disclosure would not be made
+
+through an anonymously sourced quote given to a single reporter. We found it
+
+highly improbable that Comey would have been approving of a decision by McCabe
+
+to disclose to a reporter, on background, information essentially confirming the
+
+existence of an FBI investigation that Comey himself had refused to confirm when
+
+testifying before Congress.
+
+Second, on the morning after the article appeared online (and the same day
+
+it appeared in print), Comey expressed concerns at his staff meeting about the
+
+volume of leaks, as evidenced by Special Counselas contemporaneous notes of the
+
+meeting. We found it highly unlikely that Comey, in a discussion with McCabe that
+
+same day, would have been accepting of a disclosure authorized by McCabe that
+
+looked exactly like the type of leak that he was condemning to his staff.
+
+In comments submitted by his counsel in response to a draft of this report, McCabe stated
+
+athere is no indication that any of Director Comeyas comments were referring to the PADAG call.a To
+
+the contrary, as detailed in this report and made clear in the draft that was made available for
+
+McCabeas and his counselas review, the OIG questioned Comey with specific reference to the portion of
+
+the WSJ article that related to McCabeas call on August 12 with PADAG. There is no ambiguity.
+
+Comey told us that, at the time, he was avery concerneda about the disclosure for a number of
+
+reasons, including the impact of this disclosure on FBI-DOJ relations. And Comey told us that that
+
+McCabe led him to believe that McCabe had nothing to do with the disclosure, amost likelya by stating
+
+that McCabe didnat know where the disclosure came from, and adefinitelya did not state to Comey that
+
+he, McCabe, authorized the disclosure.
+
+8
+
+23
+
+Third, the disclosure occurred less than 10 days before the presidential
+
+election and just 2 days after the firestorm surrounding Comeyas letter to Congress
+
+about taking additional steps in the Clinton E-mail Investigation. Disclosure of the
+
+PADAG call risked subjecting the FBI to even more criticism about potentially
+
+affecting the imminent presidential election, by confirming the existence of a
+
+previously unconfirmed criminal investigation involving candidate Clinton. We
+
+highly doubt that Comey, who himself expressed concern to us that the WSJ
+
+disclosure occurred 2 days after his October 28 letter, would have countenanced
+
+such a disclosure by McCabe within days of the election if he had been told about it.
+
+Fourth, publishing the account of the PADAG call risked further apoisoninga
+
+the FBIas relationship with DOJ leadership at a time it was already under great
+
+strain because of, among other things, Comeyas decision to notify Congress on
+
+October 28 that the FBI was taking additional steps in the Clinton E-mail
+
+Investigation and the Department leadershipas concern about leaks emanating from
+
+the FBI. 9
+
+Fifth, on October 27, Comey and FBI-GC expressed concerns to McCabe
+
+about whether McCabe should participate further in the Clinton E-mail Investigation
+
+because of the appearance created by the campaign contributions to his wifeas
+
+campaign. The same logic applied to the CF Investigation. On that same date,
+
+McCabe authorized Special Counsel to discuss the August 12 PADAG call with the
+
+WSJ reporter, thereby confirming the FBIas criminal investigation. McCabeas text
+
+message to Special Counsel late on October 27 (ano decision on recusal will be
+
+made until I return and weigh ina) shows that he knew the issue of recusal was
+
+clearly on the table; indeed, McCabe announced his recusal from both Clintonrelated matters on November 1. Under these circumstances, McCabe had a strong
+
+reason not to tell Comey on October 31 that he had authorized the disclosure to the
+
+WSJ about the CF Investigation: it would have been an admission that McCabe had
+
+taken action relating to that investigation at exactly the time that McCabeas recusal
+
+from Clinton-related matters was under consideration by Comey. Further, we found
+
+it extremely unlikely, as McCabe now claims, that he not only told Comey about his
+
+decision to authorize the disclosure, but that Comey thought it was a agooda idea
+
+for McCabe to have taken that action.
+
+Sixth, no other senior FBI official corroborated McCabeas testimony that,
+
+among FBI executive leadership, apeople knew that generallya he had authorized
+
+the disclosure. Rather, multiple witnesses identified by McCabe told us that
+
+because of the information contained in the WSJ report, they did not believe it was
+
+an authorized disclosure. They also said that had they heard about such an
+
+authorization they would have recalled it because it would have been so unusual.
+
+Other than Special Counsel, no witness we interviewed told us that they knew that
+
+this disclosure had been authorized at the time. We think it likely that at least
+
+Just a few days earlier, McCabe had participated in a conference call with then-Attorney
+
+General Lynch regarding leaks during which McCabe aheard her use more forceful languagea than she
+
+had ever used at any other time.
+
+9
+
+24
+
+some FBI executives would have been aware of McCabeas authorization if he had
+
+told Comey what he had done.
+
+Finally, Comeyas testimony that McCabe did not tell him that McCabe had
+
+authorized the disclosure to the WSJ is entirely consistent with McCabeas statement
+
+to INSD on May 9 that he had ano idea where [the disclosure] came froma or awho
+
+the source was,a as well as his claim to the OIG on July 28 that he was not aware
+
+that Special Counsel had disclosed the information to the WSJ. Conversely,
+
+McCabeas claim that he told Comey is not only inconsistent with his May 9 and July
+
+28 statements to the INSD and OIG, respectively, but there would be no reason for
+
+McCabe to not tell INSD and OIG about his actions on those dates if he had already
+
+admitted them to Comey. Indeed, McCabe contacted the OIG on August 1 to
+
+attempt to correct his July 28 testimony only after he was made aware on July 28
+
+that the OIG had text messages from Special Counsel that would likely enable the
+
+OIG to soon learn the truth about who authorized Special Counselas actions. 10
+
+Taking all of these factors into account, we concluded that McCabe did not
+
+tell Comey on or around October 31 (or at any other time) that he (McCabe) had
+
+authorized the disclosure of information about the CF Investigation to the WSJ.
+
+Had McCabe done so, we believe that Comey would have objected to the disclosure.
+
+McCabeas disclosure was an attempt to make himself look good by making senior
+
+department leadership, specifically the Principal Associate Deputy Attorney General,
+
+look bad. While the disclosure may have served McCabeas personal interests in
+
+In a letter submitted by McCabeas counsel after reviewing a draft of this report, McCabe
+
+argues that athe OIG should credit Mr. McCabeas account over Director Comeyasa and complains that
+
+the report apaints Director Comey as a white knight carefully guarding FBI information, while
+
+overlooking that Mr. McCabeas account is more credible for at least three key reasons. . . .a The first
+
+reason cited by McCabe as to why he should be believed over Comey is because he claims to have a
+
+aconcrete recollectiona of the conversation between the two of them on October 31, while he argues
+
+Comey does not. It is noteworthy that McCabe did not articulate such a aconcrete recollectiona during
+
+any of four prior interviews. That is, he did not mention it during his May 9 INSD interview, his July
+
+28 OIG interview, his August 1 OIG call, or his August 18 INSD interview. It was not until his
+
+November 29 OIG interview a McCabeas fifth contact with INSD and the OIG about the WSJ article a
+
+that he first provided this aconcrete recollectiona of his conversation with Comey, which if true would
+
+have been critical for INSD and the OIG to know as soon as possible and in McCabeas interest to share
+
+as soon as possible. As we note in the report, none of the circumstantial evidence supports McCabeas
+
+claim, while the overwhelming weight of the circumstantial evidence supportas Comeyas recollection.
+
+In his submission, McCabe presented no evidence to corroborate his version of events. Instead,
+
+McCabe focuses entirely on attacking the credibility of Comeyas recollection. We found his aconcrete
+
+recollectiona argument without merit. The second reason cited by McCabe as to why he should be
+
+believed over Comey is because Comey was distracted at the time because of his need on October 31
+
+to deal with the Weiner laptop and Clinton E-mail Investigation issues. Given the significance of
+
+McCabeas disclosure, and the potential impact it had on FBI/DOJ relations, we have little doubt that,
+
+no matter how focused Comey was on the Clinton E-mail Investigation or Weiner laptop issues or
+
+other matters, Comey would have recalled McCabe telling him that he had been the source of the
+
+disclosure, if in fact McCabe had told Comey the truth. Finally, McCabe argues that Comey awould
+
+have every incentive to distance himself from this disclosurea due to McCabeas belief that the OIG is
+
+reviewing Comeyas disclosure of other information to the media. However, McCabe provides no factual
+
+basis for this claim and fails to address the corroborating circumstances described in the report that
+
+support Comeyas recollection. In the absence of any evidence supporting McCabeas claim, we do not
+
+credit it.
+
+10
+
+25
+
+seeking to rebut the WSJ article on October 23 and to avoid another personally
+
+damaging WSJ story on October 30, it did so at the expense of undermining public
+
+confidence in the Department as a whole. We do not believe that Comey would
+
+have been approving of such a disclosure by McCabe if he had been told about it.
+
+For the same reasons, we reject the suggestion that Comey simply forgot or
+
+misremembered what McCabe told him. If McCabe had told Comey that he had
+
+authorized this significant disclosure, we believe it would have surprised Comey and
+
+that Comey would have remembered it when the OIG interviewed him
+
+approximately 1 year later. Similarly, we believe the other FBI executives would
+
+have remembered it too had they been told about it.
+
+Comey did not testify that McCabe affirmatively and explicitly denied having
+
+authorized the disclosure, but rather that McCabe ain form or fashiona led him to
+
+believe that McCabe did not know how the WSJ got the account of the PADAG call,
+
+and adefinitely didnat tell [Comey] he authorized it.a The FBI Offense code 2.5
+
+(Lack of Candor a No Oath) does not require an explicit false statement to establish
+
+lack of candor. It applies to athe failure to be fully forthright, or the concealment or
+
+omission of a material fact/information.a We concluded that McCabe lacked candor
+
+in concealing from Comey his role in authorizing the disclosure to the WSJ. 11
+
+In response to his review of a draft of this report, counsel for McCabe argued that the OIG
+
+failed to satisfy the elements of FBI Offense Code 2.5, because McCabeas statements to then-Director
+
+Comey were part of a acasual interactiona and not as the result of aan interaction in which a supervisor
+
+was formally questioning an employee regarding his conduct.a We disagree. Comeyas testimony was
+
+that McCabe conveyed to Comey, in some form or fashion, that it was not McCabe who had disclosed
+
+to the WSJ the August 12 PADAG call confirming the existence of the previously unconfirmed CF
+
+Investigation. The OIG does not accept that the FBIas Offense Code tolerates its Deputy Directoras
+
+deceptive statements to the Director on an issue of importance to the Director and the FBI because
+
+the Deputy Directoras lack of candor occurred in the context of a work conversation with the Director
+
+as opposed to aformal questioning.a In addition, although Offense Code 2.5 (Lack of Candor a No
+
+Oath) subjects employees to discipline for a[k]nowingly providing false information when making a
+
+verbal or written statement, not under oath, to a supervisor, . . . when the employee is questioned
+
+about his conduct or the conduct of another person,a the FBIas Office of Professional Responsibility has
+
+previously taken the position in litigation that, alack of candor is the generic term which has
+
+historically been used in FBI discipline which in its literal meaning means lack of forthrightness[.] . . .
+
+It can mean . . . lying to a supervisor, not under oath, about work performance.a See Ludlum v.
+
+Department of Justice, 278 F.3d 1280, 1284 (Fed. Cir. 2002). Compare FBI Offense Codes 2.10, 2.11
+
+(identifying misconduct relating to employee behavior in a formal aadministrative matter,a defined to
+
+include ainternal disciplinary investigations, OIG investigations, OPR adjudications, or EEO Matters,a as
+
+distinguished from the broader aquestion[ing] about his conduct or the conduct of another persona in
+
+Offense Code 2.5). Moreover, the Preamble to the FBIas Offense Codes and Penalty Guidelines
+
+Governing FBIas Internal Disciplinary Process (Preamble) indicates that the Offense Codes and Penalty
+
+Guidelines aprovide general categories of misconduct for which employees may be disciplineda and,
+
+further, stresses the aheightened behavioral and managerial expectations associated with SES
+
+personnel.a Preamble at 2, 4. Accordingly, the OIG stands by its finding that McCabe lacked candor
+
+with the Director under Offense Code 2.5 and is subject to disciplinary action for such misconduct.
+
+11
+
+26
+
+2.
+
+Lack of Candor in Interview under Oath with INSD Agents
+
+on May 9, 2017
+
+We concluded that McCabe lacked candor during an INSD interview under
+
+oath on May 9, 2017, when he falsely told the agents that he had not authorized
+
+the disclosure to the WSJ and did not know who did.
+
+Two INSD investigators
+
+testified to the OIG
+
+that they clearly recalled McCabe telling them under oath on May 9 that he did not
+
+know who authorized the disclosure of the PADAG call to the WSJ. The agents said
+
+that they provided McCabe with a copy of the article and had him initial it, gave him
+
+an opportunity to read it, and then discussed it with him. According to the agents,
+
+McCabe told them he recalled the article, yet claimed he had ano idea where [the
+
+account of the PADAG call] came froma or awho the source wasa for it. Moreover,
+
+McCabe told the agents that he had previously told others about the August 12 call
+
+with PADAG, leaving INSD SSA1 with the impression that INSD would anot [] get
+
+anywhere by askinga McCabe how many people could have known about what
+
+appeared to be a private conversation between him and PADAG. The agentsa
+
+recollections are corroborated by contemporaneous notes of the May 9 interview
+
+taken by one of the agents and by the draft SSS that INSD prepared for McCabeas
+
+signature within a few days of the interview (which McCabe never signed, despite
+
+INSDas repeated efforts to get him to do so). Moreover, McCabeas denial to the
+
+INSD agents was consistent with his responses to the OIG during his audiorecorded July 28 interview. We found that these FBI employees a who had nothing
+
+to gain and everything to lose if they did anything but tell the truth regarding the
+
+interview of the then-FBI Deputy Director a accurately and truthfully recounted the
+
+details of what occurred during McCabeas May 9 interview.
+
+By contrast, McCabeas account of this May 9 interview, which he provided to
+
+the OIG during his November 29 interview, was wholly unpersuasive. McCabe
+
+claimed that the INSD agents amust havea gotten it wrong when they wrote that he
+
+told them on May 9 that he did not authorize the conversation and that he did not
+
+know who the source was. Although McCabe said he did not believe that he denied
+
+authorizing the disclosure of the PADAG call during the interview, he could not
+
+provide any alternative account about what he actually said. Rather, McCabe
+
+stated that he could not remember what he told the INSD investigators. McCabe
+
+did not question the competence or good faith of the INSD interviewers, and also
+
+admitted that he could not explain why the investigators got the impression that
+
+McCabe had told them the WSJ article was an unauthorized leak. 12
+
+In a letter submitted by his counsel after reviewing a draft of this report, McCabe offers as
+
+an explanation for the inconsistent accounts of McCabe and the INSD agents that he was confused
+
+about what portion of the October 30 article he was being asked about, citing numerous other facts
+
+and quotes from anonymous FBI sources regarding the CF Investigation in the October 30 WSJ article.
+
+The investigative record is clear as to the portion of the WSJ article about which the INSD agents were
+
+questioning McCabe. According to INSD SSA 1as contemporaneous notes and testimony to the OIG,
+
+INSD specifically drew McCabeas attention to the portion of the October 30 WSJ article regarding the
+
+12
+
+27
+
+However, in an apparent effort to provide an excuse for his untruthful
+
+responses to INSD, McCabe sought to portray the discussion about the October 30
+
+article as essentially an afterthought by the agents. We found his description of the
+
+circumstances surrounding the interview to be demonstrably false. First, INSDSection Chief flatly contradicted McCabeas claim that, at the end of an unrelated
+
+meeting, as the agents were walking out of his office, one of them (INSD-Section
+
+Chief) pulled McCabe aside and asked him a question or two about the October 30
+
+article. Second, INSD-SSA1as two and half pages of notes of the meeting reflected
+
+that a significant portion of the interview related specifically to the account of the
+
+PADAG call that appeared in the October 30 article. Third, the agent that took the
+
+notes (INSD-SSA1) was not the agent (INSD-Section Chief) that McCabe claimed
+
+pulled him aside. Indeed, McCabe said that INSD-SSA1 and INSD-SSA2 (who did
+
+not attend the May 9 interview) were in the hallway outside of his office when he
+
+contends that INSD-Section Chief asked him about the disclosure of the PADAG call
+
+in the October 30 article, circumstances that INSD-Section Chief denied. Fourth,
+
+McCabe acknowledged that his initials were on a copy of the October 30 article that
+
+the agents gave him to review, as reflected in INSD-SSA1as notes. 13
+
+We also considered whether McCabe simply forgot that he had authorized the
+
+WSJ disclosure at the time of his May 9 INSD interview, and therefore made an
+
+honest mistake in telling INSD he did not know who did it. In three interviews
+
+under oath, including one with outside counsel, McCabe has never made this claim
+
+of a failed memory, and in any event we did not find this to be a persuasive
+
+explanation for his inaccurate statement given McCabeas other admissions.
+
+First, McCabe acknowledged that the PADAG call was a very memorable
+
+event in McCabeas career. It involved a dramatic confrontation between McCabe
+
+and the Principal Associate Deputy Attorney General, one of the highest ranking
+
+officials in the Department. McCabe told the OIG that, despite his long career in
+
+the FBI, he had never had a conversation alike this onea with a high level
+
+Department of Justice official before or since August 12, 2016.
+
+Second, McCabe told us this was the one and only time in his career that he
+
+authorized a disclosure to the media of an internal discussion with such a high level
+
+Department official.
+
+Third, McCabe was deeply involved in the disclosure by Special Counsel to
+
+Barrett; this was not a fleeting event but rather one that McCabe was involved in
+
+for the entire week. McCabe learned by October 25 about Barrettas intention to
+
+write about the CF Investigation. By October 27, McCabe had authorized Special
+
+August 12 PADAG call. SSA 1as testimony was further corroborated by INSD Section Chief who also
+
+noted that McCabe said he was disappointed that his conversation with the PADAG had appeared in
+
+the October 30 WSJ article. In addition, the draft SSS that the INSD agents sent to McCabe on May
+
+12 stated that McCabe was arequested to evaluate and assess the content and accuracy of the first
+
+three paragraphs appearing on the last pagea of the copy that McCabe acknowledged contained his
+
+initials, which was the portion of the article addressing the August 12 PADAG call.
+
+13
+
+was not.
+
+McCabe erroneously testified that INSD-SSA2 was present at the May 9 interview, but
+
+28
+
+Counsel and AD/OPA to discuss the investigation with Barrett. McCabe then closely
+
+followed the progress of their discussions, including having a 51 minute call with
+
+Special Counsel on October 27 between Special Counselas first and second calls that
+
+day with Barrett. McCabe also had conversations with Special Counsel on October
+
+28 close in time to her call with Barrett that day. Then, on October 30, the day the
+
+article appeared, McCabe called both NY-ADIC and W-ADIC to admonish them for
+
+the leaks that appeared in the article. The next day, October 31, McCabe had a
+
+conversation with Comey about the article. Finally, on November 4, the day after
+
+another WSJ article concerning the CF Investigation, which again included
+
+information about the McCabe-PADAG call, McCabe again admonished NY-ADIC for
+
+leaks in that article.
+
+Fourth, McCabe viewed the allegations that the WSJ reporter had told Special
+
+Counsel and AD/OPA that he would be writing about in the October 30 article as
+
+aincredibly damaginga to the credibility of the FBI, as well as an attack on his own
+
+integrity. The October 30 WSJ article challenged McCabeas leadership of the FBI
+
+directly and personally, specifically his oversight of the CF Investigation. We do not
+
+believe McCabe would have forgotten his own actions taken in connection with the
+
+publication of an article that was as memorable and personal as this one.
+
+Fifth, McCabe acknowledged that INSD showed him the October 30 WSJ
+
+article at the outset of the discussion and gave him an opportunity to read it, and
+
+that he initialed the article and told the agents that he remembered it.
+
+In light of the above circumstances, it seems highly implausible that McCabe
+
+forgot in May what he recalled in detail during his November OIG testimony: that
+
+he made an active choice to authorize Special Counsel and AD/OPA to disclose the
+
+PADAG call as the abest evidencea to rebut the assertion that McCabe and the FBI
+
+ordered the termination of a criminal investigation due to Department of Justice
+
+pressure. We therefore concluded that when McCabe told INSD in May that he did
+
+not know who authorized the disclosure to the WSJ, it was not due to a lack of
+
+memory. In our view, the evidence is substantial that it was done knowingly and
+
+intentionally.
+
+For these reasons, we concluded that McCabe violated FBI Offense Code 2.6
+
+(Lack of Candor a Under Oath) when he falsely told INSD agents on May 9, 2017,
+
+that he did not know who authorized the disclosure of the PADAG call to the WSJ.
+
+3.
+
+Lack of Candor in Interview under Oath with OIG
+
+Investigators on July 28, 2017
+
+We concluded that McCabe lacked candor during his OIG audio-recorded
+
+interview under oath on July 28, 2017, when he falsely stated that: (a) he was not
+
+aware of Special Counsel being authorized to speak to reporters around October 30
+
+and (b) he did not know, because he was out of town, awhere [Special Counsel]
+
+was or what she was doinga during the relevant time period.
+
+First, with regard to McCabeas claim that he was not aware of Special Counsel
+
+being authorized to speak to reporters around October 30, that claim was
+
+29
+
+essentially the same false denial that McCabe made to the two INSD agents on May
+
+9, except this time the false denial was made in an audio-recorded interview. Thus,
+
+McCabe cannot deny that he made the statement, as he has attempted to do with
+
+regard to his May 9 response to INSD agents. Instead, McCabe asserted in his
+
+November 29 OIG interview that he amisspokea during the July 28 interview
+
+because he was surprised by the topic being raised during that interview and had
+
+not thought about the October 30 article in aquite a long time.a However, McCabe
+
+was shown the article and asked questions about it less than 3 months earlier in the
+
+May 9 INSD interview. Moreover, in neither the OIG July interview nor the May 9
+
+INSD interview did McCabe indicate that he lacked recollection or needed more time
+
+to think about the matter. As Deputy Director, McCabe well knew the significance
+
+of OIG and INSD investigations, and of the importance of being truthful when
+
+questioned under oath by agents from those Offices. Moreover, McCabe was a
+
+trained law enforcement officer with roughly 20 years of law enforcement
+
+experience. On this record, we do not credit his claim that his unequivocal denials
+
+under oath, on two occasions within 3 months of one another, were the result of
+
+being surprised by the questions.
+
+Second, with regard to McCabeas claim that he did not know where Special
+
+Counsel was or what she was doing during the relevant time period, FBI records
+
+show that McCabe was in frequent telephone and text communication with Special
+
+Counsel during that time period and had several communications with her regarding
+
+her calls with Barrett, including a 51 minute call after her first call with Barrett and
+
+a 23 minute call after her final call with Barrett. McCabeas own text messages
+
+reflect that McCabe was keenly interested to learn about the results of Special
+
+Counselas calls with Barrett. We therefore found that McCabeas claimed ignorance
+
+regarding Special Counselas activities on those days was demonstrably false.
+
+For these reasons, we concluded that McCabe violated FBI Offense Code 2.6
+
+(Lack of Candor a Under Oath) when he falsely told the OIG on July 28, 2017, that:
+
+(a) he was not aware of Special Counsel being authorized to talk to reporters and
+
+(b) he did not know what Special Counsel was doing at the relevant time because
+
+he was out of town. 14 In reaching this conclusion, we took note of the fact that
+
+14 In response to review a draft of this report, counsel for McCabe argued that, in asking
+
+McCabe about the October 27-30 texts between Special Counsel and DAD regarding the WSJ article,
+
+the OIG engaged in improper and unethical conduct, and violated an allegedly explicit agreement with
+
+McCabe that when he was interviewed by the OIG on July 28 he would not be questioned outside the
+
+presence of counsel with respect to matters for which he was being investigated. McCabe provides no
+
+evidence in support of his claim, and based on the OIGas review of the available evidence, including
+
+the transcript of McCabeas recorded OIG interview on July 28 and the OIGas contemporaneous notes,
+
+as described below, McCabeas claim is contradicted by the investigative record.
+
+As an initial matter, at the time of the July 28 interview, McCabe was not a subject of an OIG
+
+investigation of disclosures in the October 30 WSJ article, nor did the OIG suspect him of having been
+
+the source of an unauthorized disclosure of non-public information related to that article. The OIG did
+
+not open its investigation of McCabe concerning the WSJ article until August 31, after being informed
+
+by INSD that McCabe had provided INSD agents with information on August 18, 2017, that
+
+contradicted the information that he had provided to INSD agents on May 9.
+
+Second, the OIG has no record that McCabe stated in advance of the July 28 interview that he
+
+was represented by counsel. Moreover, the recording of the July 28 interview shows that at no time
+
+30
+
+McCabe called the OIG 4 days later, on August 1, and indicated that he had been
+
+thinking about the questions he had been asked and believed that he may have
+
+authorized Special Counsel to work with AD/OPA and Barrett on the follow-up WSJ
+
+article. McCabeas call to the OIG on August 1 to attempt to correct his prior false
+
+testimony to the OIG was the appr

@@ -1,0 +1,52 @@
+Did the U.S. State Department Legalize the Publication of Instructions for 3D-Printed Guns?
+On 5 May 2013, an Austin-based non-profit named Defense Distributed uploaded software and schematic files that allowed for the creation of a fully functional, 3D-printed plastic gun they dubbed “The Liberator,” as Forbes magazine reported at the time:
+
+All sixteen pieces of the Liberator prototype were printed in ABS plastic with a Dimension SST printer from 3D printing company Stratasys, with the exception of a single nail that’s used as a firing pin. The gun is designed to fire standard handgun rounds, using interchangeable barrels for different calibers of ammunition.
+
+Just days later the State Department’s Office of Defense Trade Controls Compliance wrote to Defense Distributed founder Cody Wilson demanding the removal of those files from the internet. The State Department’s argument was that the information presented on Defense Distributed’s website constituted an “export” of weapons in violation of the Arms Export Control Act and International Traffic in Arms Regulations (ITAR):
+
+Technical data regulated under the ITAR refers to information required for the design, development, production, manufacture, assembly, operation, repair, testing, maintenance or modification of defense articles, including information in the form of blueprints, drawings, photographs, plans, instructions or documentation.
+
+The State Department required that Wilson remove the files from the internet until he had applied for specific approval for various elements of the gun. Wilson took down the files, but, along with the guns-rights organization Second Amendment Foundation, he filed a lawsuit in the Western District of Texas against the State Department seeking a preliminary injunction that would allow Defense Distributed to continue to publishing the Liberator schematics online.
+
+The Western District of Texas court denied the request, and Defense Distributed appealed that ruling to the 5th Circuit Federal Court, which also denied the request. Defense Distributed then appealed that decision to the U.S. Supreme Court. The Supreme Court declined to hear arguments on the case on 8 January 2018, essentially upholding the 5th Circuit Court’s decision.
+
+The State Department Settles with Defense Distributed
+
+On 10 July 2018, however, Defense Distributed and the Second Amendment Foundation announced that they had accepted a settlement agreement with the State Department. That agreement, in effect, will allow Defense Distributed to post designs for 3D printed guns online, and as part of the agreement the State Department will be required to issue a letter specifically stating that 3D printed designs do not fall under ITAR rules:
+
+[The State Department shall produce] a letter to Plaintiffs on or before July 27, 2018, signed by the Deputy Assistant Secretary for Defense Trade Controls, advising that the Published Files, Ghost Gunner Files, and CAD Files are approved for public release (i.e., unlimited distribution) in any form and are exempt from the export licensing requirements of the ITAR …
+
+In a related press release, the Second Amendment Foundation described the ruling as a “victory for free speech” and a “devastating blow to the gun prohibition lobby.” The settlement agreement stated that designs for any non-automatic firearms up to .50-caliber, including the AR-15 semi-automatic rifle, could be distributed online:
+
+Under terms of the settlement, the government has agreed to waive its prior restraint against the plaintiffs, allowing them to freely publish the 3-D files and other information at issue. The government has also agreed to pay a significant portion of the plaintiffs’ attorney’s fees … Significantly, the government expressly acknowledges that non-automatic firearms up to .50-caliber — including modern semi-auto sporting rifles such as the popular AR-15 and similar firearms — are not inherently military.
+
+On their website, Defense Distributed declared that “the age of the downloadable gun begins” 1 August 2018, the date on which Wilson plans to upload various gun designs. Wilson’s plans have raised alarm among gun control advocates, with critics of the government’s agreement saying that it represents a changing political climate at the U.S. State Department and not an actual reinterpretation of the law, as reported by the New York Times:
+
+The willingness to resolve the case — after the government had won some lower court judgments — has raised alarms among gun-control advocates, who said it would make it easier for felons and others to get firearms. Some critics said it suggested close ties between the Trump administration and gun-ownership advocates, filing requests for documents that might explain why the government agreed to settle. The administration “capitulated in a case it had won at every step of the way,” said J. Adam Skaggs, the chief counsel for the Giffords Law Center to Prevent Gun Violence. “This isn’t a case where the underlying facts of the law changed. The only thing that changed was the administration.”
+
+The Broader Legal Ramifications
+
+Speaking to us by phone, Eugene Volokh, a professor at UCLA’s School of Law and an expert on First and Second Amendment issues, explained to us that in a strictly legal sense, a settlement agreement does not constitute an official court-mandated precedent. In a practical sense, however, the ruling will likely embolden other similar groups to design and publish similar schematics, he noted:
+
+What sets a precedent? A published opinion from a court, preferably an appellate court. But that’s in the narrow sense, the way lawyers would talk about this precedent. If you’re asking whether this settlement will have broader effect on other companies, the answer is absolutely. This is the federal government, and the federal government usually tries to be fairly consistent in its actions, and it can be easily called on by people if it’s being inconsistent. So the settlement, I think, will have substantial practical effect. Not just in Defense Distributed, but on other companies that are doing similar enough things.
+
+Though this case was brought to the courts with the help of a Second Amendment advocacy group, Volokh said he feels Defense Distributed’s case is primarily a First Amendment issue:
+
+[Cody Wilson] is helping promote Second Amendment rights of others, but it’s not clear he would have strong enough interest in their rights. And it’s also not clear that the restriction would burden their rights that much under existing Second Amendment case law. So my suspicion is that the Second Amendment argument wasn’t something that the federal government viewed as particularly impressive. On the other hand, the First Amendment argument, that’s the one that the four judges on the Fifth Circuit were particularly moved by. And I think it’s quite a plausible argument about Defense Distributed’s own rights. It says we want to put up information … and you are stopping us from doing that and stopping us from communicating to other Americans about this sort of thing. So that’s a pretty serious argument.
+
+Where Does the Government Draw the Line on Dangerous Information?
+
+An obvious hypothetical scenario to test the limits of free speech might be whether someone could publicly post detailed instructions on how to make a hydrogen bomb online. As it turns out, this exact question was briefly handled by the courts in the late 1970s when the liberal magazine The Progressive sought to publish a meticulously researched article titled “The H-Bomb Secret: How We Got It, Why We’re Telling It.” That article purported to reveal how the U.S. Government built the powerful hydrogen bomb.
+
+The article did not reveal classified information, relying only on publicly available information, but the U.S. Department of Energy sought to block the article’s publication by asserting it was a violation of the Atomic Energy Act. That act, in part, “prohibits anyone from communicating, transmitting or disclosing any restricted data to any person with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation.”
+
+The US District Court for the Western District of Wisconsin laid bare the central problem the Progressive‘s case posed to the court and the country:
+
+A mistake in ruling against The Progressive will seriously infringe cherished First Amendment rights. If a preliminary injunction is issued, it will constitute the first instance of prior restraint against a publication in this fashion in the history of this country, to this Court’s knowledge. A mistake in ruling against the United States could pave the way for thermonuclear annihilation for us all. In that event, our right to life is extinguished and the right to publish becomes moot.
+
+In this instance, the Court did issue a preliminary injunction on 28 March 1979 blocking the publication of the article, but the case was never decided on its merits — it was dismissed when another publication beat the Progressive to the punch with a similar story that included details on how to build a bomb.
+
+As of 1 August 2018, Defense Distributed will start publishing detailed steps on how to create a variety of guns that require no registration or background check to manufacture. While the broader issue may well be litigated further, the current stance of the U.S. State Department is that Defense Distributed will not be violating any export control laws when they do so.
+
+Update: On 31 July 2018, U.S. District Court Judge Robert Lasnik granted a temporary restraining order barring Defense Distributed from posting their files online. A hearing for this federal case is scheduled for 10 August 2018. In addition, several states have entered into legal action against the company.

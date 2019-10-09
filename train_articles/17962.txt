@@ -1,0 +1,89 @@
+The Administrative Procedure Act (APA)
+
+The Administrative Procedure Act (APA) governs internal procedures of administrative agencies, including how they interact with the public. The APA is codified at 5 U.S.C. §§ 551-559, and encompasses the Freedom of Information Act (FOIA) (5 U.S.C. § 552) and the Privacy Act (5 U.S.C. § 552a). The APA defines an "agency" broadly, and does not explicitly exclude the Office of the President, though it is generally believed that Congress would have to expressly act in order to apply APA requirements to the President.
+
+The APA serves to police improper agency behavior, protect public safety, and secure proper entitlements. The APA governs all three main agency functions: rulemakings, adjudications, and licensing.
+
+Rulemakings
+
+The APA defines a "rule" as "the whole or a part of an agency statement of general or particular applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the organization, procedure, or practice requirements of an agency and includes the approval or prescription for the future of rates, wages, corporate or financial structures or reorganizations thereof, prices, facilities, appliances, services or allowances therefore or of valuations, costs, or accounting, or practices bearing on any of the foregoing." In short, an agency creates a rule when it seeks to "implement, interpret, or prescribe law or policy."
+
+The APA describes a particular rulemaking process with which agencies are required to comply. Typically, the agency must give a notice of a proposed rulemaking, published in the Federal Register. The Federal Register "is the official daily publication for rules, proposed rules, and notices of Federal agencies and organizations, as well as executive orders and other presidential documents." The notice must include the date the rule will come into effect, the legal authority the agency has proposed the rule under, and the substance of the rule.
+
+After notice is given, the agency is required to solicit and accept public comments on the rule. There is no minimum period specified for the comment period to remain open, and it often varies with the complexity of the rule. Most comment periods last between 30 and 60 days, and some are re-opened if the agency believes that there was insufficient time for the public to respond or that the agency did not receive as much feedback as it would like. The agency must then consider all of the comments that are submitted in passing the final rule.
+
+In certain cases, an agency must undergo a formal rulemaking, which requires a courtroom-style hearing. During formal rulemaking, decisions are reached on the basis of evidence given and received on the record. Formal rulemaking is appropriate in two cases: (1) where a statute provides that rules are "required to be made on the record after opportunity for an agency hearing"; and (2) in rulemakings that involve adjudicative facts, or facts specific to the rights of an individual. A statute that requires more than an informal notice and comment rulemaking, but is less stringent than a formal rulemaking, may result in a hybrid rulemaking that blends elements of each.
+
+The APA also describes certain cases where the notice and comment rulemaking process is not required, including 2 general exceptions and 2 specific exceptions:
+
+General Exception 1: the Rule involves a military or foreign affairs function of the United States
+
+General Exception 2: The Rules involves a matter relating to agency management or personally or to public property, loans, grants, benefits, or contracts
+
+Specific Exception 1: Cases of interpretative rules, general statements of policy, or rules of agency organizations, procedure, or practice
+
+Specific Exception 2: When the agency finds for good cause that the notice and comment process is impracticable, unnecessary, or contrary to the public interest.
+
+Adjudications
+
+Note that courts employ a functional analysis to determine if a rule is procedural or substantive, in that substantive rules embody value judgments or substantially alter the rights or interests of parties (see Air Transp. Ass'n of Am. v. Dep't of Transp., 900 F.2d 369). Also, under Specific Exception 2, the agency's own delay cannot bring about good cause that the notice and comment process is impracticable, unnecessary, or contrary to the public interest.
+
+Like rulemakings, adjudications come in two forms - formal and informal. A formal adjudication is expressly required by statute to be held "on the record after opportunity for an agency hearing," though certain limited exceptions apply. The APA does not set out rules for informal adjudications, leaving it to each agency to determine its own procedures. However, formal adjudications require the same measures as formal rulemakings, including evidence introduced on the record.
+
+Notice must be given to an individual subject to a formal adjudication, including the time, place, and nature of the hearing, the legal authority and jurisdiction, and the matters of asserted fact and law. An agency does not need to have a private party plaintiff - instead an agency can choose to initiate action to explore an issue or an alleged violation of some law or rule (see Office of Communication of United Church of Christ v. FCC, 359 F.2d 994). However, when a private party would have standing to appeal a decision, they will also have the right to intervene in a formal adjudication.
+
+Formal hearings (and rulemakings) are presided over by an Administrative Law Judge (ALJ). The ALJ renders a final decision on the record, which can be held as final or appealed to the full agency. Final agency decisions are subject to judicial review.
+
+Adjudications are subject to due process requirements when two requirements are met: (1) the hearing involves issues of adjudicative facts, or facts that effect a small, individualized group, and (2) the hearing involves the possibility of a deprivation of a property or liberty interest. That interest must be created and defined by existing rules or understandings that stem from independent sources (see Board of Regents v. Roth, 408 U.S. 564).
+
+Licensing
+
+When a license is required by a law, the agency in granting that license must comply with the same procedures governing formal rulemaking and adjudication. Application for all other licenses is governed by internal agency rules. An agency cannot revoke a license while an application for a new license remains pending. Further, licenses cannot be revoked unless the agency gives notice as to what action has provided cause for the revocation and has allowed the licensee an opportunity to correct that action.
+
+Judicial Review
+
+Final agency decisions are subject to judicial review. Generally, challenges to agency regulations have a six-year statute of limitations.
+
+Scope of Review
+
+The reviewing court shall decide "all relevant questions of law, interpret constitutional and statutory provisions, and determine the meaning or applicability of the terms of an agency action." The reviewing court must (A) compel agency action that was either "unlawfully withheld or unreasonably delayed" and (B) find unlawful and "set aside agency action, findings, and conclusions" that are: (1) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; (2) contrary to constitutional right, power, privilege, or immunity; (3) in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; (4) without observance of procedure required by law; (5) unsupported by substantial evidence in a case subject to sections 556 and 557 of Title 5 (Government Organization and Employees) of the United States Code or otherwise reviewed on the record of an agency hearing provided by statute; or (6) unwarranted by the facts to the extend that the facts are subject to trial de novo by the reviewing court.
+
+Standards of Review
+
+There are three standards of review: (1) substantial evidence; (2) arbitrary and capricious; and (3) statutory interpretation.
+
+The "substantial evidence" standard of review is required for formal rulemaking and formal adjudication. Courts are required to uphold a rule if they find the agency's decision to be "reasonable, or the record contains such evidence as a reasonable mind might accept as adequate to support a conclusion." Agency actions that are invalidated by substantial evidence review are typically abandoned.
+
+The "arbitrary and capricious" standard is mainly applied to informal rulemakings. In Citizens to Preserve Overton Park v. Volpe (401 U.S. 402), the Supreme Court held that in order to find agency decisions arbitrary in informal adjudications, courts must first "consider whether the decision was based on a consideration of the relevant factors and whether there has been a clear error of judgment." In performing this inquiry, courts cannot inquire as to why agencies relied upon particular data to make their decisions; however, courts can inquire as to what data the agency reviewed. Typically, when agency action is invalidated under the arbitrary and capricious standard of review, the action is remanded to the agency to substantiate the record. In the Motor Vehicle Manufacturers Association of the United States, Inc. v. State Farm Mutual Automobile Insurance, the Supreme Court held that "the agency nevertheless must examine the relevant data and articulate a satisfactory explanation for its action" including a "rational connection between facts and judgment . . . to pass muster under the 'arbitrary and capricious' standard."
+
+The "statutory interpretation" standard of review involves a two-step analysis, which derived from Chevron, U.S.A., Inc. v. Natural Resources Defense Council (468 U.S. 1227). Under Chevron, courts must first assess whether Congress has spoken to the "precise question at issue." To do this, courts must look to the language and design of the statute, as well as look to the traditional canons of construction. If the court finds that Congress has not directly addressed the precise issue, the court must then determine if the agency's action is based on a "permissible construction of the statute." Under Chevron, legislative regulations are given deference unless they are arbitrary, capricious, or manifestly contrary to the statute.
+
+Mixed Judicial Review
+
+Mixed judicial review encompasses judicial review of both law and fact. Judicial review of law investigates the statutory authority that permits the agency to make its regulation; judicial review of fact investigates the agency's factual findings that guided its decision-making process.
+
+Standing
+
+Persons who suffer a "legal wrong because of agency action" or are "adversely affected or aggrieved by agency action within the meaning of a relevant statute" has standing to receive judicial review of the agency's action (5 U.S.C. § 702). There are four elements that must be proven to gain judicial review: (1) injury in fact; (2)causation; (3) redressability; and (4) zone of interest.
+
+Injury in Fact
+
+In Sierra Club v. Morton (405 U.S. 727), the Supreme Court held that agency action which affected environmental, aesthetic, or recreational interest, could qualify as injury in fact for standing purposes. The Supreme Court also held that agency action must directly affect personal interests, not simply those of a corporation. Additionally, if government action or inaction injures a third person in a direct fashion, that person has suffered sufficient injury in fact for standing purposes.
+
+Causation
+
+Causation is the connection between the injury and the agency action.
+
+Redressability
+
+Redressability analyzes whether judicial review of agency action is likely to bring relief to the complaining party.
+
+Zone of Interest
+
+The"zone of interest" requires the complaining party to demonstrate that her injury is the type of injury protected by the statute or regulation.
+
+EPIC's APA Comments
+
+Since 1997, EPIC has consistently submitted extensive public comments to federal agencies pursuant to the APA. EPIC has also submitted administrative comments to state and international agencies. Through these comments, EPIC makes detailed recommendations, grounded in both policy and law, for stronger privacy protection. A list of comments that EPIC has submitted since 1997 can be found at EPIC: EPIC Administrative Procedure Act (APA) Comments.
+
+Resources

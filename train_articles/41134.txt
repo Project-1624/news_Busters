@@ -1,0 +1,120 @@
+Human Cell Strains in Vaccine Development
+Animals have been used in the industrialized production of human vaccines since vaccine farms were established to harvest cowpox virus from calves in the late 1800s. From that point, and through the first half of the 20th century, most vaccines would continue to be developed with the use of animals, either by growing pathogens in live animals or by using animal cells.
+
+Although many vaccines and anti-toxin products were successfully developed this way, using animals in vaccine development – particularly live animals – is not ideal. Research animals are costly and require extensive monitoring, both to maintain their health and to ensure the continued viability of the research. They may be carrying other bacteria or viruses that could contaminate the eventual vaccine, as with polio vaccines from the mid 20th century that were made with monkey cells and eventually found to contain a monkey virus called SV40, or Simian Virus 40. (Fortunately, the virus was not found to be harmful to humans.) Moreover, some pathogens, such as the chickenpox virus, simply do not grow well in animal cells.
+
+Even when vaccine development is done using animal products and not live animals – such as growing influenza vaccine viruses in chicken eggs – development can be hindered or even halted if the availability of the animal products drops. If an illness were to strike the egg-producing chickens, for example, they might produce too few eggs to be used in the development of seasonal flu vaccine, leading to a serious vaccine shortage. (It’s a common misconception that influenza vaccines could be produced more quickly if grown in cell cultures compared to using embryonated chicken eggs. In fact, growing the vaccine viruses in cell cultures would take about the same amount of time. However, cell cultures do not have the same potential availability issues as chicken eggs.)
+
+For these and other reasons, using cell culture techniques to produce vaccine viruses in human cell strains is a significant advance in vaccine development.
+
+How Cell Cultures Work
+
+Cell cultures involve growing cells in a culture vessel. A primary cell culture consists of cells taken directly from living tissue and never subcultivated, and may contain multiple types of cells such as fibroblasts, epithelial, and endothelial cells.
+
+A cell strain is a cell culture that contains only one type of cell in which the cells are normal and have a finite capacity to replicate. Cell strains can be made by taking subcultures from an original, primary culture until only one type remains. Primary cultures can be manipulated in many different ways in order to isolate a single type of cell; spinning the culture in a centrifuge can separate large cells from small ones, for example. An immortalized cell line is a cell culture of a single type of cell that can reproduce indefinitely. Normally, cells are subject to the Hayflick Limit, a rule named for cell biologist Leonard Hayflick, PhD. Hayflick determined that a population of normal human cells will reproduce only a finite number of times before they cease to reproduce. However some cells in culture have undergone a mutation, or they have been manipulated in the laboratory, so that they reproduce indefinitely. One example of an immortalized cell line is the so-called HeLa cell line, started from cervical cancer cells taken in the 1950s from a woman named Henrietta Lacks. Cell lines are not used to produce vaccine virus.
+
+Researchers can grow human pathogens like viruses in cell strains to attenuate them – that is, to weaken them. One way viruses are adapted for use in vaccines is to alter them so that they are no longer able to grow well in the human body. This may be done, for example, by repeatedly growing the virus in a human cell strain kept at a lower temperature than normal body temperature. In order to keep replicating, the virus adapts to become better at growing at the lower temperature, thus losing its original ability to grow well and cause disease at normal body temperatures. Later, when it’s used in a vaccine and injected into a living human body at normal temperature, it still provokes an immune response but can’t replicate enough to cause illness.
+
+Vaccines Developed Using Human Cell Strains
+
+The first licensed vaccine made with the use of a human cell strain was the adenovirus vaccine used by the military in the late 1960s. Later, other vaccines were developed in human cell strains, most notably the rubella vaccine developed by Stanley Plotkin, MD, at the Wistar Institute in Philadelphia.
+
+In 1941, Australian ophthalmologist Norman Gregg first realized that congenital cataracts in babies were the result of their mothers being infected with rubella during pregnancy. Along with cataracts, it was eventually determined that congenital rubella syndrome (CRS) could also cause deafness, heart disease, encephalitis, mental retardation, and pneumonia, among many other conditions. At the height of a rubella epidemic that began in Europe and spread to the United States in the mid-1960s, Plotkin calculated that 1% of all births at Philadelphia General Hospital were affected by congenital rubella syndrome. In some cases, women who were infected with rubella while pregnant terminated their pregnancies due to the serious risks from CRS.
+
+Following one such abortion, the fetus was sent to Plotkin at the laboratory he had devoted to rubella research. Testing the kidney of the fetus, Plotkin found and isolated the rubella virus. Separately, Leonard Hayflick (also working at the Wistar Institute at that time) developed a cell strain called WI-38 using lung cells from an aborted fetus. Hayflick found that many viruses, including rubella, grew well in the WI-38, and he showed that it proved to be free of contaminants and safe to use for human vaccines.
+
+Plotkin grew the rubella virus he had isolated in WI-38 cells kept at 86°F (30°C), so that it eventually grew very poorly at normal body temperature. (He chose the low temperature approach following previous experiences with attenuating poliovirus.) After the virus had been grown through the cells 25 times at the lower temperature, it was no longer able to replicate enough to cause illness in a living person, but was still able to provoke a protective immune response. The rubella vaccine developed with WI-38 is still used throughout much of the world today as part of the combined MMR (measles, mumps, and rubella) vaccine.
+
+Ethical Issues with Human Cell Cultures
+
+Although it has now been used in the United States for more than 30 years, Plotkin’s rubella vaccine was initially ignored by the U.S. Food and Drug Administration in favor of rubella vaccines developed using duck embryo cells and dog kidney cells. In the late 1960s, there was concern in the country that a vaccine developed using human cells could be contaminated with other pathogens, though this concern was not supported by documented evidence. This is interesting in light of the discovery earlier in the decade that polio vaccines developed using primary monkey kidney cells were contaminated with simian viruses: this was one of the reasons researchers began using the normal human cell strain WI-38 in the first place. According to Hayflick, however, the main reason for using WI-38 was the fact that it could be stored in liquid nitrogen, reconstituted, and tested thoroughly before use for contaminating viruses. (None has ever been found in WI-38.) Primary monkey kidney cells could not be frozen and then reconstituted for testing as this would violate the concept of primary cells--originally the only class of cells allowed by the FDA to produce human virus vaccines.
+
+After testing, Plotkin’s vaccine was first licensed in Europe in 1970 and was widely used there with a strong safety profile and high efficacy. In light of that data, and of larger side effect profiles with the other two rubella vaccines, it was licensed in the United States in 1979 and replaced the rubella vaccine component that had been previously been used for Merck’s MMR (measles, mumps, rubella) combination vaccine. In 2005 the CDC declared rubella eliminated from the United States, though the threat from imported cases remains. The World Health Organization declared the Americas free from rubella in 2015.
+
+Groups that object to abortion have raised ethical questions about Plotkin’s rubella vaccine (and other vaccines developed with similar human cell strains) over the years.
+
+Because of its position on abortion, some members of the Catholic Church asked for its moral guidance on the use of vaccines developed using cell strains started with human fetal cells. This includes the vaccine against rubella as well as those against chickenpox and hepatitis A, and some other vaccines. The official position according to the National Catholic Bioethics Center is that individuals should, when possible, use vaccines not developed with the use of these human cell strains. However, in the case where the only vaccine available against a particular disease was developed using this approach, the NCBC notes:
+
+One is morally free to use the vaccine regardless of its historical association with abortion. The reason is that the risk to public health, if one chooses not to vaccinate, outweighs the legitimate concern about the origins of the vaccine. This is especially important for parents, who have a moral obligation to protect the life and health of their children and those around them.
+
+The NCBC does note that Catholics should encourage pharmaceutical companies to develop future vaccines without the use of these cell strains. To address concerns about fetal cells remaining as actual ingredients of the vaccines, however, they specifically note that fetal cells were used only to begin the cell strains that were used in the preparation of the vaccine virus:
+
+Descendant cells are the medium in which these vaccines are prepared. The cell lines under consideration were begun using cells taken from one or more fetuses aborted almost 40 years ago. Since that time the cell lines have grown independently. It is important to note that descendant cells are not the cells of the aborted child. They never, themselves, formed a part of the victim's body.
+
+In total only two fetuses, both obtained from abortions done by maternal choice, have given rise to the human cell strains used in vaccine development. Neither abortion was performed for the purpose of vaccine development.
+
+Current Vaccines Developed Using Human Cell Strains
+
+Two main human cell strains have been used to develop currently available vaccines, in each case with the original fetal cells in question obtained in the 1960s. The WI-38 cell strain was developed in 1962 in the United States, and the MRC-5 cell strain (also started with fetal lung cells) was developed, using Hayflick's technology, in 1970 at the Medical Research Center in the United Kingdom. It should be noted that Hayflick's methods involved establishing a huge bank of WI-38 and MRC-5 cells that, while not capable of infinitely replicating like immortal cell lines, will serve vaccine production needs for several decades in the future.
+
+The vaccines below were developed using either the WI-38 or the MRC-5 cell strains.
+
+Hepatitis A vaccines [VAQTA/Merck, Havrix/GlaxoSmithKline, and part of Twinrix/GlaxoSmithKline]
+
+Rubella vaccine [MERUVAX II/Merck, part of MMR II/Merck, and ProQuad/Merck]
+
+Varicella (chickenpox) vaccine [Varivax/Merck, and part of ProQuad/Merck]
+
+Zoster (shingles) vaccine [Zostavax/Merck]
+
+Adenovirus Type 4 and Type 7 oral vaccine [Barr Labs] *
+
+Rabies vaccine [IMOVAX/Sanofi Pasteur] *
+
+* Vaccine not routinely given
+
+Researchers have estimated that vaccines made in WI-38 and its derivatives have prevented nearly 11 million deaths and prevented (or treated, in the example of rabies) 4.5 billion cases of disease.
+
+Several vaccines currently available in the United States were developed using animal cell strains, primarily using cells from African green monkeys. These include vaccines against Japanese encephalitis, rotavirus, polio, and smallpox. Of these, only rotavirus and polio vaccines are routinely given.
+
+Sources and Additional Reading
+
+Alberts, B., Johnson, A., Lewis, J., et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002.
+
+Barr Labs. (2011). Package Insert - Adenovirus Type 4 and Type 7 Vaccine, Live, Oral. (179 KB). Accessed 01/10/2018.
+
+Centers for Disease Control and Prevention. (2005). Elimination of rubella and congenital rubella syndrome--United States, 1969-2004. MMWR Morb. Mortal. Wkly. Rep. 54(11): 279–82. Accessed 01/10/2018.
+
+GlaxoSmithKline. (2011). Package Insert – Havrix. (123 KB). Accessed 01/10/2018.
+
+GlaxoSmithKline. (2011). Package Insert – Hepatitis A Inactivated & Hepatitis B (Recombinant) Vaccine. (332 KB). Accessed 01/10/2018.
+
+Hayflick, L., Moorhead, P.S. The serial cultivation of human diploid cell strains. Experimental Cell Research. 1961; 25(3):585. Accessed 01/10/2018.
+
+Hayflick, L. Personal correspondence. April 2017.
+
+Hayflick, L., Plotkin, S.A., Norton, T.W., Koprowski, H. Preparation of poliovirus vaccines in a human fetal diploid cell strain. Am J Hyg. 1962 Mar;75:240-58.
+
+Lindquist, J.M., Plotkin, S.A., Shaw, L., Gilden, R.V., Williams, M.L. Congenital rubella syndrome as a systemic infection: studies of affected infants born in Philadelphia, USA. Br Med J 1965;2:1401-6.
+
+Merck & Co, Inc. (2009). Package Insert – Measles, Mumps, and Rubella Virus Vaccine Live. (196 KB). Accessed 01/10/2018.
+
+Merck & Co, Inc. (2006). Package Insert – MERUVAX II. (88.6 KB). Accessed 01/10/2018.
+
+Merck & Co, Inc. (2010). Package Insert – Refrigerator-Stable Formulation – ProQuad. (448 KB). Accessed 01/10/2018.
+
+Merck & Co, Inc. (2017). Package Insert -- Rotateq. (88.6 KB). Accessed 01/10/2018.
+
+Merck & Co, Inc. (2011). Package Insert – VAQTA – Hepatitis A Vaccine, Inactivated. (332 KB). Accessed 01/10/2018.
+
+Merck & Co, Inc. (2010). Package Insert – Varivax (Frozen). (220 KB). Accessed 01/10/2018.
+
+Merck & Co, Inc. (2011). Package Insert – Zostavax. (159 KB). Accessed 01/10/2018.
+
+National Catholic Bioethics Center. (2006). FAQ on the Use of Vaccines. Accessed 01/10/2018.
+
+Olshansky, S.J., Hayflick, L. (2017). The role of the WI-38 cell strain in saving lives and reducing morbidity. AIMS Public Health; 4(2):137-148. Accessed 01/10/2018.
+
+Plotkin, S.A., Orenstein, W.A., Offit, P.A., eds. Vaccines. Philadelphia: Saunders; 2008. Plotkin, S.A. The History of Rubella and Rubella Vaccination Leading to Elimination. Clin Infect Dis. 2006 43 (Supplement 3): S164-S168.
+
+Sanofi Pasteur. (2009). Package Insert – ACAM2000. (285 KB). Accessed 01/10/2018.
+
+Sanofi Pasteur. (2013). Package Insert – IMOVAX. (213 KB). Accessed 01/10/2018.
+
+Sanofi Pasteur. (2015). Package Insert – IPOL. (213 KB). Accessed 01/10/2018.
+
+Sgreccia, E. (2005). Statement from the Pontifical Academy for Life, including English translation of “Moral Reflections on Vaccines Prepared from Cells Derived from Aborted Human Foetuses.” Accessed 01/10/2018.
+
+To read PDFs, download and install Adobe Reader.
+
+Last update 10 January 2018

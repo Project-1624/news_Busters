@@ -1,0 +1,42 @@
+Handle Problem Report (Library of Congress)
+To help you access digital resources created by the Library of Congress, the Library identifies these resources using a URL link that remains the same regardless of where the resource is located. These persistent identifiers are called "handles."
+
+For example, the Library of Congress' digital copy of Pierre L'Enfant's map, Plan of the city of Washington, has the following persistent link (or handle):
+
+http://hdl.loc.gov/loc.gmd/g3850.ct000509
+
+There is a problem with the Library of Congress handle you are accessing:
+
+loc.uscongress/legislation.111hr3590
+
+Possible reasons for this error include:
+
+> the handle has not been created by the Library
+
+> the handle is cited incorrectly in your source
+
+> the handle does not resolve due to system problems
+
+Please use this form to report your handle problem. We welcome your feedback.
+
+Name
+
+
+
+
+
+E-Mail (required for response)
+
+
+
+
+
+The web address where you encountered the handle problem:
+
+
+
+
+
+
+
+<p><p>The original error: HandleException (INTERNAL_ERROR) Error connecting: java.sql.SQLException: Io exception: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=153094144)(ERR=12500)(ERROR_STACK=(ERROR=(CODE=12500)(EMFI=4))(ERROR=(CODE=12547)(EMFI=4))(ERROR=(CODE=12560)(EMFI=4))(ERROR=(CODE=517)(EMFI=4))(ERROR=(BUF='IBM/AIX RISC System/6000 Error: 32: Broken pipe'))))

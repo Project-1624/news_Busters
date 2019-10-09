@@ -1,0 +1,213 @@
+0714 chriskpftexas
+
+Email, Caroline Neary, associate director, the Center for Social Measurement & Evaluation, Children at Risk Institute, July 17, 2014
+
+6:19 p.m.
+
+I completely understand Lori’s reasoning. As you mentioned she is on one of our advisory boards, but she has not been involved in our graduation rate development.
+
+Of course we know that every student who moves from public school to private school (or another state, or their home country) isn’t actually a dropout, even though our model does assume this. Since there is no way to independently verify leaver codes, it is all or nothing in using them. We choose to use this more conservative estimate as a counterpoint to the state’s rates. We don’t claim to have a perfect calculation for exact graduation rates, but we are transparent in our method.
+
+The numbers seen below that we provided to Patrick’s office are the C@R 4-yea, on-time graduation rates for the class of 2012. Our rates don’t match perfectly with what Lori replicated at the bottom of her email because we actually have slightly different numbers from those found on the TEA website link- our numbers were provided by TEA upon request (e.g., for Lee HS we start with 585 first-time freshman rather than 608).
+
+Caroline
+
+From: Selby, Gardner (CMG-Austin) [mailto:wgselby@statesman.com]
+
+Sent: Thursday, July 17, 2014 4:56 PM
+
+To: Caroline Neary
+
+Subject: As discussed
+
+Here is the response I fielded from Professor Lori Taylor. This might best be read from the bottom up, which folds in the response we fielded from the Houston district.
+
+Any thoughts?
+
+g.
+
+From: Taylor, Lori L. [mailto:lltaylor@tamu.edu]
+
+Sent: Thursday, June 26, 2014 4:26 PM
+
+To: Selby, Gardner (CMG-Austin)
+
+Subject: RE: Gauging a claim about dropouts in urban Texas schools
+
+Hi Gardner-
+
+You said
+
+“In some way, I am guessing, the figures on that page result in the graduation rate of 47 percent declared by Patrick’s spokesman.”
+
+There are 531 students in the class of 2011-12 (608 first-time freshmen + 101 students added to the class -178 students who moved to another Texas public school =531 net students)
+
+There are 272 graduates, so the on-time graduation rate is at least 51% (272/531), not 47% as reported. There are 96 who withdrew from Lee and enrolled in other schools. Assuming they actually did enroll elsewhere, they should be treated like the 178 students who enrolled in other Texas school districts, and subtracted from the 531. That would imply an on-time graduation rate of at least 62.5%. Leaving these 96 students in the denominator is equivalent to declaring that you believe none of them actually enrolled in another school.
+
+Using the 35 students still enrolled at Lee, I can get really close to 47% with this (bogus) calculation:
+
+Calculated grad rate=(# of graduates)/(# of freshmen enrolled - # still enrolled at the campus)
+
+For Lee HS in Houston, there were 608 brand new 9th graders, 272 have graduated and 35 are still enrolled. 272 /(608 -35)=47.5%
+
+For Jones HS in Houston, there were 223 brand new 9th graders, 122 have graduated and 7 are still enrolled at Jones. 122/(223-7)=56.5%.
+
+For Kimball HS in Dallas, there were 380 brand new 9th graders, 205 have graduated and 25 are still enrolled at Kimball. 205/(380-25)=57.7%
+
+For Spruce HS in Dallas, there were 440 brand new 9th graders, 249 have graduated and 24 are still enrolled at Spruce. 249/(440-24)=59.9%
+
+The calculation is bogus because the students still enrolled should not be removed from the denominator, and the denominator should be adjusted for students moving between campuses within the public school system.
+
+I don’t see any way that the numbers you provided below (from the Patrick campaign) could possibly be accurate. Even if you completely mistrust the leaver codes (which is a very strong statement, encompassing as it does the assumption that everyone who moves from public to private school is a dropout), you must adjust for the students coming and going from other Texas districts (because those data are monitored by TEA). Assuming all leavers who do not show up at another Texas public school are dropouts (which is not an assumption I would be willing to make) yields the following on-time graduation rates
+
+Lee HS in Houston 272/531=51.2%
+
+Jones HS in Houston 122/188=64.9%
+
+Kimball HS in Dallas 205/321=63.9%
+
+Spruce HS in Dallas 249/394=63.2%
+
+Hope this helps,
+
+Lori
+
+From: Selby, Gardner (CMG-Austin) [mailto:wgselby@statesman.com]
+
+Sent: Thursday, June 26, 2014 2:08 PM
+
+To: Taylor, Lori L.
+
+Subject: RE: Gauging a claim about dropouts in urban Texas schools
+
+I need to improve my communication skills.
+
+By going to the link the campaign provided --
+
+http://ritter.tea.state.tx.us/acctres/completion/script/2012/campus.html -- and punching in the name of a particular high school, a report pops up like the one I got for Lee High in HISD, which I have just attached to this email. In some way, I am guessing, the figures on that page result in the graduation rate of 47 percent declared by Patrick’s spokesman.
+
+Good method?
+
+g.
+
+From: Taylor, Lori L. [mailto:lltaylor@tamu.edu]
+
+Sent: Thursday, June 26, 2014 2:03 PM
+
+To: Selby, Gardner (CMG-Austin)
+
+Subject: RE: Gauging a claim about dropouts in urban Texas schools
+
+Hi Selby-
+
+I can’t see from the email excerpts below how the Patrick campaign did its calculations. I generally agree with the TEA’s claims, though, provided that there is documentation that the students did in fact enroll in other school districts, enroll in private schools or leave the country. The question is always whether or not the “leaver” codes are accurate, since districts themselves have a conflict of interest in reporting.
+
+It is also crucially important not to count the 35 students who are still in school as dropouts, even if they are taking more than 4 years to graduate.
+
+Lori
+
+From: Selby, Gardner (CMG-Austin) [mailto:wgselby@statesman.com]
+
+Sent: Thursday, June 26, 2014 1:56 PM
+
+To: Taylor, Lori L.
+
+Subject: Gauging a claim about dropouts in urban Texas schools
+
+Professor Taylor:
+
+Thanks for agreeing to take a hard look at this topic.
+
+To recap, state Sen. Dan Patrick recently said we have dropout rates of 40 percent to 50 percent in our inner-city schools. That’s the claim we’re now trying to fact-check.
+
+Patrick’s campaign followed up with a list of about a dozen schools, mainly in the Houston, Dallas and Fort Worth districts. When I checked on the longitudinal graduation and dropout rates for the latest school year posted by the TEA, the displayed figures weren’t the same as the graduation-rate figures offered by the campaign. I followed up and fielded the email pasted below, which kind-of elaborates on Patrick’s approach.
+
+I am interested in your analysis of the Patrick approach to gauging dropout and graduation rates, pros and cons. Is this the best way to do so? Why or why not?
+
+Below the campaign email I’ve pasted a response we got to using this approach from a spokeswoman for the Houston school district.
+
+Any thoughts on her concerns/critique?
+
+Anyone else you recommend we consult?
+
+I hope to complete our review this week.
+
+g.
+
+W. Gardner Selby
+
+PolitiFact Texas
+
+www.politifact.com/texas
+
+Austin American-Statesman
+
+512-445-3644
+
+PASTE
+
+(Email from campaign)
+
+Our numbers are based on the raw data you can find on the TEA website.
+
+You can get very detailed information at the campus level by going through this TEA webpage:
+
+http://ritter.tea.state.tx.us/acctres/completion/script/2012/campus.html
+
+The problem with using the "dropout" numbers that are reported by TEA is that there are several exclusions that are unmonitored by the TEA. The exclusion of students who claim to be "returning to their home country" is often the largest component in the campus numbers.
+
+Using this detailed information, you will see how we got our numbers and what they are based upon.
+
+(Excerpt from earlier email with figures provided by campaign, percentages are graduation rates)
+
+Houston ISD:
+
+Lee HS 47%
+
+Jones HS 57%
+
+Dallas ISD:
+
+Kimball HS 59.5%
+
+Spruce HS 59%
+
+Roosevelt HS 55.9%
+
+North Dallas HS 54.1%
+
+Samuel HS 53.8%
+
+Ft. Worth ISD:
+
+Dunbar HS 59.5%
+
+Polytechnic HS 57.6%
+
+Wyatt HS 51.5%
+
+Eastern Hills HS 51.2%
+
+(email from Houston school district in response to our inquiry about Lee High School in the district)
+
+Lee’s 2012 dropout rate is not between 40-50 percent. HISD reports a graduation rate of 80%.
+
+First, the calculation to say that Lee’s graduation rate is 45% (272/608) does NOT take into consideration the 178 students who left and have documented enrollment in other Texas public schools and the 101 students who joined Lee during the 4 years of the cohort. So it is inaccurate.
+
+Secondly, if you remove the 178 from the cohort (who enrolled in other Texas public schools) and add the 101 (who joined during the cohort years), our my calculation (if you don’t account for other leavers) gets a graduation rate of 51% (272/531), and conversely, a dropout rate of 49%. This too is fallacious, especially since 35 students remained for a 5th year of enrollment.
+
+Thirdly, the 186 other leavers should indeed be removed from the cohort since these are students with documents/affidavits in their files supporting that they: enrolled in schools in other states, began home schooling, enrolled in Texas private schools, graduated outside of Texas, or returned to their home country, all of which are state recognized leaver codes and not considered dropouts. When you remove these students and 5 students with coding errors that could not be tracked, the graduation rate becomes 80% (272/340).
+
+Lastly, if you were to inappropriately count the 69 students who went back to their home country as dropouts and keep them in the cohort, this would make the graduation rate 67% (272/409). School districts cannot be held responsible for students whose parents (or them if they are of legal age) choose to return to their home country.
+
+We are held accountable for the 80% for 2012. This is without exclusions.
+
+Let me know if this helps.
+
+Thank you,
+
+Sheleah D. Reed
+
+Press Secretary
+
+HOUSTON INDEPENDENT SCHOOL DISTRICT

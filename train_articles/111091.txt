@@ -1,0 +1,50 @@
+Sarasota Herald-Tribune Media Group
+Rebutting the New College Study
+
+New College of Florida released a preliminary study in early March that attempts to discredit the Herald-Tribune’s December series on racial disparities in sentencing.
+
+The study, which was spawned after meetings between New College officials and representatives from the 12th Judicial Circuit in Sarasota, refutes the newspaper's methodology for analyzing more than 80 million criminal records and criticizes the Herald-Tribune for not being transparent with regard to sharing its data and algorithms.
+
+The New College study also presents its own formula for cleaning and analyzing the data.
+
+The study was used by the 12th Circuit to "combat" legislation inspired by the Herald-Tribune's "Bias on the bench" series.
+
+The Herald-Tribune fact-checked the New College study and found its accusations and methodology to be exaggerated or incorrect.
+
+Furthermore, experts asked by the Herald-Tribune to review the study found it flawed and questioned the motives of the authors. Among the experts was John Kramer, a professor emeritus at Pennsylvania State University and one of the leading sentencing experts in the nation. Kramer, who has conducted numerous sentencing studies, reviewed the newspaper’s algorithms and methodology and called its data analysis “exceptional.”
+
+CLAIM: The New College report says the Herald-Tribune did not provide algorithms and methodology for other data experts to verify, leading them to conclude the newspaper was not transparent.
+
+FACTS: The Herald-Tribune published a story about its methodology and gave its algorithms to the 12th Circuit and to several other circuits that asked. Investigations Editor Michael Braga provided the 12th Circuit the SQL queries, which took months to develop, and the code. He also corresponded with court representatives by email and by phone, offering to help them replicate the results. Emails between 12th Circuit Chief Justice Charles Williams and New College President Donal O’Shea show that O’Shea was aware that Braga shared the algorithms. O’Shea even commented that he was surprised Braga was “so forthcoming.” But data science professor Pat McDonald, who led the New College study, said he never saw the algorithms or code. McDonald also claims not to have seen a Dec. 22 message from Braga to Judge Williams saying he would be willing to meet with McDonald at any time. McDonald did not reach out to the Herald-Tribune until after completing his second draft.
+
+CLAIM: Circuit officials say the Herald-Tribune refused to share the Offender Based Transaction System data that the newspaper used to reach its conclusions.
+
+FACTS: As noted in an article that the Herald-Tribune published in December about its methodology, OBTS data is stored and managed by the Florida Courts Administrator, but it comes from court clerks in each circuit. They are the ones who enter the information into the system. It is their own data from their own cases, and it is far more complete than the data the Herald-Tribune paid the state more than $15,000 to access. The 12th Circuit, therefore, has always had the information it needs to replicate the Herald-Tribune’s analysis. Emails obtained by the Herald-Tribune show that the 12th Circuit provided the data to New College.
+
+CLAIM: In its study, New College states that when “8888888” appears as the code for the length of a defendant’s confinement, the row should be eliminated from consideration.
+
+FACTS: System administrators and court clerks said the “8888888” code is used for legitimate sentences when the defendant is given no confinement time, and just faces probation or community control. Eliminating these records skews sentencing discrepancy calculations. New College researchers incorrectly removed 59 such rows when evaluating Judge Williams without first checking the see if they were accurate. McDonald, the New College data science professor, acknowledged he should not have removed those rows.
+
+CLAIM: New College says in its report that life and death sentences should be excluded from the analysis because they cannot be properly calculated.
+
+FACTS: Not including life and death sentences also skews average sentences for judges. The Herald-Tribune followed the advice of sentencing experts and assigned a value of 99 years to life and death sentences. McDonald, the New College data science professor, later said he was wrong to remove those rows.
+
+CLAIM: New College’s report relies on the Court Docket numbers as one of two fields in the data that help identify unique records.
+
+FACTS: In the cases handled by Judge Williams, more than 90 percent of the judge’s third-degree felony cases in OBTS are missing a Court Docket number. According to the Office of Court Administrator and its code book, Court Docket numbers are not the correct field to use for cleaning the data. By not using the same fields as the state and the newspaper, New College cannot reach the correct results. It can mean the difference between using a record with a sentence with no days behind bars, or selecting a different record with a sentence of one year in jail. The OBTS data guidebook, which New College links to in its report, says the "sequence" field must also be used to match cases with multiple charges to the correct sentence, but New College did not follow those steps. When confronted with this, McDonald said he did not understand the data and had learned his lesson.
+
+CLAIM: New College concludes in its report that sample sizes are too small for meaningful analysis about bias.
+
+FACTS: Cyrus O'Brien, data researcher for Florida State University's Project on Accountable Justice, reviewed the New College report and noted that researchers could have made the sample sizes larger by including plea deals, but chose not to. The U.S. Sentencing Commission’s studies of judicial behavior include plea bargained cases, as do Yale Law Journal papers and studies from the University of British Columbia.
+
+CLAIM: New College concludes the findings from the Herald-Tribune’s “Bias on the bench” series cannot be trusted because the quality of OBTS data cannot be trusted.
+
+FACTS: The Herald-Tribune used the OBTS database for only part of its analysis. It used a database from the Florida Department of Corrections as its primary database. The DOC data allows for criminal defendants to be compared based on the points they score at sentencing. Three of the newspaper’s four stories, along with large portions of online presentations, focus on DOC data. But New College never mentions the Herald-Tribune’s use of DOC data in its study. McDonald, the New College data science professor, said it never occurred to him to look at that data.
+
+CLAIM: McDonald suggests in his cover letter to the New College preliminary report that changing attitudes regarding “the war on drugs” may be responsible for racial discrepancies involving Judge Williams. As Williams stopped judging felony cases in 2004, McDonald said he should not be compared to judges who have more recent criminal rulings and were not on the bench a decade ago.
+
+FACTS: The idea that judges treat drug crimes differently based on changing attitudes over time is more of a hypothesis than a fact and needs to be tested. It is true that the advent of drug courts have impacted the sentences of those charged with drug possession and that legislators are facing increased pressure to end mandatory minimums. But it is not clear whether these forces have impacted the severity of judicial sentencing. Herald-Tribune analysis of sentences doled out in 2004 shows that Williams was still among those with the widest racial discrepancies across third-degree felonies in the 12th Circuit . Of the eight judges who presided over at least 100 criminal cases in 2004, only Nancy Donnellan and Andrew Owens had wider discrepancies in the circuit that year.
+
+CLAIM: In his cover letter, McDonald says the Herald-Tribune analysis is flawed because it restricted itself to third-degree felonies, producing “rough statistical aggregates” that cannot be trusted.
+
+FACTS: The newspaper used third-degree felonies, the least serious and broadest class of felonies, to identify judges with sentencing disparities between races. Kramer, the expert at Penn State, said using third-degree felonies is a good calibration and one that is not atypical for researchers to use. “Third degree felonies have been ranked by the Florida legislature as similarly serious and a maximum sentence has been attached to them based on that severity,” he said. For better comparisons, the Herald-Tribune used data from the Department of Corrections in its December series. The DOC data allows defendants to be compared based on the points they score at sentencing for the same crimes. For example, Williams gave blacks 94 percent more confinement than whites who score the same points on felony drug charges, 51 percent more lockup for burglary and 9 percent more time for the felony of driving with a suspended license for the third time.

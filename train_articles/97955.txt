@@ -1,0 +1,12 @@
+Embed — Share the Facts
+How to embed Share the Facts widgets in articles and blog posts
+
+The Share the Facts widgets, which summarize fact-checks in a concise way, can be embedded in articles and blog posts just like tweets.
+
+So if you’re a writer or editor who publishes articles about politics, for example, this gives you the opportunity to show multiple fact-checks from a single event, such as a debate or political convention, or to include several widgets when you are discussing a candidate.
+
+You can embed widgets in your articles and blog posts using oEmbed, which is supported by WordPress and many other content management systems.
+
+oEmbed – To use oEmbed for our widget, your developer or IT team will typically need to whitelist sharethefacts.co. WordPress users can find instructions here. Non-WordPress oEmbed users may need to enable script execution, depending on your site’s implementation. (Since each CMS is different, you may need to consult sources specific to your site for details.)
+
+Once sharethefacts.co has been whitelisted, you can just click “Share” and “Embed” on the widget you want to feature, and copy the oEmbed URL into your story. Make sure the URL is on its own line.

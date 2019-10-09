@@ -1,0 +1,74 @@
+NOAA's own trend calculator helps confirm 'the pause' and lack of ocean warming in the 21st century
+People send me stuff. Yesterday I got a note suggesting I have a look at what NOAA/NCDC’s “climate at a glance” was showing for trends in the 21st century so far.
+
+I decided to take a look.
+
+Have a look at NOAA’s Time Series calculator http://www.ncdc.noaa.gov/cag/time-series/global It is now displaying a cooling trend commencing in 2001 – 2013. Ensure you are on the Global tab; Annual; 2001;2013;Land and Ocean. Then in the Options Tab click; Display Trend; per century; 2001;2013. Then click plot. These result give you a -0.05 per/century over 13 years. -0.05 is hardly significant (even though they claim +0.05 of 1 degree over a two month period of May and June this year proves global warming)
+
+I verified that,
+
+…and did my own.
+
+This plot mostly matches what he says, though I prefer doing decadal scale trends on decadal scale data plots:
+
+Fig 1. Source: http://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/2001-2013?trend=true&trend_base=10&firsttrendyear=2001&lasttrendyear=2013
+
+(IMPORTANT NOTE: NCDC’s link generator on their web page creates a pre-broken link, so if you use the source links I provide from NCDC, be sure to manually set it to Annual from the default Year-to-Date and press plot again, otherwise you’ll end up with an incorrect plot.)
+
+The trend is -0.01C/decade, essentially flat, no statistically significant trend. And if you want to make that a nice tidy package for the 21st century new millenium, the 2000-2013 trend is nearly equally statistically insignificant, and would be flat except for the fact that the year 2000 was a bit cool. It’s the typical problem of trend line sensitivity to endpoints on short data sets.
+
+Fig 2. Source: http://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/2000-2013?trend=true&trend_base=10&firsttrendyear=2000&lasttrendyear=2013
+
+But the lack of a trend on the Land Ocean Temperature Index plots isn’t what I find most interesting or significant – the difference between land and ocean is more interesting.
+
+First the oceans in the 21st century:
+
+Fig 3. Source: http://www.ncdc.noaa.gov/cag/time-series/global/globe/ocean/ytd/12/2000-2013?trend=true&trend_base=10&firsttrendyear=2000&lasttrendyear=2013
+
+With only an insignificant +0.01C/decade trend, it seems Trenberth’s missing heat is still missing, and the oceans have stubbornly refused to play out the role that CO2 crunching models have prescribed. I suppose I just can’t get all that excited even though there’s a lot of squawking about the month of June being smashingly record-warm in the oceans:
+
+The record was driven largely by warmer than normal ocean surfaces. Last month saw the highest temperatures on the water for any June on record, and the highest departure from the average for any single month ever. Average global land surface temperatures for June 2014 were also the seventh hottest June ever recorded.
+
+Well, gosh, 2014 isn’t over yet, and we’ve been told time and again that a single month of anomalously low temperature means nothing in the scheme of climate things, and so it must go for a single month of high temperatures.
+
+But, here is what I find most interesting, note the difference in trend from Figure 2 which is land+ocean index (LOTI) and Figure 3 which is just ocean (OTI) below. Have a look at the same period for land (LTI), which has a rate +0.13C/decade or 13 times higher than the ocean index in the same period:
+
+Fig 4. Source: http://www.ncdc.noaa.gov/cag/time-series/global/globe/land/ytd/12/2000-2013?trend=true&trend_base=10&firsttrendyear=2000&lasttrendyear=2013
+
+This difference between land and ocean trends is quite large, and some divergence would be expected, since the oceans affect the atmosphere above them far more than land as a stabilizing heat sink.
+
+But, it seems in the USA, the Land Temperature Index isn’t cooperating with expectations or even warming at all. It seems the USA has been cooling in the 21st century at a rate of -0.09F/decade (-0.05C/decade):
+
+Fig5. Source: http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/2000-2013?base_prd=true&firstbaseyear=1901&lastbaseyear=2000&trend=true&trend_base=100&firsttrendyear=2000&lasttrendyear=2013
+
+It seems that that oceans aren’t warming, the contiguous USA isn’t warming, but the land surface of the rest of the world has been so far in the 21st century.
+
+Meanwhile, MLO annual data shows carbon dioxide has risen from 369.52 ppm in the year 2000, to 396.48 in 2013, an increase of ~ 7.3%, but we don’t see a corresponding increase in global temperature for the same period perhaps because climate is a non-linear system and/or because we are close to saturation of the logarithmic effect of CO2 induced warming in our atmosphere. Global temperature has been mostly flat. Where’s those posited warming climate feedbacks when we need them?
+
+Now, to alleviate the inevitable screams of not showing the “full picture” of temperature from the overly excitable that comment here under a variety of nom-de-plumes, I offer the entire LOTI plot from NCDC:
+
+Fig 6. Source: http://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2013?trend=true&trend_base=100&firsttrendyear=1880&lasttrendyear=2013
+
+To my eye, I see a natural sine wave, which I’ve traced below on the same graph in solid grey, with extrapolated segments in dashed grey:
+
+Fig 7. Source: http://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2013?trend=true&trend_base=100&firsttrendyear=1880&lasttrendyear=2013 plus hand drawn sine wave from the author.
+
+It seems to me that our current “pause” might simply be that we are at the top of that sine wave I see, and that we might actually see some cooling ahead, assuming it isn’t all adjusted away by the next “improvement” from NCDC.
+
+I’ll leave you all to the squabble which will surely follow.
+
+Advertisements
+
+Share this: Print
+
+Email
+
+Twitter
+
+Facebook
+
+Pinterest
+
+LinkedIn
+
+Reddit

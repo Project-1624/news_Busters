@@ -1,0 +1,45 @@
+Life Cycle Assessment Harmonization
+
+In this project, NREL reviewed and harmonized life cycle assessments (LCAs) of electricity generation technologies to reduce uncertainty around estimates for environmental impacts and increase the value of these assessments to the policymaking and research communities.
+
+Hundreds of life cycle assessments have been published, with considerable variability in results. These variations in approach hampered comparison across studies and the pooling of published results. NREL harmonized these data to:
+
+Understand the range of published results of LCAs of electricity generation technologies
+
+Reduce the variability in published results
+
+Clarify the central tendency of published estimates.
+
+Harmonized Results
+
+In subsequent project phases, NREL adjusted the estimates to a consistent set of methods and assumptions specific to each technology. Like the published data, the harmonized data showed that life cycle greenhouse gas emissions from solar, wind, and nuclear technologies are considerably lower and less variable than emissions from technologies powered by combustion-based natural gas and coal.
+
+Harmonization did not significantly change the central tendency (as indicated by the median value) of any of the technologies evaluated. Harmonization did, however, reduce the variability of GHG emissions estimates.
+
+See the results from NREL's review, analysis, and harmonization of published life cycle assessment estimates for these technologies:
+
+Published Results
+
+The data showed that life cycle greenhouse gas (GHG) emissions from technologies powered by renewable resources are generally less than from those powered by fossil fuel-based resources. The central tendencies of all renewable technologies are between 400 and 1,000 g CO 2 eq/kWh lower than their fossil-fueled counterparts without carbon capture and sequestration (CCS).
+
+In the first phase of this project, NREL analyzed published life cycle GHG estimates for hydropower, ocean, geothermal, biopower, solar, wind, nuclear, coal, and natural gas technologies.
+
+See the results of the review and analysis of published LCA estimates for these technologies:
+
+Data and Tools
+
+Download and visualize numerical results and bibliographies on the OpenEI LCA Harmonization application.
+
+Publications
+
+Life Cycle Greenhouse Gas Emissions from Electricity Generation, NREL Fact Sheet (2013)
+
+Meta-Analysis of Life Cycle Assessments, Journal of Industrial Ecology (2012)
+
+Harmonization of Initial Estimates of Shale Gas Life Cycle Greenhouse Gas Emissions for Electric Power Generation, Proceedings of the National Academy of Sciences of the United States of America (2014)
+
+IPCC Special Report on Renewable Energy Sources and Climate Change Mitigation (2011)
+
+Contact
+
+Garvin.Heath@nrel.gov | 303-384-7460

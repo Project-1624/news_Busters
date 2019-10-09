@@ -1,0 +1,38 @@
+Rate of Mass Shootings Has Tripled Since 2011, Harvard Research Shows – Mother Jones
+Editor’s note: The authors are scholars from the Harvard School of Public Health and Northeastern University; this article details their independent research, which is based on the mass shootings data Mother Jones has collected and published since 2012.
+
+In June, following gun attacks in California and Oregon, President Obama remarked that mass shootings are “becoming the norm.” But some commentators claim that mass shootings are not on the rise. So which is it?
+
+Have mass shootings become more common?
+
+According to our statistical analysis of more than three decades of data, in 2011 the United States entered a new period in which mass shootings are occurring more frequently. Our analysis used data compiled by Mother Jones on attacks that took place in public, in which the shooter and the victims generally were unrelated and unknown to each other, and in which the shooter murdered four or more people. (An incident with four or more homicide victims was the threshold count for mass killing established by the FBI a decade ago; a federal law signed by President Obama in 2013 defined the threshold as three or more victims killed.)
+
+So why do we keep hearing in the media that mass shootings have not increased?
+
+This view stems from the work of Northeastern University criminologist James Alan Fox, who has long maintained that mass shootings are a stable phenomenon. (“The growing menace lies more in our fears than in the facts,” he has said.) But Fox’s oft–cited claim is based on a misguided approach to studying the problem: The data he uses includes all homicides in which four or more people were murdered with a gun. His analysis, which counts the number of events per year, lumps together mass shootings in public places with a far more numerous set of mass murders that are contextually distinct—a majority of which stem from domestic violence and occur in private homes. Fox’s annual count and use of overly broad data including many types of mass killings fail to detect the recent shift in public mass shootings.
+
+Our method and how it works
+
+We used a Statistical Process Control method that analyzes the time interval between each incident. This is more effective than counting the annual number of incidents because it is more sensitive to detecting changes in frequency when the number of events per year is small, as is the case with public mass shootings. SPC methods were first developed for industry, to identify changes in the process underlying a specific problem, so that root causes of that problem could be better assessed. This approach has proved effective in health care, for example, helping to reduce surgical errors. For the method to work, it is crucial to analyze events that are qualitatively similar. In other words, to assess the rate of public mass shootings it is necessary to exclude mass killings that are qualitatively distinct, like those taking place in private homes.
+
+What our analysis reveals
+
+As the chart above shows, a public mass shooting occurred on average every 172 days since 1982. The orange reference line depicts this average; data points below the orange line indicate shorter intervals between incidents, i.e., mass shootings occurring at a faster pace. Since September 6, 2011, there have been 14 public mass shootings at an average interval of less than 172 days. A run of nine points or more below the orange average line is considered a statistical signal that the underlying process has changed. (A nine-point run below the average is about as likely to occur by chance as flipping a coin nine times and getting heads nine times in a row—the probability is less than 1 percent. The 14-point run we see here is even more unlikely to have occurred by chance.) The standard interpretation of this chart would be that mass shootings, as of September 2011, are now part of a new, accelerated, process.
+
+Because the chart signals that a new process started around September 2011, we can divide the chart at that point to analyze each phase separately. In the first 29-year phase, mass shootings occurred every 200 days on average. In the subsequent three-year phase, mass shootings occurred every 64 days on average:
+
+
+
+What does the new FBI report on mass gun violence show?
+
+In late September, the FBI released a study showing an increase in the frequency of “active shooter” cases between 2000 and 2013. The FBI analyzed 160 cases, which it defined as any incident in which shooters are “actively engaged in killing or attempting to kill people” in a public place, regardless of the number of casualties. Our analysis of the FBI’s data using the SPC method corroborates the FBI’s findings that “active shooter” incidents have become more frequent.
+
+Our analysis further reveals that the FBI data overlaps closely with the Mother Jones data. The FBI’s data set contains 44 cases in which four or more people were murdered; as the chart below shows, the process underlying this set of events shifted between late 2011 and early 2012, with mass shootings occurring more frequently since.
+
+The FBI and Mother Jones used similar criteria. Both studies excluded mass killings in private homes related to domestic violence as well as attacks stemming from drug- and gang-related activity, and both included certain attacks involving more than one shooter. The discovery methods for collecting data differed to some degree, with the FBI using various law enforcement records and reports in addition to media reports, which were the main source of the Mother Jones data. That the results of the two studies are so similar reinforces our finding that public mass shootings have increased.
+
+
+
+So mass shootings have become more frequent. What now?
+
+Though we now know that public mass shootings have been occurring more often, the reasons why have yet to be identified. However we come to understand the complex factors that drive these events, it is unlikely that this recent shift is the result of social and cultural factors that have remained relatively constant over the past decade—such as the prevalence of mental illness. While many mass shooters had mental-health problems, as the Mother Jones data shows, there is no reason to believe that there has been an increase in mental illness rates in the last several years that could help explain the rise in mass shootings. (In fact, federal research on the prevalence of severe mental illness shows a decrease in recent years.) As we search for answers with the common goal of diminishing mass shootings, studying them effectively remains key, not least for gauging the success of any policies aimed at reducing the frequency and toll of these events.

@@ -1,0 +1,60 @@
+National Snow and Ice Data Center
+Sea ice is described by the area it covers, its thickness, its age, and its movement with the winds and ocean currents. The Sea Ice Index data products that NSIDC distributes provide information about several sea ice characteristics. Here, we define several key characteristics that are of interest to scientists studying sea ice.
+
+When scientists study sea ice using remote sensing data, they typically describe data in terms of gridded fields. This means the data are provided in pixels, or discrete cells, of a certain shape and size. Most of NSIDC's gridded sea ice data consist of fields of square cells that are 25.0 kilometers (15.5 miles) on a side, or covering an area of 625.0 square kilometers each (241.3 square miles). Scientists can calculate different quantities from these gridded fields.
+
+Area
+
+When we use this term, we mean the region covered by sea ice, typically given in square kilometers. For a grid cell, it is the area of the portion of the cell covered by ice. For an entire hemisphere, it is the total area covered by ice, which corresponds to sum of the area of each cell multiplied by the fractional concentration for that cell.
+
+Concentration
+
+Concentration is a unitless term that describes the relative amount of area covered by ice, compared to some reference area. Thus, concentration describes how much of a 25.0 kilometer by 25.0 kilometer (15.5 mile by 15.5 mile) box is covered by sea ice. Ice concentration typically is reported as a percentage (0 to 100 percent ice), a fraction from 0 to 1, or sometimes in tenths (0/10 to 10/10). Our Sea Ice Index products show ice concentration as a percentage. A value of 0 means there is no ice, while a value of 100 means the region is completely covered by ice.
+
+Extent
+
+Extent defines a region as either "ice-covered" or "not ice-covered." For each data cell, it is a binary term; either the cell has ice (usually a value of "1") or the cell has no ice (usually a value of "0"). A threshold determines this labeling. A typical threshold is 15 percent, meaning that if the data cell has greater than 15 percent ice concentration, the cell is labeled as "ice-covered." The Sea Ice Index products have a threshold of 15 percent. A threshold can also be as high as 30 percent.
+
+Extent is sometimes described in terms of area (in square kilometers) covered by at least some ice (above the threshold). Extent is different from the total area in that if a given region has a percentage of ice concentration greater than the threshold, the entire region is considered "ice-covered." Total area tells how much of the region is actually covered by ice. Arctic- or antarctic-wide sea ice extent is always a larger number than area.
+
+Anomaly
+
+Anomaly data fields measure the difference between the sea ice value (area, extent, or concentration) at a given time and the long-term average. So an anomaly tells us how close to average the area, extent, or concentration are in a given month. Anomalies have positive values where there is more ice than average and negative values where there is less ice than average. Area and extent anomalies are reported in square kilometers, and concentration anomalies are given in percentages (-100 to +100 percent, or a fraction, -1 to +1.) The anomaly fields have the same units as their corresponding fields. For example, area and extent anomalies are in units of square kilometers, and concentration anomalies are in percents (-100 to +100) or fractions (-1 to +1).
+
+The time period for the long-term average used in the Sea Ice Index is 1981 to 2010. Thirty years is considered a standard baseline period for weather and climate, and the satellite record is now long enough to provide a thirty year baseline period.
+
+Comparisons Among Area, Concentration, and Extent
+
+The diagram and table below illustrate the definitions of area, concentration, and extent. For easier representation, each square grid cell is 8.0 kilometers (5.0 miles) on a side, for a total of 64.0 square kilometers (24.7 square miles). In A, there is no ice. In B, one fourth of the cell is covered by ice. In C, one half is covered by ice, and in D, the entire cell is covered by ice. To simplify calculations, a hypothetical threshold of 30 percent for sea ice extent is used in this example. This means that areas with less than 30 percent sea ice coverage are considered "ice-free," and areas with more than 30 percent sea ice coverage are considered "ice-covered." It is important to emphasize that this example is hypothetical, and in practice, thresholds are typically somewhat lower, ranging from 15 to 20 percent.
+
+Sea ice property
+
+for a 8 km2 (3 mi2) cell A B C D Ice-Covered Area 0 km2 16.0 km2
+
+(6.2 mi2) 32.0 km2
+
+(12.4 mi2) 64.0 km2
+
+(24.7 mi2) Concentration (%) 0% 25% 50% 100% Concentration (fraction) 0 0.25 0.5 1.0 Extent
+
+No units, 30% concentration threshold 0 0 1 1 Extent
+
+30% concentration threshold 0 km2 0 km2 64.0 km2
+
+(24.7 mi2) 64.0 km2
+
+(24.7 mi2) Area anomaly (%)
+
+Average area is 48 km2 (18.5 mi2) -48.0 km2
+
+(-18.5 mi2) -32.0 km2
+
+(-12.4 mi2) -16.0 km2
+
+(-6.2 mi2) +16.0 km2
+
+(6.2 mi2) Concentration anomaly (%)
+
+Average concentration is 48 km2/64 km2 = 75% -75% -50% -25 % +25 %
+
+For example, one-fourth of cell B is covered by ice, so the ice-covered area is 16 square kilometers and the ice concentration is 25 percent or 0.25. The concentration value is less than the extent threshold, so the cell is designated "not ice-covered" with an extent value of "0." The area is 32 square kilometers below average, so the area shows a negative anomaly (16 - 48 = -32 square kilometers). The concentration also shows a negative anomaly (25 - 75 = -50 percent).

@@ -1,0 +1,56 @@
+Trump, Pence ‘Acid Wash’ Facts
+The FBI investigation into Hillary Clinton’s use of a private email system while secretary of state continues to be a rich source of attack lines for her opponents. But not all of them are accurate:
+
+Republican presidential nominee Donald Trump falsely claimed Clinton “acid washed” 33,000 personal emails to delete them, calling it “an expensive process.” The FBI said Clinton’s tech team used BleachBit, which is a free software program. It does not use chemicals.
+
+Mike Pence, Trump’s running mate, falsely claimed the FBI found “more than 15,000 additional emails dealing with national security.” The FBI recovered about 14,900 emails, but not all of them are work-related and only three contained classified information.
+
+The FBI on Sept. 2 released a two-part summary of its investigation of Clinton and her staff, and their handling of classified information on her private server. As we wrote, the agency’s investigation notes contradict some past statements that Clinton and her campaign made about her emails, including when her emails were deleted from her server.
+
+Clinton’s office disclosed on March 10, 2015, that she gave the State Department 30,490 work-related emails on Dec. 5, 2014, and “chose not to keep” 31,830 emails she deemed “personal.” It did not say when the personal emails were deleted, but the FBI learned that they were deleted between March 25-31, 2015, about three weeks after she was served with a congressional subpoena.
+
+One other new piece of information was how the emails were deleted — a point that Trump has worked into recent public remarks, including in a Sept. 5 ABC News interview, and Sept. 6 campaign events in North Carolina and Virginia.
+
+Trump, Sept. 5: You see what’s going on with her emails. It’s a disgrace. It’s a disgusting situation where she pretends like she doesn’t know. I mean, she had her emails — 33,000 emails — acid washed. The most sophisticated person never heard about acid washing. Acid washing is a very expensive process and that’s to really get rid of them. Trump, Sept. 6, North Carolina: But why do you acid wash, or bleach, the emails? Nobody even heard of it before. Very expensive. Just ask yourself. Trump, Sept. 6, Virginia: How about the acid wash of the e-mails that didn’t mean anything? How about the 33,000 missing e-mails that were acid washed — acid washed. And Rudy was telling me, nobody does it because it’s such an expensive process. OK, 33,000.
+
+Trump is wrong on two counts: The software used to delete Clinton’s emails is free, and no chemicals were used.
+
+His campaign told us Trump didn’t literally mean that Clinton “acid washed” her emails. It said that he was using a play on words, referring to Clinton’s joke a year ago about “wiping” her server with a cloth.
+
+Sorry, we don’t get the play on words, which was not clear in any of Trump’s remarks. Let’s look at the facts.
+
+The FBI said that Platte River Networks, which set up and maintained Clinton’s server, used an open-source software program called BleachBit. (See page 18.)
+
+BleachBit debunks Trump’s claims on its FAQ page: “BleachBit is not ‘very expensive software.’ Actually, it is completely free of charge for everyone in all situations.” It also says, “BleachBit is neither a chemical nor a physical device. BleachBit is an anti-forensics software application.”
+
+The site links to a statement on Trump’s website by former New York City Mayor Rudy Giuliani that claims, “This software is very expensive and is used by criminals seeking to hide evidence from law enforcement.” It also links to a story that quotes Trump as saying Clinton “bleached” her hard drive and “used chemicals so that nobody will ever be able to see them.”
+
+PCWorld, the consumer magazine for computer owners, described BleachBit in a 2013 review as good for a business user, but not necessarily the novice home user. “If you’re a business user looking for a truly free system cleaner, one interesting option is open-source, cross-platform BleachBit,” it said.
+
+Andreas Haeberlen, an associate professor of computer and information science at the University of Pennsylvania, told us that the FBI description of how BleachBit was used suggests that “the data would have been physically overwritten on the disk and would be very difficult to recover, at least without specialized equipment.” But he said this “is certainly not the strongest method for secure deletion.”
+
+Haeberlen said there are stronger methods, such as degaussing or physical destruction, referring us to Table 5.1 of the National Institute of Standards and Technology’s “Guidelines for Media Sanitation.” Degaussing is “a demagnetizing process to erase a hard drive or tape,” as explained by Data Security Inc.
+
+“Regarding ‘expensive,’ the website says that the BleachBit software is published under an open-source license (GPL version 3 is mentioned), which would mean that it is available for free,” Haeberlen wrote in an email to us. “It certainly doesn’t involve chemicals – it’s just a software program.”
+
+https://www.sharethefacts.co/share/0c26a8ef-2ed8-4b67-b2bf-12ea7ea2e842
+
+15,000 Additional Emails
+
+Trump’s running mate, Indiana Gov. Mike Pence, also cited the FBI investigation in attacking Clinton. Pence cited the fact that the FBI recovered about 14,900 emails that were not part of the 30,000 work-related emails that Clinton turned over to the State Department in December 2014.
+
+In a speech in Springfield, Missouri, Pence incorrectly referred to the recovered documents as “more than 15,000 additional emails dealing with national security.”
+
+Pence, Sept. 6: I mean Hillary Clinton said she had turned over all of her emails except for the ones having to do with yoga and wedding plans. Now we have found more than 15,000 additional emails dealing with national security.
+
+As we have written, the 14,900 are not all work-related emails, so Pence was wrong when he said all of them deal with national security. The State Department is in the process of reviewing the emails to determine how many of them are work-related and, of those, how many have not yet been publicly released.
+
+What we do know is that very few of them included classified information.
+
+At his July 5 press conference announcing that the FBI would not seek charges against Clinton, FBI Director James Comey said only three emails contained information that was classified at the time. He also said none was “up-classified,” which refers to information that is deemed classified when documents are reviewed for public release.
+
+Comey, July 5: With respect to the thousands of e-mails we found that were not among those produced to State, agencies have concluded that three of those were classified at the time they were sent or received, one at the Secret level and two at the Confidential level. There were no additional Top Secret e-mails found. Finally, none of those we found have since been “up-classified.”
+
+Pence simply went too far when he described the recovered emails as “more than 15,000 additional emails dealing with national security.” Not everything that the secretary of state receives or sends deals with national security.
+
+https://www.sharethefacts.co/share/6c163fae-8385-40e2-81bf-75f893e9fb4c

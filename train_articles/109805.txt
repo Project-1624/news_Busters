@@ -1,0 +1,12 @@
+Galton Board -- from Wolfram MathWorld
+Galton Board
+
+The Galton board, also known as a quincunx or bean machine, is a device for statistical experiments named after English scientist Sir Francis Galton. It consists of an upright board with evenly spaced nails (or pegs) driven into its upper half, where the nails are arranged in staggered order, and a lower half divided into a number of evenly-spaced rectangular slots. The front of the device is covered with a glass cover to allow viewing of both nails and slots. In the middle of the upper edge, there is a funnel into which balls can be poured, where the diameter of the balls must be much smaller than the distance between the nails. The funnel is located precisely above the central nail of the second row so that each ball, if perfectly centered, would fall vertically and directly onto the uppermost point of this nail's surface (Kozlov and Mitrofanova 2002). The figure above shows a variant of the board in which only the nails that can potentially be hit by a ball dropped from the funnel are included, leading to a triangular array instead of a rectangular one.
+
+Each time a ball hits one of the nails, it can bounce right (or left) with some probability (and ). For symmetrically placed nails, balls will bounce left or right with equal probability, so . If the rows are numbered from 0 to , the path of each falling ball is a Bernoulli trial consisting of steps. Each ball crosses the bottom row hitting the th peg from the left (where ) iff it has taken exactly right turns, which occurs with probability
+
+This process therefore gives rise to a binomial distribution of in the heights of heaps of balls in the lower slots.
+
+If the number of balls is sufficiently large and , then according to the weak law of large numbers, the distribution of the heights of the ball heaps will approximate a normal distribution.
+
+Some care is needed to obtain these idealized results, however, as the actual distribution of balls depends on physical properties of the setup, including the elasticity of the balls (as characterized by their coefficient of restitution), the radius of the nails, and the offsets of the balls over the funnel's opening when they are dropped (Kozlov and Mitrofanova 2002).

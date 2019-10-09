@@ -1,0 +1,32 @@
+Secret Code in Color Printers Lets Government Track You
+Tiny Dots Show Where and When You Made Your Print
+
+San Francisco - A research team led by the Electronic Frontier Foundation (EFF) recently broke the code behind tiny tracking dots that some color laser printers secretly hide in every document.
+
+The U.S. Secret Service admitted that the tracking information is part of a deal struck with selected color laser printer manufacturers, ostensibly to identify counterfeiters. However, the nature of the private information encoded in each document was not previously known.
+
+"We've found that the dots from at least one line of printers encode the date and time your document was printed, as well as the serial number of the printer," said EFF Staff Technologist Seth David Schoen.
+
+You can see the dots on color prints from machines made by Xerox, Canon, and other manufacturers (for a list of the printers we investigated so far, see: http://www.eff.org/Privacy/printers/list.php). The dots are yellow, less than one millimeter in diameter, and are typically repeated over each page of a document. In order to see the pattern, you need a blue light, a magnifying glass, or a microscope (for instructions on how to see the dots, see: http://www.eff.org/Privacy/printers/docucolor/).
+
+EFF and its partners began its project to break the printer code with the Xerox DocuColor line. Researchers Schoen, EFF intern Robert Lee, and volunteers Patrick Murphy and Joel Alwen compared dots from test pages sent in by EFF supporters, noting similarities and differences in their arrangement, and then found a simple way to read the pattern.
+
+"So far, we've only broken the code for Xerox DocuColor printers," said Schoen. "But we believe that other models from other manufacturers include the same personally identifiable information in their tracking dots."
+
+You can decode your own Xerox DocuColor prints using EFF's automated program at http://www.eff.org/Privacy/printers/docucolor/index.php#program.
+
+Xerox previously admitted that it provided these tracking dots to the government, but indicated that only the Secret Service had the ability to read the code. The Secret Service maintains that it only uses the information for criminal counterfeit investigations. However, there are no laws to prevent the government from abusing this information.
+
+"Underground democracy movements that produce political or religious pamphlets and flyers, like the Russian samizdat of the 1980s, will always need the anonymity of simple paper documents, but this technology makes it easier for governments to find dissenters," said EFF Senior Staff Attorney Lee Tien. "Even worse, it shows how the government and private industry make backroom deals to weaken our privacy by compromising everyday equipment like printers. The logical next question is: what other deals have been or are being made to ensure that our technology rats on us?"
+
+EFF is still working on cracking the codes from other printers and we need the public's help. Find out how you can make your own test pages to be included in our research at http://www.eff.org/Privacy/printers/wp.php#testsheets.
+
+Contact:
+
+Seth Schoen
+
+Staff Technologist
+
+Electronic Frontier Foundation
+
+seth@eff.org

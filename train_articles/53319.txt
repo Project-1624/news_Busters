@@ -1,0 +1,212 @@
+(PDF) Future flood losses in major coastal cities
+LETTERS
+
+PUBLISHED ONLINE: 18 AUGUST 2013 | DOI: 10.1038/NCLIMA TE1979
+
+F uture ﬂood losses in major coastal cities
+
+Stephane Hallegatte 1,2 * , Colin Green 3 , Robert J. Nicholls 4 and Jan Corfee-Morlot 5
+
+Flood exposure is increasing in coastal cities 1,2 owing to
+
+growing populations and assets, the changing climate 3 , and
+
+subsidence 4–6 . Here we provide a quantiﬁcation of present and
+
+future ﬂood losses in the 136 largest coastal cities. Using a
+
+new database of urban protection and different assumptions
+
+on adaptation, we account for existing and future ﬂood
+
+defences. Aver age global ﬂood losses in 2005 are estimated
+
+to be approximately US$6 billion per year, increasing to
+
+US$52 billion by 2050 with projected socio-economic change
+
+alone. With climate change and subsidence, present protection
+
+will need to be upgraded to avoid unacceptable losses of
+
+US$1 trillion or more per year. Ev en if adaptation investments
+
+maintain constant ﬂood probability, subsidence and sea-le vel
+
+rise will increase global ﬂood losses to US$60–63 billion per
+
+year in 2050. T o maintain present ﬂood risk, adaptation will
+
+need to reduce ﬂood probabilities below present values. In
+
+this case, the magnitude of losses when ﬂoods do occur
+
+would increase, often by more than 50%, making it critical
+
+to also prepare for larger disasters than we experience
+
+today. The analy sis identiﬁes the cities that seem most
+
+vulnerable to these trends, that is, where the largest increase
+
+in losses can be expected.
+
+A first screening study 1 provided a global overview of flood
+
+exposure in world coastal cities. The exposure metric can be
+
+viewed as a worst case scenario, but it does not estimate
+
+average annual losses, which is a standard metric in disaster
+
+risk management planning. To do so, it is necessary to take
+
+into account infrastructure-based adaptation (for example, dykes)
+
+and the vulnerability of populations and assets. Here, we assess
+
+economic average annual losses (AAL) in 136 coastal port cities,
+
+using a method developed for assessing city-level flood risk 7 and a
+
+new database of urban coastal protection (Methods).
+
+Present aggregated average annual flood losses in the 136 cities
+
+are estimated at approximately US$6 billion per year. Table 1
+
+ranks the most vulnerable cities in 2005 using two different
+
+metrics of vulnerability. In the left column, the table shows a
+
+ranking in terms of AAL, taking into account all potential floods
+
+and existing protection. The AAL estimates can be compared
+
+to more sophisticated approaches. For instance, the annual
+
+losses in New Orleans are estimated at US$600 million, close to
+
+the US$650 million estimates from the Interagency Performance
+
+Evaluation Taskforce 8 . In the right column, cities are ranked
+
+according to relative vulnerability, namely the ratio of AAL to the
+
+city’s gross domestic product (GDP). This value can be understood
+
+as the share of the city’s economic output that should be saved
+
+annually to pay for future flood losses. The 20 cities most vulnerable
+
+according to this last indicator are also presented in Fig. 1.
+
+The ranking in terms of exposure includes mainly rich-country
+
+cities (Supplementary Table S4). On average, however, rich cities
+
+1 The World Bank, Sustainable Dev elopment Network, Washington DC 20433, USA, 2 Centre International de Recher che sur l’Environnement et le
+
+Développement (CIRED ), Nogent-sur-Marne 94736, France, 3 Flood Haz ard Research Centre, Middlesex University , London NW4 4BT, UK, 4 F aculty of
+
+Engineering and the Environment, University of Southampton, Southampton SO17 1BJ, UK, 5 Organisation f or Economic Co-operation and Development,
+
+Paris 75775, F rance. *e-mail: shallegatte@worldbank.org
+
+are better protected than poorer ones, and the ranking in terms
+
+of absolute flood losses contains more cities from developing
+
+countries. In relative terms, developing-country cities are even
+
+more vulnerable, with only three cities from developed countries in
+
+the top 20 (New Orleans, Miami and Tampa—Saint-Petersburg).
+
+Moreover the ranking in absolute terms (left column) includes
+
+mainly capital cities, whereas secondary cities are more often
+
+represented in the ranking in relative terms (right column). This
+
+difference suggests that risk management efforts may be lower
+
+in secondary cities.
+
+Table 1 shows the importance of existing flood defences: in a
+
+city such as Amsterdam, exposure is extremely high (US$83 billion
+
+of assets exposed to the 100-year flood), but AAL do not exceed
+
+US$3 million, because estimated defence standards are the highest
+
+that exist globally. On the other hand, a city such as Ho Chi Minh,
+
+in Vietnam, has a 100 year exposure of only US$18 billion, but the
+
+lower level of protection means that the city is affected by small
+
+floods on a frequent basis, resulting in large estimated average
+
+costs. In relative terms, Ho Chi Minh City has one of the largest
+
+vulnerabilities, with AAL reaching 0.74% of local GDP. The ratio
+
+of AAL to local GDP exceeds 1% for two cities, Guangzhou and
+
+New Orleans. The vulnerability of New Orleans has been reduced
+
+however by recent post-Hurricane Katrina investments and is likely
+
+to be reduced further in the near future 9 .
+
+Another conclusion from Table 1 is the concentration of losses
+
+in only a few cities. Only 13 cities have average losses in excess
+
+of US$100 million, and three American cities (Miami, New York
+
+City and New Orleans) explain 31% of the global aggregate losses
+
+in the 136 cities, because of their high wealth and low protection
+
+level. Adding Guangzhou, the four top cities explain 43% of global
+
+losses. Also, the US seems particularly vulnerable, with 6 American
+
+cities in exposure ranking, 8 in the ranking by absolute AAL, and
+
+3 in the ranking by relative AAL. As coastal flood risks are highly
+
+concentrated, flood reduction actions in a few locations could
+
+be very cost-effective.
+
+To develop possible future patterns of drivers of risk to 2070,
+
+our analysis introduces three scenarios for socio-economic changes
+
+and six for environmental change. From there, we retain four main
+
+scenarios: SEC assumes only socio-economic changes, derived from
+
+OECD and UN scenarios; SEC-S adds subsidence to scenario SEC
+
+(40 cm in 2050 in the cities subjected to subsidence); and SLR-1
+
+and SLR-2 add optimistic and pessimistic sea-level rise scenarios
+
+to SEC-S, respectively (with 20 cm and 40 cm in 2050). Here, we
+
+report results for 2050, but results for 2030 and 2070 are available
+
+in the Supplementary Information.
+
+With no adaptation, the projected increase in average losses
+
+by 2050 is huge, with aggregate losses increasing to more
+
+than US$1 trillion per year in scenarios SLR-1 and SLR-2
+
+(Supplementary Table S6). All cities experience a similar increase

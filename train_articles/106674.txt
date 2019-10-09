@@ -1,0 +1,14 @@
+Dental Caries and Head and Neck Cancers
+Importance Dental caries is the demineralization of tooth structures by lactic acid from fermentation of carbohydrates by commensal gram-positive bacteria. Cariogenic bacteria have been shown to elicit a potent Th1 cytokine polarization and a cell-mediated immune response.
+
+Objective To test the association between dental caries and head and neck squamous cell carcinoma (HNSCC).
+
+Design, Setting, and Participants Case-control study in a comprehensive cancer center including all patients with newly diagnosed primary HNSCC between 1999 and 2007 as cases and all patients without a cancer diagnosis as controls. Those with a history of cancer, dysplasia, or immunodeficiency or who were younger than 21 years were excluded.
+
+Exposures Dental caries, fillings, crowns, and endodontic treatments, measured by the number of affected teeth; missing teeth. We also computed an index variable: decayed, missing, and filled teeth (DMFT).
+
+Main Outcomes and Measures Incident HNSCC.
+
+Results We included 620 participants (399 cases and 221 controls). Cases had a significantly lower mean (SD) number of teeth with caries (1.58 [2.52] vs 2.04 [2.15]; P = .03), crowns (1.27 [2.65] vs 2.10 [3.57]; P = .01), endodontic treatments (0.56 [1.24] vs 1.01 [2.04]; P = .01), and fillings (5.39 [4.31] vs 6.17 [4.51]; P = .04) but more missing teeth (13.71 [10.27] vs 8.50 [8.32]; P < .001) than controls. There was no significant difference in mean DMFT. After adjustment for age at diagnosis, sex, marital status, smoking status, and alcohol use, those in the upper tertiles of caries (odds ratio [OR], 0.32 [95% CI, 0.19-0.55]; P for trend = .001), crowns (OR, 0.46 [95% CI, 0.26-0.84]; P for trend = .03), and endodontic treatments (OR, 0.55 [95% CI, 0.30-1.01]; P for trend = .15) were less likely to have HNSCC than those in the lower tertiles. Missing teeth was no longer associated with HNSCC after adjustment for confounding.
+
+Conclusions and Relevance There is an inverse association between HNSCC and dental caries. This study provides insights for future studies to assess potential beneficial effects of lactic acid bacteria and the associated immune response on HNSCC.

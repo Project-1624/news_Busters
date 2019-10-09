@@ -1,0 +1,12 @@
+Orbital Debris Program Office
+Debris Reentry
+
+Due to the increasing number of objects in space, NASA and the international aerospace community have adopted guidelines and assessment procedures to reduce the number of non-operational spacecraft and spent rocket upper stages orbiting the Earth. One method of postmission disposal is to allow the reentry of these spacecraft, either from natural orbital decay (uncontrolled) or controlled entry.
+
+One way to accelerate orbital decay is to lower the perigee altitude so that atmospheric drag will cause the spacecraft to enter the Earthâ€™s atmosphere more rapidly. However, in such cases the surviving debris impact footprint cannot be guaranteed to avoid inhabited landmasses. Controlled entry normally is achieved by using more propellant with a larger propulsion system to cause the spacecraft to enter the atmosphere at a steeper flight path angle. The vehicle will then enter the atmosphere at a more precise latitude and longitude, and the debris footprint can be positioned over an uninhabited region, generally located in the ocean.
+
+Spacecraft that reenter from either orbital decay or controlled entry usually break up at altitudes between 84-72 km due to aerodynamic forces causing the allowable structural loads to be exceeded. The nominal breakup altitude for spacecraft is considered to be 78 km. Large, sturdy, and dense satellites generally break up at lower altitudes. Solar arrays frequently break off the spacecraft parent body around 90-95 km because of the aerodynamic forces causing the allowable bending moment to be exceeded at the array/spacecraft attach point.
+
+After spacecraft (or parent body) breakup, individual components, or fragments, will continue to lose altitude and receive aeroheating until they either demise or survive to impact the Earth. Spacecraft components that are made of low melting-point materials (e.g., aluminum) will generally demise at higher altitudes than objects that are made of materials with higher melting points (e.g., titanium, stainless steel, beryllium, carbon-carbon).
+
+If an object is contained inside of a housing, the housing must demise before the internal object receives significant heating. Many objects have a very high melt temperature such that they do not demise, but some can be so light (e.g., tungsten shims) that they impact with a very low velocity. As a result, the kinetic energy at impact is sometimes under 15 J, a threshold below which the probability of human casualty is very low.

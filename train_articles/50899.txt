@@ -1,0 +1,54 @@
+Who wins and who loses from the tax bill?
+As Congress nears passage of a Republican-backed tax bill, there’s been a lot of discussion about who will benefit and who won’t. Here is some data about the winners and losers under the bill.
+
+We’re using data from two sources. One is the Joint Committee on Taxation, the nonpartisan group that analyzes tax bills for Congress. The other is the Urban Institute-Brookings Institution Tax Policy Center, an independent group that models the effects of tax legislation. Both groups analyzed previous versions of the bill, but in this article we’ll look at their analyses of the final version that, assuming it passes and is signed by President Donald Trump, will become law.
+
+We’ll look at a few key issues.
+
+• Will poor, middle-class and rich Americans all benefit, on average?
+
+• Are the gains for each income group proportionate to their share of the tax-paying population?
+
+• Can taxpayers expect any gains to last?
+
+Here’s our first chart, which uses Joint Committee on Taxation data. It shows how various income ranges would fare in 2019 -- the first year the committee looked at -- under the bill. We’ve listed the overall change in taxes paid for each income group, with cuts noted as negative and increases noted as positive (the second column). We then calculated the share of those gains received by each income range (the third column), and compared that to the percentage of taxpayers who fall into that income range (the fourth column).
+
+Income range Total change in federal taxes in 2019 Share of reductions in taxes in 2019 Percentage of all taxpayers falling in this income range in 2019 Less than $10,000 - $396 million 0.2 percent 11 percent $10,000 to $20,000 - $1,792 million 0.7 percent 12 percent $20,000 to $30,000 - $2,982 million 1.1 percent 12 percent $30,000 to $40,000 - $5,416 million 2 percent 9 percent $40,000 to $50,000 - $6,728 million 2.6 percent 7 percent $50,000 to $75,000 - $23,046 million 9 percent 15 percent $75,000 to $100,000 - $22,437 million 9 percent 10 percent $100,000 to $200,000 - $70,372 million 27 percent 17 percent $200,000 to $500,000 - $65,485 million 25 percent 5 percent $500,000 to $1,000,000 - $23,947 million 9 percent 0.6 percent $1,000,000 and over - $36,853 million 14 percent 0.3 percent Total - $259,454 million 100 percent 100 percent
+
+The good news for taxpayers is that every income group would pay less in taxes in 2019. (This is the case for these income groups as a whole -- individual taxpayers may not necessarily gain. More on that in a moment.)
+
+That said, the benefits of the tax bill would flow disproportionately to wealthier taxpayers.
+
+About half of the households filing returns had incomes below $50,000, according to the Joint Committee on Taxation, but they collectively get just 6.6 percent of the tax gains in the bill.
+
+By contrast, only about 1 percent of households filing returns had incomes above $500,000, but they stand to gain 23 percent of the benefits from the bill. (It’s worth noting that the United States has a progressive tax system, which means that taxpayers with higher incomes pay a larger share of their income in taxes. So it’s not surprising that wealthier taxpayers would receive a greater share of the benefits in a tax bill.)
+
+So what happens further in the future? Here’s the Joint Committee on Taxation analysis of the tax bill’s impacts in 2027:
+
+Income range Total change in federal taxes in 2027 Share of reductions in taxes in 2027 Share of returns in this income range in 2027 Less than $10,000 + $383 million 0 percent 10 percent $10,000 to $20,000 + 6,487 million 0 percent 11 percent $20,000 to $30,000 + $8,359 million 0 percent 12 percent $30,000 to $40,000 + $4,864 million 0 percent 9 percent $40,000 to $50,000 + $4,317 million 0 percent 8 percent $50,000 to $75,000 + $4,060 million 0 percent 15 percent $75,000 to $100,000 - $1,037 million 4 percent 10 percent $100,000 to $200,000 - $5,993 million 24 percent 18 percent $200,000 to $500,000 - $5,890 million 24 percent 5 percent $500,000 to $1,000,000 - $3,099 million 13 percent 0.7 percent $1,000,000 and over - $8,495 million 35 percent 0.3 percent Total + 3,958 million 100 percent 100 percent
+
+By 2027, every income group below $75,000 sees a tax increase. Only those income ranges above $75,000 still see a cut by 2027. That’s a significantly different pattern than in 2019, when every group saves, on average.
+
+Meanwhile, if you look at the income groups who gain in 2027, there’s an even stronger skew toward the wealthiest taxpayers. The top 1 percent of taxpayers -- those earning at least $500,000 -- take 48 percent of the gains.
+
+Why the big changes by 2027? The primary reason is that some of the individual tax cuts phase out in 2025. In addition, some of the inflation adjustments used under the bill are less generous than the current ones.
+
+Now remember that the previous charts reflected the cumulative gains for each income range. However, the fact that members of an income range gain collectively doesn’t mean that every single member of that income group is better off -- it just means that, on average, gains outpace losses. The reality is that some taxpayers in every income group will lose, even when their group gains as a whole.
+
+To get at this question, we’ve used data from the Tax Policy Center showing the projected breakdown between gainers and losers under the tax bill. First, let’s look at what happens in 2018. (Note: The center uses percentiles to define income ranges, rather than the dollar amounts used by the Joint Committee on Taxation, and it also chose to publish its analysis for 2018 rather than 2019.)
+
+Income range Percentage with a tax cut in 2018 Average tax cut for those with a cut Percentage with a tax increase in 2018 Average tax increase for those with an increase Lowest 20 percent 53.9 percent - $130 1.2 percent $810 20th to 40th percentile 86.8 percent - $480 4.6 percent $740 40th to 60th percentile 91.3 percent - $1,090 7.3 percent $910 60th to 80th percentile 92.5 percent - $2,070 7.3 percent $1,360 80th to 90th percentile 92.3 percent - $3,370 7.6 percent $1,800 90th to 95th percentile 94.4 percent - $4,910 5.5 percent $1,890 95th to 99th percentile 97.3 percent - $13,890 2.7 percent $8,260 Top 1 percent 90.7 percent - $61,940 9.3 percent $93,910 Top 0.1 percent 83.7 percent - $285,490 16.2 percent $387,610
+
+For 2018, the likelihood of benefiting from the bill isn’t 100 percent, but for every group, there are many more gainers than there are losers. Indeed, for all but the top 1 percent, no income group has more than a 7.6 percent chance that of losing ground under the tax bill in 2018.
+
+So what happens by 2027?
+
+Income range Percentage with a tax cut in 2027 Average tax cut for those with a cut Percentage with a tax increase in 2027 Average tax increase for those with an increase Lowest 20 percent 11.1 percent - $120 32.6 percent $90 20th to 40th percentile 23.3 percent - $280 57.7 percent $140 40th to 60th percentile 24.4 percent - $520 69.7 percent $150 60th to 80th percentile 33.2 percent - $680 64.2 percent $190 80th to 90th percentile 38.1 percent - $1,150 60.5 percent $300 90th to 95th percentile 50.2 percent - $1,320 48.7 percent $450 95th to 99th percentile 58 percent - $3,510 41.5 percent $740 Top 1 percent 75.9 percent - $39,690 23.8 percent $1,250 Top 0.1 percent 91.9 percent - $206,280 8 percent $3,200
+
+Notice how the benefits shrink for most taxpayers in 2027.
+
+Almost 76 percent of households in the top 1 percent would see a tax cut. And almost 92 percent of households in the top 0.1 percent would see a tax cut. The top 1 percent in 2027 are projected to earn $912,000, and the top 0.1 percent is projected to be making more than $5 million a year.
+
+But fewer than one-third of taxpayers in the bottom 80 percent of the income spectrum would see a tax cut in 2027.
+
+House Speaker Paul Ryan, R-Wis., speaks during a news conference on Capitol Hill on Dec. 19, 2017, after the House had begun debate on the final version of a major tax bill. (Tom Brenner/New York Times)

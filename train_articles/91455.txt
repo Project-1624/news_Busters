@@ -1,0 +1,36 @@
+Another Moon for Earth? Well, Not Really, but It Depends on Your Point of View.
+Paul Chodas/JPL via the British Astronomical Association
+
+The Earth has one satellite, right? That fact is so solid, we just call it the Moon with a capital M.
+
+But due to a trick of gravity and timing, there are other objects out in space that aren’t really moons but do travel along with Earth through space. I guess “companions” would be a better name.
+
+Advertisement
+
+
+
+One of them was just discovered recently by astronomers: the asteroid 2016 HO3. It’s small, probably 40–100 meters in size, and let me be clear: It orbits the Sun, not the Earth, so I wouldn’t call it a moon. But its orbit is such that it always sticks near the Earth, and from our point of view even seems to go around us!
+
+Here’s how that works. The asteroid was first seen in April 2016 in observations of the sky taken by the Pan-STARRS observatory, designed to look for asteroids and comets that get close to Earth. That’s recent enough that a really good orbit for it is hard to determine, but it turns out it was seen in older observations (those can be found by tracing the orbit backward and checking if any observations of it were archived), providing a much longer baseline and therefore a better orbit.
+
+Phil Plait Phil Plait writes Slate’s Bad Astronomy blog and is an astronomer, public speaker, science evangelizer, and author of Death From the Skies!
+
+What they found is really interesting: The orbit of HO3 is very Earth-like! It’s very slightly elliptical, and tilted by about 8° with respect to Earth’s, but the average distance of the asteroid from the Sun is just a hair more than Earth’s, and it takes 365.93 days to orbit the Sun. That’s just 16.6 hours longer than Earth’s 365.24 daylong year!
+
+Because it’s moving on a tilted and elliptical orbit, sometimes it’s a wee bit closer to the Sun and moving a bit faster than Earth, and sometimes it’s a wee bit farther out and moving a bit more slowly. But it never gets closer than about 14 million kilometers from Earth or farther than about 40 million kilometers.
+
+Advertisement
+
+
+
+That’s hard to picture, so I made an animation using the JPL Small Body Database Browser. It shows the inner solar system and keeps Earth centered as it and 2016 HO3 orbit the Sun (HO3’s orbit is blue; light blue for when it’s north of (“above”) the Earth’s orbit, and dark blue when it’s south (“below”). As time moves forward, you can see HO3 moving faster and ahead of the Earth, then slowing and lagging behind, but never getting very far away:
+
+So as you can see it’s clearly orbiting the Sun, but never straying far from Earth. If you map its motion relative to Earth, it actually appears to go around us, like a moon! That’s shown in the diagram at the top of this article.
+
+But it gets weirder. Because the orbit is slightly longer than Earth’s, you’d expect it to drift away over many years, lagging behind Earth more and more every year. But that’s not the case! Earth’s gravity tugs on HO3, changing the orbit slightly every time they pass. That keeps HO3’s orbit in line with Earth’s, so it never gets too close or too far away. It’ll be our companion for at least the next few centuries.
+
+If you’re wondering how we’ve missed it all this time, I’ll remind you it’s small and still pretty far away in terms of actual kilometerage. Even at closest approach it’s at about 21st magnitude, or just one-millionth as bright as the faintest star you can see with your unaided eye. It takes a decent telescope to see it at all.
+
+I find things like this delightful. The Universe is so surprising! Due to the law of gravity our solar system is in many ways like a clock, each object like a gear ticking away in time with the others.
+
+But there’s more than fanciful analogies to be had here: Because of its similar orbit, HO3 is moving relatively slowly compared with Earth’s motion through space. That makes it a rather tempting target for a space mission, where how much fuel you need to get from point A to point B depends on their relative motion. HO3 is moving just a few kilometers per second relative to Earth in some parts of it orbit, making it much easier to send a probe there. Or maybe, someday, humans.

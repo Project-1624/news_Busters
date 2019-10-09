@@ -1,0 +1,140 @@
+The Hubble Helix
+Home - Observations - Data - Reductions - Images The Hubble Helix Observations
+
+Following the prediction of a large flux of Leonid meteoroids during the November 2002 shower, the Hubble Space Telescope Project directed that HST be pointed directly away from the radiant during the expect ed peak, so as to minimize the exposed cross-section to the meteoroids. Fortuitously, the anti-radiant point lies within 1� .3 of the Helix Nebula (NGC 7293), one of the nearest and angularly largest of all planetary nebulae. Thus, our team at the Space Telescope Science Institute (STScI) took the opportunity to carry out an imaging campaign on the Helix Nebula during the nine-orbit Leonid stand-down. The resulting images have all been placed immediately in the HST Archive, where they are available for analysis by any interested astronomers. For safety's sake the MAMA detectors could not be used and the spacecraft's roll angle was fixed in order to minimize the solar panel's cross-section. The Hubble Helix data was produced by HST program 9700.
+
+We were able to operate all four HST cameras simultaneously: the newly installed Advanced Camera for Surveys (ACS), the Wide Field Planetary Camera 2 (WFPC2), the Space Telescope Imaging Spectrograph (STIS), and the Near Infrared Camera and Multiobject Spectrograph (NICMOS). The nine pointings were optimized for contiguous coverage with ACS, leaving the other imagers pointing at adjacent sky regions. Since the Helix Nebula is too large to be covered completely, even in nine ACS pointings, we chose to image the nebula's core and northwest side. The gap in the middle of the ACS mosaic occurred because of an unexpected interaction between the SAME POS AS special requirement and the use of a subarray for the central star of the planetary nebula.
+
+Summary of all the data obtained Instrument Filter Spectral Lines Number of
+
+Exposures
+
+On/Off
+
+Nebula Exposure Time
+
+On/Off
+
+Nebula
+
+(hours) ACS/WFC F658N H-alpha 6562A + [N II] 6584A 46/0 5.12/- ACS/WFC F502N [O III] 5007A 46/0 4.92/- WFPC2 F656N H-alpha 6563A 20/0 2.56/- WFPC2 F631N [O I] 6300A 18/0 2.35/- WFPC2 F469N He II 4686A 2/0 0.24/- NIC3 F212N H2 2.12 microns 12/4 2.20/0.71 NIC3 F187N Pa-alpha 1.87 microns 4/2 0.43/0.21 STIS F28X50OII [O II] 3727A 8/12 1.00/1.50 ACS exposure details
+
+The following "road map" shows the relationship of the ACS F502N exposures listed below (similar for F658N) -- the exposure overlaps, interchip gaps, and the nebula. Also, the five "reg stars" (which appear on two tiles) are circled - their positional offsets (XDELTA,YDELTA) were used to refine the registration of the mosaic. Tile 5 was arbitrarily chosen to be the reference position (0,0) for adjacent tiles 2 and 6. Tile 4 was chosen to be the "offset" reference position (9,9) for tiles 1, 7, and 8. This offset between the tile 5 and tile 4 clusters was rather crudely measured using knots (since no stars are available) in the tile 1/2 overlap region. See the object catalog at the end of the Reductions page for details on the registration stars and other objects in the field. These other objects could be used to further refine the registration between the two exposures in each tile, and/or to align the entire mosaic with the Guide Star Catalog (or some other reference frame).
+
+image rootname filter exp line exp time target
+
+-tile WFC aperture RA WFC aperture DEC XPOS
+
+TARG YPOS
+
+TARG reg
+
+stars other
+
+stars input
+
+XDELTA
+
+pixels input
+
+YDELTA
+
+pixels notes j8kr01lhq F502N 1.010 425 NGC7293
+
+-POS1 337.4111 -20.7617 0.0 0.0 - - 8.11 5.59 reg with 1lq, galaxy also on 2m7 j8kr01lqq F502N 1.021 425 NGC7293
+
+-POS1 337.4111 -20.7617 20.0 -20.0 38 - 8.11 5.59 j8kr02m7q F502N 2.010 425 NGC7293
+
+-POS2 337.3578 -20.7829 0.0 0.0 - 31,37 5.85 1.10 reg with 2mi, galaxy also on 1lh j8kr02miq F502N 2.021 425 NGC7293
+
+-POS2 337.3578 -20.7829 20.0 -20.0 11 37 5.85 1.10 j8kr03mxq F502N 3.010 400 NGC7293
+
+-POS3 337.3045 -20.8040 0.0 0.0 - 1,2,7,
+
+10,39 7.67 2.25 shifts are avg of tiles 2,6 j8kr03n6q F502N 3.021 400 NGC7293
+
+-POS3 337.3045 -20.8040 20.0 -20.0 - - 7.67 2.25 shifts are avg of tiles 2,6 j8kr14jaq F502N 14.012 410 NGC7293
+
+-POS4 337.4338 -20.8116 0.3 -63.6 38 - 8.45 6.91 WCS not registered with 4jk? j8kr14jkq F502N 14.021 410 NGC7293
+
+-POS4 337.4338 -20.8116 20.0 -20.0 3,38 3,38 9.00 9.00 offset ref image for tiles 1,4,7,8; star 3 bleeding j8kr05k0q F502N 5.012 410 NGC7293
+
+-POS5 337.3804 -20.8327 20.0 20.3 36 14,18 0.00 0.00 reference image for tiles 2,5,6 j8kr05k5q F502N 5.020 460 NGC7293
+
+-POS5 337.3804 -20.8327 0.0 0.0 11,36 14,18 0.00 0.00 reference image for tiles 2,5,6 j8kr06o3q F502N 6.011 510 NGC7293
+
+-POS6 337.3271 -20.8539 0.0 0.0 - - 9.49 3.40 reg with 6o5, object 22 is a galaxy? j8kr06o5q F502N 6.020 510 NGC7293
+
+-POS6 337.3271 -20.8539 20.0 -20.0 36 36 9.49 3.40 star 36 saturated and bleeding j8kr07kwq F502N 7.011 445 NGC7293
+
+-POS7 337.4564 -20.8614 0.0 0.0 3,16 19,24 5.34 4.40 star 3 saturated and bleeding j8kr07kyq F502N 7.020 445 NGC7293
+
+-POS7 337.4564 -20.8614 20.0 -20.0 3,16 19,24 4.89 4.76 star 3 saturated and bleeding j8kr08ogq F502N 8.011 510 NGC7293
+
+-POS8 337.4031 -20.8826 0.0 0.0 - 9,33,35 4.60 11.29 reg with 8oi j8kr08oiq F502N 8.020 510 NGC7293
+
+-POS8 337.4031 -20.8826 20.0 -20.0 16 9,33,35 4.60 11.29 star 35 is a true 0.2" double star! j8kr09nnq F502N 9.011 445 NGC7293
+
+-POS9 337.3498 -20.9038 0.0 0.0 - 4,6,8,17 7.05 7.35 shifts are avg of tiles 6,8 j8kr09nsq F502N 9.020 445 NGC7293
+
+-POS9 337.3498 -20.9038 20.0 -20.0 - 4,6,8,17 7.05 7.35 shifts are avg of tiles 6,8 j8kr01lkq F658N 1.011 450 NGC7293
+
+-POS1 337.4111 -20.7617 0.0 0.0 - - 8.11 5.59 reg with 1lm, galaxy also on 2ma j8kr01lmq F658N 1.020 450 NGC7293
+
+-POS1 337.4111 -20.7617 20.0 -20.0 38 - 8.11 5.59 j8kr02maq F658N 2.011 475 NGC7293
+
+-POS2 337.3578 -20.7829 0.0 0.0 - 31,37 5.85 1.10 reg with 2me, galaxy also on 1lh j8kr02meq F658N 2.020 475 NGC7293
+
+-POS2 337.3578 -20.7829 20.0 -20.0 11 37 5.85 1.10 j8kr03mzq F658N 3.011 445 NGC7293
+
+-POS3 337.3045 -20.8040 0.0 0.0 - 1,2,7,
+
+10,39 7.67 2.25 shifts are avg of tiles 2,6 j8kr03n3q F658N 3.020 445 NGC7293
+
+-POS3 337.3045 -20.8040 20.0 -20.0 - - 7.67 2.25 shifts are avg of tiles 2,6 j8kr14jdq F658N 14.013 460 NGC7293
+
+-POS4 337.4338 -20.8116 0.3 -63.6 38 - 8.45 6.91 WCS not registered with 4jf? j8kr14jfq F658N 14.020 460 NGC7293
+
+-POS4 337.4338 -20.8116 20.0 -20.0 3,38 3,38 9.00 9.00 offset ref image for tiles 1,4,7,8; star 3 bleeding j8kr05k3q F658N 5.013 460 NGC7293
+
+-POS5 337.3804 -20.8327 20.0 20.3 36 14,18 0.00 0.00 reference image for tiles 2,5,6 j8kr05kaq F658N 5.021 410 NGC7293
+
+-POS5 337.3804 -20.8327 0.0 0.0 11,36 14,18 0.00 0.00 reference image for tiles 2,5,6 j8kr06o0q F658N 6.010 510 NGC7293
+
+-POS6 337.3271 -20.8539 0.0 0.0 - - 9.49 3.40 reg with 6o9, object 22 is a galaxy? j8kr06o9q F658N 6.021 510 NGC7293
+
+-POS6 337.3271 -20.8539 20.0 -20.0 36 36 9.49 3.40 star 36 saturated and bleeding j8kr07ktq F658N 7.010 445 NGC7293
+
+-POS7 337.4564 -20.8614 0.0 0.0 3,16 19,24 5.34 4.40 star 3 saturated and bleeding j8kr07l2q F658N 7.021 445 NGC7293
+
+-POS7 337.4564 -20.8614 20.0 -20.0 3,16 19,24 4.89 4.76 star 3 saturated and bleeding j8kr08odq F658N 8.010 510 NGC7293
+
+-POS8 337.4031 -20.8826 0.0 0.0 - 9,33,35 4.60 11.29 reg with 8om j8kr08omq F658N 8.021 510 NGC7293
+
+-POS8 337.4031 -20.8826 20.0 -20.0 16 9,33,35 4.60 11.29 star 35 is a true 0.2" double star! j8kr09nlq F658N 9.010 400 NGC7293
+
+-POS9 337.3498 -20.9038 0.0 0.0 - 4,6,8,17 7.05 7.35 shifts are avg of tiles 6,8 j8kr09nvq F658N 9.021 400 NGC7293
+
+-POS9 337.3498 -20.9038 20.0 -20.0 - 4,6,8,17 7.05 7.35 shifts are avg of tiles 6,8 image rootname filter exp line exp time target
+
+-tile WFC aperture RA WFC aperture DEC XPOS
+
+TARG YPOS
+
+TARG reg
+
+stars other
+
+stars input
+
+XDELTA
+
+pixels input
+
+YDELTA
+
+pixels notes
+
+Maintained by the Hubble Helix Team. Send comments to mutchler@stsci.edu.
+
+hide scripts from old browsers

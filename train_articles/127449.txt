@@ -1,0 +1,34 @@
+What is NFC? Everything you need to know
+How NFC works and how to use it
+
+Have you ever wondered what makes tap-and-go services like Apple Pay, Google Wallet and Amiibo work? As much as it seems like pure magic, it isn't.
+
+So what is it exactly? Simply put, it's a method of wireless data transfer that detects and then enables technology in close proximity to communicate without the need for an internet connection. It's easy, fast and works automagically.
+
+How does NFC work?
+
+The tech involved is deceptively simple. Evolved from radio frequency identification (RFID) tech, an NFC chip operates as one part of a wireless link. Once it's activated by another chip, small amounts of data between the two devices can be transferred when held a few centimeters from each other.
+
+Near field communication is fast and easy
+
+No pairing code is necessary to link up and because it uses chips that run on very low amounts of power (or passively, using even less), it's much more power-efficient than other wireless communication types.
+
+At its core, NFC works to identify us by our enabled cards and devices (and by extension, our bank accounts and other personal info.)
+
+How can I use NFC right now?
+
+NFC chips stocked inside credit cards for contactless payments is nothing new. But a more recent and admittedly more enticing use case for NFC is with your smartphone, which can digitize your entire wallet.
+
+Google Wallet allows Android users to pay via NFC
+
+Virtually every mobile OS maker has their own apps that offer unique NFC functionality. Android users have the widest variety to choose from. First off, US users can nab Google Wallet, which accesses your funds for contactless payments. Samsung Pay, which operates similarly, is on the way for Samsung phone users in US and Korea this Summer.
+
+However, a feature that all Android owners have been able to enjoy is called Android Beam. It was implemented in Ice Cream Sandwich 4.0 as a nifty, simple process that allows for the transfer of photos, contacts and directions that works by holding two phones together.
+
+Our inaugural purchase with Apple Pay was an Apple Pie
+
+Apple's iPhone 6 and iPhone 6 Plus received NFC functionality, albeit with limited use so far, only for Apple Pay. It's a lot like Google Wallet, in that it's an app which gives users the ability to pay for goods and services at participating retailers. Lastly, those who prefer Microsoft's Windows Phone will be able to use Microsoft Payments when it launches likely around the launch of Windows 10.
+
+Whichever device you have, it's likely that a local supermarket, train station, taxi or coffee shop supports contactless payments via your phone's NFC chip. Go try it out! Simply hold it close to a contactless payment terminal and instantly, like swiping a credit card, the payment will complete.
+
+Looking toward the future, it's possible that NFC chips could be used to replace every card in your wallet. That means the unique info on your frequent shopper loyalty cards, library card, business cards and the like could be contained and transmitted simply via NFC.

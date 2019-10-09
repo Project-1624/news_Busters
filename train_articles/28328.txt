@@ -1,0 +1,60 @@
+Ghost Gunner 2 , Personal Gun Making Machine – Review
+By John Crump
+
+U.S.A. –-(Ammoland.com)- Cody Wilson was deemed by Wired Magazine as “the fifth most dangerous man in the world.”
+
+Others have called him and his organization, Defense Distributed, “friends of freedom.” No matter what you think of him and his organization what can’t be denied is that Defense Distributed was born in controversy.
+
+Their first step into the public conscience was in 2012 with a project that they called “Wiki Weapons” which are files that can be downloaded from the internet and enables the end users to print a firearm using a 3D printer. Their first Wiki Weapon was an AR15 lower receiver totally printed by a 3D printer. Then they made printable AR15 and AK47 magazines. In 2013 “The Liberator” was born.
+
+The Liberator was named after the pistol dropped over France during World War II that was supposed to give the French the ability to fight back against the NAZIs. This Liberator is a fully printable single shot .380 pistol. Only days after the files were released the U.S. Department of State accused Defense Distributed of violating International Traffic in Arms Regulations (ITAR). Not one to run from a fight, Defense Distributed filed a lawsuit against the US Department of State on First Amendment grounds.
+
+The name of the company, Defense Distributed, is taken from being able to distribute files over the internet that could be used to make untraceable firearms. For Cody Wilson and the other members of Defense Distributed, the idea of being able to transfer files to make firearms meant much more than just being able to make guns. It is a means of safeguarding freedom. When someone has the ability to print their own guns at home it means that they can never be subjects without the ability to fight back.
+
+Read my interview with Defense Distributed's Cody Wilson
+
+Cody Wilson didn’t start out as a “gun guy”. He didn’t grow up around guns, but he came to realize that owning a gun is essential to one's own personal freedom. He decided to give people around the world a means to resist draconian gun laws and a means to resist tyranny.
+
+You can call him a troublemaker, and maybe he is one. One thing is for sure, and that is Cody Wilson does care about taking the power away from government and giving it back to the people. The government might have shut down the Liberator, but Defense Distributed wasn’t about to stop giving power back to the people.
+
+Defense Distributed latest project is known as the “Ghost Gunner 2”. What the Ghost Gunner 2 basically is a mini CNC machine that enables the user to complete 80% lower receiver using 3D printed jigs that are included with the machine. An 80% lower receiver is an AR15 or AR10 lower receiver that still needs milling before it is considered a firearm and therefore not serialized. US law states a firearm only needs a serial number if it is intended to be transferred. This means the end user can finish an 80% lower receiver and not add a serial number.
+
+Ghost Gunner 2 Operator’s Manual
+
+The Ghost Gunner 2 is shipped fully assembled with all tools needed to start finishing 80% lowers receivers right down the wrenches to install the drill and milling bits. It comes very well packaged in a cardboard box surrounded by thick foam packaging. The bottom piece of foam can be used as a chip tray for the aluminium chips that are left over from the milling process. The user does have to cut a slot in the foam for the power cord, but that like everything else with the Ghost Gunner 2 is easy to accomplish.
+
+All drivers and software comes on an USB thumb drive. It is easy to install the drivers for the Ghost Gunner 2. All the user has to do is follow the simple printed instructions (see scribd embed above) that comes included in the box that will walk the user through installing the drivers onto the user’s computer, and then running the software that comes with machine.
+
+Another feature on the USB drive supplied by Defense Distributed are files that allow the user to use commercially available 3D printers to make jigs for AR15s and AR10s 80% lower receivers. This is a return to what made Defense Distributed famous.
+
+Once the drivers are installed all you do is plug in the USB cable that is included and run the DDCut operating software. DDCut is what runs the Ghost Gunner 2. It is totally intuitive to use and well designed. It is not cluttered and very streamlined. All the user has to do is select the Ghost Gunner 2 that they want to use and open the project file that they want the Ghost Gunner 2 to run. In most cases that would be the standard AR15 code, but there is options for just drilling out hole for the pins with and without the opening for the safety selector.
+
+The DDCut software will walk you step by step to install the jigs to hold the 80% lower receiver and install the cutting tools into the Ghost Gunner 2. Once the jigs are on the 80% lower receiver the end user just needs to follow the simple onscreen instruction and insert the 80% lower receiver into the CNC machine. Then the user installs the magnetic chip cover and clicks OK. The Ghost Gunner will mill out the trigger well.
+
+Once the trigger well is milled out the DDCut software will walk the user through unmounting the lower receiver from the Ghost Gunner 2. Then the DDcut software will walk the user through reinstalling the lower receiver back into the Ghost Gunner. The milling tool is uninstalled by following the instructions given by the DDCut software, and the drill bit is installed to drill the holes for the pins and safety selector.
+
+The whole process from turning on the Ghost Gunner 2 to completing the lower is about 10 minutes of setup and 2 hours of the Ghost Gunner 2 running (see video above) the program to mill out the lower receiver. What I did is set up the 80% lower receiver and went and had dinner with my family. After dinner I went to check on the lower receiver and followed the instructions to finish drilling the holes and safety selector.
+
+Twenty minutes later I had a completed lower receiver.
+
+I repeated the process again with an AR10 lower and jigs provided by Defense Distributed for the Ghost Gunner 2. It was just as easy as with the AR15 lower receiver. The process went smoothly and was almost identical to the AR15 lower receiver. Both at the AR15 and AR10 lower receivers both appeared to be correct, but only installing a couple lower parts kits into the lower receivers and firing them would let me know for sure.
+
+Both lower parts kits went in as easy as they would have went into any stripped lower receiver on the market. For the AR15 lower receiver I used an Anderson lower parts kit, and for the AR10 lower receiver I used a DPMS lower parts kit. I function tested both before adding a PSA upper onto the AR15 lower receiver and an Aero Precision upper onto the AR10 lower receiver.
+
+I headed to the range to test fire both rifles. They both worked well without any issues. I put 6 full magazines through each rifles. I took both rifles back home and stripped them down to look for any stress fractures in the trigger wells as well as checking for any looseness around the pins. This would show if the drilling or milling was off at all. Both passed the check up.
+
+According to Defense Distributed the milling bit will last through dozens of lower receivers. They currently are selling a combo kit of a milling bit and a drill bit on their website for $30, but since it uses standard sizes the user can also buy the bits from other sites such as Amazon or eBay.
+
+Everything about the Ghost Gunner 2 is open source. The source code for the DDCut software can be downloaded and modified from the Ghost Gunner 2 website. Also if the user is familiar with G-Code it will open up things such as engraving, or even using the Ghost Gunner 2 for non firearms projects. This machine is much more than advertised. It is a fully functional CNC machine.
+
+Defense Distributed is coming out with more project files for the Ghost Gunner 2. One of the projects that has me excited is that they are working on an 80% 1911. This would be truly a game changer. I will be interested in seeing where they can go from here. They have some truly brilliant people working for them.
+
+Following the directions provided by the DDCut software is incredibly simple, and it allows people with no skills with CNC machines to cut out a perfect lower receiver. It truly lets the genie out of the bottle by giving everyone the ability to create unserialized lower receivers, and this genie can not be put back in the bottle.
+
+Defense Distributed can be found at https://defdist.org/
+
+The Ghost Gunner 2 can be purchased at https://ghostgunner.net/
+
+About John Crump
+
+John is a NRA instructor and a constitutional activist. He is the former CEO of Veritas Firearms, LLC and is the co-host of The Patriot News Podcast which can be found at www.blogtalkradio.com/patriotnews. John has written extensively on the patriot movement including 3%'ers, Oath Keepers, and Militias. In addition to the Patriot movement, John has written about firearms, interviewed people of all walks of life, and on the Constitution. John lives in Northern Virginia with his wife and sons and is currently working on a book on the history of the patriot movement and can be followed on Twitter at @crumpyss or at www.crumpy.com.

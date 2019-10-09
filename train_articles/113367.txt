@@ -1,0 +1,30 @@
+Howstuffworks "Battery Arrangement and Power"
+Battery Arrangement and Power
+
+In many devices that use batteries - such as portable radios and flashlights, you do not use just one cell at a time. You normally group them together serially to form higher voltages, or in parallel to form higher currents. In a serial arrangement, the voltages add up. In a parallel arrangement, the currents add up. The following diagram shows these two arrangements:
+
+
+
+
+
+The upper arrangement is called aarrangement. If you assume that each cell produces 1.5 volts, then four batteries in parallel will also produce 1.5 volts, but the current supplied will be four times that of a single cell. The lower arrangement is called aarrangement. The four voltages add together to produce 6 volts.
+
+Normally, when you buy a pack of batteries, the package will tell you the voltage and current rating. For example, a digital camera might use four nickel-cadmium batteries that are rated at 1.25 volts and 500 milliamp-hours for each cell. The milliamp-hour rating means, theoretically, that the cell can produce 500 milliamps for one hour. You can slice and dice the milliamp-hour rating in lots of different ways. A 500 milliamp-hour battery could produce 5 milliamps for 100 hours, or 10 milliamps for 50 hours, or 25 milliamps for 20 hours, or (theoretically) 500 milliamps for 1 hour, or even 1,000 milliamps for 30 minutes.
+
+However, batteries are not quite that linear. For one thing, all batteries have a maximum current they can produce -- a 500 milliamp-hour battery cannot produce 30,000 milliamps for 1 second, because there is no way for the battery's chemical reactions to happen that quickly. And at higher current levels, batteries can produce a lot of heat, which wastes some of their power. Also, many battery chemistries have longer- or shorter-than-expected lives at very low current levels. But milliamp-hour ratings are somewhat linear over a normal range of use. Using the amp-hour rating, you can roughly estimate how long the battery will last under a given load.
+
+If you arrange four of these 1.25-volt, 500 milliamp-hour batteries in a serial arrangement, you get 5 volts (1.25 x 4) at 500 milliamp-hours. If you arrange them in parallel, you get 1.25 volts at 2,000 (500 x 4) milliamp-hours.
+
+Have you ever looked inside a normal 9-volt battery?
+
+
+
+
+
+Manufacturers caution against disassembling batteries, to avoid personal injury. However, a partially disassembled 9-volt battery would look like this.
+
+It contains six, very small batteries producing 1.5 volts each in a serial arrangement!
+
+Batteries have proven to be one of the most important inventions of the 20th century and are becoming more so as we continue the shift toward a more mobile lifestyle. In the future, batteries will grow smaller, more powerful and longer lasting in order to keep up with our fast paced, portable world.
+
+For more information on batteries and related topics, check out the links on the next page.

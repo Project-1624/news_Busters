@@ -1,0 +1,64 @@
+The University of Arizona
+Formaldehyde fixatives
+
+Information about 37% Formaldehyde
+
+There is no definitive age after which 37% Formaldehyde is no longer useful as a stock solution. Formaldehyde chemistry is moderately complex, but after discussions with other microscopists, manufacturers and reviewing pertinent texts, the following observations are applicable.
+
+Formaldehyde should be stored at room temperature (cold temperatures encourage the formation of trioxymethylene with a resulting white precipitate)
+
+Formaldehyde should be stored tightly sealed, since exposure to air encourages the oxidation of formaldehyde to formic acid (37% formaldehyde is usually shipped with 10-15% methanol to inhibit this change).
+
+Our recommendation regarding 37% stock solutions: If a solution of 37% formaldehyde is clear, colorless and has no precipitate, and has been stored at room temperature in a tightly sealed bottle that has not been exposed to sunlight, it should be good, however, we still do not recommend using a stock bottle that is older than 1 year. Bottles of 37% formaldehyde that are already opened should not be used more than six months. Consequently, we recommend that labs purchase their formaldehyde more frequently and in smaller quantities than perhaps they have done in the past.
+
+Use of 37% Formaldehyde is not recommended for electron microscopy fixatives. Either a higher grade, methanol-free formaldehyde or a fresh solution made from paraformaldehyde is a much better choice (see further comments below).
+
+Information about 10% Formalin
+
+The fixative 10% buffered formalin is commonly used to preserve tissues for routine histology in many labs. The formaldehyde has a greater chance for oxidation in this concentration of tissue fixative and eventually the solution will start to drop in pH, in spite of the buffer. We recommend that 10% buffered formalin solutions be used no longer than 3 months after they were initially mixed. The solution should be clear, colorless, with no precipitate and the pH should not be below 6.5.
+
+The other problem with 10% buffered formalin is the slowly increasing concentration of methanol (an unwanted byproduct of aging formaldehyde). Methanol promotes clumping of proteins, instead of the cross-linking of proteins that formaldehyde performs. A methanol-free fixative will give the best preservation, particularly if you plan to use the tissue for antibody staining at a later time.
+
+The most common way to avoid methanol in a formaldehyde solution is to make the solution up fresh from crystalline paraformaldehyde. Paraformaldehyde can be quite hazardous to handle and it is often difficult to get it to go into solution. If your lab is not a regular user of formaldehyde fixatives, there are a couple of easier options that we recommend.
+
+One option is to purchase methanol-free formaldehyde (aq) in sealed ampoules. Simply add PBS to achieve the correct formaldehyde concentration and use immediately. Ten 10 ml ampoules of 16% methanol-free formaldehyde costs approximately $27.
+
+The other option is to buy 10% neutral buffered Formalin (4% formaldehyde) from a scientific supply house, use it for 3-6 months and then discard it (as a hazardous material). There will be some methanol in this solution (typically 1-2%), but if used soon after purchase this should not be significant for most users. The buffered solution helps slow the acidification process. A one liter bottle costs approximately $20-25. Store the fixative at room temperature. Local readers of this page should contact the CMM Histology Service Lab (626-4415) if you have trouble locating a supplier. (Please note, different suppliers use different buffering solutions. For consistent immunohistochemistry and/or immunofluorescence, users should stick with one supplier.)
+
+Some labs have asked about using unbuffered 10% formalin. Unless there is a specific reason for this choice, we do not recommend it since this fixative rapidly becomes acidic. Storage of tissue in this fixative beyond several hours should be strongly discouraged.
+
+Recommendations for Optimal Specimen Fixation
+
+Tissue specimens should be placed in fixative as rapidly as is reasonable after they have been removed from an animal, the fixative should be at least 20 times the volume of the tissue and the fixative should be changed after the first hour of fixation.
+
+Tissue should be cut such that the thinnest dimension is no greater than 4-5mm in thickness (formalin penetration is slow, approx. 0.5mm/hr). This is approximately the thickness of two US quarters. If the tissue or organ has a thick capsule (e.g. kidney), users should be aware that fixative penetration will not be as rapid through the capsule. Too-thick samples can end up over-fixed on the outside and poorly-fixed on the inside, which causes interpretation problems due to staining artifacts.
+
+Initial fixation should be at room temperature since the penetration of formalin is related to the temperature of the solution. The formalin should be gently shaken before use to avoid a concentration gradient in the bottle.
+
+Time of fixation is somewhat dependent on the thickness of the tissue.
+
+Monolayers of cultured cells do not need to be fixed long, typically 15-30 min is adequate. Cultured cells should go from fixation into whatever protocol the user's lab is using for immunohistochemistry/immunofluorescence.
+
+Tissues and organs should be fixed (depending on their size) for 2 hours to a maximum of 24 hours. Afterwards tissues can be stored for short periods of time (preferably no more than 3 days) in 70% ethanol (aq). Longer storage in either solution can cause the tissue to become overly hard and leads to difficulty in sectioning the paraffin blocks.
+
+Meticulously following a standardized fixation protocol will lead to the most consistent results.
+
+Formalin vs Formaldehyde
+
+We have occasionally encountered some confusion about the difference between formaldehyde and formalin. This is an understandable problem, since the terms are sometimes used interchangeably. It is incorrect to use the two words this way. The concentrations of chemical fixative that the two names represent are quite different.
+
+A fixative labeled as 10% buffered formalin is actually only a 4% solution of formaldehyde. This is because 10% buffered formalin is an example of old-time histologist's jargon describing a 10% solution made from a stock bottle of 37-40% formaldehyde (or more precisely: a 3.7-4% solution of formaldehyde).
+
+Formaldehyde Safety
+
+The United States Occupational Safety and Health Administration (OSHA) is greatly concerned about formaldehyde. If you do not have a current Material Safety Data Sheet (MSDS) in your lab for formaldehyde you can locate one at the SIRI MSDS Archive.
+
+Please be aware of the hazards involved with formaldehyde. The following statement comes from an MSDS for 10% buffered Formalin:
+
+"DANGER! MAY BE FATAL IF SWALLOWED. HARMFUL IF INHALED OR ABSORBED THROUGH SKIN. CAUSES IRRITATION TO SKIN, EYES AND RESPIRATORY TRACT. STRONG SENSITIZER. MAY CAUSE BLINDNESS. COMBUSTIBLE LIQUID AND VAPOR. SUSPECT CANCER HAZARD. CONTAINS FORMALDEHYDE WHICH MAY CAUSE CANCER. Risk of cancer depends upon duration and level of exposure."
+
+(for local readers) The University of Arizona Department of Risk Management has a self study program called "Hazard Communication Training for Formaldehyde". This guide will introduce you to all the relevant aspects of the 1992 OSHA formaldehyde standard. According to Risk Management "annual training is required for persons using formaldehyde solutions greater than 0.1% or materials capable of releasing greater than 0.1 ppm formaldehyde." This would include most of us using formaldehyde for histology or electron microscopy fixatives.
+
+To obtain a copy of the "Hazard Communication Training for Formaldehyde" handout, please contact the Dept. of Risk Management and Safety directly (621-1570, University of Arizona faculty, staff and students only).
+
+▲ top of page

@@ -1,0 +1,104 @@
+Data.GISS: GISS Surface Temperature Analysis (GISTEMP v4)
+GISS Surface Temperature Analysis (GISTEMP v4)
+
+The GISS Surface Temperature Analysis (GISTEMP v4) is an estimate of global surface temperature change. Graphs and tables are updated around the middle of every month using current data files from NOAA GHCN v4 (meteorological stations), and ERSST v5 (ocean areas), combined as described in our publications Hansen et al. (2010) and Lenssen et al. (2019). These updated files incorporate reports for the previous month and also late reports and corrections for earlier months.
+
+We will continue to also provide GISTEMP v3, our analysis based on the GHCN v3/SCAR reports for the time being.
+
+News and Updates
+
+June 14, 2019: Starting with this release of our monthly analysis, the GISS temperature analysis, GISTEMP v4, is now based on GHCN v4 for station reports; ocean temperatures are still based on ERSST v5.
+
+Some of our graphics will provide an uncertainty domain for the estimates obtained from our analysis.
+
+We will no longer provide the legacy global estimates based on surface air temperatures alone, since they are overestimating any changes (heating or cooling) and are often confused with temperatures averaged over the land surface only — land surface means are still provided in the "Annual Mean Temperature Change over Land and Ocean" section of the graphs web page.
+
+May 23, 2019: NASA has posted a feature story about the new GISTEMP uncertainty quantification.
+
+May 16, 2019: A globe version of the station locator was built that handles the increase in the number of stations efficiently for most browsers. This option is added as an alternative to the leaflet version with its Mercator projection (and the need to move a station off the South pole to make it accessible).
+
+The custom plotter was redesigned. The default smoothing was changed to using a 30-year window so that it better indicates the climate change, 30 years being the standard period to define the climate.
+
+See the Updates to Analysis page for detailed update information about GISTEMP v4.
+
+See the GISTEMP News page for a list of announcements and NASA articles related to the GISTEMP analysis.
+
+Contacts
+
+Before contacting us, please check if your question about the GISTEMP analysis is already answered in the FAQ.
+
+If the FAQ does not answer your question, please address your inquiry to Dr. Reto Ruedy.
+
+Other researchers participating in the GISTEMP analysis are Avi Persin, Michael Hendrickson, Dr. Makiko Sato, and Dr. Ken Lo. This research was initiated by Dr. James E. Hansen, now retired. It is currently led by Dr. Gavin Schmidt.
+
+Citation
+
+When referencing the GISTEMP v4 data provided here, please cite both this webpage and also our most recent scholarly publication about the data. In citing the webpage, be sure to include the date of access.
+
+GISTEMP Team, 2019: GISS Surface Temperature Analysis (GISTEMP), version 4 . NASA Goddard Institute for Space Studies. Dataset accessed 20YY-MM-DD at https://data.giss.nasa.gov/gistemp/.
+
+. NASA Goddard Institute for Space Studies. Dataset accessed 20YY-MM-DD at https://data.giss.nasa.gov/gistemp/. Lenssen, N., G. Schmidt, J. Hansen, M. Menne,A. Persin,R. Ruedy, and D. Zyss, 2019: Improvements in the GISTEMP uncertainty model. J. Geophys. Res. Atmos. , early view, doi:10.1029/2018JD029522.
+
+Background of the GISS Analysis
+
+The basic GISS temperature analysis scheme was defined in the late 1970s by James Hansen when a method of estimating global temperature change was needed for comparison with one-dimensional global climate models. The scheme was based on the finding that the correlation of temperature change was reasonably strong for stations separated by up to 1200 km, especially at middle and high latitudes. This fact proved sufficient to obtain useful estimates for global mean temperature changes.
+
+Temperature analyses were carried out prior to 1980, notably those of Murray Mitchell, but most covered only 20-90°N latitudes. Our first published results (Hansen et al. 1981) showed that, contrary to impressions from northern latitudes, global cooling after 1940 was small, and there was net global warming of about 0.4°C between the 1880s and 1970s.
+
+The early analysis scheme went through a series of enhancements that are listed and illustrated on the History Page.
+
+Documentation and Assessment of Results
+
+The analysis method was fully documented in Hansen and Lebedeff (1987), including quantitative estimates of the error in annual and 5-year mean temperature change. This was done by sampling at station locations a spatially complete data set of a long run of a global climate model, which was shown to have realistic spatial and temporal variability. This however only addresses the error due to incomplete spatial coverage of measurements.
+
+As there are other potential sources of error, such as urban warming near meteorological stations, many other methods have been used to verify the approximate magnitude of inferred global warming. These methods include inference of surface temperature change from vertical temperature profiles in the ground (bore holes) at many sites around the world, rate of glacier retreat at many locations, and studies by several groups of the effect of urban and other local human influences on the global temperature record. All of these yield consistent estimates of the approximate magnitude of global warming, which reached about 0.8°C in 2010, twice the magnitude reported in 1981.
+
+Further affirmation of the reality of the warming is its spatial distribution, which has largest values at locations remote from any local human influence, with a global pattern consistent with that expected for response to global climate forcings (larger in the Northern Hemisphere than the Southern Hemisphere, larger at high latitudes than low latitudes, larger over land than over ocean).
+
+More recent documentation (Hansen et al. 2010) compares alternative analyses and addresses questions about perception and reality of global warming; various choices for the ocean data are tested; it is also shown that global temperature change is sensitive to estimated temperature change in polar regions, where observations are limited. A multi-year smoothing is applied to fully remove the annual cycle and improve information content in temperature graphs. Despite large year-to-year fluctuations associated with the El Niño-La Niña cycle of tropical ocean temperature, the conclusion could be made that global temperature continued to rise rapidly in the 21st century, new record heights being reached in every decade.
+
+GISS Homogenization (Urban Adjustment)
+
+One of the improvements — introduced in 1998 — was the implementation of a method to address the problem of urban warming: The urban and peri-urban (i.e., other than rural) stations are adjusted so that their long-term trend matches that of the mean of neighboring rural stations. Urban stations without nearby rural stations are dropped. This preserves local short-term variability without affecting long term trends. Originally, the classification of stations was based on population size near that station; the current analysis uses satellite-observed night lights to determine which stations are located in urban and peri-urban areas.
+
+Monthly Updates
+
+Graphs and tables are updated around the middle of every month using the current adjusted GHCN data. The new file incorporates reports for the previous month as well as late reports and corrections for earlier months.
+
+We maintain a running record of any modifications made to the analysis on our Updates to Analysis page.
+
+Programs used in the GISTEMP analysis and documentation on their use are available for download. The programs assume a Unix-like operating system and require familiarity with Python for installation and use.
+
+News, Features and Special Topics
+
+Further reading about the GISTEMP analysis is available in the following:
+
++ NASA news and features related to the GISTEMP analysis
+
++ Frequently Asked Questions, and Answers
+
++ The Elusive Absolute Surface Air Temperature
+
+Tables of Global and Hemispheric Monthly Means and Zonal Annual Means
+
+The following are plain-text files in tabular format of temperature anomalies, i.e. deviations from the corresponding 1951-1980 means.
+
+Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies (Land-Ocean Temperature Index, LOTI)
+
+Global-mean monthly, seasonal, and annual means , 1880-present, updated through most recent month: TXT, CSV
+
+, 1880-present, updated through most recent month: Northern Hemisphere-mean monthly, seasonal, and annual means , 1880-present, updated through most recent month: TXT, CSV
+
+, 1880-present, updated through most recent month: Southern Hemisphere-mean monthly, seasonal, and annual means , 1880-present, updated through most recent month: TXT, CSV
+
+, 1880-present, updated through most recent month: Zonal annual means, 1880-present, updated through most recent complete year: TXT, CSV
+
+Gridded Monthly Temperature Anomaly Data
+
+Users interested in the entire gridded surface air temperature anomaly data may download netCDF files containing selected series on a regular 2°×2° grid or the basic SBBX binary files. Note: These files are large.
+
+Compressed NetCDF Files (regular 2°×2° grid)
+
+Compressed Basic Subbox Grid Series (equal-area grid)
+
+Also available are various FORTRAN programs and instructions to create (time series of) regular gridded anomaly maps from the basic files. Be sure to read the README file for discussion of the files' binary format.

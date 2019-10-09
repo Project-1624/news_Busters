@@ -1,0 +1,194 @@
+About the Data - High School Completion
+Overview | Cautions | Definitions | Calculating Rates | Data Changes | Data Sources | FAQ | Useful Links | Data Errata | Privacy | Contact Us
+
+Overview
+
+A key goal of K-12 education is to ensure every child completes high school ready for further education and the workplace. High school completion rates by district, by school, and by student group are available on the Wisconsin Department of Public Instruction (DPI) website. Over time the type of completion rates examined has changed. Additionally, our reporting locations have changed. In order to access high school completion data, please see the table below.
+
+Where to Find Data about High School Completion School Years WISEdash WINSS Historical Data Files Beginning in 2012-13 Adjusted Cohort Rates -- 2009-10 through 2011-12 Adjusted Cohort Rates Legacy Rates 2007-08 through 2008-09 -- Legacy Rates 1996-97 through 2006-07 -- Legacy Rates
+
+WISEdash is DPI's primary data analysis portal and, of the three sources listed above, contains the most current and most complete range data about high school completion. WINSS Data Analysis was DPI's primary public data portal until fall 2013 when more recent years of WINSS data began moving to WISEdash. High school completion rates are also included in other reports, such as District and School Report Cards and the Special Education District Profile.
+
+Below you will find detailed background information, definitions, and related links to facilitate use and appropriate interpretation of High School Completion data in WISEdash and WINSS Historical Data Files. Unless otherwise indicated, all information about WISEdash data on this page is about the Certified Data.
+
+Cautions
+
+2015-16 Graduation Rate The 2015-16 Graduation Rate data contains known errors identified after the collection closed, which are not and cannot be corrected for the certified report. Please check the data errata page and consider this context when attempting to do analysis of the 2015-16 Graduation Rate data.
+
+During collection of 2015-16 graduation rate data the state was transitioning to a new collection system. This transition involved districts exiting all students from the old system in preparation for the move to the new one. A few districts used incorrect exit codes during the process. Most of these districts submitted data errata letters to the department to document the errors and the corrected data. However, corrected data are not incorporated as the certified data is meant to be a picture of where data stands at a specified time. If you believe there is an error with a district or school’s graduation rate, please check the department’s data errata page or contact the district or school in question.
+
+Data for certain districts were removed from the statewide total due to submission errors. Their district data remains as submitted at time of certification. Because of this, when district totals are summed they will not match the statewide numbers. Graduation rates are always equal to or lower than completion rates. Graduation rates count students who earned regular diplomas in the numerator. Completion rates count students who earned any high school completion credential, including but not limited to regular diplomas. Otherwise the formulas are the same. Details about these formulas are provided under "Calculating Rates" below. Formulas for calculating high school graduation and completion rates have changed over time. The most recent change occurred with the implementation of a federally required adjusted cohort formula. Using this formula, 4-year, 5-year and 6-year rates were implemented in 2009-10, 2010-11, and 2011-12, respectively. Changes also occurred in 2003-04 with the implementation of Wisconsin's Individual Student Enrollment System and availability of new data for legacy rates. Rates calculated using different formulas have different meanings and are not otherwise comparable. Adjusted cohort rates calculated using the federally-required formula tend to be lower than legacy rates calculated using the 2003-04 formula. This is because the 2003-04 legacy-rate formula includes students continuing until age 21, some of whom took longer than six years to complete high school. Other formula differences exist which may result adjusted cohort rates being higher than legacy rates. Adjusted cohort rates for different time frames (4, 5, or 6 year) in the same school year reflect outcomes for successive distinct cohorts of students (no overlap). Consequently, when comparing rates for a single school year across completion time frames, rates for longer time frames may occasionally be lower than rates for shorter time frames. Race/ethnicity collection and reporting changes were implemented in 2010-11. These changes resulted in five continuing categories with description changes and two new categories. For more information about these changes, see How and why have race/ethnicity reporting categories changed. Note the following: Pre- and post-2010-11 completion rates by race/ethnicity may not be comparable.
+
+Because some students counted in 2010-11 completion rates and beyond will have last been enrolled prior to the 2010-11 race/ethnicity reporting changes, distinctions between race/ethnicity categories used for completion rate reporting will remain blurred for several years. For this same reason, rates for the continuing race categories (American Indian, Asian, Black, and White) may tend to be lower for a few years after the change, and rates for the other categories (Hispanic, Pacific Islander, and Two or More Races) may tend to be higher, than would otherwise be expected.
+
+2010-11 and 2011-12 adjusted cohort rates by race/ethnicity for a single year across time frames reflect a mix of old and new race/ethnicity reporting categories. 2003-04 was a year of transition to a new dropout and high school completion data collection, the Individual Student Enrollment System, and as a result: Rates for 2003-04 and later years include students in the denominator about whom data are being collected for the first time. Rates will have a different meaning and will tend to be lower than rates for years prior to 2003-04.
+
+2003-04 high school completion data and other data (such as dropouts) used in the calculation of rates may not be comprehensive in this transition year. Implementation in some districts was more difficult than in other districts and there were some continuing data reliability issues in 2004-05. DPI is not the only source of Wisconsin high school completion and graduation rates. Over the years, other sources have used a variety of formulas to estimate rates. Most sources attempt to estimate the rate in a way consistent with perceived community definitions of this rate. Comparability of rates is complicated not only by variations in the formula used, but also by variations across schools and over time (e.g. in mobility, grade placement policies, populations served, grade ranges served, graduation standards, etc). All rates rely heavily on the effectiveness of student tracking systems and the reliability of data collected from districts and schools.
+
+Definitions of Key Terms
+
+For definitions, see the WISEdash Glossary
+
+Counting Students and Calculating Rates
+
+DPI calculates rates for each completion credential, non-completion category, all completion credentials combined, and all non-completion categories combined. High school completion credentials include the following: regular diplomas, High School Equivalency Diplomas (HSEDs), and certificates/other. Students who earn regular diplomas are called "graduates" while students who earn HSEDs and certificates/other are not called "graduates." Non-completion categories include known to be continuing, reached maximum age, and not known to be continuing.
+
+Two types of high school completion/non-completion rates are calculated, adjusted cohort rates (used in WISEdash) and legacy rates (used in SDPR and WINSS until 2011-12). The denominator for all rates, both adjusted cohort and legacy rates, is the combined count of completers plus non-completers (all credentials/categories). The numerator is the count of students who earned the specific completion credential or who are included in the specific non-completion category of interest. Methods used to count students for adjusted cohort rates and legacy rates differ and are explained below.
+
+Adjusted Cohort Rates
+
+(four-year, five-year, six-year and seven-year)
+
+The adjusted cohort is the denominator used in calculating all adjusted cohort rates. Completers and non-completers are subsets of the adjusted cohort and are the numerators.
+
+Adjusted Cohort Completion Rates for a Single Cohort of Students Assigned to Cohort Year X Assigned Cohort Year* Start of 9th Grade Adjusted Cohort*
+
+(denominator) Completion Time frame Completers
+
+(numerator) School Year of Rate Spring/Summer of Calendar Year X
+
+
+
+Example
+
+Spring/Summer of 2014 Fall of School Year X-3
+
+
+
+Example
+
+School Year: 2010-11 Students assigned to cohort year X.
+
+
+
+Limited adjustments are made to reflect changes in status of these students during the completion time frame 4-Year Rate Students in the adjusted cohort who received a completion credential in 4 years or less X
+
+
+
+Example
+
+School Year: 2013-14 5-Year Rate Students in the adjusted cohort who received a completion credential in 5 years or less X+1
+
+
+
+Example
+
+School Year: 2014-15 6-Year Rate Students in the adjusted cohort who received a completion credential in 6 years or less X+2
+
+
+
+Example
+
+School Year: 2015-16 7-Year Rate Students in the adjusted cohort who received a completion credential in 7 years or less X+3
+
+
+
+Example
+
+School Year: 2016-17
+
+*Although each student's assigned cohort year is permanent, limited cohort adjustments are made for rate calculation purposes after the end of each time frame based on changes in student status during the time frame. Since student status is subject to change between time frames, the count of students included in the adjusted cohort is subject to change between time frames. For more information about cohort year assignments and cohort adjustments, see the definitions of "Cohort Year" and "Adjusted Cohort" in the WISEdash Glossary.
+
+Counting Completers. Students in the adjusted cohort who, as of the end of the high school completion time frame, had earned any high school completion credential in WI public schools are counted as completers for the school year at the end of that time frame. Credentials earned at the end of the time frame, before the end of the time frame (including earlier school years), or during the summer session immediately following the school term at the end of the time frame are counted as being earned during the time frame for the accountable school/district where the credential was earned. For students with multiple credentials, the later credential is counted only if it was a higher credential than previously earned. Students who earned regular diplomas are counted as graduates. For more information about credentials, see the Credential Type page.
+
+Counting Non-completers. Students in the adjusted cohort who, as of the end of the high school completion time frame, had not earned any completion credential in WI public schools are counted as non-completers for the school year at the end of that time frame. Students are included in totals for the accountable school/district where most recently enrolled. If the most recent record indicates an expected transfer to a new school (exit type is ETC), then the expected transfer district/school may be the accountable district/school. Non-completion categories include the following:
+
+Not Known to be Continuing. Status of a high school non-completer who, as of the end of the time frame, was not known to be continuing in high school. This category includes students who left high school and did not return. Any non-completer in the adjusted cohort who is not counted in other non-completer categories is counted here.
+
+Reached Maximum Age. Status of a non-completer who, as of the end of the time frame, either (a) reached the maximum age of eligibility for a free public education at the time of exit from the most recent WI public school or (b) had no exit but reached that maximum age at the end of the time frame.
+
+Known to be Continuing. Status of a high school non-completer who, as of the end of the time frame, was known to be continuing high school.
+
+For each student, group identification for disaggregated reporting and accountable district/school come from the record used to count the student as a completer/non-completer.
+
+Legacy Rates
+
+(by age 21)
+
+"The total number of students expected to complete high school" in school year X is the denominator used to calculate all legacy rates for school year X. That total is the sum of completers, students who reached the maximum age, and cohort dropouts. The numerator is the count of students who earned the specific completion credential or who are included in the specific non-completion category of interest.
+
+Counting Completers. Students who earned any high school completion credential in WI public schools in school year X are counted as completers in legacy rates for that year. Credentials earned by students during the summer session immediately following school year X are also counted in rates for school year X. For information about credentials, see the Credential Type page.
+
+Counting Non-completers. Sum of students counted as "Not Known to be Continuing" plus students who "Reached Maximum Age" in school year X are counted as non-completers in legacy rates for that year.
+
+Not Known to be Continuing. Status of students counted as cohort dropouts for the school year of the legacy rate. Cohort dropouts were used as an estimate of dropouts for the graduating class over four years prior to availability of true cohort data about non-completers from the Individual Student Enrollment System (ISES). See the WISEdash Glossary definition of "Cohort Dropouts".
+
+Reached the Maximum Age. Status of students who turned 21 prior to the beginning of the school term X+1 without completing high school. These students are counted as non-completers who reached the maximum age for school year X.
+
+The non-completion category "Known to be Continuing" used in reporting adjusted cohort rates does not apply to legacy rates because, due to the length of the legacy rate time frame, non-completers are either cohort dropouts or students who reached the maximum age.
+
+Legacy rates were not published after 2011-12.
+
+For more information about completion credentials and non-completion categories, see definitions in the WISEdash Glossary.
+
+Data Changes Over Time
+
+(WINSS Historical Data Files)
+
+Prior to 2002-03 Only graduation (regular diploma) and cohort dropout data were available. Data about students who earned other credentials or students who reached the maximum age were not available. Graduation rates were calculated using the following formula: number of regular diploma recipients (i.e. graduates) divided by the sum of the dropouts over four years plus the number of regular diploma recipients, expressed as a percentage. High school completion rates were not calculated prior to 2003-04. Data were disaggregated by gender and by race/ethnicity.
+
+Beginning in 2002-03 Graduation rates were disaggregated by disability status.
+
+Beginning with 2003-04 Data became available about students who earned credentials other than regular diplomas and students who reached the maximum age. High school completion rates were reported for the first time using the current version of the legacy rate formula described under "Calculating Rates" above.
+
+2007-08 through 2011-12 High school completion rates were available by economic and ELL (English proficiency) status using the current version of the legacy rate formula.
+
+Beginning in 2010-11 Race/ethnicity reporting changes were implemented. Legacy rates were reported for each of seven race/ethnicity categories. Before 2010-11, five categories were used.
+
+2011-12 This was the last year legacy rates were published.
+
+
+
+(School District Performance Report)
+
+2007-08 through 2011-12 High school completion and other rates were reported using the current version of the legacy rate formula. Data are provided for all students combined (no disaggregation).
+
+
+
+(WISEdash)
+
+Beginning in 2005-06 Data used in calculating adjusted cohort rates from the Individual Student Enrollment System (ISES) Year End (YE) records are initially available. 4-year, 5-year, and 6-year adjusted cohort rates use 5, 6, and 7 years of ISES data, respectively. Initial report year for each rate is provided below.
+
+Beginning with 2009-10 Four-year adjusted cohort rates are reported.
+
+Beginning in 2010-11 Five-year adjusted cohort rates are reported. Transition from 5 to 7 race/ethnicity categories started with publication of rates for the 2011 cohort. The 2010-11 4-year rates (2011 cohort) were disaggregated into 7 categories. This change was followed by 7-category disaggregation of 2011-12 5-year rates (2011 cohort) and 2012-13 6-year rates (2011 cohort).
+
+Beginning in 2011-12 Six-year adjusted cohort rates are reported.
+
+Beginning in 2016-17 Data used in calculating adjusted cohort rates is sourced from WISEdata. Seven-year adjusted cohort rates are added beginning with the 2014 graduation cohort.
+
+Beginning in 2017-18 English language learner status (ELL Status) changed to display the value reported for the third Friday of September for this topic.
+
+
+
+Data Sources
+
+Prior to 2003-04, all data used in the calculation of high school completion rates came from the School Performance Report (SPR) collection. In 2004, Wisconsin implemented the Individual Student Enrollment System (ISES) which follows in and out transfers of students over time and confirms continued enrollment or completion status. By 2007-08 all data about high school completers and non-completers came from this system.
+
+The key data elements used in the calculation of the adjusted cohort rates are completed term indicator, exit type, grade level placement, high school completion credential, max age year, accountable district, accountable school, expected transfer district/school, and student group. Key data elements used in calculating legacy rates vary by school year and data element.
+
+In 2016-17, all data used in calculation of high school completion rates is sourced from WISEdata.
+
+The table below summarizes differences in high school completion rate data sources across DPI public data tools/reports. Note that 2009-10 was the first year adjusted cohort rate data were available. Legacy rates were available from 1996-97 through 2011-12.
+
+High School Completion Rate Data Sources by Data Tool/Report Data Element WISEdash (Certified Data View)
+
+Adjusted Cohort Rates School District Performance Report
+
+Legacy Rates WINSS Historical Data Files
+
+Legacy Rates District/School WISEdata; accountable district/school is used. Same as WISEdata Beginning in 2007-08, ISES YE records; accountable district/school is used. 2003-04 through 2006-07, mix of ISES YE records and (for dropouts early in time frame) SPR collection. Prior to 2003-04, SPR collection. Completers WISEdata Same as WISEdata Beginning in 2003-04, ISES YE records. Prior to 2003-04, SPR collection; data available for regular diplomas only. Non-completers WISEdata Same as WISEdata Beginning in 2007-08, ISES YE records. 2003-04 through 2006-07, mix of ISES YE records, separate one time collection of full-term 2003-04 dropouts, and (for dropouts in early high school grades) SPR collection. Prior to 2003-04, SPR collection; NA for students who reached maximum age. Gender and Race/Ethnicity WISEdata Same as WISEdata Beginning in 2007-08, ISES YE records. 2003-04 through 2006-07, mix of ISES YE records, separate one time collection of full-term 2003-04 dropouts, and (for dropouts in early high school grades) SPR collection. Prior to 2003-04, SPR collection. Disability Status WISEdata Same as WISEdata Beginning in 2007-08, ISES YE records. 2003-04 through 2006-07, mix of ISES YE records and (for dropouts from early high school grades) SPR collection. For 2002-03, SPR collection (including cohort dropout data back to 1999-00). Economic Status WISEdata NA ISES YE records. ELL (English Proficiency) Status WISEdata NA ISES YE records. Migrant Status WISEdata NA NA
+
+In all cases, student group identification and district/school assignment come from the record used to count the student as a completer or non-completer.
+
+Frequently Asked Questions about High School Completion Rates
+
+How are students counted who move between Wisconsin school districts during the 4-year, 5-year, 6-year, or legacy rate time frame? In general, consistent with federal regulations, students are counted in the district where they were last enrolled during the time frame. This is true regardless of the duration of enrollment in that district, physical location of service delivery, circumstances causing the move, or student progress toward meeting district graduation requirements at the time of the move. For example, the district where a residential facility (e.g. a county jail, county secure detention, mental health center, hospital, group/foster home, CBRF, etc) is located is legally obligated to provide educational services to any student residing in the facility as long as the student’s placement at the facility was not for an educational purpose. In general, if the district where the residential facility is located is the one where the student was last enrolled during the time frame, then the student is counted in the rate for that district. What about rates for alternative schools which may sometimes prepare high school students for graduation rather than grant diplomas? Generally, high school students are counted where last enrolled during the time frame. Graduation is only one of several possible outcomes. Since a student may continue at an alternative school beyond the time frame, reach age 21, or discontinue schooling, these outcomes are counted and included in reports for the alternative school. If students who successfully complete most of the graduation requirements at the alternative school are transferred to and receive their diplomas from another school prior to the end of the time frame, then these students count in and raise the graduation rates for that latter school. In some districts, by their own policies about which schools may graduate students, some alternative high schools may have 0% graduation rates. What is the relationship between dropouts and students counted in adjusted cohorts as "Not Known to Be Continuing"? These two counts have different purposes and are subject to different counting requirements. Key differences are described below: Dropouts are annual events and are counted annually. "Not known to be continuing" status is evaluated only at the end of a 4, 5, or 6-year high school completion time frame.
+
+Dropouts are counted at grades 7 through 12. "Not known to be continuing" status is evaluated only if a student is assigned to a cohort (grades 9 through 12). As a result, students who counted in multiple annual dropout events over the multi-year graduation time frame count no more than once as "not known to be continuing". Students who dropped out before being assigned to a cohort or who were counted as an annual dropout event and later returned to continue high school are not counted as "not known to be continuing". Students who complete the final school year of the time frame without evidence of high school continuation the next year are counted as "not known to be continuing" for the school year at the end of the time frame, but would not count as an annual dropout event until the following year. How is Grade 12 enrollment used in legacy rate calculations? Grade 12 enrollment is a fall count and is provided in WINSS files for reference purposes only. Grade 12 enrollment is a factor in WINSS suppression rules but no longer used in the calculation of completion rates because it does not reflect cohort dropouts, in and out transfers after fall, or students who reached the maximum age. Why do counts of completers not match in WISEdash "Years to High School Completion" and "HS Completion Rate" graphs for the same school year? Students counted in "Years to High School Completion" graphs are those who completed in the given school year regardless of when they started high school. WISEdash HS Completion Rates are adjusted cohort rates. Students counted in the adjusted cohort rate graphs are those in the adjusted cohort who completed within the completion time frame (including earlier school years). Due to formula differences, counts of completers in a given school year may or may not match counts of completers in an adjusted cohort for a 4, 5, 6 or 7-year time frame ending in that same school year.
+
+More About the Data
+
+Laws, Rules, and Guidance
+
+Data Tools and Reports

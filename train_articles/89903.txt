@@ -1,0 +1,56 @@
+Sanders campaign: DNC is 'attempting to undermine' campaign
+Click photo to enlarge «
+
+1
+
+»
+
+WASHINGTON >> The presidential campaign of Vermont Sen. Bernie Sanders angrily accused the Democratic National Committee of trying to "undermine our campaign" by barring it from a voter database Friday after a breach enabled his staff to improperly access information compiled by rival Hillary Clinton's campaign.
+
+"Clearly, in this case, they are trying to help the Clinton campaign," Sanders campaign manager Jeff Weaver said.
+
+DNC Chairwoman Debbie Wasserman Schultz responded that once the committee became aware "that the Sanders campaign had inappropriately and systematically accessed Clinton campaign data," it directed its vendor to suspend Sanders' campaign access to the information.
+
+A summary of computer logs shows that four aides to Sanders' presidential campaign accessed proprietary voter data compiled by Clinton's campaign and some of the aides saved the voter information, according to a person familiar with the data logs and the breach.
+
+The person said the data represented millions of dollars invested by the Clinton campaign. The person was not authorized to speak publicly and spoke on condition of anonymity.
+
+The Sanders campaign fired one staff member but blamed the vendor who runs the DNC's voter database for making "serious errors."
+
+Weaver said four members of the Sanders campaign had accessed the information but that only the actions of one, the campaign's data director, had risen to the level of a fireable offense.
+
+Advertisement
+
+The DNC maintains an extensive list of voter information, which it rents to campaigns and which updates with their own data. The data allows campaigns to target likely voters and anticipate what issues might motivate them to support a candidate.
+
+It remained unclear how long the Sanders campaign would be barred from the DNC database, but Weaver threatened to file a federal lawsuit later Friday if the DNC did not immediately restore its access.
+
+The information could be crucial in the Sanders campaign's ability to identify and persuade voters in the kickoff February contests of Iowa and New Hampshire. Sanders has built a strong following among young voters and liberals, but Clinton has maintained a lead in national polls.
+
+News of the data breach was first reported by The Washington Post on Friday.
+
+It's the latest dust-up involving the DNC and the three major Democratic presidential campaigns. Former Maryland Gov. Martin O'Malley has complained that the DNC purposely limited the number of presidential debates to six to give Clinton an unfair advantage. The next debate is on Saturday in New Hampshire.
+
+Clinton's campaign declined comment on the incident.
+
+Firewalls are put in place to prevent campaigns from looking at data maintained by their rivals. But officials said the vendor that runs the system, NGP VAN, used a software patch on Wednesday morning that allowed all users on the system to access data belonging to other campaigns during the morning.
+
+The breach did not involve any hacking or enable any voting information to enter the public domain, officials said.
+
+Sanders spokesman Michael Briggs said in a statement Friday that after a discussion with the DNC "it became clear that one of our staffers accessed some modeling data from another campaign. That behavior is unacceptable and that staffer was immediately fired."
+
+Josh Uretsky, the data director fired from Sanders' campaign, said his team was merely trying to document the security problem and figure out how exposed their own data was by the software patch.
+
+"We wanted to document and understand the scope of the problem so we could report it accurately," he said, in an interview with MSNBC. "We didn't actually use it for anything valuable and we didn't take custodianship of it."
+
+While Uretsky took responsibility for the incident, he didn't believe the DNC would think he violated any rules.
+
+"I didn't believe at the time that I did it that they would believe what I was doing was wrong," he said, in the interview. "I did it with full knowledge that they could see what I was doing."
+
+DNC spokesman Luis Miranda said Friday that the party committee "places a high priority on maintaining the security of our system and protecting the data in it." He said the DNC was "working with our campaigns and the vendor to have full clarity on the extent of the breach, ensure that this isolated incident does not happen again, and to enable our campaigns to continue engaging voters on the issues that matter most to them and their families."
+
+He said the DNC instructed NGP VAN to conduct an analysis of any users who accessed the data and report back its findings.
+
+Stu Trevelyan, NGP VAN's chief executive and president, said in a statement that his firm was "confident at this point that no campaigns have access to or have retained any voter file data of any other clients; with one possible exception, one of the presidential campaigns."
+
+"NGP VAN is providing a thorough report to the DNC on what happened and conducting a review to ensure the integrity of the system," he said.

@@ -1,0 +1,122 @@
+2018 DEFENSIVE LINES
+Pick Position
+
+Overall Team Efficiency
+
+Team Offense
+
+Team Defense
+
+Special Teams
+
+Quarterbacks
+
+Running Backs
+
+Tight Ends
+
+Wide Receivers
+
+Offensive Line
+
+Defensive Line
+
+NFL Main Drive Stats
+
+NFL Offensive Drive Stats
+
+NFL Defensive Drive Stats
+
+NFL Pace/Time Stats
+
+NFL Playoff Odds
+
+NFL Snap Counts
+
+NCAA: FEI Ratings, Defense
+
+NCAA: FEI Ratings, Offense
+
+NCAA: FEI Ratings, Overall
+
+NCAA: FEI Ratings, Special Teams
+
+NCAA: S&P; Ratings, Defense
+
+NCAA: S&P; Ratings, Offense
+
+NCAA: S&P; Ratings, Overall
+
+NCAA: F/+ Combined Ratings
+
+NCAA: Defensive Line
+
+NCAA: Offensive Line
+
+NCAA: FEI Field Position
+
+Pick Year
+
+Regular season totals, through Week 17
+
+Revised as of 04/07/2019
+
+Teams are ranked according to Adjusted Line Yards. Based on regression analysis, the Adjusted Line Yards formula takes all running back carries and assigns responsibility to the offensive line based on the following percentages:
+
+Losses: 120% value
+
+0-4 Yards: 100% value
+
+5-10 Yards: 50% value
+
+11+ Yards: 0% value
+
+These numbers are then adjusted based on down, distance, situation, opponent, and the difference in rushing average between shotgun compared to standard formations. Finally, we normalize the numbers so that the league average for Adjusted Line Yards per carry is the same as the league average for RB yards per carry. Defensive line stats (more accurately, defensive front seven stats) represent the performance of offensive lines against each defense, adjusted for the quality of offensive opponents. These stats are explained further here.
+
+The following stats are not adjusted for opponent:
+
+RB Yards : Yards per carry by running backs against this defense, according to standard NFL numbers.
+
+: Yards per carry by running backs against this defense, according to standard NFL numbers. Power Success: Percentage of runs on third or fourth down, two yards or less to go, that achieved a first down or touchdown. Also includes runs on first-and-goal or second-and-goal from the two-yard line or closer. This is the only statistic on this page that includes quarterbacks. Teams are ranked from lowest power success percentage allowed (#1) to highest power success percentage allowed (#32).
+
+Percentage of runs on third or fourth down, two yards or less to go, that achieved a first down or touchdown. Also includes runs on first-and-goal or second-and-goal from the two-yard line or closer. This is the only statistic on this page that includes quarterbacks. Teams are ranked from lowest power success percentage allowed (#1) to highest power success percentage allowed (#32). Stuffed: Percentage of runs where the running back is tackled at or behind the line of scrimmage.Ranked from most stuffs (#1) to fewest stuffs (#32).
+
+Percentage of runs where the running back is tackled at or behind the line of scrimmage.Ranked from most stuffs (#1) to fewest stuffs (#32). Second Level Yards: Yards earned by opposing running backs against this team between 5-10 yards past the line of scrimmage, divided by total running back carries.
+
+Yards earned by opposing running backs against this team between 5-10 yards past the line of scrimmage, divided by total running back carries. Open Field Yards: Yards earned by opposing running backs against this team more than 10 yards past the line of scrimmage, divided by total running back carries.
+
+NFL averages for each stat given in red .
+
+Why are these rankings different from the team defense DVOA ratings for rushing? Among other reasons, they don't include quarterbacks or fumbles, long runs are truncated, and a different set of adjustments is used, attempting to isolate line play rather than total team defense.
+
+A team with a high ranking in Adjusted Line Yards but a low ranking in Open Field Yards has a strong defensive line but its linebackers and secondary have difficulty in pursuit and tackling. A team with a low ranking in Adjusted Line Yards but a high ranking in Open Field Yards generally allows runners to get past the defensive line but the linebackers and secondary are good at pursuit and tackling. A low ranking in Adjusted Line Yards with a high ranking in Open Field Yards is often an indicator of a 3-4 defensive scheme, though there are exceptions.
+
+Stats in blue represent pass rush. Teams are ranked according to Adjusted Sack Rate, which gives sacks (plus intentional grounding penalties) per pass attempt adjusted for down, distance, and opponent. Pass rush stats are explained further here. Our sack totals may differ slightly from official NFL totals depending on the league's retroactive statistical adjustments.
+
+RUN BLOCKING PASS PROTECTION RK Team Adj. Line
+
+Yards RB
+
+Yards Power
+
+Success Power
+
+Rank Stuffed Stuffed
+
+Rank 2nd Level
+
+Yards 2nd Level
+
+Rank Open Field
+
+Yards Open Field
+
+Rank Rank Sacks Adjusted
+
+Sack Rate 1 HOU 3.56 3.11 67% 18 25.2% 3 0.88 2 0.21 1 13 43 7.4% 2 NO 3.61 3.22 57% 3 23.7% 6 0.87 1 0.40 3 4 49 8.7% 3 DAL 3.87 3.88 67% 20 24.5% 5 1.16 10 0.76 14 27 39 6.5% 4 JAX 3.87 4.07 61% 7 21.5% 11 0.90 3 1.03 22 15 37 7.1% 5 BAL 3.90 3.52 72% 25 19.3% 16 1.07 5 0.29 2 6 43 8.1% 6 PHI 3.93 4.56 62% 8 25.8% 2 1.22 17 1.44 32 26 44 6.5% 7 IND 3.96 3.84 65% 14 24.7% 4 1.10 7 0.69 10 29 38 5.3% 8 CAR 3.97 4.71 78% 31 23.5% 7 1.40 27 1.32 31 20 35 6.8% 9 CHI 3.97 3.63 58% 4 20.1% 14 0.98 4 0.45 4 12 50 7.5% 10 BUF 4.15 4.14 62% 9 26.0% 1 1.33 24 0.76 13 19 36 6.9% 11 CLE 4.21 4.75 62% 10 23.0% 9 1.51 31 1.16 28 23 37 6.7% 12 PIT 4.24 4.04 69% 22 19.1% 17 1.17 11 0.63 8 1 52 9.3% 13 NYJ 4.28 4.31 55% 2 22.2% 10 1.25 19 0.87 18 21 39 6.7% 14 ARI 4.32 4.92 80% 32 20.5% 12 1.46 30 1.28 30 3 49 8.8% 15 TB 4.36 4.59 71% 24 23.2% 8 1.45 29 1.04 24 8 38 8.0% 16 MIA 4.36 4.53 65% 15 19.9% 15 1.29 21 1.04 23 28 31 6.3% 17 LAC 4.37 4.38 71% 23 18.8% 18 1.21 15 0.83 16 24 38 6.7% 18 NYG 4.38 4.26 64% 12 20.3% 13 1.21 16 0.85 17 31 30 4.9% 19 SF 4.39 4.08 60% 6 16.6% 21 1.19 12 0.59 6 18 37 6.9% 20 DET 4.47 4.68 52% 1 15.3% 28 1.20 14 1.10 26 5 43 8.1% 21 LAR 4.49 4.91 68% 21 16.4% 22 1.36 25 1.12 27 17 41 7.0% 22 SEA 4.55 4.55 58% 5 18.7% 19 1.28 20 0.91 20 14 43 7.3% 23 DEN 4.58 4.78 73% 26 14.3% 30 1.14 8 1.16 29 9 44 8.0% 24 MIN 4.60 4.05 66% 17 15.8% 25 1.09 6 0.48 5 2 50 9.3% 25 OAK 4.64 4.76 65% 16 16.8% 20 1.29 22 1.05 25 32 13 3.5% 26 NE 4.67 4.79 67% 18 15.8% 24 1.31 23 0.91 19 30 30 5.0% 27 GB 4.78 4.32 62% 10 14.6% 29 1.15 9 0.62 7 10 44 7.7% 28 TEN 4.82 4.29 64% 13 15.8% 23 1.19 13 0.64 9 22 39 6.7% 29 WAS 4.97 4.57 76% 28 15.8% 26 1.37 26 0.71 11 11 46 7.6% 30 CIN 4.99 4.94 77% 29 14.3% 30 1.41 28 1.01 21 16 34 7.1% 31 ATL 5.07 4.66 74% 27 13.9% 32 1.25 18 0.80 15 25 37 6.6% 32 KC 5.28 4.97 78% 30 15.3% 27 1.57 32 0.72 12 7 52 8.0% NFL 33 4.36 66% 33 19.3% 33 1.06 33 0.73 33 33 40 7.1%
+
+The second table lists each team's Adjusted Line Yards in each direction listed in official NFL play-by-play, along with rank among the 32 teams, and the frequency with which they run to each direction. Numbers may not add up to 100% due to carries listed without direction. Certain teams may have abnormal splits because of specific official scorer tendencies.
+
+Only five directions are listed because research so far shows no statistically significant difference between how well a team performs on runs listed middle, left guard, and right guard.
+
+These runs are from the perspective of the OFFENSE, so a run listed as LEFT TACKLE is actually at the RIGHT defensive end.

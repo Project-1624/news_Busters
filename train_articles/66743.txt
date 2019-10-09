@@ -1,0 +1,20 @@
+TaxVox: the Tax Policy Center blog :: A Primer on the Gas Tax Holiday
+A Primer on the Gas Tax Holiday
+
+If a gas tax holiday drives the price down by the full amount of the tax (18.4 cents), the average driver would save about $28 ($27.67) between June 1 and September 1. But we think the price would fall by only a small fraction of the 18.4 cents tax – so instead of $28, the average driver might save $5 to $10.
+
+prefix = o ns = "urn:schemas-microsoft-com:office:office" /
+
+Here’s how we get the $28 figure:
+
+Average annual per vehicle gas use (from AAA) = 550 gallons
+
+Percent of annual miles drive in June, July, and August = 27.4. Calculated from data in 2001 National Household Travel Survey.
+
+Multiply 550 x .274 = 150.6 gallons consumed in summer months.
+
+At 18.4 cents per gallon, this comes out to $27.71
+
+Other Relevant Information
+
+The average price of regular unleaded gasoline increased from $1.85 in 2004 to a projected $3.54 in the summer of 2008. This price increase will cost the average consumer about $260 in the summer of 2008 (assuming no reduction in gasoline consumption), compared to what he would have paid at 2004 prices.

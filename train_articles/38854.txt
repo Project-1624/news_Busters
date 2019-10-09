@@ -1,0 +1,234 @@
+Measuring Fixed Broadband Report - 2016
+List of Charts ▲ ▼
+
+List of Tables ▲ ▼
+
+The 2016 Measuring Broadband America Fixed Broadband Report (“the 2016 Report”) contains the most recent data collected from fixed Internet Service Providers (ISPs) as part of the Federal Communication Commission’s (FCC) Measuring Broadband America (MBA) program. This program is an ongoing, rigorous, nationwide study of consumer broadband performance in the United States. We measure the network performance delivered on selected service tiers of a representative sample set of the population. The thousands of volunteer sample panelists are drawn from subscribers of Internet Service Providers serving over 80% of the residential marketplace.
+
+The initial Measuring Broadband America Fixed Broadband Report was published in August 2011, and presented the first broad-scale study of directly measured consumer broadband performance throughout the United States. Including the 2016 Report, six reports have now been issued. These annual reports provide a performance benchmark for fixed broadband Internet access services in the United States, and track progress towards the Commission’s continuing goal of improving the speeds and quality of broadband access commonly available to the American public.
+
+These reports present analysis of broadband information in a variety of ways and have evolved with changes to make the information more understandable and useful.
+
+The key findings of this report were:
+
+The maximum advertised download speeds amongst the most popular service tiers offered by ISPs have increased from 12-30 Mbps in March 2011 (when the program first launched) to 100-300 Mbps in September 2015. These increases are not uniform across access technologies and have been driven primarily by the cable industry, with smaller increases in fiber based systems. Average DSL speeds have increased only slightly over these years and satellite speeds, over a shorter time interval, have remained constant.
+
+The median speed across all consumers this year is 39 Mbps which represents a 22% increase to last year’s value of 32 Mbps, indicating that consumer speeds are continuing to increase.
+
+For most of the major broadband providers that were tested, actual download speeds are 100% of advertised speeds or better. The exceptions are DSL providers (AT&T-DSL, CenturyLink, Frontier DSL and Windstream)) and one satellite provider (Viasat).
+
+The overwhelming majority of ISPs performed within 10% of last year’s results. The exception for this was satellite ISPs. Hughes’ actual vs. advertised speeds ratio went down from 203% to 152% while Viasat’s went down from 107% to 71%. This is likely the result of increased subscribership and consumer usage of these services. Future proposed launches of more advanced satellites would likely reverse this trend.
+
+One of the key measures for ISP performance is the 80/80 speed consistency which is the speed that at least 80% of the subscribers experience at least 80% of the time over peak periods. Optimum, Charter, Time-Warner Cable and Verizon (FiOS) did well with values rising above 90% of the advertised speed. This ratio fell below 50% for AT&T (DSL), Frontier (fiber) and Viasat (satellite).
+
+These, and other findings, are described in greater detail within this Report. This 2016 report includes two changes affecting how data is statistically calculated and presented.
+
+Past reports presented ISP broadband performance as the mean or average of broadband speeds experienced by panelists in specific service tiers. The 2016 report presents ISP broadband performance as the median of speeds experienced by panelists within a specific service tier. Averperformance. This change also aligns the report’s analysis with the Open Internet Order of 2015 and the subsequent 2016 Guidance on Open Internet Transparency Rule Requirements that clarifies that fixed Broadband Internet Access Service providers may comply with the Open Internet Order transparency requirement disclosing either the median speed or a range of actual speeds that includes the median speed (e.g., 25th to 75th percentile). We had noted in the 2015 Measuring Broadband America Report our intent to align the Report with the policies underlying the Open Internet Order. Measurements used in the Report will continue to evolve with Commission policies.
+
+This change also improves the ability to compare the analysis of fixed and mobile broadband statistics. The reporting of median speeds and percentiles provides a harmonious and consistent reporting metric for use across all broadband technologies with transparency disclosure obligations under the rules for the Open Internet. For continuity and comparison’s sake, calculations based on means will continue to be included in our spreadsheet of statistical values which has traditionally accompanied this Report.
+
+To evaluate the impact of the shift from using mean speeds to median speeds both sets of values were computed and compared. The two sets of values were within 5% of each other which implies that the measured values were, in general, only slightly skewed. Details of the comparison between mean and median values are given in Appendix A.
+
+In past reports an aggregate mean representing an ISP’s performance across all service tiers was calculated as an unweighted average of the performance of all panelists for an ISP. This approach has the disadvantage of not explicitly recognizing that the market share for each service tier differs, with some tiers supporting more consumers than others. In discussion with the ISPs it was agreed that going forward, aggregate medians would be weighted to reflect the number of subscribers of each service tier; i.e., service tiers with larger numbers of subscribers would affect the overall values more than service tiers with fewer subscribers. This Report calculates the weighted median of an ISP’s performance by weighting the median for each service tier by the number of subscribers.
+
+In adopting this policy of calculating a weighted median, we have drawn upon two sources for determining the number of subscribers per service tier. ISPs can voluntarily contribute their data per surveyed service tier as the most recent and authoritative data. Many ISPs have chosen to do so. When such information is not provided by an ISP, we draw from the FCC’s 477 data. All facilities-based broadband providers are required to file data with the FCC twice a year (Form 477) regarding deployment of broadband services. The 477 data provides an alternative source of information for the number of subscribers of an ISP’s service tier.
+
+The shift from using unweighted means to weighted medians has had a minimal effect for most ISPs. The difference was generally within 5% (see Appendix A). The exceptions were for four ISPs (Optimum, Comcast, Mediacom and TWC), for whom the difference between unweighted means and weighted medians were between 8% and 20%. This suggests that for these companies, the number of panelists per service tier is not representative of the ISP’s customer base. Using subscriber weighted medians corrects for this skewing.
+
+We expect to continue to report weighted medians in the future. In addition, we are maintaining our unweighted mean calculations in our table of statistical values.
+
+As in previous reports, we continue to see significant growth in broadband speeds and their uptake by consumers, though results are not uniform across technologies. While fiber based systems continue to have the highest weighted median speeds, cable based ISPs are driving the growth in new high speed service tiers. Spurred by the deployment of improved technologies such as DOCSIS 3, the maximum advertised download speeds among the most popular service tiers offered by ISPs using cable technologies have increased from 12-30 Mbps in March 2011 to 100-300 Mbps in September 2015. In contrast, the maximum advertised download speeds that were tested among the most popular service tiers offered by ISPs using DSL technology have, with some exceptions, changed little since 2011. We note that DSL technology is capable of attaining speeds comparable to cable and fiber technologies, but that improvements in DSL plant structure and electronic devices may be required, adding to overall expense of the service. We have also been notified by some ISPs using DSL technology that they offer speeds significantly in excess of those surveyed in this report, though not in sufficient scale to be included under our methodology. Our focus in these reports is on the most common service tiers used by 5% or more of an ISP’s subscribers. We find on this basis that there is a growing disparity in download speeds surveyed between DSL and cable and fiber technologies. This disparity has been growing since our initial Report.
+
+Due to the characteristics of the industry, satellite broadband services are another area where performance growth is uneven. Put simply, performance increases for satellite technology are dependent upon the launch of new satellites which add capacity and can also increase attainable consumer speeds. The industry saw an approximate order of magnitude performance increase with the introduction of satellites operating in Ka-band frequencies beginning in late 2011. Performance from these satellites has declined as capacity limits are being reached. Satellite companies are continuing to invest in technologies promising higher capacity and speed. Next generation Ka-band satellites are planned to be launched beginning in late 2016, and we will track how these newer generation of satellites affect overall consumer performance.
+
+Due to the characteristics of the industry, satellite broadband services are another area where performance growth is uneven. Put simply, performance increases for satellite technology are dependent upon the launch of new satellites which add capacity and can also increase attainable consumer speeds. The industry saw an approximate order of magnitude performance increase with the introduction of satellites operating in Ka-band frequencies beginning in late 2011. Performance from these satellites has declined as capacity limits are being reached. Satellite companies are continuing to invest in technologies promising higher capacity and speed. Next generation Ka band satellites are planned to be launched beginning in late 2016, and we will track how these newer generation of satellites affect overall consumer performance.
+
+As in our previous reports, we found that generally actual speeds experienced by subscribers nearly meet or exceed those advertised by ISPs. However, the actual speeds experienced by subscribers of some ISPs using DSL were typically lower than the advertised “up-to” speeds for their respective providers. In addition, one satellite company (ViaSat) had a significant decline in performance from previous years in this regard with performance significantly below that of advertised speed; suggesting, as noted, that capacity limits are being approached for its current satellite constellation. ViaSat has indicated that future launches for additional capacity are planned in 2017.
+
+Consistency of speed may be more important to customers who are heavy users of applications that are both high bandwidth and sensitive to short duration declines in actual speed, such as streaming video. We therefore report on the consistency of service delivered to the consumer. We present statistics on the minimum actual speed experienced by at least 80% of panelists during at least 80% of the peak usage period (“80/80 consistent speed” measure) as well as the percentage of consumers achieving median speeds greater than 95%, between 80% and 95%, and less than 80% of their advertised speeds.
+
+Although actual download and upload speeds remain the network performance metric of greatest interest to the consumer, we spotlight two other key network performance metrics in this report: latency and packet loss. These metrics can significantly affect the overall quality of a consumer’s broadband service.
+
+Latency is the time it takes for a data packet to travel across a network from one point on the network to another. High latencies may affect the perceived quality of some interactive services such as phone calls over the Internet, video chat, or online multiplayer games. Latencies among terrestrial-based broadband services are typically small and are unlikely to affect the perceived quality of applications. The higher latencies of satellite-based broadband services may negatively affect the perceived quality of such highly interactive applications. Not all applications are affected by high latencies, for example, video streaming applications are tolerant of relatively high latencies.
+
+Reporting by ISPs on speed, packet loss and latency are required by the 2015 Open Internet Order and we therefore include them in this report. The Internet is continuing to evolve along multiple dimensions: architecture, performance, and services. We will continue to evolve our measurement methodologies to help consumers understand the performance characteristics of their broadband Internet access service, and thus make informed choices about their use of such services.
+
+A. Most Popular Advertised Service Tiers
+
+As explained in more detail in the methodology section below, these reports focus on the most popular service tiers offered by each participating ISP, as shown in Table 1, which together constitute the majority of the broadband plans subscribed to by their consumers. If a participating ISP offers a faster service tier than shown here, but if its number of subscribers is less than 5% of the total subscriber base of the ISP, it is not analyzed herein.
+
+Table 1: The most popular advertised service tiers
+
+Technology Company Speed Tiers (Download) Speed Tiers (Upload) DSL AT&T DSL 1.5* 3 6 0.384 0.512 AT&T IPBB 3 6 12 18 24 45 0.384* 0.512 0.768 1 1.5 3 6 CenturyLink 1.5 3 7* 10 12 20 40 0.512 0.768 0.896 5 Frontier DSL 1 3 6 0.384 0.768 Verizon DSL (0.5 -1)* 1.3-3 0.384 * (0.384 - 0.768) 0.768* Windstream 3 6 12 0.768 Cable Optimum 25 50 101 5 25 35 Charter 60 100 4 Comcast 25 50 75 105 150 0.768 5 10 20 Cox 15 25 50 100 2 5 10 Mediacom 15 50 100 1 5 10 Time Warner Cable 15 20 30 50 100* 300 1 2 5 10* 20 Fiber Frontier Fiber 25 5 10 25* Verizon Fiber 25 50 75 25 35 50 75 Satellite Hughes 5 10 1 ViaSat 12 3
+
+* Tiers that don't have enough samples
+
+Chart 1 (below) displays the maximum advertised download speeds among the most popular service tiers for each participating ISP, during the years 2011-2015, grouped by the access technology used to offer the broadband Internet access service (DSL, cable, fiber, and satellite). Between September 2014 and September 2015, we observe an average 45% annual increase in the maximum advertised download speeds among the most popular service tiers across participating ISPs weighted by the number of participant panelists that joined the MBA study for each ISP tier.
+
+These increases are not uniform across access technologies. Chart 1 shows that when DSL is used to provide broadband service, the maximum advertised download speeds among the most popular service tiers has increased only slightly since 2011. In contrast, for cable services, the maximum advertised download speeds among the most popular service tiers have increased from 12-30 Mbps in March 2011 to 100-300 Mbps in September 2015. Cable broadband ISPs are able to provide these high speed services by taking advantage of the increase in download speeds made possible by the transition from DOCSIS 2 to DOCSIS 3 technology.
+
+Chart 1: Maximum advertised download speed among the most popular service tiers
+
+Among participating broadband ISPs, only Frontier and Verizon use fiber as the access technology for a substantial number of their customers. While the maximum download speed measured by SamKnows for Frontier’s Fiber product has remained 25 Mbps throughout the course of these Reports the maximum popular download speed included in our survey for Verizon more than doubled from 35 Mbps to 75 Mbps in 2012 and has remained at that speed in subsequent years. Current, fiber based technologies have the highest weighted median speed across technologies.
+
+We reported results for ViaSat (Exede) starting September 2012 and for Hughes starting September 2014, representing when each began its respective participation in the program. The maximum tiers for Satellite ISPs have remained unchanged during these years. Future deployment of next generation satellites, expected to begin in late 2016, have the potential for increasing capacity and overall performance.
+
+The maximum advertised download speed among the most popular service tiers, weighted by the number of panelists increased from 72 Mbps in September 2014 to 105 Mbps in September 2015, a growth of 45%.
+
+Chart 2 charts the migration of panelists to a higher service tier based on their access technology. Specifically, the horizontal axis of Chart 2 partitions the September 2014 panelists by the advertised download speed of the service tier to which they are subscribed. For each such set of panelists who also participated in the September 2015 collection of data, the vertical axis of Chart 2 displays the percentage of panelists that migrated by September 2015 to a service tier with a higher advertised download speed. There are two ways that such a migration can occur: (1) if a panelist changed their broadband plan during the intervening year to a service tier with a higher advertised download speed, or (2) if a panelist did not change their broadband plan but the panelist’s ISP increased the advertised download speed of the panelist’s subscribed plan.
+
+Chart 2 shows that panelists subscribed in September 2014 to service tiers with advertised download speeds between 15 Mbps to 50 Mbps are the most likely to have migrated towards higher service tiers.
+
+Chart 2: Consumer migration to higher advertised download speeds
+
+Advertised download speeds may differ from that actually experienced by subscribers for several reasons. First, network operational performance of ISPs may vary, with some ISPs more consistently meeting network service objectives than others. Second, speeds experienced by different consumers subscribed to the same ISP and the same service tier may vary across a geographical region. Third, speeds experienced by a particular consumer will vary during the day based on variations in the aggregate Internet usage by all subscribers to that same network. We examine the performance of individual carriers. Unless stated otherwise, all actual speeds are measured only during peak usage periods.
+
+Also this year, in calculating the typical consumer-experienced speed across all subscribers of an ISP that might be offering multiple tiers, we have shifted to using a median speed for each tier and weighing these medians by their subscriber numbers. As noted, data for the appropriate weightings was drawn from the ISPs themselves or secondarily from FCC data. In previous years we computed the mean speed for each tier and weighted the tiers by the number of panelists in each tier.
+
+Chart 3 shows the median download speeds experienced by each participating ISP’s subscribers—averaged across all analyzed service tiers, geography, and time —from 2011 to 2015. As mentioned above, Chart 3 only applies statistical weighting to the data for 2015, while prior year data do not reflect this methodology. As a result, shifts from 2014-2015 may not reflect trends in an ISP’s performance over that period. The median download speed, averaged across all participating ISPs, has almost quadrupled during this period, from approximately 10 Mbps in March 2011, to approximately 41 Mbps in September 2015. Compared to last year’s unweighted median speed of 32 Mbps, this year’s speed was an increase of approximately 28%.
+
+Chart 3: Median download speeds by ISP, 2011 to 2015
+
+However, as we observed above when examining advertised download speeds, the increase in median download speeds is not uniform across access technologies. For subscribers to DSL-based broadband service, the increase in median download speeds has varied among ISPs, with most ISPs showing little or no change. For subscribers to each of the participating cable broadband services, there have been fairly steady and substantial increases in median download speeds. We find that, over the course of our reports, the overall annual increase in median download speeds by technology has been 21% for DSL, 47% for cable, and 14% for fiber. The large apparent increase is DSL speeds is largely driven by our change in methodology for reporting on AT&T and the relatively large market share for IPBB (IP BroadBand). The apparent increase in DSL speeds for CenturyLink is the result of a merger with Qwest (now included as CenturyLink). For the majority of ISPs using DSL, there has been little change in speeds over the course of these reports.
+
+Chart 4 shows the ratio of the weighted median speeds experienced by an ISP’s subscribers to that ISP’s advertised speeds. The ratios for both download and upload speeds to the advertised download and upload speeds are illustrated. The actual speeds experienced by most ISPs’ subscribers are close to or exceed the advertised speeds. However, DSL broadband ISPs continue to advertise “up-to” speeds that on average exceed the actual speeds experienced by their subscribers. Verizon, instead, advertises a speed range for DSL performance and has requested that we include this range in relevant charts; we indicate this speed range by shading on all bar charts describing Verizon performance. This year we also noted a decrease in the actual speed to advertised speed for satellite ISPs, Hughes went down from 203% to 153% while ViaSat went from 107% to 71%. This may be the effect of new customer additions to the respective networks or increased usage per customer and the capacity of the satellites currently in service. Future launches of more advanced satellites are expected and may reverse this trend.
+
+Chart 4: The ratio of weighted median speed to advertised speed for each ISP
+
+As noted above, actual speeds experienced by individual consumers may vary based on location and may vary during each day. Chart 5 shows, for each ISP, the percentage of consumers (across the ISP’s service territory) who experienced a median download speed (averaged over the peak usage period during our measurement period) that was (a) greater than 95%, (b) between 80% and 95%, and (c) less than 80% of the advertised download speed.
+
+Chart 5: The percentage of consumers whose median download speed was (a) greater than 95%, (b) between 80% and 95%, and (c) less than 80% of the advertised download speed
+
+Even though the median download speeds experienced by most ISPs’ subscribers nearly meet or exceed the advertised download speeds, for each ISP there are some panelists for whom median download speed falls significantly short of the advertised download speed. Relatively few subscribers to cable or fiber broadband service experience such shortfalls. The best performing ISPs, when measured by this metric, are Optimum, Charter, TWC, Verizon-Fiber and Hughes; more than 85% of their panelists were able to attain an actual median download speed of at least 95% of the advertised download speed. In contrast, many subscribers to some ISPs’ DSL and satellite broadband service experience median download speeds that fall substantially short of advertised download speeds. In particular, the results for ViaSat show that none of the panelists in our study were able to achieve download speeds of 95% of the advertised speeds during peak periods and that over 70% of the panelists received less than 80% of their advertised speed.
+
+In addition to variation based on a subscriber’s location, speeds experienced by a particular consumer will vary during the day based on variations in aggregate usage by all subscribers to that consumer’s ISP. For purposes of discussion, we use the term “80/80 consistent speed” to refer to the minimum actual speed that was experienced by at least 80% of panelists during at least 80% of the peak usage period. Consistency of speed may be more important to customers who are heavy users of applications that are bandwidth-intensive and sensitive to variations in actual speed.
+
+In comparing the 80/80 consistency speed results for this year with respect to last year’s results, improvements can be seen in the performance of Windstream, Charter, Comcast and TWC. On the other hand, the performance during the testing period of both Hughes' and ViaSat’s satellite-based services and Frontier’s fiber-based service deteriorated this year.
+
+Chart 6 illustrates, for each ISP, the ratio of 80/80 consistent median download speed to advertised download speed, and for reference the ratio of median download speed to advertised download speed shown previously in Chart 4. The ratio of 80/80 consistent median download speed to advertised download speed is less than the ratio of median download speed to advertised download speed for all participating ISPs due to fluctuations in Internet usage that occasionally result in short periods of time when median download speeds are lower than the overall average. When the difference between the two ratios is small, the median download speed is fairly insensitive to both geography and time. When the difference between the two ratios is large, there is a greater variability in median download speed, either based on location or variations during the peak usage period.
+
+Chart 6: The ratio of 80/80 consistent median download speed to advertised download speed.
+
+Customers of Optimum, Charter, Comcast, Time-Warner Cable and Verizon Fiber (FiOS) experienced median download speeds that are very consistent; over 90% of the panelists experienced median download speeds at or above 80% of advertised download speeds during at least 80% of the peak usage period. Other companies fared less well regardless of technology. For example, less than 50% of panelists for AT&T (DSL), Frontier (fiber) and ViaSat (satellite) experienced median download speeds that were above 80% of the advertised speed for 80% or more of the time.
+
+Latency is the time it takes for a data packet to travel from one point to another in a network. It increases with the distance between the source and destination and with any congestion on the route. The Measuring Broadband America program measures latency by measuring the round-trip time from the consumer’s home to the closest measurement server and back.
+
+Chart 7 shows the median latency for each participating ISP. In general, higher service tiers have lower latency, an artifact of how data packets are composed by end devices and transported through the network. Satellite technologies inherently display long latency since the round trip path a data packet will travel from an earth station to the satellite and return is very long, approximately 44,000 miles. As a consequence, the median latencies of satellite-based broadband services (which range from 599 ms to 629 ms) are much higher than those for terrestrial-based broadband services (which range from 12 ms to 58 ms).
+
+Chart 7: Latency by ISP
+
+(a) Terrestrial ISPs
+
+(b) Satellite ISPs
+
+The higher latencies of satellite-based broadband services may negatively affect the perceived quality of highly interactive applications. Amongst terrestrial technologies DSL latencies (between 28 ms to 58 ms) were slightly larger than cable and fiber latencies (12 ms to 30 ms). The differences in median latencies among terrestrial-based broadband services are relatively small, and are unlikely to affect the perceived quality of such highly interactive applications.
+
+Packet loss is the percentage of packets that are sent by the source but not received at the destination. The most common reason that a packet is not received is that it encountered congestion along the route. A small amount of packet loss is expected, and indeed some Internet protocols use the packet loss to infer Internet congestion and to adjust the sending rate accordingly. The Measuring Broadband America program considers a packet as lost if the latency exceeds 3 seconds.
+
+Chart 8 shows the average packet loss for each participating ISP, grouped by technology.
+
+Chart 8: Packet loss by ISP
+
+With respect to packet loss, the majority of ISPs show either no change or slight improvement over last year. Exceptions to this include: Hughes whose packet loss increased from 0.2% to 0.8% and Frontier DSL which improved its packet loss from 0.8% to 0.6%.
+
+The Measuring Broadband America program also conducts a specific test to gauge web browsing performance.
+
+The web browsing test accesses nine popular websites that include text and images but not streaming video. The time required to download a webpage depends on many factors, including the consumer’s download speed within an ISP’s network, the web server’s speed, congestion in other networks outside the consumer’s ISP’s network (if any), and the time required to identify the location of the webserver. Only some of these factors are under control of the consumer’s ISP. Chart 9 displays the average webpage download time by the advertised download speed. As shown by this chart, webpage download time decreases as download speed increases, from about 8 seconds at 1.5 Mbps download speed to about 1.3 seconds for 25 Mbps download speed. Subscribers to service tiers exceeding 25 Mbps do not experience further significant decreases in webpage download times. These download times assume that a single user is using the Internet connection at the time at which the webpage is downloaded, and does not account for more typical scenarios where multiple users within a household are simultaneously using the Internet connection for multiple uses, such as real-time gaming or video streaming.
+
+Chart 9: Average webpage download time, by advertised download speed
+
+3. Methodology
+
+Thirteen ISPs participated in the Fixed Measuring Broadband America program in September 2015. They are:
+
+AT&T
+
+CenturyLink
+
+Charter Communications
+
+Comcast
+
+Cox Communications
+
+Frontier Communications Company
+
+Hughes Network Systems
+
+Mediacom Communications Corporation
+
+Optimum Systems Corporation
+
+Time Warner Cable
+
+Verizon
+
+ViaSat
+
+Windstream Communications
+
+The methodologies and assumptions underlying the measurements described in this Report are reviewed at meetings that are open to all interested parties, and documented in public ex parte letters filed in the GN Docket No. 12-264. Policy decisions regarding our program involving such things as test periods, mitigation of operational issues, terms of use notifications to panelists, etc. were discussed at these meetings prior to adoption. Participation in this effort is open and voluntary. These discussions include participation of diverse groups representing academia, consumer equipment vendors, telecommunications vendors, network service providers, consumer policy advocates as well as our contractor for this project, SamKnows. In 2015-2016, participants at these meetings (collectively and informally referred to as “the broadband collaborative”), included all thirteen participating ISPs and the following additional organizations:
+
+Center for Applied Data Analysis (CAIDA)
+
+International Technology and Trade Associates (ITTA)
+
+Internet Society
+
+Level 3 Communications ("Level 3")
+
+Massachusetts Institute of Technology ("MIT")
+
+M-Lab
+
+National Cable & Telecommunications Association ("NCTA")
+
+New America Foundation
+
+Practicum Team, NCSU, Institute for Advanced Analytics
+
+Princeton University
+
+United States Telecom Association ("US Telecom")
+
+University of California- Santa Cruz
+
+Participants have contributed importantly to the integrity of this program and provide valuable feedback for FCC decisions on the deployment and ongoing management of this program. Initial proposals for test metrics and testing platforms were discussed and critiqued within the broadband collaborative. M-Lab and Level 3 contributed their core network testing infrastructure, and both parties continue to provide invaluable assistance in helping to define and implement the FCC testing platform. We thank the participants for their continued contributions to this program.
+
+The measurements that provide the underlying data in this Report rely both on measurement clients and measurement servers. The measurement clients reside in the homes of 4,281 panelists who receive service by the 13 participating ISPs. The participating ISPs collectively account for over 80% of U.S. residential broadband Internet connections. The panelists closely match the overall state and region statistics of Internet access connections in the United States as reflected in the Commission’s Form 477 data.
+
+The measurement servers are hosted by M-Lab and Level 3 Communications, and are located in nine cities across the United States near a point of interconnection between the ISP’s network and the network on which the measurement server resides.
+
+The measurement clients collect data throughout the year, and this data is available as described below. However, only data collected from September 29-30, October 2-7 and October 10-31, 2015 (referred to throughout this report as the “September 2015” reporting period) are used to generate the charts in this Report.
+
+One of the key factors affecting all aspects of broadband performance is the time of day. At peak hours, more people are attempting to use their broadband Internet connections, giving rise to a greater potential for congestion and degraded user performance. Unless otherwise stated, this Report focuses on performance during peak usage period, which is defined as weeknights between 7:00 PM to 11:00 PM local time. Focusing on peak usage period provides the most useful information because it demonstrates the performance users can expect when the Internet in their local area is experiencing highest demand from users.
+
+Although the Report generally focuses on each participating ISP’s entire service territory, this Report will also briefly address network performance in each of the four census regions of the United States.
+
+Our methodology focuses on the performance of each participating ISP’s network. The metrics discussed in this Report are derived from traffic flowing between a measurement client (located within the modem or router within a panelist’s home) and a measurement server. For each panelist, the tests use the measurement server for which the latency between the measurement client and server is the lowest value. As a result, the metrics measure performance along a specific path within each ISP’s network, through a point of interconnection between the ISP’s network and the network on which the chosen measurement server resides.
+
+However, the service performance that a consumer may experience may differ from our measured values for several reasons. First, as noted, our method depends upon using a specific path to a chosen test server to calculate performance values. On balance, this is a sound approach and is a common method to measure network speeds. ISPs, in general, attempt to maintain consistent performance throughout their network. However, at times specific paths or interconnection points within an ISP’s network may be congested and this can affect a specific consumer’s service. In addition, congestion beyond an ISP’s network, not measured in our study, can affect the overall performance a consumer sees in their service.
+
+Second, a consumer’s home network may be the bottleneck, rather than the ISP’s network. This degradation may occur, for instance, if the home network’s maximum transmission rate is lower than the advertised speed of the selected service tier; if a device is communicating with a Wi-Fi home router at a reduced speed due to walls or obstructions in between the device and the router; if multiple users within the home are currently sharing the total actual speed available; or if there is congestion within the home network due to transfers of data within the home. Due to the increasingly high service tiers now being offered by some ISPs, home network performance is of growing interest to the FCC.
+
+Third, consumers typically view performance through the lens of a set of applications that they utilize. The performance as seen through a particular application depends on both the network performance and on the application performance. While network performance is considered in this Report, application performance is generally not. For instance, if a consumer is web browsing, the delay from a request for a webpage to the display of that webpage includes network latency (considered in this Report), the time it takes for the webserver to respond to the request, and the time it takes for the browser to render that webpage. The latter two components of the total delay are only considered in the Web Browsing test. For other commonly used applications, this Report does not consider components of the application performance that are outside the control of the ISP.
+
+This Report is based on the following measurement tests:
+
+· Download speed : Measures the download speed of each whitebox in 5 second intervals within a 30 second time interval, every 2 hours. The speed measured in the last 5 seconds of the 30 second interval is stored the results of each whitebox are then averaged and the median value of the average speed taken over all the set of whiteboxes is used to determine the “median download speed” for a particular service tier. A weighted median for each service tier (weighted by subscriber counts for the tiers) is used to determine the overall ISP download speed.
+
+· Upload speed : Measures the upload speed of each whitebox in 5 second intervals within a 30 second time interval, every 2 hours. The speed measured in the last 5 seconds of the 30 second interval is stored, the results of each whitebox are then averaged and the median value for the average speed taken over all the set of whiteboxes is used to determine the “median upload speed for a particular service tier. A weighted median for each service tier (weighted by subscriber counts for the tiers) is used to determine the overall ISP upload speed.
+
+· Latency and packet loss : Measures the round-trip times for approximately 2000 packets per hour sent at randomly distributed times. Response times less than 3 seconds are used to determine “median latency.” Acknowledgements not received or received with a round-trip time greater than 3 seconds determine “packet loss.”
+
+· Web browsing : Measures the total time to request and receive webpages (including the text and images on each webpage) from 9 popular websites, every hour. The measurement includes the time required to translate the webpage name into the webserver’s IP address.
+
+This Report focuses on three performance metrics that are of particular relevance to consumers of broadband Internet access service: speed, latency, and packet loss. Download and upload speeds are the primary network performance characteristic advertised by ISPs. Median download speed is the rate at which information can be downloaded by the consumer. Higher speeds indicate a higher delivery rate. However, as discussed above, the performance observed by a user in any given circumstance depends not only on the actual speed of the ISP’s network, but also on the speed of other parts of the Internet and on the speed of the application itself.
+
+The Technical Appendix for the 2016 Report provides specific information regarding the process by which measurements were made and describes each test that was performed.
+
+The Validated Data Set on which this Report was based, as well as the full results of all tests, are available at http://www.fcc.gov/measuring-broadband-america.
+
+In addition to the Validated Data Set for the September 2015 reference month, in the interest of transparency and to support additional research, raw data for the reference month and other months is available at the same website. Previous reports of the Measuring Broadband America program, as well as the data used to produce them, are also available at the same website.
+
+Both the Commission and SamKnows, the Commission’s contractor for this program, recognize that, while the methodology descriptions included in this document provide an overview of the project as a whole, there will be a number of interested parties—ranging from recognized experts to members of the general public—who would be willing to contribute to the project by reviewing the actual software used in the testing. SamKnows welcomes review of its software and technical platform, consistent with the Commission’s goals of openness and transparency for this program.

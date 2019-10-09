@@ -1,0 +1,30 @@
+This new app can detect wireless credit card skimmers at gas pumps
+Credit card skimmers on gas pumps and ATMs are more common than you think -- and anyone (including yours truly) can get hit by them.
+
+Now, there's an app that might just stop you from getting stung in the future.
+
+The app, currently only available for Android, works by looking for a Bluetooth module nearby that's commonly used in modern credit card skimmers. The module sits on a palm-sized circuit board, and it can be plugged into a credit card reader, hidden from sight, which steals every card number that it reads.
+
+Using Bluetooth lets the perpetrator wirelessly download a list of card numbers from nearby, without drawing attention.
+
+As smart as these skimmers are, the downside is that just like other Bluetooth devices, many of these skimmers broadcast their existence -- meaning anyone who knows what to look for can spot them ahead of time.
+
+"Initially this blew my mind," said Nathan Seidle, who runs Boulder, Colo.-based electronics store SparkFun, who wrote about the skimmer app in a detailed blog post. "If I were to design a Bluetooth skimmer I would program the module to not broadcast its ID."
+
+"Years ago it took someone with knowledge and skills to build a credit card skimmer," he said. "Now criminals are buying these off the shelf with very little knowledge and slapping them together."
+
+Seidle was handed three Bluetooth-enabled credit card skimmers by a law enforcement agency. These tiny skimmers were found plugged into the credit card readers in several gas pumps. Installing one in a target gas pump or ATM can reportedly take less than a minute, but they can sit there unnoticed for hours, day, or weeks. Every time a card goes in, the card reader passes the card data in clear-text to the skimmer and stores the information -- the victim is none the wiser until they see charges on their credit card.
+
+As it happens, all three of the skimmers use the same easy-to-use Bluetooth module, often used in educational or hobby projects, and it can be picked up for a few dollars each.
+
+But their cheapness comes at a cost (excuse the pun): They're not very secure.
+
+Each of the modules uses the same default device name ("HC-05") and pairing passcode ("1234"). The app can try to connect with the potential skimmer with the passcode. The module can be queried with a known command, "P," which, if it returns an "M," the chances are the app just spotted a skimmer within a few feet of you.
+
+Nick Poole, who wrote the app, said more than 13,500 people have installed it as of Thursday.
+
+"Many of these devices go undiscovered until they're removed by the scammers," he said in an email to ZDNet. It's not known how many traditional, non-Bluetooth skimmers there are. But one news report from June showed that the skimming business -- including the newer Bluetooth-enabled skimmers -- was booming in Florida. Other news outlets show a similar rise in Virginia and Pittsburgh, to name a few.
+
+"I think what we'll find as more and more people use the app is that there are more skimmers out there than anyone previously thought," he said.
+
+Poole said he has no plans to build an iPhone version of the app, but the code is open-source for anyone to tinker with. You can download the Android app from Google Play.

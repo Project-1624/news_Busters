@@ -1,0 +1,124 @@
+Fluorophore
+For uses and theory of fluorescence, see Fluorescence in the life sciences
+
+A fluorophore (or fluorochrome, similarly to a chromophore) is a fluorescent chemical compound that can re-emit light upon light excitation. Fluorophores typically contain several combined aromatic groups, or planar or cyclic molecules with several π bonds.[1]
+
+Fluorophores are sometimes used alone, as a tracer in fluids, as a dye for staining of certain structures, as a substrate of enzymes, or as a probe or indicator (when its fluorescence is affected by environmental aspects such as polarity or ions). More generally they are covalently bonded to a macromolecule, serving as a marker (or dye, or tag, or reporter) for affine or bioactive reagents (antibodies, peptides, nucleic acids). Fluorophores are notably used to stain tissues, cells, or materials in a variety of analytical methods, i.e., fluorescent imaging and spectroscopy.
+
+Fluorescein, by its amine reactive isothiocyanate derivative FITC, has been one of the most popular fluorophores. From antibody labeling, the applications have spread to nucleic acids thanks to (FAM (Carboxyfluorescein), TET,...). Other historically common fluorophores are derivatives of rhodamine (TRITC), coumarin, and cyanine.[2] Newer generations of fluorophores, many of which are proprietary, often perform better, being more photostable, brighter, and/or less pH-sensitive than traditional dyes with comparable excitation and emission.[3][4]
+
+Fluorescence [ edit ]
+
+The fluorophore absorbs light energy of a specific wavelength and re-emits light at a longer wavelength. The absorbed wavelengths, energy transfer efficiency, and time before emission depend on both the fluorophore structure and its chemical environment, as the molecule in its excited state interacts with surrounding molecules. Wavelengths of maximum absorption (≈ excitation) and emission (for example, Absorption/Emission = 485 nm/517 nm) are the typical terms used to refer to a given fluorophore, but the whole spectrum may be important to consider. The excitation wavelength spectrum may be a very narrow or broader band, or it may be all beyond a cutoff level. The emission spectrum is usually sharper than the excitation spectrum, and it is of a longer wavelength and correspondingly lower energy. Excitation energies range from ultraviolet through the visible spectrum, and emission energies may continue from visible light into the near infrared region.
+
+Main characteristics of fluorophores are:
+
+Maximum excitation and emission wavelength (expressed in nanometers (nm)): corresponds to the peak in the excitation and emission spectra (usually one peak each),
+
+(expressed in nanometers (nm)): corresponds to the peak in the excitation and emission spectra (usually one peak each), Molar absorption Coefficient ( in Molar −1 cm −1 ): links the quantity of absorbed light, at a given wavelength, to the concentration of fluorophore in solution.
+
+( in Molar cm ): links the quantity of absorbed light, at a given wavelength, to the concentration of fluorophore in solution. Quantum yield : efficiency of the energy transferred from incident light to emitted fluorescence (= number of emitted photons per absorbed photons)
+
+: efficiency of the energy transferred from incident light to emitted fluorescence (= number of emitted photons per absorbed photons) Lifetime (in picoseconds): duration of the excited state of a fluorophore before returning to its ground state. It refers to the time taken for a population of excited fluorophores to decay to 1/e (≈0.368) of the original amount.
+
+(in picoseconds): duration of the excited state of a fluorophore before returning to its ground state. It refers to the time taken for a population of excited fluorophores to decay to 1/e (≈0.368) of the original amount. Stokes shift: difference between the maximum excitation and maximum emission wavelengths.
+
+These characteristics drive other properties, including the photobleaching or photoresistance (loss of fluorescence upon continuous light excitation). Other parameters should be considered, as the polarity of the fluorophore molecule, the fluorophore size and shape (i.e. for polarization fluorescence pattern), and other factors can change the behavior of fluorophores.
+
+Fluorophores can also be used to quench the fluorescence of other fluorescent dyes (see article Quenching (fluorescence)) or to relay their fluorescence at even longer wavelength (see article FRET)
+
+See more on fluorescence principle.
+
+Size (molecular weight) [ edit ]
+
+Most fluorophores are organic small molecules of 20 - 100 atoms (200 - 1000 Dalton - the molecular weight may be higher depending on grafted modifications, and conjugated molecules), but there are also much larger natural fluorophores that are proteins: Green fluorescent protein (GFP) is 27 kDa and several phycobiliproteins (PE, APC...) are ≈240kDa.
+
+Fluorescence particles are not considered fluorophores (quantum dot: 2-10 nm diameter, 100-100,000 atoms).
+
+The size of the fluorophore might sterically hinder the tagged molecule, and affect the fluorescence polarity.
+
+Families [ edit ]
+
+Fluorescence of different substances under UV light. Green is a fluorescein, red is Rhodamine B, yellow is Rhodamine 6G, blue is quinine, purple is a mixture of quinine and rhodamine 6g. Solutions are about 0.001% concentration in water.
+
+Fluorophore molecules could be either utilized alone, or serve as a fluorescent motif of a functional system. Based on molecular complexity and synthetic methods, fluorophore molecules could be generally classified into four categories: proteins and peptides, small organic compounds, synthetic oligomers and polymers, and multi-component systems. [5][6]
+
+Fluorescent proteins GFP (green), YFP (yellow) and RFP (red) can be attached to other specific proteins to form a fusion protein, synthesized in cells after transfection of a suitable plasmid carrier.
+
+Non-protein organic fluorophores belong to following major chemical families:
+
+These fluorophores fluoresce due to delocalized electrons which can jump a band and stabilize the energy absorbed. Benzene, one of the simplest aromatic hydrocarbons, for example, is excited at 254 nm and emits at 300 nm.[7] This discriminates fluorophores from quantum dots, which are fluorescent semiconductor nanoparticles.
+
+They can be attached to protein to specific functional groups, such as - amino groups (Active ester, Carboxylate, Isothiocyanate, hydrazine) - carboxyl groups (carbodiimide) - thiol (maleimide, acetyl bromide) - azide (via click chemistry or non-specifically (glutaraldehyde)).
+
+Additionally, various functional groups can be present to alter its properties, such as solubility, or confer special properties, such as boronic acid which binds to sugars or multiple carboxyl groups to bind to certain cations. When the dye contains an electron-donating and an electron-accepting group at opposite ends of the aromatic system, this dye will probably be sensitive to the environment's polarity (solvatochromic), hence called environment-sensitive. Often dyes are used inside cells, which are impermeable to charged molecules, as a result of this the carboxyl groups are converted into an ester, which is removed by esterases inside the cells, e.g., fura-2AM and fluorescein-diacetate.
+
+The following dye families are trademark groups, and do not necessarily share structural similarities.
+
+Bovine Pulmonary Artery Endothelial cell nuclei stained blue with DAPI mitochondria stained red with MitoTracker Red CMXRos, and F-actin stained green with Alexa Fluor 488 phalloidin and imaged on a fluorescent microscope.
+
+Examples of frequently encountered fluorophores [ edit ]
+
+Reactive and conjugated dyes [ edit ]
+
+Dye Ex (nm) Em (nm) MW Notes Hydroxycoumarin 325 386 331 Succinimidyl ester Aminocoumarin 350 445 330 Succinimidyl ester Methoxycoumarin 360 410 317 Succinimidyl ester Cascade Blue (375);401 423 596 Hydrazide Pacific Blue 403 455 406 Maleimide Pacific Orange 403 551 Lucifer yellow 425 528 NBD 466 539 294 NBD-X R-Phycoerythrin (PE) 480;565 578 240 k PE-Cy5 conjugates 480;565;650 670 aka Cychrome, R670, Tri-Color, Quantum Red PE-Cy7 conjugates 480;565;743 767 Red 613 480;565 613 PE-Texas Red PerCP 490 675 35kDa Peridinin chlorophyll protein TruRed 490,675 695 PerCP-Cy5.5 conjugate FluorX 494 520 587 (GE Healthcare) Fluorescein 495 519 389 FITC; pH sensitive BODIPY-FL 503 512 G-Dye100 498 524 suitable for protein labeling and electrophoresis G-Dye200 554 575 suitable for protein labeling and electrophoresis G-Dye300 648 663 suitable for protein labeling and electrophoresis G-Dye400 736 760 suitable for protein labeling and electrophoresis Cy2 489 506 714 QY 0.12 Cy3 (512);550 570;(615) 767 QY 0.15 Cy3B 558 572;(620) 658 QY 0.67 Cy3.5 581 594;(640) 1102 QY 0.15 Cy5 (625);650 670 792 QY 0.28 Cy5.5 675 694 1272 QY 0.23 Cy7 743 767 818 QY 0.28 TRITC 547 572 444 TRITC X-Rhodamine 570 576 548 XRITC Lissamine Rhodamine B 570 590 Texas Red 589 615 625 Sulfonyl chloride Allophycocyanin (APC) 650 660 104 k APC-Cy7 conjugates 650;755 767 Far Red
+
+Abbreviations:
+
+Ex (nm): Excitation wavelength in nanometers
+
+Em (nm): Emission wavelength in nanometers
+
+MW: Molecular weight
+
+QY: Quantum yield
+
+Nucleic acid dyes [ edit ]
+
+Dye Ex (nm) Em (nm) MW Notes Hoechst 33342 343 483 616 AT-selective DAPI 345 455 AT-selective Hoechst 33258 345 478 624 AT-selective SYTOX Blue 431 480 ~400 DNA Chromomycin A3 445 575 CG-selective Mithramycin 445 575 YOYO-1 491 509 1271 Ethidium Bromide 210;285 605 394 in aqueous solution Acridine Orange 503 530/640 DNA/RNA SYTOX Green 504 523 ~600 DNA TOTO-1, TO-PRO-1 509 533 Vital stain, TOTO: Cyanine Dimer TO-PRO: Cyanine Monomer Thiazole Orange 510 530 CyTRAK Orange 520 615 - (Biostatus) (red excitation dark) Propidium Iodide (PI) 536 617 668.4 LDS 751 543;590 712;607 472 DNA (543ex/712em), RNA (590ex/607em) 7-AAD 546 647 7-aminoactinomycin D, CG-selective SYTOX Orange 547 570 ~500 DNA TOTO-3, TO-PRO-3 642 661 DRAQ5 600/647 697 413 (Biostatus) (usable excitation down to 488) DRAQ7 599/644 694 ~700 (Biostatus) (usable excitation down to 488)
+
+Cell function dyes [ edit ]
+
+Dye Ex (nm) Em (nm) MW Notes Indo-1 361/330 490/405 1010 AM ester, low/high calcium (Ca2+) Fluo-3 506 526 855 AM ester. pH > 6 Fluo-4 491/494 516 1097 AM ester. pH 7.2 DCFH 505 535 529 2'7'Dichorodihydrofluorescein, oxidized form DHR 505 534 346 Dihydrorhodamine 123, oxidized form, light catalyzes oxidation SNARF 548/579 587/635 pH 6/9
+
+Fluorescent proteins [ edit ]
+
+Dye Ex (nm) Em (nm) MW QY BR PS Notes GFP (Y66H mutation) 360 442 GFP (Y66F mutation) 360 508 EBFP 380 440 0.18 0.27 monomer EBFP2 383 448 20 monomer Azurite 383 447 15 monomer GFPuv 385 508 T-Sapphire 399 511 0.60 26 25 weak dimer Cerulean 433 475 0.62 27 36 weak dimer mCFP 433 475 0.40 13 64 monomer mTurquoise2 434 474 0.93 28 monomer ECFP 434 477 0.15 3 CyPet 435 477 0.51 18 59 weak dimer GFP (Y66W mutation) 436 485 mKeima-Red 440 620 0.24 3 monomer (MBL) TagCFP 458 480 29 dimer (Evrogen) AmCyan1 458 489 0.75 29 tetramer, (Clontech) mTFP1 462 492 54 dimer GFP (S65A mutation) 471 504 Midoriishi Cyan 472 495 0.9 25 dimer (MBL) Wild Type GFP 396,475 508 26k 0.77 GFP (S65C mutation) 479 507 TurboGFP 482 502 26 k 0.53 37 dimer, (Evrogen) TagGFP 482 505 34 monomer (Evrogen) GFP (S65L mutation) 484 510 Emerald 487 509 0.68 39 0.69 weak dimer, (Invitrogen) GFP (S65T mutation) 488 511 EGFP 488 507 26k 0.60 34 174 weak dimer, (Clontech) Azami Green 492 505 0.74 41 monomer (MBL) ZsGreen1 493 505 105k 0.91 40 tetramer, (Clontech) TagYFP 508 524 47 monomer (Evrogen) EYFP 514 527 26k 0.61 51 60 weak dimer, (Clontech) Topaz 514 527 57 monomer Venus 515 528 0.57 53 15 weak dimer mCitrine 516 529 0.76 59 49 monomer YPet 517 530 0.77 80 49 weak dimer TurboYFP 525 538 26 k 0.53 55.7 dimer, (Evrogen) ZsYellow1 529 539 0.65 13 tetramer, (Clontech) Kusabira Orange 548 559 0.60 31 monomer (MBL) mOrange 548 562 0.69 49 9 monomer Allophycocyanin (APC) 652 657.5 105 kDa 0.68 heterodimer, crosslinked[8] mKO 548 559 0.60 31 122 monomer TurboRFP 553 574 26 k 0.67 62 dimer, (Evrogen) tdTomato 554 581 0.69 95 98 tandem dimer TagRFP 555 584 50 monomer (Evrogen) DsRed monomer 556 586 ~28k 0.1 3.5 16 monomer, (Clontech) DsRed2 ("RFP") 563 582 ~110k 0.55 24 (Clontech) mStrawberry 574 596 0.29 26 15 monomer TurboFP602 574 602 26 k 0.35 26 dimer, (Evrogen) AsRed2 576 592 ~110k 0.21 13 tetramer, (Clontech) mRFP1 584 607 ~30k 0.25 monomer, (Tsien lab) J-Red 584 610 0.20 8.8 13 dimer R-phycoerythrin (RPE) 565 >498 573 250 kDa 0.84 heterotrimer[8] B-phycoerythrin (BPE) 545 572 240 kDa 0.98 heterotrimer[8] mCherry 587 610 0.22 16 96 monomer HcRed1 588 618 ~52k 0.03 0.6 dimer, (Clontech) Katusha 588 635 23 dimer P3 614 662 ~10,000 kDa phycobilisome complex[8] Peridinin Chlorophyll (PerCP) 483 676 35 kDa trimer[8] mKate (TagFP635) 588 635 15 monomer (Evrogen) TurboFP635 588 635 26 k 0.34 22 dimer, (Evrogen) mPlum 590 649 51.4 k 0.10 4.1 53 mRaspberry 598 625 0.15 13 monomer, faster photobleach than mPlum
+
+Abbreviations:
+
+Ex (nm): Excitation wavelength in nanometers
+
+Em (nm): Emission wavelength in nanometers
+
+MW: Molecular weight
+
+QY: Quantum yield
+
+BR: Brightness: Molar absorption coefficient * quantum yield / 1000
+
+PS: Photostability: time [sec] to reduce brightness by 50%
+
+Applications [ edit ]
+
+Fluorophores have particular importance in the field of biochemistry and protein studies, e.g., in immunofluorescence but also in cell analysis, e.g. immunohistochemistry[3] [9] and small molecule sensors.
+
+Uses outside the life sciences [ edit ]
+
+Additionally fluorescent dyes find a wide use in industry, going under the name of "neon colours", such as
+
+multi-ton scale usages in textile dyeing and optical brighteners in laundry detergents
+
+advanced cosmetic formulations; safety equipment and clothing
+
+organic light-emitting diodes (OLED)
+
+fine arts and design (posters and paintings)
+
+synergists for insecticides and experimental drugs
+
+used as a dye in highlighters to give off a glow-like effect
+
+solar panels (collect more light / wavelengths)
+
+See also [ edit ]

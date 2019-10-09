@@ -1,0 +1,20 @@
+Mortality Records with Mention of Termination of Pregnancy
+Background of Request
+
+This document is in response to a Congressional inquiry to provide more detailed information about infant deaths where the death certificate mentions the International Classification of Diseases-10 (ICD-10) code P96.4—termination of pregnancy. Because this category includes spontaneous terminations of pregnancy and induced terminations of pregnancy, NCHS was asked to determine the number of infant deaths that are the result of a spontaneous termination vs. an induced termination. As a statistical agency NCHS publishes the results of analyses undertaken to respond to requests for information if that information is not otherwise available publicly.
+
+General Background
+
+The information presented below comes from the National Vital Statistics System (NVSS) Mortality Data. Data available for 2003 and subsequent years includes not only causes of death coded to ICD-10, but also the original text describing the causes of death as reported on the death certificate by the cause-of-death certifier (usually a physician, medical examiner or coroner). With regard to infant deaths, the NVSS Mortality Data only include deaths occurring to those infants born alive; fetal deaths (stillbirths) are not included. The legal definition of live birth includes any sign of life, e.g., breath, heartbeat, pulsation of the umbilical cord, or definite movement of voluntary muscles.
+
+Results
+
+Infant deaths for the 12 year period 2003 – 2014 assigned to code ICD-10 code P96.4 – Termination of pregnancy, affecting fetus and newborn were reviewed. During this period there were 315,392 infant deaths and 49,126,572 live births. The purpose of this analysis is to provide some additional information regarding infant deaths with this cause of death code. This category includes both spontaneous terminations of pregnancy and induced terminations of pregnancy. Analysis of the text as reported by the cause-of-death certifier show that of 588 deaths with mention of P96.4, 143 (24.3%) could definitively be classified as involving an induced termination. A list of the terms on which this number is based is shown below. Most of the remaining deaths are clearly spontaneous. However, it is possible that this number (143) underestimates the total number of deaths involving induced termination. In some cases, when a vague term such as “termination of pregnancy” was reported as due to a severe congenital anomaly or maternal complication, it was impossible to determine whether the pregnancy terminated spontaneously as the result of the anomaly or complication, or whether the mother elected to terminate because of the anomaly or complication. Because of the strong association between severe congenital anomalies or maternal complications and premature labor and birth, terminations were assumed to be spontaneous when reported as “due to” or “caused by” an anomaly/complication. However, if the language used was something like “termination of pregnancy for [congenital anomaly/maternal complication]” then the termination was assumed to be induced. In addition, of the 143 deaths involving induced terminations, 97 involved a maternal complication or, one or more congenital anomalies.
+
+The distribution of age at death for deaths involving induced terminations are as follows:
+
+Age at death Frequency Percent <10 minutes 25 17.5 10-59 minutes 35 24.5 1-4 hours 68 47.6 5-23 hours 9 6.3 1 day or more 6 4.2
+
+Terms reported on death certificates that indicate an induced termination of pregnancy
+
+Note: This information was derived from deaths occurring from 2003 to 2014. The language is unedited and exactly that used by the cause-of-death certifier.

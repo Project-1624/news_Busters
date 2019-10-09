@@ -1,0 +1,32 @@
+Frequently Asked Questions
+MyMedicare.gov Help
+
+Frequently Asked Questions
+
+If you decide at any time that you want to deactivate your MyMedicare.gov account, you can choose the Deactivate Account option on the "User information" tab in My Account once you're logged into MyMedicare. Or, you can call 1-800-MEDICARE (1-800-633-4227) and speak to a customer service representative. TTY users should call 1-877-486-2048. Have your Medicare identification information available so the representative will be able to properly process your request. (FAQ5905)
+
+MyMedicare.gov is accessible from a variety of operating systems and web browsers. Please be aware, due to the new look and feel of the site, the layout of the site may not properly display in Internet Explorer 6.0, and 7.0. For optimal results you can use Internet Explorer 8.0, and 9.0, as well as Firefox, Opera, and Chrome. (FAQ7741)
+
+MyMedicare.gov is accessible from a variety of operating systems and web browsers. For optimal results you can use the latest browser version Safari 6.0, on the latest operating system MAC OS X 10.8.2. Printing: If you experience issues when using the 'Print' button with this application, please use the print option from the browser 'File' menu to print selected items within MyMedicare.gov. Note: Microsoft has discontinued support for Internet Explorer on the MAC platform. (FAQ7743)
+
+Pop-up blocking software packages, such as the Google and Yahoo toolbars, may prevent you from successfully accessing MyMedicare.gov. Please use the appropriate steps below to disable your pop-up blocker. Microsoft XP SP2 / IE 7.0 and 8.0 Pop-up Blocker is turned on in Internet Explorer by default. To turn it off or to turn it on again if you've already turned it off, follow these steps: Open Internet Explorer by clicking the Start button and then clicking Internet Explorer.
+
+Click the Tools button, and then click Pop-up Blocker.
+
+Do one of the following: To turn off Pop-up Blocker, click Turn Off Pop-up Blocker. To turn on Pop-up Blocker, click Turn On Pop-up Blocker.
+
+Please Note: Continue to leave the default "Filter Level" set to "Medium: Block most automatic pop-ups". Google Toolbar Google Toolbar users will need to temporarily disable pop-up blocking by performing one of the following actions: Click Toolbar's wrench icon.
+
+On the Tools tab, select (or deselect) the 'Pop-up blocker' checkbox.
+
+Click Save. To allow pop-ups, just click Toolbar's Pop-up blocker button. The button's icon should change from 'Pop- ups blocked' to 'Pop-ups allowed' . Once you allow pop-ups on a specific website, Pop-up blocker adds the website to an 'Allowed sites' whitelist. Note: If you're still unable to open pop-ups after clicking the Pop-up blocker button, check that IE and your security software aren't preventing it from opening. Yahoo Toolbar Yahoo tool-bar users will need to temporarily disable pop-up blocking by performing one of the following actions: To check if Pop-Up Blocker is on or off, just check the icon appearance. The Blocker is on when you see and off when you see. And, if you hold the cursor over the button, the tooltip that appears tells you if the Blocker is on or off.
+
+To turn Pop-Up Blocker on or off, select Enable Pop-Up Blocker from the menu. A check in front of the menu item indicates that the Blocker is on. To turn Pop-Up Blocker sound notification on or off, select Play Sound When Pop-Up Is Blocked from the menu. A check in front of the menu item indicates that sound is on. (FAQ7745)
+
+For security purposes, you will be automatically logged out of MyMedicare.gov after 20 minutes of inactivity. You will receive a session timeout warning 3 minutes before the session times out, allowing you to select either "Ok" to end the session now or "Cancel" to continue the session. If you do nothing, your session will end. Keywords: time out times out (FAQ5903)
+
+You can manually check your browser version by following the steps below: For Windows 2000/7/XP/Vista From your browser, go to the Help menu, and choose "About…"
+
+A screen will appear showing which browser and version you are using. Keywords: browser windows ie (FAQ4859)
+
+To view this site at optimum levels, we recommend that you use Internet Explorer 8.0 or above. To download the latest version of this browser, please click on the link below. Click on; http://www.microsoft.com/downloads to download Internet Explorer for Windows 2000/7/XP/Vista or Macintosh Power PC. Keywords: upgrade browser (FAQ4861)

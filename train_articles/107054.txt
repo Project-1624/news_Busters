@@ -1,0 +1,18 @@
+Security Notice Update
+Earlier today, our security team discovered that user emails and hashed passwords were stolen from our database. Since then, we have taken multiple steps to mitigate the situation. One of these steps was to open a line of communication with the hacker who had put the user data up for sale.
+
+
+
+The hacker has been very cooperative with us. He/she wanted us to acknowledge security vulnerabilities in our system and work with the ethical hacker community to plug the gaps. His/her key request was that we run a healthy bug bounty program for security researchers.
+
+We are introducing a bug bounty program on Hackerone very soon. With that assurance, the hacker has in turn agreed to destroy all copies of the stolen data and take the data off the dark web marketplace. The marketplace link which was being used to sell the data on the dark web is no longer available.
+
+This incident has made our team’s commitment to addressing all our security issues in a responsible and timely manner even stronger. We look forward to working more closely with the ethical hacker community, to make Zomato a safer place for our users.
+
+Having said that, we are going to be cautious and paranoid, as this is a sensitive matter. 6.6 million users had password hashes in the ‘leaked’ data, which can be theoretically decrypted using brute force algorithms. We will be reaching out to these users to get them to update their password on all services where they might have used the same password.
+
+Please note that only 5 data points were exposed - user IDs, Names, Usernames, Email addresses, and Password Hashes with salt. No other information was exposed to anyone (we have a copy of the ‘leaked’ database with us). Your payment information is absolutely safe, and there’s no need to panic.
+
+–
+
+The hacker also gave us all the details on the way he/she got access to this database. We will post this information on our blog once we close the loopholes, so that others can learn from our mistakes.

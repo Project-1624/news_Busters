@@ -1,0 +1,70 @@
+EAN-13 SYMBOLOGY
+UPC-A SYMBOLOGY
+
+EAN-13 BACKGROUND INFORMATION EAN-13, based upon the UPC-A standard, was implemented by the International Article Numbering Association (EAN) in Europe. This standard was implemented mostly because the UPC-A standard was not well designed for international use, but probably partly because no-one likes the U.S. to be in charge of anything-especially the Europeans. :) EAN-13 is a superset of UPC-A. This means that any software or hardware capable of reading an EAN-13 symbol will automatically be able to read an UPC-A symbol. The only difference between EAN-13 and UPC-A is that the number system code in UPC-A is a single digit from 0 through 9 whereas an EAN-13 number system code consists of two digits ranging from 00 through 99, which is essentially a country code. Each country has a numbering authority which assigns manufacturer codes to companies within its jurisdiction. The manufacturer code is still five digits long, as is the product code, and the check digit is calculated in exactly the same way. NOTE: Since EAN-13 is a superset of UPC-A and requires very little additional effort to handle than an UPC-A code, it is recommended that all new designs implement EAN-13 rather than UPC-A. As already mentioned, this guarantees compatibility with UPC-A but also will make your software/hardware appealing to the international community. Otherwise your design will be restricted to the U.S. and Canada. Additionally, the UCC Council has announced that as of January 1, 2005, all bar code systems in the U.S. and Canada must be able to handle EAN-13 bar codes so that international manufacturers do not have to worry about printing a different bar code for their products destined for North America. A typical EAN-13 bar code looks something like this:
+
+NOTE: In reality, an UPC-A symbol is an EAN-13 symbol with the first number system digit set to 0. For example, take the UPC-A code "075678164125". This same code, expressed as an EAN-13 symbol, would be "0075678164125". As you can see, we just slapped a leading "0" in front. Compare the original UPC-A symbol (top) to the EAN-13 symbol (bottom):
+
+At first glance, the two bar codes look different. In UPC-A there is a number to the left and right of the bar code (a 0 number system and a 5 check digit), and below the bar code are two groups of 5 digits each (the manufacturer code and the product code). In the EAN-13 symbol, there is no check digit to the right of the bar code, and the numbers below the bar code consist of two groups of 6 digits each. However, look closely at the bar codes themselves; that is, look at the bars and spaces the make up the two bar codes. As you can see, the bars and spaces themselves are identical in both UPC-A and EAN-13. The only difference is where the "human-readable" numbers are placed. Logically, if a UPC-A bar code is a subset of EAN-13, the EAN-13 representation of a UPC-A symbol must be identical. As witnessed above, that is the case.
+
+COMPONENTS OF AN EAN-13 BARCODE
+
+Number System: The number system consists of two digits (sometimes three digits) which identify the country (or economic region) numbering authority which assigned the manufacturer code. Any number system which starts with the digit 0 is a UPC-A bar code. The valid number system codes are presented in the following table:
+
+00-13: USA & Canada 20-29: In-Store Functions 30-37: France 40-44: Germany 45: Japan (also 49) 46: Russian Federation 471: Taiwan 474: Estonia 475: Latvia 477: Lithuania 479: Sri Lanka 480: Philippines 482: Ukraine 484: Moldova 485: Armenia 486: Georgia 487: Kazakhstan 489: Hong Kong 49: Japan (JAN-13) 50: United Kingdom 520: Greece 528: Lebanon 529: Cyprus 531: Macedonia 535: Malta 539: Ireland 54: Belgium & Luxembourg 560: Portugal 569: Iceland 57: Denmark 590: Poland 594: Romania 599: Hungary 600 & 601: South Africa 609: Mauritius 611: Morocco 613: Algeria 619: Tunisia 622: Egypt 625: Jordan 626: Iran 64: Finland 690-692: China 70: Norway 729: Israel 73: Sweden 740: Guatemala 741: El Salvador 742: Honduras 743: Nicaragua 744: Costa Rica 746: Dominican Republic 750: Mexico 759: Venezuela 76: Switzerland 770: Colombia 773: Uruguay 775: Peru 777: Bolivia 779: Argentina 780: Chile 784: Paraguay 785: Peru 786: Ecuador 789: Brazil 80 - 83: Italy 84: Spain 850: Cuba 858: Slovakia 859: Czech Republic 860: Yugloslavia 869: Turkey 87: Netherlands 880: South Korea 885: Thailand 888: Singapore 890: India 893: Vietnam 899: Indonesia 90 & 91: Austria 93: Australia 94: New Zealand 955: Malaysia 977: International Standard Serial Number for Periodicals (ISSN) 978: International Standard Book Numbering (ISBN) 979: International Standard Music Number (ISMN) 980: Refund receipts 981 & 982: Common Currency Coupons 99: Coupons
+
+EAN uses what is called "variable-length manufacturer codes." Assigning fixed-length 5-digit manufacturer codes, as the UCC has done until recently, means that each manufacturer can have up to 99,999 product codes--and many manufacturers don't have that many products, which means hundreds or even thousands of potential product codes are being wasted on manufacturers that only have a few products. Thus if a potential manufacturer knows that it is only going to produce a few products, EAN may issue it a longer manufacturer code, leaving less space for the product code. This results in more efficient use of the available manufacturer and procuct codes.
+
+Product Code: The product code is a unique code assigned by the manufacturer. Unlike the manufacturer code, which must be assigned by the UCC, the manufacturer is free to assign product codes to each of their products without consulting any other organization. Since the UCC will already have guaranteed that the manufacturer code is unique, the manufacturer need only make sure that they do not repeat their own product codes.
+
+Check Digit: The check digit is an additional digit used to verify that a bar code has been scanned correctly. Since a scan can produce incorrect data due to inconsistent scanning speed, print imperfections, or a host of other problems, it is useful to verify that the rest of the data in the bar code has been correctly interpreted. The check digit is calculated based on the rest of the digits of the bar code. Normally, if the check digit is the same as the value of the check digit based on the data that has been scanned, there is a high level of confidence that the bar code was scanned correctly. The method of calculating the check digit will be discussed later in this page.
+
+ENCODING EAN-13 (AND UPC-A) The encoding for EAN-13 (and UPC-A) bar codes is relatively straight-forward. To encode a value as an EAN-13 bar code, the checksum digit must first be calculated and the entire bar code, including check digit, may then be encoded as a sequence of bars and spaces.
+
+NOTE: Encoding a UPC-A symbol is identical to encoding a EAN-13, a "0" is simply inserted in front of the UPC-A code itself (i.e., if the bar code is 075678164125, a zero is inserted before the code, making the EAN-13 symbol 0075678164125).
+
+COMPUTING THE CHECKSUM DIGIT
+
+The steps for calculating the check digit are as follows:
+
+Consider the right-most digit of the message to be in an "odd" position, and assign odd/even to each character moving from right to left. Sum the digits in all odd positions, and multiply the result by 3. Sum the digits in all even positions. Sum the totals calculated in steps 2 and 3. The check digit is the number which, when added to the totals calculated in step 4, result in a number evenly divisible by 10. If the sum calculated in step 4 is evenly disivisible by 10, the check digit is "0" (not 10).
+
+Barcode 0 0 7 5 6 7 8 1 6 4 1 2 Position E O E O E O E O E O E O Weighting 1 3 1 3 1 3 1 3 1 3 1 3 Calculation 0 * 1 0 * 3 7 * 1 5 * 3 6 * 1 7 * 3 8 * 1 1 * 3 6 * 1 4 * 3 1 * 1 2 * 3 Weighted Sum 0 0 7 15 6 21 8 3 6 12 1 6
+
+Summing up the weighted sum for each digit, we get 0 + 0 + 7 + 15 + 6 + 21 + 8 + 3 + 6 + 12 + 1 + 6 = 85. This is the checksum value. However, there is only one checksum digit. The checksum digit is the value which must be added to the checksum value in order to make it even divisible by 10. In this case, the next number following 85 which is evenly divisible by 10 is the number 90. We must add 5 to 85 to get 90, therefore our check digit is "5". We subsequently append the original bar code message (007567816412) with our newly calculated check digit (5), to arrive at the final value of 0075678164125.
+
+Comparing this with our original bar code, we find that our calculated check digit is in fact the same as the check digit that we found on the bar code. Our calculation, therefore, is correct.
+
+NOTE: You may be wondering why the first character in the EAN-13 symbol is considered an "even" position and the second is considered "odd," etc. Logic would dictate that the first character be considered "odd" and the second considered "even," etc. Do not dispair, there is a logical reason for this. This was done to preserve compatability with the original UPC-A format. The original UPC-A symbol only had a single digit number system, therefore what is the second character of an EAN-13 symbol is what would be considered the first character of an UPC-A symbol, and would therefore be in an "odd" position. Rather than rewriting and confusing the specification, when the EAN-13 standard was defined they simply inserted the new, leading character in front and called it "even" thereby maintaining compatability with existing UPC-A bar codes and, to some extent, with existing UPC-A documentation.
+
+Enter EAN-13 message (12 characters):
+
+Check Digit:
+
+
+
+ENCODING THE SYMBOL
+
+In the following text, we will discuss the encoding of the bar code by considering that the number "1" represents a "dark" or "bar" section of the bar code whereas a "0" represents a "light" or "space" section of the bar code. Thus the numbers 1101 represents a double-wide bar (11), followed by a single-wide space (0), followed by a single-wide bar (1). This would be printed in the bar code as:
+
+Left-hand guard bars, or start sentinel, encoded as 101 .
+
+. The second character of the number system code, encoded as described below.
+
+The five characters of the manufacturer code, encoded as described below.
+
+Center guard pattern, encoded as 01010 .
+
+. The five characters of the product code, encoded as right-hand characters, described below.
+
+Check digit, encoded as a right-hand character, described below.
+
+Right-hand guard bars, or end sentinel, encoded as 101.
+
+The first character of the EAN-13 number system code (i.e., the first digit of the EAN-13 value) is encoded in the parity of the characters of the left-hand side of the symbol. That is to say, the value of the first character of the EAN-13 value determines the parity with which each of the characters in the left-hand side of the bar code will be encoded from the following table.
+
+NOTE: For "left-hand encoding", odd and even parity is often referred to as "character set A" (odd) and "character set B" (even).
+
+EAN CHARACTER SET ENCODING TABLE
+
+DIGIT LEFT-HAND ENCODING RIGHT-HAND ENCODING ODD PARITY (A) EVEN PARITY (B) ALL CHARACTERS 0 0001101 0100111 1110010 1 0011001 0110011 1100110 2 0010011 0011011 1101100 3 0111101 0100001 1000010 4 0100011 0011101 1011100 5 0110001 0111001 1001110 6 0101111 0000101 1010000 7 0111011 0010001 1000100 8 0110111 0001001 1001000 9 0001011 0010111 1110100

@@ -1,0 +1,102 @@
+Demystifying the Changing Wealth of Americans Numbers
+Signe-Mary McKernan, Caroline Ratcliffe, Eugene Steuerle, and Sisi Zhang
+
+
+
+Common questions about and additional analyses for the Urban Institute’s recent studies of how the wealth of American families has changed by generation and between races over the past several decades.
+
+What is wealth, and how is it measured?
+
+Why do your studies use average wealth instead of median wealth? Is it because the median wealth numbers tell a different story?
+
+How much do very wealthy and very poor households affect the averages in the study?
+
+Why doesn’t the study look at wealth held by Asian Americans and other groups?
+
+
+
+Why is the wealth gap ratio you report lower than the recent Pew Research Center’s?
+
+What is wealth, and how is it measured?
+
+Wealth (or net worth) for these studies is total assets minus total liabilities. Assets are the sum of financial assets (such as bank accounts, stocks, bonds, and 401ks/IRAs) and nonfinancial assets (such as homes and real estate, businesses, and vehicles). Liabilities include both unsecured debt (such as credit card balances) and secured debt (such as mortgages and vehicle loans).
+
+The Changing Wealth series uses the Survey of Consumer Finances (SCF), which is sponsored by the U.S. Federal Reserve Board of Governors. The SCF is often considered the gold standard for studying wealth in the United States. It comprehensively measures many assets and debts, including less-captured items such as the value of certain kinds of pensions and life insurance on the asset side, and loans secured against retirement accounts and life insurance policies on the liabilities side.
+
+Other frequently used data for wealth analyses include the Survey of Income and Program Participation (SIPP), administered by the U.S. Census Bureau, and the Panel Study of Income Dynamics (PSID) and the Health and Retirement Study (HRS), which are both maintained by the University of Michigan. When using these surveys to examine issues similar to those raised in the Changing Wealth series, the results can vary in magnitude depending on which data are used. The SCF (and the HRS for older Americans) make more effort to capture the wealth of richer individuals.
+
+Top
+
+Why do your studies use average wealth instead of median wealth? Is it because the median wealth numbers tell a different story?
+
+Both mean (average) and median measures of wealth are important. Mean wealth indicates how a group is prospering as a whole relative to other groups, while median wealth shows how the “typical” person is doing. The Changing Wealth series uses mean wealth because we feel it represents the whole scope of wealth better than median wealth does. But we’d reach the same conclusions using either measure.
+
+One complication with focusing on median wealth is that it doesn’t show where all the remaining wealth goes. In a similar vein, if you were comparing median values for a very small population, such as the number of small businesses owned by age or race, the median values might be zero for all groups. The average values, however, would be greater than zero and thus would allow comparisons by groups. Another complication with medians is that they are not additive: the sum of the mean wealth components equals mean total wealth, but this is not true for the medians.
+
+While we focus on averages in our studies, the trends reported hold up when looking at the medians. For the “Less Than Equal: Racial Disparities in Wealth Accumulation” study, median family wealth is substantially lower than mean family wealth, but the racial wealth gap is larger. In 2010, median wealth was $123,800 for white families and $15,700 for African American families. In this case, the racial wealth gap is even larger at 8-to-1 (compared with the 6-to-1 gap based on means).
+
+For the “Lost Generations? Wealth Building among Young Americans” study, some additional tables show median wealth for each age group over time. The story of slower wealth accumulation for younger generations still holds, no matter how you look at the data. The graph below presenting the means and medians further confirms this.
+
+Top
+
+How much do very wealthy and very poor households affect the averages in the study?
+
+If the highest one percent of white families is excluded from the sample, their average wealth is $434,480 in 2010. If the top and bottom 5 percent are excluded, white families in the middle of the remaining 90 percent have an average wealth of $296,801. Under the same calculations for black families, their average wealth is $74,697 and $56,651, respectively. The resulting white-to-black wealth ratios are still in the 5/6:1 range, on par with what was found when all families were included in the original research.
+
+Top
+
+Why doesn’t the study look at wealth held by Asian Americans and other groups?
+
+The SCF does not have a large enough sample of Asian Americans to draw strong conclusions about that population’s wealth. While overall Asian American wealth is likely to be more similar to white families than to African American or Hispanic families,1 Asian Americans are a diverse population, and groups within it are among the poorest Americans.
+
+Top
+
+Why is the racial wealth gap ratio you report lower than the recent Pew Research Center’s?
+
+First, to summarize key findings from our recent Urban Institute study:
+
+In 2010, the average (or mean) wealth of white families was 6 times that of African American and Hispanic families.
+
+The racial wealth gap grows sharply with age
+
+When people are in their 30s and 40s, whites have about 3.5 times more wealth than African Americans and Hispanics. By the time people reach their early to mid-60s, whites have about 7 times the wealth of African Americans and Hispanics.
+
+
+
+A recent Pew Research Center study finds white households have nearly 20 times the wealth of African American and Hispanic families. A small part of the difference in findings results from the measures analyzed; the Urban Institute study focuses on mean (or average) wealth, while the Pew Research Center study focuses on median wealth (wealth of the middle person).
+
+The key difference, however, is in the data used:
+
+The Urban Institute study uses 2010 data and the Pew study uses 2009 data.
+
+The Urban Institute study uses the Federal Reserve Board of Governor’s Survey of Consumer Finances (SCF). The Pew study uses the U.S. Census Bureau’s Survey of Income and Program Participation (SIPP).
+
+The dollar amounts are not strikingly different across the studies, but the ratios are much larger in the 2009 SIPP analyses versus the 2010 SCF analyses.
+
+Urban Institute study
+
+Median wealth of families using the 2010 SCF (in 2010 dollars)
+
+White $124,000
+
+Hispanic $15,000
+
+African Americans $16,000
+
+Ratio of white wealth to African Americans/Hispanic wealth: 8-to-1
+
+The Pew Research Center study
+
+Median wealth of households using the 2009 SIPP (in 2009 dollars)
+
+White $113,149
+
+Hispanic $6,325
+
+African Americans $5,677
+
+Ratio of white wealth to African Americans/Hispanic wealth: 19-to-1
+
+Top
+
+1 Based on Pew Research Center's calculations using the SIPP, median household wealth in 2010 was $83,500 for Asian Americans, compared with $68,529 among all U.S. adults.

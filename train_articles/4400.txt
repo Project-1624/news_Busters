@@ -1,0 +1,22 @@
+Lessons in Cyber-Hygiene: How John Podesta was Caught by Phishing
+Instead of a Hollywood-style cyberattack into an underground bank of highly secure servers, it appears Hillary Clinton’s campaign chairman John Podesta fell victim to a run-of-the-mill phishing email appearing to come from Google.
+
+On March 19, 2016, Podesta received an alarming email to his Gmail account indicating someone had accessed his account, inviting Podesta to click on a Bitly URL (a service providing shortlinks, or smaller URL addresses) pointing to a longer URL that looked like a Google link. According to Bitly’s statistics, the URL sent to Podesta was clicked two times in March. From March to May, it appears the same hackers created 213 short links targeting 108 email addresses on the hillaryclinton.com domain.
+
+Reports indicate a similar phishing attack managed to hoodwink former US Secretary of State Colin Powell, allowing hackers to access Powell’s Gmail account during the same timeframe. As reported by Motherboard: “All these hacks were done using the same tool: malicious short URLs hidden in fake Gmail messages.”
+
+While malicious hackers have gained access to servers housing other emails disclosed during recent months, including Guccifer 2.0 who claimed responsibility for the leak of emails from the Democratic National Committee, it appears better cyber-hygiene could have avoided the leak of the Podesta emails. The threat from phishing, while obvious, has been grossly underestimated, and is a significant cause of large-scale data disclosures. Organizations must take active steps not only to educate employees about this important aspect of cyber-hygiene, but also to monitor compliance, such as the use of mock phishing emails and similar exercises.
+
+Share this:
+
+
+
+
+
+Tweet
+
+Email
+
+
+
+Tags: Hillary Clinton

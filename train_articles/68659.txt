@@ -1,0 +1,42 @@
+Dave Leip's Atlas of U.S. Presidential Elections
+Purchase Data in Spreadsheet Customize Table:
+
+Enable Columns Not Shown
+
+Population
+
+Voting Age Population
+
+Voting Age Citizens
+
+Registered Voters
+
+Total Ballots Cast
+
+Total Invalid Ballots (Under/Over-Votes)
+
+Percent Invalid Ballots (Under/Over-Votes)
+
+Voter Turnout (Vote for President as a % Voting Age Population)
+
+Voter Turnout (Vote for President as a % Voting Age Citizens)
+
+Voter Turnout (Vote for President as a % Registered Voters)
+
+Swing Percentage
+
+Trend Percentage
+
+
+
+Minimum Candidate Percentage to Display Individual Percent Column (m)
+
+Minimum Candidate Percentage to Display Individual Popular Vote Column (m)
+
+
+
+Sort Data: Default Margin (1st place - 2nd Place) Percent Margin (1st place - 2nd Place) Margin (Dem - Rep) Percent Margin (Dem - Rep) Vote Percentage for Democr. Vote Percentage for Republ. Vote Percentage for CA Dem. Vote for Democr. Vote for Republ. Vote for CA Dem. Total Vote (Cast for Candidates) Population Voting Age Population Registered Voters Voter Turnout (%VAP) Voter Turnout (%REG) Total Ballots Cast Total Invalid Ballots Percent Invalid Ballots
+
+
+
+Sort Direction: Ascending Descending

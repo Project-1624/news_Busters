@@ -1,0 +1,12 @@
+PSA: Zello app for iPhone is not an actual walkie-talkie, still needs internet connectivity to work
+Tips
+
+In the wake of Hurricane Harvey, and with Irma approaching, word is spreading about "push to talk" iPhone app Zello. However, downloaders should be aware that the app requires not only a solid internet connection, but connectivity to Zello's servers to function.
+
+
+
+
+
+
+
+According to Zello's CEO, the "walkie-talkie" app saw a 20-fold increase in usage during the Houston rescue situation, and was in use by the "Cajun Navy" as well as some first responders.Just this week, on Tuesday, Zello says it gained 600,000 new users, as Florida braces for Category 5 storm Hurricane Irma. Zello uses some form of voice-over-IP (VOIP) to function. It does not utilize the now-shuttered PTT network commonly used on Nextel devices. As such, a reliable Wi-Fi or LTE connection is needed on both ends. Additionally, the Zello servers need to be fully operational and not overburdened.After being picked up on social media as a prime choice for emergency contact app, complaints flooded the App Store noting that users couldn't sign up for an account. At the time this article was written, the support page for the app is not working, and AppleInsider couldn't sign up for an account as a result.AppleInsider isn't saying that you shouldn't install the app. However, we are saying that you shouldn't rely on it in the event of a crisis resulting in massive destruction of infrastructure.Apple's own iMessage and FaceTime do need reliable internet connectivity as well, but the server infrastructure Apple has built around the services are robust, and reliable —eliminating over-capacity as a reason for failure.If you live in Florida, or any other area expected to see impact from Irma, be prepared. Just don't put all your eggs in one basket —or app.

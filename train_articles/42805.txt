@@ -1,0 +1,58 @@
+VERIFY: The 'presidential alert' cannot access your phone's location, camera or microphone
+After Wednesday's nationwide test of the Wireless Emergency Alert System (WEA), claims began circling that the technology used to deliver the alert could also be used to collect information from consumers.
+
+In one of the most shared examples came from cyber-security expert and founder of McAfee Security, John McAfee. He tweeted the following:
+
+The "Presidential alerts": they are capable of accessing the E911 chip in your phones - giving them full access to your location, microphone, camera and every function of your phone. This not a rant, this is from me, still one of the leading cybersecurity experts. Wake up people! — John McAfee (@officialmcafee) October 3, 2018
+
+THE QUESTION
+
+Does the presidential alert system use an "E911 chip" in your phone to access location, microphone, camera and other phone functions?
+
+THE ANSWER
+
+No, the presidential alert, Wednesday, did not use the E911 system.
+
+Furthermore, there is no such thing as an "E911 chip."
+
+FEMA, the FCC and mobile providers all state that the WEA services, which were used Wednesday during the presidential alert, do not allow access to consumers phones.
+
+WHAT WE FOUND
+
+It is important to note that John McAfee didn't make up the term E911. That is a real system. It stands for "Enhanced 911."
+
+It's the system put in place by the FCC that allows law enforcement and emergency entities to access the GPS chip on your phone.
+
+Sign up for the daily 5 Things to Know Newsletter Sign up for the daily 5 Things to Know Newsletter Something went wrong. This email will be delivered to your inbox once a day in the morning. Thank you for signing up for the 5 Things to Know Newsletter. Please try again later.
+
+Submit
+
+But according to the FCC, the system is only activated when someone calls 911. Then the cell providers must give a GPS location of the call to the emergency provider using the E911 system.
+
+Here's the FCC page describing the program.
+
+It explains the system as:
+
+"The FCC's wireless Enhanced 911 (E911) rules seek to improve the effectiveness and reliability of wireless 911 services by providing 911 dispatchers with additional information on wireless 911 calls. The FCC's wireless E911 rules apply to all wireless licensees, broadband Personal Communications Service (PCS) licensees, and certain Specialized Mobile Radio (SMR) licensees."
+
+While E911 is real, it's a system - not a "chip" as McAfee claimed. It uses GPS, provided by cell carriers, to pinpoint your location after a 911 call has been made.
+
+A T-Mobile Spokesperson told VERIFY that:
+
+"There's no such thing as an 'e911 chip.' Enhanced 911(e911) uses the location services that are already provided by every cellphone to better pinpoint the location of someone who has an emergency. That's all e911 does and all it accesses - a caller's location and name/address if it's available to better assist emergency personnel in finding whomever is calling from a cellphone."
+
+They added that the E911 system is completely separate from and has nothing to do with the WEA system used Wednesday for the presidential alert.
+
+A FEMA spokesperson wrote VERIFY that:
+
+"The cell phone functions that receive and display WEA messages are not related or connected to E911 functions in any way. The majority of wireless providers in the United State use Cell Broadcast technology to deliver WEA alert messages to cell phones. Cell Broadcast is a one-way communications protocol. Phones that receive WEA messages choose to display the message if the phone is not busy in a phone call or data session. The WEA message display function in a phone does not use the GPS, microphone, or camera functions of the phone."
+
+Using the statements from FEMA and T-Mobile as well as the documentation about E911 from the FCC, we can Verify that John McAfee's tweet is False.
+
+SUMMARY
+
+The presidential alert test did not use E911. It used a different system, WEA, that sends information to cellphones. According to FEMA, "Cell-Broadcast is a one-way communications protocol."
+
+E911 is an unrelated system that is used to locate someone who has called 911. It uses phones built in GPS. There is no "E911 Chip."
+
+Neither WEA nor E911 allows access to a consumers camera or microphone.

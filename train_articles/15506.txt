@@ -1,0 +1,89 @@
+030113 lyndatranresponsepftexas
+
+Emails, responses to PolitiFact Texas, Lynda Tran, partner, 270 Strategies, Andrew Claster, data contractor to 270 Partners, March 1 and March 20-21, 2013
+
+10:31 a.m.
+
+Hey there,
+
+Lynda Tran here - I'm partner at 270 Strategies and working on Battleground Texas.
+
+Have a lot of information for you here. To run counts on the number of Latino citizens aged 18+ in Texas, use the US Census American Community Survey Public Use Microdata Set. That information can be obtained using this link: http://dataferrett.census.gov/run.html
+
+For Texas voter file data, contact the Elections Division at the Texas Board of Elections: http://www.sos.state.tx.us/elections/contact.shtml
+
+If you are interested in self-reported data, you can use the Voting and Registration in the Election of November 2008 from the US Census:
+
+http://www.census.gov/hhes/www/socdemo/voting/publications/p20/2008/tables.html
+
+According to this survey, 54.3% of Texas Latino citizens aged 18+ reported that they are registered to vote and 37.8% reported that they cast a ballot.
+
+…
+
+Lynda
+
+4:47 pm
+
+March 20, 2013
+
+Colbert Report Feb 26
+
+http://www.colbertnation.com/the-colbert-report-videos/424178/february-26-2013/battleground-texas---jeremy-bird
+
+Minute 4:14
+
+Jeremy Bird: “In 2008, for example, only 54% of Latinos in Texas were registered to vote and only 35% actually turned out”
+
+The 54% number comes from US Census Voting and Registration in the Election of November 2008
+
+http://www.census.gov/hhes/www/socdemo/voting/publications/p20/2008/tables.html
+
+Table 4b
+
+Cell G 543
+
+And here is how we calculated the 35% number:
+
+Denominator = number of TX Latino citizens aged 18+ in 2008
+
+Source: Census Public Use Microdata Set 1-year estimate 2008
+
+1340097 3,812,343
+
+Numerator = number of Texans casting ballots in Nov 2008 who are Latino
+
+Source: DNC voter file, acquired from TX Secretary of State Elections Division, with commercial ethnicity model applied to determine ethnicity based on name and Census info
+
+1,340,097
+
+Numerator / denominator = 35%
+
+Note that the Census survey reports that 38% of TX Latino citizens aged 18+ cast ballots in Nov 2008
+
+http://www.census.gov/hhes/www/socdemo/voting/publications/p20/2008/tables.html
+
+Table 4b
+
+Cell L 543
+
+(W. Gardner Selby, PolitiFact Texas)
+
+5:58 pm
+
+March 20, 2013
+
+So, you pulled this figure from PUMS--3,812,343—though the CPS survey estimate, also a single-year result for 2008, is that there were nearly 4.5 million voting-age Latino citizens in 2008. Correct?
+
+If so, this means that you took a high-end figure as your denominator to come up with the 54 percent figure aired in the interview but a Texas Latino VAP citizen figure about 700,000 lower to get the other percentage. Why isn’t that mixing apples and oranges and statistically and/or logically questionable?
+
+Thanks.
+
+g.
+
+(Claster reply)
+
+10:05 am
+
+March 21, 2013
+
+The numbers Jeremy used on the show were 54% and 35%. The 35% number is close to the 38% number. Obviously Census produced two different estimates in 2008: 3.81 million and 4.49 million. If the numerator is 1.34 million (from the voter file) then if we use PUMS for the denominator, we get 35%. If we use Census CPS for the denominator, then we get 30%. The lower number actually helps make Jeremy's case stronger - but 35% is a central estimate, while 30% and 38% are more extreme. Instead of saying '35%', Jeremy might have said 'between 30% and 38%, depending on sampling error and whether one relies on the Census CPS survey or the Census PUMS 1-year estimates combined with the voter file from the Texas Secretary of State'. But I imagine you can understand why he chose not to say that on the Colbert show.

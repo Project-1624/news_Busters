@@ -1,0 +1,48 @@
+Data Security and Privacy
+Update: 12/19, 9:46PM EST
+
+Late last night we were directed by our client the DNC to restore the Sanders campaign's full access to VoteBuilder. NGP VAN staff worked through the night to ensure Sanders campaign staff were up and running by early this morning.
+
+For clarification, NGP VAN played no part in the October data issue that has been mentioned.
+
+We look forward to working closely with the DNC and our partners on the important next steps that will ensure Democratic success around the country in November.
+
+Update: 12/18, 3:53 PM EST
+
+Updating with additional information and clarification:
+
+First, a one page-style report containing summary data on a list was saved out of VoteBuilder by one Sanders user. This is what some people have referred to as the “export” from VoteBuilder. As noted below, users were unable to export lists of people.
+
+Second, there has been independent confirmation that NGP VAN has not received previous notice of a data breach regarding NGP VAN. Josh Uretsky, the former National Data Director for the Sanders campaign confirmed on MSNBC (at 5:47), and also on CNN, regarding the previous incident: “it wasn’t actually within the VAN VoteBuilder system, it was another system.”
+
+###
+
+The security and privacy of our customers’ data is a top priority. Over the company’s 19 year history, we’ve not had a problem with that; but on Wednesday, we did have a brief isolated issue for users of one of our products.
+
+
+
+First, no NGP data was impacted by this situation, nor any Action ID or FastAction data. No client websites or web site data were impacted, either. For VAN clients, no myMembers, myWorkers, or myCampaigns data was impacted. The one area that was impacted was voter file data. We are confident at this point that no campaigns have access to or have retained any voter file data of any other clients; with one possible exception, one of the presidential campaigns. NGP VAN is providing a thorough report to the DNC on what happened and conducting a review to ensure the integrity of the system.
+
+
+
+Here’s what happened.
+
+
+
+On Wednesday morning, there was a release of VAN code. Unfortunately, it contained a bug. For a brief window, the voter data that is always searchable across campaigns in VoteBuilder included client scores it should not have, on a specific part of the VAN system. So for voters that a user already had access to, that user was able to search by and view (but not export or save or act on) some attributes that came from another campaign.
+
+
+
+As soon as we realized that there was an issue, we immediately mobilized our engineers to investigate the source of the issue. While we investigated the issue, we restricted access to affected areas of the VAN product for all users and limited access to data exports. Engineers quickly discovered the problem, and developed a fix.
+
+
+
+We immediately began an audit to determine if any users had intentionally or unintentionally gained access to data they normally would not have access to within the limited timeframe when the bug was live. Our team removed access to the affected data, and determined that only one campaign took actions that could possibly have led to it retaining data to which it should not have had access.
+
+
+
+We are honored to work with the DNC, the Clinton campaign, and the Sanders campaign. At the request of the DNC on Thursday, Sanders campaign access was suspended pending the campaign reporting on its access of the data; NGP VAN played no role in making that decision, and contractually could not. Again, this bug was a brief isolated issue, and we are not aware of any previous reports of such data being inappropriately available. We look forward to supporting all our Democratic clients, and in particular apologize to the DNC, Clinton and Sanders campaigns for our bug Wednesday. We will continue to work with and report to the DNC regarding this issue to ensure that this isolated incident does not recur. We have and will do better.
+
+
+
+Moving forward, we are adding to our safeguards around these issues. We have thousands of automated tests and extensive code review and release procedures in place to prevent these types of issues, and will add more. If any clients have any questions, feel free to contact me. Again, we are confident that your data is secure, and the security and privacy of your data is a top priority for us.

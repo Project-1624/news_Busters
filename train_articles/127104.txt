@@ -1,0 +1,38 @@
+Social Security History
+The SSN Numbering Scheme
+
+Number Has Three Parts
+
+The nine-digit SSN is composed of three parts:
+
+The first set of three digits is called the Area Number
+
+The second set of two digits is called the Group Number
+
+The final set of four digits is the Serial Number
+
+Area Number
+
+The Area Number is assigned by the geographical region. Prior to 1972, cards were issued in local Social Security offices around the country and the Area Number represented the State in which the card was issued. This did not necessarily have to be the State where the applicant lived, since a person could apply for their card in any Social Security office. Since 1972, when SSA began assigning SSNs and issuing cards centrally from Baltimore, the area number assigned has been based on the ZIP code in the mailing address provided on the application for the original Social Security card. The applicant's mailing address does not have to be the same as their place of residence. Thus, the Area Number does not necessarily represent the State of residence of the applicant, either prior to 1972 or since.
+
+Generally, numbers were assigned beginning in the northeast and moving westward. So people on the east coast have the lowest numbers and those on the west coast have the highest numbers.
+
+Note: One should not make too much of the "geographical code." It is not meant to be any kind of useable geographical information. The numbering scheme was designed in 1936 (before computers) to make it easier for SSA to store the applications in our files in Baltimore since the files were organized by regions as well as alphabetically. It was really just a bookkeeping device for our own internal use and was never intended to be anything more than that.
+
+Group Number
+
+
+
+Within each area, the group number (middle two (2) digits) range from 01 to 99 but are not assigned in consecutive order. For administrative reasons, group numbers issued first consist of the ODD numbers from 01 through 09 and then EVEN numbers from 10 through 98, within each area number allocated to a State. After all numbers in group 98 of a particular area have been issued, the EVEN Groups 02 through 08 are used, followed by ODD Groups 11 through 99.
+
+Group numbers are assigned as follows: ODD - 01, 03, 05, 07, 09------EVEN - 10 to 98
+
+EVEN - 02, 04, 06, 08------ODD - 11 to 99
+
+See the latest Social Security Number Monthly Issuance Table for the latest SSN area ranges issued to date. Alleged Social Security numbers containing area numbers other than those found on that table are impossible.
+
+
+
+Serial Number
+
+Within each group, the serial numbers (last four (4) digits) run consecutively from 0001 through 9999.

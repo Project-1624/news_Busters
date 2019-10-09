@@ -1,0 +1,60 @@
+Berkeley Earth: raw versus adjusted temperature data
+by Robert Rohde, Zeke Hausfather, Steve Mosher
+
+Christopher Booker’s recent piece along with a few others have once again raised the issue of adjustments to various temperature series, including those made by Berkeley Earth. And now Booker has double-downed accusing people of fraud and Anthony Watts previously insinuated that adjustments are somehow criminal .
+
+Berkeley Earth developed a methodology for automating the adjustment process in part to answer the suspicions people had about the fairness of human aided adjustments. The particulars of the process will be covered in a separate post. For now we want to understand the magnitude of these adjustments and what they do to the relevant climate metric: the global time series. As we will see the “biggest fraud” of all time and this “criminal action” amounts to nothing.
+
+The global time series is important, for example, if we want to make estimates of climate sensitivity or if we want to determine how much warmer it is today than in the Little Ice Age or if we want to compare today’s temperature with the temperature in the MWP or Holocene or if we want to make arguments about natural variability or anthropogenic warming.
+
+Figure 1. Unadjusted data results are shown in the blue curve. The green curve shows the results if only metadata breakpoints are considered. The red curve depicts all adjustments.
+
+As Figure 1 illustrates the effect of adjustments on the global time series are tiny in the period after 1900 and small in the period before 1900. Our approach has a legacy that goes back to the work of John Christy when he worked as state climatologist: Here he describes his technique.
+
+The idea behind the homogenization technique is to identify points in time in each station’s record at which a change of some sort occurred. These are called segment break points. A single station may have a number of segment break points so that its entire record becomes a set of segments each of which requires some adjustment to make a homogeneous time series. Initially, segment break points were identified in every case when one of the following situations occurred: (i) a station move, (ii) a change in time of observation, and (iii) a clear indication of instrument change.
+
+The results of Berkeley adjustments are shown in the green curve. In addition, we break or slice records where the data itself suggests a break in the record. We refer to this as empirical breaks. This is shown in red. The impact of adjustments on the global record are scientifically inconsequential.
+
+On smaller spatial scales, however, we can see there are certain areas where we could pick stations to show two opposite different conclusions: we could show that adjustments warm the record; and we could show that adjustments cool the record. First, a chart for people interested in accusing the adjustment algorithm of warming the planet:
+
+Figure 2. Adjustments for the contiguous US
+
+And next a chart for those who want to accuse the algorithm of cooling the planet
+
+Figure 3. Africa adjustments
+
+The differences between the various approaches—unadjusted, metadata adjusted, and full adjustment is shown below in figure 4 along with data for selected regions.
+
+Figure 4. The top panel depicts the difference between all adjustments and no adjustments. The black trace shows the difference for all land. Blue depicts USA; red Africa; and green Europe. The lower panel depicts the difference between all adjustments and metadata only adjustments.
+
+As the black trace in the upper panel shows the impact of all adjustments (Adjusted-NonAdjusted) is effectively zero back to 1900. And prior to that the adjustments cool the record slightly. However, we can also see that the adjustments have different effects depending on the continent you choose. Africa, which has 20% of the land area of the globe has adjustments which cool it from 1960 today. While the US, (around 5% of all land) has adjustments which warm its record.
+
+Spatial maps show the same story. Certain regions are cooled. Other regions are warmed. On balance the effect of adjustments is inconsequential.
+
+Figure 5. The effects of adjustments on 2014 temperatures
+
+Figure 6. The effects of adjustments on the last 14 years
+
+Figure7. The effect on trends since 1900
+
+Figure 8. The effect on trends since 1960
+
+Since the algorithm works to correct both positive and negative distortions it is possible to hunt through station data and find examples of adjustments that warm. It’s also possible to find stations that are cooled.
+
+One other feature of the approach that requires some comment is the tendency of the approach to produce a smoother field than gridded approaches. In a gridded approach such as Hadley CRU, the world in carved up into discrete grids. Stations within the grid are then averaged. This produces artifacts along gridlines. In contrast, the Berkeley approach has a smoother field.
+
+If we knew the true field perfectly, we could decide whether or not our field was too smooth or not. But without that reference we can only note that it lacks the edges of gridded approaches and tends to have a smoother field.
+
+One approach to evaluating the fidelity of the local detail is to compare the field to other products using other methods and source data. In this poster , http://static.berkeleyearth.org/posters/agu-2013-poster-1.pdf , we compared our field with fields from reanalysis, satellites , and other data producers. What we see is essentially the same story. Over the total field the various methods all produce similar answers. Locally, however, the answers vary. All temperature fields are estimates, spatial statistical estimates. They all aim at producing a useful global results. They succeed. Deciding which result is also useful at the local level is an area of active research for us.
+
+One final way to compare the results of various data producers is by comparing the spatial variability against that produced by global climate models. While not dispositive this comparison does indicate which temperature products are consistent with the variability found in simulations and those which are less consistent.
+
+Figure 9. Spatial variability. GCM results are depicted in blue. Black lines on the GCM results indicate the variations across model runs of the same model
+
+The vertical axis provides a measure of how much variability in temperature trends is observed across the whole field. The homogenized Berkeley, NASA GISS and NOAA, all broadly agree with historical global climate model runs on this metric. The horizontal axis provides a measure of the local variability in trend (i.e. the average change in trend when travelling a distance of 750 km). On this metric, Berkeley, NASA GISS and NOAA are all consistent with GCMs but on the low side of the distribution.
+
+In general, noise and inhomogeneities in temperature data will make a temperature field rougher while homogenization practices and spatial averaging will make it smoother. Since the true temperature distribution is unknown, determining the right amount of homogenization to best capture the local details is challenging, and an active area of research. However, as noted above, it makes very little difference to the global averages.
+
+In summary, it is possible to look through 40,000 stations and select those that the algorithm has warmed; and, it’s possible to ignore those that the algorithm has cooled. As the spatial maps show it is also possible to select entire continents where the algorithm has warmed the record; and, it’s possible to focus on other continents were the opposite is the case. Globally however, the effect of adjustments is minor. It’s minor because on average the biases that require adjustments mostly cancel each other out.
+
+JC note: As with all guest posts, please keep your comments civil and relevant

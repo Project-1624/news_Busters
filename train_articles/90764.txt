@@ -1,0 +1,46 @@
+Pyrrhic victory for federal government in Arizona voter registration case? [UPDATED with reference to Shelby County] : SCOTUSblog
+Marty Lederman Guest Posted Mon, June 17th, 2013 3:02 pm
+
+Pyrrhic victory for federal government in Arizona voter registration case? [UPDATED with reference to Shelby County]
+
+The Court, by a seven-to-two vote, today held that federal law preempts — that is to say, renders invalid — an Arizona law requiring voter registration officials to reject a voter’s application for registration if it is not accompanied by evidence of U.S. citizenship above and beyond the attestation of citizenship the applicant has made on the federal “Motor Voter” form. And in so doing, the Court definitively holds for the first time–with only Justice Thomas in dissent on this point–that Congress has substantial authority to regulate the manner in which States register voters for federal elections.
+
+Lyle is almost certainly correct, however, that what appears at first to be a significant victory for the federal government might in fact be something much less than that — indeed, might establish important restrictions on Congress’s authority to determine eligibility for voting in federal elections, in a way that implicates current and potential future federal legislation.
+
+For starters, and as Lyle explains, the Court suggests at the end of its opinion that Arizona should go back to the federal Election Assistance Commission (EAC), where it will have an opportunity to establish that what Justice Scalia refers to as the “mere oath” on the federal Motor Voter form “will not suffice to effectuate Arizona’s requirement” that voters in federal elections be U.S. citizens. (The oath, it should be noted, is made under penalty of criminal prosecution for perjury if the claim is not true.) If Arizona makes such a showing, the Court suggests, the EAC will have a “nondiscretionary duty” under the federal law “to include Arizona’s concrete evidence requirement on the Federal Form.” (The same might be true, the Court adds, if Arizona demonstrates that it would be arbitrary to deny Arizona’s request because the EAC “has accepted a similar instruction requested by Louisiana.”) And if the EAC rejects Arizona’s application, the state will have an opportunity to establish the same thing in a reviewing court, under the Administrative Procedure Act. Notably, the Court does not resolve what sort of showing Arizona would have to make to demonstrate that the “mere oath” does not “suffice,” other than to say that Arizona must be able to obtain “the information necessary to enforce its voter qualifications.”
+
+More significantly, the Court suggests that if federal law (the Motor Voter law or a subsequent, clarifying statute enacted by Congress) did prevent Arizona from obtaining the “necessary” information about citizenship as a condition of voter qualification, it would raise a serious constitutional question concerning whether Congress can impose such limits, even though the qualification in question is for voting in federal, not state, elections.
+
+Therefore, the Court explains, if the EAC is precluded from acting on Arizona’s submission by virtue of its current lack of a quorum (there are no commissioners currently in office), then Arizona could seek a writ of mandamus from a federal court to compel the EAC to act; and even if the federal court lacks power to require an agency without a quorum to take such action, “Arizona might then be in a position to assert a constitutional right to demand concrete evidence of citizenship apart from the Federal Form.”
+
+Where does this possible “constitutional right” come from? The answer to that question is perhaps the most important development in the case, because it has implications that might go well beyond the citizenship ID issue immediately before the Court:
+
+The Court categorically holds — without dissent — that the Elections Clause of Article I of the Constitution (Art. I, § 4, cl. 1) “empowers Congress to regulate how federal elections are held, but not who may vote in them” (emphasis in original).
+
+This unanimous holding resolves a long-unresolved question about Congress’s power to determine who may vote in federal elections, and would appear to implicitly overrule at least one of the Court’s holdings in the landmark 1970 case of Oregon v. Mitchell.
+
+Under today’s ruling, what sorts of federal laws might now be called into question?
+
+For starters, there’s the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA), which requires a state to register for federal elections any person who resides outside the United States and (but for such residence) would be qualified to vote in that state if it was the last place in which the person was domiciled before leaving the United States. See 42 U.S.C. 1973ff-1, 1973ff-6(5).
+
+The holding would also appear to preclude any future efforts to enact a federal statute restricting state felon disenfranchisement laws.
+
+What’s more, particularly when combined with other, more recent decisions (the City of Boerne line of cases, in particular), it would appear to call into question Congress’s authority to enact three of the statutes the Court upheld in Oregon v. Mitchell itself:
+
+i. requiring that eighteen-year-olds be permitted to vote in federal elections (upheld by five Justices);
+
+ii. requiring a state to allow a new resident to vote for President if she had moved to the state more than thirty days before the election (supported by eight Justices, but not by Justice Harlan, whose view of the Elections Clause the Court expressly adopted today);
+
+and, especially,
+
+iii. Section 202(e) of the Act reviewed in Mitchell, still a part of federal law today, see 42 U.S.C. 1973aa-1(e), which provides that a state must permit a previous resident to vote for President if he has moved from the state fewer than thirty days before a federal election (also supported by eight Justices).
+
+To be sure, the Justices constituting the majorities in Mitchell relied on an array of rationales; but the justifications other than the Elections Clause in support of the first two holdings would not necessarily stick today, under the Court’s modern doctrine regarding Congress’s Reconstruction Amendment enforcement powers. [Of course, Congress no longer needs the Elections Clause to guarantee the 18-year-old vote, in federal or in state elections.] And it’s not obvious what the justification would be other than the Elections Clause for section 1973aa-1(e), the provision requiring states to allow their recently departed residents to vote. Similarly, other than the Elections Clause, under what constitutional authority does Congress have the power to require states to allow former residents — including uniformed military personnel and their families — to vote if they have moved, or been stationed, overseas, as it does in the existing UOCAVA? (In footnote 8 of today’s opinion, Justice Scalia hints that the Court’s holding in Mitchell as to the 18-year-old vote was defended on other grounds by four of the Justices; but he doesn’t provide any explanation for the Court’s holdings on the two residency requirements.)
+
+On the other hand, as Rick Pildes has encouraged me to stress, in other respects the majority opinion reads the Elections Clause very broadly: “The Clause’s substantive scope is broad,” writes Justice Scalia. “’Times, Places, and Manner’,” he explains, are ‘comprehensive words,’ which ‘embrace authority to provide a complete code for congressional elections,’ including, as relevant here and as petitioners do not contest, regulations relating to ‘registration.’” Although the Court had previously said as much in passing, this is the first such case involving validation of a federal registration statute itself. And with only Justice Thomas dissenting on this point, the Court thus has now affirmed a broad (albeit not unlimited) power of Congress to ensure effective voter registration for federal elections. That is no small thing.
+
+Moreover, the Court’s broad reading of the Elections Clause outside the context of voter qualifications might also have significant resonance in the Shelby County Voting Rights Act case that the Court will likely decide in the next ten days. As amicus briefs filed in that case by Pam Karlan and by Gabriel Chin, Dan Tokaji and other election law scholars argue, whatever the Court might decide with respect to application of section 5 of the Voting Rights Act in state elections, the Elections Clause would appear to provide Congress with the authority to enact section 5 to govern federal elections — especially if, as the Court held today, that clause’s “substantive scope is broad,” and “Times, Places, and Manner” are seen as “comprehensive words, which embrace authority to provide a complete code for congressional elections” (with the exception of voter qualifications).
+
+Only time will tell what the full implications might be of the Court’s Elections Clause holdings today.
+
+Recommended Citation: Marty Lederman, Pyrrhic victory for federal government in Arizona voter registration case? [UPDATED with reference to Shelby County], SCOTUSblog (Jun. 17, 2013, 3:02 PM), http://www.scotusblog.com/2013/06/pyrrhic-victory-for-federal-government-in-arizona-voter-registration-case/

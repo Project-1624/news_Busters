@@ -1,0 +1,44 @@
+The Off-Exchange Individual Market And Small Group Market: New HIX Compare Data
+Katherine Hempstead
+
+October 24, 2016
+
+Lately there has been increased interest in better understanding the individual insurance market as a whole. While much is known about the products available on the ACA Marketplaces, the off-exchange segment is fairly large; it is estimated to comprise roughly forty percent of enrollment in the overall individual market.
+
+To be clear, “off exchange” describes a group of insurance products, rather than a distribution channel. Off-exchange products are ACA-compliant individual market plans that are only sold off the exchange, meaning that they are not made available to customers who are eligible for tax credits. They must be purchased from brokers or directly from carriers. “Off exchange” denotes a “what” rather than a “where”.
+
+This is significant because the vast majority of products sold on the exchange are also available off the exchange, so unsubsidized customers can purchase most exchange plans from a carrier or broker, without visiting an exchange website. There is a small group of products, including Cost Sharing Reduction (CSR) plans and some others, which are only available on the exchange.
+
+Off-exchange customers are unsubsidized. However, family members or other third parties may purchase an off-exchange product for an individual who may be eligible for a subsidy or even for Medicaid. Other off-exchange customers may be eligible but unaware of the existence of subsidies. While off-exchange and on-exchange products are part of the same risk pool, there are some important differences. The sales of off-exchange products do not generate fee payments to exchanges in most states. Further, there is more flexibility with respect to commissions.
+
+Recent carrier exits have differentially involved the on- and off-exchange segments of the market, although premium increases have been fairly even-handed. Exposure to premium increases in the unsubsidized off-exchange market is higher, due to the absence of subsidies. In fact, HHS recently issued a brief aimed at off-exchange purchasers, noting that approximately half may qualify for subsidies and encouraging these consumers to consider exchange products during open enrollment. It has even been suggested that in response to carrier exits and lack of insurer competition for exchange products in some rating areas, customers should be permitted to use tax credits to purchase products sold on or off the exchange.
+
+Thus far, little has been known about the products that are sold off exchange. While they must be ACA-compliant, they may differ in important ways from exchange products. Since they are not included in exchange websites or federal or state data sets, it has been very difficult to analyze these products comprehensively.
+
+The newly revised version of HIX Compare includes, for the first time, complete information about ACA-compliant off-exchange products, as well as small group products, sold in 2016. The data set is available in machine readable format. Comparable data for 2017 will be available in several months.
+
+Significant Differences In Metal Distribution
+
+Over twenty-five percent of the more than 13,488 unique ACA-compliant individual market products sold in 2016 were sold exclusively off the exchange. Additionally, there were nearly 30,000 unique ACA-compliant small group plans on the market in 2016, of which nearly 90 percent were “off exchange,” meaning not available on the SHOP exchange. On- and off-exchange small group plans are combined in this analysis, resulting in three buckets: on-exchange (individual market) plans, off-exchange (individual market) plans, and small group plans. Multiple instances of plans across rating areas are collapsed so that the unit of analysis is the unique plan.
+
+The metal distribution of these market segments was strikingly different; on-exchange products were approximately 65 percent silver, with symmetrical distribution of both higher and lower metals. Relative to this, off-exchange products were only half as likely to be silver and twice as likely to be either lower or higher metal value. While only about 12 percent of on-exchange products were gold or platinum, this was true for about 25 percent of the off-exchange products, and while about 17 percent of on-exchange products were catastrophic or bronze, this was true for 38 percent of off-exchange products. Small group plans tilted toward higher metal levels, with more than 40 percent of plans at the gold or platinum level
+
+Off-Exchange And Small Group Products Far More Likely To Include Out-Of-Network Benefits
+
+It would be expected that off-exchange products may be more likely to contain features that have become less common on the exchange, particularly out-of-network benefits. The reduction in PPO offerings on the exchange has been well documented, and the trend is continuing into 2017. Overall, more than 50 percent of off-exchange products were “open” plans such as PPO or POS plans, as compared with only a 36 percent of products sold on the exchange.
+
+Interestingly, off-exchange products were most likely to be PPOs at the bronze level (59 percent) with the likelihood of out of network benefits declining at higher metal levels, while on-exchange products became more likely to offer out-of-network benefits at higher metals. Small group plans were the most likely to include out-of-network benefits, and were far more likely than individual market products to have POS plans. Nearly 65 percent of small group offerings were either PPO or POS plans.
+
+Considerable Regional Variation In Proportion Of Off-Exchange-Only Individual Products
+
+States vary considerably in their number of off-exchange offerings. In the median state, roughly 20 percent of the silver plans are sold off exchange only. Several Northeastern states with state-based marketplaces, such as New York, Massachusetts, and Connecticut, have a very high share of off-exchange products. Some of this reflects some quirks in state practices, in which riders to plans are more likely to be counted as separate plans in some states compared to others. At the other end of the spectrum are states like Vermont and the District of Columbia (counted as a state in this analysis), which have required that all individual market plans be sold on the exchange, so there is essentially no off-exchange markets in these places.
+
+Premiums And Deductibles Are Lower For On-Exchange Plans
+
+Overall the average unsubsidized on-exchange silver premium was $279 per month in 2016, versus $314 for off-exchange products. While the off-exchange premiums were thirteen percent higher on average, the difference in deductibles was far greater. The average off-market silver products had a deductible of a little more than $3,273, considerably higher than the average of $2,053 for on-exchange plans.
+
+Small group plans had deductibles that were lower than off-exchange plans, but generally higher than on-exchange plans. Yet small group premiums were the highest, with an average of $347. The relationship between premiums and deductibles by market type was fairly constant across metal and by geographical areas.
+
+Improving the performance of the individual insurance market is essential to preserving and expanding coverage gains. Off-exchange plans are an important part of the individual market, which until recently have received relatively little attention. Better understanding the characteristics and inter-relations of the off- and on-exchange portions of the individual market may provide insights that will help improve the market as a whole.
+
+Understanding how individual and small group plans compare is similarly important, to determine the extent to which the individual market is appropriately priced and also so that stakeholders such as small business owners can easily compare plans in both market segments. While the federal and state exchanges, along with creators of decision support tools, have done much to present comprehensive information to consumers about on-exchange plans, similar information has thus far been lacking for off-exchange and small group plans. It is our hope that researchers, advocates, journalists, regulators, and many others will use this expanded version of HIX Compare to increase understanding of and transparency in these important insurance market segments, and to in turn improve market performance and benefit consumers.

@@ -1,0 +1,58 @@
+FACT CHECK: Can a Mobile Phone's Bluetooth Sensor Be Used to Detect Card Skimmers?
+Social media users are never slow to tip each other off to new or ongoing scams and frauds, as we have examined many times over the years, and they’re likewise keen to share novel ways to counteract those scams and frauds.
+
+In February 2019, a viral Facebook post offered readers advice on how to detect gas station credit card skimmers, devices that capture details from a card’s magnetic stripe, allowing thieves to engage in fraudulent spending:
+
+Here is a helpful tip: When you pull up to a gas station to fill your car. Search your phone for Bluetooth devices. If a sequence of letters and a sequence of numbers shows up in your device list do not pay at the pump. One of the pumps have a card reader installed. All card readers are bluetooth.
+
+This warning was a somewhat crude explanation of a real phenomenon: the Bluetooth sensor on a mobile phone can indeed be used to detect some — though by no means all — credit card skimmers at gas pumps and ATMs.
+
+How it works
+
+The warning is related to a particular kind of credit card skimmer that is placed in a credit card reader at an ATM or gas station pump. (The Facebook post confusingly referred to a “card reader” rather than a “card skimmer.”)
+
+When a customer inserts a card into the reader, the transaction takes place as normal and the customer’s card is debited, but the skimmer also extracts all the relevant data from the magnetic stripe on the card, including the credit card number, expiry date, and security code.
+
+The thieves who planted the skimmer can then return to the machine and use a Bluetooth transmitter to transfer all the stored credit card details from the skimmer to a storage device such as a mobile phone or laptop, all without having to physically remove the skimmer.
+
+Bluetooth technology
+
+Not all credit card skimmers operate using Bluetooth technology in this way, but many do, and this use of Bluetooth technology is what leaves the skimmers vulnerable to detection. We asked Nick Poole, an electronics expert at the hobby electronics company SparkFun and co-creator of the “Skimmer Scanner” Android app, to outline how they work.
+
+Poole explained that he and his colleagues were consulted by local law enforcement in Colorado after a wave of credit card skimmer thefts at gas stations in 2017 and were able to reverse engineer some of the skimmers removed from the pumps, adding that:
+
+With some of these gas pump skimmers that we’ve come across, they will use a very common Bluetooth radio … and you can see it as a device that you would connect your phone to, just like a Bluetooth speaker or anything else like that. And with the particular skimmers that we came into contact with, we found that [the thieves who installed them] didn’t even change the default name or password of the Bluetooth unit. So in theory, you can open up your cellphone, go to “scan for Bluetooth devices” and possibly you would see the Bluetooth radio that was in the skimmer. What our app did, that was above and beyond that, is that if it saw a radio that we already knew was a skimmer, or suspected was a skimmer because it was the type of radio [the thieves] would use, then we would connect to it over the serial protocol. Then we would send it a serial string [a kind of text message] that we knew the answer to [based on his experiments with the skimmers provided by local police] … Our app sends those, and if it gets a response back that is similar to [the units already known to be skimmers], then we tell the user this is for sure a skimmer, move on to a different gas pump.
+
+When Poole and his colleagues worked with police in Colorado in 2017, they found that the majority of credit card skimmers that employed Bluetooth technology used Bluetooth modules called HC-05 or HC-06. Poole told us he was informed at that time that the HC-05 and HC-06 modules had been widely encountered by law enforcement in skimmers across the United States, though they were by no means the only kind of Bluetooth module used in credit card skimmers.
+
+So even without using Poole’ mobile app, he said, customers standing at a gas pumps could in principle use their mobile phones to scan their immediate surroundings for Bluetooth devices, and if they saw any devices with names containing “HC-05” or “HC-06,” they would have good reason to think twice about using those gas pumps:
+
+“If you saw a strange Bluetooth device that you didn’t have an explanation for — it wasn’t something in your car — then it very well could be a Bluetooth-connected skimmer in the gas pump.”
+
+False positives, false negatives
+
+Poole warned that because HC-05 and HC-06 were relatively common and affordable Bluetooth modules, they were also used for perfectly legitimate purposes, so detecting one of those devices in the vicinity of a gas pump would not necessarily mean you had detected a credit card skimmer as opposed to, say, a Bluetooth speaker in another motorist’s car. However, someone who wanted to err on the side of caution and avoid the risk of having their credit card information could view the detection of an unexplained Bluetooth device as sufficient reason to go and refuel somewhere else.
+
+To complicate matters further, Poole warned that even if your mobile phone did not detect a suspect Bluetooth device in the vicinity of a gas pump, that would not necessarily mean a skimmer was not embedded in the gas pump card reader. This is so for two reasons: First, because not all skimmers use Bluetooth technology, and second, because not all Bluetooth skimmers use the kind of Bluetooth modules (HC-05 and HC-06) that Poole and his colleagues encountered.
+
+Using your mobile phone’s Bluetooth sensor to detect credit card skimmers (with or without the “Skimmer Scanner” app) is therefore a way of lowering your risk of exposure to credit card theft not not a surefire way of detecting the presence or absence of credit card skimmers in any given gas pump.
+
+Mark Nunnikhoven, vice president of the cybersecurity firm Trend Micro, agreed that Bluetooth scanners could be a useful way to counteract the threat posed by credit card skimmers but also acknowledged their limitations, writing in an email that they “can help but they aren’t foolproof”:
+
+“Criminals are always trying to make the skimmers harder to spot. There are several other low-cost Bluetooth modules in the same category as the HC-05, so this app [Skimmer Scanner] won’t detect all types of skimmers.”
+
+Nunnikhoven recommended two additional precautions that customers could take if they were concerned about credit card skimmers at gas station pumps:
+
+“First, a physical check. Does the keypad or credit card slot look well maintained and well fitted to the pump? Does it match the next pump? Secondly, monitor your credit card statements for suspicious charges. As long as you aren’t negligent with your credit card and PIN (if you have one), the protections provided by the credit card company ensure that if you do get skimmed, it’s only an annoyance (changing all your billing info) and not a financial catastrophe.”
+
+Brian Krebs, a leading cybersecurity reporter, told us that Bluetooth detection such as that employed in the Skimmer Scanner app was useful in revealing one kind of credit card skimmer, but he recommended that consumers check the physical appearance of the gas pump reader instead:
+
+“Overall, consumers are better off looking for stations that use more modern pumps that include new security features (no master key to rule them all, putting sensitive components in locked, steel cages inside the locked pump, point-to-point encryption, etc.). Consumers can tell them apart simply by looking for pumps that have horizontal card readers and a raised keypad.”
+
+Conclusion
+
+On the whole, the viral February 2019 Facebook post was a fairly crude explanation of what is nonetheless a real phenomenon. A mobile phone’s Bluetooth sensor can indeed be used to scan for and detect certain Bluetooth modules known to be used in credit card skimmers.
+
+What the Facebook post did not make clear is that not every “sequence of letters” or “sequence of numbers” on a mobile phone’s Bluetooth device list means a customer is in the presence of a credit card skimmer, nor will a mobile phone’s Bluetooth sensor successfully identify every credit card skimmer in use in gas pumps and ATMs across the United States.
+
+The mobile phone Bluetooth scanner is a potentially useful way to lower the risk of exposure to some popular kinds of credit card skimmers, but it is not fool-proof, and it is prone to both false negatives and false positives.

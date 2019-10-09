@@ -1,0 +1,24 @@
+Personal Finances
+In this section, explore what lawmakers reported in personal financial disclosures through 2015, which we used to estimate their net worth. (Learn about our methodology and why these reports matter).
+
+Richest Members of Congress, 2015
+
+Below are the top ten richest members of both the House and Senate, collectively they account for almost half of the entire net worth of Congress.
+
+Poorest Members of Congress, 2015
+
+The salary of a typical member of Congress is $174,000. No one is qualifying for food stamps, but some lawmakers carry significant personal and/or business debt. Here are those "poorest" members.
+
+Biggest wealth increase in Congress, 2005-2015 Download .csv file
+
+Not all politicians come into office wealthy – but many leave that way. Here are the top 10 winners of the past decade.
+
+Estimated Wealth Over Time
+
+This graph displays the median of the estimated net worth of Senate and House members. In 2015, for example, half of the Senate was worth more than $3,132,848 million. In the House, half of the members were worth less than $888,508.
+
+{:chart=>{:caption=>"", :subcaption=>"", :numberPrefix=>"$", :showvalues=>"0", :labelstep=>"1", :slantLabels=>"1", :bgcolor=>"FFFFFF", :labelpadding=>"10", :legendiconscale=>"1.5", :legendshadow=>"0", :legendborderalpha=>"0", :legendposition=>"bottom", :usePlotGradientColor=>"0", :bgColor=>"ffffff", :borderColor=>"ffffff", :divlinedashed=>"1", :showCanvasBorder=>"0", :showAlternateHGridColor=>"0", :plotGradientColor=>"", :plotBorderColor=>"ffffff", :showplotborder=>"0", :plotfillpercent=>"100", :showYAxisValues=>"1", :canvasBgColor=>"ffffff", :plotSpacePercent=>"50", :canvasbgalpha=>"100", :adjustDiv=>"0", :valueFontColor=>"cccccc", :valueFontSize=>"12"}, :categories=>[{:category=>[{:label=>"2006"}, {:label=>"2007"}, {:label=>"2008"}, {:label=>"2009"}, {:label=>"2010"}, {:label=>"2011"}, {:label=>"2012"}, {:label=>"2013"}, {:label=>"2014"}, {:label=>"2015"}, {:label=>"2016"}]}], :dataset=>[{:seriesname=>"House Median", :data=>[{:value=>682026}, {:value=>708505}, {:value=>673004}, {:value=>761265}, {:value=>770762}, {:value=>798135}, {:value=>854525}, {:value=>843507}, {:value=>673003}, {:value=>888508}, {:value=>257506}]}, {:seriesname=>"Senate Median", :data=>[{:value=>1949521}, {:value=>2273520}, {:value=>2055540}, {:value=>2408775}, {:value=>2426114}, {:value=>2521528}, {:value=>2743785}, {:value=>2322502}, {:value=>2218530}, {:value=>3132848}, {:value=>1450519}]}]}
+
+The tables on this page are based on 2015 filings, the latest personal finance disclosure information available. Explore specific politicians in our "Net Worth" section.
+
+Feel free to distribute or cite this material, but please credit the Center for Responsive Politics. For permission to reprint for commercial uses, such as textbooks, contact the Center: info[at]crp.org

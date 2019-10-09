@@ -1,0 +1,83 @@
+What are electromagnetic fields?
+
+Typical exposure levels at home and in the environment
+
+Electromagnetic fields at home
+
+Background electromagnetic field levels from electricity transmission and distribution facilities
+
+Electricity is transmitted over long distances via high voltage power lines. Transformers reduce these high voltages for local distribution to homes and businesses. Electricity transmission and distribution facilities and residential wiring and appliances account for the background level of power frequency electric and magnetic fields in the home. In homes not located near power lines this background field may be up to about 0.2 µT. Directly beneath power lines the fields are much stronger. Magnetic flux densities at ground level can range up to several µT. Electric field levels underneath power lines can be as high as 10 kV/m. However, the fields (both electric and magnetic) drop off with distance from the lines. At 50 m to 100 m distance the fields are normally at levels that are found in areas away from high voltage power lines. In addition, house walls substantially reduce the electric field levels from those found at similar locations outside the house.
+
+Electric appliances in the household
+
+The strongest power frequency electric fields that are ordinarily encountered in the environment exist beneath high voltage transmission lines. In contrast, the strongest magnetic fields at power frequency are normally found very close to motors and other electrical appliances, as well as in specialized equipment such as magnetic resonance scanners used for medical imaging.
+
+
+
+
+
+Typical electric field strengths measured near household appliances
+
+(at a distance of 30 cm)
+
+(From: Federal Office for Radiation Safety, Germany 1999) Electric appliance Electric field strength (V/m) Stereo receiver 180 Iron 120 Refrigerator 120 Mixer 100 Toaster 80 Hair dryer 80 Colour TV 60 Coffee machine 60 Vacuum cleaner 50 Electric oven 8 Light bulb 5 Guideline limit value 5000
+
+Many people are surprised when they become aware of the variety of magnetic field levels found near various appliances. The field strength does not depend on how large, complex, powerful or noisy the device is. Furthermore, even between apparently similar devices, the strength of the magnetic field may vary a lot. For example, while some hair dryers are surrounded by a very strong field, others hardly produce any magnetic field at all. These differences in magnetic field strength are related to product design. The following table shows typical values for a number of electrical devices commonly found in homes and workplaces. The measurements were taken in Germany and all of the appliances operate on electricity at a frequency of 50 Hz. It should be noted that the actual exposure levels vary considerably depending on the model of appliance and distance from it.
+
+Typical magnetic field strength of household appliances at various distances Electric appliance 3 cm distance (µT) 30 cm distance (µT) 1 m distance (µT) Hair dryer 6  2000 0.01  7 0.01  0.03 Electric shaver 15  1500 0.08  9 0.01  0.03 Vacuum cleaner 200  800 2  20 0.13  2 Fluorescent light 40  400 0.5  2 0.02  0.25 Microwave oven 73  200 4  8 0.25  0.6 Portable radio 16  56 1 < 0.01 Electric oven 1  50 0.15  0.5 0.01  0.04 Washing machine 0.8  50 0.15  3 0.01  0.15 Iron 8  30 0.12  0.3 0.01  0.03 Dishwasher 3.5  20 0.6  3 0.07  0.3 Computer 0.5  30 < 0.01 Refrigerator 0.5  1.7 0.01  0.25 <0.01 Colour TV 2.5 - 50 0.04  2 0.01  0.15 With most household appliances the magnetic field strength at a distance of 30 cm is well below the guideline limit for the general public of 100 µT. (Source: Federal Office for Radiation Safety, Germany 1999) Normal operating distance is given in bold
+
+The table illustrates two main points: First, the magnetic field strength around all appliances rapidly decreases the further you get away from them. Secondly, most household appliances are not operated very close to the body. At a distance of 30 cm the magnetic fields surrounding most household appliances are more than 100 times lower than the given guideline limit of 100 µT at 50 Hz (83 µT at 60 Hz) for the general public.
+
+Television sets and computer screens
+
+Computer screens and television sets work on similar principles. Both produce static electric fields and alternating electric and magnetic fields at various frequencies. However, screens with liquid crystal displays used in some laptop computers and desktop units do not give rise to significant electric and magnetic fields. Modern computers have conductive screens which reduce the static field from the screen to a level similar to that of the normal background in the home or workplace. At the position of operators (30 to 50 cm from the screen), alternating magnetic fields are typically below 0.7 µT in flux density (at power frequencies). Alternating electric field strengths at operator positions range from below 1 V/m up to 10 V/m.
+
+Microwave ovens
+
+Domestic microwave ovens operate at very high power levels. However, effective shielding reduces leakage outside the ovens to almost non-detectable levels. Furthermore microwave leakage falls very rapidly with increasing distance from the oven. Many countries have manufacturing standards that specify maximum leakage levels for new ovens; an oven that meets the manufacturing standards will not present any hazard to the consumer.
+
+Portable telephones
+
+Portable telephones operate at much lower intensities than mobile phones. This is because they are employed very close to their home base station, and so do not need strong fields to transmit over long distances. As a consequence, the radiofrequency fields that surround these devices are negligible.
+
+Electromagnetic fields in the environment
+
+Radar
+
+Radars are used for navigation, weather forecasting, and military applications, as well as a variety of other functions. They emit pulsed microwave signals. The peak power in the pulse can be high even though the average power may be low. Many radars rotate or move up and down; this reduces the mean power density to which the public is exposed in the vicinity of radars. Even high power, non-rotating military radars limit exposures to below guideline levels at locations of public access.
+
+Security systems
+
+Anti-theft systems in shops use tags that are detected by electrical coils at the exits. When a purchase is made the tags are removed or permanently deactivated. The electromagnetic fields from the coils do not generally exceed exposure guideline levels. Access control systems work in the same way with the tag incorporated into a key ring or identity card. Library security systems use tags that can be deactivated when a book is borrowed and reactivated when it is returned. Metal detectors and airport security systems set up a strong magnetic field of up to 100 µT that is disturbed by the presence of a metal object. Close to the frame of the detector, magnetic field strengths may approach and occasionally exceed guideline levels. However, this does not constitute a health hazard, as will be discussed in the section on guidelines. (see Are exposures above the guidelines harmful?)
+
+Electric trains and trams
+
+Long-distance trains have one or more engine cars that are separate from the passenger cars. Thus passenger exposure comes mainly from the electricity supply to the train. Magnetic fields in the passenger cars of long-distance trains can be several hundred µT near the floor, with lower values (tens of µT) elsewhere in the compartment. Electric field strengths may reach 300 V/m. People living in the vicinity of railway lines may encounter magnetic fields from the overhead supply which, depending on the country, may be comparable to the fields produced by high-voltage power lines.
+
+Motors and traction equipment of trains and trams are normally located underneath the floors of passenger cars. At floor level, magnetic field intensities may amount to tens of µT in regions of the floor just above the motor. The fields fall off quickly with distance from the floor, and exposure of the upper bodies of passengers is much lower.
+
+TV and radio
+
+When choosing a radio station on your stereo at home, have you ever wondered what the familiar abbreviations AM and FM stand for? Radio signals are described as amplitude-modulated (AM) or frequency-modulated (FM) depending on the way in which they carry information. AM radio signals can be used for broadcasting over very long distances whereas FM waves cover more localized areas but can give a better sound quality.
+
+AM radio signals are transmitted via large arrays of antennas, which can be tens of metres high, on sites which are off-limits to the public. Exposures very close to antennas and feed cables can be high, but these would affect maintenance workers rather than the general public.
+
+TV and FM radio antennas are much smaller than AM radio antennas and are mounted in arrays at the top of high towers. The towers themselves serve only as supporting structures. As exposures near the foot of these towers are below guideline limits, public access to these areas may be possible. Small local TV and radio antennas are sometimes mounted on the top of buildings; if this is the case it may be necessary to control access to the roof.
+
+Mobile phones and their base stations
+
+Mobile phones allow people to be within reach at all times. These low-power radiowave devices transmit and receive signals from a network of fixed low power base stations. Each base station provides coverage to a given area. Depending on the number of calls being handled, base stations may be from only a few hundred metres apart in major cities to several kilometres apart in rural areas.
+
+Mobile phone base stations are usually mounted on the tops of buildings or on towers at heights of between 15 and 50 metres. The levels of transmissions from any particular base station are variable and depend on the number of calls and the callers' distance from the base station. Antennas emit a very narrow beam of radiowaves which spreads out almost parallel to the ground. Therefore, radiofrequency fields at ground level and in regions normally accessible to the public are many times below hazard levels. Guidelines would only be exceeded if a person were to approach to within a metre or two directly in front of the antennas. Until mobile phones became widely used, members of the public were mainly exposed to radiofrequency emissions from radio and TV stations. Even today, the phone towers themselves add little to our total exposure, as signal strengths in places of public access are normally similar to or lower than those from distant radio and TV stations.
+
+However, the user of a mobile phone is exposed to radiofrequency fields much higher than those found in the general environment. Mobile phones are operated very close to the head. Therefore, rather than looking at the heating effect across the whole body, the distribution of absorbed energy in the head of the user must be determined. From sophisticated computer modeling and measurements using models of heads, it appears that the energy absorbed from a mobile phone is not in excess of current guidelines.
+
+Concerns about other so-called non-thermal effects arising from exposure to mobile phone frequencies have also been raised. These include suggestions of subtle effects on cells that could have an effect on cancer development. Effects on electrically excitable tissues that may influence the function of the brain and nervous tissue have also been hypothesized. However, the overall evidence available to date does not suggest that the use of mobile phones has any detrimental effect on human health.
+
+Magnetic fields in everyday life: are they really that high?
+
+In recent years, national authorities in different countries have conducted many measurements to investigate electromagnetic field levels in the living environment. None of these surveys has concluded that field levels could bring about adverse health effects.
+
+The Federal Office for Radiation Safety in Germany recently measured the daily exposure to magnetic fields of about 2000 individuals across a range of occupations and public exposures. All of them were equipped with personal dosimeters for 24 hours. The measured exposure varied widely but gave an average daily exposure of 0.10 µT. This value is a thousand times lower that the standard limit of 100 µT for the public and five thousand times lower than the 500 µT exposure limit for workers. Furthermore, the exposure of people living in the centres of cities showed that there are no drastic differences in exposure between life in rural areas and life in the city. Even the exposure of people living in the vicinity of high voltage power lines differs very little from the average exposure in the population.
+
+Key points

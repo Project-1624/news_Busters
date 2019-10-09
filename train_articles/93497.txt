@@ -1,0 +1,56 @@
+Disaster Spending Data Resources
+To increase transparency and facilitate oversight of disaster-related relief spending, TCS has collected all, or most, of the publicly available data on such funding and is making it available for download in one location here. Particular attention is given to Superstorm Sandy spending because of its significant size and impact.
+
+Contents
+
+Introduction
+
+In October, 2012, Superstorm Sandy made landfall in the north east United States, causing tremendous damage, particularly in New York and New Jersey. In response, Congress passed an emergency supplemental appropriations bill in January, 2013 that provided $50.5 billion for relief and reconstruction, and increased the National Flood Insurance Program’s borrowing authority by $9.7 billion to cover new claims. More than three years later, identifying where and how the money has (and hasn’t) been spent is difficult.
+
+Satellite image of Superstrom Sandy before landfall
+
+After diligently tracking Sandy funding since even before the appropriations bill was passed (see some of the TCS Sandy-related materials below), we are putting all the available data we’ve found on the funds in one place along with all disaster spending. In doing so we aim not only to increase transparency and inform future disaster response policymaking, but also to highlight the insufficiency of the oversight of the funding’s disbursement.
+
+FEMA data
+
+Of the $48 billion that was appropriated (post-sequestration) for relief and reconstruction, $11.5 billion was allotted to the Federal Emergency Management Agency (FEMA). In its datasets (available here, and at the links below), FEMA organizes its data by the Major Disaster Declaration number that is assigned to each state for eligible disaster events. For convenience in sorting the data, here are Major Disaster Declaration numbers associated with Superstorm (Hurricane) Sandy:
+
+Number Declaration Date State Incident Description 4085 10/30/2012 New York Hurricane Sandy 4086 10/30/2012 New Jersey Hurricane Sandy 4087 10/30/2012 Connecticut Hurricane Sandy 4089 11/3/2012 Rhode Island Hurricane Sandy 4090 11/16/2012 Delaware Hurricane Sandy 4091 11/20/2012 Maryland Hurricane Sandy 4092 11/26/2012 Virginia Hurricane Sandy 4093 11/27/2012 West Virginia Hurricane Sandy 4095 11/28/2012 New Hampshire Hurricane Sandy 4096 12/5/2012 District of Columbia (DC) Hurricane Sandy 4097 12/19/2012 Massachusetts Hurricane Sandy 4098 1/3/13 Ohio Hurricane Sandy 4099 1/10/13 Pennsylvania Hurricane Sandy
+
+Almost all of the money spent by FEMA for Sandy relief and reconstruction is classified as "Public Assistance." Datasets on this category of spending are available for download here:
+
+Part of the money spent by FEMA after a disaster is distributed through its Hazard Mitigation Grant Program. The program is intended to help communities "reduce or eliminate long term risk to people and property from natural hazards."
+
+In addition to the data in the sets available here, FEMA provides summary information for each of its disaster declarations. The summary pages, which effectively sort information by state, can all be found by using the URL formula: http://www.fema.gov/disaster/[FEMA disaster number].
+
+For example, information on the FEMA response to Hurricane Sandy in different states can be found by using the disaster numbers listed above:
+
+http://www.fema.gov/disaster/4086 - New Jersey
+
+http://www.fema.gov/disaster/4085 - New York
+
+etc.
+
+SBA Data
+
+In the wake of a disaster, victims (individuals and businesses) are eligible for low-interest loans from the Small Business Administration (SBA). The SBA provides data on such loans here. The datasets available there and below can be filtered by FEMA's disaster declaration numbers (see ablove), but are primarily organized by the SBA's own Disaster Declaration Numbers. For convenience in sorting the data, here are the SBA numbers associated with Superstorm (Hurricane) Sandy:
+
+SBA Declaration # States Affected Incident Incident Period 13365, 13366 New York New York Hurricane Sandy 10/27/2012 through 11/08/2012 13367, 13368 New Jersey New Jersey Hurricane Sandy 10/26/2012 through 11/08/2012 13369, 13370 Connecticut Connecticut Hurricane Sandy 10/27/2012 through 11/08/2012 13382, 13383 North Carolina Hurricane Sandy 10/27/2012 through 10/30/2012 13387, 13388 Rhode Island Rhode Island Hurricane Sandy 10/26/2012 through 10/31/2012 13413, 13414 Virginia Tidal Surge, Rain and Wind from Hurricane Sandy 10/28/2012 13425, 13426 Maryland Hurricane Sandy 10/26/2012 through 11/04/2012 13435, 13436 Maryland Maryland Hurricane Sandy 10/26/2012 through 11/04/2012 13445, 13446 Puerto Rico Tropical Storm Sandy 10/25/2012 through 10/26/2012 13500, 13501 West Virginia West Virginia Hurricane Sandy 10/29/2012 through 11/10/2012
+
+Almost two years after the storm, SBA published a data set on all its Sandy-related home and business loans. At the time, SBA had given out $1.97 billion in home loans and $513 million in business loans:
+
+SBA-Sandy Disaster Loans (351 KB) Home loans data last updated September 22, 2014
+
+Business loans data last updated October 20, 2014
+
+HUD-RAT Board Data
+
+After providing invaluable insight into how the 2009 stimulus money was spent, the Recovery and Accountability (RAT) Board was tasked with monitoring Sandy spending in the emergency supplemental bill (P.L. 113-2, Sec. 904(d)). The RAT Board was hamstrung, however, by its inability to compel agencies to disclose their information, or even to tag their relevant spending as Sandy-related. The Board, in conjunction with the Program Management Office (PMO) of the Hurricane Sandy Rebuilding Task Force created under the Department of Housing and Urban Development (HUD), did produce some useful data, including a monthly report of how much of the appropriated funding had been obligated or outlaid by agency, and later, by state. Those reports are provided below:
+
+FPDS
+
+Information on all government contracts is aggregated and published by the Federal Procurement Data System (FPDS). For convenience, FPDS provides links to its most commonly requested reports - collections of data associated with contracts for one purpose or from one funding source. Its list of top reports, furthermore, is almost entirely composed of contract datasets associated with disasters. Below are links reproduced from the FPDS site that will trigger downloads of the raw data:
+
+TCS staff have cleaned up the FPDS Hurricane Sandy report, without altering any of the values, to ease analysis of the data. It can be downloaded here - Hurricane Sandy Report (1.7 MB).
+
+TCS Resources

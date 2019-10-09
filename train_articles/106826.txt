@@ -1,0 +1,14 @@
+AWAKE Physics
+Physics behind AWAKE
+
+It is the aim of the AWAKE project at CERN to demonstrate the acceleration of electrons in the wake created by a proton beam passing through plasma. The proton beam will be modulated as a result of the transverse two-stream instability into a series of micro bunches that will then drive strong wakefields. The wakefields will then be used to accelerate electrons with GV/m strength fields. The AWAKE experiment is currently being commissioned and first data taking is expected this year.
+
+What is a plasma
+
+The Self-Modulation Instability
+
+Plasma is one of the four fundamental states of matter, the others being solid, liquid, and gas. A plasma has properties unlike those of the other states. Plasma consist of a gas of positively charged ions and negatively charged electrons. One of the important characteristics of a plasma is the plasma frequency which defines rapid oscillations of the electron density.
+
+The AWAKE experiment intends to use the existing SPS beam to drive a high amplitude plasma wakefields, which will then accelerate a witness electron beam. The SPS beam is, however, too long to effectively transfer energy to a plasma-wave. The interaction of the proton beam with the plasma creates a microbunch structure which is consistent with the plasma wavelength. The resulting micro-bunched beam can effectively transfer energy to the plasma wave.
+
+N. Kumar, A. Pukhov, and K. V. Lotov, Phys. Rev. Lett. 104, 255003 (2010).

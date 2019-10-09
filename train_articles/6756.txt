@@ -1,0 +1,74 @@
+Did Medicaid Expansion Cause The Opioid Epidemic? There’s Little Evidence That It Did.
+Andrew Goodman-Bacon and Emma Sandoe
+
+August 23, 2017
+
+Recent health reform debates have generated a new theory that claims that the Affordable Care Act’s (ACA) Medicaid expansion has either caused or exacerbated the opioid epidemic. The logic on its face seems clear: legal prescriptions fuel the opioid epidemic, Medicaid increases access to prescription opioids, hence the Medicaid expansion contributes to, or has even caused the epidemic. Proponents of this view point to a rise in opioid-related deaths in ACA Medicaid expansion states relative to non-expansion states. Political commentators, including some politicians, use this claim to justify their support for federal Medicaid cuts, despite the fact that Medicaid finances a significant amount of treatment for opioid use disorder.
+
+In this post, we argue that evidence for the claim that the ACA’s Medicaid expansion caused or exacerbated the opioid epidemic is not credible. First, trends in opioid deaths nationally and by Medicaid expansion status predate the ACA. Second, counties with the largest coverage gains actually experienced smaller increases in drug-related mortality than counties with smaller coverage gains. Third, the fact that Medicaid recipients fill more opioid prescriptions than non-recipients largely reflects greater levels of disability and chronic illness in the populations that Medicaid serves. While we do not reject the possibility that public policy has played a role in our current prescription abuse crisis, on balance we find little evidence to support the idea that Medicaid caused or worsened the epidemic.
+
+Existing Evidence on Medicaid and Opioids
+
+Comparing Medicaid Recipients to Non-Recipients
+
+Proponents of the view that Medicaid exacerbates drug abuse often cite the fact that Medicaid recipients are prescribed more opioids than non-recipients. In the early 2000s, for example, Medicaid enrollees in New York and Washington received opioid prescriptions almost twice as often as non-Medicaid patients.
+
+Does this evidence alone mean that Medicaid caused these patients to abuse opioids? No. Medicaid patients, especially those who qualify through a disability and many who do not, are more likely to have chronic conditions and comorbidities that require pain relief. Between 2010 and 2016, 30 percent of Medicaid recipients ages 25-54 reported having pain most days or every day, compared to 14 percent of non-recipients. A cross-sectional relationship between Medicaid coverage and opioid use does not mean there is necessarily a causal connection (for any outcome).
+
+National Trends
+
+Doctors have used opioids to manage acute pain since before the 20th century. In 1995, the American Pain Society labeled pain the “fifth vital sign,” and in 1996, Purdue Pharma developed OxyContin, a controlled-release opioid that they (falsely) claimed would deter addiction. Opioid use, abuse, and mortality increased rapidly thereafter. In just five years from 1997 to 2002, OxyContin prescriptions for non-cancer pain grew from 670,000 to 6.2 million. Drug-related mortality rates doubled between 1999 and 2013. In contrast, most states that expanded Medicaid began offering benefits in January 2014. (Six states expanded early but limited coverage.) The claim that Medicaid expansion is “largely responsible for starting the epidemic in the first place” is clearly false simply given this timeline. The opioid epidemic started decades before Medicaid expanded.
+
+Divergent Trends Between Expansion and Non-Expansion States
+
+Another approach is to compare drug-related deaths in states that did and did not adopt the ACA’s Medicaid expansion. Previous analyses have noted that the change in drug-related mortality rates from 2010 to 2015 was higher in expansion states than in non-expansion states. Did Medicaid cause this divergence?
+
+Figure 1 plots age-adjusted drug-related mortality rates among those aged 25-54 in states that did and did not expand Medicaid under the ACA (similar analysis previously posted here). The figure also plots the difference in mortality between expansion and non-expansion states (relative to the difference in 2009; dashed lines are 95-percent confidence intervals based on standard errors clustered by state). Expansion states did have relatively more drug deaths than non-expansion states in 2015, but the upward trend in deaths in expansion states started in 2010, four years before the Medicaid expansion began. The results are the same if we exclude the six early expansion states. By the simplest criterion for causality, that causes must precede effects, these results cannot be taken as evidence of Medicaid expansion causing these deaths.
+
+Note: Data from CDC Wonder. Drug-related deaths include ICD-10 underlying cause of death codes X40–X44, X60–X64, X85, and Y10–Y14. Mortality rates are age-adjusted. Medicaid expansion status is here.
+
+Divergent Trends by Pre-ACA Uninsurance Rates
+
+A different test of whether the ACA affected drug-related deaths is to compare areas with different pre-ACA uninsurance rates. Areas that had a higher percentage of people uninsured before the ACA enjoyed greater coverage gains because of Medicaid eligibility expansion, welcome mat effects, and subsidized Marketplace plans. Some have noted that counties with larger post-ACA reductions in uninsurance had higher drug-related death rates in 2015. Did the ACA lead to these elevated drug-related mortality rates?
+
+We test this using data on the crude drug-related death rates from 716 counties in 2015 and 2010 (age-adjusted rates are preferable, but crude rates are available for more counties). We break up counties in expansion and non-expansion states into 10 groups based on their estimated 2013 uninsurance rates, and plot the average mortality change against the average pre-ACA uninsurance rate in each bin. If the ACA exacerbated the opioid epidemic, we should see larger increases in drug deaths in high-uninsurance areas where its coverage provisions had the most bite.
+
+In fact, Figure 2 shows that drug-related deaths increased at a lower rate in high-uninsurance counties than in low-uninsurance counties. This does not support the notion that the ACA worsened the opioid epidemic. (Neither does it support the idea that the ACA helped to stem the epidemic. Mortality was already falling in high- versus low-uninsurance counties before 2014.)
+
+Note: Data from CDC Wonder. Mortality rates are not age-adjusted. Estimated 2013 uninsurance rates from Enroll America.
+
+Why is the Evidence on Medicaid and Opioids So Weak?
+
+Magnitude of Opioid Abuse Among Medicaid Recipients
+
+Another form of evidence used to support the idea that Medicaid causes opioid abuse is by using examples of Medicaid patients who abuse opioids. But for the ACA Medicaid expansion to have a meaningful effect on aggregate mortality rates, a significant number of recipients must be misusing opioids. One reason why we fail to find strong evidence of a connection between Medicaid and drug deaths could be that relatively few Medicaid recipients actually misuse their drugs.
+
+Medicaid Funds Opioid Addiction Treatment
+
+Medicaid has become a primary payer for medication addiction treatment, covering one in three people with an opioid addiction in 2015, with most of this spending occurring in expansion states. Medicaid covers services such as detoxification, outpatient treatment, and treatment for underlying health conditions, such as chronic pain or mental health issues, which may be the cause of addiction. These care options are complex and costly. In the last year before the ACA expansion, Medicaid spent $9.4 billion on opioid addiction treatment. In fact, in the recent interim report by the White House Commission Combating Drug Addiction and the Opioid Crisis the commission recommended that Medicaid treatment of the epidemic be enhanced through additional treatment sites and drug reversal coverage. Now that the Administration is moving to devote resources and attention to opioid abuse, states may gain flexibilities to provide more coverage to Medicaid beneficiaries, making the program even more critical to fighting the epidemic.
+
+Medicaid and Drug Substitution
+
+Health insurance coverage, including Medicaid, can make access to opioids easier in comparison to being uninsured, but in many cases misuse of opioids will occur regardless of who pays. Evidence suggests that when access to opioids is restricted, utilization and overdose deaths switch from legal to illicit drugs. Medicaid could change patterns of drug use, but not the amount of drug use or its health consequences.
+
+Other Factors May Have Determined States’ Medicaid Expansion Decisions
+
+Finally, it may be that other factors, including the opioid epidemic itself, led states to adopt the ACA Medicaid expansion. A state with rapidly rising opioid deaths may have decided to expand Medicaid in order to provide drug treatment to more residents. Several governors made a similar case in their opposition to the Better Care Reconciliation Act. State economic conditions or robustness of medical systems, for example, could also have contributed to both the opioid epidemic and the decision to expand.
+
+Caveats and Pending Questions
+
+Local Effects
+
+The evidence above, using data from all parts of the country, does not support claims that Medicaid or the ACA worsened the opioid epidemic overall. This does not preclude the possibility that Medicaid had such effects in specific states or local areas, though. This is an important area for future research, because it may clarify how Medicaid interacts with drug abuse differently across the country. In other words, the answer to the question “did Medicaid exacerbate the national opioid crisis?” seems to be “no.” The answer to the question “did Medicaid play a role anywhere?” is unknown.
+
+Detailed Results by Type of Drug and Payer
+
+Our analysis necessarily groups deaths from licit and illicit drugs together. A fuller analysis of Medicaid’s role must distinguish between deaths from legal prescription drugs and deaths due to illegal drugs, such as heroin or fentanyl that Medicaid clearly does not supply. Inferring this from death certificate data, however, is a complex task. Moreover, one cannot ascribe causality to geographic differences in death rates without information on the types and amounts of opioids actually being prescribed by Medicaid compared other payers. This is an important gap in the current evidence on Medicaid and opioids.
+
+Treatment Benefits
+
+Despite the risks, opioids provide clinical benefits to patients in need of pain relief. Policy makers searching for effective ways to address the opioid epidemic must weigh the benefits of proper opioid use against these potential costs. Since we currently have little strong evidence that Medicaid imposes substantial costs in terms of drug-related deaths, large cuts to Medicaid may sacrifice meaningful treatment benefits for little to no change in overdose rates.
+
+Conclusion
+
+Some Medicaid recipients who gained coverage under the ACA may have become addicted to opioids, but we find little evidence that Medicaid expansion caused aggregate drug-related death rates to increase. Future research on the opioid epidemic should develop approaches that untangle the effects of Medicaid expansion from pre-existing economic trends and the spread of accessible illegal drugs. That said, by addressing the causes of addiction and promoting appropriate treatment, Medicaid could be an important tool for policy makers in the fight against opioid abuse. In January 2016, the Centers for Medicare and Medicaid Services (CMS) outlined broad scale flexibilities already available in the Medicaid program to expand access to medication assisted treatment, community-based therapy, and other services to address the treatment of opioid addiction. States have begun taking up these flexibilities as part of intra-state agency efforts that include the Medicaid program and the Medicaid expansion population. For many opioid users and their families, Medicaid provides the only affordable treatment option and path to recovery. State policy makers must weigh the benefits and costs of expanding addiction treatment through extending Medicaid eligibility to low-income adults and expanding community supports and addiction medication availability. Given the toll of opioid addiction on state budgets for law enforcement, emergency services, and child welfare, expanding Medicaid eligibility and treatment services may prove to be a wise investment.

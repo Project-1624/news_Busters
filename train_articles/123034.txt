@@ -1,0 +1,64 @@
+Democrats and Bernie Sanders Clash Over Data Breach
+Photo
+
+A fight between the campaign of Senator Bernie Sanders and the Democratic leadership went public on Friday as the party punished the campaign over a data breach and the Sanders camp sued the party and accused it of actively trying to help Hillary Clinton.
+
+The dispute came after members of Mr. Sanders’s data team were found to have gotten access to, searched and stored proprietary information from Mrs. Clinton’s team during a software glitch with an important voter database. The Democratic National Committee acted swiftly to deny the Sanders campaign future access to the party’s 50-state voter file, which contains information about millions of Democrats and is invaluable to campaigns on a daily basis.
+
+Late Friday night, the national committee and the Sanders campaign said they had come to an agreement to restore the campaign’s access to the voter file. On Saturday morning, the Sanders campaign said it was able to log back into the file from its headquarters and was in the process of making sure its field operations in Iowa and other states were back up and running on the software.
+
+The D.N.C., however, will continue to investigate the breach, according to a statement from the chairwoman, Representative Debbie Wasserman Schultz of Florida. The committee wants to “ensure that the data that was inappropriately accessed has been deleted and is no longer in possession of the Sanders campaign,” the statement said. “The Sanders campaign has agreed to fully cooperate with the continuing D.N.C. investigation of this breach.”
+
+The Sanders campaign said it was pleased that the committee had reversed what it called an “outrageous decision.”
+
+“Now what we need to restore confidence in the D.N.C.’s ability to secure data is an independent audit that encompasses the D.N.C.’s record this entire campaign,” according to a statement from Jeff Weaver, Mr. Sanders’s campaign manager. “Transparency at the D.N.C. is essential. We trust they have nothing to hide.”
+
+On Friday, Mr. Weaver accused the party committee of stacking the scales to help Mrs. Clinton, claiming that the Sanders campaign was being unfairly penalized for the data breach. At a news conference, Mr. Weaver insisted that the campaign had dealt with the situation by firing its national data director. Later Friday, the campaign filed the federal lawsuit seeking, among other things, to have its access to the file restored.
+
+The Democratic committee is “actively” working to “undermine” the Sanders campaign, Mr. Weaver said, reflecting its longstanding frustration that the party apparatus, which is supposed to be neutral, is lining up behind Mrs. Clinton.
+
+
+
+Video
+
+Beyond the question of whether the punishment fit the act, the flare-up came as the committee has already been accused of staging the party’s debates at times of low television viewership — like the one being held Saturday night — to diminish the chances that Mrs. Clinton’s two rivals, Mr. Sanders and Martin O’Malley, will be able to raise their profiles.
+
+While Mr. Sanders’s aides sought to show themselves as insurgents being unfairly penalized by the establishment, Mrs. Clinton’s team and its allies used the issue Friday to try to puncture Mr. Sanders’s reputation as a different kind of politician.
+
+“Think if one company accessed and stole another’s customer data. This is no small thing,” wrote a supporter of Mrs. Clinton, the former Obama campaign manager David Plouffe, on Twitter. Mr. Sanders’s camp “should be careful playing the victim.”
+
+Ms. Wasserman Schultz said it was indisputable that the Sanders campaign had gained access to information that it knew it was not entitled to. If the situation were reversed, she told CNN, the Sanders campaign would expect the same type of discipline of the Clinton campaign.
+
+“The Sanders campaign doesn’t have anything other than bluster at the moment that they can put out there,” she said. “It’s like if you found the front door of a house unlocked and someone decided to go into the house and take things that didn’t belong to them.”
+
+At issue was a database of voter information, with millions of records, that the party makes available to campaigns for a fee, and is “heart and soul” of modern presidential campaigns, as the Sanders campaign put it. State parties feed the list with information including names, addresses, ethnicity if available, and voting history. Usually, public election records show which elections a person has voted in, though who they voted for is secret.
+
+The Democratic Party then adds data from commercially available lists that track such information as television habits and magazine subscriptions. They match voter names to donor lists created by both political and nonpolitical organizations.
+
+Each campaign then inputs data gathered by its own staff, gleaned from door knocks, phone calls, emails and other sources. With the data, they can assign each voter their own “score” signifying how likely they are to vote for a candidate. The scores inform everything from decisions about whose doors to knock on to which voters might donate.
+
+It is this use of the massive combination of data that drives modern campaigns, mastered by the Obama operations in 2008 and 2012, which had a team of more than 50 people poring over the information to best target their fund-raising, persuasion and voter turnout efforts.
+
+The breach occurred Wednesday when the firm that handles the list, NGP VAN, was making a tweak to its system and inadvertently dropped the firewall between the campaigns for approximately four hours, according to the court filing by the Sanders campaign. That meant that the campaigns could see each other’s information. But only the Sanders campaign gained access to data that was proprietary.
+
+
+
+Photo
+
+According to two people briefed on the matter, who spoke on the condition of anonymity to discuss a continuing review, four different user names associated with the Sanders campaign conducted 25 separate searches of the Clinton data. Audit trails of the logs show that people with the Sanders campaign searched and saved multiple files, creating new lists of their own.
+
+On a conference call with reporters, Robby Mook, Mrs. Clinton’s campaign manager, said that the Sanders team was intentionally playing down what had happened, suggesting it “may have been a violation of the law.” He was upset that the Sanders campaign was sending out fund-raising appeals accusing the party of unfair treatment.
+
+“Our data was stolen,” Mr. Mook said. “This was not an inadvertent glimpse into our data. This was not, as the Sanders campaign described it, a mistake.” Stu Trevelyan, the chief executive of NGP VAN, said that by Friday morning he was confident that no other campaigns have had “access to or have retained any voter file data of any other clients.”
+
+In its lawsuit, filed in Federal District Court in Washington, the Sanders campaign argued that the party had no right to terminate the licensing agreement that allowed the campaign access to the voter file. The campaign estimated that the loss of access would cost it $600,000 a day in contributions, a serious blow because it has “been financed primarily with contributions from individual donors rather than Political Action Committees.”
+
+“However, the damage to the campaign’s political viability, as a result of being unable to communicate with constituents and voters, is far more severe, and incapable of measurement,” the suit said.
+
+One show of support for Mr. Sanders’s case came from David Axelrod, a senior adviser for President Obama’s campaigns. He called the penalty “harsh,” saying on Twitter that, without evidence that the campaign hierarchy knew about data poaching, it appeared that the “DNC is putting finger on scale.”
+
+Josh Uretsky, the fired national data director from the Sanders campaign, also called the punishment “an overreaction” and insisted that he had merely been trying to verify the data breach, adding: “We did so in a way that we know would create a record that the D.N.C. and NGP VAN would have access to. We deliberately did not download or take custodianship of the records.” Mr. Uretsky and Mr. Sanders’s aides did not address why multiple users from the campaign searched the Clinton data.
+
+Mr. Uretsky acknowledged that Clinton data was being looked at, but said his intent was to see whether the Sanders campaign’s data might also be vulnerable.
+
+An earlier version of this article misstated the amount in donations the Sanders campaign contended it would lose if it had no access to the voter list. The amount was $600,000 a day, not $600,000 in total.

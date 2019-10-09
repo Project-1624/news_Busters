@@ -1,0 +1,24 @@
+Plan Selections by ZIP Code and County in the Health Insurance Marketplace: March 2016
+The dataset provides the total number of Qualified Health Plan selections by ZIP Code and county for the 38 states that use the HealthCare.gov platform, including the Federally-facilitated Marketplaces, State Partnership Marketplaces, and supported State-based Marketplaces, during the Marketplace’s third Open Enrollment Period (based on data for the period November 1, 2015 – February 1, 2016).
+
+The data represent the net number of unique individuals who have been determined eligible to enroll in a Marketplace plan, individuals who have been determined eligible to enroll in a Qualified Health Plan, have selected a Marketplace plan through one of the 38 states using the Healthcare.gov platform (based on data for the period November 1, 2015 – February 1, 2016), and have a non-cancelled Marketplace plan selection that includes March 2016 coverage.
+
+The 9.63 million plan selections for these 38 states were tabulated by ZIP Code and county according to the home address provided for each individual. Data for ZIP Codes with 50 or fewer plan selections and data for counties with 1 to 10 plan selections were suppressed due to privacy concerns. A total of 15,197 ZIP Codes and 2,603 counties from the 38 states are listed in the table, which account for 9,625,982 plan selections. ZIP Codes without data account for only 2 percent of the total 9.63 million plan selections, and Counties without data account for less than 0.01 percent of the total 9.63 million plan selections.
+
+The sum of plan selections among ZIP Codes and counties within a state using this dataset may not be equal to state-level totals provided in other documents. This is because plan selection counts do not appear for ZIP Codes with 50 or fewer and counties with 10 or fewer, and as a result the dataset does not include all plan selections within a state. Additionally, in a small number of cases, the state of Marketplace enrollment may not correspond to the state in the address provided — for example, individuals with a seasonal address.
+
+Variables
+
+The following information is included within the dataset:
+
+ZIP Code: the United States Postal Service ZIP Code for the home address provided by the Marketplace applicant.
+
+County Name: the county name for the home address provided by the Marketplace applicant.
+
+County FIPS: the county FIPS code for the home address provided by the Marketplace applicant.
+
+State: the state of residence selected by the Marketplace applicant.
+
+Plan Selections: the total number of unique individuals who have been determined eligible to enroll in a Qualified Health Plan, have selected a Marketplace plan through one of the 38 states using the Healthcare.gov platform (based on data for the period November 1, 2015 – February 1, 2016), and have a non-cancelled Marketplace plan selection that includes March 2016 coverage.
+
+March 2016 Zip Code Enrollment Data File

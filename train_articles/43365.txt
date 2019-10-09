@@ -1,0 +1,96 @@
+Voters in 14 states will use insecure machines
+Texas counties have doled out millions of dollars in recent months to replace thousands of old touch-screen voting machines that lack a paper record – a weakness security experts warn could allow Russians or other hackers to rig U.S. elections without detection.
+
+The problem is, many of the new machines have the same vulnerability. So do similar machines in more than a dozen states across the country.
+
+Vicki Shelly, the election administrator in San Jacinto County, Tex., north of Houston, said she received no alert from Washington or state officials before the county spent $383,000 on its new paperless touch-screen voting system made by Hart InterCivic.
+
+“Whoever’s doing all the research, it seems like we should have been in on it a little sooner,” said Shelly, one of hundreds of election officials that make up the first line of defense against attempts to tamper with U.S. election results. “Honestly, it’s very disturbing.”
+
+Cyber experts, including a team from the nation’s premier technology standards-setting lab, have warned since 2006 that hackers can plant vote-altering malware in electronic machines and some now say the cyberattacks could occur at plants where the machines are made. They say it’s crucial that touch-screen machines produce paper copies of ballots that can be audited to ensure the accuracy of electronic vote counts.
+
+But an obscure federal agency charged with issuing election guidelines for state and local officials rejected the experts’ finding in 2007, and 11 years went by before it recently took steps to reverse itself. As a result, 14 states still make at least partial use of paperless touch-screens, including the swing state of Pennsylvania. Five states — Delaware, Georgia, Louisiana, New Jersey and South Carolina – rely on them entirely, even though paper-based alternatives cost a fraction as much. In addition to Texas, counties in Arkansas, Indiana, Kansas, Kentucky. Mississippi and Tennessee also use touch screens, while 11 Florida counties use them as accessible voting machines for the handicapped to mark their ballots.
+
+That has left a gaping hole in U.S. election security heading into next fall’s midterm contests even as election officials brace for expected attacks from Russia and perhaps other countries. In February, Justice Department Special Counsel Robert Mueller brought an indictment accusing 13 Russians and three companies of elaborate cyberattacks aimed at stirring chaos and helping Donald Trump capture the White House.
+
+On March 21, U.S. Homeland Security Secretary Kirsten Nielsen ended years of federal equivocation about paperless touch-screen machines.
+
+“If there is no way to audit the election,” she told a Senate Intelligence Committee hearing, “that is absolutely a national security concern.”
+
+Congress followed up a day later by allotting $380 million in a massive spending bill to help states and counties replace outdated, vulnerable voting equipment. Still, the legislation urged, but did not require, that the money be used for machines that leave a paper trail. And the funds are being pro-rated based on states’ populations, not on where touch-screens currently are used.
+
+Many states will be unable to replace their paperless touch-screens this year due to the late date and the lack of sufficient funding, despite a chorus of warnings from U.S. intelligence officials that Russian operatives will be back after attempting in 2016 to penetrate 21 state voter databases.
+
+Fifty of the 67 counties in Pennsylvania, a pivotal state in the 2016 presidential race, use paperless machines. Acting Secretary of State Robert Torres “has confidence in the counties’ ability to administer secure elections, given the robust cyber and other security measures that are in place,” said Ellen Lyon, a spokeswoman for his office. She cited recent collaboration on security between state, county and federal officials.
+
+However, the Pennsylvania Department of State has required that all voting machines purchased from Feb. 9, 2018 forward include a paper record of each voter’s ballot.
+
+OPTIONAL TRIM
+
+South Carolina’s Board of Elections will rely again on the 14-year-old, paperless Ivotronic touch screens made by Nebraska-based Election Systems & Software that provide the state’s sole means of voting. Spokesman Chris Whitmire said the board has asked the legislature for money to replace the devices for each of the past seven years, but has been allotted just $1 million.
+
+“The system is what it is, but we continue to improve all of the security controls around that voting system,” Whitmire said, emphasizing that the machines are never connected to the Internet and undergo post-election checks before results are made official.
+
+END OPTIONAL TRIM
+
+In Georgia, state officials rely solely on 15-year-old paperless touch screens manufactured by the former voting vendor Diebold. Candice Broce, a spokesperson for Republican Secretary of State Brian Kemp, said there is “zero evidence that Georgia’s voting equipment has ever been manipulated,” that it is thoroughly tested before every election and that “any attempt at manipulation in real-world conditions would be immediately detectable.” Georgia’s election system was under contractual control of a team at Kennesaw State University until revelations last year that a computer server managing statewide voting had been breached.
+
+Hart InterCivic, the Austin-based vendor that has been selling machines across Texas, said on its web site it has shipped 7,000 of its new Verity models to Texas jurisdictions since late 2016. Company spokesman Steven Sockwell declined to say how many of those machines were paperless. He stressed that the company’s touch screens undergo independent state or federal certification tests.
+
+Self-destructing malware? Good luck with that
+
+Such assurances offer little consolation, because such “certification” tests cannot trace malware that deletes itself after tampering with vote totals, and because the vendors’ computer coding is proprietary and unavailable for public examination, said James Scott, a cyber security whiz who is advising U.S. intelligence agencies and Congress about voting security,
+
+Further, he said, the next foreign attack on U.S. voting machinery will likely be initially directed at an equipment vendor’s server before migrating to county systems and voting sites, said Scott, co-founder of the Institute for Critical Infrastructure Protection.
+
+If there is no way to audit the election, that is absolutely a national security concern. U.S. Homeland Security Secretary Kirstjen Nielsen
+
+He said the malware can poison vendors’ update servers with a “decimalization feature” -- a program to manipulate the vote outcome as desired
+
+“Then you add a second layer to the exploit that geo-targets that malware to hit swing regions of swing states,” Scott said. It embeds in the touch-screens and “carries through to the central (vote-counting) tabulator at the state level,” before destroying itself upon final tabulation.
+
+While Homeland Security officials have alerted the vendors about such a threat, Scott said, he’s seen little effort by the manufacturers to build a defense.
+
+Texas’ recent round of touch-screen purchases is one product of a cascade of government a missteps in the 18 years since the presidential election debacle of 2000 – the race between Republican George W. Bush and Democrat Al Gore that hung in the balance for 36 days in a legal battle over how to count paper punch ballots with hanging chads.
+
+Under public pressure to prevent a recurrence, Congress passed the Help America Vote Act in 2002 and shoveled more than $3 billion to the states, most of it to buy new voting equipment. However, in their urgency to fix the problem, lawmakers made a huge mistake in requiring states to upgrade their voting systems by Jan. 1, 2006. That was before cyber experts could determine what systems would be secure.
+
+In December 2006, a team of as many as 20 computer experts at the National Institute of Standards and Technology reported, after exhaustive testing, that they could find no way to verify the accuracy of votes cast on paperless touch-screens.
+
+It was knowingly wrong for Congress to appropriate funds for new systems before better standards could be written and reckless on the part of the EAC to then vote down NIST's update to the standards. Many of the current issues with voting system security could have been rectified years ago. Federal official familiar with security issues surrounding voting systems
+
+In a recommendation to the Election Assistance Commission, a federal agency that channels grants and provides election guidance to state and local officials, NIST’s team wrote that the machines’ vulnerability “is one of the main reasons behind continued questions about voting system security and diminished public confidence in elections.” By then, however, most of the federal grant money had been spent, much of it on tens of thousands of touch-screens.
+
+“It was sort of a ready, fire, aim kind of thing,” said Ron Rivest, a world-renowned computer scientist at the Massachusetts Institute of Technology who joined NIST in testing the machines. “We kind of took a wrong turn there.”
+
+In 2007, rather than addressing NIST’s recommendation, the Election Assistance Commission shelved it. The panel, led by former Republican Secretary of State Donetta Davidson of Colorado, acted after an advisory committee comprising more than 100 state and county election officials – some of whose jurisdictions had already bought touch-screens — passed a resolution declaring it “premature” to ban them.
+
+NIST still stands by its 2006 finding. Jennifer Huergo said in a statement that “auditability is a foundational requirement for voting system security, as it allows for the detection of an incorrect election outcome.”
+
+She did not comment on the decision by EAC to disregard the experts’ finding.
+
+“It was knowingly wrong”
+
+A federal official familiar with the events since 2006 still is amazed and unsettled by the government’s blunders.
+
+“It was knowingly wrong for Congress to appropriate funds for new systems before better standards could be written and reckless on the part of the EAC to then vote down NIST's update to the standards,” said this official, who was not authorized to speak publicly. “Many of the current issues with voting system security could have been rectified years ago."
+
+EAC said in a statement that states and counties have total control over elections and it serves only in an advisory role through its testing and certification program. EAC has no way, however, to guarantee that touch screens have recorded votes correctly without auditing a paper record.
+
+Susan Greenhalgh, policy director for the National Election Defense Coalition, called it “scandalous” that EAC ignored NIST’s warnings all those years.
+
+“The bottom line is that no amount of security precautions can ensure a voting system hasn't been manipulated and the election outcome is correct unless it is audited with a voter-verified paper ballot,” she said.
+
+The recent warnings arising from Russia’s attacks spurred Texas’ legislature to create a special committee on election security.
+
+But Dan Wallach, a Rice University computer scientist, said when he told the panel, “We need to retire the old voting machines, and we need to set the standards before (spending) the money,” the committee members “looked at each other and said, ‘unfunded mandate,’” a reference to federal directives that states must pay for.
+
+“And then they moved on,” he said.
+
+“The brutal truth is – and Texas is not alone in this -- is that they don’t see the urgency,” he said. “And it’s going to be expensive, so it’s not going to happen soon.”
+
+Mina Cook, elections administrator in Hunt County east of Dallas, said the county commissioners court is considering her office’s request to approve $1.5 million in new machines for the county’s 53,000 registered voters.
+
+“We have used a combination of paper and electronics since 2005,” Cook said. “The electronic that we’re using now has been spot on every time.” But told about DHS Secretary Nielsen’s declaration, she added: “The decision is not final.”
+
+As for San Jacinto County’s new machines, Elections Administrator Shelly said, “I hope and pray that if they find that … these machines are going to have a modification in order to be used, I would hope and pray that there could be some change to our existing machines so our county is not out of all that money.”

@@ -1,0 +1,48 @@
+James Kennedy
+Unlike purple and pink pigments, which were rare and expensive enough to be reserved for royalty and high-ranking clergy, yellow pigments were abundant throughout ancient history. Yellow ochre, a powdery mixture of iron oxides, has been used in cave paintings around the world for up to 80,000 years and was still being used by artists in the early nineteenth century. Saffron and turmeric were also used as yellow dyes throughout ancient history. Vincent van Gogh was using mineral yellow pigments such as cadmium yellow and chrome yellow in his mid-nineteenth century paintings. By the mid-nineteenth century, people looking for yellow pigments already had plenty of options. Despite there being no pressure from consumers for a new yellow dye, chemists trying to replicate the fame and fortune that mauveine brought to William Perkin in 1856 were experimenting eagerly in pursuit of that goal.
+
+In 1861, Mêne was reacting aniline with cold nitrous acid to produce a diazonium salt solution. He then added more aniline to the resulting salt solution and shook the flask vigorously and noticed a yellow precipitate formed at the bottom of the flask, which would later become known as ‘aniline yellow’ – the first ‘azo dye’. [1]
+
+The reaction mixture must be kept cool (at around 5 °C) because different temperatures cause different products to form. If the same reactants are mixed warm, then smelly liquid phenol and inert nitrogen gas are formed, both of which are colourless, and neither of which are useful as pigments!
+
+At the time, the ‘aniline yellow’ powder he discovered was considered useless because it didn’t dissolve in water. However, it did dissolve very well in oil. The dye eventually gained some niche uses as a microscopy stain (like fuchsine) but was never utilised by the garment or pigment industry.
+
+After staying relatively unused for over a hundred years, aniline yellow left an unfortunate legacy for itself by becoming the culprit molecule in the Spanish ‘Toxic Oil scandal’ of 1981. A batch of Spanish rapeseed oil had been denatured (deliberately adulterated) with 2% aniline yellow so the company could report it as “machine oil” and take advantage of certain tax breaks. One local refinery obtained the denatured rapeseed oil and attempted to remove the aniline yellow dye so they could sell it on as “pure olive oil” on the market for profit. They sold the oil around much of north-western Spain in unlabelled 5-litre plastic containers.
+
+The first casualty was an eight-year-old boy who died upon arrival at a hospital in Madrid on May 1st, 1981. The rest of his family then presented with an unusual set of symptoms: headache, fever, itchy scalp, lethargy and interstitial lung disease. The hospital diagnosed the family with “atypical pneumonia” and treated them all with antibiotics but they showed little improvement. [2]
+
+Across Spain, 20,000 patients presented with similar symptoms within one month of the incident. Thinking that an unexplained pneumonia outbreak was unfolding, a children’s hospital in Madrid conducted a randomised, double-blind controlled clinical trial on the effectiveness of the antibiotic erythromycin, which is particularly effective on infections of the respiratory system. [3] Unfortunately, they found no difference in recovery or mortality rates between the treated group and the control group and decided to keep looking for potential treatments.
+
+Attempting all avenues, the researchers conducted lifestyle surveys on many patients, which included (among many other things) questions about cooking oil. Sadly, even though the source of the problem was staring them in the face, the results of the oil usage survey questions came back “inconclusive”. [4]
+
+A baby ultimately solved the puzzle. Prognosis for young children was generally worse than for adults after they contracted the strange set of symptoms. Oddly, babies under six months were unaffected even if the entire rest of the family had presented with the pneumonia-like symptoms. Their infants were completely symptom-free. When one baby did get sick, however, this prompted deep and urgent questioning of the parents involved to find out what they did differently from others. One unusual aspect of the baby’s upbringing was that the baby’s grandmother had been ‘supplementing’ baby’s formula powder with cooking oil that was sold in an unlabelled 5-litre plastic container. [5]
+
+Spanish government agencies acted quickly. The Ministry of Health and Consumer Affairs issued a recall of all oil sold in unlabelled plastic bottles within 40 days of the first casualty reporting with symptoms (the 8-year-old boy). Rates of patients presenting with symptoms of Toxic Oil Syndrome, as it would later be called, plummeted after the recall was announced on June 10th, 1981.
+
+The aniline yellow had all been removed. The problem was a side-reaction, completely unknown to the scientists who were purifying the “machine oil”, that formed a new, harmful molecule that was large enough to escape their detection methods.
+
+The molecule responsible for Toxic Oil Syndrome is called “OO PAP” in scientific literature. Visual inspection of OO PAP’s structure reveals that it’s quite simply an olive oil triglyceride molecule (triolein) with one of its three fatty acid tails replaced with a large aniline group. [6] When the rapeseed oil was adulterated with 2% aniline yellow to disguise it as “machine oil”, some of the aniline yellow molecules didn’t just blend in with the oil but reacted chemically with it to make OO PAP molecules. ITH, the company who sold the de-adulterated product as “pure olive oil”, was likely unaware of this chemical reaction, and therefore (we assume) also unaware of the poisonous OO PAP that had formed in the oil. While ITH successfully removed the aniline yellow, they failed to remove the OO PAP molecules, which escaped their filtration techniques. [3] Sadly, hundreds of people died and 20,000 more were made ill from OO PAP poisoning, and financial damage was estimated by El País newspaper to be 2 billion pesetas (around 16 million US dollars today). [7] Just like the scandal of the pink fuchsine socks, government and industry were forced to work together to respond quickly to a growing public crisis.
+
+—
+
+Every chemical – regardless of whether it’s found naturally or created synthetically – has the potential to be beneficial, harmful or harmless depending on the dosage and the way that it’s used. Aniline yellow, like all other chemicals, is incredibly useful when used correctly. It’s a fantastic microscopy stain but totally unsuitable for culinary use.
+
+Today, people use aniline yellow to dye specimens for viewing under a light microscope. Aniline yellow’s dangers are stated clearly on its safety data sheets: handling it today requires training, permits, safety glasses, gloves and a lab coat to avoid all contact with skin and eyes. Now that chemistry has given us a better understanding of the aniline yellow, nobody dare use it to dye foodstuffs. [8]
+
+References
+
+[1] http://www.chemguide.co.uk/organicprops/aniline/makediazo.html
+
+[2] Paz, Manuel Posada de la. 2001. “Toxic Oil Syndrome: The Perspective after 20 Years.” Epidemiologic Reviews 231-247.
+
+[3] Gelpí, Emilio. 2002. “The Spanish Toxic Oil Syndrome 20 Years after Its Onset: A Multidisciplinary Review of Scientific Knowledge.” Environmental Health Perspectives 457-464.
+
+[4] Flores, Juan Casado. 1982. “Sindrome Toxico en Niños por Consumo de Aceites Vegetales: Modelo Clinico de la Enfermedad, en la Fase Aguda.” Pediatrika 22-26.
+
+[5] Flores, Juan Casado. 1982. “Síndrome toxico por consumo de aceite adulterado. Una encuesta alimentaria esclarecedora.” Pediatrika 17-20.
+
+[6] Paz, Posada de la. 1999. “Epidemiologic evidence for a new class of compounds associated with toxic oil syndrome.” Epidemiology 130-134.
+
+[7] El País. 1981. “2.000 millones de pesetas costará al Insalud la asistencia a los enfermos a causa del aceite.” El País 15.
+
+[8] Southern Biological. 2009. “Material Safety Data Sheet: Fuchsine.” Southern Biological. 08. Accessed 12 19, 2016. http://file.southernbiological.com/Assets/Products/Chemicals/Stains_and_Indicators-Powders/SIP4_6-Basic_Fuchsin/SIP4_6_MSDS_2009_Basic_Fuchsin.pdf.

@@ -1,0 +1,44 @@
+Gun "Silencers" Don't Make Them Anywhere Near Silent
+Myth: Gun silencers make guns nearly silent.
+
+“Silencers”, also known as “suppressors”, on guns don’t make them anywhere near silent. Silencers primarily only suppress the noise due to the pressure wave from the rapidly expanding propellant gases. This is only a portion of what makes a gunshot loud. The primary other source of noise in a gunshot is the sonic crack created by the bullet (for bullets that exceed the sound barrier, which is a large majority, unless they are modified to specifically be subsonic).
+
+Other typically minor noise makers from the gunshot are the mechanical action; the sound of the bullet striking the target; and the flight noise of the bullet itself, which typically is only audible if the bullet comes relatively close to the person hearing it (depends on the caliber of bullet for how close that needs to be). The mechanical action can be quite loud on some types of fire arms, such as a Sterling Submachine Gun, which produces over 115 dB from the firing mechanism alone. The sound of the bullet striking the target can range from mostly in-audible to every bit as loud as the original gunshot.
+
+How Much Sound Do Gun Silencers Actually Suppress
+
+Modern day silencers typically can reduce the noise about 14.3-43 decibels, depending on a variety of factors, such as whether it’s a subsonic bullet or not; length of the barrel/silencer; etc. The average suppression level, according to independent tests done on a variety of commercially available suppressors, is around 30 dB, which is around the same reduction level of typical ear protection gear often used when firing guns.
+
+That’s actually pretty significant considering the decibel system is a logarithmic scale; so, for example, 200 dB is 1000 times louder than 100 dB, not double, and a reduction of 40 dB is more like 1/100th of the original sound. However, for most commercially available fire arms and cartridges, this ends up only reducing the noise level to somewhere in the range of 130-150-ish dB for a supersonic cartridge and 117-130-ish dB for a subsonic cartridge. For reference on just how loud that is, an ambulance or police siren is typically between 100-140 dB. So this isn’t exactly the “whoosh” sound Hollywood depicts. Given that hearing loss can occur as low as 85 dB, it’s typically recommended that even with a silencer on a fire arm, that the shooter still wears some sort of hearing protection.
+
+Why Use a Gun Silencer
+
+So if they don’t make them anywhere near silent, why do people use them? It turns out, there are a lot of advantages to silencers, particularly for military usage, including:
+
+A typical reduction in recoil of around 30%, which increases accuracy and reduces firing fatigue on the person shooting.
+
+Drastically reduced flash, which can be a huge advantage for military personal, particularly in night operations or for snipers. By getting rid of most of the flash, firing won’t reveal your position from a visual standpoint. This can also be a critical feature if firing around explosive gases, particularly if, before firing each round, you put a piece of tape over the silencer opening to help prevent the gasses from entering the barrel of the gun.
+
+Silencers help significantly in masking the position of snipers, not just because of getting rid of the flash, but also for audible reasons. Snipers can effectively mask their position by positioning themselves such that the bullet will pass by large hard objects, which will reflect the “crack” sound from the supersonic bullet much more effectively than the “bang” sound from a non-suppressed shot. This will make it impossible for an observer to tell which direction the shot came from, because it will sound like it’s coming from every direction in a perfectly chosen environment. Wolves actually use a similar technique in modulating their howls to make it sound like there is a huge pack of wolves surrounding something, instead of just one or two.
+
+Suppressors change the perceived sound of a gunshot enough that most people wouldn’t recognize it as such, particularly in a city environment where there are numerous ambient noises.
+
+Firing an unsuppressed gun in a small closed area, such as a bedroom or the like, can permanently damage hearing due to the noise being reflected back at the shooter at close range; this can also disorient the person firing the weapon. Using a silencer significantly reduces this risk.
+
+How Gun Silencers Work
+
+Gun suppressors work primarily by slowing the release of the propellant gases, resulting from firing a bullet, and converting some of the noise energy to heat. The latter method is achieved by trying to trap or direct the sound through specially designed chambers or baffles; the sound is then ultimately converted to heat in these chambers. The former method is achieved by expansion of the cavity the air is being rushed through, typically by just making the chamber diameter bigger than the barrel’s diameter and by creating turbulence as the air rushes through the suppressor.
+
+Some of the most advanced suppressors will also try to get rid of some of the sonic crack by either shifting the phase of the sound, to get it out of human range, or reflecting it back onto itself, to try to cancel it out (frequency shifting and phase cancellation). However, neither of these methods are terribly effective, to date. The phase cancellation is particularly difficult because of dealing with a wide range of sound waves, rather than pure tones. Silencer manufactures claim to have effective phase cancellation, but, to date, this isn’t backed up by any real independent scientific evidence and seems to be more just a marketing tool.
+
+If you liked this article, you might also enjoy our new popular podcast, The BrainFood Show (iTunes, Spotify, Google Play Music, Feed), as well as:
+
+Bonus Facts:
+
+Although snipers can use a silencer and large solid objects to help reflect the sonic crack to mask their location, the U.S. currently has a “Boomerang” system, which deploys a series of microphones around a potential sniper target area. This system can almost instantly locate the origin of any gunshot within the system’s sensor range.
+
+The first silencer was invented by Hiram Maxim, in 1910. Maxim supposedly got the idea for a gun silencer after flushing a toilet and watching the water spin away. He then thought he could create a similar effect except swirling sound, which he theorized would reduce the sound of a gun blast.
+
+Car mufflers were designed around the same time as gun suppressors and both use many of the same techniques for reducing noise.
+
+Expand for References:

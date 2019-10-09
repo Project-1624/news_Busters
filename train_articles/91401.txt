@@ -1,0 +1,98 @@
+Observational Errors and Global Average Temperature Statistics
+San José State University
+
+applet-magic.com
+
+Thayer Watkins
+
+Silicon Valley
+
+& Tornado Alley
+
+USA
+
+Observational Errors and
+
+Global Average Temperature Statistics
+
+One of the frustrations in trying to obtain statistically valid conclusions concerning the time trend of global average temperature is the absence of any measures of the degree of accuracy of the temperature figures. Everyone recognizes that the temperature measurements for the middle of of the 19th century are less accurate than the ones in the 20th century which in turn may be less accurate than the more recent measurements in the 21st century. However, apparently even the compilers of the average global temperature figures do not know the relative accuracies.
+
+Without more concrete information on this matter one cannot justifiably say whether some meteorological characteristic has really changed or not.
+
+Example of the Importance of the
+
+Degree of Accuracy of Measurements
+
+Consider the statistics on polar bear populations. In 1950 the population of polar bears was down to an estimated five thousand. This was due to over-hunting. The nations possessing polar bear population began to restrict the hunting of them and by 1970 the population was up to the ten thousand level. In 1973 the polar bear nations formalized the arrangement for protecting polar bears with a treaty. Thanks to the treaty restrictions on hunting the population had climbed to a level of about twenty five thousand.
+
+Any estimate should be accompanied by a margin of error figure. The twenty five thousand could be plus or minus five thousand or it could be plus or minus one thousand. It makes a great deal of significance.
+
+In recent years the population estimate figure has been about 23.5 thousand. That may or may not mean a decline in the polar bear population. It all depends up on the accuracy of the estimates for the two years.
+
+Suppose the degree of accuracy figure for the 1973 25 thousand figure is represented by a standard deviation of 3 thousand and the 2005 23.5 thousand figure is 1 thousand. Roughly one could say that the 1973 figure covered a range from 22 to 28 thousand whereas the 2005 figure covered a range from 22.5 to 24.5 thousand. Since these range overlap one can see that possible the population has not declined.
+
+The more rigorous approach is to compute the standard deviation of the difference of the two figures. The standard deviation of a difference is the square root of the sum of the squares of the individual standard deviations; i.e.,
+
+st.dev. of difference = (3*3+1*1)½
+
+= √10 = 3.16 thousand
+
+The difference of the two population figures is −1.5 thousand. The ratio of this to the standard deviation of the difference is .474. This is called the t-ratio for the difference. For the difference to be significantly different from zero at the 95 percent level of confidence the t-ratio has to be about 2 or greater in magnitude. Thus with the standard deviations assumed there is not evidence that the population of polar bears has decreased.
+
+The concern with the accuracy of the early temperature measurements is that the standard deviation of the difference is skewed by the larger standard deviation. Even when the beginning and end figures have the same degree of accuracy the difference may not be statistically significant. For equally accurate data points the standard deviation of the difference is √2=1.414 times the standard deviation of the individual measurements.
+
+The difference in temperature between 1850 and the present is about 0.7°F. The thermometers of the 1850's probably could not be read to 0.1 of a degree. The fact that the global average temperature is an average improves the accuracy greatly. The different observational errors tend to average out. In general the standard deviation of an average of n independent observation is 1/√n of that of an individual observation.
+
+An Alternate Approach to Identifying
+
+the Observational Error Component
+
+of the Temperature Series
+
+The dynamics of the temperature of a physical body is given by an equation of the form
+
+C(dT/dt) = H(t) − αT
+
+where T is the temperature anomaly, the deviation from the long term average temperature. H(t) is the net heat inflow and C is the heat capacity of the body. The term αT is derived from the radiation of energy from a body. The radiation is proportional to the fourth power of the absolute temperature but this can approximated by linear term αT.
+
+The net heat inflow may be cyclical. For the Earth's surface there is the daily cycle and the seasonal cycle.
+
+One fruitful method for analyzing and solving such differential equations is using the Fourier transform. The Fourier transform is a method of decomposing a times series into the sum of cycles of different frequencies. The functional relationship between the amplitude of the cycles and the frequency is called the spectrum. When the Fourier transform is applied to the above equation the result is
+
+iCωF T (ω) = F H (ω) − αF T (ω)
+
+which can be put into the form
+
+F T (ω) = F H (ω)/(iCω+α)
+
+where ω is the frequency and i is √-1.
+
+The above equation gives a way of expressing the solution for T(t) in terms of H(t). This is not the object of the analysis at this point. The object is the spectrum of the temperature. The last expression says that the spectrum for T is the spectrum for H divided by a function of ω.
+
+The problem is that we do not ever know T(t) directly. What we have is T'(t), the observed temperature, which is the actual temperature T plus an observational error; i.e.,
+
+T'(t) = T(t) + v
+
+The observational error v may be considered to be white noise. The spectrum of white noise is just a constant over some range of frequency ω
+
+The spectrum of the observed temperature F T' is then given by
+
+F T' = F T + h
+
+Therefore the spectrum of the observed temperature T' is
+
+F T' = F H /(iCω+α) + h
+
+This means that the effect of the observational error is to shift the spectrum upward by an amount h. The part derived from the heat inflow H may be going asymptotically to zero because of the division by the term involving ω but the white noise element provides a floor. There is a limit to the white noise spectrum because the frequency cannot go to infinity.
+
+Empirical Results
+
+An estimate was made of the spectrum of the average global temperature using the annual data for 1850 to 2003.
+
+There is the indication of an asymptotic limit above zero in this spectrum.
+
+The phenomenon of the peak at zero and the high values near zero is a manifestation of the fact that the average value is not zero. When the mean value is computed and subtracted from each datum the spectrum for the result is shown below.
+
+This improved estimate of the spectrum stills shows evidence of an asymptotic limit above zero.
+
+(To be continued.)

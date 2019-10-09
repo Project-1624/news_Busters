@@ -1,0 +1,28 @@
+State & Local Finance Data Query System (SLF-DQS)
+This system allows flexible presentation of data from the Census of Governments State and Local Finance series. This tool is useful for comparative, single state, or time series analysis. Variables: Detailed revenue, expenditure, and debt
+
+Years: 1977-2016
+
+Type of government: State, local, state and local totals, and local government detail
+
+Units: Dollars (real or nominal), per capita, or fraction of personal income, general revenues or total expenditures All data represent state aggregates of finance data for the selected level of government. To Use: Click on "Create a Table!" to begin making tables. On each tab, select desired options and click on "Next >>". If you need help, click on the ? box buttons. If you experience any problems or have comments or suggestions, please email info@taxpolicycenter.org
+
+
+
+Pre-Made Tables
+
+
+
+Data Definitions
+
+
+
+Technical Appendix
+
+
+
+External Links
+
+
+
+Caution: Queries involving a large combination of states, years and variables will be presented in a standard format to deal with a large number of data points. Smaller queries (less than 600 data points) will allow the user to modify and customize tables. To obtain the entire set of State and Local Government Finance data, please visit https://www.census.gov/programs-surveys/gov-finances.html

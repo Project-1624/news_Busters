@@ -1,0 +1,380 @@
+Technical paper: federal carbon pricing backstop
+Carbon levy rates will initially be set for the period from 2018 to 2022. Rates for each fuel subject to the levy will be set such that they are equivalent to $10 per tonne of CO2e in 2018 and increase by $10 per tonne annually to $50 per tonne in 2022. The rates will be based on global warming potential factors and emission factors Footnote 5 used by Environment and Climate Change Canada to report Canada's emissions to the UNFCCC, and will be expressed in standard commercial units to facilitate the compliance with, and the administration of, the levy. Tables 1 to 3 below show the rates for liquid fuels, gaseous fuels, and solid fuels, respectively, over the initial 5-year period.
+
+Fossil fuels that will be subject to the levy include liquid fuels (e.g., gasoline, diesel fuel, and aviation fuel), gaseous fuels (e.g., natural gas) and solid fuels (e.g., coal and coke).
+
+For both components of the backstop, emissions will be converted to a CO 2 e basis. For the levy, rates will be set out under the relevant legislation and will be based on the Canadian average CO 2 e emission factor for a fossil fuel (where factors differ by region for that fuel) and the technology that is most commonly used to combust that fuel. For the output-based pricing system, regulated entities will use the same factors to calculate their emissions following a methodology that will be specified in regulations.
+
+Both the carbon levy and the output-based pricing system will price carbon on a CO 2 e basis. The United Nations Framework Convention on Climate Change (UNFCCC) reporting requirements apply to seven greenhouse gases (GHGs). Footnote 4 Each of these gases has a different impact on the climate. The use of CO 2 e is the internationally-recognized approach to establishing a standard carbon price (e.g., $10/tonne of CO 2 e) and translating that price to the appropriate price for each greenhouse gas. More detail on the calculation of CO 2 e is provided in Annex 1.
+
+As committed in the October 3, 2016 document Pan-Canadian Approach to Pricing Carbon Pollution, the federal system will return direct revenues from the carbon price to the jurisdiction of origin. The federal government is open to feedback on the best mechanism to achieve this.
+
+All elements of the backstop will apply in a jurisdiction that does not have a carbon pricing system in place. The backstop will also supplement (or “top-up”) systems that do not fully meet the benchmark. For example, the backstop could expand the sources covered by provincial carbon pollution pricing or it could increase the stringency of the provincial carbon price.
+
+The federal government plans to introduce new legislation and regulations to implement a carbon pollution pricing system – the backstop – to be applied in jurisdictions that do not have carbon pricing systems that align with the benchmark.
+
+The Pan-Canadian Framework includes a commitment for a review of the overall approach to pricing carbon by early 2022 to confirm the path forward. An interim report will also be completed in 2020, which will be reviewed and assessed by First Ministers. As an early deliverable, the review will assess approaches and best practices to address the competitiveness of emissions-intensive, trade-exposed sectors.
+
+The pan-Canadian approach to pricing carbon pollution provides jurisdictions the flexibility to implement either an explicit price-based system (a carbon tax such as the one in British Columbia, or a hybrid approach composed of a carbon levy and an output-based pricing system, such as in Alberta) or a cap-and-trade system (such as those in Quebec and Ontario).
+
+On October 3, 2016, the Government of Canada released “The pan-Canadian approach to pricing carbon pollution” – the benchmark Footnote 3 – outlining the criteria that carbon pricing systems implemented by provinces and territories need to meet. The goal of the benchmark is to ensure that carbon pollution pricing applies to a broad set of emission sources with increasing stringency over time in order to reduce GHG emissions at lowest cost to business and consumers and support innovation and clean growth.
+
+Interested parties are invited to provide written comments to Environment and Climate Change Canada ( carbonpricing-tarificationcarbone@canada.ca ) on or before June 30, 2017. There will be further opportunities to provide input as the details of the system are developed.
+
+This technical discussion paper seeks to inform Canadians and stakeholders about the federal carbon pricing backstop and to obtain feedback on its design.
+
+In October 2016, the federal government published a benchmark for ensuring that carbon pricing applies to a broad set of emission sources throughout Canada by 2018 with increasing stringency over time. Footnote 2 This benchmark provides provinces and territories with flexibility to implement their own carbon pollution pricing systems. In the benchmark, the federal government also committed to implement a federal carbon pricing backstop system that will apply in any province or territory that does not have a carbon pricing system in place by 2018 that aligns with the benchmark.
+
+Pricing carbon pollution is widely recognized as an efficient way to reduce GHG emissions and help achieve our objectives to protect the environment, stimulate investments in low-carbon innovation and create a sustainable clean-growth economy. Carbon pricing sends an important signal to markets and provides incentives to reduce energy use through conservation and efficiency measures, while also serving to drive fuel switching and technology advances. Applying carbon pricing to a broad set of emission sources across Canada, with increases in stringency over time, will help to reduce GHG emissions at the lowest cost to businesses and consumers, while supporting clean growth.
+
+The Pan-Canadian Framework on Clean Growth and Climate Change is Canada's plan to grow the economy while reducing greenhouse gas (GHG) emissions and building resilience to adapt to a changing climate. Footnote 1 A central component of the Pan-Canadian Framework is the commitment to pricing carbon pollution across the country by 2018.
+
+Application of the carbon levy
+
+In general, the levy will apply to fuels that are used in a backstop jurisdiction, irrespective of whether the fuels were produced in, or brought into, the backstop jurisdiction.
+
+In most cases, the levy will be applied early in the supply chain of each fuel used in a backstop jurisdiction, and will be payable by the producer or distributor. The final user of a fuel will not generally have any special rights or obligations in respect of the levy, as the user will purchase levy-paid fuel in most cases.
+
+Fuel producers and certain distributors will be able to acquire and hold fuel without the levy being payable until the fuel is subsequently used by the producer or distributor, or, as discussed later, delivered to a final retailer or end-user.
+
+For purposes of the levy, use will generally include fuel that is combusted, vented or flared.Footnote 6 Fuel used as a raw material, diluent or solvent in a manufacturing or petrochemical process in a manner that does not produce heat or energy will not be subject to the carbon levy.Footnote 7
+
+This general approach will be achieved by a series of application rules and registration requirements that are presented below.
+
+Application framework of the carbon levy
+
+Generally, the levy will apply to fuel that is produced, imported or brought into a backstop jurisdiction.
+
+For the purposes of the levy, there will be four categories of persons within the fuel supply chain: Registered Fuel Distributors, Registered Fuel Importers,Registered Fuel Users, and other non-registered persons.
+
+Registered Fuel Distributors will generally be producers of fuel, large wholesale distributors of fuel, and natural gas retailers.
+
+Registered Fuel Importers will be entities that cannot become Registered Fuel Distributors and that import fuel from outside Canada at a location in a backstop jurisdiction, or that bring fuel into a backstop jurisdiction from another jurisdiction in Canada.
+
+Registered Fuel Users will be persons that cannot become Registered Fuel Distributors and that are required to report on fuel used in a backstop jurisdiction and, in certain circumstances, may be required to pay the levy Footnote 8 or be entitled to claim relief from the levy, where it has been previously paid. Registered Fuel Users will include inter-jurisdictional commercial transportation operators, and entities operating a facility covered by the output-based pricing system.
+
+or be entitled to claim relief from the levy, where it has been previously paid. Registered Fuel Users will include inter-jurisdictional commercial transportation operators, and entities operating a facility covered by the output-based pricing system. Non-registered persons will generally be retailers (other than natural gas retailers) and end-users, including individuals and business consumers.
+
+The levy will generally be payable when a Registered Fuel Distributor uses fuel in a backstop jurisdiction or delivers fuel to a person in the backstop jurisdiction that is not a Registered Fuel Distributor. Consequently, a Registered Fuel Distributor will be able to deal in fuel with other Registered Fuel Distributors without the levy being payable.
+
+The levy will generally apply to fuel when it is imported or brought into the backstop jurisdiction by a Registered Fuel Importer. However, the levy will not be payable by a Registered Fuel Importer if the Registered Fuel Importer delivers the fuel to a person in the backstop jurisdiction that is a Registered Fuel Distributor, or delivers the fuel outside the backstop jurisdiction in a timely manner.
+
+Registered Fuel Users that are operators of a facility covered by the output-based pricing system may be able to acquire fuel without the levy being payable, if the fuel is for use at that facility. Registered Fuel Users that are inter-jurisdictional commercial transportation operators will generally acquire fuel in a backstop jurisdiction on which the levy has been paid, except in limited circumstances as described below.
+
+Generally, non-registered persons will acquire fuel on which the levy has been paid.
+
+Fuels produced in a backstop jurisdiction
+
+In the case of fuel that is produced by a Registered Fuel Distributor and used by that Registered Fuel Distributor in a backstop jurisdiction, the levy will become payable by the Registered Fuel Distributor at the time that it is used. In this case, the levy will be reported to the Canada Revenue Agency (CRA) by the Registered Fuel Distributor through a return and remitted to the Receiver General of Canada.
+
+In the case of fuel that is produced by a Registered Fuel Distributor in a backstop jurisdiction and delivered to a purchaser in a backstop jurisdiction that is not a Registered Fuel Distributor, the levy will become payable by the Registered Fuel Distributor upon delivery to the purchaser. In this case, the levy will be reported to the CRA by the Registered Fuel Distributor through a return and remitted to the Receiver General of Canada. However, if the fuel is delivered to a purchaser that is another Registered Fuel Distributor, the levy will not become payable on that transaction. Instead, the levy will become payable by that other Registered Fuel Distributor at the time the fuel is used by that other Registered Fuel Distributor in a backstop jurisdiction, or at the time the fuel is subsequently delivered in a backstop jurisdiction to a person that is not a Registered Fuel Distributor.
+
+For example, if a Registered Fuel Distributor, such as an entity operating an oil refinery, delivers gasoline to another Registered Fuel Distributor, such as a wholesale distributor, then the levy will not be payable upon that delivery of the fuel. Rather, the levy will become payable when that other Registered Fuel Distributor (i.e., the wholesaler) delivers the fuel in a backstop jurisdiction to a purchaser that is not a Registered Fuel Distributor, such as a retail gas station.
+
+The levy will not be payable on fuel that is produced by a Registered Fuel Distributor in a backstop jurisdiction and that is delivered outside a backstop jurisdiction.
+
+For example, gasoline that is produced in a refinery that is operated by a Registered Fuel Distributor in a backstop jurisdiction would ultimately not be subject to the levy if that gasoline is delivered outside a backstop jurisdiction.
+
+Fuels brought into a backstop jurisdiction from another jurisdiction in Canada
+
+Generally, anyone that brings fuel into a backstop jurisdiction from another jurisdiction in Canada will be required to register as either a Registered Fuel Distributor or, if they do not meet the minimal volume threshold or other requirements to become a Registered Fuel Distributor, as a Registered Fuel Importer.
+
+A Registered Fuel Distributor will be able to bring fuel into a backstop jurisdiction on a levy-deferred basis. The levy will become payable by the Registered Fuel Distributor only at the time it uses the fuel in the backstop jurisdiction or delivers it in the backstop jurisdiction to a person that is not a Registered Fuel Distributor. In either case, the Registered Fuel Distributor will report to the CRA through a return and remit the levy to the Receiver General of Canada. If the fuel is instead delivered to another Registered Fuel Distributor, no levy will be applied to that transaction. The levy will become payable when the Registered Fuel Distributor that acquired the fuel uses it or delivers it to another person, unless that other person is another Registered Fuel Distributor.
+
+Registered Fuel Importers will generally not be able to bring fuel into a backstop jurisdiction and hold it on a levy-deferred basis. The levy will apply to fuel that is brought into a backstop jurisdiction by a Registered Fuel Importer at the time the fuel is brought in. In this case, the Registered Fuel Importer will report to the CRA through a return and remit the levy to the Receiver General of Canada. However, if the Registered Fuel Importer brings in the fuel for delivery to a Registered Fuel Distributor, the levy will not become payable by the Registered Fuel Importer. The levy will become payable when the Registered Fuel Distributor that acquired the fuel uses it or delivers it to another person in the backstop jurisdiction, unless that person is also a Registered Fuel Distributor. If fuel is brought into a backstop jurisdiction by a Registered Fuel Importer for delivery to a Registered Fuel Distributor but is subsequently diverted for use in the backstop jurisdiction or delivery in the backstop jurisdiction to a person that is not a Registered Fuel Distributor, then the levy will become payable upon that use or delivery.
+
+There will be special bringing-in rules for Registered Fuel Users that are inter-jurisdictional carriers, which are described below.
+
+The levy will generally not be applicable on fuel that is brought into a backstop jurisdiction if the fuel is subsequently delivered outside the backstop jurisdiction in a timely manner. For example, the levy will not become payable if the fuel is merely in transit through a backstop jurisdiction, such as gasoline transiting in a tanker truck from one province to another through a backstop jurisdiction. If fuel is brought into a backstop jurisdiction by a Registered Fuel Importer for delivery outside the backstop jurisdiction but is subsequently diverted for use in the backstop jurisdiction or for delivery in the backstop jurisdiction to a person that is not a Registered Fuel Distributor, then the levy will become payable upon that use or delivery.
+
+Fuels imported into Canada at a location in a backstop jurisdiction
+
+Generally, anyone that imports fuel into Canada at a location in a backstop jurisdiction will be required to register as either a Registered Fuel Distributor or, if they do not meet the requirements of a Registered Fuel Distributor, as a Registered Fuel Importer.
+
+Registered Fuel Distributors will be able to import fuel into a backstop jurisdiction on a levy-deferred basis. The levy will apply upon importation into Canada, but will become payable by the Registered Fuel Distributor that imported the fuel only at the time it uses the fuel in the backstop jurisdiction or at the time it delivers the fuel in the backstop jurisdiction to a person that is not a Registered Fuel Distributor. In this case, the Registered Fuel Distributor will report to the CRA through a return and remit the levy to the Receiver General of Canada. If the fuel is delivered outside a backstop jurisdiction, the levy will not become payable. If the fuel is instead delivered to another Registered Fuel Distributor, the levy will become payable when the other Registered Fuel Distributor uses it or delivers it to another person, unless that other person is also a Registered Fuel Distributor.
+
+If a Registered Fuel Importer imports fuels for its own use in a backstop jurisdiction or for delivery in a backstop jurisdiction to a person that is not a Registered Fuel Distributor, then the levy will become payable at the time of importation. In this case, the Registered Fuel Importer will report to the CRA through a return and remit the levy to the Receiver General of Canada (i.e., the levy is not collected at the border upon importation).
+
+If a Registered Fuel Importer imports the fuel for subsequent delivery outside the backstop jurisdiction in a timely manner, the levy will not be payable. If fuel is imported by a Registered Fuel Importer for delivery outside the backstop jurisdiction but is subsequently diverted for use in the backstop jurisdiction or for delivery in the backstop jurisdiction to a person that is not a Registered Fuel Distributor, then the levy will become payable upon that use or delivery.
+
+If a Registered Fuel Importer imports fuel for delivery to a Registered Fuel Distributor, the levy will not become payable by the Registered Fuel Importer. The levy will become payable by the Registered Fuel Distributor when it uses the fuel or delivers it to another person in the backstop jurisdiction, unless that other person is also a Registered Fuel Distributor. If fuel is imported by a Registered Fuel Importer for delivery to a Registered Fuel Distributor but is subsequently diverted for use in the backstop jurisdiction or delivery in the backstop jurisdiction to a person that is not a Registered Fuel Distributor, then the levy will become payable upon that use or delivery.
+
+If a non-registered person imports fuel at a location in a backstop jurisdiction, the person will report directly to the Canada Border Services Agency upon importation and remit the levy to the Receiver General of Canada at that time (i.e., the levy will be collected at the border upon importation).
+
+Fuels imported into Canada at a location other than in a backstop jurisdiction for delivery in a backstop jurisdiction
+
+Similar rules will apply to fuel that is imported into Canada at a location outside of a backstop jurisdiction if the fuel is for delivery in a backstop jurisdiction. For example, if a Registered Fuel Distributor imports gasoline into Canada at a location in a non-backstop jurisdiction, but the fuel is for delivery to a backstop jurisdiction, the levy will not be payable until the fuel is used in the backstop jurisdiction by the Registered Fuel Distributor, or is delivered to a person in the backstop jurisdiction that is not a Registered Fuel Distributor. In this case, the levy will be reported to the CRA by the Registered Fuel Distributor through a return and remitted to the Receiver General of Canada.
+
+If a non-registered person imports gasoline into Canada at a location in a non-backstop jurisdiction, but the gasoline is for delivery to a backstop jurisdiction, the person will report directly to the Canada Border Services Agency upon importation and remit the levy to the Receiver General of Canada at that time.
+
+Application of the carbon levy to natural gas
+
+In addition to upstream entities that produce natural gas (e.g., gas batteries, gas production plants) in a backstop jurisdiction, natural gas retailers that deliver natural gas in a backstop jurisdiction will be required to become Registered Fuel Distributors.
+
+The carbon levy will generally not be payable on natural gas until it is delivered to a final user (e.g., delivered to residential homes), at which time the levy will generally become payable by the natural gas retailer that delivers the fuel.
+
+Where transactions occur in a backstop jurisdiction between natural gas distributors or producers, the levy will generally not be payable, as these would typically be transactions between Registered Fuel Distributors.
+
+The levy will apply to natural gas that is used by a Registered Fuel Distributor in the natural gas supply chain and become payable by the Registered Fuel Distributor at the time the fuel is used. If a Registered Fuel Distributor delivers fuel to a person that is not a Registered Fuel Distributor, the levy will become payable by the Registered Fuel Distributor at the time the fuel is delivered.
+
+Generally, the levy will not become payable on natural gas that is delivered outside a backstop jurisdiction.
+
+Relief from the carbon levy
+
+There will be certain situations in which relief from the levy will be provided, including in respect of:
+
+fuel used at a facility whose emissions are accounted for under the output-based pricing system (once it comes into effect)
+
+gasoline and diesel fuel used by registered farmers in certain farming activities
+
+fuel exported or removed from a backstop jurisdiction
+
+fuel used as international ships' stores (e.g., international aviation and marine fuels)
+
+in specified circumstances, fuel used as a raw material, diluent or solvent in a manufacturing or petrochemical process in a manner that does not produce heat or energy
+
+fuel purchased by visiting military forces and diplomatic representatives
+
+fuel in sealed, pre-packaged containers of one litre or less
+
+biofuel portion of blended fuels (e.g., for gasoline or diesel blended with biofuels, the levy will apply to only the fossil fuel content)
+
+The Government will develop a mechanism for providing relief (e.g., exemption certificate, rebate) for each of these circumstances.
+
+Registration requirements
+
+As noted above, certain persons will be required to register with the CRA as a Registered Fuel Distributor, a Registered Fuel Importer or a RegisteredFuel User.
+
+The registrations will be administered on a fuel-by-fuel basis. Therefore, the registration status of a person may differ per type of fossil fuel subject to the levy.
+
+Registered fuel distributors
+
+Generally, all producers of fuels covered by the carbon levy operating within a backstop jurisdiction will be required to be registered as a fuel distributor with the CRA. This will include oil refiners and coal mine operators.
+
+Large wholesale distributors (e.g., entities whose business essentially consists of purchasing fuels for purpose of resale other than at retail and above a specified annual volume threshold) of fossil fuels operating within a backstop jurisdiction will be able to become Registered Fuel Distributors. Generally, wholesale distributors of fuels are entities that purchase fuels for purpose of re-sale in a backstop jurisdiction to entities other than end-users. An entity will be considered a wholesale distributor and required to become a Registered Fuel Distributor, whether it acquires fuel from within the backstop jurisdiction or whether it imports or brings-in the fuel from another jurisdiction.
+
+In addition to upstream entities that produce natural gas, natural gas retailers that deliver natural gas in a backstop jurisdiction will be required to become Registered Fuel Distributors.
+
+In addition to the requirements noted above, there will be some restrictions on who will be able to become a Registered Fuel Distributor. For example, entities that will be considered as Registered Fuel Distributor of some fuels, including gasoline and diesel, may be restricted to those entities that deal in fuel above a specified quantity. In other words, for some fuel types, if an entity does not satisfy the specified minimum quantity requirement, it may not be eligible to become or to continue to be a Registered Fuel Distributor. Also, retailers and end-users will generally not be able to become Registered Fuel Distributors.
+
+Registered fuel importers
+
+Generally, any person that is not able to become a Registered Fuel Distributor and that imports fuel into Canada for delivery or use in a backstop jurisdiction or that brings fuel into a backstop jurisdiction from another jurisdiction in Canada will be required to become a Registered Fuel Importer.
+
+However, a person that brings in or imports 200 litres or less will generally not be subject to this requirement.
+
+Registered fuel users
+
+Some persons will be required to become Registered Fuel Users, including the following:
+
+commercial carriers (e.g., operators of transport trucks, operators of rail transportation, operators of marine transportation, air carriers) that operate in a backstop jurisdiction and at least one other jurisdiction
+
+an operator of a facility whose emissions are covered under the output-based pricing system
+
+certain businesses that burn waste that is subject to the carbon levy (e.g., tires, asphalt shingles) in a backstop jurisdiction
+
+
+
+certain businesses that use fuel as a raw material, diluent or solvent in a manufacturing or petrochemical process in a manner that does not produce heat or energy
+
+Inter-jurisdictional commercial transportation requirements
+
+Commercial carriers (i.e., persons transporting passengers, freight, or both) that operate in a backstop jurisdiction, and in at least one other jurisdiction, will be required to be registered with the CRA as Registered Fuel Users.
+
+Road and rail
+
+For fuels consumed in commercial road and rail transportation, the levy will apply to only the fuel that is used within a backstop jurisdiction. In other words, the levy will apply both to fuel that is used during a journey that starts and ends in the same jurisdiction (intra-jurisdictional travel) and to fuel that is used during the portion of an inter-jurisdictional or international journey that occurs in a backstop jurisdiction.
+
+Inter-jurisdictional road and rail carriers will purchase fuel in a backstop jurisdiction with the levy embedded.
+
+These carriers will also be required to pay the carbon levy on fuel that was purchased outside the backstop jurisdiction, brought into the backstop jurisdiction and used in the backstop jurisdiction. Conversely, they will be entitled to relief for fuel that is purchased in the backstop jurisdiction but used outside the jurisdiction.
+
+To this end, inter-jurisdictional road and rail carriers will be required to file a return with the CRA and report fuel purchases made inside and outside each backstop jurisdiction, as well as the distance travelled inside and outside each backstop jurisdiction in order to self-assess the amount of carbon levy owing, or amount of relief to the carrier, as the case may be.
+
+All truck operators and commercial buses – domestic and international – that transit through a backstop jurisdiction will be required to register with CRA, report on levy paid and payable and file regular returns.
+
+Marine
+
+For fuels consumed in commercial marine transportation, the levy will only apply to fuel used in intra-jurisdictional travel. In other words, the levy will only apply to fuel used for commercial marine transportation that occurs between two points in the backstop jurisdiction.
+
+Marine carriers in a backstop jurisdiction will generally purchase fuel with the levy embedded. They will file regular returns and will be entitled to relief for levy paid on fuel that is used in inter-jurisdictional journeys (e.g., trips between a point in the backstop jurisdiction and a point outside the backstop jurisdiction).
+
+Further, these carriers will be required to self-assess on fuels purchased without the levy previously applied and used in intra-jurisdictional journeys. For example, if a ship ends a journey in a backstop jurisdiction with unused fuel and subsequently makes an intra-jurisdictional journey using that fuel, the marine carrier is required to self-assess on the fuel used in that journey.
+
+For fuel that is destined for international ships' stores, fuel could be delivered without the levy being payable if delivered by a Registered Fuel Distributor. If the fuel used for international ships' stores had levy embedded, relief will be provided for that fuel.
+
+Aviation
+
+To date, provinces that have introduced carbon pricing systems have either not covered GHG emissions from aviation fuels at all or not applied the carbon price to aviation fuels used in inter-jurisdictional flights within Canada. The Government recognizes that this exemption may have been made to address competitiveness concerns for local airports. The introduction of carbon pricing in all Canadian provinces and territories eliminates these inter-jurisdictional competitiveness concerns and presents an opportunity for this important source of GHG emissions to be covered across Canada. The federal government will engage with provincial and territorial governments and stakeholders to ensure that this emission source is properly covered, through a consistent national approach, and to determine which role the backstop should play in this regard, including in jurisdictions that have a carbon pricing system in place.
+
+In the meantime, for fuels consumed in commercial aviation transportation, the backstop levy will only apply to fuel used in intra-jurisdictional travel. In other words, the levy will only apply to fuel used for commercial aviation transportation that occurs between two points in the backstop jurisdiction.
+
+Air carriers in a backstop jurisdiction will generally purchase fuel with the levy embedded. They will file regular returns and will be entitled to relief for levy paid on fuel that is used in inter-jurisdictional journeys (e.g., trips between a point in the backstop jurisdiction and a point outside the backstop jurisdiction).
+
+Further, these carriers will be required to self-assess on fuels purchased without the levy previously applied and used in intra-jurisdictional journeys. For example, if an aircraft lands in a backstop jurisdiction with unused fuel and subsequently makes an intra-jurisdictional journey using that fuel, the air carrier is required to self-assess on the fuel used in that journey.
+
+For fuel that is destined for international ships' stores, fuel could be delivered without the levy being payable if delivered by a Registered Fuel Distributor. If the fuel used for international ships' stores had levy embedded, relief will be provided for that fuel.
+
+Transitional rules and rules related to rate changes
+
+Persons that are required to register with the CRA will be able to do so on a provisional basis prior to the implementation date of the carbon levy.
+
+Any person that possesses a quantity of fuel in a backstop jurisdiction that exceeds a minimum threshold on the implementation date of the levy will be required to self-assess and remit the levy on fuel in their possession. However, this requirement would not apply to a Registered Fuel Distributor that is registered as of the implementation date.
+
+Registered Fuel Distributors will be required to pay the levy on fuel that is delivered in a backstop jurisdiction on or after the implementation date to a person, unless that person is a Registered Fuel Distributor.
+
+Similarly, in respect of rate increases that occur after 2018, any person that possesses a minimum quantity of fuel in a backstop jurisdiction on the implementation date of a rate increase will be required to assess and remit the levy on fuels in their possession. This requirement would not apply to a Registered Fuel Distributor that is registered as of the implementation date of a rate increase.
+
+Also, in respect of future rate increases, Registered Fuel Distributors will be required to pay the levy at the new rate on fuel that is delivered to a person in a backstop jurisdiction, unless that person is a Registered Fuel Distributor, on or after the implementation date of a rate increase.
+
+Administrative aspects
+
+Every Registered Fuel Distributor, Registered Fuel Importer and Registered Fuel User will be required to file monthly returns with the CRA. Registered persons will need to calculate in the return the total amount of levy payable for each backstop jurisdiction and remit that amount to the Receiver General of Canada.
+
+The return for each registered person will have to be filed, and any amount payable will have to be paid, by the end of the first month following the fiscal month of the person. For example, assuming a registered person's fiscal month is also a calendar month, if a Registered Fuel Distributor delivers fuel to a purchaser that is not a Registered Fuel Distributor on June 15, the Registered Fuel Distributor will be required to file a return and remit the levy to the Receiver General of Canada by July 31. Similarly, if a Registered Fuel Distributor uses fuel it holds on June 15, the Registered Fuel Distributor will be required to file a return and remit the levy to the Receiver General of Canada by July 31.
+
+Registered Fuel Distributors will generally need to provide information on quantities of fuels produced, brought into, and imported into each backstop jurisdiction, as well as quantities of fuels used and delivered within each backstop jurisdiction and delivered outside a backstop jurisdiction.
+
+Registered Fuel Importers will generally need to provide information on quantities of fuels brought into and imported into, or for delivery or use into, each backstop jurisdiction, as well as quantities of fuels used and delivered within each backstop jurisdiction and delivered outside the backstop jurisdiction.
+
+The information that Registered Fuel Users will need to provide will vary depending on the class of user (e.g., air carriers versus persons burning waste). Generally, they will be required to provide information to the CRA and determine the amount of levy payable or refundable for each backstop jurisdiction, as explained above.
+
+Registered Fuel Distributors, Registered Fuel Importers and Registered Fuel Users will be required to keep books and records sufficient to enable a determination to be made of whether they have complied with payment requirements and other carbon levy rules in general. The basic period for retaining records will be 6 years after the end of the year in which they relate.
+
+Registered Fuel Distributors, Registered Fuel Importers and Registered Fuel Users may be required to provide and maintain security in an amount and in a form satisfactory to the Minister of National Revenue.
+
+To promote compliance with the carbon levy, its framework will include modern elements of an enforcement regime (e.g., interest, penalties, offences) aligned with those found in other statutes administered by the Canada Revenue Agency.
+
+The output-based pricing system element of the backstop
+
+The aim of an output-based pricing system is to minimize competitiveness and carbon leakage risks for activities for which those risks are high, while retaining the incentives to reduce emissions created by the carbon pricing signal.
+
+The output-based pricing system will apply the carbon pollution price to the portion of a covered source's emissions that exceed those allowed by the emissions-intensity standard for the type of activity. Facilities in the system that emit less than the limit that corresponds to the relevant emissions-intensity standard will receive “surplus credits” from the Government of Canada that they can bank for future use or trade to another participant in the output-based pricing system. Facilities whose emissions exceed their limit will need to submit compliance units (surplus credits banked from a previous year or acquired from another facility or offset credits: see “compliance units” below) or pay the carbon price to make up the difference.
+
+Under this system, only a portion of a covered source's emissions will be subject to a direct price obligation. However, the price incentive will apply to all of the emissions, as facilities can earn surplus credits that they can sell if they emit less than their regulatory limit.
+
+Scope of the output-based pricing system
+
+Facilities and sectors included in the output-based pricing system
+
+The output-based pricing system will apply to all industrial facilities that emit 50 kilotonnes (kt) or more of CO 2 e per year. It will not apply to facilities in specifically listed sectors such as buildings (including municipal, hospitals, universities, schools, commercial), waste and wastewater, regardless of the quantity of their emissions.
+
+Facilities in industrial sectors that emit less than 50 kt of CO 2 e per year will have the ability to “opt in” to the output-based pricing system, allowing similar treatment of competitors with varying emissions output. This will allow smaller facilities to choose between paying the carbon levy and fulfilling the administrative requirements to participate in the output-based pricing system. This will also avoid creating the perverse incentive to emit more in order to be eligible for treatment under the output-based pricing system.
+
+Emissions covered in the output-based pricing system
+
+The output-based pricing system will apply to emissions from fuel combustion as well as emissions of synthetically-produced greenhouse gases from industrial processes and product use.
+
+Like the carbon levy, pricing will be applied on a CO 2 e basis. Because industrial emissions can include more greenhouse gases than those emitted from fuel combustion, the output-based pricing system will apply to emissions of all seven of the UNFCCC greenhouse gases – CO 2 , CH 4 , N 2 O, hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6) and nitrogen trifluoride (NF3) – that can be quantified using robust and replicable quantification methodologies. This will cover emissions from all fossil fuels used by facilities subject to the output-based pricing system, including some venting, flaring and fugitive emissions.Footnote 9
+
+The output-based pricing system will also apply to other GHG emissions such as process emissions and emissions from solvent use.
+
+At the outset, CO 2 emissions resulting from the combustion of biomass will not be covered because these emissions are not counted in Canada's National Inventory total.Footnote 10
+
+Output-based standards
+
+An output-based standard is an emissions-intensity standard for a type of activity or product (e.g., tonnes of CO 2 e per megawatt hour of electricity). The output-based standard will be set at a level that represents best-in-class performance (top quartile or better) in order to drive reduced emissions intensity.
+
+Application of the output-based pricing system
+
+Compliance reporting for the output-based pricing system will apply annually, based on a calendar year.
+
+Determining a facility's emissions limit
+
+The annual GHG emissions limit for a facility will be the sum of the emission limits for all activities that the facility undertakes.
+
+For a single product facility, the annual emissions limit will be based on the applicable output-based standard and the facility's total output:
+
+Annual Facility Emissions Limit (tonnes CO 2 e) = Output-based standard (tonnes CO 2 e/unit) x Units Produced (units)
+
+For a multi-product facility, the same approach will apply. For example, for a facility that produces two products, the annual GHG emissions limit for the facility will be:
+
+Annual Facility Emissions Limit (tonnes CO 2 e) = [Product 1 Output-based standard (tonnes CO 2 e/unit 1) x Product 1 Units Produced (units 1)] + [Product 2 Output-based standard (tonnes CO 2 e/unit 2) x Product 2 Units Produced (units 2)]
+
+If a facility emits less than its emissions limit
+
+A facility that emits less than its annual limit will receive surplus credits from the Government of Canada for the difference between its limit and its reported emissions, where each surplus credit represents one tonne of CO 2 e.
+
+If a facility exceeds its emissions allocation
+
+A facility that exceeds its annual emissions limit will have several options to meet its compliance obligation, including:
+
+payment to the Government at the carbon price that will be set in the backstop legislation and based on the federal benchmark (i.e., $10/tonne CO 2 e in 2018, rising to $50/tonne CO 2 e in 2022)
+
+e in 2018, rising to $50/tonne CO e in 2022) use of eligible carbon offset credits (see below)
+
+use of surplus credits issued by the Government to facilities that emitted less than their regulated limits
+
+Facilities will have the flexibility to meet their full compliance obligation with any of these options or any combination thereof in a given year.
+
+This flexibility will allow each regulated facility to achieve compliance at the lowest cost for its operation. Enabling the use of carbon offsets will spread the carbon price signal to all sectors of the economy that are not subject to direct carbon pricing, and allowing the use of surplus credits will encourage regulated facilities to reduce their emissions intensity as much as possible, regardless of the emissions-intensity standards that apply to them.
+
+Compliance units
+
+Output-based pricing system surplus credits: Credits will be issued by the Government of Canada to a regulated facility after confirming that the facility's reported emissions for the previous year were less than its limit. Subject to certain rules, surplus credits may be banked for future use or traded to another participant in the output-based pricing system.
+
+Carbon offset credits: Credits can be generated from voluntary activities, namely those that are not subject to GHG emission reduction regulations, that are not required by law, that have not been supported by government financing, and that go beyond “business as usual” practices. The federal government will develop rules to determine which offset credits can be accepted for compliance under the output-based pricing system, which could include foreign compliance units (referred to as “internationally transferred mitigation outcomes”). This will be informed by the pan-Canadian offsets framework being developed by the Canadian Council of Ministers of the Environment.
+
+A limit will be set on the start date for projects from which offset credits will be authorized for compliance purpose. The Government may restrict the number of years that offset credits can be banked, and may require regulated facilities to replace offset credits that are revoked or invalidated after they have been submitted for compliance.Footnote 11
+
+Reporting and verification requirements
+
+After the end of each compliance year, each facility in the output-based pricing system will be required to quantify its emissions using prescribed methodologies for each of its activities. This will allow the facility to compare its reported emissions to its annual GHG emissions limit.
+
+Each facility will also be required to submit an annual compliance report on its annual emissions limit and its emissions. These reports will need to be third-party verified to a reasonable level of assurance by verification bodies that are accredited to ISO 14065 by a member of the International Accreditation Forum.
+
+Compliance reports will be submitted by March 31 following the calendar year of compliance (e.g., reports will be due March 31, 2020 for emissions associated with the facility from January 1 to December 31, 2019).
+
+Administration of the output-based pricing system
+
+Environment and Climate Change Canada will administer the output-based pricing system. Industrial facilities that are subject to the output-based pricing system will have to register with and submit compliance reports to Environment and Climate Change Canada. Verification bodies engaged by output-based pricing system participants will submit their reports directly to Environment and Climate Change Canada.
+
+Compliance, penalties and enforcement
+
+The output-based pricing system part of the backstop legislation will provide authorities for a modern enforcement regime aligned with the enforcement schemes found in other legislation administered by Environment and Climate Change Canada. This will include access to a variety of enforcement measures to encourage compliance or deter future non-compliance including written warnings, administrative penalties, compliance orders and prosecution.
+
+Backstop implementation timing
+
+The backstop will apply in a province or territory that does not have a pricing system that aligns with the benchmark.
+
+The carbon levy will come into effect in 2018.
+
+The output-based pricing system will not come into effect before January 1, 2019.
+
+For the interim period between when the levy and the output-based pricing system come into force, the carbon levy will apply fully to fuels used by all industrial facilities.
+
+How to provide input
+
+Canadian stakeholders, businesses and the public are invited to submit feedback as part of the Government of Canada's consultation on the federal benchmark and backstop for carbon pricing.
+
+Closing date: June 30, 2017
+
+Written comments should be sent to: Carbonpricing-tarificationcarbone@canada.ca
+
+In order to add to the transparency of the consultation process, the Government of Canada may make public some or all of the responses received or may provide summaries in its public documents. Therefore, parties making submissions are asked to clearly indicate the name of the individual or the organization that should be identified as having made the submission.
+
+In order to respect privacy and confidentiality, when providing your submission please advise whether you:
+
+consent to the disclosure of your submission in whole or in part
+
+request that your identity and any personal identifiers be removed prior to publication
+
+wish any portions of your submission to be kept confidential (if so, clearly identify the confidential portions)
+
+Information received throughout this submission process is subject to the Access to Information Act and the Privacy Act. Should you express an intention that your submission, or any portions thereof, be considered confidential, the Government of Canada will make all reasonable efforts to protect this information.
+
+Annex 1: CO 2 e
+
+The concept of “global warming potential” allows for a comparison of the ability of each GHG to trap heat in the atmosphere relative to CO 2 . CO 2 e is a measure of the quantity of CO 2 that would be required to produce a similar warming effect as another GHG over the same time horizon. It is calculated by multiplying the quantity of a GHG by its global warming potential. The United Nations Intergovernmental Panel on Climate Change regularly updates the measurement of global warming potential.
+
+The combustion of fossil fuels results in three different GHG emissions being produced – carbon dioxide (CO 2 ), methane (CH 4 ), and nitrous oxide (N 2 O) – each of which has a unique atmospheric lifetime and heat-trapping potential. The total GHG emissions from combusting a fuel is the CO 2 e of all three GHG emissions added together.
+
+The quantity of CO 2 emitted is related to the carbon content in a given type of a fossil fuel and the amount of fuel combusted. The carbon content of some fuels can vary. For example, natural gas from different regions has different carbon content. As a result, natural gas from Western Canada will have a different level of GHG emissions per litre of fuel than natural gas from Eastern Canada.
+
+The quantity of methane and nitrous oxide emitted is related to the amount of fuel combusted and the type of technology used to combust that fuel. For example, fuel that is used to heat a home will have different levels of methane and nitrous oxide emissions per litre than a fuel used in a heavy-duty vehicle.
+
+For both components of the backstop, emissions will be converted to a CO 2 e basis using current global warming factors. For the levy, rates will be set out under the relevant legislation and will be based on the Canadian average emission factor for a fossil fuel (where factors differ by region for that fuel) and the technology that is most commonly used to combust a fossil fuel. For the output-based pricing system, regulated entities will use the same factors to calculate their emissions following a methodology that will be specified in regulations.
+
+The output-based pricing system will apply to emissions from fuel combustion as well as emissions of synthetically-produced greenhouse gases from industrial processes and product use, and will cover all seven of the greenhouse gases included in the United Nations Framework Convention on Climate Change reporting requirements: CO 2 , methane (CH 4 ), nitrous oxide (N 2 O), perfluorocarbons (PFCs), hydrofluorocarbons (HFCs), sulphur hexafluoride (SF6) and nitrogen trifluoride (NF3).
+
+The global warming factors for both components may be updated from time to time when changes are made to requirements for inventory reporting under the United Nations Framework Convention on Climate Change.

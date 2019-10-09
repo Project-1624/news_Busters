@@ -1,0 +1,65 @@
+Data and Methodology
+
+About the Methodology
+
+CIFP Fragile States reports are based on three analytical elements, adapted from CIFP’s prior conflict-oriented methodology. First, structural indicators are grouped into six clusters capturing different facets of state fragility and robustness: Governance, Economics, Security and Crime, Human Development, Demography, and Environment. Documents include up to 75 separate structural indicators providing a detailed quantitative structural assessment of the country.
+
+This structural data is then reprocessed using what is referred to the ALC framework (Authority, Legitimacy, and Capacity.
+
+The CIFP fragility index is based on the idea that a state needs to exhibit three fundamental properties (ALC) and that weaknesses in one or more of these dimensions will have an impact on the overall fragility of a particular country. Authority refers to the ability of the state to enact binding legislation over its population and to provide the latter with a stable and safe environment. Legitimacy refers to the ability of the state to command public loyalty to the governing regime and to generate domestic support for government legislation being passed and policies being implemented. Capacity refers to the power of a state to mobilize public resources for productive uses. Implicit in this conceptualization of state fragility is a recognition that states become fragile and fail for different reasons, that they are qualitatively different from one another, with unique problems that often require novel policy responses. Our findings from this multivariate analysis indicate that state fragility is a result of a myriad of factors, of which the level of development seems to be more important.
+
+A second level of analysis draws on event monitoring data compiled by CIFP researchers over a six month period extending from November 2006 to May 2007. Collected from a variety of web-based sources, including both international and domestic news sources in English and Spanish, the events are quantitatively evaluated and systematically assessed to identify general trends of relevance to state stability and fragility. Highly significant events are also qualitatively analyzed to highlight their specific causes and consequences.
+
+Third, the report includes a series of analytical exercises, including stakeholder analysis and scenario generation. Future iterations of the report may include detailed consultations with country and subject experts located in-country as well as in Canada and abroad. This multi-source data structure enables more robust analysis than any single method of data collection and assessment.
+
+Index Methodology
+
+The fragility index employs a methodology of relative structural assessment. The analysis begins with a structural profile of the country, a composite index that measures overall country performance along six dimensions listed above. CIFP thus adopts what might be termed an inductive approach, identifying areas of relative strength and weakness across a broad range of measures related to state fragility.
+
+In ranking state performance on a given indicator, global scores are distributed across a nine-point index. The best performing state receives a score of one, the worst a score of nine, and the rest are continuously distributed between these two extremes based on relative performance. As country performance for some types of data can vary significantly from year to year - as in the case of economic shocks, natural disasters, and other externalities - averages are taken for global rank scores over a five-year time frame. Once all indicators have been indexed using this method, the results for a given country are then averaged in each subject cluster to produce the final scores for the country.
+
+In general, a high score - 6.5 or higher - indicates that a country is performing poorly relative to other states. Such a score may be indicative of an arbitrary and autocratic government, a history of non-transparent government, the presence of significant barriers to political participation, the absence of a consistently enforced legal framework, or a poor human rights record.
+
+A low score - in the range of 1 to 3.5 - indicates that a country is performing well relative to others, or that a country’s structural conditions present little cause for concern. Values in the moderate 3.5 to 6.5 range indicate performance approaching the global mean.
+
+Events Monitoring Methodology
+
+The purpose of CIFP event monitoring is to observe and report on events within a country to better understand the dynamic trends affecting the country. This data, when combined with structural data, provides a more comprehensive analysis of both the underlying conditions and recent developments, thereby informing a more nuanced and ultimately policy-relevant analysis. The six-month monitoring period demonstrated in these reports is an integral part of the proof of concept. Subsequent reports will include systematic and long term monitoring for more complete and accurate forecasting and policy-relevant diagnosis. Ongoing monitoring that allows the production of easy-to-interpret context-specific briefings would integrate shifting stakeholder interests, changes in baseline structure and of course event dynamics.
+
+In the CIFP event monitoring methodology, events are all coded using a number of criteria. First, each event is assigned to the specific cluster area to which it is most directly related. This assigned cluster acts as the dependent variable; the event will be coded with respect to its effect on that particular aspect of fragility. Second, the event is coded as being either positively or negatively related to the assigned cluster. The event score is then determined by answering the following three questions:
+
+How direct is the impact of the event on the cluster stability? How broad is the impact of the event? How intense is the event, in comparison with past events in the country?
+
+Each question is answered quantitatively using a three-point scale; thus the highest score for a single event is 9. The answers to these questions are added together to generate a composite indicator for each event, thereby determining its net impact on fragility. The composite indicator is used to create time-series regression lines, as event data is plotted over a defined time period. These trends are analysed both in aggregate and disaggregated by cluster, in an effort to understand the current trajectory of the country. This trajectory is referred as the event ‘tendency’ during the period observed, to emphasize its role as an indicative piece of information rather than a deterministic extrapolated trend line. This analysis in turn provides some indication of the potential developments in state performance over the short- to medium-term.
+
+Components of Composite Event Score
+
+Causal Relevance
+
+Event is relevant, but with no clearly delineable causal linkage to state stability or fragility (e.g. a funding announcement or an international soccer friendly). Event is relevant, with a delineable, though indirect causal linkage to state stability or fragility (e.g. New legislation enhancing minority rights is passed, or a bomb detonates within an ethnically divided region). Event is relevant with delineable and direct causal linkage to state stability or fragility. (e.g. Declaration of a ceasefire or assassination of a government minister.)
+
+Centrality
+
+Event affects less than 25% of political stakeholders. Event affects 25% - 75% of political stakeholders. Event affects more than 75% of political stakeholders.
+
+Intensity/Escalation
+
+Event is comparable to others experienced in the state in the previous six months. Event is more intense than others experienced in the state in the previous six months. Event is more intense than others experienced in the state in the previous five years.
+
+Event Analysis
+
+The analysis occurs in both aggregate (all events) and disaggregate (events analysed by cluster) by using quantitative data in two ways. First, summary statistics provide the analyst with an overview of the average event scores. Positive average event scores are indicative of an environment that experiences more or more significant positive events than negative events. Negative average scores indicate the opposite.
+
+The second avenue of analysis is via regression lines to observe whether the events demonstrate any positive or negative tendency over time. The composite indicators are plotted over a defined period of time - usually six months - and trend lines are generated using ordinary least squares regression. The trend line uses a weekly aggregate in order to capture the changing magnitude of events as well as any increase or decrease in the total number of events; both phenomena are deemed important to the analysis. When numbers associated with the trend line are included in the report, they refer to the slope of the trend line. In general, the greater the magnitude of the slope, the more significant the trend. In general, slopes greater than (+/-0.1) are considered to be significant; those falling between this range are considered indicative of continuing status quo.
+
+Thus, a rapid increase in the number of positive events may result in a positive trend line, as might an increase in the average score per event. This trend analysis provides an overview of general event-driven developments over the months under consideration. On the other hand, a negative slope denotes a deteriorating situation one in which there is an increase in the number or significance of negative events relative to positive ones during the time period under observation.
+
+Scenario Generation
+
+The report includes scenarios for the country over the short term, normally up to 18 months. The analysis includes three scenarios: a best-case, worst-case and most likely case, with each based on an analysis of basic structural data, recent trends in fragility-related events, as well as a consideration of the role likely to be played by significant stakeholders within the country. The best-case assumes that the strongest positive trends will dominate over any negative trends in the near future. Conversely, the worst-case scenario assumes the opposite. These two scenarios are intended to highlight different facets of the situation for the reader. The best and worst cases consider the strongest trends among stabilizing and destabilizing events, drawing attention both to dominant threats and potential points of entry. Finally, the most likely case scenario extrapolates future tendencies based on the strongest overall trends present within the state. To begin with, it identifies dominant trends - those most likely to continue in each of the six subject clusters over the short term. These trends are then combined to form an overall portrait of the country over the near term, providing a baseline "likely" scenario.
+
+Taken together, these three scenarios define the universe of developments that may occur in the country in the near term, and give some sense of what may reasonably be expected in the same period. Such insights may inform contingency planning processes in both the domestic government and international partners, and provide some assistance when setting benchmarks with which to evaluate the success of initiatives intended to improve state performance.
+
+Stakeholders
+
+As part of the initial country profile, the analyst compiles a list of stakeholders. Stakeholders are those individuals or groups that possess an identifiable, broadly similar political agenda and either have an effect on or are affected by state stability or fragility. They often have an organizational structure in addition to sufficient resources to pursue explicitly or implicitly articulated goals.

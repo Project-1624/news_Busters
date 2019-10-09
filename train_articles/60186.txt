@@ -1,0 +1,50 @@
+What exactly is Amazon's Alexa and other smart speakers listening to?
+A family talks with an Amazon Echo. (Photo by Bill O'Leary/The Washington Post)
+
+Technology columnist
+
+We’re learning an important lesson about cutting-edge voice technology: Amazon’s Alexa is always listening. So are Google’s Assistant and Apple’s Siri.
+
+Putting live microphones in our homes has always been an out-there idea. But tech companies successfully marketed talking speakers such as the Amazon Echo and Google Home to millions by assuring they only record us when we give a “wake word.”
+
+That turns out to be a misnomer. These devices are always “awake,” passively listening for the command to activate, such as “Alexa,” “O.K. Google,” or “Hey Siri.” The problem is they’re far from perfect about responding only when we want them to.
+
+The latest, and most alarming example to date: A family in Portland, Ore., two weeks ago found its Echo had recorded a private conversation and sent it to a random contact. The event, reported by Washington state’s KIRO 7, went viral Thursday among Echo owners — and naysayers on the idea of allowing tech companies to put microphones all over our homes.
+
+[When your kid tries to say ‘Alexa’ before ‘Mama’]
+
+Privacy is the one aspect of Alexa that Amazon can’t afford to screw up. (Amazon's chief executive, Jeffrey P. Bezos, owns The Washington Post.)
+
+Amazon, in a statement, made it sound like the Portland case involved a sequence of events you might expect in a “Seinfeld” episode. It said the Echo woke up when it heard a word that sounded like Alexa. "The subsequent conversation was heard as a 'send message' request. At which point, Alexa said out loud 'To whom?' At which point, the background conversation was interpreted as a name in the customer's contact list."
+
+Amazon also said the incident was rare and it is “evaluating options to make this case even less likely.”
+
+But how often do these devices go rogue and record more than we’d like them to? Neither Google nor Amazon immediately responded to my questions about false positives for their “wake words." But anyone who lives with one of these devices knows it happens.
+
+[Siri, already bumbling, just got less intelligent on the HomePod]
+
+As a tech columnist, I’ve got an Echo, Google Home and Apple HomePod in my living room — and find at least one of them starts recording, randomly, at least once per week. It happens when they pick up a sound from the TV, or a stray bit of conversation that sounds enough like one of their wake words.
+
+Separating a command out from surrounding home noise — especially loud music — is no easy task. Amazon's Echo uses seven microphones and noise-canceling tech to listen out for its wake word. Doing so, it records about a second of ambient sound on the device, which it constantly discards and replaces. But once it thinks it hears its wake word, the Echo’s blue light ring activates and it begins sending a recording of what it hears to Amazon’s computers.
+
+
+
+The Amazon Alexa app will play back stored recordings — including cases like this one, where it started recording because it misheard its "wake word."
+
+Over-recording isn’t just an Amazon problem. Last year, Google faced a screw-up where some models of its Home Mini were set to record everything and had to be patched. Earlier this month, researchers reported they were able to make Siri, Alexa and Google’s Assistant hear secret audio instructions undetectable to the human ear.
+
+So what should you do about this? You can mute these devices, which in the case of the Amazon Echo physically disconnects the microphone — until you’re ready to use it. But that partly defeats the usefulness of a computer you can just holler at when your hands are otherwise occupied.
+
+Another approach is to turn off some more-sensitive functions in the Alexa app, including making product purchases via voice. You can turn off the “drop in” feature that lets another Echo automatically connect to start a conversation.
+
+You also have the ability to dig deeper into what’s being recorded. Prepare to be a bit horrified: Amazon and Google keep a copy of every single conversation, both as a nod toward transparency and to help improve their voice-recognition and artificial intelligence systems. In the Alexa app and on Google's user activity site, you can listen to and delete these past recordings. (Apple also keeps Siri recordings, but not in a way you can look up — and anonymizes them after six months.)
+
+The nuclear response is to unplug your smart speaker entirely until the companies come clean about how often their voice assistants over-listen — and what they’re doing to stop it.
+
+Read more from Geoffrey A. Fowler
+
+I was team #DeleteUber. Can Uber’s new boss change my mind?
+
+What if we paid for Facebook — instead of letting it spy on us for free?
+
+Is Amazon Prime worth it?

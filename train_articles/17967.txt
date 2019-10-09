@@ -1,0 +1,166 @@
+Environmental Performance Index
+This section briefly describes the methodology used to construct the 2018 Environmental Performance Index. For a more general and authoritative explanation of composite indexing, we refer the reader to the OECD handbook on the subject (Nardo et al., 2008). Hsu et al. (2013) explain the general process of constructing the EPI. Further details about the data and calculations are in the Technical Appendix.
+
+Indicator framework
+
+Measuring a complex construct like environmental performance requires an organizing structure for the component metrics. The EPI uses a hierarchical framework that groups indicators within issue categories, issue categories within policy objectives, and policy objectives within the overall index (see Figure 2–1). The EPI has long been based upon two policy objectives: Environmental Health, which measures threats to human health, and Ecosystem Vitality, which measures natural resources and ecosystem services. These objectives reflect the dominant policy domains within which policymakers and their constituents generally deal with environmental problems. Many governments have departments or ministries devoted to public health and natural resources, whose portfolios correspond to the EPI policy objectives.
+
+Likewise, the issue categories are organized along the lines most familiar to stakeholders within environmental policy. In the 2018 EPI, 24 indicators are grouped within 10 issue categories:
+
+Air Quality, Water & Sanitation, Heavy Metals, Biodiversity & Habitat, Forests, Fisheries, Climate & Energy, Air Pollution, Water Resources, and Agriculture.
+
+A country’s EPI score can be disaggregated to levels of the policy objectives or the issue categories, allowing performance to be tracked at different levels.
+
+
+
+Figure 2–1. The 2018 EPI Framework organizes 24 indicators into ten issue categories and two policy objectives. Weights used in each level of aggregation shown in parentheses.
+
+Data selection
+
+Every version of the EPI strives to identify the best available data, based on the latest scientific advances, in order to produce useful and credible scores for the global community.
+
+Data sources
+
+Data for the 2018 EPI come from international organizations, research institutions, academia, and government agencies. These sources use a variety of techniques, including
+
+Remote sensing data collected and analyzed by research partners;
+
+Observations from monitoring stations;
+
+Surveys and questionnaires;
+
+Academic research;
+
+Estimates derived from both on-the-ground measurements and statistical models;
+
+Industry reports; and
+
+Government statistics, reported either individually or through international organizations, that may or may not be independently verified.
+
+Criteria
+
+While more data are available today than ever before, not all environmental data are applicable to the EPI. In order to be useful for measuring environmental performance, we judge candidate datasets according to several criteria for inclusion. Ideal datasets would satisfy each of the following.
+
+Relevance. Data should measure something about the environment that is applicable to most countries in most circumstances.
+
+Performance orientation. Data should measure environmental issues that are amenable to policy intervention. Countries should not be penalized for environmental or resource endowments beyond their control. Indicators should also measure on-the-ground outcomes from policies rather than policy inputs. If direct measurement of outcomes is not possible, proxy measurements that are causally related to those outcomes may be acceptable substitutes.
+
+Established methodology. Different governments, researchers, or stakeholders may attempt to measure the same thing in different ways, resulting in data that are not comparable across countries or time. To be included in the EPI, data must be measured using an established methodology, peer reviewed by the scientific community, or endorsed by an international organization.
+
+Verification. The most credible data are either verified by a third party or produced as a result of a data collection process that is open to scrutiny so that a third party could audit the results.
+
+Completeness. Datasets are complete if they cover two dimensions. First, a dataset is spatially complete if it covers a sufficient number of countries. Many studies are conducted at the regional level or, for example, only for OECD countries, and so could not provide information on the entire world. Second, a dataset is temporally complete if it provides measurements across time. Some studies are one-off measurements that provide a snapshot. Such snapshots do provide information about environmental performance, but they may not be recent and cannot show trends. It is also important that the producers of datasets demonstrate a commitment to continued production of data into the future.
+
+Quality. High quality data are accurate, reliable, and valid. The best measurements come from direct observation rather than estimation by statistical models.
+
+Selection process
+
+Selection of data for the EPI follows three basic approaches. First, we examine our existing indicators. The previous iteration is a good starting point for each new EPI, and we look to improve upon weaknesses and incorporate updates to this set of indicators. Second, the EPI responds to the needs of policymakers and the priorities of the international community, as described by international agreements. The 2015 Sustainable Development Goals (SDG) outline the general areas of concern, and the Inter-Agency and Expert Group on SDG Indicators lists 230 potential indicators to track progress on SDG targets. Third, the EPI casts a wide net to find potential candidate metrics for the EPI. Sources include international organizations, the scientific literature, government agencies, and experts among the issue categories. The EPI strives to use the best available metrics that rely on the latest advances in global data systems. The EPI team judges each potential indicator by how well it satisfies the EPI criteria outlined above.
+
+Ideally, each metric should satisfy all of the EPI criteria. The EPI occasionally uses a dataset that falls short in some respect, however. Reasons for inclusion of such a dataset are twofold. First, an issue category may be so critically important to environmental performance that it is necessary to use some metric rather than no metric. As long as an indicator provides some useful signal to policymakers and stakeholders about the state of the environment – when no better datasets are available – we may include the imperfect dataset. In the 2018 EPI, for example, we rely on estimates of Disability-Adjusted Life Years lost due to lead exposure even though such estimates come from sparse data sources. Second, in issue categories where global data systems are still emerging, the EPI may rely on pilot or nascent metrics. We use the recently proposed Sustainable Nitrogen Management Index as an indicator within the Agriculture issue category, for example (Zhang & Davidson, 2016). These metrics can draw greater attention to these efforts and the need for international support. Even less-than-ideal indicators contribute to the overall usefulness of the EPI as a composite index, building a foundation for evidence-based policymaking.
+
+A complete description of the data used to construct the 2018 EPI indicators can be found in the Technical Appendix. In the interest of transparency, the EPI has always been candid about the limitations of the datasets used. Each EPI seeks to improve on past iterations by correcting previous mistakes and testing innovations. Throughout the report, we note limitations of the datasets and feature promising new metrics that may be incorporated into future versions of the EPI.
+
+Data gaps
+
+For twenty years, the EPI has identified a number of severe data gaps that hamper sustainability goals. Developing better environmental performance metrics requires better data collection, reporting, and verification across a range of environmental issues, including
+
+Sustainable agriculture and soil health,
+
+Water quality (sedimentation, organic and industrial pollutants),
+
+Invasive species,
+
+Genetic biodiversity,
+
+Wetlands and other freshwater ecosystems, and
+
+Municipal and toxic waste management.
+
+Indicator construction
+
+Once the data for the EPI have been identified, indicator construction proceeds along several steps. First, the data must be cleaned and prepared for further analysis. We note in each dataset the country coverage, the years included, and the nature of missing data, i.e., whether observations are missing because the country was not covered in the dataset, whether measurement or modeling did not take place in a country or year, or whether the measurement is not applicable to the country. Second, some variables must be standardized in order to be comparable across countries and over years. Greenhouse gas (GHG) emissions, for example, must be divided by the size of each country’s economy, as measured by GDP, to calculate carbon intensity. Other normalizations include dividing by units of area or population, calculating percent changes, developing trends over time, or taking weighted averages of several variables. The Technical Appendix describes these normalizations for relevant indicators in greater detail.
+
+The third step is to scrutinize metrics for skewness. Skewed datasets have most countries clustered at one end of the distribution with few countries spread across the rest of the range of scores. In such cases we usually rely upon logarithmic transformations, which improve the interpretation of results. Most importantly, the logarithmic transformation takes the crowd of countries bunched together in raw data units and spreads them out. This spread allows us to better differentiate between countries whose relative performances would otherwise be obscured. With raw data, only the countries at the extremes of the measurement spectrum can easily be compared; making important distinctions between the leaders would be difficult without a suitable transformation.
+
+One of our metrics, PM 2.5 Exposure, illustrates the usefulness of transforming the data. Consider the four countries in Figure 2–2. In the upper panel, the leaders – Iceland and Kazakhstan – are separated by the same difference in PM 2.5 concentrations as the laggards – China and Pakistan – about 10 μg/m3. Iceland is an order of magnitude better than Kazakhstan, while China and Pakistan differ by much less in percentage terms. The effects of these ambient concentrations of PM 2.5 , however, are substantively different. If Iceland were to move to the level of Kazakhstan, this deterioration would be more notable than if Pakistan were to move to the level of China. The lower panel, with the transformed data, illustrates that the important differences in performance aren’t between leaders and laggards but within the leaders. Kazakhstan has much to gain by marginally improving PM 2.5 exposure, but the laggards can make major improvements only through substantial efforts at reducing this environmental risk. Logarithmic transformation aids in making appropriate comparison based on percentage differences that are often far more important than absolute differences. Transforming the data also improves the interpretation of differences between countries where relative performance depends on which end of the spectrum they fall.
+
+
+
+Figure 2–2. Transforming skewed data. Four countries in the PM 2.5 Exposure metric illustrate the usefulness of logarithmic transformation.
+
+
+
+The final step is to rescale the data into a 0–100 score. This process puts all indicators on a common scale that can be compared and aggregated into the composite index. The EPI uses the distance-to-target technique for indicator construction, which situates each country relative to targets for worst and best performance – discussed in more detail, below – corresponding to scores of 0 and 100, respectively. The generic formula for calculating the indicator is
+
+Indicator Score = x − x × 100 x − x
+
+Where x is a country’s value,
+
+x is the target for best performance, and
+
+x is the target for worst performance.
+
+If a country’s value is greater than x , we cap its indicator score at 100. Likewise, if a country’s value is less than x , we set its indicator score to 0.
+
+The EPI employs targets to identify the best and worst performance for each indicator. Targets may be set by a number of criteria. The EPI selected targets for best performance according to the following hierarchy:
+
+Good performance is set forth in international agreements, treaties, or institutions, such as the World Health Organization. If there are no such targets, Good performance is based upon the recommendation of expert judgment. If no such recommendations are available, Good performance is set at either the 95th- or 99th-percentile, depending upon the distribution of the underlying data.
+
+Setting the target for worst performance follows a similar logic, though the first two criteria are rarely available. We usually set the worst performance target at the 1st- or 5th-percentile, depending on the distribution of the underlying data. For the 2018 EPI, we calculated percentiles using the complete time series of all available data for each indicator, not just using data from the most recent year. Trimming off the tails of the underlying distribution is helpful because it prevents outliers from having undue influence on the resulting scores. Complete details about the targets are in the Technical Appendix.
+
+Weighting and Aggregation
+
+Once all indicators have been constructed on the 0–100 point scale, we aggregate them at each level of the framework hierarchy. Indicator scores are aggregated into issue category scores, issue category scores into policy objective scores, and policy objective scores into final EPI scores. In the field of composite indices, there are various methods for weighting and aggregation (Munda, 2012; Munda & Nardo, 2009; Nardo et al., 2008, p. 33ff). The EPI sacrifices sophistication in favor of transparency; at each level the aggregation we calculate a simple weighted arithmetic average. The weights used to calculate EPI scores (Figure 2–1) represent just one possible structure, and we recognize that users of the EPI may favor different weights. Our data are available for download from epi.yale.edu for those interested in examining the results produced by alternative aggregations.
+
+Environmental Health
+
+Within the Environmental Health policy objective, we assigned weights based upon the distribution of global disability-adjusted life-years (DALYs) lost to the environmental health risks in the 2018 EPI (see Blanc, Friot, Margni, & Jolliet, 2008). In 2016, the most recent year for which estimates are available, approximately 65% of DALYs were attributable to air quality, 30% to water and sanitation, and 5% to lead exposure. For air quality, 40% of DALYs were attributed to household use of solid fuels, and 60% were attributed to ambient PM 2.5 exposure, which we allocate equally between our two PM 2.5 indicators. For water quality, DALYs were approximately equally distributed between drinking water and sanitation, resulting in weights of 50% for each. Lead exposure is only indicator for the Heavy Metals issue category, and therefore receives 100% of the weight.
+
+Ecosystem Vitality
+
+Whereas the policy objective of Environmental Health has an empirical basis for deriving weights, the selection of weights in Ecosystem Vitality, shown in Figure 2–1, is more subjective. We attempted to strike a balance between the relative gravity of each issue category and the quality of the underlying data. According to the Planetary Boundaries model (Rockström et al., 2009), the two leading threats to the environment are biodiversity loss and climate change. Biodiversity loss entails habitat-focused indicators, as in our Biodiversity & Habitat issue category (25%), as well as the indicators in Forests (10%) and Fisheries (10%). Within Climate Change (25%), the GHGs are roughly weighted according to their relative contributions to climate forcing. The balance of the weight within Ecosystem Vitality lies with Air Pollution (10%), Water Resources (10%), and Agriculture (5%). Although we are fully aware of the importance of these issue categories, the low weight given to them here is due mainly to the paucity of indicators. As new data become available for measuring these issue categories, different weights should emerge in future versions of the EPI.
+
+Policy Objectives
+
+As in previous years, the relative weight given to each policy objective is informed by the variance of each. Environmental Health has a much wider spread (σ = 20.8) than Ecosystem Vitality (σ = 11.2). A simple 50–50 weighting would give too much influence to the Environmental Health policy objective, masking the meaningful variation within Ecosystem Vitality. Without adjustment, countries that perform well on Environmental Health would score well on the EPI, with less input from their performance on Ecosystem Vitality. In order to help account for this potential imbalance, the 2018 EPI gives a weight of 40% to Environmental Health and 60% to Ecosystem Vitality. These weights do not reflect a prioritization of “nature” over humans, and we believe that ecosystem services are just as vital to human well-being as clean air and water. Rather, our choice of weights is guided by the data and serves to produce a more balanced and useful final score.
+
+Materiality
+
+Not every indicator is applicable to every country in the 2018 EPI. Countries differ in natural resource endowments, geography, and physical characteristics. For example, landlocked countries have no fisheries. In order to account for these differences, the 2018 EPI uses two materiality filters (Table 2–1). Countries meeting the criteria in these filters are not scored on the associated indicators and issue categories. In effect, we set the weight of these indicators and issue categories to zero for these countries, and spread that weight across the other weights within the same level of aggregation.
+
+Table 2–1. Materiality Filters applied to the 2018 EPI. Countries meeting the listed criteria are not scored on the associated indicators and issue categories. Materiality Filter Criteria Issue Category Indicator No. of Countries Forest Total forested (≥ 30% canopy cover) area < 200 km2 Forests Tree Cover Loss 30 Sea Landlocked or Coastline : Land area ratio < 0.01 Fisheries Fish Stock Status 44 Regional MTI Marine Protected Areas
+
+Missing data
+
+Datasets that lack sufficient coverage of EPI countries are usually discarded, but in some cases the data are so useful that we included them and then have to account for missing values. In the 2018 EPI, these include the Species Protection Index, Species Habitat Index, Fish Stock Status, Regional MTI, CO 2 emissions from the power sector, Wastewater Treatment, and Sustainable Nitrogen Management Index. When an issue category relies on multiple indicators, we average around these missing values, redistributing the weight to non-missing scores. In other cases, we imputed missing values based upon the performance of similar countries. We describe details on the imputation of missing values for Fish Stock Status, Wastewater Treatment, and Sustainable Nitrogen Management Index in the Technical Appendix.
+
+Baseline scores
+
+The 2018 EPI methodology can also be applied to historic data to calculate EPI scores and sub-scores for each country. While we calculate the 2018 EPI based upon the most recent year for each dataset, changes over time can be discerned by comparing these scores to a baseline score. Our baseline uses data from 10 years prior to the most recent year for most datasets. We offer these baseline scores as a more helpful point of comparison than full back-casted annual scores. Not all datasets lend themselves to straightforward longitudinal analysis, especially considering the variety of temporal coverage among the datasets on which the 2018 EPI is based. We describe further details about the baseline scores in the Technical Appendix.
+
+Global Scorecard
+
+The 2018 EPI also includes a global scorecard that illustrates how the world is doing in each issue category. Where feasible, country-level data on each indicator were aggregated to the global level. We then constructed indicator scores based on these global values using the same procedure as in Indicator Construction. For most indicators, we were able to construct scores for both the most recent year and the baseline year. Unlike performance, which is most relevant in a country-level context because nations are the units that adopt environmental policies, the global scorecard is most useful for assessing the current state of the world.
+
+Changes from the 2016 EPI
+
+Every iteration of the EPI requires changes to the methodology. Innovation allows the EPI to take advantage of the latest advances in environmental science and analysis. We introduce new datasets, better normalizations, expanded country coverage, and other updates to increase the sophistication and usefulness of the index. Not every innovation endures, however, and the 2018 EPI, like previous iterations, learns from and drops experiments that have proved problematic. In the interest of a more robust measurement tool, we welcome feedback on every version of the EPI and will work to continue making improvements.
+
+Changes in methodology between versions of the EPI mean that historical EPI scores are not comparable. Differences in EPI scores across EPI iterations are largely due to additions and subtractions of indicators, new weighting schemes, and other aspects of the methodology – not necessarily from decreased or increased performance. We therefore urge users not to attempt such cross-version comparisons of EPI scores or sub-scores without careful qualifications. Attempting to assemble time series or panel data of EPI scores from current and past versions of the EPI is strictly inappropriate. True within-country changes in performance are better assessed by using the 2018 EPI baseline scores or inspecting the raw data.
+
+Environmental Health
+
+The 2018 EPI brings several changes to the Environmental Health policy objective. First, the 2016 EPI introduced an Environmental Risk Exposure pilot indicator. While sophisticated, this indicator was methodologically opaque and difficult to interpret, and we exclude it from the 2018 EPI. Second, we have also dropped NO 2 as an indicator because the dataset upon which it was based is no longer actively updated. This pollutant is also well correlated with PM 2.5 . Third, we avail ourselves of the Institute for Health Metrics and Evaluation’s (IHME) data on lead exposure to add a new issue category related to Heavy Metals. Fourth, we switch to exclusive use of the IHME indicators to measure several issue categories. The 2016 EPI used additional data sources on Water & Sanitation, but these indicators are highly correlated with IHME data, adding little distinct value to the EPI. Fifth, the units of measurement for IHME indicators switch to age-standardized Disability-Adjusted Life-Years (DALYs) lost due to environmental risks per 100,000 persons, also known as the DALY rate. We feel that these units provide better comparability across countries and over time while also measuring direct health outcomes. Sixth, as mentioned above in Weighting and Aggregation under Environmental Health, DALYs also provide the foundation for developing weights within this policy objective.
+
+Ecosystem Vitality
+
+We introduce changes in the 2018 EPI for almost every issue category in Ecosystem Vitality. In the Biodiversity & Habitat category, the Species Protection indicators are replaced by the similar Species Protection Index. We also add two new indicators: the Protected Area Representativeness Index and the Species Habitat Index. The indicator on tree cover loss changes from a 14-year average to a 5-year moving average to better understand the responsiveness of trends in deforestation to policy decisions. The materiality filter for Forests in the 2016 EPI included a new criterion to exclude countries with, “less than 2 percent of total land area is covered with greater than 30% tree canopy” (Hsu, Esty, de Sherbinin, & Levy, et al., 2016, p. 31). While this was an attempt to focus only on countries with substantial forest resources, we now believe that countries in which forests are scarce ecosystems actually have a greater need to conserve them. The 2018 EPI uses the sole criterion described in Table 2–1 for the materiality filter for Forests. Recognizing the emerging role of ecosystem-based fisheries management, we add the new Regional Marine Trophic Index to the Fisheries issue category.
+
+Within Climate & Energy, we add new indictors for three additional greenhouse gasses (GHG): methane, nitrous oxide, and black carbon. The 2016 EPI made several important changes in how GHG emissions are normalized across countries. We retain most of these changes, though countries at or below the 5th-percentile of emissions intensity in the power sector are no longer automatically given top scores. Rather, across all emissions indicators, we use a new method for rewarding countries who have invested in emissions reductions to the point that current trends are flat. The 2016 EPI also included a materiality filter for least-developed countries and small-island developing states. After the 2015 Paris Climate Agreement, in which all countries regardless of size or development status are called to reduce emissions, such a filter no longer seems warranted; we drop it from the 2018 EPI.
+
+The 2018 EPI reintroduces the issue category of Air Pollution, last featured in the 2012 EPI, as confined to the consequences for ecosystems. Two pollutants are of particular global concern, SO 2 and NO X , and these emissions are normalized by the same method as for GHG emissions. Within Agriculture, we replace the two indicators used in the 2016 EPI by a new indicator to capture the effects of nitrogen fertilizer, the Sustainable Nitrogen Management Index, proposed by our data partners at the University of Maryland. Based upon the most recent data, we also use new methods for imputing missing data, as discussed in the section on baseline scores.
+
+References
+
+Blanc, I., Friot, D., Margni, M., & Jolliet, O. (2008). Towards a new index for environmental sustainability based on a DALY weighting approach. Sustainable Development, 16(4), 251–260. https://doi.org/10.1002/sd.376 Hsu, A., Johnson, L., & Lloyd, A. (2013). Measuring Progress: A Practical Guide from the Developers of the Environmental Performance Index. New Haven, CT: Yale Center for Environmental Law & Policy. 2016 Environmental Performance Index: Global Metrics for the Environment. New Haven, CT: Yale Center for Environmental Law & Policy. Available: https://doi.org/ 10.13140/RG.2.2.19868.90249 Hsu, A., Esty, D. C., de Sherbinin, A., & Levy, M. A., et al. (2016).. New Haven, CT: Yale Center for Environmental Law & Policy. Available: https://epi2016.yale.edu Munda, G. (2012). Choosing Aggregation Rules for Composite Indicators. Social Indicators Research, 109(3), 337–354. https://doi.org/10.1007/s11205-011-9911-9 Munda, G., & Nardo, M. (2009). Noncompensatory/nonlinear composite indicators for ranking countries: a defensible setting. Applied Economics, 41(12), 1513–1523. https://doi.org/10.1080/00036840601019364 Nardo, M., Saisana, M., Saltelli, A., Tarantola, S., Hoffmann, A., & Giovannini, E. (2008). Handbook on constructing composite indicators: methodology and user guide. Paris: OECD. Rockström, J., Steffen, W., Noone, K., Persson, Å., Chapin, F. S., Lambin, E. F., … Foley, J. A. (2009). A safe operating space for humanity. Nature, 461(7263), 472–475. https://doi.org/10.1038/461472a Zhang, X., & Davidson, E. (2016). Sustainable Nitrogen Management Index (SNMI): methodology. University of Maryland Center for Environmental Science.

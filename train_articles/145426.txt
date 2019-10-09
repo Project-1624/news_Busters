@@ -1,0 +1,58 @@
+Zero Rating: What It Is and Why You Should Care
+Zero-rating has become the bleeding edge of the net neutrality debate. India recently decided to reject zero-rating plans such as Facebook's Free Basics, while in the United States carriers push boundaries with zero-rating experiments such as T-Mobile's Binge-On plan (which led to a public spat with EFF over our criticism of the service, for which Legere has since apologized), as well as AT&T's Sponsored Data, Verizon's FreeBee, and Comcast's Stream TV.
+
+What is zero-rating and why should you worry about it? In a nutshell, zero-rating plans exempt particular data from counting against a user's data cap, or from accruing any excess usage charges. The most dangerous of these plans, such as the AT&T and Verizon offerings, only offer their users zero-rated data from content providers who pay the carriers money to do so. Such “pay for play” arrangements favor big content providers who can afford to pay for access to users' eyeballs, and marginalize those who can't, such as nonprofits, startups, and fellow users.
+
+But serious risks are presented even by zero-rating schemes that aren't pay-to-play. Let's break it down:
+
+1. Distorting Content Consumption
+
+Zero rating may provide an unfair advantage to the provider of the content that is zero rated, compared to other content providers or potential new entrants. For example, one preliminary study in South Africa suggested that a zero-rating plan for Twitter caused a significant spike in Twitter usage while the promotion was in place. The same study observed an even more dramatic spike as a result of a similar program zero-rating WhatsApp. This may be more of a problem when the content provider is already popular (such as Facebook or Google), than when the content provider is small and local, perhaps offering content in a local language or to a local community. The point is: zero-rating funnels internet users to the content and services that are zero-rated at the expense of alternatives. Even schemes that purport to be open to widespread participation in fact make choices about who may join and how to allocate resources to enable different services to join the program. For example, T-Mobile's zero-rating programs have favored commercial over noncommercial services and have favored music and video over other types of data (such as video chat or online gaming).
+
+2. Distorting Access Markets
+
+Similarly, there may be an unfair advantage to the network operator who zero rates their own content, compared to competing operators who don't do so. For example, by zero rating their own app, music or video stores they have a better chance of locking their customers in to their service. This is likely to be less of a problem in more competitive markets where the consumer has a wide choice of network operators, especially if there is also an antitrust regulator who can step in to curtail practices that have particularly anti-competitive effects.
+
+3. The Walled Garden Effect
+
+Zero rating limits users to a narrow experience of the Internet, and disincentivizes them from venturing beyond those services that are provided for free. This is an argument commonly directed against Facebook's Free Basics service that is offered in several developing countries. Indeed, there is evidence that at least some users may never venture beyond Facebook. Mark Zuckerberg claims to have data that half of Free Basics users in fact upgrade to full Internet access within 30 days, but this net positive effect on Internet access seems to be minimal. Given the habits of the typical Internet user, those who upgrade likely continue to disproportionately use the services they could sign up for during their stint with zero-rating, a lasting harm to competition and public discourse.
+
+4. Privacy and Security
+
+Every zero rating program in existence today has required the establishment of new Internet gatekeepers, who create a chokepoint for control of users' Internet experience. In order to enforce their zero rating policies, these gatekeepers may be required to engage in deep packet inspection, or to disallow the use of encryption, in either case introducing significant privacy and security problems that otherwise would not exist.
+
+5. Centralizing Power in New Internet Gatekeepers
+
+Beyond the obvious potential impacts on competition, privacy and security, zero-rating plans may cause a more fundamental harm: Widely embraced, they threaten to rewrite the rules upon which the Internet was built. By turning service providers into gatekeepers – even benevolent ones -- zero-rating helps transform the Internet from a permission-less environment (in which anyone can develop a new app or protocol and deploy it, confident that the Internet treats all traffic equally) into one in which developers effectively need to seek approval from ISPs before deploying their latest groundbreaking technology. With zero rating, developers and engineers are no longer able to depend on the core assumption that the Internet treats all data equally. Content providers who have to make tradeoffs about which zero-rating technical requirements to implement will tend to favor the ISPs who already have the largest audiences, further cementing the largest incumbents in those markets. The result may benefit big ISPs and incumbent content platforms who can play the zero rating game to their advantage, but likely not innovators and users who can't.
+
+We are skeptical that the benefits of zero-rating plans are likely to outweigh the practical costs (particularly when, as in the United States, those “benefits” are nothing but relief from arbitrary data caps imposed by carriers). Nonetheless, zero rating schemes that broaden access without presenting any of the above problems to a significant degree may deserve a second look.
+
+Zero Rating is Usually Only a Temporary Fix
+
+Of course, users in wealthy countries accessing music and video via their mobile devices are not the most compelling use case for zero-rating. A more compelling one is that of users in developing countries, where the cost of basic Internet access remains high, and where zero rating is presented as one piece of the solution to that problem—and indeed, it is a real problem, that demands real solutions. If zero rating can help, ought we to consider it as part of a long-term solution?
+
+To help answer this, we might look to the country with one of the longest histories of the use of zero rating, to see how this practice has affected access in that country over the years. It happens not to be a developing country, but rather a geographically isolated one, where the cost of international transit data was historically very high—Australia.
+
+In Australia's early Internet, broadband Internet accounts would typically be sold with low quotas such as 250Mb, and excess usage fees as high as 24c per megabyte, making large downloads prohibitively expensive for most. On the other hand, ISPs could, and did, exchange data that was available on their local networks with other Australian ISPs at almost no cost at all, by interconnecting at a local Internet exchange point (IXP)—a practice called peering.
+
+And they passed this cost saving onto their users. From about 1997 to about 2005, the majority of ISPs who interconnected at Australia's largest and most successful non-profit IXP, which was then based in Perth, would allow users to access resources exchanged there for free. In other words local content such as gaming servers, mirrors of Linux ISO images, and university FTP sites, would be zero rated (even though it wasn't called that back then).
+
+How does this practice rate against the problems identified above? Because it was only local content that was exchanged, it didn't provide an unfair advantage to any globally dominant content providers. Because the IXP was non-profit and most local ISPs interconnected there, it didn't unfairly advantage any of them against their competitors. Because the most popular resources were hosted overseas, it likely didn't dissuade anyone from using the full Internet. And there was no need to use deep packet inspection, or to disable encryption, to identify the resources eligible for zero rating. Therefore, this was an example of the kind of zero rating practice that would probably pass a regulator's muster.
+
+Nevertheless, today the practice has almost completely disappeared. Why? Because since those early days, the cost of international transit data (but not the cost of delivery of data across the last mile to the consumer) has dramatically fallen. Although data caps remain in place, they are now orders of magnitude higher—typically 1TB on an entry level plan. As a result, allowing users more and cheaper access to the full Internet became a better proposition for users and ISPs alike than providing them with zero-rated access to local content.
+
+The lesson that we draw from this is that zero rating is usually only suited for scenarios where bandwidth is extremely expensive (or where demand for bandwidth far exceeds supply, and zero-rating is used to incentivize lower bandwidth usage)—but even then, if and only if it avoids the harms identified above. And at worst—because of those harms—it's a threat to competition and freedom of expression.
+
+Legal Status of Zero Rating
+
+Why is this important? Because the law doesn't treat all zero rating in the same way. Under the Federal Communication Commission (FCC) order of March 2015, the legality of zero rating falls within the legal grey area of the FCC's “general conduct” rule, which demands a case-by-case analysis to determine whether the conduct causes unreasonable discrimination or disadvantage, based on an array of factors including effects on end-user control, competition, consumer protection, innovation and free expression.
+
+Note that we don't think much of the general conduct rule, but it does represent the law, and there is an argument [PDF] that T-Mobile's service infringes it. And there is an even more compelling argument that the AT&T and Verizon offerings do so.
+
+In Europe the position may be similar, although the legal status of zero-rating will remain uncertain until after the European Body of European Regulators of Electronic Communications (BEREC) issues a set of guidelines for the implementation of Europe's new net neutrality directive, which it is due to do by August this year.
+
+Although not binding upon European regulators, a recent Council of Europe recommendation suggests the adoption of a “general conduct” style approach to the issue, proposing that:
+
+preferential treatment of traffic on the basis of arrangements between Internet service providers and providers of content, applications and services should be allowed only if sufficient safeguards for users’ ability to access, use and impart information are in place. In particular, preferential treatment of traffic should not diminish or affect the affordability, performance or quality of users’ access to the Internet.
+
+If particular zero rating services are to be accepted at all, it should be on a provisional basis, narrowly targeted to address pressing access problems, without endangering competition, user choice, innovation, free expression, or user privacy and security. For users in developing countries, there may be a case for that. But the ISPs have not made that case persuasively for those users, which is one reason India firmly rejected the whole concept last week. And they certainly have not made the case for the rest of the world.

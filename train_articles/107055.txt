@@ -1,0 +1,50 @@
+What really happened? And what...
+Like we previously posted on our blog here and here, a part of our infrastructure that was used to store user’s information was breached by an ethical hacker. The data downloaded as a result of this breach contained five data points for 17 million users - names, emails, numeric user IDs, usernames, and password hashes. The password hashes leak was a little more contained and impacted a subset of 6.6 million users - all the other users were using Facebook/Google for login - we don’t have any password information for those accounts.
+
+The hacker had listed these data points on a dark web marketplace.
+
+We were lucky we could get in touch with the person (hacker) in good time. As it turned out, the hacker was a security researcher (ethical hacker) who had put up the data for sale to get our attention (and/or to teach us a lesson). He/she only wanted us to launch a good bug bounty program on Hackerone, as he/she wanted to make sure that security researchers were rewarded well for their work. The hacker also shared the database with us and took the sales link down once we promised to launch the bug bounty program. He/she also agreed to destroy the data at their end immediately.
+
+Since we hope no other company faces a breach like we did, we wanted to share our learnings from this incident and hope this is helpful for other growing companies.
+
+How did the hacker get access to this data?
+
+The hacker explained to us how he/she was able to breach our infrastructure to access a part of our database.
+
+It all started in November 2015, when 000webhost’s user database was leaked online (with plain text passwords). One of our developers had his personal hosting account with the service. As a result of 000webhost’s user account data breach, his email address and password also became available publicly.
+
+Unfortunately, the developer was using the same email and password combination on Github. Back then, when 000webhost passwords leaked, we were not using 2 factor authentication on Github (we have been using two-factor authentication on Github since the last few months). With the login credentials for the developer, the hacker was able to use the developer’s password to get into his Github account and review one of our code repositories to which the developer had access (this happened some time last year, but for some reason the hacker only exploited the code very recently).
+
+Getting access to a part of the code didn’t give the hacker direct access to the database. Our systems are only accessible for a specific set of IP addresses. But the hacker was able to scan through the code, and he ended up exploiting a vulnerability in the code to access the database (via remote code execution). The piece of code which was vulnerable was a part of a deprecated system, and hadn’t been modified for a few years now.
+
+Yes, someone has some of our code, and that’s a risk. But we have taken every step conceivable to us to make sure that the code cannot be exploited in any way possible to breach Zomato’s infrastructure. Also, one more thought that gives us comfort - with every passing day, the leaked code is getting more and more out-of-date.
+
+While this is a case of extraordinarily bad luck, we were fortunate enough to resolve this with minimal damage. This incident taught us a good lesson on the importance of security and how we have to be paranoid about it going forward.
+
+In hindsight, what helped us contain the extent of the breach?
+
+
+
+Our use of multiple environments, each segregating and containing a part of business ensured that the data breach was limited to only one part of Zomato’s database; and the hacker did not gain access to all the various databases used by different businesses. Additionally, we had made two-factor authentication on Github mandatory a few months back, which cut off the hacker’s access to the developer’s Github account for updated code. The hacker was working off an old code base - and this code base had changed significantly over the last few months, limiting the extent of data the hacker could access with the copy of the old code base. Keeping lines of communication open with the hacker helped us understand his/her motive of the breach and address his/her (very reasonable) demands. This in turn, led to the hacker cooperating with us by pulling down the sales listing from the dark web. We have good network restrictions in place, which ensured that our servers weren’t compromised. Which also means that our payment processing systems which run on a separate secure environment (PCI DSS Level 1 Certified) were never compromised. We have also submitted a compliance report after a detailed assessment to our payment partners - Visa Inc, and our payment gateway partners.
+
+How did this impact the business?
+
+
+
+We got an overwhelming amount of support from our users. Our traffic and food ordering have been holding flat or growing in the aftermath of the incident. We are thankful and extremely lucky to have a brand/product which people love and are willing to forgive for even some very big mistakes. We really hope we don’t let any of our users down anytime in the future.
+
+What’s next?
+
+Our team’s commitment to addressing reports for all security issues in a responsible and timely manner has become even stronger. We will continue to follow best practices and learn from the ethical hacker community to make Zomato a safer place for all users.
+
+We are also in the process of introducing a monetary reward based bug bounty program on Hackerone very soon.
+
+
+
+We are actively working to ensure all our systems are secure, and will also continue to invest in securing our users’ data by adopting more stringent security practices.
+
+We are also going to invest time and effort in creating a “working group” of internet companies in India and exchange knowledge about best practices for security. We will also hold meet-ups (like the Product Huddle we conduct in Delhi NCR) so that young and large internet companies can get together and learn from each other about security.
+
+Last thing - we have since been advised by multiple industry experts to take some action against the developer, in order to “set an example” and “influence public perception”. We know that this mishap is on the organisation, and not on an individual. Instead of pinning the responsibility on someone, we are going to use this as a learning opportunity for all of us.
+
+- Deepinder & Gunjan

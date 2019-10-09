@@ -1,0 +1,62 @@
+How new national cybersecurity center aims to make Poland a tougher nut to crack
+Image: Bogdanski/NC Cyber
+
+With the NIS directive on protecting national network and systems in place since last year, EU countries are now having to streamline their cybersecurity efforts.
+
+The directive requires them to set up computer security incident response teams (CSIRTs) and computer emergency response teams, or CERTs, if they don't already have them, and ensure these bodies coordinate with one another for maximum effectiveness.
+
+The manner in which they do so is up to the member countries, as long as they also keep in mind the need to collaborate across borders to improve cybersecurity.
+
+Poland has chosen to tackle the requirements by setting up a coordinating national body in July last year, under the auspices of the country's computer-research organization, NASK.
+
+The National Cybersecurity Center, or NC Cyber for short, is responsible for facilitating security collaboration between sectors and for being an early-warning system. That is not to say that there was nothing before that, the center's director, Juliusz Brzostek, tells ZDNet.
+
+"We've been doing research on cybersecurity as NASK before July 2016, even though we were mostly focused on developing new security technologies," he says.
+
+"We've been administering the .pl domain register since 1991, so we feel responsible for the security of internet users, and we increased our security involvement back in 1995 with the start of our first CERT. CERT Poland is one of the most active teams in the world and has very experienced researchers."
+
+The Polish cybersecurity network, as Brzostek called it, has been expanding ever since.
+
+In 1997, CSIRT Telekomunikacja Polska, later CERT Orange, was added to the mix and focuses on users of telecom services. CERT.GOV.PL has the government and its agencies as its constituents and is also involved in CIP.
+
+"We also have a sectoral initiative in both banking and the energy sector. Although these initiatives are not sectoral CSIRT/CERT yet, they have huge potential to attain that status," he says.
+
+But while cybersecurity has been part of Poland's internet landscape from the beginning, it was spread out over separate pockets and, more importantly, lacked legislative support.
+
+"There was no law that spelled out their responsibilities, mostly because the fast evolution of the internet and technology made this very difficult. The other reason was that the lack of law regulations did not hold back cybersecurity initiatives. As a research institution, we were successfully developing the capabilities of CERT Polska," he explains.
+
+"However, that has changed with the NIS directive, which demands a more coordinated approach from EU member states. That is why the minister of digital affairs decided that the role of CERT Polska should be expanded."
+
+At first sight, the numbers themselves justify the creation of NC Cyber.
+
+"In 2016, NC Cyber and its predecessor have managed 1,926 incidents, compared with 1,456 in 2015," Brzostek says.
+
+"In 2016, the number of reports was 7,275. But from our analysis it shows that the number of actual attacks has not risen that sharply, but that awareness has. We simply have more reports than before, as more companies choose to report their incidents instead of sweeping them under the carpet."
+
+A reason might be that attacks are more serious than 20 years ago. The motivations are primarily financial, and the underground that is involved with these attacks is well-funded and has a financial motive. "And then there are attacks that are the result of spying, terrorism or simple invigilation," Brzostek says.
+
+European regulation is an important reason for the existence of NC Cyber. The NIS Directive, which has been adopted by the EU last summer, has prompted the creation of NC Cyber, just as it has prompted similar organisations in other European countries. However, there were other reasons for Poland to seriously shake up its cybersecurity landscape.
+
+Brzostek mentions a highly critical 2015 audit by Poland's highest auditing chamber, which slammed Polish institutions for lack of proper mechanisms when it comes to security breaches. "NASK was one of the few institutions that was rated positively," he says.
+
+"Based on that inspection, the Ministry of Digital Affairs consulted with different entities on how to approach a national cybersecurity plan from a technical point of view. One of those consultations was with NASK because we have years of experience. People from NASK have been involved with ENISA, for example."
+
+NC Cyber is now the prime institution that private companies can turn to for security notifications. Its role is, limited to just that: "We're not aiming to replace security vendors," Brzostek emphasizes.
+
+"Our role is to secure national assets, which means that we protect key services [as defined in the NIS directive]. If we obtain information that a corporation is being attacked, we will notify them. But we will not jump in and remove the threat at that company, assess losses, and so forth. There is a whole commercial market for that.
+
+"We're not a mega-institute that replaces all the other bodies. It helps that CERT Polska has a good reputation and won the trust of private companies long NC Cyber was established."
+
+Similarly, NC Cyber is not involved with cyber-defense in a military or anti-terrorism context.
+
+"That has been codified in law just before the NATO summit in Warsaw last year. We have no role to play there. If we receive any information on a cyber-terror threat, we're obliged to notify the intelligence service. It is not our domain, even when we will assist if they need our knowledge or expertise in the civilian sphere."
+
+The target operating model of NC Cyber is still being defined along the road, and depend on a government strategy that the Polish Ministry of Digital Affairs has prepared and is under current review.
+
+But it would have been terribly unwise to wait before starting up NC Cyber after that strategy has become official policy, or even after the NIS directive came into force, Brzostek argues.
+
+"That's why in July 2016 we drafted an early concept for a so-called nationwide system of cyber-space security. It is a compact draft for an organizational model for the collaboration of different bodies in the field of cybersecurity. This has only just begun and will take another year or so."
+
+Until then, NC Cyber works according to a strategy laid out in October, that according to Brzostek will only need some tweaks down the line.
+
+Read more on security

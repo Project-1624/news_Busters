@@ -1,0 +1,82 @@
+Credit card skimmers: How you can scam the skimmers
+Enlarge Image Ariel Nunez/CNET
+
+With one swipe of a credit card, you've just paid for some gas. You may also have given thieves some very valuable information. That's if you've just fallen victim to a skimmer.
+
+Card skimmers, which steal your credit or debit card data when you swipe at payment and money machines, have been around for nearly a decade, disguised so you don't know you're being duped. The devices have evolved, though, and researchers say they're now at the point where you really, really can't tell the difference.
+
+Plus, they've swept across the United States at an alarming rate. The number of breached ATMs increased sixfold from 2014 to 2015 and rose again in 2016 by 70 percent, according to FICO, an analytics software company. In June of 2017, the Federal Trade Commission put out a public warning, with tips on how you can avoid having your card information stolen.
+
+We're going to tell you how how credit card skimmers work, how hackers steal your money and what you can do to protect yourself.
+
+Now playing: Watch this: Cyberattack: How we were phished by professional hackers
+
+What are credit card skimmers?
+
+Hackers have figured out how to create virtual skimmers -- malware that's installed remotely -- which let them steal card information without even touching the ATM, fuel pump or other device.
+
+It's an evolution from the physical skimmers, where thieves had to walk up to a machine to plant their hardware hack. In January 2016, one hacking campaign that used virtual skimmers across multiple ATMs netted thieves $13.5 million euros, security firm Trend Micro discovered.
+
+Skimmers are getting harder and harder to notice, according to Mark Nunnikhoven, Trend Micro's vice president of cloud security. "If a machine has been compromised with software," he said, "there's no way you're able to tell."
+
+As if you didn't already have enough to worry about when it comes to computer security.
+
+How big a problem are they?
+
+2018 alone has brought a number of threats from all kinds of angles. In May of 2017, ransomware took over PCs around the world, holding them hostage for payment, and that likely won't be the last time. Then on the credit card front, there was that massive Equifax hack, which coughed up sensitive information on nearly half the US population.
+
+When 100 credit card numbers can be sold online for $19 a bundle, it's easy to see the appeal for cybercriminals. Credit card information is feeding an entire illicit ecosystem, with some thieves even opening online schools to teach the hackers of the future.
+
+Hackers can create virtual skimmers by breaking into a bank's network -- for instance, by tricking an executive into providing access, as Nunnikhoven has seen. Instead of compromising physical ATMs one at a time, hackers can steal from multiple ATMs all at once. And there's less risk of getting caught.
+
+Now playing: Watch this: This app helps you find ATM skimmers so you don't get...
+
+A hacking group called Magecart has attacked online stores like NewEgg and Ticketmaster UK to do just that, by inserting skimmers on checkout pages so they can steal your credit card information while you're shopping online.
+
+"ATMs are really just very simple computers that happen to be attached to a box full of cash," Nunnikhoven said. "We have enough problems securing computers that aren't attached to cash."
+
+How are institutions fighting thieves?
+
+Banks are working to stay a step ahead of the thieves, with techniques like introducing chips on cards, which are more secure than the magnetic stripes.
+
+Apple has even considered getting rid of credit card numbers all together. With the Apple Card, it creates a new security number every time you make a purchase, instead of a number you have to use every single time that can be stolen.
+
+New rules are helping, too. As of October 2015, any stores still using old swipe terminals became liable when fraud occurs. That got businesses adopting the new tech pretty quickly. But take note: The rule doesn't apply to gas stations until 2020.
+
+Which means thieves who used to target random ATMs in stores are now swarming to gas pumps instead.
+
+SparkFun
+
+"We're seeing an uptick of skimmers becoming more common at fuel stations," said Angel Grant, director of fraud and risk intelligence at security firm RSA. "We anticipate this to continue to grow."
+
+At gas stations, the skimmers can be installed on card readers in less than 30 seconds, and they'll record all your card data for collection by the bad guys. It's an easy gig: Those pumps are often unattended late at night, and thieves can plug in their skimmers while pretending to get gas.
+
+The skimmer stores the data, and the scammers return to grab the stolen credit or debit card numbers over Bluetooth, without touching the pump again. Gas station owners aren't likely to rush to make changes. It's more expensive to upgrade pumps than ATMs.
+
+Protect yourself from getting scammed
+
+On Reddit, it's a thing now to see posts of people finding card skimmers by fidgeting with the card reader on an ATM and sometimes snapping it right off. But there's an alternative: Skimmer Scanner, an app to save you from having to brutalize your local cash machine.
+
+Because the majority of these skimmers use Bluetooth for harvesting the stolen data, your phone should be able to detect them easily. Nathan Seidle, the founder of SparkFun, created the Skimmer Scanner app to automatically detect the skimmer's Bluetooth signal, which is most noticeable at gas pumps.
+
+The Boulder-based company worked with local police in Colorado to take a look at a popular skimmer in the region, a module called the HC-05. These modules are typically used for DIY educational projects to provide Bluetooth capabilities on homemade gadgets. But they're also extremely common for credit card skimmers and cost only $3 each.
+
+Apple
+
+"They're obviously mass-produced," Seidle said. "It's so cheap that they can just pepper these things all over the place."
+
+Because these skimmers are a bargain, their Bluetooth names can't be changed -- it's always HC-05. They also have a hard-coded default password: "1234." In other words, their weak spot is the same one that can get you in trouble with lots of the gadgets in your home.
+
+The Skimmer Scanner looks for connections with that name; then attempts to connect with the default password, the same way the thief who planted it would. The app then sends the letter "P" as a command to the Bluetooth device, and if it's a skimmer, it'll send back "M." The system has been able to detect skimmers at distances between 5 and 15 feet.
+
+The Android app is available on the Google Play store for free, and in open-source format on Github.
+
+Researchers said the app is a great step in fighting back, given how common the HC-05 Bluetooth module is, but it's not going to stop all skimmers. Eventually, too, once hackers realize how dumb those Bluetooth modules are, Nunnikhoven said, they'll move onto something that isn't as detectable.
+
+"There's a limited lifetime on apps like Skimmer Scanner," he said. "The attackers are always changing their tactics to avoid getting caught."
+
+
+
+The app was first released in 2017, and skimmers have moved onto new technology since, but it's still useful for detecting this specific kind of scam.
+
+Update: This story originally published Oct. 1, 2017 and was updated most recently April 4, 2019.

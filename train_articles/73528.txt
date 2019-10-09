@@ -1,0 +1,148 @@
+COMMENTARY: Health workers need optimal respiratory protection for Ebola
+Editor's Note (Oct 16): See the statement released today by CIDRAP related to this commentary.
+
+
+
+Editor's Note (Sep 17): Today's commentary was submitted to CIDRAP by the authors, who are national experts on respiratory protection and infectious disease transmission. In May they published a similar commentary on MERS-CoV. Dr Brosseau is a Professor and Dr Jones an Assistant Professor in the School of Public Health, Division of Environmental and Occupational Health Sciences, at the University of Illinois at Chicago.
+
+Authors' disclaimer: This commentary reflects the personal opinions of the authors. It does not represent the opinion of the University of Illinois at Chicago or any other organization. The authors have not received any compensation for the preparation of this commentary or any associated public statements. The authors do not endorse any specific manufacturer or brand of personal protective equipment (PPE) and have no direct or indirect financial interest in the use of a specific brand of PPE. In the past one or both of the authors have received research funding from numerous government agencies and organizations, including 3M.
+
+
+
+
+
+Healthcare workers play a very important role in the successful containment of outbreaks of infectious diseases like Ebola. The correct type and level of personal protective equipment (PPE) ensures that healthcare workers remain healthy throughout an outbreak—and with the current rapidly expanding Ebola outbreak in West Africa, it's imperative to favor more conservative measures.
+
+The precautionary principle—that any action designed to reduce risk should not await scientific certainty—compels the use of respiratory protection for a pathogen like Ebola virus that has:
+
+No proven pre- or post-exposure treatment modalities
+
+A high case-fatality rate
+
+Unclear modes of transmission
+
+We believe there is scientific and epidemiologic evidence that Ebola virus has the potential to be transmitted via infectious aerosol particles both near and at a distance from infected patients, which means that healthcare workers should be wearing respirators, not facemasks.1
+
+The minimum level of protection in high-risk settings should be a respirator with an assigned protection factor greater than 10. A powered air-purifying respirator (PAPR) with a hood or helmet offers many advantages over an N95 filtering facepiece or similar respirator, being more protective, comfortable, and cost-effective in the long run.
+
+We strongly urge the US Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) to seek funds for the purchase and transport of PAPRs to all healthcare workers currently fighting the battle against Ebola throughout Africa—and beyond.
+
+There has been a lot of on-line and published controversy about whether Ebola virus can be transmitted via aerosols. Most scientific and medical personnel, along with public health organizations, have been unequivocal in their statements that Ebola can be transmitted only by direct contact with virus-laden fluids2,3 and that the only modes of transmission we should be concerned with are those termed "droplet" and "contact."
+
+These statements are based on two lines of reasoning. The first is that no one located at a distance from an infected individual has contracted the disease, or the converse, every person infected has had (or must have had) "direct" contact with the body fluids of an infected person.
+
+This reflects an incorrect and outmoded understanding of infectious aerosols, which has been institutionalized in policies, language, culture, and approaches to infection control. We will address this below. Briefly, however, the important points are that virus-laden bodily fluids may be aerosolized and inhaled while a person is in proximity to an infectious person and that a wide range of particle sizes can be inhaled and deposited throughout the respiratory tract.
+
+The second line of reasoning is that respirators or other control measures for infectious aerosols cannot be recommended in developing countries because the resources, time, and/or understanding for such measures are lacking.4
+
+Although there are some important barriers to the use of respirators, especially PAPRs, in developing countries, healthcare workers everywhere deserve and should be afforded the same best-practice types of protection, regardless of costs and resources. Every healthcare worker is a precious commodity whose well-being ensures everyone is protected.
+
+If we are willing to offer infected US healthcare workers expensive treatments and experimental drugs free of charge when most of the world has no access to them, we wonder why we are unwilling to find the resources to provide appropriate levels of comparatively less expensive respiratory protection to every healthcare worker around the world.
+
+How are infectious diseases transmitted via aerosols?
+
+Medical and infection control professionals have relied for years on a paradigm for aerosol transmission of infectious diseases based on very outmoded research and an overly simplistic interpretation of the data. In the 1940s and 50s, William F. Wells and other "aerobiologists" employed now significantly out-of-date sampling methods (eg, settling plates) and very blunt analytic approaches (eg, cell culturing) to understand the movement of bacterial aerosols in healthcare and other settings. Their work, though groundbreaking at the time, provides a very incomplete picture.
+
+Early aerobiologists were not able to measure small particles near an infectious person and thus assumed such particles existed only far from the source. They concluded that organisms capable of aerosol transmission (termed "airborne") can only do so at around 3 feet or more from the source. Because they thought that only larger particles would be present near the source, they believed people would be exposed only via large "droplets" on their face, eyes, or nose.
+
+Modern research, using more sensitive instruments and analytic methods, has shown that aerosols emitted from the respiratory tract contain a wide distribution of particle sizes—including many that are small enough to be inhaled.5,6 Thus, both small and large particles will be present near an infectious person.
+
+The chance of large droplets reaching the facial mucous membranes is quite small, as the nasal openings are small and shielded by their external and internal structure. Although close contact may permit large-droplet exposure, it also maximizes the possibility of aerosol inhalation.
+
+As noted by early aerobiologists, liquid in a spray aerosol, such as that generated during coughing or sneezing, will quickly evaporate,7 which increases the concentration of small particles in the aerosol. Because evaporation occurs in milliseconds, many of these particles are likely to be found near the infectious person.
+
+The current paradigm also assumes that only "small" particles (less than 5 micrometers [mcm]) can be inhaled and deposited in the respiratory tract. This is not true. Particles as large as 100 mcm (and perhaps even larger) can be inhaled into the mouth and nose. Larger particles are deposited in the nasal passages, pharynx, and upper regions of the lungs, while smaller particles are more likely to deposit in the lower, alveolar regions. And for many pathogens, infection is possible regardless of the particle size or deposition site.
+
+It's time to abandon the old paradigm of three mutually exclusive transmission routes for a new one that considers the full range of particle sizes both near and far from a source. In addition, we need to factor in other important features of infectivity, such as the ability of a pathogen to remain viable in air at room temperature and humidity and the likelihood that systemic disease can result from deposition of infectious particles in the respiratory system or their transfer to the gastrointestinal tract.
+
+We recommend using "aerosol transmissible" rather than the outmoded terms "droplet" or "airborne" to describe pathogens that can transmit disease via infectious particles suspended in air.
+
+Is Ebola an aerosol-transmissible disease?
+
+We recently published a commentary on the CIDRAP site discussing whether Middle East respiratory syndrome (MERS) could be an aerosol-transmissible disease, especially in healthcare settings. We drew comparisons with a similar and more well-studied disease, severe acute respiratory syndrome (SARS).
+
+For Ebola and other filoviruses, however, there is much less information and research on disease transmission and survival, especially in healthcare settings.
+
+Being at first skeptical that Ebola virus could be an aerosol-transmissible disease, we are now persuaded by a review of experimental and epidemiologic data that this might be an important feature of disease transmission, particularly in healthcare settings.
+
+What do we know about Ebola transmission?
+
+No one knows for certain how Ebola virus is transmitted from one person to the next. The virus has been found in the saliva, stool, breast milk, semen, and blood of infected persons.8,9 Studies of transmission in Ebola virus outbreaks have identified activities like caring for an infected person, sharing a bed, funeral activities, and contact with blood or other body fluids to be key risk factors for transmission.10-12
+
+On the basis of epidemiologic evidence, it has been presumed that Ebola viruses are transmitted by contaminated hands in contact with the mouth or eyes or broken skin or by splashes or sprays of body fluids into these areas. Ebola viruses appear to be capable of initiating infection in a variety of human cell types,13,14 but the primary portal or portals of entry into susceptible hosts have not been identified.
+
+Some pathogens are limited in the cell type and location they infect. Influenza, for example, is generally restricted to respiratory epithelial cells, which explains why flu is primarily a respiratory infection and is most likely aerosol transmissible. HIV infects T-helper cells in the lymphoid tissues and is primarily a bloodborne pathogen with low probability for transmission via aerosols.
+
+Ebola virus, on the other hand, is a broader-acting and more non-specific pathogen that can impede the proper functioning of macrophages and dendritic cells—immune response cells located throughout the epithelium.15,16 Epithelial tissues are found throughout the body, including in the respiratory tract. Ebola prevents these cells from carrying out their antiviral functions but does not interfere with the initial inflammatory response, which attracts additional cells to the infection site. The latter contribute to further dissemination of the virus and similar adverse consequences far beyond the initial infection site.
+
+The potential for transmission via inhalation of aerosols, therefore, cannot be ruled out by the observed risk factors or our knowledge of the infection process. Many body fluids, such as vomit, diarrhea, blood, and saliva, are capable of creating inhalable aerosol particles in the immediate vicinity of an infected person. Cough was identified among some cases in a 1995 outbreak in Kikwit, Democratic Republic of the Congo,11 and coughs are known to emit viruses in respirable particles.17 The act of vomiting produces an aerosol and has been implicated in airborne transmission of gastrointestinal viruses.18,19 Regarding diarrhea, even when contained by toilets, toilet flushing emits a pathogen-laden aerosol that disperses in the air.20-22
+
+Experimental work has shown that Marburg and Ebola viruses can be isolated from sera and tissue culture medium at room temperature for up to 46 days, but at room temperature no virus was recovered from glass, metal, or plastic surfaces.23 Aerosolized (1-3 mcm) Marburg, Ebola, and Reston viruses, at 50% to 55% relative humidity and 72°F, had biological decay rates of 3.04%, 3.06%. and 1.55% per minute, respectively. These rates indicate that 99% loss in aerosol infectivity would occur in 93, 104, and 162 minutes, respectively.23
+
+In still air, 3-mcm particles can take up to an hour to settle. With air currents, these and smaller particles can be transported considerable distances before they are deposited on a surface.
+
+There is also some experimental evidence that Ebola and other filoviruses can be transmitted by the aerosol route. Jaax et al24 reported the unexpected death of two rhesus monkeys housed approximately 3 meters from monkeys infected with Ebola virus, concluding that respiratory or eye exposure to aerosols was the only possible explanation.
+
+Zaire Ebola viruses have also been transmitted in the absence of direct contact among pigs25 and from pigs to non-human primates,26 which experienced lung involvement in infection. Persons with no known direct contact with Ebola virus disease patients or their bodily fluids have become infected.12
+
+Direct injection and exposure via a skin break or mucous membranes are the most efficient ways for Ebola to transmit. It may be that inhalation is a less efficient route of transmission for Ebola and other filoviruses, as lung involvement has not been reported in all non-human primate studies of Ebola aerosol infectivity.27 However, the respiratory and gastrointestinal systems are not complete barriers to Ebola virus. Experimental studies have demonstrated that it is possible to infect non-human primates and other mammals with filovirus aerosols.25-27
+
+Altogether, these epidemiologic and experimental data offer enough evidence to suggest that Ebola and other filoviruses may be opportunistic with respect to aerosol transmission.28 That is, other routes of entry may be more important and probable, but, given the right conditions, it is possible that transmission could also occur via aerosols.
+
+Guidance from the CDC and WHO recommends the use of facemasks for healthcare workers providing routine care to patients with Ebola virus disease and respirators when aerosol-generating procedures are performed. (Interestingly, the 1998 WHO and CDC infection-control guidance for viral hemorrhagic fevers in Africa, still available on the CDC Web site, recommends the use of respirators.)
+
+Facemasks, however, do not offer protection against inhalation of small infectious aerosols, because they lack adequate filters and do not fit tightly against the face.1 Therefore, a higher level of protection is necessary.
+
+Which respirator to wear?
+
+As described in our earlier CIDRAP commentary, we can use a Canadian control-banding approach to select the most appropriate respirator for exposures to Ebola in healthcare settings.29 (See this document for a detailed description of the Canadian control banding approach and the data used to select respirators in our examples below.)
+
+The control banding method involves the following steps:
+
+Identify the organism's risk group (1 to 4). Risk group reflects the toxicity of an organism, including the degree and type of disease and whether treatments are available. Ebola is in risk group 4, the most toxic organisms, because it can cause serious human or animal disease, is easily transmitted, directly or indirectly, and currently has no effective treatments or preventive measures. Identify the generation rate. The rate of aerosol generation reflects the number of particles created per time (eg, particles per second). Some processes, such as coughing, create more aerosols than others, like normal breathing. Some processes, like intubation and toilet flushing, can rapidly generate very large quantities of aerosols. The control banding approach assigns a qualitative rank ranging from low (1) to high (4) (eg, normal breathing without coughing has a rank of 1). Identify the level of control. Removing contaminated air and replacing it with clean air, as accomplished with a ventilation system, is effective for lowering the overall concentration of infectious aerosol particles in a space, although it may not be effective at lowering concentration in the immediate vicinity of a source. The number of air changes per hour (ACH) reflects the rate of air removal and replacement. This is a useful variable, because it is relatively easy to measure and, for hospitals, reflects building code requirements for different types of rooms. Again, a qualitative ranking is used to reflect low (1) versus high (4) ACH. Even if the true ventilation rate is not known, the examples can be used to select an appropriate air exchange rate. Identify the respirator assigned protection factor. Respirators are designated by their "class," each of which has an assigned protection factor (APF) that reflects the degree of protection. The APF represents the outside, environmental concentration divided by the inside, facepiece concentration. An APF of 10 means that the outside concentration of a particular contaminant will be 10 times greater than that inside the respirator. If the concentration outside the respirator is very high, an assigned protection factor of 10 may not prevent the wearer from inhaling an infective dose of a highly toxic organism.
+
+Practical examples
+
+Two examples follow. These assume that infectious aerosols are generated only during vomiting, diarrhea, coughing, sneezing, or similar high-energy emissions such as some medical procedures. It is possible that Ebola virus may be shed as an aerosol in other manners not considered.
+
+Caring for a patient in the early stages of disease (no bleeding, vomiting, diarrhea, coughing, sneezing, etc). In this case, the generation rate is 1. For any level of control (less than 3 to more than 12 ACH), the control banding wheel indicates a respirator protection level of 1 (APF of 10), which corresponds to an air purifying (negative pressure) half-facepiece respirator such as an N95 filtering facepiece respirator. This type of respirator requires fit testing.
+
+Caring for a patient in the later stages of disease (bleeding, vomiting, diarrhea, etc). If we assume the highest generation rate (4) and a standard patient room (control level = 2, 3-6 ACH), a respirator with an APF of at least 50 is needed. In the United States, this would be equivalent to either a full-facepiece air-purifying (negative-pressure) respirator or a half-facepiece PAPR (positive pressure), but standards differ in other countries. Fit testing is required for these types of respirators.
+
+The control level (room ventilation) can have a big effect on respirator selection. For the same patient housed in a negative-pressure airborne infection isolation room (6-12 ACH), a respirator with an assigned protection factor of 25 is required. This would correspond in the United States to a PAPR with a loose-fitting facepiece or with a helmet or hood. This type of respirator does not need fit testing.
+
+Implications for protecting health workers in Africa
+
+Healthcare workers have experienced very high rates of morbidity and mortality in the past and current Ebola virus outbreaks. A facemask, or surgical mask, offers no or very minimal protection from infectious aerosol particles. As our examples illustrate, for a risk group 4 organism like Ebola, the minimum level of protection should be an N95 filtering facepiece respirator.
+
+This type of respirator, however, would only be appropriate only when the likelihood of aerosol exposure is very low. For healthcare workers caring for many patients in an epidemic situation, this type of respirator may not provide an adequate level of protection.
+
+For a risk group 4 organism, any activity that has the potential for aerosolizing liquid body fluids, such as medical or disinfection procedures, should be avoided, if possible. Our risk assessment indicates that a PAPR with a full facepiece (APF = 50) or a hood or helmet (APF = 25) would be a better choice for patient care during epidemic conditions.
+
+We recognize that PAPRs present some logistical and infection-control problems. Batteries require frequent charging (which requires a reliable source of electricity), and the entire ensemble requires careful handling and disinfection between uses. A PAPR is also more expensive to buy and maintain than other types of respirators.
+
+On the other hand, a PAPR with a loose-fitting facepiece (hood or helmet) does not require fit testing. Wearing this type of respirator minimizes the need for other types of PPE, such as head coverings and goggles. And, most important, it is much more comfortable to wear than a negative-pressure respirator like an N95, especially in hot environments.
+
+A recent report from a Medecins Sans Frontieres healthcare worker in Sierra Leone30 notes that healthcare workers cannot tolerate the required PPE for more than 40 minutes. Exiting the workplace every 40 minutes requires removal and disinfection or disposal (burning) of all PPE. A PAPR would allow much longer work periods, use less PPE, require fewer doffing episodes, generate less infectious waste, and be more protective. In the long run, we suspect this type of protection could also be less expensive.
+
+Adequate protection is essential
+
+To summarize, for the following reasons we believe that Ebola could be an opportunistic aerosol-transmissible disease requiring adequate respiratory protection:
+
+Patients and procedures generate aerosols, and Ebola virus remains viable in aerosols for up to 90 minutes.
+
+All sizes of aerosol particles are easily inhaled both near to and far from the patient.
+
+Crowding, limited air exchange, and close interactions with patients all contribute to the probability that healthcare workers will be exposed to high concentrations of very toxic infectious aerosols.
+
+Ebola targets immune response cells found in all epithelial tissues, including in the respiratory and gastrointestinal system.
+
+Experimental data support aerosols as a mode of disease transmission in non-human primates.
+
+Risk level and working conditions suggest that a PAPR will be more protective, cost-effective, and comfortable than an N95 filtering facepiece respirator.
+
+Acknowledgements
+
+We thank Kathleen Harriman, PhD, MPH, RN, Chief, Vaccine Preventable Diseases Epidemiology Section, Immunization Branch, California Department of Public Health, and Nicole Vars McCullough, PhD, CIH, Manager, Global Technical Services, Personal Safety Division, 3M Company, for their input and review.
+
+References

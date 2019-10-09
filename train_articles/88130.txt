@@ -1,0 +1,22 @@
+Crime Maps & Stats
+The homicide statistics for 2019 represent the daily count (statistics reflect the accurate count during normal business hours, Monday through Friday) and year-to-date total for victims of homicide and are subject to reclassification according to the rules and regulations of the FBI's Uniform Crime Reports (UCR) guidelines. The homicide statistics for years 2007 - 2018 have been submitted to the FBI as the final UCR numbers for the City of Philadelphia.
+
+All of the following Part I crime statistics are preliminary, and have not been finalized according to UCR guidelines. Year to date totals for homicide, including the previous year to which the current year is compared, are based on the number of homicide victims reported for that time period, and are subject to reclassification.
+
+Crime Mapper
+
+Crime Mapper is based on the PHL Crime Mapper web app by Dave Walk. Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under CC BY SA. Crime data from the Philadelphia Police Department.
+
+CrimeReports.com
+
+For additional crime detail and more specific data that goes further back in time, visit CrimeReports.com.
+
+More on CrimeReports.com
+
+CrimeReports.com Disclaimer and Frequently Asked Questions
+
+Archive and Raw Crime Data
+
+This layer holds Part I and Part II crime for the City of Philadelphia beginning January 1, 2006. Part I crime includes homicides, rapes, robberies, aggravated assaults, and thefts. The data displayed is generalized by the crime type and the block location. The data is updated daily. Metadata is included in the ZIP file.
+
+Raw Crime Data - 2006 to Present

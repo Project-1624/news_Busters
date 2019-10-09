@@ -1,0 +1,106 @@
+What does a dollar-saving coupon plugin really cost?
+What does a free coupon really cost? Internet commerce practically runs on coupons, coupon plugin, vouchers, and promotional codes, with a number of dedicated sites, platforms, and tools like Honey and InvisibleHand to help you save at checkout. It’s a marketing tactic dating back to the 19th century, when Asa Candler used coupons to help popularize the beverage company he bought, “distributing thousands of coupons for a complimentary glass of Coca-Cola.”
+
+Obviously Candler’s efforts were a success — perhaps you’ve heard of Coca-Cola — and today there are very few e-retailers that don’t offer the chance to “apply a code” before buying something online.
+
+Plenty of savvy users take this opportunity to do a quick Google search for an easy way to save some money, with millions of codes posted and available for free on a multitude of websites.
+
+More savvy online shoppers don’t even search for coupons anymore, but use a coupon plugin loaded into their browser, which automatically scans the webpage, hunts down, and if you’re lucky, applies the best coupon code at checkout. Going one step further is offering cash back to shoppers at certain retailers, via rewards programs.
+
+It’s basically free money. Or is it?
+
+The plugins are quick to add, easy to sign up for, and there are numerous options — Honey, InvisibleHand, PriceScout, Wikibuy, CouponFollow, and many more just to name a few. Best of all, they’re free. As Honey gleefully declares on its website, “It’s basically free money.” Of course, a range of apps also do similar things for your smartphone as well, just in case you’re shopping on your mobile device.
+
+Who wouldn’t have one?
+
+Plugins collect your data
+
+Once installed, these coupon plugins need to monitor every site you visit, just in case they have a coupon handy. That opens up your data — a stack of it — to these companies. That’s not strictly a nefarious act while they are tracking your actions online, as it needs to be ready to go when you’re making a purchase, but what happens to that data after?
+
+There’s not necessarily a need to automatically assume every one of these plugina and coupon Chrome extensions is preparing to sell your data to the highest bidder. That said, the privacy policies are varied and are not reviewed by the vast majority of these companies.
+
+Most make a point of stating that their coupon Chrome extension “does not collect any personally identifiable information” – that particular line is lifted verbatim from both InvisibleHand’s FAQs and PriceScout’s privacy notice. Honey’s privacy notice contains a familiar variation.
+
+Your metadata is being vacuumed, across every site you visit
+
+These sites say they collect the URL of the site and characteristics of the product you searched, the URL of any site you visit as a result of the plugin’s recommendation, and “anonymous technical and routing information relating to your product search” which can include your IP address — again this is from the privacy policies of both InvisibleHand and PriceScout. That’s your metadata being vacuumed, right there.
+
+Read: 10 best privacy apps for Android
+
+Basically, coupon Chrome extension companies may not be storing your credit card number or email address, but they’ve got plenty of general information that makes you at least identifiable as part of a target audience. They can sell information like that for big bucks.
+
+Apps are even worse
+
+The Play Store has plenty of apps devoted to you getting a small cashback on purchases or finding coupons to save money. Some of these are downright wild west.
+
+A license to 'Carry out other purposes to which you consent' is a flashing red-light
+
+Take Ibotta, which is pretty blatant (so much so we’re not going to link to their app). Warning bells start to go off with this line:
+
+“We work with various partners so they can provide shopping-related services, advertising, and marketing to you.”
+
+OK, that’s not dissimilar to other places, but here comes the outright bad. Ibotta grants itself a ridiculously open privacy policy, where it can do just about anything it wants:
+
+“You use Ibotta as your shopping companion, and we will use the information we collect from and about you in many ways to help you shop.”
+
+It can “provide advertisements to you” and “carry out other purposes to which you consent.”On top of that Ibotta can “anonymize or aggregate information and use and disclose it for any purpose.”
+
+That covers anything and everything, and is far worse than any of the plugins. These lines are big red flags few people would agree to if they understood it up front. Apps really are virtually lawless — and perhaps the reason Ibotta isn’t in Europe (the app isn’t available to me in Germany), which is much tougher data laws.
+
+Are they all just selling my data?
+
+Coupon and cashback sites make a commission from your purchases with them, which means selling your data is hardly necessary to stay afloat.
+
+When a Reddit post went up that attacked Honey, claiming the plugin “sends data about the sites you visit to their servers attached to a session ID which can identify all of that data back to you”, the company’s co-founder, George Ruan, jumped on to dispute the claim. Ruan pointed out that the process is the only way of getting a coupon to you at the same time.
+
+“Honey makes money by getting a commission from merchants and then giving a portion of it back to our user as cash back. We DO NOT sell or share your data in any way,” he wrote.
+
+The company makes a pretty strong attempt to prove your data isn’t sold in its terms and conditions:
+
+“We promise not to sell ANY of your personally identifiable data. Ever. We also promise that we do not collect any data that is not necessary to save you time and money. It’s that simple.”
+
+Other plugins like InvisibleHand make similar claims about how their service simply increases the chance of a sale to the vendor and thus they make their money at the back-end.
+
+Both Honey and InvisibleHand clarify they actually may share your data with third-party websites “in such a way that no personally identifying information is disclosed or can be deciphered.”
+
+It’s unclear what these apps might do with your anonymized data. Your name, email address, and date of birth aren’t up for grabs to third-parties, but the blank-faced consumer appears to be available as part of a broader demographic.
+
+Wikibuy seems to go further, noting in its privacy policy that unless you opt-out, it can provide “aggregated and anonymized information” to merchants and third parties, as well as use collected information to “develop new products, services, features, and functionality.”
+
+It’s become something of a cliché that data has replaced oil as the world’s most valuable commodity.
+
+While selling your data isn’t the sole game, accruing it to understand what works and what doesn’t makes these companies powerful.
+
+It’s become something of a cliche that data has replaced oil as the world’s most valuable commodity, so the more data-rich your company, the more you know about your existing users, the more you know about your prospective users, and the more the data might be worth.
+
+That was made evident in the 2016 lawsuit against Kanye West and Tidal, over the rapper’s album The Life of Pablo.
+
+West claimed the album would only be available on Tidal, which brought a surge of some two million new sign-ups for the streaming service. Days later the album was released to virtually all other services.
+
+A class action lawsuit was eventually filed, where the plaintiff claimed the personal information Tidal gained from 2 million new customers was worth $84 million.
+
+According to the LA Times, Honey had some 5 million users in October 2017. While a coupon plugin and a streaming service aren’t exactly like-for-like, it gives some idea of the kind of worth user information brings.
+
+Your data is part of any deal
+
+So what’s this got to do with coupon plugins?
+
+Most of them may promise to never sell your data to third parties. They also reserve the right to forego this promise in certain situations.
+
+Honey can disclose “personally identifiable” information to “a buyer, affiliate or other successor if Honey is involved in a merger, acquisition, divestiture, restructuring, dissolution or sale of all or a portion of its assets and User Provided Information and Automatically Collected Information is among the assets being transferred.”
+
+Editor's Pick What is a blockchain? – Gary Explains If you have heard of Bitcoin or any of the other cryptocurrencies, then you have probably heard the word blockchain or the term "blockchain technology". But what is a blockchain? How does it apply to …
+
+That somewhat flies in the face of its claim — made in a far more prominent position on the same privacy policy page — to not sell “ANY of your personally identifiable data. Ever.”
+
+Your personal information isn’t up for sale on a daily basis — just when it’s time for them to really cash in.
+
+Is it worth it?
+
+Ultimately, that’s a question you need to ask yourself.
+
+Pretty well every website you visit — certainly every e-commerce website — tracks your info. Plenty of partnerships between companies have been forged on the basis of sharing customer data. It’s not like these coupon plugins invented data foraging.
+
+What’s more, they can be a decent way to save money. According to the LA Times, “[Honey] users save an average of $32 a month.” That’s close to $400 per year — nothing to sneeze at.
+
+It’s the eternal struggle of the internet age: how much value do you place on privacy?

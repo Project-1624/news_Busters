@@ -1,0 +1,18 @@
+UNHCR Population Statistics
+Welcome to the UNHCR Population Statistics Database
+
+The database currently contains data about UNHCR's populations of concern from the year 1951 up to 2017 and you can use it to investigate different aspects of these populations: their general composition by location of residence or origin, their status (refugees, asylum seekers, internally displaced persons, etc.), their evolution over time, and so on..
+
+In each of the screens in the system you start by selecting the sub-set of data you are interested in, choosing one or more countries or territories of residence and/or origin. You can focus on specific types of population by checking the boxes for only those you are concerned with, and you can summarize the data by checking the boxes for only those data items by which you wish the data to be broken down.
+
+General notes
+
+A number of statistics are not shown in this system but are displayed as asterisks (*). These represent situations where the figures are being kept confidential to protect the anonymity of persons of concern. Note that such figures are not included in any totals.
+
+On each page you have the option to download the data you have selected to a comma-separated variable (CSV) format file, from which you can import the data into a spreadsheet application such as Microsoft Excel and analyse it in greater depth.
+
+UNHCR's Field Information and Coordination Support Section is responsible for this system. If you have any questions or require further information, please email us at FICSS.
+
+Notes for 2017 data
+
+Notes for 2017 data on persons of concern, refugees, asylum-seekers, internally displaced persons and stateless people can be downloaded from here.

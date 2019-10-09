@@ -1,0 +1,38 @@
+www.engineersedge.com
+Leidenfrost effect
+
+Engineering Physics
+
+The Leidenfrost effect is a phenomenon in which a liquid, in near contact with a mass significantly hotter than the liquid's boiling point, produces an insulating vapor layer keeping that liquid from boiling rapidly. This is most commonly seen when cooking; one sprinkles drops of water in a pan to gauge its temperature: if the pan's temperature is at or above the Leidenfrost point, the water skitters across the pan and takes longer to evaporate than in a pan below the temperature of the Leidenfrost point (but still above boiling temperature). The effect is also responsible for the ability of liquid nitrogen to skitter across floors. It has also been used in some potentially dangerous demonstrations, such as dipping a wet finger in molten lead or blowing out a mouthful of liquid nitrogen, both enacted without injury to the demonstrator. The latter is potentially lethal, particularly should one accidentally swallow the liquid nitrogen.
+
+The effect can be seen as drops of water are sprinkled onto a pan at various times as it heats up. Initially, as the temperature of the pan is below 100 °C (212 °F), the water just flattens out and slowly evaporates. As the temperature of the pan goes above 100 °C (212 °F), the water drops hiss when touching the pan and evaporate quickly. Later, as the temperature exceeds the Leidenfrost point, the Leidenfrost effect comes into play. On contact with the pan, the water droplets bunch up into small balls of water and skitter around, lasting much longer than when the temperature of the pan was lower. This effect works until a much higher temperature causes any further drops of water to evaporate too quickly to cause this effect.
+
+This is because at temperatures above the Leidenfrost point, the bottom part of the water droplet vaporizes immediately on contact with the hot plate. The resulting gas suspends the rest of the water droplet just above it, preventing any further direct contact between the liquid water and the hot plate. As steam has much poorer thermal conductivity, further heat transfer between the pan and the droplet is slowed down dramatically. This also results in the drop being able to skid around the pan on the layer of gas just under it.
+
+The temperature at which the Leidenfrost effect begins to occur is not easy to predict. Even if the volume of the drop of liquid stays the same, the Leidenfrost point may be quite different, with a complicated dependence on the properties of the surface, as well as any impurities in the liquid. Some research has been conducted into a theoretical model of the system, but it is quite complicated. As a very rough estimate, the Leidenfrost point for a drop of water on a frying pan might occur at 193 °C (379 °F).[citation needed]
+
+The effect was also described by the eminent Victorian steam boiler designer, Sir William Fairbairn, in reference to its effect on massively reducing heat transfer from a hot iron surface to water, such as within a boiler. In a pair of lectures on boiler design, he cited the work of one M. Boutigny & Professor Bowman of King's College, London in studying this. A drop of water that was vaporized almost immediately at 334 °F (168 °C) persisted for 152 seconds at 395 °F (202 °C). Lower temperatures in a boiler firebox might evaporate water more quickly as a result; compare Mpemba effect. An alternative approach was to increase the temperature beyond the Leidenfrost point. Fairbairn considered this too, and may have been contemplating the flash steam boiler, but considered the technical aspects insurmountable for the time.
+
+The Leidenfrost point may also be taken to be the temperature for which the hovering droplet lasts longest.
+
+It has been demonstrated that it is possible to stabilize the Leidenfrost vapour layer of water by exploiting superhydrophobic surfaces. In this case, once the vapour layer is established, cooling never collapses the layer, and no nucleate boiling occurs; the layer instead slowly relaxes until the surface is cooled.
+
+Leidenfrost point
+
+
+
+A water droplet experiencing Leidenfrost effect on a hot stove hot plate
+
+The Leidenfrost point signifies the onset of stable film boiling. It represents the point on the boiling curve where the heat flux is at the minimum and the surface is completely covered by a vapor blanket. Heat transfer from the surface to the liquid occurs by conduction and radiation through the vapor. In 1756, Leidenfrost observed that water droplets supported by the vapor film slowly evaporate as they move about on the hot surface. As the surface temperature is increased, radiation through the vapor film becomes more significant and the heat flux increases with increasing excess temperature..
+
+The minimum heat flux for a large horizontal plate can be derived from Zuber's equation,
+
+
+
+where the properties are evaluated at saturation temperature. Zuber's constant, C is approximately 0.09 for most fluids at moderate pressures.
+
+© Copyright 2000 - 2018, by Engineers Edge, LLC www.engineersedge.com
+
+All rights reserved
+
+Disclaimer | Feedback | Advertising | Contact

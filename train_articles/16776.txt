@@ -1,0 +1,85 @@
+0818 fecpftexas
+
+Emails, Judith Ingram, press officer, Federal Election Commission, Aug. 10 and 14-15, 2018
+
+From: Judith Ingram [mailto:JIngram@fec.gov]
+
+Sent: Friday, August 10, 2018 10:37 AM
+
+Hi, Gardner.
+
+I’m passing on the conclusion of our data expert:
+
+I get the same amounts. I confirmed all the transactions you included are “15,” from individuals, or “15E,” earmarked from individuals. The attached spreadsheets are just copies of the spreadsheets you sent me. I highlighted the period contribution amount column, summed it and made the cell display as currency.
+
+Contributions from TX $339,599.04
+
+Contributions from MA $117,950.00
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Tuesday, August 14, 2018 4:00 PM
+
+Judith:
+
+Hello again. In this sheet, which you provided the other day, my editors wondered how many MA donors (ponying up how much money) made their contributions via the ActBlue PAC? Put another way, how many MA donors (ponying up how much) contributed directly to Ortiz Jones? In fairness, I need to ask the same questions per the TX donors and donations.
+
+Thank you again,
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+3:46 p.m.
+
+Aug. 14, 2018
+
+Hi, Gardner.
+
+What you need to do is download the list of itemized contributors here: https://www.fec.gov/data/receipts/?two_year_transaction_period=2018&cycle=2018&data_type=processed&committee_id=C00652297&min_date=01%2F01%2F2017&max_date=08%2F14%2F2018&line_number=F3-11AI.
+
+Sort by the state column. (It will ask if you want to expand; you do.)
+
+Delete all but the Mass. and Texas entries.
+
+Then highlight/delete all the entries where ActBlue is in the Contributor Name column.
+
+You should end up with a list of just individual contributors who did not contribute through ActBlue. There may be other conduits but you could knock them out by searching for the term “Earmarked Contribution” in Column AB.
+
+Judith Ingram
+
+Press Officer
+
+Federal Election Commission
+
+Our own check of FEC records showed Ortiz Jones drawing $1,270,742 in individual contributions.
+
+From: Selby, Gardner (CMG-Austin) Sent: Tuesday, August 14, 2018 6:14 PM
+
+I’m attaching my attempted sort as suggested.
+
+It looks to me now like the candidate raised $360,989 from individual Texas donors, $193,405 from individual Massachusetts donors – and that $488,652 flowed to the candidate via ActBlue. How do I divine how much of that $488,652 came from x number of individual donors in TX and MA, respectively?
+
+G.
+
+9:30 a.m.
+
+Aug. 15, 2018
+
+It looks like the quickest way to discern this is to isolate the contributions marked “Earmarked Contribution: See Below” in Column AE and then sort by state.
+
+Contributions that were earmarked through other groups, such as Swing Left or J Street, appear to have been marked as such.
+
+Judith Ingram
+
+Press Officer
+
+Federal Election Commission

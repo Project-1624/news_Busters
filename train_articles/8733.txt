@@ -1,0 +1,12 @@
+U.S. Maritime Limits & Boundaries Frequently Asked Questions
+Where can I find electronic data of state territorial waters at 3 nautical miles (or 9 nautical miles off of Texas, Puerto Rico, and the west coast of Florida)?
+
+The Bureau of Ocean Energy Management (BOEM) manages and disseminates the Submerged Lands Act federal/state boundaries. Electronic data is here. Go to the links under “GIS Data / Shapefiles” to download data for a specific region. Note: the Gulf of Mexico dataset is in the sub-link, "Gulf of Mexico Geographic Mapping Data."
+
+How are the U.S. maritime limits drawn?
+
+The U.S. maritime limits are projected from a "normal baseline" derived from NOAA nautical charts. A "normal baseline" (as defined in the 1958 Geneva Convention on the Territorial Sea and the Contiguous Zone and Article 5 of the United Nations Convention of the Law of the Sea) is the low-water line along the coast as marked on offical, large-scale charts. Since "low-water line" does not reference a specific tidal datum, the U.S. applies the term to reference the lowest charted datum, which is mean lower low water (MLLW).
+
+The maritime limits are created using “envelope of arcs,” a method by which one rolls a virtual circle along the charted low water line and selects salient points. These salient points are called "contributing baseline points." Arcs generated from these baseline points are blended together to form a continuous limit line or envelope of arcs.
+
+The U.S. Baseline Committee reviews and approves the limits of all maritime zones on NOAA charts. It gains interagency consensus on the proper location of the baseline, using the provisions of the 1958 Convention on the Territorial Sea and the Contiguous Zone, to ensure that the seaward extents of U.S. maritime zones do not exceed the breadth permitted by international law. Current members of the Committee include the Departments of State (Chair), Commerce (NOAA), Justice, Interior (BOEM), and Homeland Security (Coast Guard), among others.

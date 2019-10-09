@@ -1,0 +1,171 @@
+The Digital Beethoven House: Conception and Demonstrator
+
+Manfred BOGEN <manfred.bogen@gmd.de>
+
+Simone LAHME <simone.lahme@gmd.de>
+
+Ulrich LECHNER <uli.lechner@gmd.de>
+
+German National Research Center for Information Technology
+
+Germany
+
+Abstract
+
+Digital libraries are organized collections of digital information. The Digital Beethoven House is an innovative digital library project of the Beethoven House Association in Bonn and GMD (Germany's national research center for information technology), which will be a worldwide pilot for the digitization of a composer-referred source collection. Ludwig van Beethoven's birthplace today contains a collection of more than 4,000 original documents. The inheritance is to be made better accessible for the worldwide public and science and at the same time protected and preserved for future generations by the application of digital media and networks.
+
+After the move of the German government from Bonn to Berlin, the city of Bonn and a big part of the surrounding region concentrates on Beethoven to attract tourists to Bonn with all its museums and facilities. Out of the different ambitious objectives digital libraries may have in general, the following issues are of special importance for the Digital Beethoven House. Beethoven and Bonn should become one notion worldwide. This message has to be taught and propagated. In addition, new ways must be found to educate culture in general and pass on the cultural heritage of Ludwig van Beethoven, especially to the younger generation, which normally does not like museum visits at all. Next, the Beethoven House Association wants to take an international leadership role in the generation and dissemination of knowledge about Ludwig van Beethoven. Finally, the Digital Beethoven House will have to contribute to the annual budget of the real Beethoven House Museum.
+
+This paper reports the nature of the Digital Beethoven House project, its conception, its technical and organizational structure, and its first implementation step, a demonstrator.
+
+Contents
+
+Ludwig van Beethoven is the most recognized and the most in-demand German cultural property. A large part of his personal and musical inheritance is in his native town of Bonn. The house where Beethoven was born and its premises are now a museum. The Beethoven House Association has maintained it since 1889 as a private carrier. It has an international reputation, it is an internationally recognized research institute and publishing house, and it contains an architectural treasure -- the famous chamber music hall "H. J. Abs."
+
+Basis for the versatile work with this singular ensemble is an extensive Beethoven collection of handwritten music, letters, first editions, sculptures, and musical instruments, as well as utensils, gathered in the course of 110 years. All this is to be made accessible by digitization for a broader interested audience.
+
+
+
+Ludwig van Beethoven (1770-1827)
+
+This paper describes the conception and a demonstrator of the "Digital Beethoven House" project. First, the outline of the project itself, scope and status, is described. Then, key components of the demonstrator -- the Digital Archive, Beethoven's Workroom, and the Beethoven Course as part of the online presence -- are introduced in more detail. The next chapter describes the challenges faced and found in this early stage of the project while implementing the demonstrator. The paper concludes with the next steps to be performed by the Beethoven House Association and GMD (German National Research Center for Information Technology).
+
+The "Digital Beethoven House" project pursues a double target. On the one hand it aims to carry Beethoven into the world and to offer an intensive treatment of the life and works of Ludwig van Beethoven over the Internet (community awareness). On the other hand the goal is to stimulate the world, by the use of innovative multimedia capabilities at a historical place, to come and see Bonn and its new attractions. Beethoven and Bonn should become synonymous.
+
+On the basis of a digital archive, which will cover all important collection objects, and will be supported by a detailed bilingual Internet offer, Bonn is to receive another attraction for music lovers and experts from all over the world. The building "Im Mohren" next to the Beethoven museum will be renovated to house a "Virtual Beethoven Salon" as a second branch of the museum. The museum, which draws its attraction particularly from its historical ambience and the aura of the exclusive, authentic exhibits, will thus receive -- contrasting and completing -- a dependence equipped with state-of-the-art technology, which will enable completely different access to the topic Ludwig van Beethoven.
+
+The first step in the implementation of the project is the digitization of substantial collection sections with support and funding of the research program "retrospective digitization of library stocks," initiated by the German Research Community (DFG). The digital archive will be part of a "distributed digital research library" to be put in place. The documents then available in digital data form ("digital copies") will form the raw material for all future applications being outlined at present. The digital collection will not be limited to document copies: it will extend to digital artifacts (e.g., three-dimensional models) that cannot be represented or distributed in printed formats.
+
+
+
+An original Beethoven manuscript
+
+The digitization has a preserving and opening meaning: on the one hand being stored in best image quality conserves an important cultural property. On the other hand, digitization is the prerequisite for reducing access to the originals as much as possible and for preserving the sensitive and valuable originals, together with actually much higher use and publicity. The digital archive will offer enhanced and innovative new access forms on the subject of Ludwig van Beethoven.
+
+
+
+An enlargement of a Beethoven manuscript (extract)
+
+The first project plan, "The Digital Beethoven House," was written at the end of 1996 by the Beethoven House staff and GMD members. It was presented at the CeBIT'97 trade fair to a public audience. For the moment, since the project financed from balance means Bonn/Berlin did not begin yet, the project is in a definition phase with different activities.
+
+For the CeBIT'99 trade fair and in order to support the project application for the "Digital Beethoven House," a demonstrator was implemented with the common effort of the Beethoven House Association and GMD, which visualizes and models key components of the future "Digital Beethoven House." It conveys a first impression and enables experiences in rapid prototyping particularly related to the project application to be written. The key components modeled are a digital archive, Beethoven's workroom as part of the future Virtual Beethoven Salon, and the Beethoven Course as element of an online presence. The key components are based on appropriate source material selected from Beethoven's works (the 6th symphony, piano sonata opus 111, and others). The demonstrator addresses only a German-speaking audience.
+
+When the funding has been granted on the basis of the project application, a conception and a concept refinement for the "Digital Beethoven House" testbed and the overall system will have to be developed in a first design phase. The testbed will contain only a subset of the documents in the Beethoven House collection and only major parts of the future functionality. In the next phase, the testbed will be implemented. The implementation will be accompanied by a scientific conduct study. The outcome of the testbed implementation and the scientific conduct study will influence the implementation of the overall system, which will follow next. Finally, after an integration effort for the overall system, the "Digital Beethoven House" will go into (pilot) operation following an urgently needed operation model and economic plan identified already in the design phase.
+
+
+
+The Digital Beethoven House project plan
+
+In a digital archive, digital copies of the original documents (autograph, sketch pages, copies corrected by Beethoven, letters of and to Beethoven, first and early printings of his works, portraits and other pictorial material, musical instruments from his possessions, and so forth) are stored in the highest image quality (repository). All documents referring to a composition or a person are hyperlinked in advance ("fixed topics"). Various search capabilities offer different access to the collection stock and its linkages.
+
+Initially, intensive sifting of material is required from catalogues and stock books in the Beethoven House before the actual digitization can take place. Then, the requirements for the scan service provider (technology, metadata and format, workflow, availability, experience, etc.) have to be specified. The requirement specification summarizes all conditions in order to receive digital copies in optimum quality.
+
+The "digital archive" will contain the digital copies of the documents, metadocuments, and different functions. The metadocuments supply additional information to the documents or are topical groupings. They include the title accommodations of the documents, fixed topics, short information about the work/document, chronological classifications of the work, references to other Beethoven sources worldwide, audio examples, film examples, statistics over the stock, references to the real museum, secondary literature, and recommendations.
+
+The digital archive offers different functions to real and online visitors: Tables of contents, index, display of the documents, extensive search functions, printout of work copies and purchase possibilities, machine-readable copies, comparison possibilities, forms for feedback and a guest book, and further information about the real museum.
+
+In the demonstrator, the digital archive is not based on a database yet. Not all of its functionality is deployed. However, it contains representations of all document types available in the Beethoven House collection, such as manuscripts, first editions, letters, sketchbooks, and pictures. From the meta information available conceptually, only a few are represented in the digital archive demonstrator component, such as short descriptions, a chronological ranking of the works, fixed topics, links to other Beethoven sources, and audio examples. Besides an index and a catalogue, searching is the most important function in the digital archive demonstrator component from a user's point of view. Only a minimum functionality is implemented here (no database).
+
+
+
+The digital archive in the demonstrator
+
+A visit to the Beethoven museum today is essentially limited to the experience of the authentic place, the memory of the composer and his works, and observing exhibits in the museum. An additional, modern interaction experience will increase the attractiveness of the house as one point of attraction for tourism in the region. One achieves this by the use of state-of-the-art technology like stereo projection techniques, three-dimensional audio systems, and feedback systems for the sense of touch. The virtual world itself is generated by a high-end graphics computer, which produces all necessary three-dimensional pictures and sound information in real time. The seamless transition from the passive looking/listening to the active inclusion of the visitors into this multimedia event increases the intensity of the experience and the attractiveness of the installation.
+
+Visitors can virtually touch the contemporary instruments and objects of the Beethoven House collection and can have a close look at the material and the mechanics used at that time. Last but not least, online studies can be made here at powerful workstations.
+
+The "Virtual Beethoven Salon" will be in a real building (Im Mohren) close to Beethoven's birthplace giving on-site and high-quality access to the whole collection of the Beethoven House. The building will be altered for the purposes of the project.
+
+In a first implementation, the "Beethoven Salon" will be a virtual environment experience of Beethoven's 6th symphony "The Pastoral." First and foremost, the music is a masterpiece and the experience must somehow be worthy of it. This is a very daunting consideration. Second, the experience should be exciting, unique, and memorable so that visitors are drawn to it and talk about it in a positive way whether they are young or old, experienced Beethoven researchers, or casual tourists.
+
+The Pastoral symphony was inspired by Beethoven's feelings about nature. It has many bird-call like passages and a massive thunderstorm movement in the middle. However Beethoven did not want it to be understood as a mimicry of nature and wrote an inscription on the first edition, which reads: "Mehr Ausdruck der Empfindung als Mahlerei" -- more an expression of feeling than a painting.
+
+A scenario for the virtual experience of Beethoven's works can be his workroom. The visitors are virtually in this space with various objects, which represent a gate in each case into a new, virtual world. In such a world, for instance, a music piece can be visualized in artistic ways. This can take place via abstract forms, colors, and geometry. Likewise the experience can be actively controlled by the visitor or only passively consummated. The content-wise items withdraw, from the visitor's point of view, behind the interaction experience.
+
+The thunderstorm movement of the Pastoral will easily attract and hold the attention of listeners. The movement is 3:50 minutes long, which is very suitable for a continual throughput of people. To honor the music it should be played at high fidelity, and interactions should complement rather than dilute the emotional experience of the masterpiece.
+
+
+
+Beethoven's Workroom
+
+The concept for the Beethoven Salon draws together the points that the Pastoral is inspired by nature, that it is an expression of feeling, and that Beethoven wrote this symphony while his hearing was deteriorating.
+
+For the demonstrator, nothing has been implemented yet. Only the concept has been described in terms of Web pages outlining the technical background and the main ideas. As long as the Beethoven Salon has not been installed in the building to be renovated (stereo display system/audio display system), this event will take place in the CyberStage™ of GMD. A QuickTime movie about this experience will be integrated in the Digital Beethoven House Web site.
+
+A museum's site on the World Wide Web (WWW) may be the first and sometimes only contact a visitor may have with a museum. A Web site can bring the museum's collections, exhibits, and educational adventures to a global audience. A Web site can reduce publication costs, lead to new sources of funding, and enhance the museum's public image. The Web site can be used as a tool to measure the success and failure of a museum's programs and exhibits and to engage the public in meaningful dialog. The Web site may be the museum's most valuable tool in the upcoming decades.
+
+The Online Presence, another component of the "Digital Beethoven House," should be an advertisement for the museum and its attached museum shop, which goes beyond conventional home pages (e.g., by a virtual tour through the real Beethoven House). Likewise, information will be offered about all events, such as exhibitions or concerts in the chamber music hall "H.J. Abs," official publications, and souvenirs (T-shirts, CDs, etc.). Pictures for reproduction or concert cards can be ordered through the Internet (electronic commerce).
+
+The WWW pages will offer a look at documents in a downgraded quality ("thumbnails"). They may attract people coming to Bonn. Additionally, the "Digital Beethoven House" will maintain a guide to Beethoven research worldwide. The normal operation of today's Beethoven Museum will be simplified and enhanced by modern technology as well.
+
+Online working groups will discuss topics and questions stimulated and moderated by the Beethoven House staff. The Beethoven House Association will be able to manage important sections of its association activities (member care, advertising, or donations) in this way more effectively.
+
+The entire WWW appearance generally addresses two user groups: the music laymen and tourists who want to become acquainted with Beethoven, and the music experts, who look for very special information about the artist's life and works in order to be able to advance their research. There must be different approaches in order to bind customers to the Internet pages of the Digital Beethoven House.
+
+In the demonstrator, only some sections (WWW pages) of the online presence are implemented, which will give access to the "Digital Archive," "Beethoven's workroom," and the "Beethoven Course."
+
+The multilingual Beethoven Course (German/English/Japanese?/Chinese?), which has to be created from scratch will interactively introduce Beethoven, his life, his works, and his time on a high level, in well-structured forms, and with simple navigation. It will be accessible over the Internet. It is to be demonstrated herein that also more sophisticated information offers are possible in the Internet, those a user not only uses for superficial surfing, but for a permanent occupation with the topic Ludwig van Beethoven. Contemporary history, music history, and history of art will be illustrated on the basis of timelines, with videos; animation; audio examples; and links to other pages, texts, and pictures. Online tasks and multiple-choice tests ("quizzes") are to help to check the learning in a lightweight way. Feedback, progress tracking, and testing should be made possible herein.
+
+The Beethoven Course gives an introduction to the life, works, and environment of the composer. It is part of the Internet experience of the Beethoven House. The course authors are Beethoven House and GMD members; the Beethoven House experts will be the teachers.
+
+The target group, for which the Beethoven Course is to be created, consists primarily of people interested in international music and Beethoven. A didactical approach is very important for these students. The music layman is to be advanced in the course gradually. At the same time, he should be able to follow his individual learning needs and his learning advancement process on one side, and to find information directly and quickly on the other side. With the structure of the Beethoven Course it is important to point out that Beethoven's life was not isolated from current events and the environment. So, the interested student has the ability to jump from each page to study the common history, science, and history of art during Beethoven's lifetime.
+
+The Beethoven Course in this phase will show how the multimedia possibilities, which the Internet offers nowadays, can be used meaningfully and effectively: To see, to hear, to feel Beethoven with (almost) all senses, to understand him and to encounter surprises. In spite of the serious and conscientiously scientific considerations, the playing item, by which the Beethoven knowledge is to be deepened, is very important. This is an item that should bring the course student not only to visit the pages frequently but also to recommend the pages to others.
+
+
+
+The Beethoven Course
+
+The Beethoven Course consists of several sections. Besides three large blocks (influences, visit of Beethoven, 6th symphony), through which the student is led and to which he will receive tasks in order to deepen learning for himself again, there are different other areas. People interested in studying Beethoven will have the opportunity to discuss in the section "communication" the most diverse aspects of Beethoven's life and his music with other students and experts (student-student and student-teacher interaction).
+
+The design of the structure of the Beethoven Course is completed to the third layer. Exemplary now some pages are deployed. A Style Guide including the design of the whole WWW appearance is in the foreground of GMD's interest here. If formative basic elements are determined, then the implementation of the pages can be done here.
+
+It took six months from the first idea to develop the demonstrator until its demonstration at the CeBIT trade fair 1999. Four people from the Beethoven House Association and nine people from GMD were involved. Additionally, we collaborated with a GMD spin-off company to produce the textures for a three-dimensional model of a Beethoven sculpture.
+
+The first lesson to be learned was a kind of culture shock. Music researchers, designers, and computer and networking experts naturally have different skills and different backgrounds, but additionally they do not understand each other from the beginning. They use a different terminology, they apply different methods, and they have different ideas about project management. It took some months to identify this situation and to overcome it. Each member of the GMD team had to read a Beethoven bibliography first and then had to listen to Beethoven music. Additionally, we built our own small Beethoven collection.
+
+The Beethoven House Association had to provide extensive working material to be used for all components in the demonstrator. It had to be digitized with off-the-shelf equipment and had to be annotated at a time. This activity took a lot of effort and was time consuming.
+
+The Beethoven museum does not collect music pieces. Therefore, the use of conventional recordings (copyright) had to be discussed with music publishers like EMI and Deutsche Grammophon. Finally, in order to integrate music examples in the demonstrator ("Beethoven is music!"), we used normal CDs, converted them to WAV/RealAudio formats, and used a RealAudio player. MIDI files were not felt to be appropriate. In a next step, we will evaluate MP3 as a format becoming popular and important in the Internet music context.
+
+While producing the Web pages for the demonstrator, we found out that a real HTML editor (WYSIWYG) is needed for economy of HTML code, convenience, and preservation of the Web design. A word processor is not powerful enough and very often produces badly arranged HTML code. We used basic text editors and a software package recommended by our Web designers, but will evaluate different products next.
+
+In addition to the problems faced while implementing the demonstrator, most of the challenges will come while designing and realizing the testbed and the overall system.
+
+Almost everything in the "Digital Beethoven House" will be based on the digital archive. Several challenges have to be mastered to establish it. The scanning system must be of high quality as there are photographs, picture postcards, three-dimensional compositions and objects, books, magazines, newspapers, and even microfilm or microfiche to scan. The valuable primary material is either available as an original or as a copy or facsimile and is often yellowed, soiled, and even fragile. The requirements for the scan service provider are quite high and the terms of reference are specified at present as a base for the selection. Additionally, the scanning has to be done on-site.
+
+Enhanced searching capabilities in the digital archive rely on sophisticated indexing methodologies (metadata). However, multimedia (video, audio, graphics) and textual information are unstructured data that normally do not contain indexing information. Structured data have been added manually by librarians in the form of keywords like author, title, and publication date. Conventional search methods only allow searching for objects by these keywords. However, more sophisticated tools and methods will have to be developed and implemented in the Digital Beethoven House's context.
+
+Having digital copies of the Beethoven manuscripts has several disadvantages too. It makes it simple on one side to publish the documents but also makes it easy on the other side to manipulate the documents, duplicate them, or distribute them without the owner's approval. It is obvious that any serious publishing effort on the Internet involving copyrighted material must include some kind of watermarking scheme. Content integrity, authentication, intellectual property, and copyright protection are the major issues here. It is technically not possible to prevent the unauthorized manipulation, but it is possible to record the information about the owner, the application purposes, and the copyright in the document itself. Watermarking, visible or invisible, is part of a solution for this problem.
+
+Some questions still have to be solved in this context and have to be followed during the implementation of the Digital Beethoven House. There is no standard method to embed and proof watermarks in digitized documents that browser, operating systems, image processing software, and hardware devices can follow, and there is no standard registration procedure for watermarks. This is needed, for example, for evolving search services, which have the task to find watermarked documents in the worldwide Internet, or for registries.
+
+Collaboration and cooperation is another goal of digital libraries in general. There are already institutions doing research on Beethoven on the World Wide Web. Interoperability is a must in this context. This may start with the exchange of documents and links between these digital libraries (shallow interoperability) and it may end with the ability of a user to access, consistently and coherently, similar classes of digital objects and services, distributed across heterogeneous repositories (deep semantic interoperability). Interoperability is achieved through metadata that allow various document formats but uniform document descriptions. There are a few international standards for metadata (e.g., Dublin Core, Warwick Framework, Consortium for the Computer Interchange of Museum Information (CIMI)) that have to be examined carefully for their applicability to the "Digital Beethoven House." Additionally, the existing in-house library system ("allegro") has to be integrated in the information and work flow.
+
+In addition, there is also the storage problem that will make the task even more complex. The access to the stored digital information is tied to special software that may become obsolete within years. Long-term digital archives therefore have to incorporate a migration strategy. Electronic commerce, security, scalability, multimedia databases, agent technology, adaptable user interfaces, measuring success, and economic models (sponsors!) are more hot topics to be discussed to mention only a few.
+
+All this stresses the high innovation potential of the project and its importance for the city of Bonn and the preservation of Ludwig van Beethoven's works.
+
+A first approximation to the complex topic, the materials, and the technique took place, which all together make the project one of the most exciting digital library projects ever. The demonstrator itself was a success. It brought the music and computer scientists of the Beethoven House Association and GMD together in a first, smaller project: interdiscipline at work. We learned a lot and got positive feedback and many constructive suggestions from our early audience. The decision makers were impressed and have trust now in the project to come.
+
+The final decision to fund the overall project is expected in May/June 1999. The project application and especially a cost evaluation need to be written for this based on the experiences of other museums and us. The project "The Digital Beethoven House" is hoped to start in the summer of 1999. The Web launch is expected then. The project funding will end in 2003/2004. After that, the "Digital Beethoven House," the new attraction of the city of Bonn, will have to fund itself.
+
+Angus, J., Wongse-Sanit, N.: Managing Your Museum Web Site, in: Museums and the Web 1999, Selected papers from an international conference, New Orleans, Louisiana, March 11-14, 1999, Edited by David Bearman and Jennifer Trant, ISBN: 885626-17-7, CD-ROM
+
+Birkenbihl, K., Bogen, M., Grigat, F., Ladenburger, M.: The Digital Beethoven House, Joint Project Specification of the Beethoven House Association Bonn and GMD - German Research Center for Information Technology, GMD, Sankt Augustin, 1997
+
+Bogen, M., Borowski, M.: The Digital Beethoven House, in: Proceedings of WebNet 98 - World Conference of the WWW, Internet & Intranet, Orlando, Florida; 7-12 November 1998, CD ROM, ISBN 1-880094-31-2
+
+Bogen, M., Göbel, M., Lahme, S.: Beethoven Online, in: Museums and the Web 1999, Selected papers from an international conference, New Orleans, Louisiana, 11-14 March 1999, Edited by David Bearman and Jennifer Trant, ISBN: 885626-17-7, CD-ROM, http://www.archimuse.com/mw99/papers/bogen/bogen.html
+
+Bogen, M., Grigat, F., Ladenburger, M.: Das Digitale Beethoven-Haus, in: Der GMD-Spiegel, Ausgabe 1/2 März 1999, pp. 36-38, ISSN 0724-4339, GMD Sankt Augustin
+
+Bogen, M., Lahme, S., Lechner, U., Suttrop, M.: Das Digitale Beethoven-Haus: Funktionale Beschreibung eines Demonstrators, GMD, Sankt Augustin, February 1999
+
+Ladenburger,M.: Beethoven - digitalisiert und globalisiert, to appear in: Das Parlament
+
+Lesk, Michael: Practical Digital Libraries: Books, Bytes, and Bucks, Morgan Kaufmann Publishers, Inc., 1997, ISBN 1-55860-459-6
+
+Patricia Elliot Stroh: Beethoven on the World Wide Web in 1998, in: The Beethoven Journal, Volume 13, Number 1, pp. 50-51, Summer 1998, ISSN 1087-8262, http://www.music.sjsu.edu/Beethoven/index/caption.html
+
+Schmidt, M., Blackmon, W. H., Rehak, D. R., Bajzek, D.: Online Art History: Design, Development, and Review of an Interactive Course, http://online.web.cmu.edu/

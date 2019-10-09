@@ -1,0 +1,24 @@
+Setting the date to 1 January 1970 will brick your iPhone, iPad or iPod touch
+Date bug will prevent 64-bit iOS devices from booting up, rendering them inoperable even through fail-safe restore methods using iTunes
+
+Manually setting the date of your iPhone or iPad to 1 January 1970, or tricking your friends into doing it, will cause it to get permanently stuck while trying to boot back up if it’s switched off.
+
+
+
+The bug within Apple’s date and time settings within iOS causes such an issue that users are reporting that the fail-safe restore techniques using iTunes are not able to repair the problem.
+
+The date bug affects iPhones, iPads and iPod touches with 64-bit processors running iOS 8 or iOS 9, including the iPhone 5S or newer, the iPad Air, iPad mini 2 or the 2015 sixth generation iPod touch or newer.
+
+The precise cause of the issue has not been confirmed, although speculation points to the way iOS stores date and time formats meaning that 1 January 1970 is stored as a value of zero or less than zero, causing every other process that requires the time stamp to fail.
+
+Facebook Twitter Pinterest YouTuber Zach Straley shows what happens when you set the date manually to 1 January 1970.
+
+To actually set the date back that far manually is quite laborious, requiring lots of scrolling, saving the time and then re-entering the time and date settings to scroll some more. Users are not likely to do it by accident, although pranksters have taken to bricking Apple Store demo units.
+
+But there is a possibility that a malicious attacker could trick an iOS device connected to a network set to automatically adjusting its time settings into setting the date to 1 January 1970 by pretending to be a time server. A hacker could brick every 64-bit iPhone connected to a public Wi-Fi network, for instance.
+
+Users curious about the bug have reportedly bricked their devices trying to disprove the reports on Reddit, ending up having to have the iOS devices replaced by Apple. The Guardian suggests that you do not try it.
+
+Jailbroken iPhone users can protect themselves by using several tweaks that prevent the date being set to 1970. Other users can protect themselves by not turning their iPhones off, manually setting the time and date and turning off automatic time changes.
+
+Apple said that it was looking into the bug, later releasing a statement saying: “Manually changing the date to May 1970 or earlier can prevent your iOS device from turning on after a restart. An upcoming software update will prevent this issue from affecting iOS devices. If you have this issue, contact Apple Support.”

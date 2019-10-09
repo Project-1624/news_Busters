@@ -1,0 +1,22 @@
+Citizens United is fueling outsider candidates
+Political parties and interest groups don’t always prefer the same candidates. It used to be that the party-backed candidate had a better chance of winning the nomination, but since the Supreme Court’s decision in Citizens United (2010), interest groups are increasingly calling the shots.
+
+Party organizations are used to seeing their preferred candidates win congressional primaries, due in large part to the spending advantages they can provide. However, since the federal courts have allowed for Super PACs to boost candidates friendly to their agenda, interest groups have been able to spend enough to challenge the party’s consensus in congressional primaries if they so choose.
+
+In Citizens United v. FEC, the Supreme Court ruled that it is unconstitutional to restrict PACs from using independent expenditures to overtly advocate for or against a candidate through Election Day. That and the DC Circuit Court ruling in SpeechNow.org v. FEC later that year paved the way for the rise of Super PACs. These entities can raise and spend unlimited sums of money in the form of independent expenditures, advocating for or against a candidate as long as they do not coordinate with that candidate’s campaign.
+
+What has this development meant for parties’ ability to nominate their preferred candidates? To answer this question, I compiled campaign finance data from the Center for Responsive Politics for every candidate who ran in an open seat House primary from 2006 to 2016.
+
+I coded PAC contributors as “party PACs” if they were PACs belonging to a current or former member of Congress, a national party organization (such as the Democratic Congressional Campaign Committee), or a state or local party organization (e.g., the Republican Party of Cuyahoga County). This essentially encompasses what we might consider to be the “formal” party organization at the local, state, and national levels. I coded the rest of the PAC contributors as “interest group PACs,” distinguishing them from the formal party organization. This includes groups like labor unions, the National Rifle Association, and corporate PACs.
+
+From 2012 to 2016, interest group-preferred candidates won 60 percent of the time when interest group and party preferences clashed
+
+The figure below shows that since the courts removed limits on independent expenditures (note that Super PACs were not active for the full 2010 cycle), interest group spending is up, while party spending has remained relatively flat. Despite the number of party and interest group PACs getting involved in open-seat primaries remaining relatively constant since 2006 for both parties, interest groups have begun to significantly outspend the party organizations since the advent of Super PACs.
+
+Recent studies have shown that establishment-friendly candidates fared well in congressional primaries in 2018. To be sure, party organization-preferred candidates in my analysis won open seat House primaries more than 60 percent of the time from 2006 to 2016. However, the story becomes more complicated when the party organization and interest groups disagree on which candidate to support.
+
+Though fundraising does not guarantee success, interest groups’ preferred candidates have become increasingly successful once limits on their spending were effectively removed. Prior to 2012, the first full primary cycle in which Super PACs existed, the interest groups’ preferred candidate defeated the party organization’s preferred candidate 29 percent of the time in the races in which the two groups preferred different candidates. From 2012 to 2016, interest group-preferred candidates won 60 percent of the time when interest group and party preferences clashed.
+
+Not only are interest groups better equipped post-Citizens United to reject the formal party, but they have been more effective when they’ve done so. Though the incentive remains for establishment-friendly candidates who can appeal to traditional party leaders to run in congressional primaries, there is increasingly an incentive for outsider candidates to run if they are friendly with a specific group or two with deep pockets, especially on the Republican side. Party leaders risk seeing their preferred candidates lose or underperform if they don’t deploy more resources in congressional primaries.
+
+Cory Manento is a PhD candidate in political science at Brown University.

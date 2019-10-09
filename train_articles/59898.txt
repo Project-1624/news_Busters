@@ -1,0 +1,116 @@
+The Cybersecurity 202: Former Sen. Bill Nelson says Florida hacking claims vindicated by Mueller report
+THE KEY
+
+Then-Sen. Bill Nelson (D-Fla.) is joined by Senate Minority Leader Chuck Schumer, D-N.Y. (J. Scott Applewhite/AP)
+
+A politician is declaring victory after the Mueller report, and it's not the one you’re thinking of.
+
+Former Sen. Bill Nelson (D-Fla.) told The Cybersecurity 202 in a statement that the special counsel's report vindicates his claims before the 2018 midterms that hackers had penetrated Florida county-level computer networks and could cause grave harm.
+
+The FBI and Homeland Security Department both disputed those statements last year as did Florida election officials. The Washington Post’s Fact Checker gave the comments four Pinocchios.
+
+The Mueller report provides some context for Nelson's claim, revealing for the first time that the FBI believes Kremlin hackers did penetrate the networks of “at least one” Florida county before the 2016 election.
+
+But the report, which was released in redacted form Thursday, does not back up the full claim from Nelson, who ultimately lost his reelection bid in 2018 to then-Florida Gov. Rick Scott (R), made during the heat of the campaign.
+
+Specifically, Nelson told the Tampa Bay Times that Russian hackers were active inside Florida county networks in 2018, which isn’t stated in the Mueller report. (However, it's not directly refuted, either.)
+
+This episode highlights just how hard it has been -- and still is -- for the public to sort out fact from rumor about Russia's sweeping hacking and influence campaign to undermine the presidential election. Even after the full Mueller report was released, it's clear many of the operational details -- and the backing for how the government knows certain information -- remain classified. And there are targets, like the unnamed Florida county, that stay out of the public eye.
+
+The opaque classification process and ongoing secrecy makes it harder for government officials to convince the public that elections are secure, said Brett Bruen, an official in President Barack Obama's White House focused on global engagement.
+
+It will also make it easier for Russia and other adversaries to spread doubts about the integrity of elections where they don’t exist, said Bruen, who runs the crisis communications firm Global Situation Room.
+
+“We don’t have a reliable system for … publicly informing people about breaches, so it enables Russia to create the impression that weaknesses and vulnerabilities are greater than they may actually be,” Bruen said. “And, at the end of the day, that’s just as good as if they had hacked into many more systems.”
+
+Nelson said in 2018 that his information about the Florida breach came from Senate Intelligence Committee Chairman Richard Burr (R-N.C.) and Vice Chairman Mark Warner (D-Va.). Nelson said they asked him and Sen. Marco Rubio (R-Fla.) to send a letter to the state’s 67 county-level election supervisors warning of Russian efforts to penetrate their computer systems.
+
+Warner spokeswoman Rachel Cohen confirmed to me Monday that the senators made that request and said they made the request only to the Florida delegation, not to senators from any other state. But neither Burr nor Warner have confirmed Nelson's specific claims about the breach.
+
+Nelson told The Cybersecurity 202 that: “The Mueller report makes clear why we had to take that important step" -- referring to the letter to election officials -- "as well as my verbal warnings thereafter.” He declined to expand beyond the statement, noting that some information about the request remains classified.
+
+Five current and former U.S. cybersecurity officials, meanwhile, told my colleague Ellen Nakashima on Saturday that the Florida county breach was not serious and that the county itself was informed by the FBI and opted not to disclose the breach publicly. They also did not provide details about the breach and the FBI declined to comment.
+
+In general, “details that would identify the victims of a cyberattack would not be shared with others besides the victim,” one official told Ellen.
+
+Scott sent the FBI a letter Friday asking for more details about the breach.
+
+This is just the latest in a long string of delays before the public learns of Russian hacking efforts.
+
+It took the Department of Homeland Security until September 2017, for example, to inform 21 states that their election systems had been probed by Russian hackers in advance of the November 2016 election.
+
+Officials in Illinois — where Russian hackers actually penetrated a statewide voter registration database and compromised personal information of tens of thousands of voters — didn’t get official confirmation of the breach until July 2018 when it was included in the Mueller team's indictment against a dozen Russian hackers.
+
+Illinois State Board of Elections spokesman Matt Dietrich told my colleague Ellen he was anxious about learning even more information in the Mueller report and as soon as it came out did a quick word search for his state.
+
+“He pulled up a brief incident recap with no new details” and “was reassured,” Ellen reported.
+
+PINGED, PATCHED, PWNED
+
+PINGED: Russian hackers have targeted foreign embassies across Europe and compromised computers at embassies run by Bermuda, Guyana, Liberia, Lebanon and Nepal, according to new research from the cybersecurity firm Check Point Technologies.
+
+And the hackers used emails with U.S. State Department logos and “Top Secret” labels to con the embassy staff into downloading the malicious software, the researchers found.
+
+Here’s the rundown from Cyberscoop’s Sean Lyngaas: “After gaining access and control, the hackers’ code allowed them to take screenshots of the victims’ PCs, allowing the hackers to steal victims’ usernames and login credentials.”
+
+“They’ve had access to ‘everything,’ Check Point’s Threat Intelligence Group Manager Lotem Finkelsteen tells CyberScoop. ‘Databases, personal data, documents, networks, other devices connected. They have full access to the infected device.’ ”
+
+British cybersecurity researcher Marcus Hutchins, branded a hero for slowing down the WannaCry global cyberattack, is facing a new charge of lying to the FBI in an indictment accusing him of developing malware to steal banking information. (Frank Augstein/AP)
+
+PATCHED: Marcus Hutchins, a British cybersecurity researcher best known for blunting the effects of North Korea’s global WannaCry ransomware attack in 2017, pleaded guilty to hacking crimes Friday, according to a statement on his website.
+
+Hutchins was arrested after attending the hacker conference Def Con in Las Vegas a few months after his WannaCry work and accused of creating malicious software.
+
+Here are details from the New York Times’s Palko Karasz: “In 2017, a federal grand jury in the United States returned a six-count indictment against Mr. Hutchins. The indictment said Mr. Hutchins, then 23, and an unidentified accomplice conspired to create and sell malware intended to steal login information and other financial data from online banking sites.”
+
+“A version of the program, known as Kronos banking Trojan and created by Mr. Hutchins, was sold by the accomplice for $2,000 in June 2015, the indictment said. But the document did not include details of how widely the malware was used.”
+
+“The government has said it will move to dismiss the remaining charges in exchange for Mr. Hutchins’s guilty plea.”
+
+WannaCry infected hundreds of thousands of computers in at least 70 countries before Hutchins inadvertently discovered a “kill switch” that shut it off.
+
+“Having grown up, I’ve since been using the same skills that I misused several years ago for constructive purposes," Hutchins said in his statement. “I will continue to devote my time to keeping people safe from malware attacks.”
+
+Sen. Kirsten Gillibrand, D-N.Y. (AP Photo/Julius Constantine Motal)
+
+PWNED: Democratic National Committee Chair Tom Perez is urging Republicans to join Democrats in a pledge not to use hacked material in their campaigns, CNN’s Athena Jones and Donnie O’Sullivan reported.
+
+The plea comes after President Trump’s attorney Rudy Giuliani said in a Sunday CNN interview that there’s "nothing wrong with taking information from Russians.”
+
+Perez “wrote to his Republican National Committee counterpart on Monday, asking Republicans to refrain from engaging in the ‘weaponization of stolen private data in our electoral process,’” CNN reported. He also described Giuliani’s statement as an “affront” to American democracy, according to the report.
+
+The letter came the same day presidential hopeful Sen. Kirsten Gillibrand (D-N.Y.) “vowed not to use stolen, hacked materials from foreign adversaries in her presidential campaign and called on other 2020 contenders to do the same,” according to CNN.
+
+Here’s more from Gillibrand: "Russia is a foreign adversary of the United States, and we all must learn serious lessons from their cyberattack on our election systems in 2016…Russia will be back, and it is troubling that President Trump and his top aides are not only failing to hold them accountable but actually normalizing the idea of 'taking information from Russians' for political gain."
+
+PUBLIC KEY
+
+-- The White House office that creates and enforces governmentwide cybersecurity rules is suffering from turmoil and low morale, Politico’s Eric Geller reports.
+
+Here are the details from Eric: “Many [Office of the Federal Chief Information Officer] employees are overwhelmed by unclear and changing priorities, while others are simply checked out or feeling increasingly marginalized, according to an internal February staff survey that Politico obtained, along with data from an annual governmentwide report and interviews with a current OMB employee, five former OFCIO employees and three former senior federal officials familiar with the office.”
+
+“The unit is grappling with ‘high turnover,’ ‘a lot of infighting,’ a ‘crushing workload’ and ‘inaction from leadership,’ said the current employee, who — like others interviewed for this story — requested anonymity to discuss sensitive personnel matters.”
+
+Federal Chief Information Security Officer Grant Schneider disputed the story after it first published behind a paywall, according to a tweet from Politico’s Martin Matishak.
+
+Of note, the Federal CISO trashed this story from @ericgeller https://t.co/YDtGGaGZrP
+
+
+
+"You had a conversation with one disgruntled employee," he said, even thought the article had many, many sources. — Martin Matishak (@martinmatishak) April 16, 2019
+
+More cybersecurity news from the public sector:
+
+Appeals court rejects Chelsea Manning appeal of contempt order A federal appeals court has denied Chelsea Manning’s request to overturn an order finding her in contempt for refusing to testify before a grand jury. The Hill
+
+PRIVATE KEY
+
+Cybersecurity news from the private sector:
+
+Huawei Revenue Jumps as 5G Contracts Roll In The Chinese telecom giant’s first-quarter revenue increased 39% as it made further inroads in the market for 5G technology. Wall Street Journal
+
+Patient PII exposed in leak of Pennsylvania-based rehab center records - CyberScoop A trove of personally identifiable information on patients at an addiction treatment center in Pennsylvania has been left in an insecure database, potentially exposing those people to identity theft. Cyberscoop
+
+THE NEW WILD WEST
+
+Cybersecurity news from abroad:

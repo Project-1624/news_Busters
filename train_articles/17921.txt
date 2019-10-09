@@ -1,0 +1,182 @@
+False memory
+A false memory is a psychological phenomenon where a person recalls something that did not happen or that something happened differently from the way it happened.
+
+This phenomenon was initially investigated by psychological pioneers Pierre Janet and Sigmund Freud.[1] Elizabeth Loftus has, since her debuting research project in 1974,[2] been a lead researcher in memory recovery and false memories.
+
+Suggestibility, activation of associated information, the incorporation of misinformation and source misattribution have been suggested to be several mechanisms underlying a variety of types of false memory phenomena.[3][4][5]
+
+Early work on false memory and memory distortions [ edit ]
+
+In 1974, Elizabeth Loftus and John Palmer conducted a study to investigate the effects of language on the development of false memory. The experiment involved two separate studies.
+
+In the first test, 45 participants were randomly assigned to watch different videos of a car accident, in which separate videos had shown collisions at 20 miles per hour, 30 miles per hour, and 40 miles per hour. Afterwards, participants filled out a survey. The survey asked the question, "About how fast were the cars going when they smashed into each other?" The question always asked the same thing, except the verb used to describe the collision varied. Rather than "smashed", other verbs used included "bumped", "collided", "hit", or "contacted". Participants estimated collisions of all speeds to average between 35 miles per hour to just below 40 miles per hour. If actual speed were the main factor in estimate, it could be assumed that participants would have lower estimates for lower speed collisions. Instead, the word being used to describe the collision seemed to better predict the estimate in speed rather than the speed itself.[2]
+
+The second experiment also showed participants videos of a car accident, but the critical thing was the verbiage of the follow-up questionnaire. 150 participants were randomly assigned to three conditions. Those in the first condition were asked the same question as the first study using the verb "smashed". The second group was asked the same question as the first study, replacing "smashed" with "hit". The final group was not asked about the speed of the crashed cars. The researchers then asked the participants if they had seen any broken glass, knowing that there was no broken glass in the video. The responses to this question had shown that the difference between whether broken glass was recalled or not heavily depended on the verb used. A larger sum of participants in the "smashed" group declared that there was broken glass.
+
+In this study, the first point brought up in discussion is that the words used to phrase a question can heavily influence the response given.[2] Second, the study indicates that the phrasing of a question can give expectations to previously ignored details, and therefore, a misconstruction of our memory recall. This indication supports false memory as an existing phenomenon.
+
+Replications in different contexts (such as hockey games instead of car crashes) have shown that different scenarios require different framing effects to produce differing memories.[6]
+
+Language and suggestibility [ edit ]
+
+Article adjustment on eyewitness report [ edit ]
+
+Loftus' meta-analysis on language manipulation studies suggested the phenomenon effects taking hold on the recall process and products of the human memory. Even the smallest adjustment in a question, such as the article preceding the supposed memory, could alter the responses. For example, having asked someone if they'd seen "the" stop sign, rather than "a" stop sign, provided the respondent with a presupposition that there was a stop sign in the scene. This presupposition increased the number of people responding that they had indeed seen the stop sign.[citation needed]
+
+Adjective implications on eyewitness report [ edit ]
+
+Select adjectives can imply characteristics about an object. Including said adjectives in a prompt can alter participant responses. Harris' 1973[citation needed] study looks at the differences in answers on the height of a basketball player. Respondents were randomly assigned to have either answered to, "How tall was the basketball player?" or "How short was the basketball player?" Rather than asking participants simply for the height of the basketball player, they used adjectives that had an implication for the numerical results. The difference in height averages that were predicted was 10 inches (250 mm). The adjective provided in a sentence can cause a respondent to exaggerate.[citation needed]
+
+Word lists [ edit ]
+
+One can trigger false memories by presenting subjects a continuous list of words. When subjects were presented with a second type of the list and asked if the words had appeared on the previous list, they find that the subjects did not recognize the list correctly. When the words on the two lists were semantically related to each other (e.g. sleep/bed), it was more likely that the subjects did not remember the first list correctly and created false memories (Anisfeld & Knapp).[7][citation needed]
+
+Staged naturalistic events [ edit ]
+
+Subjects were invited in an office and were told to wait there. After this they had to recall the inventory of the visited office. Subjects recognized objects consistent with the “office schema” although they did not appear in the office. (Brewer & Treyens, 1981)[7]
+
+Response to meta-analysis [ edit ]
+
+It has been argued[by whom?] that Loftus and Palmer did not control for outside factors coming from individual participants, such as participants' emotions or alcohol intake, along with many other factors. Despite criticisms such as this, this particular study is extremely relevant to legal cases regarding false memory. The Loftus and Palmer automobile study allowed for the Devlin Committee to create the Devlin Report, which suggested that eyewitness testimony is not reliable standing on its own.
+
+Theories on false memory [ edit ]
+
+Presuppositions [ edit ]
+
+A presupposition is an implication through chosen language. If a person is asked, "What shade of blue was the wallet?", the questioner is, in translation, saying, "The wallet was blue. What shade was it?" The question's phrasing provides the respondent with a supposed "fact". This presupposition creates one of two separate effects: true effect and false effect.
+
+In true effect , the implication was accurate: the wallet really was blue. That makes the respondent's recall stronger, more readily available, and easier to extrapolate from. A respondent is more likely to remember a wallet as blue if the prompt said that it was blue, than if the prompt did not say so.
+
+, the implication was accurate: the wallet really was blue. That makes the respondent's recall stronger, more readily available, and easier to extrapolate from. A respondent is more likely to remember a wallet as blue if the prompt said that it was blue, than if the prompt did not say so. In false effect, the implication was actually false: the wallet was not blue even though the question asked what shade of blue it was. This convinces the respondent of its truth (i.e., that the wallet was blue), which affects their memory. It can also alter responses to later questions to keep them consistent with the false implication.
+
+Regardless of the effect being true or false, the respondent is attempting to conform to the supplied information, because they assume it to be true.[citation needed]
+
+Construction hypothesis [ edit ]
+
+Construction hypothesis has major implications for explanations on the malleability of memory. Upon asking a respondent a question that provides a presupposition, the respondent will provide a recall in accordance with the presupposition (if accepted to exist in the first place). The respondent will recall the object or detail. The construction hypothesis says that if a true piece of information being provided can alter a respondent's answer, then so can a false piece of information.[8]
+
+Skeleton theory [ edit ]
+
+Loftus developed the skeleton theory after having run an experiment involving 150 subjects from the University of Washington.[8] The skeleton theory explains the idea of how a memory is recalled, which is split into two categories: the acquisition processes and the retrieval processes.
+
+The acquisition processes are in three separate steps. First, upon the original encounter, the observer selects a stimulus to focus on. The information that the observer can focus on compared to the information in the situation is very small. In other words, a lot is going on around us and we only pick up on a small portion. Therefore, the observer must make a selection on the focal point. Second, our visual perception must be translated into statements and descriptions. The statements represent a collection of concepts and objects; they are the link between the event occurrence and the recall. Third, the perceptions are subject to any "external" information being provided before or after the interpretation. This subsequent set of information can alter recall.
+
+The retrieval processes come in two steps. First, the memory and imagery is regenerated. This perception is subject to what foci the observer has selected, along with the information provided before or after the observation. Second, the linking is initiated by a statement response, "painting a picture" to make sense of what was observed. This retrieval process results in either an accurate memory or a false memory.
+
+Relational processing [ edit ]
+
+Memory retrieval has been associated with the brain's relational processing. In associating two events (in reference to false memory, say tying a testimony to a prior event), there are verbatim and gist representations. Verbatim matches to the individual occurrences (e.g., I do not like dogs because when I was five a chihuahua bit me) and gist matches to general inferences (e.g., I do not like dogs because they are mean). Keeping in line with the fuzzy-trace theory, which suggests false memories are stored in gist representations (which retrieves both true and false recall), Storbeck & Clore (2005) wanted to see how change in mood affected the retrieval of false memories. After using the measure of a word association tool called the Deese–Roediger–McDermott paradigm (DRM), the subjects' moods were manipulated. Moods were either oriented towards being more positive, more negative, or were left unmanipulated. Findings suggested that a more negative mood made critical details, stored in gist representation, less accessible.[9] This would imply that false memories are less likely to occur when a subject was in a worse mood.
+
+Memory malleability and therapy-induced memory recovery [ edit ]
+
+Memories recovered through therapy have become more difficult to distinguish between simply being repressed or having existed in the first place.
+
+Therapists have used strategies such as hypnotherapy, repeated questioning, and bibliotherapy. These strategies may provoke the recovery of nonexistent events or inaccurate memories.[10][11][12][13] A recent report indicates that similar strategies may have produced false memories in several therapies in the century before the modern controversy on the topic which took place in the 1980s and 1990s.[14] Elizabeth Loftus writes about how easy it is for her as a therapist to mold people's memories, or prompt them to recall a nonexistent broken glass.[15]
+
+For her there are different possibilities to create false therapy-induced memory. One is the unintentional suggestions of therapists. For example, a therapist might tell their client that, on the basis of their symptoms, it is quite likely that they had been abused as a child. Once this "diagnosis" is made, the therapist sometimes urges the patient to pursue the recalcitrant memories. It is a problem resulting from the fact that people create their own social reality with external information.[16]
+
+Laurence and Perry conducted a study testing the ability to induce memory recall through hypnosis. Subjects were put into a hypnotic state and later woken up. Observers suggested that the subjects were woken up by a loud noise. Nearly half of the subjects being tested concluded that this was true, despite it being false. Although, by therapeutically altering the subject's state, they may have been led to believe that what they were being told was true.[17] Because of this, the respondent has a false recall.
+
+A 1989 study focusing on hypnotizability and false memory separated accurate and inaccurate memories recalled. In open-ended question formation, 11.5% of subjects recalled the false event suggested by observers. In a multiple-choice format, no participants claimed the false event had happened. This result led to the conclusion that hypnotic suggestions produce shifts in focus, awareness, and attention. Despite this, subjects do not mix fantasy up with reality.[1]
+
+Therapy-induced memory recovery is a prevalent subcategory of memory recall prompting discussion of false memory syndrome. This phenomenon is loosely defined, and not a part of the DSM. However, the syndrome suggests that false memory can be declared a syndrome when recall of a false or inaccurate memory takes great effect on your life. This false memory can completely alter the orientation of your personality and lifestyle.[1]
+
+The "lost-in-the-mall" technique is another recovery strategy. This is essentially a repeated suggestion pattern. The person whose memory is to be recovered is persistently said to have gone through an experience even if it may have not happened. This strategy can cause the person to recall the event as having occurred, despite its falsehood.[18]
+
+Legal cases [ edit ]
+
+Therapy-induced memory recovery has made frequent appearances in legal cases, particularly those regarding sexual abuse.[citation needed] Therapists can often aid in creating a false memory in a victim's mind, intentionally or unintentionally. They will associate a patient's behavior with the fact that they have been a victim of sexual abuse, thus helping the memory occur. They use memory enhancement techniques such as hypnosis dream analysis to extract memories of sexual abuse from victims. According to the FMSF (False Memory Syndrome Foundation), these memories are false and are produced in the very act of searching for and employing them in a life narrative. In Ramona v. Isabella,[citation needed] two therapists wrongly prompted a recall that their patient, Holly Ramona, had been sexually abused by her father. It was suggested that the therapist, Isabella, had implanted the memory in Ramona after use of the hypnotic drug sodium amytal. After a nearly unanimous decision, Isabella had been declared negligent towards Holly Ramona. This 1994 legal issue played a massive role in shedding light on the possibility of false memories' occurrences.
+
+In another legal case where false memories were used, they helped a man to be acquitted of his charges. Joseph Pacely had been accused of breaking into a woman's home with the intent to sexually assault her. The woman had given her description of the assailant to police shortly after the crime had happened. During the trial, memory researcher Elizabeth Loftus testified that memory is fallible and there were many emotions that played a part in the woman's description given to police. Loftus has published many studies consistent with her testimony.[8][19][20] These studies suggest that memories can easily be changed around and sometimes eyewitness testimonies are not as reliable as many believe.
+
+Another notable case is Maxine Berry. Maxine grew up in the custody of her mother, who opposed the father having contact with her (Berry & Berry, 2001). When the father expressed his desire to attend his daughter's high school graduation, the mother enrolled Maxine in therapy, ostensibly to deal with the stress of seeing her father. The therapist pressed Maxine to recover memories of sex abuse by her father. Maxine broke down under the pressure and had to be psychiatrically hospitalized. She had her tubes tied, so she would not have children and repeat the cycle of abuse. With the support of her husband and primary care physician, Maxine eventually realized that her memories were false and filed a suit for malpractice. The suit brought to light the mother's manipulation of mental health professionals to convince Maxine that she had been sexually abused by her father. In February 1997 Maxine Berry sued her therapists[21] and clinic that treated her from 1992-1995 and, she says, made her falsely believe she had been sexually and physically abused as a child when no such abuse ever occurred. The lawsuit, filed in February 1997 in Minnehaha Co. Circuit Court South Dakota, states that therapist Lynda O'Connor-Davis had an improper relationship with Berry, both during and after her treatment. The suit also names psychologist Vail Williams, psychiatrist Dr. William Fuller and Charter Hospital and Charter Counseling Center as defendants. Berry and her husband settled out of court for an undisclosed amount of money.[citation needed]
+
+Although there have been many legal cases in which false memory appears to have been a factor, this does not ease the process of distinguishing between false memory and real recall. Sound therapeutic strategy can help this differentiation, by either avoiding known controversial strategies or to disclosing controversy to a subject.[10][1][22] In each case, the recovered memory therapy was declared inadmissible and not scientifically sound. The fact that recovered memories cannot necessarily distinguish between true and false meant the quality of evidence was weakened and the cases concluded against the therapists. The objection to therapeutic recovery techniques has been argued by comparing the ethics of memory elimination techniques such as electroconvulsive therapy.[13]
+
+Harold Merskey published a paper on the ethical issues of recovered-memory therapy.[22] He suggests that if a patient had pre-existing severe issues in their life, it is likely that "deterioration" will occur to a relatively severe extent upon memory recall. This deterioration is a physical parallel to the emotional trauma being surfaced. There may be tears, writhing, or many other forms of physical disturbance. The occurrence of physical deterioration in memory recall coming from a patient with relatively minor issues prior to therapy could be an indication of the recalled memory's potential falsehood.[22]
+
+Trend in Psychiatry for Recovered Memories [ edit ]
+
+In psychiatry, confabulation is a memory error defined as the production of fabricated, distorted, or misinterpreted memories about oneself or the world, without the conscious intention to deceive.
+
+Therapists who subscribe to recovered memory theory point to a wide variety of common problems, ranging from eating disorders to sleeplessness, as evidence of repressed memories of sexual abuse.[23] Psychotherapists tried to reveal “repressed memories” in mental therapy patients through “hypnosis, guided imagery, dream interpretation and narco-analysis”. The reasoning was that if abuse couldn’t be remembered, then it needed to be recovered by the therapist. The legal phenomena developed in the 1980s, with civil suits alleging child sexual abuse on the basis of “memories” recovered during psychotherapy. The term “repressed memory therapy” gained momentum and with it social stigma surrounded those accused of abuse. The “therapy” led to other psychological disorders in persons whose memories were recovered.
+
+In children [ edit ]
+
+False memory is often considered for trauma victims[24] including those of childhood sexual abuse.[25][26][10][27]
+
+If a child experienced abuse, it is not typical for them to disclose the details of the event when confronted in an open-ended manner.[28] Trying to indirectly prompt a memory recall can lead to the conflict of source attribution, as if repeatedly questioned the child might try to recall a memory to satisfy a question. The stress being put on the child can make recovering an accurate memory more difficult.[25] Some people hypothesise that as the child continuously attempts to remember a memory, they are building a larger file of sources that the memory could be derived from, potentially including sources other than genuine memories. Children that have never been abused but undergo similar response-eliciting techniques can disclose events that never occurred.[28]
+
+One of children's most notable setbacks in memory recall is source misattribution. Source misattribution is the flaw in deciphering between potential origins of a memory. The source could come from an actual occurring perception, or it can come from an induced and imagined event. Younger children, preschoolers in particular, find it more difficult to discriminate between the two.[29] Lindsay & Johnson (1987) concluded that even children approaching adolescence struggle with this, as well as recalling an existent memory as a witness. Children are significantly more likely to confuse a source between being invented or existent.[30]
+
+For example, Shyamalan, Lamb and Sheldrick (1995). Gail S, Goodman, Jodi D, Quas, Allison A, Redlich[31] created an investigation called the Shyamalan et al, that involved a memory-planted study with children. The investigation is a series of interviews concerning a medical procedure that the children may have undergone. The data is scored that if a child makes one false affirmation during the interview, the child is classified as inaccurate. When the medical procedure was described in detail, "only 13% of the children answered 'yes' to the question 'Did you ever have this procedure?'". Whether the success of implantation with false 'memories', the children have "assented to the question for a variety of reasons, a false memory being only one of them. In sum, it is possible that no false memories have been created in children in implanted-memory studies".
+
+Commonly held false memories [ edit ]
+
+The Bologna station clock, subject of a collective false memory.
+
+False memories can sometimes be shared by multiple people.[32][33] In 2010, this was dubbed the "Mandela Effect" by self-described "paranormal consultant" Fiona Broome, in reference to a false memory she reported of the death of South African leader Nelson Mandela in the 1980s (who was at the time still alive), which she claimed was shared by "perhaps thousands" of other people.[34][35][36] Other such examples include memories of the Berenstain Bears' name previously being spelled as Berenstein,[37][38] and of a 1990s movie titled Shazaam starring comedian Sinbad as a genie.[32]
+
+Pseudoscience commentators such as Broome have speculated about alternate realities as an explanation for such shared false memories. However, most science researchers and commentators suggest that these are instead examples of false memories shaped by similar cognitive factors affecting multiple people,[39][40][41][38][42][43] such as social and cognitive reinforcement of incorrect memories,[44][45] or false news reports and misleading photographs influencing the formation of memories based on them.[46][45][47] For example, the false memories of Shazaam have been explained as a conflation of memories of the comedian wearing a genie costume during a TV presentation of Sinbad the Sailor movies in 1994,[48] and a similarly named 1996 film Kazaam featuring a genie played by Shaquille O'Neal.[32]
+
+A 2010 study examined people who were familiar with the clock at Bologna Centrale railway station, which had been damaged in the Bologna massacre bombing in August 1980. In the study, 92% falsely remembered that the clock had remained stopped since the bombing, when in fact, the clock was repaired shortly after the attack. Years later the clock was again stopped and was then set to the time of the bombing in observation and commemoration of the bombing.[33]
+
+Susceptibility to false memories [ edit ]
+
+Individual Differences [ edit ]
+
+Greater creative imagination and dissociation are known to relate to false memory formation.[49] Creative imagination may lead to vivid details of imagined events. High dissociation may be associated with habitual use of lax response criteria for source decisions due to frequent interruption of attention or consciousness. Social desirability and false memory have also been examined.[50] Social desirability effects may depend on the level of perceived social pressure.[49]
+
+Individuals who feel under greater social pressure may be more likely to acquiesce. Perceived pressure from an authority figure may lower individuals' criteria for accepting a false event as true. The new individual difference factors include preexisting beliefs about memory, self-evaluation of one's own memory abilities, trauma symptoms, and attachment styles. Regarding the first of these, metamemory beliefs about the malleability of memory, the nature of trauma memory, and the recover ability of lost memory may influence willingness to accept vague impressions or fragmentary images as recovered memories and thus, might affect the likelihood of accepting false memory.[51] For example, if someone believes that memory once encoded is permanent, and that visualization is an effective way to recover memories, the individual may endorse more liberal criteria for accepting a mental image as true memory. Also, individuals who report themselves as having better everyday memories may feel more compelled to come up with a memory when asked to do so. This may lead to more liberal criteria, making these individuals more susceptible to false memory.
+
+There is some research that shows individual differences in false memory susceptibility are not always large (even on variables that have previously shown differences--such as creative imagination or dissociation[52]), that there appears to be no false memory trait[53][54], and that even those who have highly superior memory are susceptible to false memories[55].
+
+Trauma [ edit ]
+
+A history of trauma is relevant to the issue of false memory. It has been proposed that people with a trauma history or trauma symptoms may be particularly vulnerable to memory deficits, including source-monitoring failures.[56]
+
+Possible associations between attachment styles and reports of false childhood memories were also of interest. Adult attachment styles have been related to memories of early childhood events, suggesting that the encoding or retrieval of such memories may activate the attachment system. It is more difficult for avoidant adults to access negative emotional experiences from childhood, whereas ambivalent adults access these kinds of experiences easily.[57] Consistent with attachment theory, adults with avoidant attachment styles, like their child counterparts, may attempt to suppress physiological and emotional reactions to activation of the attachment system. Significant associations between parental attachment and children's suggestibility exist. These data, however, do not directly address the issue of whether adults' or their parents' attachment styles are related to false childhood memories. Such data nevertheless suggest that greater attachment avoidance may be associated with a stronger tendency to form false memories of childhood.
+
+Sleep deprivation [ edit ]
+
+Sleep deprivation can also affect the possibility of falsely encoding a memory. In two experiments, participants studied DRM lists (lists of words [e.g., bed, rest, awake, tired] that are semantically associated with a non-presented word) before a night of either sleep or sleep deprivation; testing took place the following day. One study showed higher rates of false recognition in sleep-deprived participants, compared with rested participants.[58]
+
+Sleep deprivation can increase the risk of developing false memories. Specifically, sleep deprivation increased false memories in a misinformation task when participants in a study were sleep deprived during event encoding, but did not have a significant effect when the deprivation occurred after event encoding.[59]
+
+False memory syndrome [ edit ]
+
+False memory syndrome recognizes false memory as a prevalent part of one's life in which it affects the person's mentality and day-to-day life. False memory syndrome differs from false memory in that the syndrome is heavily influential in the orientation of a person's life, while false memory can occur without this significant effect. The syndrome takes effect because the person believes the influential memory to be true.[60] However, its research is controversial and the syndrome is excluded from identification as a mental disorder and, therefore, is also excluded from the Diagnostic and Statistical Manual of Mental Disorders. False memory is an important part of psychological research because of the ties it has to a large number of mental disorders, such as PTSD.[61]
+
+False memory and the public [ edit ]
+
+A NOVA documentary entitled Memory Hackers that aired on PBS in February 2016 featured a segment with forensic psychologist Dr. Julia Shaw. Her work explores complex autobiographical memories, seeking to answer the question “How false are our memories?” To do so, Shaw created one of the most elaborate studies on false memories, recruiting over 100 participants for a study they believe is about their childhood memories, but it is actually intended to see whether they can believe they committed a crime that never happened.[62] Shaw gives a six part “recipe” for implanting false memories. First is creating an atmosphere of trust by establishing expertise and authority. Follow with interviewing the participant about real memories, reinforcing and encouraging vivid recollection upon the next session. The third step is to introduce a false memory. The fourth step is to commence imagination inflation, where subjects are guided to focus attention on retrieving a memory using actual details from their past. The fifth step is to apply social pressure indicating that the technique works for most people, thus making the subject try harder to recall details. Finally, ask leading questions.[63]
+
+In the 2015 article on constructing rich false memories, Shaw and Colleague Stephen Porter explain that imagined memory elements regarding what something could have been like transmit to what an event would have been like and eventually what it actually was like.[64] Findings indicate three debriefing sessions resulted in 76% of subjects recalling a false emotional event and 70% recalling a fictional crime. Shaw and colleague Stephen Porter found no distinguishing personality traits of false confessors and no way to identify individuals who are the most susceptible. False memories may actually be recalled similar to the way true memories are retrieved, so it can prove very difficult to differentiate between the two.[65]
+
+Ethical considerations and public opinion [ edit ]
+
+Concerns have been raised as to whether implanting false memories in therapy and research is considered as ethical. A 2016 study focused on public attitude regarding deceptively implanting false memories gave interesting insights regarding these issues. People were most concerned with the consequences, with 37% saying it was overly manipulative, potentially harmful or traumatic. Their reasons against are that the ends do not justify the means (32%), potential for abuse (14%), lack of consent (10%), practical doubts (8%), better alternative (7%), and free will (3%). Of those who thought implanting false memories would be acceptable, 36% believed the end justified the means, with other reasons being increasing treatment options (6%), people need support (6%), no harm would be done (6%), and it’s no worse than alternatives (5%).[66] An article published in the journal entitled Applied Cognitive Psychology, indicated that the public has mixed sentiments about implanting false memories to improve eating habits, with 41% saying it would be generally unacceptable and 48% saying it would, 25% think it completely unethical while 10% believe the opposite.[67]
+
+Potential benefits of false memories [ edit ]
+
+Several possible benefits associated with false memory arrive from fuzzy-trace theory and gist memory. Valerie F. Reyna, who coined the terms as an explanation for the DRM paradigm, explains that her findings indicate that reliance on prior knowledge from gist memory can help individuals make safer, well informed choices in terms of risk taking.[68] Other positive traits associated with false memory indicate that individuals have superior organizational processes, heightened creativity, and prime solutions for insight based problems. All of these things indicate that false memories are adaptive and functional.[69] False memories tied to familiar concepts can also potentially aid in future problem solving in a related topic, especially when related to survival.[70]
+
+See also [ edit ]
+
+False memory syndrome, a condition in which a person's identity and relationships are affected by strongly believed but false memories of traumatic experiences.
+
+Source-monitoring error, an effect in which memories are incorrectly attributed to different experiences than the ones that caused them.
+
+Misinformation effect, false memories caused by exposure to misleading information presented between the encoding of an event and its subsequent recall.
+
+Confabulation, the production of fabricated, distorted, or misinterpreted memories without the conscious intention to deceive.
+
+Repressed memory, the idea that traumatic memories can be repressed and also potentially brought back through therapy.
+
+Jamais vu, the feeling of unfamiliarity with recognised memories.
+
+Cryptomnesia, a memory that is not recognised as such.
+
+Notes [ edit ]
+
+References [ edit ]

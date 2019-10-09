@@ -1,0 +1,34 @@
+Underlying Cause of Death, 1999-2017 Request
+Note: Any use of these data implies consent to abide by the terms of the data use restrictions.
+
+The Underlying Cause of Death database contains mortality and population counts for all U.S. counties. Data are based on death certificates for U.S. residents. Each death certificate identifies a single underlying cause of death and demographic data. The number of deaths, crude death rates or age-adjusted death rates, and 95% confidence intervals and standard errors for death rates can be obtained by place of residence (total U.S., region, state and county), age group (single-year-of age, 5-year age groups, 10-year age groups and infant age groups), race, Hispanic ethnicity, gender, year, cause-of-death (4-digit ICD-10 code or group of codes), injury intent and injury mechanism, drug/alcohol induced causes and urbanization categories. Data are also available for place of death, month and week day of death, and whether an autopsy was performed.
+
+Data Use Restrictions:
+
+The Public Health Service Act (42 U.S.C. 242m(d)) provides that the data collected by the National Center for Health Statistics (NCHS) may be used only for the purpose for which they were obtained; any effort to determine the identity of any reported cases, or to use the information for any purpose other than for health statistical reporting and analysis, is against the law. Therefore users will:
+
+Use these data for health statistical reporting and analysis only.
+
+For sub-national geography, do not present or publish death counts of 9 or fewer or death rates based on counts of nine or fewer (in figures, graphs, maps, tables, etc.).
+
+Make no attempt to learn the identity of any person or establishment included in these data.
+
+Make no disclosure or other use of the identity of any person or establishment discovered inadvertently and advise the NCHS Confidentiality Officer of any such discovery.
+
+
+
+Confidentiality Officer
+
+National Center for Health Statistics
+
+3311 Toledo Road
+
+Hyattsville, MD 20782
+
+Telephone 888-642-4159
+
+Email: nchsconfidentiality@cdc.gov
+
+Sanctions for Violating Rules:
+
+Researchers who violate the terms of the data use restrictions will lose access to WONDER and their sponsors and institutions will be notified. Researchers who are suspected of violating the rules may be prevented from using WONDER until an investigation can be completed. Deliberately making a false statement in any matter within the jurisdiction of any department or agency of the Federal government violates 18 USC 1001 and is punishable by a fine of up to $10,000 or up to 5 years in prison, or both.

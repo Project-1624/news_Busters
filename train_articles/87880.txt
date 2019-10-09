@@ -1,0 +1,32 @@
+Skepticism about a landmark Census finding
+The Census Bureau made big news last week when it reported that the black voter turnout rate (66.2%) exceeded the white voter turnout rate (64.1%) for the first time ever in 2012. But a closer look at the numbers raises some intriguing questions.
+
+It’s possible that the lines may have first crossed in 2008. But it’s also possible they may not have crossed at all.
+
+Let’s start with the second scenario. It’s based on data that suggest that last year, blacks may have been more inclined than whites to report that they voted when in fact they didn’t. This is known as a “social desirability bias,” a familiar concern among survey researchers.
+
+The Census Bureau bases its estimates of voter turnout on self-reports from a survey of a nationally representative sample of about 55,000 households. The survey is conducted in the two weeks after each federal election and is considered the best source of information on the demographics of the nation’s electorate. However, this self-report method typically produces a modest over-estimate of turnout, and 2012 was no exception. According to the Census Bureau’s estimates, 133 million Americans voted last year, but according to the official state-by-state tallies, just 129 million did.
+
+Moreover, if you analyze the discrepancies by state, as the Pew Research Center has (download our Election Turnout Rates by State analysis in Excel), you find a pattern that casts some doubt on the Census Bureau’s announcement. It turns out that the phenomenon of over reporting tended to be most pronounced in states that have the highest share of blacks in their citizen-age electorate.
+
+As the chart below shows, Mississippi and Washington, D.C., were the two jurisdictions with the largest gap between the estimated and official total voter turnout rates. In Mississippi, the Census Bureau estimated a statewide turnout rate of 74.5%, while the actual state tallies showed a turnout rate of 60.4%—a gap of 14.1 percentage points. In Washington, the Census Bureau estimated a jurisdiction wide turnout rate of 75.9%, compared with an actual turnout rate of 63.7%—a gap of 12.2 percentage points. The Census Bureau’s estimates also place Mississippi and the District of Columbia ahead of any other state’s voter turnout rate in 2012, even the usual top dog Minnesota, whose officials raised questions about the Census Bureau’s results.
+
+Mississippi and Washington also happen to be the two jurisdictions in the country with the highest share of blacks in their voting age citizen eligible population—35% and 49%, respectively. As the scatter plot chart of voter turnout rates in all 50 states and the District of Columbia shows, respondents in other states with high black population shares—such as South Carolina, Louisiana and Georgia—also over-reported their turnout rates in 2012 at levels well above the nationwide gap of 1.8 percentage points.
+
+Might this be because non-voting blacks were more eager than non-voting whites to tell survey takers that they voted for the first ever African-American president? While there’s no way of knowing for sure, the data are suggestive. When we plotted the state discrepancies in 2008 and 2004, we found a similar pattern, but we also found the racial skew was stronger in 2008 and 2012, the two elections in which Obama was on the ballot, than in 2004.
+
+To better understand these patterns, we computed a “correlation coefficient,” which measures the relationship between two phenomena of interest—in this case, the over reporting of turnout in a state (the difference between the estimated and official voter turnout rates) and the share of a state’s adult population that is black. Our analysis finds a positive correlation of .52 (on a scale of -1 to 1) in 2012, .54 in 2008 and .41 in 2004. If we remove the two biggest outliers in the scatter plot analysis—Mississippi and Washington—the overall correlation remains positive, but it is only about half as large.
+
+It’s also important to note that some states with small black populations over-reported, while a few states with large black populations under-reported. For example, the Census Bureau estimated that New Mexico’s voter turnout rate was 61.6%, compared with the official tally of 55%. New Mexico has a small share of blacks (2.7%) in its voting eligible population. On the other hand, the Census Bureau findings from Maryland, which has an age-eligible electorate that is 29% black, suggest that respondents under-reported their turnout by 2.5 percentage points.
+
+Finally, it is also worth noting that just because voting was more widely over-reported in states with higher African-American populations, there is no way of knowing if blacks or non-blacks were more likely to over-report. This correlation is intriguing, but not definitive. In addition, one should keep in mind that the Census Bureau’s findings from individual states are subject to margins of error that may account for some of the apparent discrepancies in estimated and actual turnout rates.
+
+Bottom line: This analysis doesn’t prove the Census Bureau’s finding is wrong. Nor does it negate the long-term turnout trends, which show that black turnout has been rising since 1996. It may, however, merit an asterisk alongside the claim that blacks turned out at a higher rate than whites in 2012.
+
+But wait, what about the first scenario—the possibility that this milestone actually occurred in 2008, not 2012?
+
+That assessment is based an analysis that removes from the pool of eligible voters all adults who have been disenfranchised as a result of felony convictions, something the Census Bureau does not (and cannot) do. According to the Sentencing Project, an advocacy group, nearly 6 million adults are ineligible to vote for that reason, a disproportionate share of whom are black. If you recalculate turnout rates after removing those disenfranchised voters, then 68.5% of eligible blacks voted in 2008, compared with 67% of eligible whites, according to Bernard L. Fraga, a political scientist studying at Harvard. The Census Bureau, by contrast, had 66.1% of whites voting that year, compared with 64.7% of blacks.
+
+So pick your data source and write your own history.
+
+Topics: Voter Demographics, Elections and Campaigns, African Americans

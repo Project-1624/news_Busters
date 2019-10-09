@@ -1,0 +1,8 @@
+Holy Ship! Wrecked
+Error: Access Token is not valid or has expired. Feed will not update.
+
+This error message is only visible to WordPress admins
+
+There's an issue with the Instagram Access Token that you are using. Please obtain a new Access Token on the plugin's Settings page.
+
+If you continue to have an issue with your Access Token then please see this FAQ for more information.

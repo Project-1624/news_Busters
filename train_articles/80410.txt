@@ -1,0 +1,42 @@
+An Introduction to Stock Market Indices
+By gaining a clear understanding of how indices are created and how they differ, you will be on your way to making sense of the daily movements in the marketplace.
+
+Here we'll compare and contrast the main market indices so that the next time you hear someone refer to "the market," you'll have a better idea of just what they mean.
+
+The Dow
+
+The Dow Jones Industrial Average (DJIA) is one of the oldest, most well-known and most frequently used indices in the world. It includes the stocks of 30 of the largest and most influential companies in the United States. The DJIA is what's known as a price-weighted index. It was originally computed by adding up the per-share price of the stocks of each company in the index and dividing this sum by the number of companies—that's why it's called an average. Unfortunately, it is no longer this simple to calculate. Over the years, stock splits, spin-offs, and other events have resulted in changes in the divisor, making it a very small number (less than 0.2).
+
+The DJIA represents about a quarter of the value of the entire U.S. stock market, but a percent change in the Dow should not be interpreted as a definite indication that the entire market has dropped by the same percent. This is because of the Dow's price-weighted function. The basic problem is that a $1 change in the price of a $120 stock in the index will have a greater effect on the DJIA than a $1 change in the price of a $20 stock, even though the higher-priced stock may have changed by only 0.8% and the other by 5%.
+
+A change in the Dow represents changes in investors' expectations of the earnings and risks of the large companies included in the average. Because the general attitude toward large-cap stocks often differs from the attitude toward small-cap stocks, international stocks or technology stocks, the Dow should not be used to represent sentiment in other areas of the marketplace. On the other hand, because the Dow is made up of some of the most well-known companies in the U.S., large swings in this index generally correspond to the movement of the entire market, although not necessarily on the same scale.
+
+The S&P 500
+
+Standard & Poor's 500 Index (known commonly as the S&P 500) is a larger and more diverse index than the DJIA. Made up of 500 of the most widely traded stocks in the U.S., it represents about 80% of the total value of U.S. stock markets. In general, the S&P 500 index gives a good indication of movement in the U.S. marketplace as a whole.
+
+Because the S&P 500 index is market weighted (also referred to as capitalization weighted), every stock in the index is represented in proportion to its total market capitalization. In other words, if the total market value of all 500 companies in the S&P 500 drops by 10%, the value of the index also drops by 10%.
+
+A 10% movement in all stocks in the DJIA, by contrast, would not necessarily cause a 10% change in the index. Many people consider the market weighting used in the S&P 500 to be a better measure of the market's movement because two portfolios can be more easily compared when changes are measured in percentages rather than dollar amounts.
+
+The S&P 500 index includes companies in a variety of sectors, including energy, industrials, information technology, healthcare, financials and consumer staples.
+
+The Wilshire 5000
+
+The Wilshire 5000 is sometimes called the "total stock market index" or "total market index" because almost all publicly-traded companies with headquarters in the U.S. that have readily available price data are included in the Wilshire 5000. Finalized in 1974, this index is extremely diverse, including stocks from every industry. Although it's a very comprehensive measure of the entire U.S. market, the Wilshire 5000 is referred to less often than the less comprehensive S&P 500 when people talk about the entire market.
+
+The Nasdaq Composite Index
+
+Most investors know that the Nasdaq is the exchange on which technology stocks are traded. The Nasdaq Composite Index is a market-capitalization-weighted index of all stocks traded on the Nasdaq stock exchange. This index includes some companies that are not based in the U.S.
+
+Although this index is known for its large portion of technology stocks, the Nasdaq Composite also includes stocks from financial, industrial, insurance and transportation industries, among others. The Nasdaq Composite includes large and small firms but, unlike the Dow and the S&P 500, it also includes many speculative companies with small market capitalizations. Consequently, its movement generally indicates the performance of the technology industry as well as investors' attitudes toward more speculative stocks.
+
+The Russell 2000
+
+The Russell 2000 is a market-capitalization-weighted index of the 2,000 smallest stocks in the Russell 3000, an index of the 3,000 largest publicly-traded companies, based on market cap, in the U.S. stock market. The Russell 2000 index gained popularity during the 1990s when small-cap stocks soared, and investors moved more money to the sector. The Russell 2000 is the best-known indicator of the daily performance of small companies in the market; it is not dominated by a single industry.
+
+The Bottom Line
+
+It's good to know what's going on in the many diverse segments of the U.S. and international markets. If you're going to pick just one index or market to talk about, you can't go wrong with the S&P 500, which offers a good indication of the movements in the U.S. market in general.
+
+By watching indices and keeping track of their movements over time, you can get a good handle on the investing public's general attitude toward companies of all different sizes and from varying industries.

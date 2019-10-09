@@ -1,0 +1,68 @@
+New Obama Birth Certificate is a Forgery
+Kurt Nimmo
+
+Infowars.com
+
+April 28, 2011
+
+Our investigation of the purported Obama birth certificate released by Hawaiian authorities today reveals the document is a shoddily contrived hoax. Infowars.com computer specialists dismissed the document as a fraud soon after examining it.
+
+Check out the document released by WhiteHouse.gov for yourself.
+
+Upon first inspection, the document appears to be a photocopy taken from state records and printed on official green paper. However, when the government released PDF is taken into the image editing program Adobe Illustrator, we discover a number of separate elements that reveal the document is not a single scan on paper, as one might surmise. Elements are placed in layers or editing boxes over the scan and green textured paper, which is to say the least unusual.
+
+When sections of the document are enlarged significantly, we discover glaring inconsistencies. For instance, it appears the date stamped on the document has been altered. Moreover, the document contains text, numbers, and lines with suspicious white borders indicating these items were pasted from the original scan and dropped over a background image of green paper.
+
+VIDEO: Alex Jones gives proof that Obama’s purported birth certificate is fraud.
+
+
+
+Let’s assume the state of Hawaii scanned the original document and placed it on the green textured background. This does not explain the broken out or separate elements. There is no logical reason for this to be done unless the government planned to modify the document and make it appear to be something other than it is.
+
+There are two elements of interest, as shown in the image to the above – both entries for the date accepted by the local registry. This appears to have been modified in an image editing program.
+
+The media was quick to dispel the fact the document was modified. “Our analysis of the latest controversy: The original birth certificate was probably in a ‘negative’ form, and someone at the White House took it upon themselves to doctor it up so the form can be readable,” writesJoe Brooks for Wireupdate.
+
+Nathan Goulding, writing for the National Review, tells us anybody can open the White House released PDF in Illustrator and it will break out into layers. “I’ve confirmed that scanning an image, converting it to a PDF, optimizing that PDF, and then opening it up in Illustrator, does in fact create layers similar to what is seen in the birth certificate PDF. You can try it yourself at home,” he writes.
+
+Indeed, but this does not answer the question why in the Obama birth certificate PDF the layers or elements contain dates – which appear to be modified – and the signature of the state registrar. If the document was acquired from state records in whole, why was it necessary to add elements? Goulding and Brooks do not address this issue.
+
+These layers are also revealed by the White House issued PDF’s hex file in freeware hex editor. Within its code are listed 8 image masks, which if changed from value “true” to “false” turn off and on to reveal the layers as demonstrated in the video and in Illustrator. Whether these represent compression artifacts or other digitizing processes, or whether these masks represent deliberate manipulation remains to be conclusively shown.
+
+<< /Length 17 0 R /Type /XObject /Subtype /Image /Width 123 /Height 228 /ImageMask
+
+true /BitsPerComponent 1 /Filter /FlateDecode >> << /Length 13 0 R /Type /XObject /Subtype /Image /Width 199 /Height 778 /ImageMask
+
+true /BitsPerComponent 1 /Filter /FlateDecode >> << /Length 19 0 R /Type /XObject /Subtype /Image /Width 47 /Height 216 /ImageMask
+
+true /BitsPerComponent 1 /Filter /FlateDecode >> << /Length 15 0 R /Type /XObject /Subtype /Image /Width 42 /Height 274 /ImageMask
+
+true /BitsPerComponent 1 /Filter /FlateDecode >> << /Length 10 0 R /Type /XObject /Subtype /Image /Width 1454 /Height 1819
+
+/ImageMask true /BitsPerComponent 1 /Filter /FlateDecode >> << /Length 25 0 R /Type /XObject /Subtype /Image /Width 132 /Height 142 /ImageMask
+
+true /BitsPerComponent 1 /Filter /FlateDecode >> << /Length 23 0 R /Type /XObject /Subtype /Image /Width 243 /Height 217 /ImageMask
+
+true /BitsPerComponent 1 /Filter /FlateDecode >> << /Length 21 0 R /Type /XObject /Subtype /Image /Width 34 /Height 70 /ImageMask
+
+true /BitsPerComponent 1 /Filter /FlateDecode >>
+
+Stock up with Fresh Food that lasts with eFoodsDirect (AD)
+
+As Market-Ticker.org points out, it may prove to be significant that two of the boxes appear over both of the “date accepted” boxes, as well as the “Mother’s occupation box.” Was there a need to tamper with the dates on the document or other areas? The recent stamp date and issuing signature of the state registrar also contain an edited layer.
+
+Questions have also been raised about the number at the top of the document issued by the Department of Health, number 61 10641, as one part of the number is in a separate layer when viewed in Illustrator, as demonstrated in the video above. This may prove to be significant. A long form birth certificate obtained by the Honolulu Star in 2009 from a female born one day after Obama and whose form was accepted three days after Obama’s document contains a Dept. of Health number that is lower, 61 10637. There are other subtle differences, such as the use of “Aug.” for the date rather than “August,” and the use of “Honolulu, Oahu” rather than “Honolulu, Hawaii” (seen also in the 1962 certificate below) which may or may not be significant.
+
+More to the point, this certificate and others, like the one posted below it, have visible seals. No issuing seal can be seen on the document released today by Obama.
+
+Negative of long form birth certificate for Aug. 5, 1961 birth in Honolulu, released in 1966 with seal and dated signatures.Published by Honolulu Star and World Net Daily in 2009.
+
+
+
+Photo of physical copy of long form birth certificate for June 15, 1962 birth in Honolulu, also with visible seal.
+
+
+
+Infowars will continue to analyze this issue as more information comes in. It is significant that the Obama Administration was pressured into responding to this controversy, whatever the final analysis of this document. However, the administration still needs to release his other records which have been sealed at great expense. Is there an issue with his being naturalized in Indonesia? Why are his college records at Columbia and Occidental sealed, and what do they contain? Did Obama travel to Pakistan on a foreign passport? These questions and many others have not been properly answered.
+
+Aaron Dykes contributed to this report.

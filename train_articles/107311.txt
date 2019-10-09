@@ -1,0 +1,284 @@
+Carbon Dioxide Information Analysis Center (CDIAC)
+Carbon Dioxide Information Analysis Center
+
+Frequently Asked Global Change Questions
+
+Tip This page lists global change questions that have been received at CDIAC and the answers that were provided to a diverse audience. If you have a question relating to carbon dioxide and global change and cannot find the answer you need here, you may "Ask Us a Question", and we will be glad to try and help you. Q. Should we grow trees to remove carbon in the atmosphere? A. It depends. View references of papers relating to forest management, biomass fuels, and CO 2 emissions to the atmosphere. [GM]
+
+See new document, Answers to ten frequently asked questions about bioenergy, carbon sinks and their role in global climate change, by Robert Matthews and Kimberly Robertson, prepared as part of IEA Bioenergy Task 38 (Greenhouse Gas Balances of Biomass and Bioenergy Systems).
+
+Additional information on managing carbon through carbon sequestration is available on the DOE Office of Science Carbon Sequestration Web site.
+
+Q. What are the present tropospheric concentrations, global warming potentials (100 year time horizon), and atmospheric lifetimes of CO 2 , CH 4 , N 2 O, CFC-11, CFC-12, CFC-113, CCl 4 , methyl chloroform, HCFC-22, sulphur hexafluoride, trifluoromethyl sulphur pentafluoride, perfluoroethane, and surface ozone?
+
+A. View a table presenting data and source for current greenhouse gas concentrations.
+
+Q. Where may I find information on the naming of halocarbons??
+
+A. Name that compound: The numbers game for CFCs, HFCs, HCFCs, and Halons [TJB]
+
+Q. Can you quantify the sources and sinks of the global carbon cycle?
+
+A. View an illustration of the global carbon cycle. Source: Mac Post (Oak Ridge National Laboratory)
+
+
+
+Note: GtC = gigatons of carbon and giga = 10 9
+
+For further reading, we suggest:
+
+
+
+Amthor, J. S. 1995. Terrestrial higher-plant response to increasing atmospheric [CO 2 ] in relation to the global carbon cycle. Global Change Biology 1:243-274.
+
+Moore, B. III, and B. H. Braswell. 1994. The lifetime of excess atmospheric carbon dioxide. Global Biogeochemical Cycles 8:23-38.
+
+Post, W. M., T.-H. Peng, W. R. Emanuel, A. W. King, V. H. Dale, and D. L. De Angelis. 1990. The global carbon cycle. American Scientist, 78:310-326.
+
+Schimel, D. S. 1995. Terrestrial ecosystems and the carbon cycle. Global Change Biology , 1:77-91. [TAB]
+
+And, click here to see figures summarizing the global cycles of biologically active elements. Source: William S. Reeburgh, Professor Marine and Terrestrial Biogeochemistry, University of California.
+
+Q. How much carbon is stored in the different ecosystems?
+
+A. View an illustration of the major world ecosystem complexes ranked by carbon in live vegetation. [AB]
+
+Q. In terms of mass, how much carbon does 1 part per million by volume of atmospheric CO 2 represent?
+
+A. Using 5.137 x 10 18 kg as the mass of the atmosphere (Trenberth, 1981 JGR 86:5238-46), 1 ppmv of CO 2 = 2.13 Gt of carbon.
+
+Q. What percentage of the CO 2 in the atmosphere has been produced by human beings through the burning of fossil fuels?
+
+A. Anthropogenic CO 2 comes from fossil fuel combustion, changes in land use (e.g., forest clearing), and cement manufacture. Houghton and Hackler have estimated land-use changes from 1850-2000, so it is convenient to use 1850 as our starting point for the following discussion. Atmospheric CO 2 concentrations had not changed appreciably over the preceding 850 years (IPCC; The Scientific Basis) so it may be safely assumed that they would not have changed appreciably in the 150 years from 1850 to 2000 in the absence of human intervention.
+
+In the following calculations, we will express atmospheric concentrations of CO 2 in units of parts per million by volume (ppmv). Each ppmv represents 2.13 X10 15 grams, or 2.13 petagrams of carbon (PgC) in the atmosphere. According to Houghton and Hackler, land-use changes from 1850-2000 resulted in a net transfer of 154 PgC to the atmosphere. During that same period, 282 PgC were released by combustion of fossil fuels, and 5.5 additional PgC were released to the atmosphere from cement manufacture. This adds up to 154 + 282 + 5.5 = 441.5 PgC, of which 282/444.1 = 64% is due to fossil-fuel combustion.
+
+Atmospheric CO 2 concentrations rose from 288 ppmv in 1850 to 369.5 ppmv in 2000, for an increase of 81.5 ppmv, or 174 PgC. In other words, about 40% (174/441.5) of the additional carbon has remained in the atmosphere, while the remaining 60% has been transferred to the oceans and terrestrial biosphere.
+
+The 369.5 ppmv of carbon in the atmosphere, in the form of CO 2 , translates into 787 PgC, of which 174 PgC has been added since 1850. From the second paragraph above, we see that 64% of that 174 PgC, or 111 PgC, can be attributed to fossil-fuel combustion. This represents about 14% (111/787) of the carbon in the atmosphere in the form of CO 2 .
+
+Q. How much carbon dioxide is produced from the combustion of 1000 cubic feet of natural gas?
+
+A. If we start with 1000 cubic feet of natural gas (and assuming it is pure methane or CH 4 ) at STP (standard temperature and pressure, i.e., temperature of 273°K = 0°C = 32°F and pressure of 1 atm = 14.7 psia = 760 torr), and burn it completely, here's what we come up with:
+
+1 cubic foot (cf) = 0.0283165 cubic meters (m 3 )
+
+and 1 m 3 = 1000 liters (L)
+
+so 1 cf = 28.31685 L
+
+and 1000 cf = 28316.85 L
+
+Since 1 mole of a gas occupies 22.4 L at STP, 28316.85 L of CH 4 contains 28316.85/22.4 = 1264.145 moles of CH 4 (each mole of CH 4 = approx. 16 g)
+
+If we burn CH 4 completely, it follows this equation:
+
+CH 4 + 2O 2 => CO 2 + 2H 2 0
+
+That is, for each mole of methane we get one mole of carbon dioxide.
+
+One mole of CO 2 has a mass of approx. 44 g, so 1264.145 moles of CO 2 has a mass of approx. 1264.145 x 44 or 55622.38 g
+
+A pound is about equivalent to 454 g, so 55622.38 g is about equivalent to 55622.38/454 or 122 lb
+
+That is, the complete combustion of 1000 cubic feet at STP of natural gas results in the production of about 122 lb of carbon dioxide.
+
+Of course, the mass of the methane in 1000 cubic feet will vary if the temperature and pressure are NOT as assumed above, and this will affect the mass of CO 2 produced. According to the Ideal Gas Law:
+
+PV = nRT where P = pressure V = volume n = moles of gas T = temperature R = constant (0.08206 L atm/mole K or 62.36 L torr/mole K) at STP, 1000 cf contains n = PV/RT moles of methane = (1 atm)(28316.85 L)/(0.08206 L atm/mole K)(273°K) = 1264 moles CH 4 (the value given in the example above)
+
+In the energy industry, however, 1 standard cubic foot (scf) of natural gas is defined at 60°F (= 15.6°C = 288.6°K) and 14.7 psia, rather than at STP (Handbook of Formulae, Equations and Conversion Factors for the Energy Professional, JOB Publications, Tallahassee, FL;). Solving again at this higher (relative to STP) temperature, we get:
+
+n = (1 atm)(28316.85 L)/(0.08206 L atm/mole K)(288.6°K) = 1196 moles CH 4
+
+That is, at the higher temperature, a given volume of gas will contain fewer moles, and less mass. Going again through the calculation for CO 2 emitted, but using the value of 1196 moles of CH 4 , results in an answer of approximately 115 lb of carbon dioxide. [RMC]
+
+Q. Why do some estimates of CO 2 emissions seem to be about 3 1/2 times as large as others?
+
+A. When looking at CO 2 emissions estimates, it is important to look at the units in which they are expressed. The numbers are sometimes expressed as mass of CO 2 but are listed in all of our estimates only in terms of the mass of the C (carbon). Because C cycles through the atmosphere, oceans, plants, fuels, etc. and changes the ways in which it is combined with other elements, it is often easier to keep track only of the flows of carbon. Emissions expressed in units of C can be easily converted to emissions in CO 2 units by adjusting for the mass of the attached oxygen atoms, that is by multiplying by the ratios of the molecular weights, 44/12, or 3.67. [GM]
+
+Q. Why is the sum of all national and regional CO 2 emission estimates less than the global totals?
+
+A. The difference between the sum of the individual countries (or regions) and the global estimates is generally less than 5%. There are four primary reasons for this.
+
+global totals include emissions from bunker fuels whereas these are not included in national (or regional) totals. Bunker fuels are fuels used by ships and aircraft in international transportation, global totals include estimates for the oxidation of non-fuel hydrocarbon products (e.g., asphalt, lubricants, petroleum waxes, etc.) whereas national totals do not, national totals include annual changes in fuel stocks whereas the global total does not, and due to statistical differences in the international statistics, the sum of exports from all exporters is not identical to the sum of all imports by all importers. [TAB]
+
+Q. Why do some smaller nations have larger per capita emission estimates than industrialized nations like the US?
+
+A. Often it is difficult to attribute emissions to a source. Many small island nations have military bases that are used for re-fueling or have large tourist industries. Who do you assign the emissions to; the US whose military planes are re-fueling on the Wake Island with aviation and jet fuel or the Wake Island? The accounting practices used within the UN Energy Statistics Database assign this fuel consumption to the Wake Island thus elevating the Wake Island's per capita estimate. The same is true for tourist nations like Aruba who are assigned the fuels used in the commercial planes carrying tourists back to their native countries. Although this distorts the per capita emission estimates it makes it easier from an accounting standpoint than trying to trace each plane or ship to its final destination. One should be cautious in using only the per capita CO 2 emission estimates. [TAB]
+
+Q. What is the greenhouse effect? Is it the same as the ozone hole issue?
+
+A. No, they are two different (but related) issues.The greenhouse effect issue concerns the warming of the lower part of the atmosphere, the troposphere (the layer in which temperature drops with height; it is about 10-15 kilometers thick, varying with latitude and season), by increasing concentrations of the so-called greenhouse gases (carbon dioxide, methane, nitrous oxide, ozone, and others) in the troposphere. This warming occurs because the greenhouse gases, while they are transparent to incoming solar radiation, absorb infrared (heat) radiation from the Earth that would otherwise escape from the atmosphere into space; the greenhouse gases then re-radiate some of this heat back towards the surface of the Earth.
+
+The ozone hole issue concerns the loss of ozone in the upper part of the atmosphere, the stratosphere, resulting from increasing concentrations of certain halogenated hydrocarbons (such as chlorinated fluorocarbons, known as CFCs). Through a series of chemical reactions in the stratosphere, the halogenated hydrocarbons destroy ozone in the stratosphere. This is of concern because the ozone blocks incoming ultraviolet radiation from the Sun, and portions of the ultraviolet radiation spectrum have been found to have adverse biological effects.
+
+The greenhouse effect and ozone hole issues are, however, related. For example, CFCs are involved in both issues: CFCs, in addition to destroying stratosphere ozone, are also greenhouse gases. It has traditionally been thought there is not much mixing of the troposphere and stratosphere. But there is recent evidence of transport of stratospheric ozone into the troposphere (see "Ozone-rich transients in the upper equatorial Atlantic troposphere," by Suhre et al., Nature , Vol. 388, 14 August 1997, pages 661-663, and the related discussion paper, "Ozone clouds over the Atlantic," by Crutzen and Lawrence, on pages 625-626 in the same issue of Nature ). So ozone depletion in the stratosphere could result in reduced concentrations of this greenhouse gas in the troposphere. Conversely, global climate change could also affect ozone depletion through changes in stratospheric temperature and water vapor (see "The effect of climate change on ozone depletion through changes in stratospheric water vapour," by Kirk-Davidoff et al., Nature, Vol. 402, 25 November 1999, pages 399-401). [RMC]
+
+Q. Should we be concerned with human breathing as a source of CO 2 ?
+
+A. No. While people do exhale carbon dioxide (the rate is approximately 1 kg per day, and it depends strongly on the person's activity level), this carbon dioxide includes carbon that was originally taken out of the carbon dioxide in the air by plants through photosynthesis - whether you eat the plants directly or animals that eat the plants. Thus, there is a closed loop, with no net addition to the atmosphere. Of course, the agriculture, food processing, and marketing industries use energy (in many cases based on the combustion of fossil fuels), but their emissions of carbon dioxide are captured in our estimates as emissions from solid, liquid, or gaseous fuels. [RMC]
+
+Q. How does the oxygen cycle relate to the greenhouse effect and global warming?
+
+A. With recent developments it is now feasible to measure variations in the oxygen content of the atmosphere at the parts per million (ppm) level. Regular measurements of changes in atmospheric oxygen (O 2 ) are currently being made at a number of locations around the world using two independent techniques, one based on interferometry and one based on stable isotope mass spectroscopy. Oxygen measurements can inform us about fundamental aspects of the global carbon cycle. Oxygen is generated by green plants in photosynthesis and converted to carbon dioxide (CO 2 ) in animal and human respiration. Carbon dioxide is the greenhouse gas of most concern due to its abundance in the atmosphere (~ 360 ppm) and anthropogenic sources. Variations in atmospheric O 2 are controlled largely by fluxes of carbon (e.g., photosynthesis and respiration CO 2 + H 2 O <=> CH 2 O + O 2 ).
+
+
+
+For further reading, we suggest:
+
+
+
+Keeling, R.F., D.A. Najjar, M.L. Bender, P.P. Tans. 1993. What Atmospheric Oxygen Measurements Can Tell Us About The Global Carbon Cycle. Global Biogeochemical Cycles 7:37-67.
+
+Moore, B. III, and B.H. Braswell. 1994. The lifetime of excess atmospheric carbon dioxide. Global Biogeochemical Cycles 8:23-38.
+
+Keeling, R.F. and S.R. Shertz. 1992. Seasonal and interannual variations in atmospheric oxygen and implications for the global carbon cycle. Nature 358:723-727.
+
+Broecker, W. and J.P.Severinghaus. 1992. Diminishing Oxygen. Nature 358:710-711.
+
+Q. Is it possible to reduce CO 2 emissions without cutting back on the burning of fossil fuels? In other words, can higher efficiency or better technology reduce the impact of the consumption of fossil fuels?
+
+A. Fossil fuels are basically carbon and hydrogen. When fossil fuels are burned the carbon is oxidized to produce carbon dioxide and the hydrogen is oxidized to water. During these reactions heat is released, which is why we burn the fossil fuels in the first place. There are all kinds of issues involved in the efficiency with which the heat is used to provide services for mankind, but basically, if you burn fossil fuels - you get carbon dioxide (and water, but we don't care about the water). People have debated ways to collect the carbon dioxide, and what you would do with it if you did collect it, but to collect it requires a significant portion of the energy (heat) that you got by burning the fossil fuel in the first place. That is, it is very expensive to collect the carbon dioxide and it is still not very clear what you would do with it - lots of it. I think that many people envision that carbon dioxide is like sulfur dioxide in that it is a pollutant the comes along with burning coal and that if we had better technology or more care, we could eliminate it. This is simply not true, if you burn coal, you get carbon dioxide as a necessary and unavoidable product. Like I say, there is a fair amount of literature now on ways to collect and dispose of carbon dioxide, but you really can't burn fossil fuels without getting it. [GM]
+
+Q. How long does it take for the oceans and terrestrial biosphere to take up carbon after it is burned?
+
+A. Click here for the answer.
+
+Q. How much CO 2 is emitted as a result of my using specific electrical appliances?
+
+A. For this answer, we refer you to an excellent article, "Your Contribution to Global Warming," by George Barnwell, which appeared on p. 53 of the February-March 1990 issue of National Wildlife, the magazine of the National Wildlife Federation. The article, assuming that your electricity comes from coal, calculates CO 2 emissions corresponding to the use of various electrical appliances. For example, one hour's use of a color television produces 0.64 pounds (lb) of CO 2 , and each use of a toaster produces 0.12 lbCO 2 , whereas a day's use of a waterbed heater produces 24 lb CO 2 .
+
+In general, the coefficient is about 2.3 lb CO 2 per kilowatt-hour (kWh) of electricity. You can calculate the kWh of electricity by multiplying the number of watts (W) the appliance uses times the number of hours (h) it is used, then dividing by 1000. For example a 60-W light bulb operated for 24 h uses
+
+(60 W) x (24 h) / (1000) = 1.44 kWh.
+
+This use of electricity would produce an emission of
+
+(1.44 kWh) x (2.3 lb CO 2 per kWh) = 3.3 lb CO 2
+
+if the electricity is derived from the combustion of coal. [RMC]
+
+Q. What are the conditions happening in certain countries that could upset or disturb the oxygen cycle?
+
+A. Probably the leading investigator of the global oxygen cycle is Dr. Ralph Keeling of Scripps Institution of Oceanography. The web link (http://earth.agu.org/revgeophys/keelin01/keelin01.html) provides information on his work. Given that oxygen is produced by vegetation, it might be argued that mankind has the greatest influence on the oxygen cycle by means of alterations in the world's vegetation (e.g., deforestation, effects of increasing atmospheric CO 2 on photosynthesis). [RMC]
+
+Q. Why do certain compounds, such as carbon dioxide, absorb and emit infrared energy?
+
+A. Molecules can absorb and emit three kinds of energy: energy from the excitation of electrons, energy from rotational motion, and energy from vibrational motion. The first kind of energy is also exhibited by atoms, but the second and third are restricted to molecules. A molecule can rotate about its center of gravity (there are three mutually perpendicular axes through the center of gravity). Vibrational energy is gained and lost as the bonds between atoms, which may be thought of as springs, expand and contract and bend. The three kinds of energy are associated with different portions of the spectrum: electronic energy is typically in the visible and ultraviolet portions of the spectrum (for example, wavelength of 1 micrometer, vibrational energy in the near infrared and infrared (for example, wavelength of 3 micrometers), and rotational energy in the far infrared to microwave (for example, wavelength of 100 micrometers). The specific wavelength of absorption and emission depends on the type of bond and the type of group of atoms within a molecule. Thus, the stretching of the C-H bond in the CH 2 and CH 3 groups involves infrared energy with a wavelength of 3.3-3.4 micrometers. What makes certain gases, such as carbon dioxide, act as "greenhouse" gases is that they happen to have vibrational modes that absorb energy in the infrared wavelengths at which the earth radiates energy to space. In fact, the measured "peaks" of infrared absorbance are often broadened because of the overlap of several electronic, rotational, and vibrational energies from the several-to-many atoms and interatomic bonds in the molecules. (Information from "Basic Principles of Chemistry" by Harry B. Gray and Gilbert P. Haight, Jr., published 1967 by W. A. Benjamin, Inc., New York and Amsterdam) [RMC]
+
+Q. What kinds of radiation pass through the atmosphere, and what kinds are absorbed?
+
+A. Visible radiation ranges from about 0.35 to about 0.75 micrometers in wavelength. Very little visible radiation is absorbed by gases in the atmosphere. About 30-31 percent of incoming solar radiation is reflected and about 19 percent more is absorbed, mostly by clouds and particulate matter rather than by carbon dioxide and water vapor and oxygen. Those gases absorb a small amount of visible light, but not much. This is in contrast to the infrared (wavelengths greater than about 0.75 micrometer) radiation emitted by the earth's surface. This radiation has wavelengths mostly between about 2 and 20 micrometers and over 90% of it is absorbed by water vapor, carbon dioxide, methane, ozone, nitrous oxide, fluorocarbons, and other radiatively active ("greenhouse") gases on the way up.
+
+Radiatively active gases are active in specific wavelengths of radiation. For example, if we could see in the infrared spectrum between 5 and 8 micrometers, we could not see the earth's surface (even on a clear day) from an aircraft at 10 km altitude. This is because water vapor is "opaque" in those wavelengths, and there is water vapor in the atmosphere even when there are no clouds. On the other hand, on a clear day, you can see snow-capped mountains pretty clearly at distances of over 100 km, because water vapor is transparent in the visible wavelengths. Admittedly, at large distances (e.g., about 100 km), things usually get pretty hazy because of light scattering by particulate matter and other aerosols in the atmosphere, which increase with line-of-sight distance. However, this reduction in visibility is not due to absorption by atmospheric gases. Because "seeing" in the infrared is not a part of most people's everyday experience (unless they work for the border patrol or as a bombardier), it is a little difficult to come up with "everyday" examples of what things would be like, for comparison with "everyday" visibility.
+
+Probably the best example from "everyday" experience in the visible range, at least for those of us who fly a lot, is to notice that the moon is not any brighter when you're flying above 80% of the atmosphere than it is at the ground on a clear night. (Checking this by looking at the sun is NOT recommended, you can injure your retina pretty badly that way). If you live near the mountains, you can vary your elevation without having to fly. Also, a temperature map of the United States reveals that surface temperature is more related to latitude and distances from the coast than to elevation; the amount of solar radiation available to warm the earth's surface is about the same at high elevations as it is near sea level. In fact, at a given latitude it's often colder at higher elevations (one would expect it to be warmer if higher elevations get more solar radiation), but this is due to factors other than solar radiation.
+
+Solar radiation" and "visible light" are not exactly the same thing. Solar radiation contains some wavelengths less than 0.35 micrometers, and some longer than 0.75 micrometers. Fortunately for us and other living things, most of the ultraviolet radiation (wavelengths shorter than visible) from the sun is picked off in the high atmosphere. This highly energetic radiation can strip electrons from atoms, causing the ionosphere and its associated phenomena such as aurora and the variations in your radio's ability to pick up distant broadcasting stations. Ozone in the middle and high stratosphere also picks off a lot of ultraviolet radiation, thereby preventing it from reaching the surface and causing skin cancers. The atmosphere's ability to absorb radiation drops off sharply between about 0.3 micrometers (near-visible ultraviolet) and 0.4 micrometers (visible blue-violet). Thus, we are protected from the harmful ultraviolet radiation, but still can see clearly for large distances. This differentiation is not always made in meteorology textbooks, so students sometimes come away thinking that the small percentage of "solar radiation" absorbed by the atmosphere is a part of the visible spectrum; instead, a lot of it is in the ultraviolet. [TJB]
+
+Q. Why do clear winter nights tend to be colder than cloudy ones; and why is the daily temperature variation in the desert greater than that found in a moist environment?
+
+A. For this question, it is helpful to differentiate between absolute humidity and relative humidity. Absolute humidity refers to the amount of water vapor actually in the air, which can be higher than 2% of the atmosphere's mass if it's very warm, but is limited to around 0.1% or less of the atmosphere's mass if it's colder than about zero degrees Fahrenheit. Relative humidity is the amount of water vapor actually in the air expressed as a percentage of the amount that could be there (at a given temperature) given the amount of heat the atmosphere has available to maintain water molecules in the vapor state (i.e., without condensing to liquid water). At low temperatures, the air can't maintain much water in the vapor state, but at high temperatures it can. (In hot, dry, weather, sweat evaporates faster because the surrounding air contains a lot less water vapor than it can maintain.) Over a desert, the absolute humidity can be pretty high (e.g., in the Middle East, near the Mediterranean Sea), but the associated high temperatures typically allow much more water to be maintained in the vapor state than there actually is, so the relative humidity is typically low (but not always, fog occurs over coastal deserts, but that's another subject).
+
+Clouds absorb a lot of outgoing (infrared) radiation, and re-radiate it in all directions including back down to earth. On nights when clouds are sparse or nonexistent, much less radiation comes back to us and more goes through the atmosphere out to space. This explains the large amount of radiative cooling at night in deserts, where clouds are sparse or nonexistent even though the ABSOLUTE humidity can be high. On clear, cold, winter nights, the lack of clouds is complimented by a low amount water vapor actually in the air (because it's cold, not much vapor can be there), so that the amount of outgoing infrared radiation absorbed by the atmosphere is reduced, and more escapes to space. In both cases, the increased nighttime cooling increases the daily temperature range.
+
+Also, in many deserts, the thermal conductivity of the (dry) soil is really small, especially in a sandy desert where the soil particles are relatively large and there is a lot of space for air in between. This means that less heat is transported to, and stored in, the soil during the day. When you visit the beach, you may notice that the surface sand is hot while an inch below the surface it is much cooler (nothing like the Tennessee clay in my backyard). When the sun goes down, that hot surface is radiating a lot of energy away very quickly and there isn't much heat in the subsurface "bank" to draw on. The result is some pretty low surface temperatures in the wee hours of the morning. In summary, the reduced thermal inertia near the desert surface explains the wider variations in temperature, as compared to an agricultural area, for example.
+
+Also, the dew point is a big influence on minimum temperatures. Once the dew point is reached, the conversion of water molecules from gas to a liquid releases a bunch of heat (ca. 2500 J/g)* which tends to keep the temperature from falling further. In deserts, even though the ABSOLUTE humidity might be pretty high (on a really hot day), the RELATIVE humidity tends to be low, so that the air can cool a lot before the dew point is reached. This allows greater cooling at night. On the clear winter nights the air is usually dry to begin with (after all, no clouds were formed) so, it can cool off a lot before getting to the dew point (or, to the frost point).
+
+* If you lick your hand and blow in it you will notice that your skin cools off. In the same way evaporation of sweat cools me off during the warm afternoon that I am refereeing a soccer match, and panting can help even more (that's how dogs keep cool). What is happening is that a lot of energy is required to get the water molecules from the liquid state to the much more energetic gaseous state, and that (heat) energy comes from the surface from which the molecule is evaporated (e.g., your skin). When the reverse happens (vapor condenses to liquid) the molecules lose energy, which is realized as heat. More water vapor can coexist with warm air than with cold air; in warm air, more heat energy is available to maintain the water molecules in their (more energetic) gaseous state. If the air cools, then some energy will be lost by the water molecules and some of them will revert to the liquid state. [TJB]
+
+Q. Is it possible to separate the carbon and oxygen from CO 2 as is possible with other molecules?
+
+A. The problem in separating the carbon and oxygen from CO 2 is that CO 2 is a VERY stable molecule, because of the bonds that hold the carbon and oxygen together, and it takes a lot of energy to separate them. Most schemes being considered now involve conversion to liquid or solids. One present concept for capturing CO 2 , such as from flue gases of boilers, involves chemical reaction with MEA (monoethanol amine). Other techniques include physical absorption; chemical reaction to methanol, polymers and copolymers, aromatic carboxylic acid, or urea; and reaction in plant photosynthetic systems (or synthetic versions thereof). Overcoming energetic hurdles is a major challenge; if the energy needed to drive these reactions comes from burning of fossil fuels, there may not be an overall gain. One aspect of the current research is the use of catalysts to promote the reactions. (In green plants, of course, chlorophyll is such a catalyst!) One area of current research is looking at using cellular components to imitate photosynthesis on an industrial scale. For example, see http://www.ornl.gov/ornl94/looking.html which describes research of the Chemical Technology Division at Oak Ridge National Laboratory.
+
+The International Energy Agency's Greenhouse Gas R&D; Programme has many activities in the area of separation and sequestration of CO 2 - see their web site (http://www.ieagreen.org.uk/). [RMC]
+
+Q. I am curious about the global warming potential of water vapor. Do you know if estimates are done of this in the same way as global warming potentials are calculated for other greenhouse gases? I am also interested in why no mention is ever made of the enhanced greenhouse effect caused by anthropogenic emissions of water vapor. Are the anthropogenic emissions not significant?
+
+A. Water vapor is indeed a very potent "greenhouse" gas, in terms of its absorbing and re-radiating outgoing infrared radiation. It is commonly not mentioned as an important factor in global warming, because it is not clear that the atmospheric concentration (as compared with CO 2 , methane, etc.) is rising. Some (Richard Lindzen at MIT, prominently) have argued that the uncertain potential feedbacks involving water vapor represent a serious shortcoming in models of climate warming. See the following online resource for a good discussion of this issue:
+
+http://www.eia.doe.gov/cneaf/pubs_html/attf94_v2/chap2.html [RMC]
+
+Q. Is there environmental impact/concern (greenhouse emissions) associated with technologies using CO 2 (e.g. dry ice blasting, supercritical cleaning, painting, etc.,). If so, are there current or impending regulation specific to their use?
+
+A. "Most of the CO 2 used in these kinds of applications is recovered from processes like fermentation and it is either CO 2 that it is being extracted from the atmosphere by plants or CO 2 that would have been released from fossil fuel burning anyhow. In essence it passes through this kind of use rather than being emitted immediately and there is no extra CO 2 produced". [GM]
+
+Q. Could you tell me, please, if I have 1 gallon of fuel in my car, how many (units?) of CO 2 will be emitted? Is there any difference if the car 4 or 6 or 8 cylinders or in respect of horse power in percentage?
+
+A. A good estimate is that you will discharge 19.6 pounds of CO 2 from burning 1 gallon of gasoline. This does not depend on the power or configuration of the engine but depends only on the chemistry of the fuel. Of course if the car gets more miles per gallon of gasoline, you will get less CO 2 per unit of service rendered (that is, less CO 2 per mile traveled). [GM]
+
+The U.S. Department of Energy and the U.S. Environmental Protection Agency recently launched a new Fuel Economy Web Site designed to help the public factor energy efficiency into their car buying decisions. This site offers information on the connection between fuel economy, advanced technology, and the environment.
+
+Q. How much CO 2 do you get from combustion of fossil fuels? How can the mass of the CO 2 be greater than the mass of the fuel burned?
+
+A. Let us illustrate with the combustion of natural gas (methane).
+
+C = carbon, atomic weight approximately 12
+
+H = hydrogen, atomic weight approximately 1
+
+O = oxygen, atomic weight approximately 16
+
+CH 4 = methane, molecular weight approximately 16
+
+O 2 = molecular oxygen, molecular weight approximately 32
+
+CO 2 = carbon dioxide, molecular weight approximately 44
+
+H 2 O = water, molecular weight approximately 18
+
+For combustion of methane
+
+CH 4 + 2O 2 = CO 2 + 2H 2 O
+
+So, combustion of 16 mass units (grams, pounds, whatever) of methane produces 44 mass units of carbon dioxide and 36 mass units of water while consuming 64 mass units of oxygen. [GM]
+
+Q. Is there any ONE person who discovered global warming? If not, what year was global warming discovered?.
+
+A. The first person to have predicted that emissions of carbon dioxide from the burning of fossil fuels would cause a global warming is considered to be S. Arrhenius, who published in 1896 the paper "On the influence of carbonic acid in the air upon the temperature of the ground." That atmospheric carbon dioxide was actually increasing was confirmed beginning in the 1930s, and convincingly so beginning in the late 1950s when highly accurate measurement techniques were developed (the most famous demonstration of this is in C.D. Keeling's record at Mauna Loa, Hawaii). By the 1990s, it was widely accepted (but not unanimously so) that the Earth's surface air temperature had warmed over the past century. An ongoing debate is whether such a warming can, in fact, be attributed to increasing carbon dioxide in the atmosphere. [RMC]
+
+Q. Where can I find information on the use of liquefied carbon dioxide in the extraction of alkaloids from plant materials?
+
+A. Kaiser, J. 1996. Supercritical Solvent Comes Into Its Own. Science. Vol. 274. p. 2013.
+
+Q. Where may I obtain information on the properties of CO 2 ?
+
+A. National Institute of Standards and Technology's web site
+
+Q. I would like to know whether or not significant amounts of soil organic matter (SOM) and freshly fallen litter in a forest ecosystem can be degraded ABIOTICALLY (i.e., through chemical or physical processes) and consequently generate CO 2 . In other words, can I consider that entire CO 2 emitted from soil is derived from biological processes?
+
+A. Earliest quantitative measurements indicate that decomposition can be entirely attributed to biological processes.
+
+SHANKS, R. E., and J. S. OLSON. 1961. First-year breakdown of leaf litter in southern Appalachian forests. Science 134(3473):194-195.
+
+OLSON, J. S. 1963. Energy storage and the balance of producers and decomposers in ecological systems. Ecology 44(2):322-331.
+
+There may be some photo-oxidation but it is likely to be minor. For a more modern treatment (but largely based on the model develobet over 30 years ago by Olson) see:
+
+Bosatta, E. and Agren, G.I. 1985. Theoretical analysis of decomposition of heterogeneous substrates. Soil Biology and Biochemistry 17:601-610.
+
+Bosatta, E. and Agren, G.I. 1995. The power and reactive continuum models as particular cases of the q-theory of organic matter dynamics. Geochemica et Cosmochimica Acta 59:3833-3835.
+
+Agren, G.I. and Bosatta, E. 1996. Theoretical Ecosystem Ecology. Cambridge University Press. [WMP]
+
+Q. I understand that atmospheric concentrations of CO 2 are increasing, but when I look at a graph (for example, Keeling's Mauna Loa data), the curve is squiggly. For half of each year, the concentrations increases, and for the other half it decreases. What is the reason for this?
+
+A. The variations within each year are the result of the annual cycles of photosynthesis and respiration. Photosynthesis, in which plants take up carbon dioxide from the atmosphere and release oxygen, dominates during the warmer part of the year; respiration, by which plants and animals take up oxygen and release carbon dioxide, occurs all the time but dominates during the colder part of the year. Overall, then, carbon dioxide in the atmosphere decreases during the growing season and increases during the rest of the year. Because the seasons in the northern and southern hemispheres are opposite, carbon dioxide in the atmosphere is increasing in the north while decreasing in the south, and vice versa. The magnitude of this cycle is strongest nearer the poles and approaches zero towards the Equator, where it reverses sign. The cycle is more pronounced in the northern hemisphere (which has relatively more land mass and terrestrial vegetation) than in the southern hemisphere (which is more dominated by oceans). The Carbon Cycle Group of the NOAA Climate Monitoring and Diagnostics Laboratory (CMDL), has an excellent 3-dimensional illustration of how atmospheric CO 2 varies with time year, season, and latitude. [RMC]
+
+Q. How may I perform CO 2 calculations of the carbon dioxide system in seawater?
+
+A. The Program Developed for CO 2 System Calculations (ORNL/CDIAC-105), recently released by Ernie Lewis, Department of Applied Science, Brookhaven National Laboratory, and Doug Wallace, Abteilung Meereschemie, Institut fuer Meereskunde, was developed to help calculate inorganic carbon speciation in seawater.
+
+This program, CO2SYS, performs calculations relating parameters of the carbon dioxide system in seawater and freshwater by using two of the four measurable parameters of the CO 2 system [total alkalinity (TA), total inorganic CO 2 (TCO 2 ), pH, and either fugacity (fCO 2 ) or partial pressure of CO 2 (pCO 2 )] to calculate the other two parameters at a set of input conditions (temperature and pressure) and a set of output conditions chosen by the user.
+
+Q. Are organizations elsewhere in the world studying technologies that could help us address the problem of global climate change?
+
+A. Yes, quite a few. For example:
+
+Research Institute of Innovative Technology for the Earth (RITE) (http://www.rite.or.jp/English/E-home-frame.html) in Japan was founded in 1990 as a "research hub ... for the development of innovative environmental technologies and the broadening of the range of CO 2 sinks."
+
+GREENTIE, the Greenhouse Gas Technology Information Exchange, (http://www.greentie.org/) an initiative of the International Energy Agency (IEA) and the Organisation for Economic Cooperation and Development (OECD), was established in 1993 "to improve the awareness of, and facilitate the access to, suppliers and experts of `clean technologies', particularly technologies that help mitigate the emissions of greenhouse gases."
+
+CADDETT (http://www.caddet-re.org/), the IEA/OECD Centre for the Analysis and Dissemination of Demonstrated Energy Technologies, "provides an international information network to help managers, engineers, architects, and researchers find out about the energy-saving techniques that have worked in other countries."

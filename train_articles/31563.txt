@@ -1,0 +1,26 @@
+The Genetic Ancestry of African Americans, Latinos, and European Americans across the United States
+23andMe customers were invited to fill out web-based questionnaires, including questions on ancestry and ethnicity, on state of birth, and current zip code of residence. They were also invited to allow their genetic data and survey responses to be used for research. Only data of customers who signed IRB-approved consent documents were included in our study. Survey introductions are explicit about their applications in research. For example, the ethnicity survey introduction text states that the survey responses will be used in ancestry-related research ( Table S1 available online).
+
+Self-Reported Ancestry
+
+23 Klimentidis Y.C.
+
+Miller G.F.
+
+Shriver M.D. Genetic admixture, self-reported ethnicity, self-estimated admixture, and skin pigmentation among Hispanics and Native Americans. , 44 Bamshad M.
+
+Guthery S.L. Race, genetics and medicine: does the color of a leopard’s spots matter?. 45 Perez A.D.
+
+Hirschman C. The changing racial and ethnic composition of the US population: emerging American identities. It is important to note that ancestry, ethnicity, identity, and race are complex labels that result both from visible traits, such as skin color, and from cultural, economic, geographical, and social factors.As a result, the precise terminology and labels used for describing self-identity can affect survey results, and care in choice of labels should be utilized. However, we chose to maximize our available self-reported ethnicity sample size by combining information from questions asking for customer self-reported ancestry. We used two survey questions, with different nomenclature, to gauge responses about identity, which here we view as “the subjective articulation of group membership and affinity.”
+
+The first question is modeled after the US census nomenclature and is a multiquestion survey that allows for choice of “Hispanic” or “Not Hispanic,” and participants were asked “Which of these US Census categories describe your racial identity? Please check all that apply” from the following list of ethnicities: “White,” “Black,” “American Indian,” “Asian,” “Native Hawaiian,” “Other,” “Not sure,” and “Other racial identity.” For inclusion into our European American cohort, individuals had to select “Not Hispanic” and “White,” but not any other identity. For inclusion into our Latino cohort, individuals had to select “Hispanic,” with no other restrictions. For inclusion into our African American cohort, individuals had to select “Not Hispanic” and “Black” and no other identity.
+
+The second question on identity is a single-choice question, where respondents were asked to choose “What best describes your ancestry/ethnicity?” from “African,” “African American,” “Central Asian,” “Declined,” “East Asian,” “European,” “Latino,” “Mideast,” “Multiple ancestries,” “Native American,” “Not sure,” “Other,” “Pacific Islander,” “South Asian,” and “Southeast Asian.” Because individuals could select only one response, we included individuals who selected “European” in our European American cohort, those who selected “African American” in our African American cohort, and those who selected “Latino” in our Latino cohort.
+
+Some African American participants included in this study were recruited through 23andMe’s Roots into the Future project (accessed October 2013), which aimed to increase understanding of how DNA plays a role in health and wellness, especially for diseases more common in the African American community. Individuals who self-identified as African American, black, or African were recruited through 23andMe’s current membership, at events, and via other recruitment channels.
+
+45 Perez A.D.
+
+Hirschman C. The changing racial and ethnic composition of the US population: emerging American identities. In the present work, we do not include individuals who self-report as having multiple identities, because this represents only a small fraction of individuals in our data set. Low rates of reporting as multiracial or multiethnic is in line with previous studies; an analysis of the 2000 US Census shows that 95 percent of blacks and 97 percent of whites acknowledge only a single identity.Future studies including multiracial individuals might further illuminate patterns of genetic ancestry and the complex relationship with self-identity.
+
+Differences among states, where different proportions of people self-report as mixed race, might explain some regional differences in genetic ancestry. However, we note that, first, proportionally fewer people identify as mixed race than as a single identity, and second, it remains important to establish regional differences in genetic ancestry of self-reported groups even if these differences are driven, to some degree, by regional changes in self-reported identity. More work is needed to determine to what extent regional differences are a result of how people today report their ancestry. Lastly, when available, we excluded individuals who answered “No” to a question whether they are living in the US. In total, our final sets included 5,269 African Americans, 8,663 Latinos, and 148,789 European Americans.

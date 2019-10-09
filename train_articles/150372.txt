@@ -1,0 +1,126 @@
+Proof-of-Concept for Gene-RADAR ® Predictive Pathogen Mutation Study
+ISS Science for Everyone
+
+Science Objectives for Everyone
+
+Proof-of-Concept for Gene-RADAR® Predictive Pathogen Mutation Study (Nanobiosym Genes) evaluates the feasibility of one day using this device from Nanobiosym® to identify bacterial mutations in space. The X Prize-winning device can accurately detect any disease that has a genetic fingerprint, in real time and at the point-of-care. Microgravity may accelerate the rate of bacterial mutations and this pilot investigation analyzes this process in two strains aboard the International Space Station, which may provide insight into how deadly bacteria become drug-resistant. The data can help refine models of drug resistance and support development of better medicines to counter it.
+
+Science Results for Everyone
+
+The following content was provided by Luis Zea, Ph.D., and is maintained in a database by the ISS Program Science Office.
+
+
+
+Experiment Details
+
+Information Pending
+
+OpNom: Nanobiosym Genes
+
+Principal Investigator(s)
+
+Anita Goel, M.D., Ph.D., Nanobiosym, Inc., Cambridge, MA, United States
+
+
+
+Co-Investigator(s)/Collaborator(s)
+
+Information Pending
+
+
+
+Developer(s)
+
+BioServe Space Technologies, University of Colorado, Boulder, CO, United States
+
+
+
+Sponsoring Space Agency
+
+National Aeronautics and Space Administration (NASA)
+
+
+
+Sponsoring Organization
+
+National Laboratory (NL)
+
+
+
+Research Benefits
+
+Earth Benefits, Scientific Discovery, Space Exploration
+
+
+
+ISS Expedition Duration
+
+September 2016 - April 2017
+
+
+
+Expeditions Assigned
+
+49/50
+
+
+
+Previous Missions
+
+Information Pending
+
+Experiment Description
+
+Research Overview
+
+
+
+Proof-of-Concept for Gene-RADAR ® Predictive Pathogen Mutation Study (Nanobiosym Genes) is a proof-of-concept study to analyze how model organisms evolve in space, and use the empirical results to refine Nanobiosym ® ’s predictive mutation algorithms.
+
+Predictive Pathogen Mutation Study (Nanobiosym Genes) is a proof-of-concept study to analyze how model organisms evolve in space, and use the empirical results to refine Nanobiosym ’s predictive mutation algorithms. Nanobiosym ® theorizes that computational algorithms for predicting bacterial mutations can be tested and evaluated by subjecting organisms, in this case, bacteria, to the microgravity environment provided by the International Space Station (ISS).
+
+theorizes that computational algorithms for predicting bacterial mutations can be tested and evaluated by subjecting organisms, in this case, bacteria, to the microgravity environment provided by the International Space Station (ISS). This experiment identifies the patterns of mutations in organisms grown in space compared to a gravity based control here on Earth.
+
+This experiment provides data that can be applied to future predictive models for antibiotic resistant pathogen mutations, such as Methicillin-resistant Staphylococcus aureus (MRSA), which are of significant value to antibiotic drug development.
+
+According to the Infectious Disease Society of America, Methicillin resistant Staphylococcus aureus (MRSA), kills more Americans every year than the combined total of emphysema, HIV/AIDS, Parkinson’s disease, and homicide.
+
+This is one of many applications enabled by the Gene-RADAR® technology that can be used to accelerate development of new drugs, detect disease at the point-of-care, and serve as a mobile, low-cost solution to providing healthcare resources to underserved populations globally.
+
+Description
+
+
+
+The objective of the Proof-of-Concept for Gene-RADAR® Predictive Pathogen Mutation Study (Nanobiosym Genes) experiment is to perform a proof-of-concept study to evaluate how model organisms behave in space. Bacterial mutations are analyzed on two strains of Staphylococcus aureus and the data used to develop models that predict antibiotic-resistant pathogen mutations which are of significant value to antibiotic drug development. Due to the accelerated growth rate of bacteria in microgravity, the ISS is the ideal lab for this experiment. This experiment is integrated by BioServe Space Technologies at the University of Colorado, Boulder. The experiment is hosted in four BioCells Habitats, and makes use of BioServe’s Space Automated Bioproduct Lab (SABL) to culture the bacteria at 37°C.
+
+Applications
+
+Space Applications
+
+
+
+This experiment helps better predict mutation patterns in bacteria exposed to the microgravity environment of the space station. The Gene-RADAR® technology potentially could provide astronauts with real-time information about their health status and give them the ability to quickly diagnose diseases during spaceflight.
+
+Earth Applications
+
+Improved understanding of how bacteria mutate advances design of new antibiotics, which currently are not being developed fast enough to combat bacterial resistance. Real-time data collection and reporting tools such as this one also can be used to customize new medicines and make them more precise. In addition, the investigation contributes to development of a mobile, low-cost method to detect and diagnose disease in underserved populations on Earth and to help combat disease outbreaks.
+
+Operations
+
+Operational Requirements and Protocols
+
+The OmniTrays are loaded on four BioCell Habitats (P-HAB) and launched at 4°C. Once on orbit, the BioCell Habitats are transferred to SABL, which is set up at 4°C. For a controlled-start, SABL is commanded to increase the temperature to 37°C on the space station. To finish the incubation, SABL is commanded to 4°C. Samples are stored in SABL at 4°C until it is time for return. The BioCell Habitats return to Earth at 4°C.
+
+Decadal Survey Recommendations
+
+Information Pending
+
+Results/More Information
+
+Information Pending
+
+Related Websites
+
+^ back to top
+
+Imagery

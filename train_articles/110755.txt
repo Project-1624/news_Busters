@@ -1,0 +1,128 @@
+Laetrile treatment for cancer
+Appendix 1. Electronic search strategies
+
+CENTRAL
+
+#1 MeSH descriptor: [Amygdalin] explode all trees
+
+#2 (amygdalin or amygdaloside or isoamygdalin or neoamygdalin or mandelonitrile or laetrile or laetril or letril or letrile or lactrile)
+
+#3 MeSH descriptor: [Prunus] explode all trees
+
+#4 (prunus or prunasin* or prulaurasin or apricot or peach or almond or vitamin B17 or tao ren or tonin or tounin or persica or pesicae or semen armeniacae amarum or keishi-bukuryo-gan or keishibukuryogan or TJ-25 or nitriloside or sarcacinase or C20-H27-N-011 or C14-H15-N-07)
+
+#5 #1 or #2 or #3 or #4
+
+#6 MeSH descriptor: [Neoplasms] explode all trees
+
+#7 (neoplasm* or cancer* or tumor* or tumour* or malignan* or carcinoma* or adenocarcinoma*)
+
+#8 #6 or #7
+
+#9 #5 and #8
+
+MEDLINE Ovid
+
+1 Amygdalin/
+
+2 (amygdalin or amygdaloside or isoamygdalin or neoamygdalin or mandelonitrile or laetrile or laetril or letril or letrile or lactrile).mp.
+
+3 Prunus/
+
+4 (prunus or prunasin* or prulaurasin or apricot or peach or almond or vitamin B17 or tao ren or tonin or tounin or persica or pesicae or semen armeniacae amarum or keishi-bukuryo-gan or keishibukuryogan or TJ-25 or nitriloside or sarcacinase or C20-H27-N-011 or C14-H15-N-07).mp.
+
+5 1 or 2 or 3 or 4
+
+6 exp neoplasms/
+
+7 (neoplasm* or cancer* or tumor* or tumour* or malignan* or carcinoma* or adenocarcinoma*).mp.
+
+8 6 or 7
+
+9 5 and 8
+
+10 randomized controlled trial.pt.
+
+11 controlled clinical trial.pt.
+
+12 randomized.ab.
+
+13 placebo.ab.
+
+14 clinical trials as topic.sh.
+
+15 randomly.ab.
+
+16 trial.ti.
+
+17 10 or 11 or 12 or 13 or 14 or 15 or 16
+
+18 9 and 17
+
+key:
+
+mp=title, abstract, original title, name of substance word, subject heading word, keyword heading word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier
+
+sh=subject heading
+
+pt=publication type
+
+ab=abstract
+
+EMBASE Ovid
+
+1 amygdalin/
+
+2 (amygdalin or amygdaloside or isoamygdalin or neoamygdalin or mandelonitrile or laetrile or laetril or letril or letrile or lactrile).mp.
+
+3 exp Prunus/
+
+4 (prunus or prunasin* or prulaurasin or apricot or peach or almond or vitamin B17 or tao ren or tonin or tounin or persica or pesicae or semen armeniacae amarum or keishi-bukuryo-gan or keishibukuryogan or TJ-25 or nitriloside or sarcacinase or C20-H27-N-011 or C14-H15-N-07).mp.
+
+5 1 or 2 or 3 or 4
+
+6 exp neoplasm/
+
+7 (neoplasm* or cancer* or tumor* or tumour* or malignan* or carcinoma* or adenocarcinoma*).mp.
+
+8 6 or 7
+
+9 5 and 8
+
+10 crossover procedure/
+
+11 double-blind procedure/
+
+12 randomized controlled trial/
+
+13 single-blind procedure/
+
+14 random*.mp.
+
+15 factorial*.mp.
+
+16 (crossover* or cross over* or cross-over*).mp.
+
+17 placebo*.mp.
+
+18 (double* adj blind*).mp.
+
+19 (singl* adj blind*).mp.
+
+20 assign*.mp.
+
+21 allocat*.mp.
+
+22 volunteer*.mp.
+
+23 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22
+
+24 9 and 23
+
+Search terms for NHS Dialog
+
+NHS Dialog is a portal that provides access to databases such as AMED, CINHAL, EMBASE, and MEDLINE. All the above terms were searched in the same way in the NHS Dialog portal, apart from the truncation symbol *, that has been replaced by $. In order to limit truncation and avoid the possibility of overflow, a number of characters after the wildcard was also specified.
+
+Search terms for CAMbaseCAMbase is a virtual search engine with modern XML-based retrieval-technology, which enables the user to easily find relevant literature of Complementary and Alternative Medicine (CAM) in different resources. The use of CAMbase is optimized in such a way that the user can type in a request as a naturally spoken phrase. It is helpful to complete the sentence.
+
+We used the following sentences:

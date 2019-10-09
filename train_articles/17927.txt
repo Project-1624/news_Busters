@@ -1,0 +1,68 @@
+ISO/IEC 7810
+Illustration of ISO/IEC 7810 sizes in millimetres
+
+ISO/IEC 7810 Identification cards — Physical characteristics is an international standard that defines the physical characteristics for identification cards.[1]
+
+The characteristics specified include:
+
+Physical dimensions
+
+Resistance to bending, flame, chemicals, temperature, and humidity
+
+Toxicity
+
+The standard includes test methods for resistance to heat.[2]
+
+Card sizes [ edit ]
+
+The standard defines four card sizes: ID-1, ID-2, ID-3 and ID-000.[3]
+
+Format Dimensions Usage ID-1 85.60 × 53.98 mm Most banking cards and ID cards ID-2 105 × 74 mm French and other ID cards; Visas ID-3 125 × 88 mm US government ID cards ID-000 25 × 15 mm SIM cards
+
+All card sizes have a thickness of 0.76 mm (1/32 in).
+
+The standard defines both metric and imperial measurements, noting that:[4]
+
+Numeric values in the SI and/or Imperial measurement system [...] may have been rounded off and therefore are consistent with, but not exactly equal to, each other. Either system may be used, but the two should not be intermixed or reconverted. The original design was made using the Imperial measurement system.
+
+The ID-1 format specifies a size of 85.60 × 53.98 mm (​3 3⁄ 8 in × ​2 1⁄ 8 in) and rounded corners with a radius of 2.88–3.48 mm (about ​1⁄ 8 in). It is commonly used for payment cards (ATM cards, credit cards, debit cards, etc.). Today it is also used for driving licences in many countries. This format is also used for personal identity cards in some countries, automated fare collection system cards for public transport, in retail loyalty cards, and it is one fairly common format for business cards.[citation needed]. Both the recently issued Irish and much older U.S. passport cards, crew member certificates (particularly for aircrew[5]), as well as most national identity cards in the European Economic Area also use the ID-1 format.
+
+The ID-2 format specifies a size of 105 × 74 mm (4.134 × 2.913 in). This size is the A7 format. The ID-2 format is used, for example, for visas. It is used for the French and Romanian identity card, and was also used by the German identity card issued until October 2010. Since November 2010, German ID cards are issued in the ID-1 format more widely used in Europe for national ID cards. It was previously also used for Finnish and Swedish drivers' licences before those changed to the ID-1 format.
+
+ID-3 specifies a size of 125 × 88 mm (4.921 × 3.465 in). This size is the B7 format. This format is commonly used for passport booklets.[citation needed]
+
+ID-000 specifies a size of 25 mm × 15 mm, with one corner slightly (3mm) bevelled. The ID-000 size was first defined by ENV 1375-1, Identification card systems — Intersector integrated circuit(s) card additional formats — Part 1: ID-000 card size and physical characteristics.
+
+This size is used for the "mini-SIM" format of subscriber identity modules.
+
+ID-000 size card as part of ID-1 size card [ edit ]
+
+An "informative" (i.e. non-mandatory) annex[6] describes how an ID-000 sized card may be included in an ID-1 size card for processing (e.g. in an ID-1 reader), but with "relief areas around the perimeter of the ID-000 size card to allow it to be removed from the ID-1 size card without punching tools". An ID-1 size card containing an ID-000 size card is denoted as ID-1/000.
+
+Card characteristics [ edit ]
+
+The standard specifies requirements for such physical characteristics as:[7]
+
+Bending stiffness
+
+Flammability
+
+Toxicity
+
+Resistance to chemicals
+
+Card dimensional stability and warpage with temperature and humidity
+
+Resistance to deterioration from exposure to light and heat
+
+Durability
+
+See also [ edit ]
+
+ISO/IEC 7811 defines traditional techniques for recording data on ID-1 identification cards, namely embossed characters and several different magnetic recording formats.
+
+ISO/IEC 7816 defines ID-1 identification cards with an embedded chip (smartcard) and contact surfaces for power, clock, reset and serial-data signals.
+
+Magnetic stripe card
+
+MM Code

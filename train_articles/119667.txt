@@ -1,0 +1,106 @@
+The Insidiousness of Facebook Messenger's Android Mobile App Permissions (Updated)
+Corrections/Updates (4:45pm EST 8/11/2014): A previous version of this post contained inaccurate and outdated information about Facebook's Messenger app for Android devices (Facebook has provided its own response to concerns about the app here). The post incorrectly equated the app's Terms of Service to its Android-specific permissions language, and the permissions language it originally quoted has since been updated by Google. These changes are now reflected in the post.
+
+_____
+
+How much access to your (and your friends') personal data are you prepared to share for access to free mobile apps? I suspect the amount is significantly less than that which you actually agreed to share when blindly accepting an app's Terms of Service or the default permissions required by a given operating system for an app to function.
+
+Case in point: Facebook's Messenger App, which boasts more than 200,000 million monthly users, requires you to allow access to an alarming amount of personal data and, even more startling, direct control over your mobile device. I'm willing to bet that few, if any, of those using Messenger on Android devices, for example, fully considered the permissions they were accepting when using the app.
+
+The Facebook Messenger app is a standalone version of the instant chat feature within the social network. In April 2014 Facebook announced that this service would no longer be available in the main app and that users would need to download the separate Messenger app for chat functionality. If you're using this app on an Android device, take a look at the permissions that may be governing its functionality (which you can do by going to Settings > Apps or Application Manager). Below is a full list of Android's current permissions groups (the following section has been updated to reflect the current language listed at Support.Google.com; 8/11/2014):
+
+In-app purchases
+
+An app can ask you to make purchases inside the app. Device & app history
+
+An app can use one or more of the following: Read sensitive log data
+
+Retrieve system internal state
+
+Read your web bookmarks and history
+
+Retrieve running apps Cellular data settings
+
+An app can use settings that control your mobile data connection and potentially the data you receive. Identity
+
+An app can use your account and/or profile information on your device. Identity access may include the ability to: Find accounts on the device
+
+Read your own contact card (example: name and contact information)
+
+Modify your own contact card
+
+Add or remove accounts Contacts/Calendar
+
+An app can use your device's contacts and/or calendar information. Contacts and calendar access may include the ability to: Read your contacts
+
+Modify your contacts
+
+Read calendar events plus confidential information
+
+Add or modify calendar events and send email to guests without owners' knowledge Location
+
+An app can use your device's location. Location access may include: Approximate location (network-based)
+
+Precise location (GPS and network-based)
+
+Access extra location provider commands
+
+GPS access SMS
+
+An app can use your device's text messaging (SMS) and/or multimedia media messaging service (MMS). This group may include the ability to use text, picture, or video messages. Note: Depending on your plan, you may be charged by your carrier for text or multimedia messages. SMS access may include the ability to: Receive text messages (SMS)
+
+Read your text messages (SMS or MMS)
+
+Receive text messages (MMS, like a picture or video message)
+
+Edit your text messages (SMS or MMS)
+
+Send SMS messages; this may cost you money
+
+Receive text messages (WAP) Phone
+
+An app can use your phone and/or its call history. Note: Depending on your plan, you may be charged by your carrier for phone calls. Phone access may include the ability to: Directly call phone numbers; this may cost you money
+
+Write call log (example: call history)
+
+Read call log
+
+Reroute outgoing calls
+
+Modify phone state
+
+Make calls without your intervention Photos/Media/Files
+
+An app can use files or data stored on your device. Photos/Media/Files access may include the ability to: Read the contents of your USB storage (example: SD card)
+
+Modify or delete the contents of your USB storage
+
+Format external storage
+
+Mount or unmount external storage Camera/Microphone
+
+An app can use your device's camera and/or microphone. Camera and microphone access may include the ability to: Take pictures and videos
+
+Record audio
+
+Record video Wi-Fi connection information
+
+An app can access your device's Wi-Fi connection information, like if Wi-Fi is turned on and the name(s) of connected devices. Wi-Fi connection information access may include the ability to: View Wi-Fi connections Device ID & call information
+
+An app can access your device ID(s), phone number, whether you're on the phone, and the number connected by a call. Device ID & call information may include the ability to: Read phone status and identity Other
+
+An app can use custom settings provided by your device manufacturer or application-specific permissions. Note: If an app adds a permission that is in the "Other" group, you'll always be asked to review the change before downloading an update. Other access may include the ability to: Read your social stream (on some social networks
+
+Write to your social stream (on some social networks)
+
+Access subscribed feeds When you review individual permissions, all permissions, including those not displayed in the permissions screen, will be shown in the "Other" group.
+
+The fact that social media and mobile apps are so insidious is nothing new, we all know (or should know) that no app is truly free. "Free" online apps are paid for by the provision of personal data such as name, location, browsing history, etc. In turn, mobile developers and social networks charge advertisers to serve up highly targeted ads to specific groups of people.
+
+In a way, it pays to offer some personal information for a better experience with online ads, which we all hate so much. However, in the case of Messenger on Android, the attempt to collect so much information and take control of one's device is unprecedented and, quite frankly, frightening. The fact that so many people have agreed to these permissions is an alarming insight into the future of mobile apps and personal security.
+
+If this many people have not checked the permission groups that apply to Facebook Messenger (or have read them and don't care), how emboldened will mobile developers be in the future? I understand the nature of "free" mobile apps. I'm prepared to give up some personal data for the right to access a game, content, or social network for free and to have an improved advertising experience while enjoying that free service. However, the current situation goes too far. It's time we stood up and said "no!"
+
+Take the first step by deleting this app. Next, review the Terms of Service agreements or permissions you've previously accepted without reading, and be sure you're comfortable with the cost of "free." The only way to curb this harmful trend is to take a stand. Read every online and mobile agreement before accepting and, where it goes too far, say no.
+
+Will you say no?

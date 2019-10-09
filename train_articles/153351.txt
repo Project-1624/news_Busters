@@ -1,0 +1,70 @@
+FCC Repeals Net Neutrality
+By a 3-2 majority, the Federal Communications Commission voted on 14 December 2017 to repeal a set of 2015 regulations aimed at ensuring fair competition among content providers and platforms, and unrestricted access to all legal content for end users.
+
+Enacted with the support of content-based Internet companies such as Facebook, Twitter, and Reddit, the Obama-era regulations were based on the principle of “net neutrality,” a response to the increasing dominance of large telecom companies like AT&T, Verizon, Comcast, and Charter, who were seen as a threat to a free and open Internet.
+
+The proposal to repeal the net neutrality rules was introduced by Trump-appointed FCC Chairman Ajit Pai, who touted the deregulation as a win-win for both the industry and consumers:
+
+We are helping consumers and promoting competition. Broadband providers will have more incentive to build networks, especially to underserved areas.
+
+But opponents say the repeal introduces uncertainty into the market, gives larger, established content providers a competitive advantage over smaller ones, and allows Internet service providers to control or restrict end users’ content choices.
+
+Mignon Clyburn, one of the two Democratic commissioners who voted against repealing net neutrality, spoke on behalf of consumers who are likely to bear the brunt of the decision:
+
+I dissent, because I am among the millions outraged. Outraged, because the FCC pulls its own teeth, abdicating responsibility to protect the nation’s broadband consumers.
+
+Although we can’t predict precisely what the deregulation bodes for the future of the Internet, net neutrality advocates have long warned that it would endanger the unfettered access most of us now enjoy. We’ll look at some of the potential consequences below.
+
+What is net neutrality?
+
+The Electronic Frontier Foundation (EFF) defines net neutrality as “the idea that Internet service providers (ISPs) should treat all data that travels over their networks fairly, without improper discrimination in favor of particular apps, sites or services.” The 2015 FCC rules were designed to preserve free and open Internet access by prohibiting ISPs from giving preferential treatment to particular applications, content providers, or web sites by “throttling” (slowing down), speeding up, or blocking their traffic.
+
+Why did they want to get rid of it?
+
+The Republican commissioners sided with Comcast and other large ISPs in arguing that the 2015 net neutrality rules, which essentially redefined Internet service providers as public utility companies (“common carriers”) and regulated them as such, imposed unnecessary and burdensome restrictions on the industry. FCC Chairman Pai, who likened the regulations to “micromanaging” the Internet, said they stifled competition and discouraged investment and innovation.
+
+How might the repeal of net neutrality lead to fewer consumer choices?
+
+Net neutrality rules prohibited Internet providers from favoring some content platforms and providers over others. For example, an ISP could not arbitrarily throttle or speed up broadband delivery based on those providers’ ability to pay for “fast lane” access, nor demand additional fees over and above basic Internet access charges for customers to use particular applications or content. As CNN explained:
+
+To take a classic example, [net neutrality] means Comcast can’t just choose to slow down a service like Netflix to make its own streaming video service more competitive, nor can it try to squeeze Netflix to pay more money to be part of a so-called internet fast lane. As Michael Cheah, general counsel at video site Vimeo, previously told CNNMoney: the point of the rules is “allowing consumers to pick the winners and losers and not [having] the cable companies make those decisions for them.”
+
+Another undesirable consequence envisioned by net neutrality advocates is the offering of preselected content packages (similar to tiered cable TV services) that would require users to pay add-on fees for content not included in those packages. For example, in addition to paying for basic Internet access, a customer might be charged add-on fees for using social media (Facebook, Twitter, Instagram, etc.), streaming music, or streaming videos. This would not only limit consumers’ choices, net neutrality advocates argue, but would also likely lead to a proliferation of lower-quality content overall.
+
+(Please note, the repeal of net neutrality does not automatically mean users will start being charged separate fees for accessing various kinds of content; it means that ISPs will be able to charge such fees if they want to.)
+
+In addition to being able to charge more for certain kinds of content, ISPs will be free to block or limit access to content they deem objectionable, unimportant, or otherwise unworthy — pornography and gambling web sites, for example, or even certain kinds of political speech. Net neutrality advocates refer to this as “gatekeeping” and say it’s a threat to freedom of expression.
+
+Have any ISPs announced intentions to throttle, fast-lane, or block broadband traffic?
+
+No. In fact, Comcast, for one, has more or less promised it will not do so. In a 13 December blog post anticipating the FCC vote, Comcast Senior Executive Vice President David L. Cohen wrote:
+
+We have repeatedly stated, and reiterate today, that we do not and will not block, throttle, or discriminate against lawful content. These fundamental tenets of net neutrality are also key components of our core network and business practices — they govern how we run our Internet business.
+
+According to FCC Chairman Pai, Internet service providers who plan to throttle, fast-lane, or block any apps or content will be required to disclose it. But now that they’re subject only to the oversight of the Federal Trade Commission, whose mandate is protecting consumers from “unfair or deceptive acts or practices” across the entire range of U.S. industries and businesses, ISPs will be free to make (or remake) their own rules.
+
+Is Portugal an example of what the Internet will look like without net neutrality?
+
+No, despite the circulation in late 2017 of a graphic purporting to show how a Portuguese ISP is divvying up Internet access to its customers in preselected content packages. As a member of the European Union, Portugal does, in fact, have net neutrality regulations in place. What the graphic actually represented was a selection of gigabyte add-ons to the company’s basic mobile data plan.
+
+Is there any evidence that net neutrality regulations actually hobbled investment and innovation?
+
+The chairman of the FCC says yes, but the financial statements of some of the United States’ largest ISPs indicate otherwise; nor is it a given that repealing the regulations will stimulate investment and innovation as claimed. Wired reported:
+
+In its proposal to repeal the rules, which were enacted in 2015, the FCC cites industry-funded studies concluding that investment in internet infrastructure declined 3 percent in 2015 and another 2 percent in 2016. The proposal also claims that internet providers delayed new offerings, such as home-wireless plans or streaming video services. But the nation’s largest internet provider actually increased its spending during this period, as did several other companies. Others cut spending, but said the drops stemmed from completion of longer-term plans. The shifts highlight the challenge of determining the cause and effect of spending changes, which reflect corporate need, technological change, cost-saving innovation, and shareholder pressures, as well as regulations.
+
+What’s the future of net neutrality after the repeal?
+
+The FCC’s majority position (as stated by Chairman Pai) is that net neutrality existed before the protections were in place and will continue to exist after their repeal:
+
+Following today’s vote, Americans will still be able to access the websites they want to visit. They will still be able to enjoy the services they want to enjoy. There will still be cops on the beat guarding a free and open Internet. This is the way things were prior to 2015, and this is the way they will be once again.
+
+Despite those assurances, a letter to the FCC signed by more than 60 U.S. mayors and city leaders argued that repealing the regulations will inevitably lead to abuses and harm consumers:
+
+The Commission’s proposal both abandons the legal foundation for Net Neutrality rules and eliminates the rules themselves. We are certain that the Commission’s proposals will fail to protect the Internet, and should be abandoned. Despite the Commission’s stated support for the principles of Net Neutrality, the Commission’s proposal: enables abusive gatekeeper behavior by dominant broadband providers; allowing broadband providers to engage in paid prioritization schemes which rob value from local communities and stifle innovation, and threatens businesses and consumers by permitting blocking, throttling, and other interference with access to the Internet. And, because broadband affordability in low-income communities is already a significant challenge faced by communities nationwide, the Commission’s proposal is certain to have a disproportionate effect on the most vulnerable.
+
+Net neutrality’s defenders have already announced plans to file lawsuits to block the repeal, which won’t take effect until the FCC decision has been reviewed by the White House. Bloomberg reported:
+
+“Allowing internet service providers to discriminate based on content undermines a free and open Internet,” Washington State Attorney General Bob Ferguson said in a statement announcing the intention to file challenges along with colleagues from other states. Democratic Attorneys General Eric Schneiderman, of New York, and Lisa Madigan, of Illinois, also announced plans to sue, as did Free Press, an activism group that helped organized the opposition to the FCC’s party-line vote to strike down open-internet policies. They are likely to be joined by others in coming weeks.
+
+Bloomberg notes that the legal challenges face an uphill battle because courts typically defer to the expertise of federal agencies, but it’s unlikely that net neutrality advocates will be deterred. Sen. Edward Markey (D-Massachusetts) vowed to fight the FCC decision “in the halls of Congress” if necessary.

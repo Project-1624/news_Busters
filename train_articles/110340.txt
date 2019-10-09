@@ -1,0 +1,56 @@
+Wal-Mart cancels 'smart shelf' trial
+A Wal-Mart representative this week told CNET News.com that the retail giant will not conduct a planned trial of a so-called smart-shelf system with partner Gillette that was scheduled to begin last month at an outlet in Brockton, Mass., a Boston suburb.
+
+"The shelf was never completely installed," Wal-Mart spokesman Tom Williams said. "We didn't want it. Any materials that were there (in Brockton) were removed. We never had products with chips in them."
+
+Radio frequency identification (RFID) technology uses microchips to wirelessly transmit product serial numbers to a scanner without the need for human intervention. The technology is seen as an eventual successor to bar-code inventory tracking systems, promising to cut distribution costs for manufacturers and improve retailing margins.
+
+But the technology has drawn barbs from consumer privacy groups that worry about potential abuses if product-tracking tags are allowed to follow people from stores into their homes.
+
+Wal-Mart's proposed smart-shelf system was designed to pick up data transmitted from microchips embedded in Gillette product packaging, alerting store managers via computer when stock is running low on the shelf or when items may have been stolen--two informative and powerful measurements in the retail business.
+
+The benched trial was widely seen as the most aggressive step yet by a retailer to push RFID from warehouses into U.S. stores. Backers of the technology eventually see billions of packaged goods tracked remotely using RFID sensors through in-store systems that might one day help prevent shoplifting and speed shoppers through automated checkout lines.
+
+Those ambitious plans now are likely to take a backseat to proposals to upgrade warehouse operations with RFID technology, which will require fewer chips and less computational power.
+
+Williams said Wal-Mart ceased in-store RFID testing because executives wanted to focus on installing RFID systems in warehouses and distribution centers instead. Wal-Mart, the world's largest retail chain with 4,700 stores around the globe, said in early June that it's urging its top 100 suppliers to attach RFID chips to cases and pallets of products that they ship to Wal-Mart warehouses.
+
+A Gillette representative declined to comment on Wal-Mart's decision to pull the plug on the wired shelf but said the Boston-based company remains focused on helping U.K.-based supermarket chain Tesco and German retail conglomerate Metro with similar trials in Europe.
+
+Instant eye on inventory
+
+Retailers are ever watchful for ways of improving the balance between inventory supply and consumer demand. They want to make sure there are enough products on the shelves to meet demand but not so much that they are sitting in a warehouse taking up costly inventory space. The use of RFID technology is viewed as one of the more promising tools to improve visibility of inventory almost instantly. But companies have only dipped their toes into the water, examining installation behind the scenes in warehouse settings.
+
+The smart-shelf trial by blue-chip company Wal-Mart was viewed as a potentially aggressive endorsement of an in-store application because of the company's ability to influence its suppliers and push the adoption of new technologies--something it helped to do with bar-code scanning technology in the 1980s. The unexpected cancellation of the test is letting some of the steam out of the market, but that may be a good thing, according to one analyst.
+
+"The RFID industry has been floundering in a sea of science projects, which is what these trials have been to date," said Jeff Woods, an analyst with research firm Gartner. "This is one of the most overhyped technologies out there, and this can be viewed as a precursor to the bubble bursting for RFID."
+
+Now companies can focus on one mission--and that's being more realistic about the potential of this technology, given its relative youth, Woods added.
+
+Gillette and Wal-Mart had lauded the use of RFID systems to track merchandise in stores. Both said they were eager to explore the technology's potential to boost the profits of retailers and manufacturers by ensuring that products are always available to consumers and by deterring theft.
+
+But soon after Wal-Mart first discussed its smart-shelf trial, privacy advocates began to raise concerns about the technology. The main questions: Would retailers and manufacturers be able to monitor products after consumers purchased them? Could the technology be misused by hackers and criminals or exploited for government surveillance?
+
+Such questions caused big headaches for Italian clothier Benetton when technology maker Philips Semiconductor announced in March that it planned to ship millions of RFID chips for use in Benetton's Sisley line of clothes. Soon after the announcement, U.S.-based privacy group Consumers Against Supermarket Privacy Invasion and Numbering, lashed out at the international clothing chain and called for a worldwide boycott.
+
+Benetton said later, in a clarification, that it had purchased only 200 tags and was still studying the economic practicality of installing the RFID technology. The company also said it would consider the "potential implications relating to individual privacy" before firming up its RFID plans, which it plans to do before the end of the year.
+
+Then, in May, several RFID chip manufacturers pledged to incorporate a "kill switch" into their chips in a move to relieve consumer fears of the technology. The kill switch would let retailers and consumers disable the chips at the checkout counter.
+
+Despite the privacy concerns, Wal-Mart says it has backed away from in-store use of RFID as a matter of priorities, not over concerns of a consumer backlash. "Technology like RFID is so wide, we've chosen to put limits on ourselves to help focus and drive it forward," Williams said.
+
+Not-so-cheap chips
+
+Economics may have played a role in Wal-Mart's decision to shelve its in-store RFID test. RFID chips are still too expensive for wide-scale use with consumer merchandise, said Gillette spokesman Paul Fox. While today's price of around 10 cents a chip is cheap enough to fuel initial trials, Fox said, the cost of the chips have to fall to a fraction of a penny if they are to become ubiquitous in stores. And that will take about 10 to 15 years, he added.
+
+"That's so far in the future," Williams said of the widespread use of RFID on store shelves.
+
+Yet the economics haven't changed significantly since Wal-Mart and Gillette first embarked on the smart-shelf project in January. So why the abrupt change in plans?
+
+One analyst said privacy concerns, though they've been overblown, have become significant enough to be a factor in the development of the technology and market.
+
+"Consumers that are aware of RFID and privacy feel it is very significant, and they are probably more concerned than they should be," said Ian McPherson, an analyst with research firm Wireless Data Research Group. "The likelihood that people can be tracked beyond the check stand is very low."
+
+According to a survey it conducted in May, Research firm Gartner said that 55 percent of the consumers it polled would shop in stores where RFID technology is being used if it meant faster checkouts. About 16 percent said they would probably or definitely stop shopping in a store using RFID, and 28 percent were undecided. However, when their payment information was electronically stored, almost half, about 45 percent, said they would be unwilling to shop in those stores.
+
+Another issue for companies looking to test RFID technology is the strain on their inventory networks. For a company Wal-Mart's size, it could have more than a billion products worth of data being collected, stored and sent through its inventory network, which means an extremely sophisticated system would have to be in place to properly process the data, McPherson said.

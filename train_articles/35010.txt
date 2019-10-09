@@ -1,0 +1,62 @@
+Announcing Civiqs: the coolest thing I've helped build since Daily Kos
+Behold, Civiqs—a division of Kos Media, separate from Daily Kos, with its own team but under the same corporate umbrella. And what does Civiqs offer? Exactly what we hoped for: the ability to scientifically track data EVERY SINGLE DAY on dozens of issues, candidates, and campaigns, so we can see how events affect public opinion in real time.
+
+Starting today, we are publicly releasing DAILY tracking data on Donald Trump’s job approvals, Mitch McConnell’s and Paul Ryan’s favorability rating, the 2018 generic congressional ballot, gun control, and the favorability ratings for both the Democratic and Republican parties. The data that we release at civiqs.com/results will be updated with new results EVERY DAY.
+
+For now, let’s look at the gun question.
+
+x Civiqs Results
+
+There’s so much to unpack in that dynamic graph (mouse over it or use your fingers in a mobile device), and you can click through to see for yourself. We know that Independents had enough after Orlando, when their net support for gun control rose 12 points. Meanwhile, Republicans just offered hopes and prayers and rallied against gun control. However, that all changed after Parkland, when GOP net support for gun control spiked 23 points, the first real movement with that group since … ever. And we know that the bulk of that Republican movement came from—no surprise—women. While Republican men’s net support for gun control increased 19 points (amazing in its own right!), among Republican women, it rose 26 points.
+
+x Civiqs Results
+
+And while that 30 percent of Republican women’s support might seem weak, note that it only took 9 percent of Alabama Republican women to vote Democratic to help elect Doug Jones to the U.S. Senate. In Alabama. Particularly in the suburbs, winning 10 percent of this demographic changes November’s prognosis from “great Democratic year” to “Republican cataclysm.” The gun issue has a real potential to help grow Democratic support among this constituency, one that should naturally align with Democrats.
+
+But whoa, I’m straying from the point of this post, which is to announce Civiqs. So over the coming weeks I’ll be sharing more numbers on myriad issues. The insight Civiqs provides is breathtaking, and it’s unlike anything currently in existence.
+
+Dr. Linzer offers the basics behind the methodology in his own announcement post here. Suffice it to say, this is real science, using real statistics, conducting legit polling. It took us five years to release this because we used the last three years to build a massive online survey panel, and validated our numbers with real elections, tweaking and adjusting the algorithms and technology until we got it right. Our public Civiqs Dashboard includes results from last year’s elections in Virginia and New Jersey to demonstrate the accuracy of our results.
+
+Now to answer some obvious questions:
+
+IS THIS A POLL OF DAILY KOS USERS?
+
+This will be an obvious question, so let’s dispatch it quickly: No, this isn’t a poll of Daily Kos users. This is scientific polling from a nationally representative panel. If we are to get an accurate gauge of public opinion, we obviously need to talk to people from all walks of life—ideological, demographic, and geographic.
+
+The methodology is detailed here.
+
+IS THIS POLLING SCIENTIFIC?
+
+I mentioned that this is scientific a bunch of times above. This is just an excuse to reiterate that yes, this is legit stuff. The research methodology is built directly into the survey platform, with representative survey sampling, a clean and intuitive interviewing system, and sophisticated statistical procedures for processing the results.
+
+YOU’RE DAILY KOS, SO THIS IS BIASED, RIGHT?
+
+Daily Kos has always sought out real, accurate data. We are a reality-based community. It’s why Nate Silver emerged from this community. It’s why we spent hundreds of thousands of dollars on polling from outfits like PPP in previous elections. It’s why our elections data is so trusted that even Politifact uses it in its fact checking.
+
+We can’t move people to a more progressive America if we don’t honestly know where Americans stand today. We don’t create our own reality, we live in the real world. And as I share more of this data, you’ll see that not all of the results are automatically great for liberals. Oftentimes, the results can be sobering.
+
+Finally, this is not a project of Daily Kos. This is a separate division of Kos Media, with its own team of developers, pollsters, and data scientists. It might seem like a silly distinction, but it matters to us internally. Daily Kos is a partisan outfit. Civiqs has its own mission, and that is to represent the state of public opinion accurately.
+
+IS THE INTERNET A VIABLE MEDIUM FOR POLLING?
+
+Yes. The internet was used by many polling firms in 2016, and research shows that internet-only results are solid--if you use a rigorous research methodology, which we do. Of course, no one has operated with the scope and scale that we are. We are in a completely different league.
+
+WHAT ARE YOU DOING WITH THIS DATA?
+
+Some of it we’re sharing with the public. We’re also making it available to staff for journalistic purposes. Beyond that, we’re selling polling services to other media outlets, people in politics, academic institutions, etc.
+
+WHAT IS THE END GOAL?
+
+Ooh, the best question of all! So there was one more pie-in-the-sky fantasy Dr. Linzer and I discussed over that fateful 2012 breakfast: we didn’t just want fresh data every day, and we didn’t just want it at the state level; we wanted it all the way down to the congressional district level.
+
+I mean, NO ONE is polling congressional districts with any regularity. And here we were, talking about getting polling data at that level EVERY SINGLE DAY! CRAZY!
+
+We’re not there yet. But the research panel is still growing. In fact, you can join right now! Click over to civiqs.com/join-in to see what Civiqs is about.
+
+HOW PROUD ARE YOU OF THE CIVIQS TEAM?
+
+This may or may not come as a surprise to you, but Daily Kos isn’t a wealthy organization. We didn’t have a lot of money to throw at Civiqs, so it was built with a small, plucky, under-resourced team. And yet they’ve accomplished something that is truly amazing—a complete reimagining of how polling could be conducted. From the technology development, to the statistical modeling, to the panel-building—they’ve done it all in-house.
+
+This was no small feat. My contribution was to give this team a home to build the impossible, and they delivered. For that, I am both immensely proud, and immensely humbled.
+
+This is something truly special. And if you can’t quite appreciate it right now, I hope that over time, as you see how powerful Civiqs is, you’ll come to love it as much as I do.

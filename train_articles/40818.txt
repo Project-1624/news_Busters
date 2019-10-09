@@ -1,0 +1,80 @@
+Spending On Prescription Drugs In The US: Where Does All The Money Go?
+President Donald Trump’s May 11 speech on lowering prescription drug prices, as well as many statements from the pharmaceutical industry, have stressed that supply chain intermediaries, or “middlemen,” are capturing much of the money that is often categorized as drug spending. A number of studies have attempted to quantify this by focusing on the gap between the list and net price. However, these analyses focus primarily on manufacturers’ rebates and do not account for revenues retained from other transaction costs and mark-ups. A clearer understanding of the total market size, as well as the revenues retained from the purchase, distribution, and payment of prescription drugs throughout the US supply chain, may be useful for policy makers as they seek reforms while working to preserve incentives for innovation and efficiency. Our analysis provides an estimate of the revenues or gross profits associated with prescription drugs’ path from the manufacturer to the patient, effectively allocating the total amount of drug spending among the different purchasers and payers across the US drug supply chain.
+
+Disparities Among Estimates Of Pharmaceutical Spending In The US
+
+Estimates of annual US pharmaceutical spending vary, both because the data used for such estimates differ in important ways and because the scope of what is measured is inconsistent. Exhibit 1 summarizes the differences among the most prominent reports examining drug spending in the US. The National Health Expenditures (NHE) data from the Centers for Medicare and Medicaid Services (CMS) include only spending on prescription drugs dispensed in the retail setting and exclude drugs administered in hospitals and doctors’ offices. IQVIA publishes two estimates: One includes net revenue received by manufacturers and another reflects gross spending on drugs at invoice prices, including payer rebates and some channel markups. (Although both IQVIA and CMS publish estimates of approximately $325 billion in net drug spending in 2016, they are comprised of different components.) Estimates from the Department of Health and Human Services’ (HHS) Assistant Secretary for Planning and Evaluation (ASPE) use CMS’s NHE estimate for retail drugs and construct an estimate for non-retail drugs that is informed by IQVIA and Altarum Institute data.
+
+Exhibit 1: Estimates Of Spending On Pharmaceuticals In The US In 2016
+
+
+
+
+
+Source: Authors’ analysis.
+
+Quantifying And Allocating The Components Of US Pharmaceutical Spending
+
+We used a mix of financial disclosures and third-party market data to quantify the overall market size based on the revenues that accrued not only to drug manufacturers but also to each of the intermediaries involved with the distribution, administration, or reimbursement of medicines in 2016. To avoid double counting where the same drug changes hands at different prices throughout the supply chain, we netted out the cost of the product to isolate the gross profit (for all but the manufacturers). Combining this with the manufacturers’ net sales of the products, we provide a view of how spending is allocated throughout the entire system.
+
+Manufacturers
+
+As a starting point, we relied on IQVIA’s 2016 estimate of the net revenue received by drug manufacturers, a commonly accepted standard published annually in its “Medicines Use and Spending in the U.S.” report. This estimate calculates net prices (after rebates, discounts, and concessions) for a large sample of pharmaceutical companies via their filings with the Securities and Exchange Commission (SEC), publicly reported net sales, and information provided by these companies directly in support of IQVIA’s analysis. These revenues exclude all rebates and discounts including those paid to pharmacy benefit managers (PBMs) and other channel intermediaries. For 2016, IQVIA reported $323 billion in company-recognized net revenues.
+
+PBMs And Wholesalers
+
+The PBMs and wholesaler-distributors are extraordinarily concentrated, with the three largest companies dominating the market share within these segments. This made it possible to extrapolate reasonably to the sector level using assumptions regarding profitability for other companies and market share percentages.
+
+Within the PBM industry, approximately 70–75 percent of all prescription claims are handled by the top three companies: Express Scripts, CVS Caremark, and OptumRx. The first two, which account for more than half of the industry’s prescription drug claims, disclose gross profits for their PBM/pharmacy services business. United Healthcare reports OptumRx’s revenues, to which we applied a 5 percent margin (comparable to CVS Caremark’s) to estimate its gross profits, bringing total profits for the “big three” to a little more than $17 billion. Assuming lower profitability margins for the remaining smaller players, we grossed up to an estimate of $22.6 billion in gross profits for the PBMs.
+
+The three largest pharmaceutical wholesalers, McKesson, AmerisourceBergen, and Cardinal, together generate 85–90 percent of US drug distribution revenues. McKesson and AmerisourceBergen (which account for more than 60 percent of the market) disclose gross margins as well as segment revenues for their North American distribution services, and we applied an average of these two companies’ margins to estimate Cardinal’s gross profits. After aggregating the gross profits for these three dominant companies, we extrapolated the remaining 15 percent to come up with an estimate of $17.7 billion in gross profits for the overall segment. (When financial disclosures were made on a fiscal year basis, we added the quarters to arrive at annual calendar 2016 gross profits.)
+
+Pharmacies
+
+For pharmacies, we analyzed public disclosures about gross margins for the larger chains’ prescription drug-related businesses. However, given the fragmented nature of the industry, we relied on a third-party estimate of $412 billion for aggregate revenues for the pharmacy space. We applied a blended average for gross margin (adjusting for the assumption of lower margins for smaller independent drug stores) to this amount of sales for the pharmacy sector and arrived at our estimate of nearly $73 billion in gross profits for the overall segment. This includes retail, mail order, and prescription pharmacies.
+
+Providers
+
+Providers (which include hospitals, hospital-affiliated clinics, and physician practices) can generate significant revenues from administering drugs in the outpatient setting for conditions such as cancer and rheumatoid arthritis. Physician offices and hospital outpatient clinics can make large profits as a result of administration fees and markups in the “buy and bill” system, which may be reimbursed through the medical benefit (or Part B) of Medicare, or by commercial insurance plans.
+
+There are no large entities that report on these profit margins, so we built up our estimates beginning with Medicare Part B spending on drugs, which was $25.7 billion in 2016. For physician clinics and hospitals that are not eligible for the 340B program, we assumed a standard markup of 6 percent. For the percent of hospitals that receive 340B discounts, we assumed a 49 percent profit margin due to the broad spreads between acquisition costs for drugs and reimbursement levels. The total markup received by providers for non-retail drugs reimbursed through Medicare amounted to nearly $5 billion, in our estimation.
+
+Next, we quantified gross profits for these same providers reimbursed by commercial payers based on an estimate that Medicare accounts for 30 percent of drug spending and commercial insurers account for 42 percent. Within the commercial segment, we again made a distinction between drugs administered in physicians’ offices versus hospital outpatient departments, since hospital-based practices routinely receive reimbursement that is many multiples more than community-based medical practices for administering the same drug. Based on previous work published by the Drug Pricing Lab, physicians’ offices realize average markups of approximately 16 percent. As a result of the steep discounts available to 340B-eligible hospitals and the discretion hospitals have in setting list prices for drugs and services, affiliated clinics earn profit margins of approximately 140 percent under commercial insurance contracts. The total markup received by providers for drugs reimbursed by commercial payers amounted to approximately $30 billion. This analysis excludes provider profits on drugs covered by the Department of Veterans Affairs or Medicaid, and on the profits they make on inpatient drugs when per diem or diagnosis-related group–based reimbursement exceeds the costs of the patient stay, including the cost of drugs used during the stay. (340B hospitals do not receive discounts on drugs used in the inpatient setting.)
+
+We also estimated the contribution from 340B-eligible hospitals’ growing network of contract pharmacies but excluded that estimate from our presentation because the amount is negligible. Sales through this channel in 2016 were about $1 billion (at 340B prices). Assuming that 340B discounts are 40 percent off the wholesale acquisition price (WAC), the $900 million in branded drug sales would generate an estimated $1.5 billion in reimbursement, resulting in average gross profits of $500 million. Use of network pharmacy arrangements is increasing rapidly, and sales are projected to quintuple to $5 billion by 2021 (more than $9 billion in volume at WAC).
+
+Insurers/Payers
+
+Given the limitations in drug-specific financial disclosure by public insurers/health plans, we used data on premiums and assumptions regarding expense ratios for claims to estimate profits for health plans. Starting with Medicare Part D, we took the total number of enrollees and multiplied by the average premium for 2016 to estimate the premiums paid by members and then added the 75.5 percent subsidized by the federal government to quantify the full amount of Part D premiums. We then applied an average 82 percent claims expense to estimate profitability for the Part D plans, based on an estimate for Medicare Part D expense ratios provided by Bloomberg Intelligence. Using the market share split for pharmacy claims, we extrapolated profitability for commercial payers using similar assumptions. Based on this methodology, we estimate gross profits of $8.6 billion for commercial payers and health plans.
+
+Putting The Pieces Together
+
+We estimate that in 2016, total US expenditures on pharmaceutical drugs, including the gross profits of all the intermediaries, were $480 billion (Exhibits 2 and 3). Two-thirds of this total ($323 billion) was captured by drug manufacturers in the form of net revenues. The remaining third ($157 billion) was retained as gross profits in the supply chain. Of this share, nearly half was captured by retail and specialty pharmacies ($73 billion), and about 20 percent ($35 billion) by providers, such as hospitals and doctors’ offices. PBMs and wholesalers together captured approximately 25 percent ($23 billion and $18 billion, respectively).
+
+Exhibit 2: Net Revenues Retained By Prescription Drug Market Participants
+
+
+
+
+
+Source: Authors’ analysis.
+
+Exhibit 3: Retained Revenue Across US Pharmaceutical Sector In 2016 ($ billions)
+
+
+
+
+
+Source: Authors’ analysis.
+
+Considerations For Policy
+
+The US pharmaceutical industry is characterized by a complex and often opaque system of distribution and reimbursement, in which the business models of multiple intermediaries rely on revenue from fees, price mark-ups, and after-the-fact rebates. To provide a comprehensive overview of these revenues, we quantified the gross profits retained by each group of supply chain participants, arriving at an estimate of annual gross profits of $480 billion per year. This estimate is close to the ASPE estimate of $477 billion, but only by coincidence. That report combines the NHE estimate of retail outlets’ prescription drug sales ($328 billion, based on invoice payments in retail transactions) and Altarum’s estimate of $128 billion for non-retail drug sales, while our approach aggregated the revenues retained by each intermediary. Our analysis focuses on the revenue in the pharmaceutical sector, not the funding of it. Although we believe this is an important perspective from which to examine the prescription drug market, we recognize that these are indeed estimates and others will make (and have made) different choices in their approach to quantifying the overall market and its various sectors.
+
+Our analysis also explains why the oft-cited claim that 10 percent of US health care spending is directed toward drugs could be misleading. That number refers to the net receipts of manufacturers of around $325 billion, which is essentially 10 percent of total health care spending based on a CMS estimate of $3.3 trillion in national health expenditures for 2016. But the inclusion of both the non-retail drug markets along with gross profits of the other parties involved in drug distribution, payment, and reimbursement brings pharmaceutical sector spending closer to 15 percent of total health care spending.
+
+Our intent is not to infer or draw conclusions on where there are outsize profits or how difficult it would be to reduce spending within the supply chain, nor do we opine on the consequences of reducing that spending. But a recent policy focus on the supply chain suggests that understanding those consequences will be important—particularly in light of recent calls by Food and Drug Administration Commissioner Scott Gottlieb for greater transparency in price negotiations involving PBMs, distributors, drug stores, and payers; appeals by the pharmaceutical industry and government to limit the scope of the 340B program; and deliberations by CMS to begin instituting point-of-sale rebates to reduce the out-of-pocket burden on patients.
+
+Authors’ Note
+
+Dr. Bach reports receiving: grants from Kaiser Permanente, the Laura and John Arnold Foundation, and the National Institutes of Health Core Grant No. P30 CA 008748 during the conduct of the study; personal fees from the American Society for Hospital Pharmacy, Gilead Pharmaceuticals, WebMD, Goldman Sachs, Defined Health, Vizient, Foundation Medicine, Anthem, Excellus Health Plan, Hematology Oncology Pharmacy Association, Novartis Pharmaceuticals, Janssen Pharmaceuticals, Third Rock Ventures, and JMP Securities, outside the submitted work.

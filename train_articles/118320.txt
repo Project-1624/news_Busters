@@ -1,0 +1,60 @@
+Radio Frequency Identification (RFID)
+Description
+
+Radio Frequency Identification (RFID) refers to a wireless system comprised of two components: tags and readers. The reader is a device that has one or more antennas that emit radio waves and receive signals back from the RFID tag. Tags, which use radio waves to communicate their identity and other information to nearby readers, can be passive or active. Passive RFID tags are powered by the reader and do not have a battery. Active RFID tags are powered by batteries.
+
+RFID tags can store a range of information from one serial number to several pages of data. Readers can be mobile so that they can be carried by hand, or they can be mounted on a post or overhead. Reader systems can also be built into the architecture of a cabinet, room, or building.
+
+Uses
+
+RFID systems use radio waves at several different frequencies to transfer data. In health care and hospital settings, RFID technologies include the following applications:
+
+Inventory control
+
+Equipment tracking
+
+Out-of-bed detection and fall detection
+
+Personnel tracking
+
+Ensuring that patients receive the correct medications and medical devices
+
+Preventing the distribution of counterfeit drugs and medical devices
+
+Monitoring patients
+
+Providing data for electronic medical records systems
+
+The FDA is not aware of any adverse events associated with RFID. However, there is concern about the potential hazard of electromagnetic interference (EMI) to electronic medical devices from radio frequency transmitters like RFID. EMI is a degradation of the performance of equipment or systems (such as medical devices) caused by an electromagnetic disturbance.
+
+Information for Health Care Professionals
+
+Because this technology continues to evolve and is more widely used, it is important to keep in mind its potential for interference with pacemakers, implantable cardioverter defibrillators (ICDs), and other electronic medical devices.
+
+Physicians should stay informed about the use of RFID systems. If a patient experiences a problem with a device, ask questions that will help determine if RFID might have been a factor, such as when and where the episode occurred, what the patient was doing at the time, and whether or not the problem resolved once the patient moved away from that environment. If you suspect that RFID was a factor, device interrogation might be helpful in correlating the episode to the exposure. Report any suspected medical device malfunctions to MedWatch, FDA’s voluntary adverse event reporting system.
+
+FDA Actions
+
+The FDA has taken steps to study RFID and its potential effects on medical devices including:
+
+Working with manufacturers of potentially susceptible medical devices to test their products for any adverse effects from RFID and encouraging them to consider RFID interference when developing new devices.
+
+Working with the RFID industry to better understand, where RFID can be found, what power levels and frequencies are being used in different locations, and how to best mitigate potential EMI with pacemakers and ICDs.
+
+Participating in and reviewing the development of RFID standards to better understand RFID’s potential to affect medical devices and to mitigate potential EMI.
+
+Working with the Association for Automatic Identification and Mobility (AIM) to develop a way to test medical devices for their vulnerability to EMI from RFID systems,.
+
+Collaborating with other government agencies, such as the Federal Communications Commission (FCC), the National Institute for Occupational Safety and Health (NIOSH) and the Occupational Safety and Health Administration (OSHA) to better identify places where RFID readers are in use.
+
+Reporting Problems to FDA
+
+Prompt reporting of adverse events can help the FDA identify and better understand the risks associated with RFID. If you suspect a problem, we encourage you to file a voluntary report through MedWatch: The FDA Safety Information and Adverse Event Reporting Program.
+
+Health care personnel employed by facilities that are subject to Reporting Adverse Events (Medical Devices) requirements should follow the reporting procedures established by their facilities.
+
+Manufacturers, distributors, importers, and device user facilities (which include many health care facilities) must notify the FDA immediately by Reporting Adverse Events (Medical Devices).
+
+Resources
+
+FDA Research

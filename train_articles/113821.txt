@@ -1,0 +1,38 @@
+NEOWISE 2018 Data Release
+The Near-Earth Object Wide-field Infrared Survey Explorer at IPAC
+
+
+
+The NEOWISE 2018 Data Release
+
+April 19, 2018
+
+The NEOWISE 2018 Data Release makes available the 3.4 and 4.6 μm (W1 and W2) Single-exposure images and extracted source information that were acquired between December 13, 2016 and December 13, 2017 UTC, the fourth year of survey operations of the Near-Earth Object Wide-field Infrared Survey Explorer Reactivation Mission (NEOWISE; Mainzer et al. 2014, ApJ, 792, 30). The fourth year NEOWISE data products are concatenated with those from the first three years (originally released on March 26, 2015, March 23, 2016 and June 1, 2017) into a single archive so that all data can be queried easily at one time.
+
+NEOWISE scanned the sky nearly eight complete times during the first four years of survey operations, with six months separating survey passes. Twelve or more independent exposures are made on each point on the sky during each survey epoch. Therefore, the NEOWISE archive is a time-domain resource for extracting multiple thermal flux and position measurements of solar system small bodies, as well as background stars and galaxies.
+
+The combined NEOWISE Data Release products from the first four years of survey operations include:
+
+Single-exposure Images - 10,283,815 calibrated 1016x1016 pix @2.75"/pix FITS image sets for the individual 7.7 sec W1 and W2 NEOWISE survey exposures. Each image set consists of two intensity images, noise maps, and bit-masks indicating pixel use status, one each for the W1 and W2 bands.
+
+calibrated 1016x1016 pix @2.75"/pix FITS image sets for the individual 7.7 sec W1 and W2 NEOWISE survey exposures. Each image set consists of two intensity images, noise maps, and bit-masks indicating pixel use status, one each for the W1 and W2 bands.
+
+Single-exposure Source Database - Time-tagged fluxes, positions and measurement information for 76,889,141,513 source detections extracted from the Single-exposure images.
+
+- Time-tagged fluxes, positions and measurement information for source detections extracted from the Single-exposure images.
+
+Moving Object Tracklets - Sets of linked NEOWISE position-time pair measurements of solar system objects that have been confirmed by the IAU Minor Planet Center. NEOWISE acquired over 600,000 confirmed infrared detections of 29,246 different objects during the first four years of the survey (Figure 1).
+
+- Sets of linked NEOWISE position-time pair measurements of solar system objects that have been confirmed by the IAU Minor Planet Center. NEOWISE acquired over confirmed infrared detections of different objects during the first four years of the survey (Figure 1).
+
+Known Solar System Object Possible Association List - Database of asteroids, comets, planets and planetary satellites, known at the time of data processing, that are predicted to be in the field-of-view of individual NEOWISE Single-exposure images. This is not a vetted list of solar system object detections. Refer to the NEOWISE Moving Object Tracklets for confirmed solar system object detections.
+
+Figure 1 - Top-down view of the Solar System showing the position on December 9, 2017 of all Main Belt asteroids (grey circles), Near Earth asteroids (green circles) and comets (yellow squares) detected by NEOWISE during the first four years of the Reactivation survey. The white circles show the objects detected during the final week of year four. The blue circles and points indicate the orbits and locations of Mercury, Venus and Mars. The Earth and its orbit are shown in cyan.
+
+NEOWISE utilizes the Wide-Field Infrared Explorer (WISE; Wright et al. 2010, AJ, 140, 1868) spacecraft that surveyed the entire sky in 2010 with a cryogenically cooled 40 cm telescope and four 1kx1k mid-infrared array detectors operating at 3.4, 4.6, 12 and 22 μm. WISE continued to survey for four months following the exhaustion of its solid hydrogen cryogen in September 2010 using its two short wavelength bands. After completing a survey of the inner main asteroid belt and a second coverage of the sky, WISE was placed into hibernation in February 2011.
+
+The WISE spacecraft was brought out of hibernation in September 2013 and renamed NEOWISE with a mission to detect and characterize asteroids and comets, and to learn more about the population of near-Earth objects that could pose an impact hazard to the Earth. The spacecraft was returned to zenith pointing which enabled the telescope and focal plane to passively cool down to approximately 73 K. Survey operations were resumed on December 13, 2013 UTC with the W1 and W2 detectors operating at sensitivities near those of the original cryogenic survey. The first solar system moving object tracklet candidates were reported to the IAU Minor Planet Center on December 26, and tracklet deliveries continue to be made three times per week. As of April 2018, NEOWISE has made approximately 650,000 infrared measurements of over 30,000 different solar system objects.
+
+The NEOWISE Reactivation Mission is funded by the NASA Planetary Science Division. Planetary science research using NEOWISE data is eligible for proposals to the NASA ROSES Solar System Workings and Planetary Data Archiving, Restoration and Tools Programs. Astrophysics reasearch using NEOWISE data is eligible for proposals to the NASA ROSES Astrophysics Data Analysis Program.
+
+"This publication makes use of data products from the Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE), which is a project of the Jet Propulsion Laboratory/California Institute of Technology. NEOWISE is funded by the National Aeronautics and Space Administration."

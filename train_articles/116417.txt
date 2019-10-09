@@ -1,0 +1,60 @@
+How secure is your iPhone 5S fingerprint?
+Story highlights The idea of handing over fingerprints to Apple via new iPhone 5S has some nervous
+
+The phone will feature a fingerprint sensor in its Home button for added security
+
+Apple: Fingerprint info will be encrypted and stored in your phone, not on our servers
+
+Security expert: "Hackers will be certainly intrigued to see how they might circumvent" system
+
+Given the privacy concerns swirling around much of our digital activity these days, the idea of handing over one's fingerprints to Apple via its new iPhone 5S has some people nervous.
+
+The phone, which goes on sale September 20, will feature a fingerprint sensor in its Home button for added security. Users must "register" their print with the device, after which they can unlock the phone by placing a finger or thumb on the button. The idea is that fingerprints, being unique to each person, augment users' passcodes to offer an additional safeguard against hackers or thieves.
+
+But can we trust Apple or its partners with our fingerprints? And couldn't hackers, those resourceful and relentless probers of digital firewalls, find new ways to trick the phone's sensor?
+
+The answers, experts say, appear to be: 1) Probably, at least for now, and 2) Yes, although that's unlikely.
+
+"There should always be some concern with new technologies or functionality that has such a large base of users," says Joe Schumacher, a consultant for security firm Neohapsis , in an e-mail to CNN. "The fingerprint reader is more of a sales tactic than a strong security enhancement.
+
+"What still needs to be researched is how this digital fingerprint can be used once it is leaked, hacked or opened up to iCloud."
+
+JUST WATCHED iPhone 5S has fingerprint technology Replay More Videos ... MUST WATCH iPhone 5S has fingerprint technology 02:05
+
+JUST WATCHED Apple unveils cheaper iPhone Replay More Videos ... MUST WATCH Apple unveils cheaper iPhone 01:42
+
+JUST WATCHED Will people buy new iPhones? Replay More Videos ... MUST WATCH Will people buy new iPhones? 03:50
+
+Photos: Highlights from Tuesday's Apple event Photos: Highlights from Tuesday's Apple event Highlights from Tuesday's Apple event – Apple CEO Tim Cook kicked off the company's iPhone press event before several hundred reporters and guests Tuesday at the Apple campus in Cupertino, California. Hide Caption 1 of 9 Photos: Highlights from Tuesday's Apple event iOS 7 coming September 18 – Apple Senior Vice President of Software Engineering Craig Federighi speaks about iOS 7, the next version of Apple's mobile operating system. A complete overhaul of the system that runs iPhones and iPads, iOS 7 will be available September 18. Hide Caption 2 of 9 Photos: Highlights from Tuesday's Apple event iOS 7's new look – The new iPhones will come loaded with iOS 7, which will also be available in a wireless update for users of older iPhones. The new system replaces the textures and shiny icons of iOS 6 in favor of a brighter look with more muted colors. Hide Caption 3 of 9 Photos: Highlights from Tuesday's Apple event The $99 iPhone 5C – Apple Senior Vice President of Worldwide Marketing Phil Schiller speaks about the new iPhone 5C -- a cheaper, $99 model that will have a plastic case instead of aluminum. Hide Caption 4 of 9 Photos: Highlights from Tuesday's Apple event The many colors of iPhone 5C – Unlike current iPhones, the new iPhone 5C will come in bright colors such as pink, green and yellow. It also features a 4-inch high-res display and an 8 megapixel camera, plus a snappy A6 processing chip. Hide Caption 5 of 9 Photos: Highlights from Tuesday's Apple event iPhone 5S – The new iPhone 5S, the successor to the current iPhone 5, will come in silver, gray and champagne gold. Prices start at $199 for the 16GB model (with a two-year contract), and go up to $399 for the 64GB. Hide Caption 6 of 9 Photos: Highlights from Tuesday's Apple event Touch ID sensor – Phil Schiller talks about the new fingerprint sensor on the iPhone 5S's Home button. Called Touch ID, the system uses a sapphire crystal and capacitive touch sensor to take a high-resolution image of your fingerprint and match it with prints in its database, offering extra security if your phone falls in the wrong hands. Hide Caption 7 of 9 Photos: Highlights from Tuesday's Apple event ... but no surprises – Everything Apple announced Tuesday had pretty much been expected for weeks by tech analysts. There was no "one more thing": no smartwatch, no TV set, no other new gadget. Fans hoping for a bold leap forward from Apple may have been disappointed. Hide Caption 8 of 9 Photos: Highlights from Tuesday's Apple event ... except maybe Elvis – Rocker Elvis Costello, who played a few songs at the event, examines a new iPhone as Tim Cook looks on. Hide Caption 9 of 9
+
+Prints in the cloud?
+
+"Your iPhone knows who you call. It knows where you are. And in the newest versions, it will know your thumbprint. Given revelations about how the NSA can access Apple devices, should you be worried about it having that biometric data? No. No no no no no no. Come on. No," writes Philip Bump in The Atlantic
+
+"Your fingerprint ... isn't traveling anywhere. Is it possible that the NSA could ask Apple to upload a user's fingerprint from the phone so that it can be transmitted to the agency? Sure. But that likely wouldn't be a request that comes through PRISM; it would probably require a separate warrant. Not impossible, but, given the burden of demonstrating need for a warrant, not as easy as a few keystrokes."
+
+Fingerprint hacks
+
+Then there's the question of hackers replicating fingerprints to break into phones.
+
+"Fingerprints are not private, you leave them lying around everywhere, and if someone has enough incentive -- and the resources available to them -- they may try to defeat any security system that you trust your fingerprint to unlock," writes noted security researcher Graham Cluley on his blog.
+
+"One thing is for sure. With the launch of the iPhone 5S, more people will be using fingerprint sensors as part of their daily security than ever before -- and the hackers will be certainly intrigued to see how they might circumvent it," Cluley adds.
+
+Dino Dai Zovi, co-author of "The iOS Hacker's Handbook," told CNNMoney that if he were trying to hack an iPhone 5S, he would first try to lift prints from elsewhere on the device "and figure out how to replay those to the sensor to log in to the person's phone."
+
+This is not as hard as it might sound. A decade ago, a Japanese cryptographer demonstrated how to fool fingerprint-recognition systems by transferring latent prints to a "finger" made from gelatin, the ingredient found in Jell-O and other sweets. It was informally known as the "Gummi bear hack."
+
+But Apple's new Touch ID technology is presumably more sophisticated than those old systems.
+
+In addition, latent prints may not provide enough of an overlapping match to unlock a phone, says digital-security expert Robert Graham.
+
+"You use a different part of your finger to touch the iPhone sensor than what you use to touch other things," writes Graham on the Errata Security blog . "That means while hackers may be able to lift your thumbprint from you holding other objects, or from other parts of the phone itself, they probably can't get the tip print needed to do bad things on your iPhone.
+
+"This means the fingerprint databases held by the NSA, FBI, and border security are largely useless at unlocking your phone: they don't cover the same parts of your fingers," Graham adds.
+
+But there is another potential vulnerability in the iPhone 5S's fingerprint scans. The Touch ID system also can be used as a secure way to approve purchases from iTunes or the App Store, which makes some security experts uncomfortable.
+
+"If Apple is right that fingerprints never leave the device, that means the new iPhones will be sending some sort of authentication token to Apple servers to verify that the end user has produced a valid print," writes Dan Goodin in Ars Technica , a CNN.com content partner.
+
+"If attackers figure out a way to capture and replay users' valid tokens, it could lead to new ways for criminals to hijack user accounts."

@@ -1,0 +1,42 @@
+Federal hub tool to check data for insurance exchanges, Medicaid
+The federal government is developing a data services hub to help states verify the income, citizenship and other information about individuals when they seek health coverage through health insurance exchanges and for Medicaid and Children’s Health Insurance Programs.
+
+Verification activities are among the state-federal technical and business process interactions that are required to support insurance exchanges, Medicaid and CHIP as an integrated system.
+
+The Federally Managed Data Services Hub “will be a single point of contact or exchange for whenever you need information from, for example, the Social Security Administration (SSA) when you need validation. Send it to the hub, and get your result right back,” said Ben Walker, a specialist from the eligibility and enrollment team, at the Center for Consumer Information and Insurance Oversight (CCIIO) in the Centers for Medicare and Medicaid Services.
+
+The idea is to have a single streamlined application for health coverage, which can be submitted to a Medicaid or CHIP agency or exchange. Consumers don’t have to know which program they are applying for, just that they need help paying for health insurance.
+
+“The systems, processes and agencies know,” he said at the recent State Healthcare IT Connect conference.
+
+The June 28 Supreme Court ruling upheld the health reform law, including health insurance exchanges. It limited the Medicaid expansion, however, by eliminating any penalty to states that do not participate in it. It is still too early to know which states will proceed or balk at extending Medicaid to those who earn up to 133 percent of the federal poverty rate, or about $36,000 for a family of four.
+
+States are supposed to be able to demonstrate the functionality of their state-based exchange or one facilitated by the federal government by October 2013. Medicaid enrollment and eligibility systems and IT must be modernized and ready to interact with the exchange by then also.
+
+The systems need to be able to determine if an applicant is already known to Medicaid or CHIP to avoid duplication. The systems must also be able to conclude that, if the applicant is not eligible for Medicaid, the individual should be evaluated for the insurance exchange plans and for financial assistance to offset some of the cost of insurance, Walker said.
+
+"There needs to be a way to hand that case to the exchange to transfer that account, and when it gets the information, we’re not asking people to repeat steps,” he said, adding that is critical for the streamlined process.
+
+“If you’ve already gone through verification of citizenship, well we use the same standards. We need to make sure that that account transfer service works, both directions,” Walker said.
+
+[Q&A: SCOTUS ruling could spark ACO uptake.]
+
+Instead of states connecting with individual federal agencies to obtain verification, such as the IRS and Homeland Security Department (DHS), a federal data hub will act as a broker to provide those services, said Mark Oh, IT specialist and director of CMS’ Office of Information Services’ Enterprise Architecture and Requirements Division.
+
+The hub will eliminate the need for states to establish different security requirements, service-level agreements and data use agreements to accommodate different agencies.
+
+CMS will design an agreement with the states, which will represent all of the variations of the agencies and requirements needs for the states, such as establishing security and controls. For example, agencies have a variety of schedules for downtime during the night for system maintenance, but states will need availability so individuals can apply from home online.
+
+CMS has already been testing sharing with states like Massachusetts, which has had an exchange for several years, and Maryland, which has advanced planning and implementation of its health insurance exchange, he said.
+
+The agency will also publish the business services description, which contains data and interaction models and the specifications needed to make the connection. “We’re laying out where to go to download those updates,” he said.
+
+CMS has taken an iterative approach to development, combined with a monthly sprint cycle, so that an initial version of the data services hub can be ready as soon as possible. For example, during March CMS developed services for SSA and DHS, and they are available for use by the early innovator states. In April, the agency developed income-related services and all the associated documentations with it.
+
+“Since we’re taking an iterative approach, we don’t have a book that contains all the interface specifications. We’re building that book. In March we developed four services and in April we developed four services,” he said.
+
+States can decide what they need and inquire if there is an interface specification for that through CMS’ collaboration platform.” If we have that spec, we can say we developed that in, say May, and point you where to download that information so you can make the connection to our environment, do the testing, and go into your design patterns and development on your own,” he said.
+
+Walker said that CMS is sensitive to the fact that states must do a lot with limited resources now.
+
+“What you’re going to see from us in the next several months is an increased focus on reaching out to the states directly, drilling down on those key integration points and focusing on creating a dialogue on how we can ultimately drive to Oct. 1, 2013 and then beyond,” Walker said.

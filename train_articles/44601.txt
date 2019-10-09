@@ -1,0 +1,28 @@
+Association Between Estimated Cumulative Vaccine Antigen Exposure Through the First 23 Months of Life and Non-Vaccine-Targeted Infections From 24 T...
+Importance:
+
+Some parents are concerned that multiple vaccines in early childhood could weaken their child's immune system. Biological data suggest that increased vaccine antigen exposure could increase the risk for infections not targeted by vaccines.
+
+Objective:
+
+To examine estimated cumulative vaccine antigen exposure through the first 23 months of life in children with and without non-vaccine-targeted infections from 24 through 47 months of age.
+
+Design, Setting, and Participants:
+
+A nested case-control study was conducted in 6 US health care organizations participating in the Vaccine Safety Datalink. Cases were identified by International Classification of Diseases codes for infectious diseases in the emergency department and inpatient medical settings and then validated by medical record review. Cases of non-vaccine-targeted infection were matched to controls by age, sex, health care organization site, and chronic disease status. Participants were children ages 24 through 47 months, born between January 1, 2003, and September 31, 2013, followed up until December 31, 2015.
+
+Exposures:
+
+Cumulative vaccine antigen exposure, estimated by summing the number of antigens in each vaccine dose received from birth through age 23 months.
+
+Main Outcomes and Measures:
+
+Non-vaccine-targeted infections, including upper and lower respiratory infections and gastrointestinal infections, from 24 through 47 months of age, and the association between these infections and estimated cumulative vaccine exposure from birth through 23 months. Conditional logistic regression was used to estimate matched odds ratios representing the odds of non-vaccine-targeted infections for every 30-unit increase in estimated cumulative number of antigens received.
+
+Results:
+
+Among the 944 patients (193 cases and 751 controls), the mean (SD) age was 32.5 (6.3) months, 422 (45%) were female, and 61 (7%) had a complex chronic condition. Through the first 23 months, the estimated mean (SD) cumulative vaccine antigen exposure was 240.6 (48.3) for cases and 242.9 (51.1) for controls. The between-group difference for estimated cumulative antigen exposure was -2.3 (95% CI, -10.1 to 5.4; P = .55). Among children with vs without non-vaccine-targeted infections from 24 through 47 months of age, the matched odds ratio for estimated cumulative antigen exposure through age 23 months was not significant (matched odds ratio, 0.94; 95% CI, 0.84 to 1.07).
+
+Conclusions and Relevance:
+
+Among children from 24 through 47 months of age with emergency department and inpatient visits for infectious diseases not targeted by vaccines, compared with children without such visits, there was no significant difference in estimated cumulative vaccine antigen exposure through the first 23 months of life.

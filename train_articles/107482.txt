@@ -1,0 +1,20 @@
+Do Not Set The Date On Your iPhone To Jan. 1, 1970
+While it might be tempting to take a “wild ride” into the past, do not set the date on your iPhone to Jan. 1, 1970, despite what a hoax image circulating recently says. That is, unless your idea of a wild ride is having a phone you can’t use anymore.
+
+The fake image passes itself off as a screenshot from the Apple website, purporting to share the news of a retro mode on iPhones that can be enabled by setting the device’s date to Jan. 1, 1970.
+
+It reads:
+
+Blast from the past The original Macintosh introduced the world to computers, forever changing the way people experience technology, and allowing people to do things that were never possible before. With this easter egg, warp back in time with a class Macintosh theme to relive the magic on your iPhone. Change the date on your iPhone to January 1, 1970, press and hold the power button to reboot your device, and prepare for a wild ride!
+
+In reality, doing so will render any 64-bit iOS device unusable, including iPhones from 5S on up, as well as the iPad Air, iPad mini 2 and the 2015 sixth generation iPod touch or newer, The Guardian reports. Also? Apple didn’t even exist until 1976, so what are we doing in 1970, anyway?
+
+The only recourse is to bring it to the Apple Store in an attempt to save it… or buy a new device.
+
+It’s not easy set the date back that far, The Guardian notes, as it takes lots of scrolling, saving the time, re-entering the time and date settings to scroll back some more. Which is good, because it makes it less likely that you’ll accidentally do this to yourself.
+
+It’s unclear what exactly causes the issue, but could be related to how iOS stores date and time formats. Jan. 1, 1970 is a value of zero or less than zero, which would make any process that uses a time stamp to fail.
+
+Still curious and want to try it yourself? Don’t: Reddit users say some folks have bricked their devices trying to disprove reports of the bug.
+
+Setting the date to 1 January 1970 will brick your iPhone, iPad or iPod touch [The Guardian]

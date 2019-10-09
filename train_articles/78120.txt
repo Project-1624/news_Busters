@@ -1,0 +1,78 @@
+Research, Economic Research, Labor Force, Labor Force Participation Rate, Employment, Recession
+Will Labor Force Participation Bounce Back?
+
+The most recent U.S. recession and recovery have been accompanied by a sharp decline in the labor force participation rate. The largest declines have occurred in states with the largest job losses. This suggests that some of the recent drop in the national labor force participation rate could be cyclical. Past recoveries show evidence of a similar cyclical relationship between changes in employment and participation, which could portend a moderation or reversal of the participation decline as the current recovery continues.
+
+Since the beginning of the recession in 2007, the U.S. labor force participation rate has dropped sharply. Some of this decline reflects long-term demographic trends and other factors that helped push down the participation rate before 2007. But the recent withdrawal of prime-age workers from the labor market is unprecedented and may reflect a cyclical component that could reverse as the labor market recovery solidifies. The return of these workers to the labor force would partially offset the longer-term demographic influences and potentially cause the participation rate to bounce back (Daly et al. 2012, Van Zandweghe 2012). Moreover, the increase in the number of active jobseekers in the labor force associated with higher participation could slow the decline in the unemployment rate.
+
+Assessing the contribution of cyclical factors and the likelihood of a reversal or slower decline in labor force participation is difficult based on aggregate labor market data alone. Such data cannot perfectly distinguish between long-term trends and shorter-term cyclical factors, particularly given the severity of the labor market dislocation during the past recession. To assess the role of cyclical factors in the current recovery, we examine state-level variation in the relationship between changes in the labor force participation rate and changes in employment over several business cycles.
+
+Aggregate labor force participation rate trends
+
+The labor force participation rate is defined as the percentage of the civilian noninstitutional population 16 and over working or looking for work. It is largely determined by demography, most notably the share of the adult population of prime working age, typically 25 to 54. Younger people often are in school and older people often are retired, reducing their respective participation rates. The rate is also determined by long-term socioeconomic trends, such as wider entry of women into the labor force starting in the 1960s; changes in income and wealth; and the availability and generosity of government benefit programs (Daly and Regev 2007; Daly, Hobijn, and Kwok 2009).
+
+In addition, the labor force participation rate may reflect short-term cyclical influences. Research suggests a weakly pro-cyclical relationship between the aggregate participation rate and broad economic conditions. Participation tends to rise a bit during expansions when jobs are plentiful and edge down in recessions when jobs are scarce (Van Zandweghe 2012).
+
+Figure 1
+
+Labor force participation rate Sources: BLS/Haver Analytics.
+
+Note: Gray bars show NBER recession dates.
+
+Figure 1 shows the aggregate U.S. labor force participation rate since 1948. An upward trend during most of the post–World War II period appears to have reversed around 2000 when a downward trend emerged. That trend intensified during the 2007–09 recession. Researchers have identified a number of factors that may account for the shift. They include the baby boom cohort moving past their prime working-age years; the stabilization of women’s labor force participation rates; more younger working-age people enrolling in school; and increased use of some social benefit programs, notably disability insurance (Daly and Regev 2007; Daly et al. 2009; Aaronson, Davis, and Hu 2012).
+
+Because the downward trend in participation started around 2000, it is difficult to identify the portion of the decline since 2007 that is cyclical and likely to be reversed as the labor market recovery continues. Researchers have used several approaches to tease out the cyclical component. These include comparisons across demographic groups; across different categories of unemployed workers and people out of the labor force who want work; and of actual outcomes versus hypothetical outcomes based on adjusting demographic information (Aaronson et al. 2012; Daly et al. 2012; Van Zandweghe 2012; Hotchkiss and Rios-Avila 2013). These studies have found a potentially large cyclical component in the recent participation decline.
+
+State-level evidence
+
+We assess cyclical fluctuations in the national labor force participation rate by examining differences in cyclical labor market conditions and labor force participation rates across states (see also Erceg and Levin 2013). Any correlations between changes in labor market conditions and participation rates at the state level are likely to be mirrored at the national level as well. This assumption is not directly testable, but the approach is potentially useful as an alternative to other methods.
+
+We use state-level payroll employment growth to measure cross-state differences in labor market conditions. Payroll growth is preferable to state unemployment rates because it is measured separately from the state’s labor force participation rate. Since the unemployment rate varies with the participation rate, cross-state analysis of the relationship between unemployment and participation could be contaminated. The payroll data are from the U.S. Bureau of Labor Statistics (BLS) monthly survey of employers, while participation rates are from the BLS monthly household survey.
+
+Our analysis is based on state-level changes in payroll employment and labor force participation during the downturn and recovery periods of the recessions of 1981–82, 1990–91, 2001, and 2007–09. We define a downturn as the period between the peak and trough in national payroll employment. These periods are similar to official recession dates identified by the National Bureau of Economic Research (NBER), but they can differ. For example, we identify the most recent downturn as occurring from January 2008 to February 2010, while NBER dates the overall recession from December 2007 to June 2009. The recovery is defined as dating from the end of the national recession. The data for the 1990–91 and 2007–09 recession and recovery periods were adjusted to minimize the effects of population estimate revisions and the 2010 surge in hiring of census workers. All calculations are weighted by the relative size of each state’s labor force. This places greater weight on more populous states, capturing the greater precision of their employment and labor force estimates, and more accurately measuring the estimated relationship between payroll growth and participation. When we weight all states equally, correlations are weaker.
+
+Figure 2
+
+State employment, participation rates during recession Changes from January 2008 to February 2010 Sources: BLS/Haver Analytics and authors’ calculations.
+
+Note: Line weighted by state’s fraction of total labor force over period.
+
+Table 1
+
+Correlation between changes in employment and participation rates
+
+Figure 2 displays the relationship between the percentage changes in state-level labor force participation rates and payroll employment in the most recent downturn. The figure shows wide cross-state variation in the extent of job loss and changes in participation. The upward-sloping blue line shows that changes in employment and participation are positively related across states. Larger declines in employment are associated with larger declines in labor force participation rates. This systematic relationship at the state level between the severity of employment losses and the decline in participation suggests that the drop in the national participation rate may also have an important cyclical component. Our results reinforce the findings of other researchers who have found evidence of cyclicality in the labor force participation rate.
+
+Table 1 shows the results of an analysis of the correlation between changes in payroll employment and labor force participation in the past four recessions and recoveries. The degrees of correlation measured by this statistical analysis broadly confirm the results illustrated by the upward sloping line in Figure 2. The positive relationship in the most recent downturn shown in Figure 2 is generally, but not invariably, evident in past downturns and recoveries. The main exception is the 2001 recession. Our analysis finds little or no systematic cross-state relationship between changes in employment and participation in that episode. The 2001 recession may have been different from the other recessions in that it was brief and mild, and its impact was concentrated in a few sectors and states.
+
+Although the 2007–09 downturn exhibits a strong positive relationship between state-level changes in employment and participation, the recovery so far does not. This calls into question our interpretation that much of the recent participation decline is cyclical and likely to reverse. However, the current weak correlation between changes in employment and labor force participation could reflect employment’s relatively modest recovery to date. The economy has been expanding for a sustained period. But, as of March 2013, we have recovered only 67% of total jobs lost during the downturn. Thirty-seven months after the employment trough in past recoveries, employment greatly exceeded the pre-recession peak.
+
+To put the current and past recoveries on more equal footing, we calculated correlations between changes in payroll employment and participation rates for the past four recoveries over the periods it took for 67% of jobs to be regained. The last column in Table 1, labeled partial recovery, shows the results. For the 1981–82 and 1990–91 recessions, the partial recovery correlations are much smaller than those for the full recovery and are not statistically significant. Thus, we may not be deep enough into the current recovery for the typical positive relationship between participation and employment growth to emerge.
+
+In the recoveries from the 1981–82 and 1990–91 recessions, the positive relationship did not emerge until the economy had passed the previous employment peak by a substantial margin. These results are not definitive, but they reinforce other research that finds labor force participation at the state and national levels may bounce back or decline less rapidly as the current recovery gains strength. If exceeding the pre-recession employment peak is a prerequisite for the correlation to become significant, it may take several years before the relationship is evident.
+
+Conclusion
+
+The U.S. labor force participation rate has declined sharply since 2007, intensifying a downward trend that has been evident since about 2000. Distinguishing between long-term influences on the participation rate, such as demographics, and short-term cyclical effects is important because it helps us understand and predict the future path of macroeconomic variables such as the unemployment rate. Using state-level evidence on the relationship between changes in employment and labor force participation across recessions and recoveries, we find evidence, reinforcing other research, that the recent decline in participation likely has a substantial cyclical component. States that saw larger declines in employment generally saw larger declines in participation. A similar positive relationship was evident in past recessions and recoveries. In the current recovery, it will probably take a few years before cyclical components put significant upward pressure on the participation rate because payroll employment is still well below its pre-recession peak.
+
+Leila Bengali is a research associate in the Economic Research Department of the Federal Reserve Bank of San Francisco.
+
+Mary Daly is a group vice president and associate director of research in the Economic Research Department of the Federal Reserve Bank of San Francisco.
+
+Rob Valletta is a research advisor in the Economic Research Department of the Federal Reserve Bank of San Francisco.
+
+References
+
+Aaronson, Daniel, Jonathan Davis, and Luojia Hu. 2012. “Explaining the Decline in the U.S. Labor Force Participation Rate.” FRB Chicago, Chicago Fed Letter 296 (March).
+
+Daly, Mary, Early Elias, Bart Hobijn, and Òscar Jordà. 2012. “Will the Jobless Rate Drop Take a Break?” FRBSF Economic Letter 2012-37 (December 17).
+
+Daly, Mary, and Tali Regev. 2007. “Labor Force Participation and the Prospects for U.S. Growth.” FRBSF Economic Letter 2007-33 (November 2).
+
+Daly, Mary, Bart Hobijn, and Joyce Kwok. 2009. “Labor Supply Responses to Changes in Wealth and Credit.” FRBSF Economic Letter 2009-05 (January 30).
+
+Erceg, Christopher J., and Andrew T. Levin. 2013. “Labor Force Participation and Monetary Policy in the Wake of the Great Recession.” Manuscript, International Monetary Fund, April 9.
+
+Hotchkiss, Julie, and Fernando Rios-Avila. 2013. “Identifying Factors behind the Decline in the U.S. Labor Force Participation Rate.” Business and Economic Research 3(1, March), Macrothink Institute, pp. 257–275.
+
+Van Zandweghe, Willem. 2012. “Interpreting the Recent Decline in Labor Force Participation.” FRB Kansas City Economic Review, first quarter.

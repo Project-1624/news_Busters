@@ -1,0 +1,46 @@
+R&D Costs For Pharmaceutical Companies Do Not Explain Elevated US Drug Prices
+Nancy Yu, Zachary Helms, and Peter Bach
+
+March 7, 2017
+
+That pharmaceutical companies charge much more for their drugs in the United States than they do in other Western countries has contributed to public and political distrust of their pricing practices. When these higher US prices (which are sometimes cited as being two to five times the prices in Europe) are challenged, the pharmaceutical industry often explains that the higher prices they charge in the US provide them with the funds they need to conduct their high-risk research.
+
+This claim—that premiums earned from charging US patients and taxpayers more for medications than other Western countries funds companies’ research—is empirically testable. Pharmaceutical companies report their Research and Development (R&D) expenses in public filings, and both they and numerous other sources report a mix of information on their drugs’ prices and sales volumes in the US and other Western countries. These data allowed us to quantify both the premium companies earn and the amount they spend on research. We then assessed the relation between the two.
+
+Top-Selling Drugs
+
+We focused our analysis on the 15 drug companies that manufactured the 20 top-selling drugs globally for 2015. For each company individually and all companies collectively, we estimated how much excess revenue they generated as a result of the higher prices they charged for their products in the US compared to some referent European countries and Canada. For each of the manufacturers, we first derived a company level average by examining the US price premium for each drug in that company’s portfolio that contributed 5 percent or more to US product sales, thus all of the top 20 drugs we had used to identify the companies in our sample were included in the calculation of each company’s average. Once we calculated the average premium compared to the prices of those same products in the referent countries, we applied this premium percentage across each company’s US pharmaceutical revenue base. This gave a proxy for the amount of total US revenue that resulted from US premium pricing. We then compared the amount of “excess revenue” to each company’s worldwide spending on R&D.
+
+US prices came from July 2016 average sales price (ASP) files for physician administered drugs and the September wholesale acquisition costs (published in Truven Health’s Redbook) for retail drugs, the latter of which was reduced by each company’s reported average gross-to-net adjustment. This reduction incorporates in a pooled manner discounts and rebates the company provides to payers, Medicaid, 340B hospitals, and the Veterans Administration as well as other channel intermediaries.
+
+Non-US prices came from four countries with reliable and publicly available pricing: Canada, Denmark, Ireland, and the United Kingdom (UK). The British National Formulary was the primary source for UK drugs; the MIMS database for those that were not included. Canadian prices were pulled from both Quebec and Ontario, and we selected the higher in each case. Irish prices are published in the Irish Medicines Formulary, Danish prices from the Danish Medicine Agency’s Medicinepriser. Rebates and discounts are also offered by drug companies in these other countries, but their magnitude is not published. Therefore, we used the drugs’ list prices in these other countries, a conservative assumption that serves to lessen our estimate of the premium companies earn through charging higher prices to US patients (we did incorporate the estimate of rebates companies offer in US markets).
+
+An Outsized Premium
+
+List prices in other developed countries average 41 percent of US net drug prices (Table 1) for the 15 companies that sell the 20 top-selling drugs in the US, with a range from 38 percent in the UK to 52 percent in Denmark. Overall in 2015 the premium earned by US net prices exceeding other countries’ list prices generated $116 billion, while that year the companies spent just 66 percent of that amount, or $76 billion, on their global R&D. This relation between the level of global R&D spending and the excess revenues earned through premium pricing varied among the companies (Figure 1), but averaged 163 percent. The premium earned by Bristol-Myers equaled around 76 percent of its global R&D budget in 2015; it essentially matched global R&D spending for Novartis and Astra-Zeneca. By contrast, Amgen, Biogen, Pfizer, and Teva generated more than double their global R&D budgets, and three companies covered or nearly covered their research spending through premium pricing of just their top-selling product: AbbVie with Humira, Biogen with Tecfidera, and Teva with Copaxone.
+
+The magnitude by which the revenues earned through premium pricing exceeded global R&D spending appeared larger for US-based pharmaceutical companies than those based outside the US. However, the average ratio for companies domiciled both within and outside the US exceeded 1.0, as domestic companies generated 176 percent of their global R&D spending from US premium pricing; foreign companies generated 143 percent. This gap is mostly due to the fact that non-US companies generally earn a smaller fraction of their revenues in the US than US-domiciled companies. The average differential between US and non-US prices was the same irrespective of domicile.
+
+Figure 1: Excess revenues earned through premium pricing of products in the US as a percentage of the company’s global Research and Development Expenditures, 2015
+
+Comment
+
+We found that the premiums pharmaceutical companies earn from charging substantially higher prices for their medications in the US compared to other Western countries generates substantially more than the companies spend globally on their research and development. This finding counters the claim that the higher prices paid by US patients and taxpayers are necessary to fund research and development. Rather, there are billions of dollars left over even after worldwide research budgets are covered. To put the excess revenue in perspective, lowering the magnitude of the US premium to a level where it matches global R&D expenditures across the 15 companies we assessed would have saved US patients, businesses, and taxpayers approximately $40 billion in 2015, a year for which the Centers for Medicare and Medicaid Services (CMS) reported that total US spending on pharmaceuticals was $325 billion.
+
+Although we can conclude that premium pricing exceeds what is needed to fund global R&D, our analysis does not address whether prices in European countries or in the US are appropriate. We do know that all of the European countries included in our analysis use pharmacoeconomic analyses in their price negotiations, while this cannot be said of the US. Importantly, our analysis cannot inform the question whether or not it is appropriate for US patients, taxpayers, and businesses to bear the burden of funding pharmaceutical research for the world.
+
+Table 1: Revenues earned from US premium pricing and global spending on Research and Development of the 15 Pharmaceutical companies responsible for the world’s 20 top-selling products in 2015
+
+Company Int'l price/ US price US premium price % US Sales (2015, $mm) Revenue from US Premium ($mm) Revenues from US premium as % of global R&D AbbVie 48%
+
+52%
+
+$13,561
+
+$7,092
+
+166% Amgen 43% 57% $16,523 $9,355 239% AstraZeneca 36% 64% $9,474 $6,078 101% Biogen 25% 75% $6,546 $4,934 245% Bristol-Myers Squibb 45% 55% $8,188 $4,516 76% Celgene 45% 55% $5,525 $3,020 148% Roche (Pharma Div) 45% 55% $1,7782 $9,759 119% Gilead 75% 25% $21,200 $5,200 173% GlaxoSmithKline (ex consumer) 48% 52% $10,188 $5,300 114% JNJ (just pharma division) 39% 61% $18,300 $11,127 163% Merck 39% 61% $17,519 $10,649 159% Novartis 52% 48% $18,079 $8,678 97% Pfizer (ex Consumer) 21% 79% $19,906 $15,735 219% Sanofi 28% 72% $12,625 $9,123 163% Teva (specialty meds) 22% 78% $6,442 $5,018 263% AVERAGE 41% 163%
+
+Author’s Note
+
+Dr. Bach reports personal fees from Association of Community Cancer Centers, personal fees from America’s Health Insurance Plans, personal fees from AIM Specialty Health, personal fees from AMERICAN COLLEGE OF CHEST PHYSICIANS, personal fees from American Society of Clinical Oncology, personal fees from BARCLAYS, personal fees from Defined Health, personal fees from EXPRESS SCRIPTS, personal fees from GENENTECH, personal fees from GOLDMAN SACHS, personal fees from McKinsey and Company, personal fees from MPM Capital, personal fees from National Comprehensive Cancer Network , personal fees from Biotechnology Industry Organization, personal fees from The American Journal of Managed Care., personal fees from The Boston Consulting Group, personal fees from Foundation Medicine, personal fees from Anthem Inc., personal fees from Novartis, personal fees from Excellus Health Plan, grants from NIH Core Grant P30 CA 008748 , grants from Kaiser Foundation Health Plan, grants from Laura and John Arnold Foundation, outside the submitted work.

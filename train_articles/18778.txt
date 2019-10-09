@@ -1,0 +1,22 @@
+University of Michigan: Consumer Sentiment
+NOTES
+
+Source: University of Michigan
+
+Release: Surveys of Consumers
+
+Units: Index 1966:Q1=100, Not Seasonally Adjusted
+
+Frequency: Monthly
+
+Notes:
+
+At the request of the source, the data is delayed by 1 month. To obtain historical data prior to January 1978, please see FRED data series UMCSENT1.
+
+
+
+This data should be cited as follows: "Surveys of Consumers, University of Michigan, University of Michigan: Consumer Sentiment© [UMCSENT], retrieved from FRED, Federal Reserve Bank of St. Louis https://fred.stlouisfed.org/series/UMCSENT/, (Accessed on date)"
+
+
+
+Copyright, 2016, Surveys of Consumers, University of Michigan. Reprinted with permission.

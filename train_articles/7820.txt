@@ -1,0 +1,172 @@
+Pre-existing Conditions and Medical Underwriting in the Individual Insurance Market Prior to the ACA
+Before private insurance market rules in the Affordable Care Act (ACA) took effect in 2014, health insurance sold in the individual market in most states was medically underwritten. That means insurers evaluated the health status, health history, and other risk factors of applicants to determine whether and under what terms to issue coverage. To what extent people with pre-existing health conditions are protected is likely to be a central issue in the debate over repealing and replacing the ACA.
+
+This brief reviews medical underwriting practices by private insurers in the individual health insurance market prior to 2014, and estimates how many American adults could face difficulty obtaining private individual market insurance if the ACA were repealed or amended and such practices resumed. We examine data from two large government surveys: The National Health Interview Survey (NHIS) and the Behavioral Risk Factor Surveillance System (BRFSS), both of which can be used to estimate rates of various health conditions (NHIS at the national level and BRFSS at the state level). We consulted field underwriting manuals used in the individual market prior to passage of the ACA as a reference for commonly declinable conditions.
+
+Estimates of the Share of Adults with Pre-Existing Conditions
+
+We estimate that 27% of adult Americans under the age of 65 have health conditions that would likely leave them uninsurable if they applied for individual market coverage under pre-ACA underwriting practices that existed in nearly all states. While a large share of this group has coverage through an employer or public coverage where they do not face medical underwriting, these estimates quantify how many people could be ineligible for individual market insurance under pre-ACA practices if they were to ever lose this coverage. This is a conservative estimate as these surveys do not include sufficient detail on several conditions that would have been declinable before the ACA (such as HIV/AIDS, or hepatitis C). Additionally, millions more have other conditions that could be either declinable by some insurers based on their pre-ACA underwriting guidelines or grounds for higher premiums, exclusions, or limitations under pre-ACA underwriting practices. In a separate Kaiser Family Foundation poll, most people (53%) report that they or someone in their household has a pre-existing condition.
+
+A larger share of nonelderly women (30%) than men (24%) have declinable preexisting conditions. We estimate that 22.8 million nonelderly men have a preexisting condition that would have left them uninsurable in the individual market pre-ACA, compared to 29.4 million women. Pregnancy explains part, but not all of the difference.
+
+The rates of declinable pre-existing conditions vary from state to state. On the low end, in Colorado and Minnesota, at least 22% of non-elderly adults have conditions that would likely be declinable if they were to seek coverage in the individual market under pre-ACA underwriting practices. Rates are higher in other states – particularly in the South – such as Tennessee (32%), Arkansas (32%), Alabama (33%), Kentucky (33%), Mississippi (34%), and West Virginia (36%), where at least a third of the non-elderly population would have declinable conditions.
+
+Table 1: Estimated Number and Percent of Non-Elderly People with Declinable Pre-existing Conditions Under Pre-ACA Practices, 2015 State Percent of Non-Elderly Population Number of Non-Elderly Adults Alabama 33% 942,000 Alaska 23% 107,000 Arizona 26% 1,043,000 Arkansas 32% 556,000 California 24% 5,865,000 Colorado 22% 753,000 Connecticut 24% 522,000 Delaware 29% 163,000 District of Columbia 23% 106,000 Florida 26% 3,116,000 Georgia 29% 1,791,000 Hawaii 24% 209,000 Idaho 25% 238,000 Illinois 26% 2,038,000 Indiana 30% 1,175,000 Iowa 24% 448,000 Kansas 30% 504,000 Kentucky 33% 881,000 Louisiana 30% 849,000 Maine 29% 229,000 Maryland 26% 975,000 Massachusetts 24% 999,000 Michigan 28% 1,687,000 Minnesota 22% 744,000 Mississippi 34% 595,000 Missouri 30% 1,090,000 Montana 25% 152,000 Nebraska 25% 275,000 Nevada 25% 439,000 New Hampshire 24% 201,000 New Jersey 23% 1,234,000 New Mexico 27% 332,000 New York 25% 3,031,000 North Carolina 27% 1,658,000 North Dakota 24% 111,000 Ohio 28% 1,919,000 Oklahoma 31% 706,000 Oregon 27% 654,000 Pennsylvania 27% 2,045,000 Rhode Island 25% 164,000 South Carolina 28% 822,000 South Dakota 25% 126,000 Tennessee 32% 1,265,000 Texas 27% 4,536,000 Utah 23% 391,000 Vermont 25% 96,000 Virginia 26% 1,344,000 Washington 25% 1,095,000 West Virginia 36% 392,000 Wisconsin 25% 852,000 Wyoming 27% 94,000 US 27% 52,240,000 SOURCE: Kaiser Family Foundation analysis of data from National Health Interview Survey and the Behavioral Risk Factor Surveillance System.
+
+NOTE: Five states (MA, ME, NJ, NY, VT) had broadly applicable guaranteed access to insurance before the ACA. What protections might exist in these or other states under a repeal and replace scenario is unclear.
+
+At any given time, the vast majority of these approximately 52 million people with declinable pre-existing conditions have coverage through an employer or through public programs like Medicaid. The individual market is where people seek health insurance during times in their lives when they lack eligibility for job-based coverage or for public programs such as Medicare and Medicaid. In 2015, about 8% of the non-elderly population had individual market insurance. Over a several-year period, however, a much larger share may seek individual market coverage. This market is characterized by churn, as new enrollees join and others leave (often for other forms of coverage). For many people, the need for individual market coverage is intermittent, for example, following a 26th birthday, job loss, or divorce that ends eligibility for group plan coverage, until they again become eligible for group or public coverage. For others – the self-employed, early retirees, and lower-wage workers in jobs that typically don’t come with health benefits – the need for individual market coverage is ongoing. (Figure 1 shows the distribution of employment status among current individual market enrollees.)
+
+Prior to the ACA’s coverage expansions, we estimated that 18% of individual market applications were denied. This is an underestimate of the impact of medical underwriting because many people with health conditions did not apply because they knew or were informed by an agent that they would not be accepted. Denial rates ranged from 0% in a handful of states with guaranteed issue to 33% in Kentucky, North Carolina, and Ohio. According to 2008 data from America’s Health Insurance Plans, denial rates ranged from about 5% for children to 29% for adults age 60-64 (again, not accounting for those who did not apply).
+
+Medical Underwriting in the Individual Market Pre-ACA
+
+Prior to 2014 medical underwriting was permitted in the individual insurance market in 45 states and DC. Applications for individual market policies typically included lengthy questionnaires about the health and risk status of the applicant and all family members to be covered. Typically, applicants were asked to disclose whether they were pregnant or contemplating pregnancy or adoption, and information about all physician visits, prescription medications, lab results, and other medical care received in the past year. In addition, applications asked about personal history of a series of health conditions, ranging from HIV, cancer, and heart disease to hemorrhoids, ear infections and tonsillitis. Finally, all applications included authorization for the insurer to obtain and review all medical records, pharmacy database information, and related information.
+
+Once the completed application was submitted, the medical underwriting process varied somewhat across insurers, but usually involved identification of declinable medical conditions and evaluation of other conditions or risk factors that warranted other adverse underwriting actions. Once enrolled, a person’s health and risk status was sometimes reconsidered in a process called post-claims underwriting. Although our analysis focuses on declinable medication conditions, each of these other actions is described in more detail below.
+
+Declinable Medical Conditions
+
+Before the ACA, individual market insurers in all but five states maintained lists of so-called declinable medical conditions. People with a current or past diagnosis of one or more listed conditions were automatically denied. Insurer lists varied somewhat from company to company, though with substantial overlap. Some of the commonly listed conditions are shown in Table 2.
+
+Table 2: Examples of Declinable Conditions In the Medically Underwritten Individual Market, Before the Affordable Care Act Condition Condition AIDS/HIV Lupus Alcohol abuse/ Drug abuse with recent treatment Mental disorders (severe, e.g. bipolar, eating disorder) Alzheimer’s/dementia Multiple sclerosis Arthritis (rheumatoid), fibromyalgia, other inflammatory joint disease Muscular dystrophy Cancer within some period of time (e.g. 10 years, often other than basal skin cancer) Obesity, severe Cerebral palsy Organ transplant Congestive heart failure Paraplegia Coronary artery/heart disease, bypass surgery Paralysis Crohn’s disease/ ulcerative colitis Parkinson’s disease Chronic obstructive pulmonary disease (COPD)/emphysema Pending surgery or hospitalization Diabetes mellitus Pneumocystic pneumonia Epilepsy Pregnancy or expectant parent Hemophilia Sleep apnea Hepatitis (Hep C) Stroke Kidney disease, renal failure Transsexualism SOURCE: Kaiser Family Foundation review of field underwriting guidelines from Aetna (GA, PA, and TX), Anthem BCBS (IN, KY, and OH), Assurant, CIGNA, Coventry, Dean Health, Golden Rule, Health Care Services Corporation (BCBS in IL, TX) HealthNet, Humana, United HealthCare, Wisconsin Physician Service. Conditions in this table appeared on declinable conditions list in half or more of guides reviewed. NOTE: Many additional, less-common disorders also appearing on most of the declinable conditions lists were omitted from this table.
+
+Our analysis of rates of pre-existing conditions in this brief focuses on those conditions that would likely be declinable, based on our review of pre-ACA underwriting documents. Our analysis is limited – and our results are conservative – because NHIS and BRFSS questionnaires do not address some of the conditions that were declinable, and in some cases the questions that do relate to declinable conditions were too broad for inclusion. See the methodology section for a list of conditions included in the analysis.
+
+In addition to declinable conditions, many insurers also maintained a list of declinable medications. Current use of any of these medications by an applicant would warrant denial of coverage. Table 3 provides an example of medications that were declinable in one insurer prior to the ACA. Our analysis does not attempt to account for use of declinable medications.
+
+Table 3: Declinable Medications Anti-Arthritic Medications Adalimumab/Humira
+
+Cyclosporine/Sandimmune
+
+Methotrexate/Trexall
+
+Ustekinumab/Stelara
+
+others Anti-Diabetic Medications Avandia/Rosiglitazone
+
+Glucagon
+
+Humalog/Insulin products
+
+Metformin HCL
+
+others Medications for HIV/AIDS or Hepatitis Abacavir/Ziagen
+
+Efavirenz/Atripla
+
+Interferon
+
+Lamivudine/Epivir
+
+Ribavirin
+
+Zidovudine/Retrovir
+
+others Anti-Cancer Medications Anastrozole/Arimidex
+
+Nolvadex/Tamoxifen
+
+Femara
+
+others Anti-Psychotics, Autism, Other Central Nervous System Medications Abilify/Ariprazole
+
+Aricept/Donepezil
+
+Clozapine/Clozaril
+
+Haldol/Haldoperidol
+
+Lithium
+
+Requip/Ropinerole
+
+Risperdal/Risperidone
+
+Zyprexa
+
+others Anti-Coagulant/Anti-Thrombotic Medications Clopidogrel/Plavix
+
+Coumadin/Warfarin
+
+Heparin
+
+others Miscellaneous Medications Anginine (angina)
+
+Clomid (fertility)
+
+Epoetin/Epogen (anemia)
+
+Genotropin (growth hormone)
+
+Remicade (arthritis, ulcerative colitis)
+
+Xyrem (narcolepsy)
+
+others SOURCE: Blue Cross Blue Shield of Illinois, Product Guide for Agents
+
+Some individual market insurers also developed lists of ineligible occupations. These were jobs considered sufficiently high risk that people so employed would be automatically denied. In addition, some would automatically deny applicants who engaged in certain leisure activities and sports. Table 4 provides an example of declinable occupations from one insurer prior to the ACA. Our analysis does not attempt to account for declinable occupations.
+
+Table 4: Ineligible Occupations, Activities Active military personnel Iron workers Professional athletes Air traffic controller Law enforcement/detectives Sawmill operators Aviation and air transportation Loggers Scuba divers Blasters or explosive handlers Meat packers/processors Security guards Bodyguards Mining Steel metal workers Crop dusters Nuclear industry workers Steeplejacks Firefighters/EMTs Offshore drillers/workers Strong man competitors Hang gliding Oil and gas exploration and drilling Taxi cab drivers Hazardous material handlers Pilots Window washers SOURCE: Preferred One Insurance Company Individual and Family Insurance Application Form
+
+Other Adverse Underwriting Actions
+
+Beyond the declinable conditions, medications and occupations, underwriters also examined individual applications and medical records for other conditions that could generate significant “losses” (claims expenses.) Among such conditions were acne, allergies, anxiety, asthma, basal cell skin cancer, depression, ear infections, fractures, high cholesterol, hypertension, incontinence, joint injuries, kidney stones, menstrual irregularities, migraine headaches, overweight, restless leg syndrome, tonsillitis, urinary tract infections, varicose veins, and vertigo. One or more adverse medical underwriting actions could result for applicants with such conditions, including:
+
+Rate-up – The applicant might be offered a policy with a surcharged premium (e.g. 150 percent of the standard rate premium that would be offered to someone in perfect health)
+
+– The applicant might be offered a policy with a surcharged premium (e.g. 150 percent of the standard rate premium that would be offered to someone in perfect health) Exclusion rider – Coverage for treatment of the specified condition might be excluded under the policy; alternatively, the body part or system affected by the specified condition could be excluded under the policy. Exclusion riders might be temporary (for a period of years) or permanent
+
+– Coverage for treatment of the specified condition might be excluded under the policy; alternatively, the body part or system affected by the specified condition could be excluded under the policy. Exclusion riders might be temporary (for a period of years) or permanent Increased deductible – The applicant might be offered a policy with a higher deductible than the one originally sought; the higher deductible might apply to all covered benefits or a condition-specific deductible might be applied
+
+– The applicant might be offered a policy with a higher deductible than the one originally sought; the higher deductible might apply to all covered benefits or a condition-specific deductible might be applied Modified benefits – The applicant might be offered a policy with certain benefits limited or excluded, for example, a policy that does not include prescription drug coverage.
+
+In some cases, individuals with these conditions might also be declined depending on their health history and the insurer’s general underwriting approach. For example, field underwriting guides indicated different underwriting approaches for an applicant whose child had chronic ear infections:
+
+One large, national insurer would issue standard coverage if the child had fewer than five infections in the past year or ear tubes, but apply a 50% rate up if there had been more than 4 infections in the prior year;
+
+Another insurer, which used a 12-tier rate system, would issue coverage at the second most favorable rate tier if the child had just one infection in the prior year or ear tubes, at the fifth rate tier if there had been 2-3 infections during the prior year, and at the seventh tier if there had been 4 or more infections; for some conditions, this company’s rating might depend on the plan deductible – applicants with history of ear infections would be offered the second rating tier for policies with a deductible of $5,000 or higher;
+
+Another insurer would issue standard coverage if the child had just one infection in the prior year or if ear tubes had been inserted more than one-year prior, apply a rate up if there were two infections in the prior year, and decline the application if there were three or more infections;
+
+Another insurer would issue standard coverage if the child had fewer than 3 infections in the past year, but issue coverage with a condition specific deductible of $5,000 if there had been 3 or more infections or if ear tubes had been inserted.
+
+In a 2000 Kaiser Family Foundation study of medical underwriting practices, insurers were asked to underwrite hypothetical applicants with varying health conditions, from seasonal allergies to situational depression to HIV. Results varied significantly for less serious conditions. For example, the applicant with seasonal allergies who made 60 applications for coverage was offered standard coverage 3 times, declined 5 times, offered policies with exclusion riders or other benefit limits 46 times (including 3 offers that excluded coverage for her upper respiratory system), and policies with premium rate ups (averaging 25%) 6 times.
+
+Pre-existing Condition Exclusion Provisions
+
+In addition to medical screening of applicants before coverage was issued, most individual market policies also included more general pre-existing condition exclusion provisions which limited the policy’s liability for claims (typically within the first year) related to medical conditions that could be determined to exist prior to the coverage taking effect.
+
+Example of pre-existing condition exclusion Jean, an Arizona teacher whose employer provided group health benefits but did not contribute to the cost for family members, gave birth to her daughter, Alex, in 2004 and soon after applied for an individual policy to cover the baby. Due to time involved in the medical underwriting process, the baby was uninsured for about 2 weeks. A few months later, Jean noticed swelling around the baby’s face and eyes. A specialist diagnosed Alex with a rare congenital disorder that prematurely fused the bones of her skull. Surgery was needed immediately to avoid permanent brain damage. When Jean sought prior-authorization for the $90,000 procedure, the insurer said it would not be covered. Under Arizona law, any condition, including congenital conditions, that existed prior to the coverage effective date, could be considered a pre-existing condition under individual market policies. Alex’s policy excluded coverage for pre-existing conditions for one year. Jean appealed to the state insurance regulator who upheld the insurer’s exclusion as consistent with state law. Source: Wall Street Journal, May 31, 2005
+
+The nature of pre-existing condition exclusion clauses varied depending on state law. In 19 states, a health condition could only be considered pre-existing if the individual had actually received treatment or medical advice for the condition during a “lookback” period prior to the coverage effective date (from 6 months to 5 years). In most states, a pre-existing condition could also include one that had not been diagnosed but that produced signs or symptoms that would prompt an “ordinarily prudent person” to seek medical advice, diagnosis or treatment. In 8 states and DC, conditions that existed prior to the coverage effective date – including those that were undiagnosed and asymptomatic – could be considered pre-existing and so excluded from coverage under an individual market policy. For example, a congenital condition in a newborn could be considered pre-existing to the coverage effective date (the baby’s birth date) and excluded from coverage. About half of the states required individual market insurers to reduce pre-existing condition exclusion periods by the number of months of an enrollee’s prior coverage.
+
+Example of policy rescission Jennifer, a Colorado preschool teacher, was seriously injured in 2005 when her car was hit by a drug dealer fleeing the police. She required months of inpatient hospitalization and rehab, and her bills reached $185,000. Jennifer was covered by a non-group policy which she had purchased five months prior to the accident. Shortly after her claims were submitted, the insurer re-reviewed Jennifer’s application and medical history. Following its investigation, the insurer notified Jennifer they found records of medical care she had not disclosed in her application, including medical advice sought for discomfort from a prolapsed uterus and an ER visit for shortness of breath. The insurer rescinded the policy citing Jennifer’s failure to disclose this history. Jennifer sued the insurer for bad faith; four years later a jury ordered the insurer to reinstate the policy and pay $37 million in damages. Source: Westword, February 11, 2010.
+
+Unlike exclusion riders that limited coverage for a specified condition of a specific enrollee, pre-existing condition clauses were general in nature and could affect coverage for any applicable condition of any enrollee. Pre-existing condition exclusions were typically invoked following a process called post-claims underwriting. If a policyholder would submit a claim for an expensive service or condition during the first year of coverage, the individual market insurer would conduct an investigation to determine whether the condition could be classified as pre-existing.
+
+In some cases, post-claims underwriting might also result in coverage being cancelled. The investigations would also examine patient records for evidence that a pre-existing condition was known to the patient and should have been disclosed on the application. In such cases, instead of invoking the pre-existing condition clause, an issuer might act to rescind the policy, arguing it would have not issued coverage in the first place had the pre-existing condition been disclosed.
+
+Discussion
+
+The Affordable Care Act guarantees access to health insurance in the individual market and ends other underwriting practices that left many people with pre-existing conditions uninsured or with limited coverage before the law. As discussions get underway to repeal and replace the ACA, this analysis quantifies the number of adults who would be at risk of being denied if they were to seek coverage in the individual market under pre-ACA rules. What types of protections are preserved for people with pre-existing conditions will be a key element in the debate over repealing and replacing the ACA.
+
+We estimate that at least 52 million non-elderly adult Americans (27% of those under the age of 65) have a health condition that would leave them uninsurable under medical underwriting practices used in the vast majority of state individual markets prior to the ACA. Results vary from state-to-state, with rates ranging around 22 – 23% in some Northern and Western states to 33% or more in some southern states. Our estimates are conservative and do not account for a number of conditions that were often declinable (but for which data are not available), nor do our estimates account for declinable medications, declinable occupations, and conditions that could lead to other adverse underwriting practices (such as higher premiums or exclusions).
+
+While most people with pre-existing conditions have employer or public coverage at any given time, many people seek individual market coverage at some point in their lives, such as when they are between jobs, retired, or self-employed.
+
+There is bipartisan desire to protect people with pre-existing conditions, but the details of replacement plans have yet to be ironed out, and those details will shape how accessible insurance is for people when they have health conditions.
+
+Gary Claxton, Cynthia Cox, Larry Levitt, and Karen Pollitz are with the Kaiser Family Foundation. Anthony Damico is an independent consultant to the Kaiser Family Foundation.
+
+Methods
+
+To calculate nationwide prevalence rates of declinable health conditions, we reviewed the survey responses of nonelderly adults for all question items shown in Methods Table 1 using the CDC’s 2015 National Health Interview Survey (NHIS). Approximately 27% of 18-64 year olds, or 52 million nonelderly adults, reported having at least one of these declinable conditions in response to the 2015 survey. The CDC’s National Center for Health Statistics (NCHS) relies on the medical condition modules of the annual NHIS for many of its core publications on the topic; therefore, we consider this survey to be the most accurate means to estimate both the nationwide rate and weighted population.
+
+Since the NHIS does not include state identifiers nor sufficient sample size for most state-based estimates, we constructed a regression model for the CDC’s 2015 Behavioral Risk Factor Surveillance System (BRFSS) to estimate the prevalence of any of the declinable conditions shown in Methods Table 1 at the state level. This model relied on three highly significant predictors: (a) respondent age; (b) self-reported fair or poor health status; (c) self-report of any of the overlapping variables shown in the left-hand column of Methods Table 1. Across the two data sets, the prevalence rate calculated using the analogous questions (i.e. the left-hand column of Methods Table 1) lined up closely, with 20% of 18-64 year old survey respondents reporting at least one of those declinable conditions in the 2015 NHIS and 21% of 18-64 year olds in the 2015 BRFSS. Applying this prediction model directly to the 2015 BRFSS microdata yielded a nationwide prevalence of any declinable condition of 28%, a near match to the NHIS nationwide estimate of 27%.
+
+Methods Table 1: Declinable Medical Conditions Available in Survey Microdata Declinable Condition Questions Available in both the 2015 National Health Interview Survey and also the 2015 Behavioral Risk Factor Surveillance System Declinable Condition Questions Available in only the 2015 National Health Interview Survey Ever had CHD Melanoma Skin Cancer Ever had Angina Any Other Heart Condition Ever had Heart Attack Crohn’s Disease or Ulcerative Colitis Ever had Stroke Epilepsy Ever had COPD Difficulty Due to Mental Retardation Ever had Emphysema Difficulty Due to Cerebral Palsy Chronic Bronchitis in past 12 months Difficulty Due to Senility Ever had Non-Skin Cancer Difficulty Due to Depression Ever had Diabetes Difficulty Due to Endocrine Problem Weak or Failing Kidneys Difficulty Due to Blood Forming Organ Problem BMI > 40 Difficulty Due to Drug / Alcohol / Substance Abuse Pregnant Difficulty Due to Schizophrenia, ADD, or Bipolar Disorder
+
+In order to align BRFSS to NHIS overall statistics, we then applied a Generalized Regression Estimator (GREG) to scale down the BRFSS microdata’s prevalence rate and population estimate to the equivalent estimates from NHIS, 27% and 52 million. Since the regression described in the previous paragraph already predicted the prevalence rate of declinable conditions in BRFSS by using survey variables shared across the two datasets, this secondary calibration solely served to produce a more conservative estimate of declinable conditions by calibrating BRFSS estimates to the NHIS. After applying this calibration, we calculated state-specific prevalence rates and population estimates off of this post-stratified BRFSS sample.
+
+The programming code, written using the statistical computing package R v.3.3.2, is available upon request for people interested in replicating this approach for their own analysis.

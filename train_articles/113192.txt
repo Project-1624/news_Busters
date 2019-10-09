@@ -1,0 +1,48 @@
+Ask an Actuary--Part V
+Ask an Actuary
+
+Part V: How are the trust funds invested?
+
+by Jeffrey Kunkel
+
+Actuary
+
+(Originally published in OASIS Magazine, July 1995 issue)
+
+Suppose you were given the responsibility of investing $436 billion. Further, you are to invest this money safely and produce a reasonably high rate of return. How would you go about it?
+
+This question is faced by those in the Department of the Treasury who manage the Social Security Trust Funds. Their options, however, are tightly limited by law. The Social Security Act specifies that the trust funds can only be invested in securities backed by the full faith and credit of the Federal government. These securities may include regular Treasury bills, notes, and bonds that you or I might buy (called "public issues"), or ones that are issued only to the trust funds (called "special issues"). Since 1981 the Treasury has invested trust fund assets only in special issues. Currently, less than two hundredths of one percent of the assets are invested in public issues. A table of all investments held by the Social Security Trust Funds is shown below.
+
+Investments held by the Social Security Trust Funds on December 31, 1994, by Type of Investment, Interest Rate, and Trust Fund
+
+(In millions) Trust Fund Interest
+
+rate Old-Age and
+
+Survivors
+
+Insurance Disability
+
+Insurance Total Special issues: Certificates of indebtedness 7.875 percent --- $14,896 $14,896 8.000 percent $31,309 4,168 35,477 Bonds 6.250 percent 60,921 --- 60,921 7.250 percent 78,812 --- 78,812 7.375 percent 59,529 1,059 60,589 8.125 percent 52,737 1,169 53,906 8.375 percent 3,937 --- 3,937 8.625 percent 11,483 --- 11,483 8.750 percent 82,823 1,612 84,435 9.250 percent 21,595 --- 21,595 10.375 percent 4,318 --- 4,318 10.750 percent 3,067 --- 3,067 13.750 percent 2,901 --- 2,901 Total special issues............ 413,431 22,904 436,335 Public issues (bonds): 3.500 percent --- 5 5 7.625 percent --- 10 10 8.000 percent --- 26 26 8.250 percent --- 4 4 11.750 percent --- 30 30 Total public issues............ --- 75 75 Total, all securities........... 413,431 22,979 436,410
+
+The law also specifies a formula for the rate of interest on special issues. The rate is determined by the Treasury at the end of every month for new investments in the following month. The formula is designed to give an interest rate equal to what private investors would get if they purchased new, long-term Treasury bonds. The rate, therefore, does not give the trust funds any advantage, or disadvantage, compared to the rate the Treasury would need to give to private investors if it had to raise money through the sale of bonds to the public.
+
+If you buy a Treasury bond, you run the risk that the value of the bond will fall if interest rates rise. On the other hand, the value of your bond will exceed what you paid for it if interest rates fall. The value of special issues held by the trust funds, however, is not subject to such changes in prevailing interest rates because these securities are held only by the trust funds and are therefore not subject to open market forces. As a result, if a special issue must be redeemed prior to maturity, there is no gain or loss in value relative to the original purchase price.
+
+Each business day, trust fund income that is not needed to pay expenditures on that day is invested in special-issue "certificates of indebtedness." These certificates mature on the next June 30. They are frequently redeemed prior to maturity to pay for Social Security benefits and other expenses. Whatever amounts have accumulated by June 30 are converted into special-issue bonds. These bonds have maturities that range from 1 to 15 years. Bonds may also be redeemed prior to maturity. Typically such redemption will occur when a trust fund is experiencing deficits.
+
+The interest rates for securities purchased in each month of 1961-94, together with the trust funds' average rates of return for 1961-94, are shown in the chart below. The average rate of interest earned on all trust fund assets depends on the particular mix of securities held. As indicated, the monthly rate for new securities fluctuates considerably, whereas the average rate of return on all trust fund assets tends to be more stable over time.
+
+During periods of rising interest rates, a trust fund's investment portfolio will acquire new bonds with relatively higher interest rates, but it will still hold bonds acquired earlier that have lower interest rates. Under such conditions, the average rate of return on the entire portfolio of investments tends to be somewhat less than current interest rates. Just the opposite tends to occur during periods of declining interest rates. As indicated in the chart, the average rate of return was generally somewhat lower than the monthly interest rate for new securities for the years 1961-84 as interest rates generally rose. After 1984, the average rate of return has been higher than monthly interest rates.
+
+Interest on investments in calendar year 1994 totaled $31.1 billion, or 8.2 percent of total income to the funds. Because the assets of the combined trust funds have grown faster than expenditures in recent years, interest income today represents a larger percentage of total income than it did, say, 20 years ago. At that time, interest amounted to only 4.2 percent of total income. As trust fund assets continue to grow, interest income will be an even larger percentage of income. For example, it is estimated that 20 years from now interest will be 14.5 percent of total income.
+
+The investment rules and procedures often strike people as surprisingly complex and narrowly constrained. Why are the rules so strict? In large part, to ensure the proper control of the vast amounts of money associated with our nation's most important income-security program. Also to avoid putting the Secretary of the Treasury in an untenable position. As Managing Trustee for the Social Security Trust Funds, the Secretary must maximize investment returns for the trust funds but minimize the cost of borrowing funds needed for other government purposes. These two goals would normally be in direct conflict. The strict investment rules eliminate any possibility of favoring one goal at the expense of the other.
+
+Many people also wonder why investments are only allowed in Federal government securities, and not in higher-yielding stocks and bonds. Policymakers have debated this issue since the beginning of Social Security, and the discussion continues today with the current Advisory Council on Social Security.
+
+Office of the Chief Actuary
+
+Social Security Administration
+
+May 20, 1997

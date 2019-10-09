@@ -1,0 +1,6 @@
+Federal Surplus or Deficit [-]
+Need help? [+]
+
+Use a formula to modify and combine data series into a single line. For example, invert an exchange rate a by using formula 1/a, or calculate the spread between 2 interest rates a and b by using formula a - b.
+
+Use the assigned data series variables above (e.g. a, b, ...) together with operators {+, -, *, /, ^}, braces {(,)}, and constants {e.g. 2, 1.5} to create your own formula {e.g. 1/a, a-b, (a+b)/2, (a/(a+b+c))*100}. The default formula 'a' displays only the first data series added to this line. You may also add data series to this line before entering a formula.

@@ -1,0 +1,37 @@
+Maternal mortality ratio (per 100 000 live births)
+
+Rationale for use
+
+Complications during pregnancy and childbirth are a leading cause of death and disability among women of reproductive age in developing countries. The maternal mortality ratio represents the risk associated with each pregnancy, i.e. the obstetric risk. It is also a MDG indicator.
+
+Definition
+
+Maternal death is the death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management but not from accidental or incidental causes. To facilitate the identification of maternal deaths in circumstances in which cause of death attribution is inadequate, a new category has been introduced: Pregnancy-related death is defined as the death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the cause of death.
+
+Live birth refers to the complete expulsion or extraction from its mother of a product of conception, irrespective of the duration of the pregnancy, which, after such separation, breathes or shows any other evidence of life - e.g. beating of the heart, pulsation of the umbilical cord or definite movement of voluntary muscles - whether or not the umbilical cord has been cut or the placenta is attached. Each product of such a birth is considered live born.
+
+Data sources
+
+Vital registration, health service records, household surveys, census.
+
+Methods of estimation
+
+Measuring maternal mortality accurately is difficult except where comprehensive registration of deaths and of causes of death exists. Elsewhere, census, surveys or models have to be used to estimate levels of maternal mortality. Reproductive-age mortality studies (RAMOS) use triangulation of different sources of data on deaths of women of reproductive age coupled with record review and/or verbal autopsy to identify maternal deaths. Based on multiple sources of information, RAMOS are considered the best way to estimate levels of maternal mortality. Estimates derived from household surveys are subject to wide confidence intervals and long period rates (often for 10 year periods). Global and regional estimates of maternal mortality are developed every five years, using a regression model.
+
+Disaggregation
+
+By age and parity, location (urban/rural, major regions/provinces), and socio-economic characteristics (e.g. education level, wealth quintile).
+
+References
+
+International Classification of Diseases (ICD)
+
+International Classification of Diseases , 10th Revision, Geneva, World Health Organization, 2004
+
+Maternal mortality in 2000
+
+Maternal Mortality Estimates developed by WHO, UNICEF and UNFPA. Geneva, World Health Organization, 2004.
+
+Comments
+
+Maternal death is, from an epidemiological perspective, a relatively rare event and mortality is difficult to measure accurately. Many low-income countries have no or very little data and modelling is used to obtain a national estimate.

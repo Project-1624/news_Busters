@@ -1,0 +1,66 @@
+It’s TIME…for another Photoshop tutorial
+You ever wonder how the TIME magazine cover is created?.Although most of the professional designers use Illustrator, this opportunity I’ll show you how to obtain the same amazing results using Photoshop CS4.
+
+Here is the image I’ll use for this tutorial.﻿
+
+Here is the final image we’ll have done after finishing this tutorial:
+
+Note:The use of TIME magazine logo on this tutorial is just for instructional purposes and not intended to violate the magazine copyrights.
+
+Step 1: First at all we need to crop the original picture
+
+
+
+The image is a little bigger for our purpose therefore we need to crop it so we can have a nice portrait image suitable for our magazine cover.
+
+You can crop an image using the Crop tool located in the tools bar section. Select the crop tool and in the options bar set the width to 500px and the height to 613px:
+
+With the Crop tool selected Drag over the part of the image you want to keep to create a marquee.It’s is not necessary to be precise, we can fix later.If you need to move the marquee just click inside and drag over to the right or left until the marquee is in the desired position.
+
+When our marquee selection is in the desire position press Enter to crop our image and now we have a nice pic to work with.
+
+Because this picture is nice and clean we don’t have to worry about retouching, so let’s focus on the magazine design and typography.
+
+Step 2: Create the red edges around the magazine cover.
+
+There are many ways to create the red border around our cover, but I want to show you an easy and painless way to do it.
+
+Set the foreground color to red:
+
+Select the Rectangular marquee tool from the tools bar and make a selection approximately 5 pixels from picture borders as shown below:
+
+To make a marquee selection can be a little tricky if you are a beginner so I recommend to use the Rule as guide. To make the Rule visible go to the menu bar and click on view and then in the drop down menu click on Rules and the rule will show up around your work stage.
+
+You’ll see like marching ants in your image, now go to the Menu bar ,click on Select menu and in the drop down menu click on Inverse:
+
+Now the photograph will look like the image below:
+
+With the inverse selection press ALT + Backspace to fill the selection with red color ( make sure the foreground color is set to Red) and there we have the red edges around the cover! sweet isn’t it?. Press Ctrl + D lo deselect the marquee.
+
+Now we are ready to move on and fill our image with some Text.
+
+Step 3: Adding text to the image
+
+Select the text tool, set the font type to trajanus brick, in case you don’t have this font type in your computer you can download for free from: http://www.sostars.com/trajanus-bricks-font,although this font is not the same as the used in Time’s magazine, it is pretty close for our purpose in this tutorial.
+
+Type the word TIME and then go to Window menu, select character and set the following values in your character window :
+
+Make sure to select your font color to red.
+
+Now that we have our Time text we need to fix something; you may noticed that there is too much space between the letter T and the I, let’s fix it. I’ll show a trick to solve this situation that you can use it in some others projects where you need to apply special effects to a single text character.In your layers panel right click in your text layer and from the menu select rasterize now select the rectangular marquee to draw a selection on the letter T , now with the right arrow in our keyboard click a few times to put the letter T in place close to the I, press Ctrl+D to clear the selection, now you have your TIME text ready to put in place, just click in the move tool and put in the position as shown in the final image above.
+
+Step 4 Add the rounded rectangle shape
+
+From our tool bar menu select the rounded rectangle tool and draw a shape similar to the one we have in our final image, make sure your foreground color is set to black, now that we have our shape double click in the shape layer and select stroke from the layer style window and set the following values:
+
+Now we are ready to put some text in our shape.
+
+Select the text tool make sure your foreground color is set to white, and type your text, in this case PERSON ON THE YEAR, and from the window menu select character and set the following values:
+
+Just place your text inside the shape.
+
+For the other text in our magazine I used Times New Roman font, white, bold.set the appropriate size and type any text you want.
+
+Step 5 Adding barcode image:
+
+Finally you can add a barcode image, get one from google or use the image above, resize it if necessary and put in place, and you have your TIME magazine front cover ready for publishing.

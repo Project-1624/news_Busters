@@ -1,0 +1,74 @@
+Electronic Recovery and Access to Data
+ERAD Frequently Asked Questions
+
+ERAD-Intel™ and ERAD-Recovery™
+
+What is a Prepaid Access Device?
+
+Fin Cen defines prepaid access as "access to funds or the value of funds that have been paid in advance and can be retrieved or transferred at some point in the future through an electronic device or vehicle, such as a card, code, electronic serial number, mobile identification number, or personal identification number." Open Loop prepaid cash cards, closed loop retailer gift cards and stored-value cards are example of prepaid access devices.
+
+How does an Open Loop prepaid card differ from a Closed Loop gift card?
+
+Open Loop prepaid cards are valid at multiple locations and not restricted to a specific location or retailer. Cards that carry the Visa, MasterCard, American Express brands are examples. Closed loop gift cards are typically issued by a single retailer and valid for use only at that retailer's location(s). Best Buy, Costco, Macy's and Walmart gift cards are examples of prepaid card.
+
+I'm trying to determine the balance on a prepaid debit card but the response I receive from the ERAD-Prepaid Terminal says "Invalid Amount" or "Declined".
+
+ERAD-Intel™ and ERAD-Recovery™ will only retrieve balances from open loop prepaid debit cards. Debit cards attached to a valid checking account or valid credit cards cannot be processed using the ERAD-Intel™ or ERAD-Recovery™ system.
+
+Can a hotel room key be used as a prepaid debit card?
+
+Yes, criminals can copy prepaid cash card information on to any magnetic stripe card, even hotel room keys. Using a magnetic stripe reader-writer device purchased for less than $150, a criminal can copy the account information from a legitimate payment card onto a non-descript piece of plastic in less than a minute.
+
+What specific language for prepaid cash cards should be included on a subpoena or seizure warrant? Can you provide sample language?
+
+Clients have access to the automated subpoena creation and management system which allows them to customize a subpoena or seizure warrant targeted to the specific financial institution or retailer that issued the prepaid access card.
+
+How much money can be tied to a prepaid cash card?
+
+While most legitimate prepaid cash card program managers and issuers will not allow more than $10,000-$15,000 to be held in a prepaid cash card account, there are programs operating outside the U.S. that will allow higher balances. A recent case involving more than 3,000 prepaid cards included several loaded with more than $1,000,000 and one with over $5,000,000 dollars.
+
+Why is there a need for ERAD-Intel™ and ERAD-Recovery™?
+
+ERAD-Recovery™ was created based on a request from DHS Science and Technology to solve a problem they were encountering at U.S. Customs locations. Customs officials were seeing a significant number of prepaid cash cards moving across the border. Even with probable cause, they had no way of identifying the card value, freezing the funds or seizing the money at the point of arrest. ERAD-Prepaid™ solved that problem by condensing a process that takes many days, weeks or months into one that takes a few seconds.
+
+Can I check a balance and seize funds without using ERAD-Intel™, ERAD-Recovery™?
+
+ERAD-Intel™ and ERAD-Recovery™ is a patented solution available only to law enforcement agencies. There is no other program that can obtain a balance and freeze funds associated with a prepaid card within a matter of seconds. Today, law enforcement calls the prepaid cash card issuer to obtain a balance and then follows up with a written request to freeze those funds. The problem is that by the time this manual process is completed, the money has already been moved to another card or account.
+
+How easy is to move money from one prepaid cash card to another?
+
+Very easy. Most prepaid cash card programs maintain websites that allow customers to transfer money from one card to another in a matter of seconds. All you need is the account information from the card that was confiscated and account information from the card where you want the money loaded. The entire process takes less than a minute.
+
+Can I speak with any current Clients about their experience with ERAD-Intel™ and ERAD-Recovery™?
+
+We would be happy to introduce you to some of our clients. Please call us at 571-207-ERAD (3723)
+
+ERAD-ID™
+
+What is a Chip card?
+
+A chip card describes either a payment or identification card that is embedded with a microchip. ERAD-ID™ cards contain a chip capable of storing up to 64K of enhance data bits. The chip ensures a secure operating environment for critical identification information is maintained at all times and only available in the clear when the correct 6 digit PIN is matched to the chip. The chip is embedded in a 30 mil thick, credit card sized plastic.,
+
+Can a photograph be stored on a FIPS 201 Card?
+
+Yes, a color photo in a .jpg, .tiff or bmp format may be uploaded to the ERAD-ID™ system and inserted on the embedded microchip.
+
+What is the difference between a CIV and PIV-I Identification Card?
+
+Commercial Identity Verification (CIV) cards leverage the same PIV-I (Personal Identity Verification) specifications, technology and data models without the requirement for cross-certification and access to the Federal Bridge. Without the requirement for attribute and certification authentication, first responders, critical infrastructure personnel, companies and agencies can utilize the same chip encrypted technology and security to satisfy their identification needs
+
+My Agency already has an ID card. Can it be used as a CIV card with ERAD-ID™?
+
+Unfortunately, no. The ERAD-IDTM program utilizes a unique and secure chip encryption protocol that cannot be replicated or copied.
+
+Financial Crimes Intelligence Identify, freeze or seize prepaid card funds at the point of arrest.
+
+Read more
+
+
+
+ERAD-ID
+
+
+
+Real-time FIPS-201-1 verification and identification of First Responders. Read more

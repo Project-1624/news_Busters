@@ -1,0 +1,41 @@
+Amazon Echo Recorded And Sent Couple's Conversation — All Without Their Knowledge
+
+Enlarge this image toggle caption Smith Collection/Gado/Getty Images Smith Collection/Gado/Getty Images
+
+As secret recordings go, the Portland couple's conversation was pretty mundane: They were talking about hardwood floors.
+
+But their Amazon Echo was listening and recording their discussion. The device then sent the recording to someone in their contacts — without the couple's knowledge.
+
+The wife, identified only as Danielle, told Seattle TV station KIRO 7 that they learned something was amiss when they received a phone call from the husband's employee who lived in Seattle, telling them what he had inadvertently received. He told them to unplug their Alexa devices right away.
+
+Danielle says she and her husband went around the house unplugging their devices — which they had in each room, controlling their home's temperature, lights and security.
+
+The employee sent the couple the sound file that the Echo had sent to him, and they were shocked to realize they had essentially been bugged.
+
+"I felt invaded," Danielle told KIRO. "A total privacy invasion. Immediately, I said, 'I'm never plugging that device in again, because I can't trust it.' "
+
+How did this happen? Here's Amazon's explanation of the unsettling episode:
+
+"Echo woke up due to a word in background conversation sounding like 'Alexa.' Then, the subsequent conversation was heard as a 'send message' request. At which point, Alexa said out loud 'To whom?' At which point, the background conversation was interpreted as a name in the customers contact list. Alexa then asked out loud, '[contact name], right?' Alexa then interpreted background conversation as 'right'. As unlikely as this string of events is, we are evaluating options to make this case even less likely."
+
+That's right — at least five times in a row, Alexa heard background conversation and misconstrued it as very specific directives. And it all happened without the people in the room knowing that the device was listening, much less recording their conversation and shipping it out, supposedly on their behalf.
+
+Last year, a North Carolina man said the same thing had happened to him: His Echo recorded 20 seconds of his conversation and sent it to his insurance agent without his knowledge.
+
+Why was the Echo recording the conversation in the first place?
+
+"Amazon's Echo uses seven microphones and noise-canceling tech to listen out for its wake word," Washington Post technology columnist Geoffrey Fowler explains. "Doing so, it records about a second of ambient sound on the device, which it constantly discards and replaces. But once it thinks it hears its wake word, the Echo's blue light ring activates and it begins sending a recording of what it hears to Amazon's computers."
+
+While "home assistants" such as the Amazon Echo, Google Home and Apple HomePod have been big sellers in the past few years, they've brought with them a litany of privacy and practical concerns.
+
+There was the time an Echo ordered a $170 dollhouse for a 6-year-old who asked Alexa for one. And the time Burger King ran an ad that said, "OK Google, what is the Whopper burger?" — causing Google Home devices to dutifully reply with info from the Whopper Wikipedia page.
+
+NPR's own reporting has spurred voice-activated snafus: Morning Edition ran a story in 2016 about the Echo, which included the phrases "Alexa, give me a news bulletin" and "Alexa, turn on CNN. Set the temperature to 70 degrees." Some Echos at home complied — by playing an NPR newscast and resetting a listener's thermostat.
+
+But while those episodes had the air of slapstick, these recorded-conversation incidents show what can happen when people welcome devices that are always listening.
+
+"The Amazon Echo, despite being small, is a computer — it's a computer with microphones, speakers, and it's connected to the network," Daniel Kahn Gillmor, a staff technologist for the American Civil Liberties Union's Speech, Privacy and Technology Project, told the Post. "These are potential surveillance devices, and we have invited them further and further into our lives without examining how that could go wrong. And I think we are starting to see examples of that."
+
+Have an Echo and want to know what it has been recording?
+
+Fowler offers this advice: "Go into the Alexa app, tap Settings —> History, and then listen to the recordings Alexa has made of you and your family. (While you're there, you can also delete them)."

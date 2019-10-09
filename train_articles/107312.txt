@@ -1,0 +1,53 @@
+Carbon Flux to the Atmosphere from Land-Use Changes 1850-2005
+
+Richard A. Houghton
+
+The Woods Hole Research Center,
+
+149 Woods Hole Road,
+
+Falmouth, Massachusetts 02540, U.S.A.
+
+Graphics View Data Table Download Excel (.xls) File
+
+Please note: These data replace the previous TRENDS database which included carbon flux estimations through the year 2000. The original data published online are still available from CDIAC as: NDP-050/R1 (1850-1990).
+
+Methods
+
+The methods and data sources used to derive this time series of flux estimates are described in Houghton (1999, 2003), Houghton and Hackler (1995), and Houghton et al. (1983). In summary, this database provides estimates of regional and global net carbon fluxes, on a year-by-year basis from 1850 through 2005, resulting from changes in land use (such as harvesting of forest products and clearing for agriculture), taking into account not only the initial removal and oxidation of the carbon in the vegetation, but also subsequent regrowth and changes in soil carbon. The net flux of carbon to the atmosphere from changes in land use from 1850 to 2005 was modeled as a function of documented land-use change and changes in aboveground and belowground carbon following changes in land use.
+
+Annual rates of land-use change (for example, conversion of forest to cropland) and per hectare changes in carbon stocks (vegetation, slash, wood products, and soils) as a result of changes in land use were used in a carbon accounting model to calculate the annual net flux of carbon between land and the atmosphere that results from land management. The net flux includes both emissions of carbon from deforestation and sinks of carbon in forests recovering from harvests or agricultural abandonment. Changes in land use included the expansion and contraction of croplands and pastures, plantation establishment, and harvest of wood. Carbon budgeting included only those ecosystems converted to other uses or harvested; unmanaged ecosystems were not considered. Further, rates of growth and decomposition were ecosystem specific and did not vary in response to variations in climatic factors, CO 2 concentrations, or other elements of environmental change. The analyses were spatially aggregated. Two to six types of ecosystems, with average carbon stocks, were considered for each of ten world regions.
+
+Trends - Updated (2005)
+
+In addition to extending the period of record through 2005, these estimates differ from those provided in the previous versions (NDP-050, NDP-050/R1, and TRENDS 1850-2000) of this database because they include revised rates of land-use change for the period of 1960-2000. For example, in the 1990s the annual rate of loss of natural forests in the tropics averaged 16.7 million ha in the 2000 Forest Resources Assessment (FRA) (FAO 2001) and 11.6 million ha in the 2005 Assessment (FAO 2006). The lower estimates of tropical deforestation lowered the average net flux over the period 1990-2000 from ~2.2 PgC/yr (Houghton 2003) to ~1.5 PgC/yr. The lower estimate is more consistent with average tropical emissions obtained independently by DeFries et al. (2002) and Achard et al. (2004), 0.9 PgC/yr and 1.1 PgC/yr, respectively. The annual fluxes used in this analysis are the same as those used in the recent study by Canadell et al. (2007).
+
+The initial publication of these data at CDIAC was as a numerical data package (NDP) entitled: 'Continental scale estimates of the biotic carbon flux from land cover change: 1850-1980 (CDIAC NDP-050)'. These data were revised and extended to the year 1990, and were made available online as (CDIAC NDP-050/R1). These data were further revised and extended through the year 2000 and included in CDIAC's online TRENDS database. This database reflects the revision of rates of land-use change as described above, and an extension of the data through the year 2005. Please note that recorded values outside of the tropics after 1990 represent crude estimations and not new calculations.
+
+The estimated global total net flux of carbon from changes in land use increased from 500.6 Tg C (1 teragram = 1012 gram) in 1850 to a maximum of 1712.5 Tg C (or 1.7 Pg C, where 1 petagram = 1015 gram) in 1991, then declined to 1409.9 Tg C (1.4 Pg C) in 2000, and rose slightly to 1467.3 Tg C (or 1.46 Pg C) in 2005. The global net flux during the period 1850-2000 was 148.6 Pg C, about 55% of which was from the tropics. During the period 1990-2005, the greatest regional flux was from South and Central America (11.3 Pg C).
+
+The global total flux averaged 1.5 Pg C yr-1 during the 1980s and 1.56 Pg C yr-1 during the 1990s (but generally declining during that latter decade), dominated by fluxes from tropical deforestation. The global total flux averaged 1.47 Pg C yr-1 during the period from 2000-2005.
+
+References
+
+Achard, F., H.D. Eva, P.Mayaux, H.-J. Stibig, and A. Belward. 2004. Improved estimates of net carbon emissions from land cover change in the tropics for the 1990s. Global Biogeochemical Cycles 18, GB2008, doi:10.1029/2003GB002142.
+
+Canadell JG, Le Qué C, Raupach MR, Field CB, Buitenhuis ET, Ciais P, Conway TJ, Gillett NP, Houghton RA, Marland G (2007) Contributions to accelerating atmospheric CO 2 growth from economic activity, carbon intensity, and efficiency of natural sinks. PNAS Early Edition10.1073/pnas.0702737104.
+
+growth from economic activity, carbon intensity, and efficiency of natural sinks. PNAS Early Edition10.1073/pnas.0702737104. DeFries,R.S., R.A. Houghton, M.C. Hansen, C.B. Field, D. Skole, J. Townshend. 2002. Carbon emissions from tropical deforestation and regrowth based on satellite observations for the 1980s and 90s. Proceedings of the National Academy of Sciences 99:14256-14261.
+
+FAO. 2001. Global forest resources assessment 2000. Main report. FAO Forestry Paper 140, Rome.
+
+FAO. 2006. Global forest resources assessment 2005. FAO Forestry Paper 147, Rome.
+
+Houghton, R.A. 1999.The annual net flux of carbon to the atmosphere from changes in land use 1850-1990. Tellus 51B:298-313.
+
+Houghton, R.A. 2003.Revised estimates of the annual net flux of carbon to the atmosphere from changes in land use and land management 1850-2000. Tellus55B(2):378-390.
+
+Houghton, R.A., and J.L. Hackler. 1995.Continental Scale Estimates of the Biotic Carbon Flux from Land Cover Change: 1850-1980. ORNL/CDIAC-79, NDP-050, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee.
+
+Houghton, R.A., and J.L. Hackler. 2001. Carbon Flux to the Atmosphere From Land-use Changes: 1850 to 1990. NDP-050/R1, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee.
+
+Houghton, R.A., J.E. Hobbie, J.M. Melillo, B. Moore, B.J. Peterson, G.R. Shaver, and G.M. Woodwell. 1983.Changes in the carbon content of terrestrial biota and soils between 1860 and 1980: A net release of CO 2 to the atmosphere. Ecological Monographs 53:235-262.
+
+CITE AS: Houghton, R.A. 2008. Carbon Flux to the Atmosphere from Land-Use Changes: 1850-2005. In TRENDS: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.

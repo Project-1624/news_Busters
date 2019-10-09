@@ -1,0 +1,56 @@
+Mueller report highlights scope of election security challenge
+Four pages of the Mueller report lie on a witness table in the House Intelligence Committee hearing room on Capitol Hill on April 18. (Cliff Owen/AP)
+
+Special counsel Robert S. Mueller III’s investigation of the “sweeping and systematic fashion” in which Russia interfered in the 2016 election highlights the breadth and complexity of the U.S. voting infrastructure that needs protecting.
+
+From voter registration to the vote itself to election night tabulation, there are countless computers and databases that offer avenues for foreign adversaries to try to create havoc and undermine trust in the democratic process.
+
+In addition to targeting the Democratic Party and Clinton campaign in 2016, Mueller noted in his report, Russian hackers also went after election technology firms and county officials who administer the vote — officials often without the resources to hire information technology staffs.
+
+[Through email leaks and propaganda, Russians sought to elect Trump, Mueller finds]
+
+“The Mueller report makes clear that there’s a much larger infrastructure that we have to protect,” said Lawrence Norden, an election security expert at New York University Law School’s Brennan Center for Justice. “There’s clearly a lot to do before 2020.”
+
+But the country also has made strides in the last two and a half years.
+
+The shock of learning that the Russian government interfered in 2016 galvanized local, state and federal officials to increase coordination and strengthen cybersecurity.
+
+In last fall’s midterm elections, “there were no cyber incidents that affected voters’ ability to vote or have votes counted as cast,” said Matt Masterson, Department of Homeland Security senior adviser on election security. “But more importantly, we were able to assess that with confidence because of the robust information-sharing we had in place with state and local election officials.”
+
+It wasn't that long ago that some suspicious state officials were accusing DHS of hacking them. And now, the department is working with all 50 states. “We have relations with 1,500 election offices, but we recognize that there’s 8,000-plus across the country,” Masterson said. “So how do we build out our support to all local election offices?”
+
+Elections in the United States are run by state and local officials, and DHS can advise and assist, but it cannot dictate security standards. What it’s really about, Masterson said, is “raising the level of awareness among local election officials to the threats and risks to election systems.”
+
+[The midterms may be the “warm-up” for Russians seeking to target 2020, officials say]
+
+One official with heightened awareness is Matt Dietrich, spokesman for the Illinois State Board of Elections, which suffered the most significant breach of a state election system in 2016. That summer hackers compromised a statewide voter registration database and, the board said, made off with the personal data of tens of thousands of voters.
+
+But it wasn’t until Mueller obtained a criminal indictment last July of a dozen hackers that Dietrich and his colleagues got what they considered official confirmation that the Russian government — in particular a military spy named Anatoliy Kovalev — was allegedly behind the operation. So when Mueller’s report emerged Thursday, Dietrich ran a quick search on “Illinois.” He pulled up a brief incident recap with no new details. “I was reassured,” he said.
+
+Illinois, like a number of other states, has begun to use some of the $380 million in election security grants approved last year by Congress to raise its defensive game. With a portion of the $13.2 million it received, the state hired nine “cyber navigators” or experts to conduct risk assessments for county election offices. They also train officials to recognize threats such as “spearphishing” or malware-laced emails designed to look like they come from trusted senders.
+
+Illinois officials worked with DHS, which performed weekly scans of network traffic to detect vulnerabilities — and “didn’t find any,” and then the state took over the scans, Dietrich said. They partnered last year with the Illinois National Guard so if any of the 108 local election offices had an incident, a cyber expert could be on site within an hour.
+
+Illinois also joined the Elections Infrastructure Information Sharing and Analysis Center, a voluntary organization of state and local elections officials to exchange threat data and best practices. Through the National Association of State Election Directors and DHS, it has worked with social media companies to better detect disinformation threats.
+
+“All of the things we have done have been done with an eye toward building confidence in the election system in Illinois,” Dietrich said. “We never say there’s a 100 percent guarantee of safety. But we do think we are staying a step ahead. That’s all we’re trying to do.”
+
+In one measure of progress, DHS last year had “Albert” sensors deployed in 47 of 50 states to monitor computer traffic for cyber threats. By year’s end, the department expects to have the sensors installed in all 50 states.
+
+A dozen states are still using electronic voting machines without paper backups, which are seen as a vulnerability. But about half, including Georgia, say they will replace them by 2020. And a majority of states either test their voting machines to federal standards or require federal certification.
+
+[Georgia election security fight tees up national debate on paper ballots]
+
+The Mueller report also revealed that the FBI believes the Russian military spy agency GRU gained access to the network “of at least one Florida county government” in 2016. The mention prompted Sen. Rick Scott (R-Fla.) to press the FBI to disclose information about the incident. In a letter to FBI Director Christopher A. Wray, he noted that in 2018, when he was the state’s governor, both the FBI and DHS denied that Russia had successfully penetrated Florida’s election systems.
+
+The FBI declined to comment. But according to five current and former U.S. cyber officials, the breach was not serious. Nonetheless, the FBI notified the county in question, which opted not to disclose the breach, officials said. In general, said one U.S. official, “details that would identify the victims of a cyberattack would not be shared with others besides the victim.”
+
+Experts have often commented on how the decentralized nature of election systems is a form of security making it less likely that one computer hack can result in a cascading series of disruptions across states. But that feature also makes for a big challenge, said Norden, the NYU election security expert. “You’re only as strong as your weakest link and you can’t expect systemic security without some central player pushing to do what needs to be done,” he said.
+
+Congress needs to step up, he said, providing money and direction. And the funding, election security experts said, should be recurring — not a one-time grant.
+
+“I’m not saying they should do everything, but they could lead and do their part,” he said.
+
+Currently there is no election security bill with strong bipartisan support in Congress, he said. “I’m hoping the Mueller report will kick-start that,” he said.
+
+“Whether you’re talking about the Mueller report or the indictments from last summer, all of these are reminders of the importance of securing our election processes,” said Masterson, the DHS adviser. “Every American has a role to play in securing our democracy. Engaging in the process is the best response to these attempts to undermine confidence in our democratic institutions.”

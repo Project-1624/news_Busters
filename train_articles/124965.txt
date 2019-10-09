@@ -1,0 +1,156 @@
+The math behind leap years.
+I was originally going to go with the more obvious frog leaping, but c’mon. Goats are way cuter. Photo illustration by Phil Plait. Photo by Shuttertstock/Catalin Petolea.
+
+This article is a modified and updated version of one I wrote in—oddly enough—2008 and then updated for 2012. Barring a colossal asteroid impact or a Trump presidency, I’ll probably be around to do it in 2020, too. But not 2200. Even if my floating head in a jar is still around, it won’t matter, as you’ll see if you read on.
+
+Note: This post has math in it. Quite a bit. But it’s really just arithmetic—decimals and multiplication. If you’re a mathaphobe, then skip to the end, but you’ll have to trust me on the numbers.
+
+If you’re a mathophile and a pedant, then you may fret over my ignoring significant digits below. But in this case the mantissa is what’s important, since what we’re doing here is a variation of modulus math; the actual fraction of a day left over is what adds up, and it doesn’t matter how many whole days there are once the leap day corrections are applied to the calendar. So, I kept all the numbers to four decimal places (unless they end in 0), and ignored sigfigs. Yes, this leads to some roundoff errors, but over the span of time we’re talking here they don’t matter much.
+
+OK, ready? Let’s do math!
+
+When I was a kid, I had a friend whose birthday was on Feb. 29. I used to rib him that he was only 3 years old, and he would visibly restrain himself from punching me. Evidently he heard that joke a lot.
+
+Of course, he was really 12. But since Feb. 29 is a leap day, it only comes once every four years.
+
+But why is leap day only a quadrennial event?
+
+Why is anything anything? Because astronomy!
+
+OK, maybe I’m biased, but in this case it’s true. We have two basic units of time: the day and the year. Of all the everyday measurements we use, these are the only two based on concrete physical events: the time it takes for the Earth to spin once on its axis, and the time it takes the Earth to go around the Sun. Every other unit of time we use (second, hour, week, month) is rather arbitrary. Convenient, but they are not defined by independent, nonarbitrary events.*
+
+It takes roughly 365 days for the Earth to orbit the Sun once. If it were exactly 365 days, we’d be all set! Our calendars would be the same every year, and there’d be no worries.
+
+But that’s not the way things are. The length of the day and year are not exact multiples; they don’t divide evenly. There are actually about 365.25 days in a year. That extra fraction is critical; it adds up. Every year, our calendar is off by about a quarter of a day, an extra 6 hours just sitting there, left over.
+
+After one year the calendar is off by ¼ of a day. After two years it’s a half day off, then ¾, then, after four years, the calendar is off by roughly a whole day:
+
+4 years at 365 (calendar) days/year = 1,460 days, but
+
+4 years at 365.25 (physical) days/year = 1,461 days
+
+So after four years the calendar is behind by a day. The Earth has spun one extra time over those four years, and we need to make up for that. So, to balance out the calendar again we add that day back once every four years. February is the shortest month (due to some Caesarian shenanigans), so we stick the day there, call it Feb. 29—leap day—and everyone is happy.
+
+Except there’s still a problem. I lied to you (well, not really, but go with me here). The year is not exactly 365.25 days long. If it were, every four years the calendar would catch up to the Earth’s actual spin, and we’d be fine.
+
+But it’s not, and this is where the fun begins.
+
+Our official day is 86,400 seconds long. I won’t go into details on the length of the year itself (you can twist your brain into knots reading about that if you care to), but the year we now use is called a Tropical Year, and it’s 365.2422 days long. This isn’t exact, but let’s round to four decimal places to keep our brains from melting.
+
+Obviously, 365.2422 is a bit short of 365.25 (by about 11 minutes). That hardly matters, right?
+
+Actually, yeah, it does. Over time even that little bit adds up. After four years, for example, we don’t have 1,461 physical days, we have:
+
+4 years at 365.2422 (real) days/year = 1460.9688 days
+
+That means that when we add a whole day in every four years, we’re adding too much! But I don’t see any easy way to add only 0.9688 days to our calendar, so adding a whole day is understandable.
+
+Where does this leave us? Adding in a leap day every four years gets the calendar way closer to being accurate, but it’s still not exactly on the money; it’s still just a hair out of whack. This time, it’s ahead of the Earth’s physical spin, because we added a whole day, which is too much. How much ahead?
+
+Well, we added one whole day instead of 0.9688 days, which is a difference of 0.0312 days. That’s 0.7488 hours, which is very close to 45 minutes.
+
+That’s not a big deal, but you can see that eventually we’ll run into trouble again. The calendar gains 45 minutes every four years. After we’ve had 32 leap years (which is 4 x 32 = 128 years of calendar time) we’ll be off by a day again, because 32 x 0.0312 days is very close to a whole day! It’s only off by a couple of minutes, which is pretty good.
+
+So we need to adjust our calendar again. We could just skip leap day one year out of every 128 and the calendar would be very close to accurate. But that’s a pain. Who can remember an interval of 128 years?
+
+So instead it was decided to leave off a leap day every 100 years, which is easier to keep track of. So, every century, we can skip leap day to keep the calendar closer to what the Earth is doing, and everyone’s happy.
+
+Except there’s still still a problem. Since we do this every 100 years, we’re still not making the right adjustment. We’ve added that 0.0312 days in 25 times, not 32 times, and that’s not enough.
+
+To be precise, after a century the calendar will be ahead by:
+
+25 x 0.0312 days = 0.7800 days
+
+
+
+That’s close to a whole day. Of course, seeing what we’ve already gone through, you would be forgiven for a sense of foreboding that this won’t work out perfectly. And you’d be right. We’ll get to that.
+
+But first, here’s another way to think about all this that I’ll throw in just to check the math. After 100 years, we’ll have had 25 leap years, and 75 non leap years. That’s a total of:
+
+(25 leap years x 366 days/leap year) + (75 years x 365 days/year) = 36,525 calendar days
+
+But in reality we’ve had 100 years of 365.2422 days, or 36,524.22 days. So now we’re off by:
+
+36,525 - 36524.22 = .78 days
+
+which, within roundoff errors, is the same number I got above. Woohoo. The math works.
+
+QED. Shutterstock/Marina Sun
+
+Where was I? Oh, right. So, after 100 years the calendar has gained more than ¾ of a day on the physical number of days in a year when we add in a whole day every four years. That means we have to stop the calendar and let the spin of the Earth catch up. To do this, once per century we don’t add in a leap day.
+
+To make it simpler (because yegads we need to), we only do this in years divisible by 100. So the years 1700, 1800, and 1900 were not leap years. We didn’t add an extra day, and the calendar edged that much closer to matching reality.
+
+But notice, he says chuckling evilly, that I didn’t mention the year 2000. Why not?
+
+Because as I said a moment ago, even this latest step isn’t quite enough. Remember, after 100 years, the calendar still isn’t off by a whole number. It’s ahead by 0.7800 days. So when we subtract a day by not having leap year every century, we’re overcompensating; we’re subtracting too much. We’re behind now, by:
+
+1 - 0.7800 days = 0.2200 days
+
+Arg! So every 100 years, the calendar lags behind by 0.22 days. If you’re ahead of me here (and really, I can barely keep up with myself at this point), you might say, “Hey! That number, if multiplied by 5, is very close to a whole day! So we should put the leap day back in every 500 years, and then the calendar will be very close to being right again!”
+
+What can I say? You are clearly very smart and a logical thinker. Sadly, the people in charge of calendars are not you. They went a different route.
+
+How? Instead of adding a leap day back in every 500 years, they decided to add it in every 400 years! Why? Well, in general, if there’s a more difficult way to do something, that’s how it’ll be done.
+
+So, after 400 years, we’ve messed up the calendar by 0.22 days four times (once every 100 years for 400 years), and after four centuries the calendar is behind by
+
+4 x 0.22 days = 0.88 days
+
+That’s close to a whole day, so let’s run with it. That means every 400 years we can add Feb. 29 magically back into the calendar, and once again the calendar is marginally closer to being accurate.
+
+As a check, let’s do the math a different way. Right up until February of the last year in a 400 year cycle, we’ve had 303 non-leap years, and 96 leap years (remember, we’re not counting the 400th year just yet).
+
+(96 leap years x 366 days/leap year) + (303 years x 365 days/year) = 145,731 calendar days
+
+If we then don’t make the 400th year a leap year, we add in 365 more days to get a total of 146,096 days.
+
+But we’ve really had:
+
+400 x 365.2422 days = 146,096.88 days
+
+So I was right! After 400 years we’re behind by 0.88 days, so we break the “every 100 years” rule to add in a whole day every 400 years, and the calendar is much closer to being on schedule.
+
+We can see the remainder is 0.88 days, which checks with the previous calculation, and so I’m confident I’ve done this right. (Phew!)
+
+But I can’t let this go. I have to point out that even after all this the calendar’s still not completely accurate at this point, because now we’re ahead again. We’ve added a whole day every 400 years, when we should have added only 0.88 days, so we’re ahead now by:
+
+1 - 0.88 days = 0.12 days.
+
+The funny thing is, no one worries about that. There is no official rule for leap days with cycles bigger than 400 years. I think this is extremely ironic, because if we took one more step we can make the calendar extremely accurate. How?
+
+The amount we are off every 400 years is almost exactly 1/8th of a day! So after 3,200 years, we’ve had 8 of those 400 year cycles, so we’re ahead by:
+
+8 x 0.12 days = 0.96 days
+
+If we then left leap day off the calendars again every 3,200 years, we’d only be behind by 0.04 days! That’s way better than any other adjustment we’ve made so far. I can’t believe we stopped making fixes at the 400 year cycle.
+
+But, still, yay, we’re done! We can now, finally, see how the leap year rule works:
+
+What to do to figure out if it’s a leap year or not:
+
+We add a leap day every four years, except for every 100 years, except for every 400 years.
+
+In other words …
+
+If the year is divisible by 4, then it’s a leap year, UNLESS
+
+it’s also divisible by 100, then it’s not a leap year, UNLESS FURTHER
+
+the year is divisible by 400, then it is a leap year.
+
+So 1996 was a leap year, but 1997, 1998, and 1999 were not. The year 2000 was a leap year, because even though it is divisible by 100 it’s also divisible by 400.
+
+The years 1700, 1800, and 1900 were not leap years, but 2000 was. The year 2100 won’t be, nor 2200, nor 2300. But 2400 will be.
+
+This whole 400-year thingy was started in the year 1582 by Pope Gregory XIII. That’s close enough to the year 1600 (which was a leap year!), so in my book, the year 4800 should not be a leap year, and then the calendar will be off by less than a minute compared to Earth’s spin. That’s impressive.
+
+But who listens to me? If you’ve made it this far without blowing out your cerebrum, then I guess you listen to me. All this is fun, in my opinion, and if you’re still with me here then you know as much about leap years as I do.
+
+Which is probably too much. All you really need to know is that this year, 2016, is a leap year, and we’ll have plenty more for some time. You can go through my math and check me if you’d like …
+
+Or you can just believe me. Call it a leap of faith.
+
+Bonus: We ran a video Sunday simplifying this whole thing down to me shouting numbers at you for three minutes. Enjoy:
+
+*Yes, the month is based on the cycles of the Moon, but there is no real definition for “month,” which is why they’re all over the place in terms of length.

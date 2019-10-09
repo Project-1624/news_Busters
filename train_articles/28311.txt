@@ -1,0 +1,142 @@
+The Effects of Sanctuary Policies on Crime and the Economy
+Introduction and summary
+
+As the Trump administration begins to implement its immigration policy agenda, the issue of local assistance with federal immigration enforcement officials is back in the spotlight. So-called sanctuary jurisdictions are one focus of that debate. Sanctuary counties—as defined by this report—are counties that do not assist federal immigration enforcement officials by holding people in custody beyond their release date. Using an Immigration and Customs Enforcement, or ICE, dataset obtained via a Freedom of Information Act request filed by the Immigrant Legal Resource Center, the analyses in this report provide new insights about how sanctuary counties perform across a range of social and economic indicators when compared to nonsanctuary counties.
+
+Get the Latest on Immigration
+
+To understand the effects of having a sanctuary policy, we statistically match counties based on a broad range of demographic characteristics and then compare sanctuary counties to nonsanctuary counties to better understand the effects that sanctuary policies have on a local jurisdiction.
+
+The data are clear: Crime is statistically significantly lower in sanctuary counties compared to nonsanctuary counties. Moreover, economies are stronger in sanctuary counties—from higher median household income, less poverty, and less reliance on public assistance to higher labor force participation, higher employment-to-population ratios, and lower unemployment.
+
+Among the main findings:
+
+There are, on average, 35.5 fewer crimes committed per 10,000 people in sanctuary counties compared to nonsanctuary counties.
+
+Median household annual income is, on average, $4,353 higher in sanctuary counties compared to nonsanctuary counties.
+
+The poverty rate is 2.3 percent lower, on average, in sanctuary counties compared to nonsanctuary counties.
+
+Unemployment is, on average, 1.1 percent lower in sanctuary counties compared to nonsanctuary counties.
+
+While the results hold true across sanctuary jurisdictions, the sanctuary counties with the smallest populations see the most pronounced effects.
+
+Altogether, the data suggest that when local law enforcement focuses on keeping communities safe, rather than becoming entangled in federal immigration enforcement efforts, communities are safer and community members stay more engaged in the local economy. This in turn brings benefits to individual households, communities, counties, and the economy as a whole.
+
+Sanctuary jurisdictions, detainers, and notifications
+
+To what extent should local law enforcement agencies, or LEAs, be required to assist federal immigration enforcement officials? Localities have no legal obligation to engage in federal immigration enforcement actions and often find themselves legally liable when they do. For more than a decade, local law enforcement officials have argued against assisting federal immigration enforcement agencies such as ICE. Assisting in federal immigration enforcement efforts can drive a wedge between local law enforcement officials and the communities they serve, which undermines public safety. According to a report issued by the International Association of Chiefs of Police:
+
+[S]tate and local law enforcement should not be involved in the enforcement of civil immigration laws since such involvement would likely have a chilling effect on both legal and illegal aliens reporting criminal activity or assisting police in criminal investigations.
+
+The Major Cities Chiefs Association, which represents the 68 largest LEAs in the United States, similarly concluded that commingling the work of local police with federal immigration enforcement efforts “would result in increased crime against immigrants and in the broader community, create a class of silent victims and eliminate the potential for assistance from immigrants in solving crimes or preventing future terroristic acts.”
+
+One of the ways that localities become entangled in federal immigration enforcement is through what is known as an immigration detainer, or ICE Form I-247D. A detainer is a request that a LEA hold a person for up to 48 additional hours after his or her release date, so that ICE can decide whether to take the person into custody for immigration detention and removal proceedings. Detainers were widely used in the now defunct Secure Communities program, which ended in 2014, and they continue to be used in the successor Priority Enforcement Program.
+
+Despite their continued use, when former Department of Homeland Security, or DHS, Secretary Jeh Johnson ended Secure Communities he stated, “A number of federal courts have rejected the authority of state and local law enforcement agencies to detain immigrants pursuant to federal detainers issued under the current Secure Communities program.” Indeed, a series of court decisions have ruled that the use of detainers violates Fourth Amendment and due process rights. For example, in Galarza v. Szalcyzk, a man was held under a detainer for three days after he posted bail despite having a driver’s license, a social security card, and informing police that he was born in New Jersey. The man was released only when ICE confirmed that he was an American citizen. He subsequently filed a civil rights suit against the United States, the City of Allentown, and Lehigh County challenging his unlawful detention. After positive rulings by the federal district court and the court of appeals, he settled for nearly $150,000 in damages. Other similar lawsuits have proven costly for the jurisdictions that have held people on detainers.
+
+Whereas localities have a range of policy options available to them to ensure that all individuals are treated equally regardless of their immigration status, a common thread that runs through sanctuary jurisdictions is their acknowledgement that detainers infringe on Fourth Amendment and due process rights. To be clear, such localities are not refusing to comply with the law. In fact, every single jurisdiction still shares fingerprint data upon arrest with the FBI, which in turn shares these data with the DHS for immigration status checks. Rather, in declining a detainer request, localities are choosing not to hold an individual beyond the point at which the person would otherwise be released from custody, which is generally the point at which the legal authority to continue detaining the individual is over.
+
+Definitions, data, and method
+
+The sanctuary jurisdictions analyzed here are defined as counties that ICE has identified as not willing to accept detainers. In the dataset, ICE codes 2,492 counties by their “Current Detainer/Notification Acceptance Status.” These counties account for 92.2 percent of the total U.S. population and 95.3 percent of the total foreign-born population in the United States. Of the 2,492 counties coded by ICE, 608 are defined by ICE as sanctuary jurisdictions.
+
+The analyses begin by comparing all sanctuary counties to all nonsanctuary counties in the ICE dataset across a range of social and economic indicators with an eye toward identifying statistically significant differences. The results are divided into six groups, following the National Center for Health Statistics’ urban-rural classification, running from large central metro counties to noncore, rural counties. Data on crime come from the most recent Federal Bureau of Investigation, or FBI, Uniform Crime Reporting, or UCR, Program. Data on economic indicators come from the recently released 2015 American Community Survey, or ACS, 5-year Estimates.
+
+Next, the report pushes further by using advanced statistical techniques to add rigor to the analyses. More specifically, coarsened exact matching, or CEM, is used to statistically match sanctuary counties to nonsanctuary counties. CEM is a method for improving causal inferences that estimates the sample average treatment effect on the treated, or SATT. In other words, CEM statistically matches sanctuary counties to comparable nonsanctuary counties; compares differences in outcomes between sanctuary counties and the matched nonsanctuary counties; allows us to evaluate these differences while controlling for differences in population, the foreign-born percentage of the population, and the percentage of the population that is Latino; and then uses the results of the analysis to estimate the effect that being a sanctuary county has on crime and the economy.
+
+
+
+Crime is lower in sanctuary counties compared to nonsanctuary counties
+
+Crime is statistically significantly lower in sanctuary counties compared to nonsanctuary counties. Crime is defined here as the total number of violent crimes—murders, rapes, robberies, and assaults—and property crimes—burglaries, larceny, motor vehicle thefts, and arsons—per 10,000 people. The data indicate that crime is statistically significantly lower in sanctuary counties in large central metro counties, small metro counties, micropolitan counties, and noncore, rural counties. Large central metro counties show the most pronounced difference. Large central metro sanctuary counties have 65.4 crimes fewer per 10,000 people than large central metro nonsanctuary counties.
+
+Perhaps more importantly, the results of the CEM analysis show that crime is statistically significantly lower in sanctuary counties compared to nonsanctuary counties when statistically matching and then controlling for population characteristics, including total population and the foreign-born percentage of the population. The results of the CEM analysis show that there are, on average, 35.5 fewer crimes per 10,000 people in sanctuary counties—a result that is highly statistically significant.
+
+Economies are stronger in sanctuary counties compared to nonsanctuary counties
+
+Median household income
+
+Median household income is statistically significantly higher in sanctuary counties compared to nonsanctuary counties. This holds true across the entire range of urban-rural classifications. The results of the CEM analysis show that median household income is, on average, $4,352.70 higher in sanctuary counties when statistically matching and then controlling for population characteristics. This result is highly statistically significant.
+
+Is this result driven by income gains among Latinos? Surprisingly, no. Unpacking the data shows that white median household income is statistically significantly higher in sanctuary counties compared to nonsanctuary counties. This also holds true across the entire range of urban-rural classifications. The results of the CEM analysis show that white median household income is on average $2,836.10 higher in sanctuary counties when statistically matching and then controlling for population characteristics, and this result is highly statistically significant. On the other hand, while Latino median household income is generally higher in sanctuary counties compared to nonsanctuary counties, these differences are not statistically significant. There is thus no evidence to suggest that income gains in sanctuary counties accrue to Latinos at the expense of whites. A closer look at the data also shows no evidence that income gains in sanctuary counties accrue to Latinos at the expense of African Americans, as median household income for African Americans is also generally higher in sanctuary counties compared to nonsanctuary counties.
+
+Poverty
+
+Consistent with higher median household income, the data also show that poverty is statistically significantly lower in sanctuary counties compared to nonsanctuary counties, and this generally holds true across the entire range of urban-rural classifications.
+
+Beginning with total poverty, the results of the CEM analysis show that the percentage of people who live at or below the federal poverty line is, on average, 2.3 percent lower in sanctuary counties when statistically matching and then controlling for population characteristics, and this result is highly statistically significant. Moreover, white poverty is, on average, 1.4 percent lower in sanctuary counties, and Latino poverty is, on average, 2.9 percent lower in sanctuary counties.
+
+Public assistance
+
+Relatedly, there is significantly less reliance on public assistance in sanctuary counties compared to nonsanctuary counties. Public benefits usage—whether it is the percentage of households that receive SNAP, formerly known as food stamps; the percentage of households that receive Supplemental Security Income, or SSI; or the percentage of children under 18 who live in households that receive public assistance—is statistically significantly lower in sanctuary counties compared to nonsanctuary counties. This generally holds true across the entire range of urban-rural classifications.
+
+Beginning with SNAP, the results of the CEM analysis show that the percentage of households that receive SNAP benefits is, on average, 2.6 percent lower in sanctuary counties when statistically matching and then controlling for population characteristics, and this result is highly statistically significant. The percentage of households that receive SSI is, on average, 0.9 percent lower in sanctuary counties, and the percentage of children younger than 18 in households that receive public assistance is, on average, 4.9 percent lower in sanctuary counties.
+
+Labor force participation
+
+One indicator of a strong local economy is labor force participation. The labor force participation rate is defined as the proportion of the population that is 16 years and older that is in the labor force, meaning working or are actively looking for a job.
+
+The labor force participation rate is statistically significantly higher in sanctuary counties compared to nonsanctuary counties. This generally holds true across the entire range of urban-rural classifications. The results of the CEM analysis show that the labor force participation rate is, on average, 2.5 percent higher in sanctuary counties when statistically matching and then controlling for population characteristics, and this result is highly statistically significant.
+
+Unpacking the data again shows that higher labor force participation rates are driven by whites. The results of the CEM analysis show that white labor force participation is, on average, 2.5 percent higher in sanctuary counties when statistically matching and then controlling for population characteristics, and this result is highly statistically significant.
+
+The results for Latino labor force participation are more nuanced. Higher Latino labor force participation is generally concentrated in smaller sanctuary counties compared to smaller nonsanctuary counties. For example, Latino labor force participation is 5.2 percent higher in noncore, rural sanctuary counties compared to noncore, rural nonsanctuary counties. However, Latino labor force participation is 2.7 percent lower in large central metro sanctuary counties compared to large central metro nonsanctuary counties. Given the differences in Latino labor force participation across small and large counties, the average effect obtained in the CEM analysis is that Latino labor force participation is 1.2 percent higher in sanctuary counties, but this result only borders on statistical significance.
+
+Employment-to-population ratio
+
+The employment-to-population ratio is another indicator of a strong local economy. The employment-to-population ratio is the number of people 16 years and older who are employed divided by the total number of people 16 years and older.
+
+The results when analyzing the employment-to-population ratio mirror the trends we see in the data when it comes to labor force participation. More specifically, the employment-to-population ratio is statistically significantly higher in sanctuary counties compared to nonsanctuary counties. This generally holds true across the entire range of urban-rural classifications. The results of the CEM analysis show that the employment-to-population ratio is, on average, 3.1 percent higher in sanctuary counties when statistically matching and then controlling for population characteristics, and this result is highly statistically significant.
+
+Unpacking the data again shows that higher employment-to-population ratios are driven by whites. The results of the CEM analysis show that the white employment-to-population ratio is, on average, 3.2 percent higher in sanctuary counties when statistically matching and then controlling for population characteristics, and this result is highly statistically significant. The results for the Latino employment-to-population ratio are generally statistically insignificant, meaning there are no measurable differences between sanctuary counties and nonsanctuary counties.
+
+Unemployment
+
+Unemployment —whether measured by total unemployment or white unemployment—is statistically significantly lower in sanctuary counties compared to nonsanctuary counties.
+
+Beginning with the total unemployment, the results of the CEM analysis show that the unemployment rate is, on average, 1.1 percent lower in sanctuary counties when statistically matching and then controlling for population characteristics, and this result is highly statistically significant. The white unemployment rate is, on average, 0.8 percent lower in sanctuary counties. The data indicate that the Latino unemployment rate is, on average, 1.0 percent higher in sanctuary counties, which again suggests that the economic gains to sanctuary counties do not accrue to Latinos at the expense of whites.
+
+Conclusion
+
+Crime is lower and economies are stronger in sanctuary counties compared to nonsanctuary counties. The data support arguments made by law enforcement executives that communities are safer when law enforcement agencies do not become entangled in federal immigration enforcement efforts. The data also make clear that, when counties protect all of their residents, they see significant economic gains. By keeping out of federal immigration enforcement, sanctuary counties are keeping families together—and when households remain intact and individuals can continue contributing, this strengthens local economies. These effects appear particularly pronounced in smaller counties, as removing one person from the economy of a small population has a larger effect than removing one person from the economy of a large population.
+
+This research represents one of the first systematic analyses comparing sanctuary counties to nonsanctuary counties across a range of social and economic indicators. Of course, further research will be needed to examine differences in outcomes within sanctuary jurisdictions across time, but for now, the findings described here paint a clear portrait: To the extent that localities become entangled in federal immigration enforcement efforts, they put in jeopardy the social and economic gains—from lower crime to a stronger local economy—that come with sanctuary policies.
+
+About the author
+
+Tom K. Wong is associate professor of political science at the University of California, San Diego. He is the author of The Politics of Immigration: Partisanship, Demographic Change, and American National Identity.
+
+NILC is exclusively dedicated to defending and advancing the rights and opportunities of low-income immigrants and their families. Our mission is grounded in the belief that every American—and aspiring American—should have the opportunity to fulfill their full potential regardless of where they were born or how much money they have. Using our deep expertise in a wide range of issues that affect low-income immigrants’ lives, we work with communities in courtrooms and legislatures to help advance policies that create a more just and equitable society for everyone.
+
+Acknowledgements
+
+The author thanks the Immigrant Legal Resource Center for providing the underlying FOIA data on sanctuary counties for this analysis. He also thanks Philip E. Wolgin and Tom Jawetz of the Center for American Progress, Melissa Keaney of the National Immigration Law Center, and Lena Graber of the Immigrant Legal Resource Center for their comments and advice. He also thanks Sebastian Navarro, Anjleena Sahni, and Kate Panian for their research assistance.
+
+
+
+Appendix of results
+
+Table 1 reports the results of the CEM analysis for all of the indicators described in this report.
+
+Table 2 reports the differences in crime rates between sanctuary counties and nonsanctuary counties when distinguishing between urban-rural classifications. As the table shows, the largest differences are in large central metro counties and noncore, rural counties. Large central metro sanctuary counties have 65.4 fewer crimes per 10,000 people than large central metro nonsanctuary counties (p = .038). Noncore, rural sanctuary counties have 59.4 fewer crimes per 10,000 people than noncore, rural nonsanctuary counties (p < .001).
+
+Table 3 reports the differences in median household income, white median household income, and Latino median household income between sanctuary counties and nonsanctuary counties when distinguishing between urban-rural classifications. As the table shows, median household income, white median household income, and Latino median household income is generally higher across the range of urban-rural classifications in sanctuary counties compared to nonsanctuary counties.
+
+Sanctuary counties in large central metros, large fringe metros, and medium metros tend to see higher median household income and higher white median household income.
+
+Sanctuary counties in small metros, micropolitan counties, and noncore, rural counties see higher median household income, white median household income, and Latino median household income.
+
+Table 4 reports the differences in poverty, white poverty, and Latino poverty between sanctuary counties and nonsanctuary counties when distinguishing between urban-rural classifications. As the table shows, poverty, white poverty, and Latino poverty is generally lower across the range of urban-rural classifications in sanctuary counties compared to nonsanctuary counties.
+
+Sanctuary counties in noncore, rural counties see the most significant differences in poverty, white poverty, and Latino poverty. Latino poverty is 5.7 percent lower (p < .001) in noncore, rural sanctuary counties compared to noncore, rural nonsanctuary counties, and white poverty is 3.2 percent lower (p < .001).
+
+Table 5 reports the differences in public benefits usage between sanctuary counties and nonsanctuary counties when distinguishing between urban-rural classifications. As the table shows, the percentage of households that receive SNAP benefits, formally known as food stamps; the percentage of households that receive SSI; and the percentage of children under 18 who live in households that receive public assistance are generally lower across the range of urban-rural classifications in sanctuary counties compared to nonsanctuary counties.
+
+Sanctuary counties in noncore, rural counties see the most significant differences in public benefits usage. The percentage of households that receive SNAP benefits is 4.9 percent lower (p < .001) in noncore, rural sanctuary counties compared to noncore, rural nonsanctuary counties. The percentage of households that receive SSI is 1.9 percent lower (p < .001), and the percentage of children under 18 who live in households that receive public assistance is a full 9.0 percent lower (p < .001).
+
+Table 6 reports the differences in labor force participation, white labor force participation, and Latino labor force participation between sanctuary counties and nonsanctuary counties when distinguishing between urban-rural classifications.
+
+Table 7 reports the differences in the employment-to-population ratio, the white employment-to-population ratio, and the Latino employment-to-population ratio between sanctuary counties and nonsanctuary counties when distinguishing between urban-rural classifications.
+
+Table 8 reports the differences in unemployment, white unemployment, and Latino unemployment between sanctuary counties and nonsanctuary counties when distinguishing between urban-rural classifications.

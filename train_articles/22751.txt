@@ -1,0 +1,10 @@
+State of Working America
+Union wage premium by demographic group, 2011 Percent
+
+union* Union premium** Demographic group Dollars Percent Total 13.0% $1.24 13.6% Men 13.5 2.21 17.3 Women 12.5 0.67 9.1 White 13.3% $0.76 10.9% Men 14.1 1.79 14.9 Women 12.5 0.18 7.0 Black 15.0% $2.60 17.3% Men 15.8 3.05 20.3 Women 14.4 2.25 14.8 Hispanic 10.8% $3.44 23.1% Men 10.8 4.77 29.3 Women 10.7 2.06 15.7 Asian 11.1% $1.54 14.7% Men 9.9 1.53 16.6 Women 12.4 1.61 12.9 New immigrants (less than 10 years) Men 5.4% $0.49 16.0% Women 7.0 2.74 16.2 Other immigrants (more than 10 years) Men 10.4% $2.13 16.7% Women 12.7 0.57 8.8 * Union member or covered by a collective bargaining agreement ** Regression-adjusted hourly wage advantage of being in a union, controlling for experience, education, region, industry, occupation, race/ethnicity, and marital status Source: Authors' analysis of Current Population Survey Outgoing Rotation Group microdata
+
+Updated May 17, 2012
+
+Documentation and methodology
+
+“Percent union” is tabulated from CPS-ORG data (see Appendix B) and includes all those covered by unions. “Union premium” values are the coefficients on union in a model of log hourly wages with controls for education, experience as a quartic, marital status, region, industry (12) and occupation (9), race/ethnicity, and gender where appropriate. For this analysis we only use observations that do not have imputed wages because the imputation process does not take union status into account and therefore biases the union premium toward zero. See Mishel and Walters (2003). As with other CPS microdata analyses presented in the book, race/ethnicity categories are mutually exclusive (i.e., white non-Hispanic, black non-Hispanic, and Hispanic any race).

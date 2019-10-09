@@ -1,0 +1,134 @@
+Association of State Recreational Marijuana Laws With Adolescent Marijuana Use
+Key Points
+
+Question How did the prevalence of adolescent marijuana use change in Washington and Colorado following legalization of recreational marijuana use?
+
+Findings In this difference-in-difference analysis of 253 902 adolescents in 47 states, marijuana use among eighth and 10th graders in Washington increased 2.0% and 4.1%, respectively, between 2010-2012 and 2013-2015; these trends were significantly different from trends in states that did not legalize marijuana. In Colorado, the prevalence of marijuana use prelegalization and postlegalization did not differ.
+
+Meaning A cautious interpretation of the findings suggests investment in adolescent substance use prevention programs in additional states that may legalize recreational marijuana use.
+
+Abstract
+
+Importance Historical shifts are occurring in marijuana policy. The effect of legalizing marijuana for recreational use on rates of adolescent marijuana use is a topic of considerable debate.
+
+Objective To examine the association between the legalization of recreational marijuana use in Washington and Colorado in 2012 and the subsequent perceived harmfulness and use of marijuana by adolescents.
+
+Design, Setting, and Participants We used data of 253 902 students in eighth, 10th, and 12th grades from 2010 to 2015 from Monitoring the Future, a national, annual, cross-sectional survey of students in secondary schools in the contiguous United States. Difference-in-difference estimates compared changes in perceived harmfulness of marijuana use and in past-month marijuana use in Washington and Colorado prior to recreational marijuana legalization (2010-2012) with postlegalization (2013-2015) vs the contemporaneous trends in other states that did not legalize recreational marijuana use in this period.
+
+Main Outcomes and Measures Perceived harmfulness of marijuana use (great or moderate risk to health from smoking marijuana occasionally) and marijuana use (past 30 days).
+
+Results Of the 253 902 participants, 120 590 of 245 065(49.2%) were male, and the mean (SD) age was 15.6 (1.7) years. In Washington, perceived harmfulness declined 14.2% and 16.1% among eighth and 10th graders, respectively, while marijuana use increased 2.0% and 4.1% from 2010-2012 to 2013-2015. In contrast, among states that did not legalize recreational marijuana use, perceived harmfulness decreased by 4.9% and 7.2% among eighth and 10th graders, respectively, and marijuana use decreased by 1.3% and 0.9% over the same period. Difference-in-difference estimates comparing Washington vs states that did not legalize recreational drug use indicated that these differences were significant for perceived harmfulness (eighth graders: % [SD], −9.3 [3.5]; P = .01; 10th graders: % [SD], −9.0 [3.8]; P = .02) and marijuana use (eighth graders: % [SD], 5.0 [1.9]; P = .03; 10th graders: % [SD], 3.2 [1.5]; P = .007). No significant differences were found in perceived harmfulness or marijuana use among 12th graders in Washington or for any of the 3 grades in Colorado.
+
+Conclusions and Relevance Among eighth and 10th graders in Washington, perceived harmfulness of marijuana use decreased and marijuana use increased following legalization of recreational marijuana use. In contrast, Colorado did not exhibit any differential change in perceived harmfulness or past-month adolescent marijuana use following legalization. A cautious interpretation of the findings suggests investment in evidence-based adolescent substance use prevention programs in any additional states that may legalize recreational marijuana use.
+
+Introduction
+
+Historical shifts are occurring in attitudes toward marijuana and in state marijuana policy in the United States. The proportion of adolescents who perceive great risk of harm in using marijuana once or twice a week has decreased from 55% in 2007 to 44% in 2012,1 and 58% of adults now support legalization of recreational marijuana.2Quiz Ref ID Since 1996, 28 states and Washington, DC, have passed legislation permitting the use of marijuana for medical purposes.3Quiz Ref ID In 2012, Colorado and Washington became the first 2 states to legalize the recreational use of marijuana for adults. Alaska, Oregon, and Washington, DC, followed suit in 2014, and California, Maine, Massachusetts, and Nevada approved the legalization of recreational adult use in the November 2016 ballots.4 The potential effect of legalization for recreational use on rates of marijuana use in the United States is a topic of considerable debate.5-9
+
+While legalization for recreational purposes is currently limited to adults, potential effects on adolescent marijuana use are of particular concern. Some adolescents who try marijuana will go on to long-term use, with an accompanying range of adverse outcomes.10-16 However, the effect of legalizing marijuana for adult recreational use on adolescents is unknown. Studies of the association between medical marijuana legislation (MML) and adolescent marijuana use indicate that while states that passed MML have higher rates of adolescent marijuana use, rates were already higher in these states before passage of the laws and that rates did not increase after the laws were passed.17-19 However, studies of MML cannot be generalized to laws on recreational use, which may have much broader effects17 through such factors as pricing,6 advertising, availability, and/or implicit messages to teens that marijuana use is acceptable or nonrisky.20,21 Therefore, understanding the effect of legalization for recreational purposes on adolescent marijuana use is of critical importance.
+
+In this study, we examine the association between legalization of recreational marijuana use for adults (ie, persons 18 years or older) in Washington and Colorado and the change in perceived harmfulness of marijuana use and in self-reported adolescent marijuana use before and after legalization. Both states passed laws legalizing recreational marijuana use on November 6, 2012. At the time of enactment, possession for personal use was legalized in both states, and cultivation for personal use was also legalized in Colorado. Stores that sold marijuana opened in 2014 (in January in Colorado and July in Washington), and the first grower licenses in Washington were issued in March 2014.
+
+We tested whether adolescents in Washington and Colorado were less likely to perceive marijuana as harmful and more likely to use marijuana in the 3 years following legalization (2013-2015) compared with the 3 years prior to legalization (2010-2012) and compared these findings with trends in states that did not legalize recreational marijuana use. While full implementation of the law did not occur until 2014, enactment of the law could in itself have an effect on marijuana use by increasing advertising of the product, changing perceptions of the harmfulness of marijuana, and legalizing possession.
+
+Methods
+
+Setting, Participants, Procedures
+
+The Monitoring the Future (MTF) study annually conducts national cross-sectional surveys of eighth, 10th, and 12th graders.22,23 Data are collected in approximately 400 schools in the spring in the contiguous United States via self-administered questionnaires. We analyzed data collected from 2010 to 2015, approximately 3 years before and 3 years after legalization of recreational marijuana use in Colorado and Washington. The comparison group included 45 states that had not legalized recreational marijuana use in this period. Oregon and Washington, DC, were excluded from our analysis because they legalized recreational marijuana use in 2014; Alaska was already excluded from the MTF study, as it is not a contiguous state.
+
+The study uses a multistage random sampling design. Stages include US geographic area, schools within regions of the country (with probability proportionate to school size), and students within schools. Up to 350 students per grade per school are included, with random selection of classrooms within schools. Schools participate for 2 consecutive years. Nonparticipating schools are replaced with others closely matched on geographic location, size, and urbanicity. Student response for the MTF study is 81% to 91% for all years and grades, with almost all nonresponse due to absenteeism and less than 1% refusals. Of all selection sample units, 92% to 99% obtained 1 or more participating schools in all study years; the lack of a time trend in school participation rates24 suggests that school nonresponse does not affect results. Across the 6 years (2010-2015), 253 902 students provided data on marijuana use (89 316 eighth graders, 85 110 tenth graders, and 79 476 twelfth graders). In Colorado, 2982 students in 17 schools (28 school surveys, because some schools were surveyed in more than 1 year) provided data on marijuana use between 2010 and 2015, and in Washington, 5509 students in 30 schools (47 school surveys) provided data.
+
+Consistency in measures and data collection procedures was strictly maintained across years and grade levels. Students completed questionnaires in classrooms unless larger group administrations were required. The MTF study representatives distributed and collected questionnaires using standardized procedures, including instructions to teachers to avoid proximity to students to maintain confidentiality.
+
+The study was approved by the institutional review boards at the University of Michigan and Columbia University. Letters were sent in advance to parents to inform them about the study and to explain that participation was voluntary and responses were anonymous (for eighth and 10th graders) or confidential (for 12th graders). The letters also provided parents with a means to decline their child's participation if necessary.
+
+Measures
+
+Outcomes
+
+Quiz Ref IDThe primary outcome was an individual-level binary variable: any marijuana use within the prior 30 days.17,25 We also conducted a sensitivity analysis using a measure of marijuana use frequency (ie, no use, 1-2 occasions, or 3 or more occasions in the past 30 days). Self-administered forms and data collection procedures are designed to maximize validity of substance use reporting. Validity of MTF substance reports is supported by low question nonresponse, high proportions consistently reporting illicit drug use, and strong construct validity.23
+
+Perceived harmfulness of marijuana use was the second outcome of interest. Respondents were asked, “How much do you think people risk harming themselves (physically or in other ways), if they smoke marijuana occasionally?” Response options included “no risk,” “slight risk,” “moderate risk,” “great risk,” and “can’t say, drug unfamiliar.” We compared those who perceived “no risk” or “slight risk” with those who perceived “great risk” or “moderate risk” (“can’t say” was considered missing).
+
+Main Exposure
+
+The primary exposure was the state-level recreational marijuana laws (RML). The variable was used to compare changes in perceived harmfulness and marijuana use in adolescents living in states that passed RML (Colorado and Washington each separately) with contemporaneous changes in the other 45 contiguous states that had not passed RML. Because RML was enacted in Colorado and Washington in November 2012, 2010 to 2012 were considered pre-RML, while 2013 to 2015 were considered post-RML years. Sensitivity analyses compared changes in Colorado and Washington with the 20 other contiguous states (besides Colorado and Washington and excluding Oregon) that ever passed MML.
+
+School-Level and State-Level Covariates
+
+School-level control variables included the number of students per grade within the school (1-99, 100-199, 200-299, 300-399, 400-499, 500-699, and 700 or more), public vs private school, and urban/suburban (ie, schools located within a Metropolitan Statistical Area26) vs rural. State-level control variables included the proportion of the population in each state that was male, white, age 10 to 24 years, and 25 years or older without a high school education. Census values from 2010 were used for years of the study period.
+
+Individual Covariates
+
+Individual covariates included self-reported age, sex, race/ethnicity (self-defined as white, black, Hispanic, Asian, multiple, or other), and socioeconomic status, defined by highest parental education (high school not completed, high school graduate/equivalent, some college, 4-year college degree, or higher).
+
+Statistical Analysis
+
+Difference-in-difference estimates and associated tests were conducted by comparing the change in past-month marijuana use and in perceived harmfulness of marijuana use from 3 years prior to RML (2010-2012) with the 3 years after RML (2013-2015) in Washington and Colorado (included as separate categories in the same model) vs contemporaneous changes in the 45 contiguous states that did not pass RML. Adjusted prevalence estimates of marijuana use and of perceived harmfulness of use, 95% CIs, and tests of difference-in-difference contrasts were obtained from logistic regression models, including a dichotomous time indicator (2010-2012 vs 2013-2015), a 3-category RML exposure indicator (Colorado vs Washington vs non-RML as separate categories), the interaction of time and the 3-category RML exposure indicator, and all individual-, school-, and state-level covariates. Logistic regression models were estimated using generalized estimating equations controlling for clustering of individuals within schools with robust standard error estimation. The predicted marginal approach was used to test risk differences between pre-RML and post-RML within Colorado and within Washington and then to test difference-in-difference between these differences in Colorado and in Washington vs contemporaneous differences in other non-RML states.27
+
+SUDAAN version 11.0 (RTI International) with PREDMARG and PRED_EFF commands within RLOGIT was used for all analyses, and the exact code is provided in the eAppendix in the Supplement. Because sampling was conducted separately by grade, regression models were fit stratified by grade to provide grade-specific effects of RML.
+
+Three sensitivity analyses were also conducted. First, we examined frequency (ie, number of occasions) of marijuana use in the past 30 days instead of any use vs none. Second, we repeated regressions for marijuana use, limiting other states to only include those that passed MML. Finally, we used a test of trend in the 12 years prior to RML to validate the parallel-path assumption28 for difference-in-difference estimators, ie, that trends were not already differentially increasing in Colorado and Washington prior to passage of the law.
+
+Results
+
+Table 1 presents characteristics of the study respondents, the schools they attended, and the states they resided in during the pre-RML and post-RML periods examined.
+
+Table 2 and Figure 1 present the adjusted prevalence of perceived harmfulness of marijuana use in 2010 to 2012 and 2013 to 2015 in Colorado, Washington, and non-RML states by grade. In Washington, perceived harmfulness declined by 14.2% and 16.1% among eighth and 10th graders, respectively, in this period. In contrast, among states that did not legalize recreational marijuana use, perceived harmfulness decreased by 4.9% and 7.2% among eighth and 10th graders, respectively, over the same period. These differences in trends between Washington and non-RML states were significant (eighth graders: % [SD], −9.3 [3.5]; P = .01; 10th graders: % [SD], −9.0 [3.8]; P = .02). No difference was found among 12th graders in Washington or among students in any grade in Colorado compared with non-RML states.
+
+Table 3 and Figure 2 present the adjusted prevalence of past-month marijuana use in 2010 to 2012 and 2013 to 2015 in Colorado, Washington, and non-RML states. In Washington, marijuana use among eighth and 10th graders increased by 2.0% and 4.1%, respectively, during this time. In contrast, marijuana use prevalence among eighth and 10th graders in states with no RML decreased by 1.3% and 0.9%, respectively, over the same period. While the increase in marijuana use among eighth graders in Washington was not significantly greater than zero, the significant decrease in use among eighth graders in non-RML states suggests that if there had been no legalization in Washington, then marijuana use among eighth graders in this state would decrease rather than remain stable, as it did. Difference-in-difference tests indicated that these differences between Washington and non-RML state trends were significant (eighth graders: % [SD], 5.0 [1.9]; P = .03; 10th graders: % [SD], 3.2 [1.5]; P = .007). The change in marijuana use was concentrated among nonusers (whose prevalence decreased) and regular (ie, 3 or more times in the past 30 days) users (whose prevalence increased) (eTable 1 in the Supplement).
+
+No difference was found in the prevalence of marijuana use among 12th graders in Washington or in Colorado in any grade. Results were nearly identical when the reference states were recoded as the other 20 MML states (eTable 2 in the Supplement). No significant increasing trend in marijuana use was found from 2001 to 2012 in Colorado or Washington compared with other states (eTable 3 in the Supplement).
+
+Discussion
+
+We assessed whether the perceived harmfulness of marijuana use and prevalence of marijuana use changed in adolescents in Colorado and Washington after legalization of adult recreational marijuana use in 2012 in comparison with other states that did not pass such legislation. Quiz Ref IDWithin Washington, the rate of perceived harmfulness of marijuana use decreased and the rate of past-month use increased among eighth and 10th graders following passage of RML, while there was no significant change among 12th graders. Specifically, the prevalence of regular users of marijuana increased and the prevalence of nonusers decreased; no change was observed among occasional users. In contrast, Colorado did not exhibit any change in perceived harmfulness or past-month adolescent marijuana use following RML enactment. These findings remained when the comparison states were limited to the 20 states that have passed MML, indicating that the effects we found are specific to legislation permitting recreational use.
+
+To our knowledge, this is the first national empirical test of a change in adolescent perceived harmfulness of marijuana and marijuana use associated with RML enactment. The only other study that addressed these issues compared marijuana use among 2 different cohorts of eighth graders in Tacoma, Washington: one surveyed before RML and the other immediately following RML.29 That study found higher marijuana use in the second cohort, although the difference was not significant.29 The lack of a comparison group limited inference about whether these findings were related to RML.
+
+The post-RML increase in adolescent marijuana use in Washington could have several explanations. First, our findings suggest that legalization of recreational marijuana use in 2012 reduced stigma and perceptions of risk associated with marijuana use.20,21 A shift in social norms regarding marijuana use may have, in turn, increased marijuana use among adolescents in Washington. Second, legalization may have increased availability, increasing adolescent access to marijuana indirectly through third-party purchases. Third, legalization could have decreased the price of marijuana in the black market,6,30 particularly after the first grower licenses in Washington were issued in March 2014 and the first stores opened in July 2014. The latter 2 mechanisms are less likely explanations for the change in marijuana use observed in this study, as grower licenses and stores did not start until 2014 and our study ended in 2015. Fourth, the increase in marijuana use observed in Washington could be due to other changes occurring at the same time as RML rather than to RML itself. For example, each school participates in the MTF for only 2 consecutive years, suggesting that changes in marijuana use might be partly because of school variation over the years. However, we controlled for school characteristics and census-based state-level demographic characteristics, and our use of pre-post difference-in-difference tests provides the basis for appropriate conclusions about changes in marijuana use, assuming that trends in non-RML states reflect what would have happened in Colorado and Washington if they had not passed RML. Future studies should examine the effects of specific implementation procedures and other possible mechanisms as explanations for the observed increase in Washington after additional post-RML years in Washington accumulate.31
+
+The post-RML change in perceived harmfulness and marijuana use in Washington was focused among eighth and 10th graders. The lack of change in perceived harmfulness among 12th graders suggests that one potential explanation for the lack of change in marijuana use observed among 12th graders is that they already had formed attitudes and beliefs related to marijuana use prior to the enactment of RML. Hence, their marijuana use was less likely to change following RML. The reasons behind an age-specific effect of RML on perceived harmfulness and marijuana use should be further investigated in future research.
+
+We found no comparable change in perceived harmfulness or marijuana use in Colorado. This difference may be related to the different degree of commercialization of marijuana prior to legalization in Washington and Colorado. Colorado had a very developed medical marijuana dispensary system prior to legalization, with substantial advertising, to which youth were already exposed.32 Washington, on the other hand, did not provide legal protection to medical marijuana stores. Therefore, the degree of commercialization and advertising of these collectives was substantially lower than in Colorado. In addition, rates of perceived harmfulness in Colorado were already lower and rates of marijuana use were already higher than rates in Washington and non-RML states prior to legalization. Preexisting low levels of perceived harmfulness and high levels of use may have constrained further short-term increases following RML enactment. The longer-term effect of RML implementation on adolescent marijuana use in Colorado is still to be determined. Further, approximately half as many schools were included in the Colorado sample (17 schools) compared with the Washington sample (30 schools), which may have limited power to detect an effect in Colorado, particularly if the schools were located far away from marijuana dispensaries.
+
+Limitations
+
+Quiz Ref IDOur study has several limitations. First, marijuana use was self-reported, leading to potential response bias associated with the legalization of marijuana. However, the data collection method has been validated in previous methodological studies, and the assessment was conducted in confidential settings. Second, MTF selects schools within regions of the country (with probability proportional to school size) rather than within states. In the present study, students in 17 schools (28 school surveys) in Colorado and 30 schools (47 school surveys) in Washington provided data across the 6 years. A greater number of schools would have been advantageous, and the sample design may lead to discrepancies between MTF results and those found in other large-scale surveillance efforts. Third, the study does not include adolescents who were absent from school or who have dropped out of school; these adolescents likely represent a higher-risk subset of adolescents.23 Inferences are thus restricted to school-attending adolescents, who comprise the large majority of the US adolescent population. Fourth, analyses are specific to the states of Washington and Colorado and cannot be generalized to the rest of the United States. Fifth, this study focused on marijuana; future studies should examine the effect of RML on other types of substance use.
+
+Conclusions
+
+Our study showed a significant decrease in the perceived harm associated with marijuana use and an increase in past-month marijuana use following enactment of RML among students in eighth and tenth grades in Washington but not in Colorado. Although further data will be needed to definitively address the question of whether legalizing marijuana use for recreational purposes among adults influences adolescent use, and although these influences may differ across different legalization models, a cautious interpretation of the findings suggests investment in evidence-based adolescent substance use prevention programs33-38 in any additional states that may legalize recreational marijuana use.
+
+Back to top Article Information
+
+Corresponding Author: Magdalena Cerdá, DrPH, MPH, Department of Emergency Medicine, University of California Davis School of Medicine, 2315 Stockton Blvd, Sacramento, CA 95817 (cerda@ucdavis.edu).
+
+Accepted for Publication: September 21, 2016.
+
+Published Online: December 27, 2016. doi:10.1001/jamapediatrics.2016.3624
+
+Author Contributions: Dr Wall and Ms Feng had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Cerdá, Wall, Schulenberg, O’Malley, Pacula, Galea, Hasin.
+
+Acquisition, analysis, or interpretation of data: Cerdá, Wall, Feng, Keyes, Sarvet, Schulenberg, O’Malley, Pacula.
+
+Drafting of the manuscript: Cerdá, Wall.
+
+Critical revision of the manuscript for important intellectual content: All authors.
+
+Statistical analysis: Wall, Feng, Keyes, Sarvet, Pacula.
+
+Obtained funding: Schulenberg, O’Malley, Hasin.
+
+Administrative, technical, or material support: Schulenberg, Pacula, Galea.
+
+Study supervision: Cerdá, Schulenberg, Galea, Hasin.
+
+Conflict of Interest Disclosures: None reported.
+
+Funding/Support: The design, conduct, data collection, and management of the Monitoring The Future study was sponsored by the National Institute on Drug Abuse and the US National Institutes of Health and carried out by the Institute for Social Research at the University of Michigan, funded by grant R01DA001411. The analysis, interpretation of the data; and preparation, review, and approval of the manuscript was funded by grant R01DA034244 from the National Institute on Drug Abuse. Additional support is acknowledged from grants K01DA030449 and R01DA040924 from the National Institute on Drug Abuse (Dr Cerdá), grant K01AA021511 from the National Institute on Alcohol Abuse and Alcoholism (Dr Keyes), and the New York State Psychiatric Institute (Drs Hasin and Wall).
+
+Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study.

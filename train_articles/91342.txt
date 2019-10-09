@@ -1,0 +1,36 @@
+There's No One Correct Way To Rate Schools
+Education Week reports on the growth of websites that attempt to provide parents with help in choosing schools, including rating schools according to testing results. The most prominent of these sites is GreatSchools.org. Its test-based school ratings could not be more simplistic – they are essentially just percentile rankings of schools’ proficiency rates as compared to all other schools in their states (the site also provides warnings about the data, along with a bunch of non-testing information).
+
+This is the kind of indicator that I have criticized when reviewing states’ school/district “grading systems." And it is indeed a poor measure, albeit one that is widely available and easy to understand. But it’s worth quickly discussing the fact that such criticism is conditional on how the ratings are employed - there is a difference between the use of testing data to rate schools for parents versus for high-stakes accountability purposes.
+
+In other words, the utility and proper interpretation of data vary by context, and there's no one "correct way" to rate schools. The optimal design might differ depending on the purpose for which the ratings will be used. In fact, the reasons why a measure is problematic in one context might very well be a source of strength in another.
+
+Just to give a quick, super-simple review of the measurement issues here, proficiency rates are an example of absolute performance measures. They tell you how highly students score, not whether they’re making progress.*
+
+They can be contrasted with growth-oriented measures, which, when done correctly (often not the case), can provide some sense of whether schools and districts are generating improvement in scores among their students, given the resources available to them. By this standard, even schools with relatively low average scores can be considered effective, if their students improve quickly relative to similar students in similar schools.
+
+The primary issue with the former type of measures – absolute performance – is, put simply, that children from more affluent backgrounds enter the schooling system far ahead of their less advantaged peers. To the degree school/district rankings incorporate absolute performance measures, they will ensure that lower-income schools receive lower ratings, regardless of how effective they may be in raising test scores.
+
+In the context of a high-stakes accountability system – e.g., a school/district rating system with severe consequences for poor grades – this might be a big problem. It represents the conflation of student and school performance, which means that you will be punishing schools – sometimes severely, as in closure – based on ratings that may be largely a function of factors, such as students' backgrounds, that are out of their control.
+
+This is the exact opposite of what an accountability system is supposed to do.
+
+When parents use ratings, on the other hand, they have a broader goal – to assess whether schools are places in which their children will thrive.
+
+Needless to say, school performance per se is still important to parents making this assessment - to whatever degree they rely on testing results to choose and assess schools for their children, growth-oriented measures are extremely relevant, for the same reasons they are relevant in state accountability systems – unlike absolute performance measures, they give some sense of the quality of instruction at the school.
+
+But the absolute performance measures, in the parental use context, may be more useful, precisely because they pick up on student characteristics. Consider, for example, peer effects. In general, higher scores are indicative of schools that serve higher-performing students (at least to the degree that tests can measure this).
+
+And, while this body of work is far from conclusive and effects seem to vary by context (see here and here), there is some evidence that peer effects can influence student performance, all else being equal. You might therefore say that it is quite rational for parents to choose schools based in part on absolute performance, since doing so increases the odds that their children will spend their days with higher-achieving peers.
+
+In contrast, within the context of a high-stakes state accountability system, peer effects and the other, mostly non-school factors captured by absolute performance measures should be, to the degree possible, "purged" from the ratings, since they’re not really things that schools can control, and for which they thus should not be held accountable.**
+
+So, the point here is hardly original, but worth keeping in mind: The usefulness of school/student performance measures, like that of most quantitative indicators, varies by context. Although proper interpretation is always critical, as is how one uses the information, a well-designed system of school ratings for parents' use might be quite different from one intended for high-stakes accountability.
+
+- Matt Di Carlo
+
+*****
+
+* Using the rates themselves, rather than actual scale scores, entails serious problems, as does the method of rank ordering schools within a state. It’s almost certainly the case that GreatSchools chose to use the rates because they are widely available in continually-updated public databases. There are many ways it could have used these data to produce more valid (though still limited) ratings – for example, by estimating simple models that control for student characteristics. But, this might be too labor-intensive, and/or a bit complicated for a website that is trying to be useful for parents.
+
+** It bears quickly making three points here. First, even using the best analytical methods and regardless of the type of measure, it’s often very difficult to account fully for peer effects. Second, there may be ways in which schools can exploit peer effects - e.g., by optimizing classroom assignment - but such a capacity would not be captured by an absolute performance measure. Third and finally, many parents may use the state ratings to choose and assess schools. In this case, while I would still take issue with the particulars of most states’ formulas, the ratings would be more defensible than they are when used for high-stakes policy decisions. In addition, for parental use, the state ratings systems are far preferable to those on sites like GreatSchools, since the former do incorporate growth measures.

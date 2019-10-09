@@ -1,0 +1,38 @@
+SOI Tax Stats County Data 2016
+Return to Tax Stats home page
+
+County Data - 2016
+
+Data files are available for download in Comma Separated Values files (.csv file extension) - Data items are separated by commas, where each new line represents a new row, and by Excel files by State (.xls file extension).
+
+Documentation
+
+County Income Data Users Guide and Record Layouts (Word document)
+
+County Data
+
+.csv Files
+
+2016 (all States, includes AGI) 2016 (all States, does not include AGI)
+
+Gross County File
+
+2016
+
+Zip File (contains the Documentation, the .csv files, and all State files in Excel format)
+
+2016
+
+County Data by Individual State
+
+Data by Metropolitan and Micropolitan Statistical Areas
+
+Metropolitan and Micropolitan (metro and micro) statistical area data show selected income and tax items, based on SOI’s county data, classified by metro and micro areas and size of adjusted gross income. Metro and micro areas, otherwise known as Core Based Statistical Areas (CBSA), are geographic entities delineated by the Office of Management and Budget (OMB) for use by Federal statistical agencies. A metro area contains a core urban population of 50,000 or more, and a micro area contains an urban core population of at least 10,000 (but less than 50,000). Metro and micro areas may consist of one or more counties based on a region’s core urban area, or one or more counties that have a high degree of social and economic interactions, such as commuting patterns, wholesaling, commodity distribution, and recreational activities.
+
+Metro and micro area data are only available for download as a Comma Separated Values file (.csv file extension)—Data items are separated by commas, where each new line represents a new row. Details on the selected income and tax items can be found in the County Income Data Users Guide and Record Layout.
+
+2016
+
+Return to County Data
+
+Return to Tax Stats home page

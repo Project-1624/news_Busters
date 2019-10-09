@@ -1,0 +1,32 @@
+United States Elections Project
+2014G 2014 November General Election Turnout Rates Last updated: 9/5/2018
+
+
+
+
+
+2014 VEP Turnout Rates VEP) represents an estimate of persons eligible to vote regardless of voter registration status in an election and is constructed by modifying the voting-age population (VAP), by components reported in the right-most columns (scroll right in the spreadsheet).
+
+
+
+The preferred turnout rates are those calculated with the voting-eligible population as the denominator. The voting-eligible population () represents an estimate of persons eligible to vote regardless of voter registration status in an election and is constructed by modifying the voting-age population (), by components reported in the right-most columns (scroll right in the spreadsheet). The preferred turnout rate numerator is the Total Ballots Counted, which is all ballots election officials counted. Not all jurisdictions report total ballots counted, so a second-best numerator is Highest Office, which in a presidential election year is the total votes for all presidential candidates including write-ins (where reported), and in a non-presidential election may be the vote for the highest turnout statewide office (typically governor) or if no statewide election was held, the sum of the congressional elections. Total ballots counted includes blank and otherwise invalid votes for the highest office. Some states may report a statistic they call total ballots cast, but is actually vote for highest office.
+
+
+
+Questions? Please see the
+
+
+
+
+
+Direct link to spreadsheet
+
+2014 November General Election
+
+Notes:
+
+
+
+The denominator reflects the The denominator reflects the July 1, 2014 and July 1, 2015 voting-age population estimates (Vintage 2017) interpolated to Nov. 1 2014, non-citizen estimates from the 2016 5-year American Community Survey ; the year-end 2014 DOJ prison report ; and the year-end 2014 DOJ probation and parole report . The number of felons who are on probation is estimated to be 56% of the total, which based on a DOJ survey; the total probation population is reported in the spreadsheet, and this adjustment is applied to the number of ineligible felons on probation, parole or in prison. Starting in 2010, the citizen prison population is reported. A '0' indicates that either a state does not disfranchise a class of felons or the state does not incarcerate felons within their borders (this is true for DC). See The Sentencing Project for more information. The overseas eligible population estimate is calculated from 2013 overseas civilian estimate from the State Department -- which reports 7.6 million overseas citizens in FY 2013 and is deflated by 70.3%, the percentage of the domestic citizen population that is of voting age according to the 2013 American Community Survey. This estimate includes military personnel. Washington: The ballot line with the highest vote was Measure 594, requiring firearm background checks, with 2,096,724 votes. The sum of the congressional elections are reported in the table as vote for highest office.
+
+The preferred turnout rate numerator is the, which is all ballots election officials counted. Not all jurisdictions report total ballots counted, so a second-best numerator is, which in a presidential election year is the total votes for all presidential candidates including write-ins (where reported), and in a non-presidential election may be the vote for the highest turnout statewide office (typically governor) or if no statewide election was held, the sum of the congressional elections. Total ballots counted includes blank and otherwise invalid votes for the highest office. Some states may report a statistic they call total ballots cast, but is actually vote for highest office.Questions? Please see the FAQ

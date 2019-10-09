@@ -1,0 +1,208 @@
+How EPA Regulates Drinking Water Contaminants
+On this page:
+
+How does EPA decide which contaminants to regulate?
+
+EPA has drinking water regulations for more than 90 contaminants. The Safe Drinking Water Act (SDWA) includes a process that EPA must follow to identify and list unregulated contaminants. This process may lead to development of a national primary drinking water regulation (NPDWR) in the future.
+
+EPA must periodically publish this list of contaminants (called the Contaminant Candidate List or CCL) and decide whether to regulate at least five or more contaminants on the list (called regulatory determination). A regulatory determination is a formal decision on whether EPA should initiate a rulemaking process to develop an NPDWR for a specific contaminant.
+
+EPA also uses the CCL to prioritize research and data collection efforts to help the Agency determine whether it should regulate a specific contaminant.
+
+Top of Page
+
+How does EPA make a regulatory determination?
+
+SDWA requires EPA to consider three criteria when making a determination to regulate:
+
+The contaminant may have an adverse effect on the health of persons
+
+The contaminant is known to occur or there is a high chance that the contaminant will occur in public water systems often enough and at levels of public health concern
+
+In the sole judgment of the Administrator, regulation of the contaminant presents a meaningful opportunity for health risk reductions for persons served by public water systems
+
+When making a determination, EPA first publishes a preliminary regulatory determination in the Federal Register (FR) and provides an opportunity for public comment. After review and consideration of public comment, EPA publishes a final FR notice with the regulatory determination decisions.
+
+If EPA makes a decision to regulate a particular contaminant, the Agency starts the rulemaking process to establish the NPDWR. On the other hand, the Agency may decide not to regulate a particular contaminant based on the three criteria above.
+
+If EPA decides not to regulate a contaminant, then the Agency may decide to develop a health advisory. A health advisory is a non-enforceable federal limit. It serves as technical guidance for federal, state, and local officials.
+
+For more information on regulatory determinations, see:
+
+Top of Page
+
+Do regulatory determinations impose any requirements on public water systems?
+
+No. EPA’s determinations of whether or not an NPDWR should be considered for a contaminant require no actions by public water systems.
+
+Once the Agency establishes the NPDWR for a contaminant, public water systems have to comply with the regulation.
+
+Top of Page
+
+What are drinking water standards?
+
+Drinking water standards are regulations that EPA sets to control the level of contaminants in the nation's drinking water. The regulations also require water monitoring schedules and methods to measure contaminants in water.
+
+The standards are part of SDWA's "multiple barrier" approach to drinking water protection, which includes:
+
+Assessing and protecting drinking water sources
+
+Protecting wells and collection systems
+
+Making sure water is treated by qualified operators
+
+Ensuring the integrity of distribution systems (for example, minimizing leaks, maintaining adequate water pressure)
+
+Making information available to the public on the quality of their drinking water
+
+There are two categories of drinking water standards:
+
+National primary drinking water regulations (NPDWR or primary standard): Legally-enforceable standards that apply to public water systems Protect drinking water quality by limiting the levels of specific contaminants that can adversely affect public health and are known or anticipated to occur in water from public water systems Take the form of maximum contaminant level or treatment technique rules
+
+National secondary drinking water regulations (NSDWR or secondary standard): Non-enforceable guidelines for contaminants that may cause: cosmetic effects (such as skin or tooth discoloration) aesthetic effects (such as taste, odor, or color) in drinking water
+
+
+
+EPA recommends secondary standards to water systems but does not require systems to comply (except for the public notice required for exceedance of the fluoride secondary standard). However, states may choose to adopt them as enforceable standards.
+
+Read more about existing National Primary and Secondary Drinking Water Regulations
+
+Top of Page
+
+Once EPA decides to regulate a contaminant, how does the Agency develop a regulation?
+
+After reviewing health effects data, EPA sets a maximum contaminant level goal (MCLG). The MCLG is the maximum level of a contaminant in drinking water at which no known or anticipated adverse effect on the health of persons would occur, allowing an adequate margin of safety.
+
+MCLGs are non-enforceable public health goals. MCLGs consider only public health and not the limits of detection and treatment technology effectiveness. Therefore, they sometimes are set at levels which water systems cannot meet because of technological limitations.
+
+When determining an MCLG, EPA considers the adverse health risk to sensitive subpopulations:
+
+Infants
+
+Children
+
+The elderly
+
+Those with compromised immune systems and chronic diseases
+
+The way EPA determines MCLGs depends on the type of contaminant targeted for regulation:
+
+For microbial contaminants that may present public health risk, EPA sets the MCLG at zero. This is because ingesting one protozoan, virus, or bacterium may cause adverse health effects.
+
+For chemical contaminants that are carcinogens, EPA sets the MCLG at zero if both of these are the case:
+
+there is evidence that a chemical may cause cancer
+
+there is no dose below which the chemical is considered safe.
+
+If a chemical is carcinogenic and a safe dose can be determined, EPA sets the MCLG at a level above zero that is safe.
+
+For chemical contaminants that are non-carcinogens but can cause adverse non-cancer health effects (for example, reproductive effects), the MCLG is based on the reference dose. A reference dose (RfD) is an estimate of the amount of a chemical that a person can be exposed to on a daily basis that is not anticipated to cause adverse health effects over a lifetime.
+
+To determine the RfD, the concentration for the non-carcinogenic effects from an epidemiology or toxicology study is divided by uncertainty factors (for example, for sensitive subpopulations). This provides a margin of safety for consumers of drinking water.
+
+The RfD is multiplied by body weight and divided by daily water consumption to provide a Drinking Water Equivalent Level (DWEL).
+
+The DWEL is multiplied by the relative source contribution. The relative source contribution is the percentage of total drinking water exposure for the general population, after considering other exposure routes (for example, food, inhalation).
+
+Once the MCLG is determined, EPA sets an enforceable standard. In most cases, the standard is a maximum contaminant level (MCL). The MCL is the maximum level allowed of a contaminant in water which is delivered to any user of a public water system.
+
+When there is no reliable method that is economically and technically feasible to measure a contaminant at concentrations to indicate there is not a public health concern, EPA sets a “treatment technique” rather than an MCL. A treatment technique is an enforceable procedure or level of technological performance which public water systems must follow to ensure control of a contaminant.
+
+Treatment technique rules also list:
+
+The best available technology for meeting the standard
+
+Compliance technologies available and affordable for small systems
+
+Examples of treatment technique rules are the:
+
+Surface Water Treatment Rule (disinfection and filtration)
+
+Lead and Copper Rule (optimized corrosion control)
+
+Acrylamide and Epichlorohydrin Rules (purity of treatment chemicals)
+
+The MCL is set as close to the MCLG as feasible. Taking cost into consideration, EPA must determine the feasible MCL or treatment technique. This is defined by SDWA as the level that may be achieved with:
+
+use of the best available technology or treatment approaches
+
+other means which EPA finds are available (after examination for efficiency under field conditions, not solely under laboratory conditions)
+
+As a part of the rule analysis, SDWA also requires EPA to prepare a health risk reduction and cost analysis (HRRCA) in support of any NPDWR. EPA must analyze the quantifiable and non-quantifiable benefits that are likely to occur as the result of compliance with the proposed standard. EPA must also analyze certain increased costs that will result from the proposed drinking water standard.
+
+In addition, EPA must consider:
+
+Incremental costs and benefits associated with the proposed and alternative MCL values
+
+The contaminant’s adverse health effects on the general population and sensitive subpopulations
+
+Any increased health risk to the general population that may occur as a result of the new MCL
+
+Other relevant factors such as data quality and the nature of the risks
+
+Where the benefits of a new MCL do not justify the costs, EPA may adjust the MCL for a particular class or group of systems to a level that "maximizes health risk reduction benefits at a cost that is justified by the benefits."
+
+Read about Economic Analysis and Statutory Requirements related to development of drinking water regulations.
+
+Top of Page
+
+When must public water systems comply with new primary standards?
+
+Primary standards go into effect three years after they are finalized. If capital improvements are required, EPA's Administrator or a state may allow this period to be extended up to two additional years.
+
+Under certain circumstances, exemptions from standards may be granted by states to allow extra time to seek other compliance options or financial assistance. After the exemption period expires, the public water system must be in compliance.
+
+Top of Page
+
+Are there special considerations for small systems?
+
+Small systems receive special consideration from EPA and states. More than 90 percent of all public water systems (PWSs) are small. These systems may face additional challenges in providing safe water at affordable rates. SDWA provides states with tools to help make compliance with standards affordable for small systems.
+
+When setting new primary standards, EPA must identify technologies that achieve compliance and are affordable for systems serving fewer than 10,000 people. These may include packaged or modular systems and point-of-entry/point-of-use treatment devices under the control of the water system. When such technologies cannot be identified, EPA must identify affordable technologies that maximize contaminant reduction and protect public health.
+
+Small systems are considered in three categories serving:
+
+3,301-10,000 people
+
+501-3,300 people
+
+25-500 people
+
+Top of Page
+
+Who must comply with drinking water standards?
+
+Drinking water standards apply to public water systems (PWSs). A PWS provides water for human consumption through constructed conveyances (such as a pipe, ditch, or hose) to at least 15 service connections or regularly serves at least 25 individuals.
+
+Top of Page
+
+After a drinking water regulation is established, can it be changed?
+
+SDWA requires EPA to review each existing NPDWR every six years. This is known as the “Six-Year Review.”
+
+As part of the Six-Year Review, EPA evaluates any newly available data, information and technologies to determine if regulatory revisions are needed. SDWA specifies that any revision must maintain or increase public health protection.
+
+Top of Page
+
+Where can I find the federal drinking water regulations?
+
+Federal drinking water regulations are codified in Title 40 of the Code Federal Regulations (CFR).
+
+CFR Part 141: National Primary Drinking Water Regulations. These set maximum levels for contaminants allowed in drinking water or treatment technique rules.
+
+CFR Part 142: National Primary Drinking Water Regulations Implementation. These cover how the states, tribes and EPA carry out the Public Water System Supervision (PWSS) program.
+
+CFR Part 143: National Secondary Drinking Water Regulations. These set recommended standards that relate to the acceptability of drinking water to consumers. These are not enforceable (except for the public notice required for exceedance of the fluoride secondary standard).
+
+Top of Page
+
+Where is a timeline of the drinking water regulations?
+
+This table shows the order in which EPA regulated more than 90 drinking water contaminants.
+
+Top of Page
+
+Where can I learn more about EPA's rulemaking process?
+
+Top of Page

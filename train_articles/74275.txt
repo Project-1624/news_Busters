@@ -1,0 +1,84 @@
+The American Health Care Act: Economic and Employment Consequences for States
+If it becomes law, the American Health Care Act could lead to 924,000 jobs lost by 2026, mostly in health care
+
+Issue: The American Health Care Act (AHCA), passed by the U.S. House of Representatives, would repeal and replace the Affordable Care Act. The Congressional Budget Office indicates that the AHCA could increase the number of uninsured by 23 million by 2026. Goal: To determine the consequences of the AHCA on employment and economic activity in every state. Methods: We compute changes in federal spending and revenue from 2018 to 2026 for each state and use the PI+ model to project the effects on states’ employment and economies. Findings and Conclusions: The AHCA would raise employment and economic activity at first, but lower them in the long run. It initially raises the federal deficit when taxes are repealed, leading to 864,000 more jobs in 2018. In later years, reductions in support for health insurance cause negative economic effects. By 2026, 924,000 jobs would be lost, gross state products would be $93 billion lower, and business output would be $148 billion less. About three-quarters of jobs lost (725,000) would be in the health care sector. States which expanded Medicaid would experience faster and deeper economic losses.
+
+Background
+
+On May 24, 2017, the U.S. House of Representatives passed the American Health Care Act (AHCA, H.R. 1628) to partially repeal and replace the Affordable Care Act (ACA), also known as Obamacare. The U.S. Senate is currently developing its own version of the legislation.
+
+A January 2017 analysis found that repealing certain elements of the ACA—the Medicaid expansion and premium tax credits—could lead to 2.6 million jobs lost and lower gross state products of $1.5 trillion over five years.1,2 That brief focused only on specific repeal elements because other details were not available. This brief examines all aspects of the AHCA, including restructuring Medicaid and health tax credits and repealing ACA taxes (Exhibit 1).
+
+The Congressional Budget Office (CBO) reported the AHCA would increase the number of uninsured Americans under age 65 by 14 million in fiscal year 2018, eventually reaching 23 million more by 2026.3 A RAND analysis of an earlier version of the bill was similar: 14 million more uninsured in 2020 and 20 million in 2026.4
+
+This report examines the potential economic effects of the AHCA from calendar years 2018 to 2026, including:
+
+employment levels, measured as changes in the number of jobs created or lost due to policy changes
+
+measured as changes in the number of jobs created or lost due to policy changes state economic growth, as measured by changes in gross state products in current dollars, adjusted for inflation; an aggregate measure of state economies, analogous to the gross domestic product at the national level state business output, as measured by changes in business receipts in current dollars at production, wholesale, and retail levels, encompassing multiple levels of business activity.
+
+Our estimates are based on changes in federal funding gained or lost to states, consumers, and businesses. The AHCA significantly reduces federal funding for Medicaid. It lowers federal match funding for the 31 states and District of Columbia that expanded Medicaid, encouraging them to discontinue their expansions. It gives states an option to either adopt per capita allotments for Medicaid or fixed block grants; either option lowers federal Medicaid expenditures. Eliminating the tax penalty for individuals without health insurance reduces incentives to purchase insurance, raising the number of uninsured people. Restructuring premium tax credits and widening age-related differences in premiums are expected to shrink nongroup insurance coverage and reduce federal spending for health insurance subsidies. The AHCA is designed so that tax cuts take effect sooner than reductions in health insurance subsidies. Thus, state employment and economies could grow at first but shrink in later years as the coverage reductions deepen.
+
+How Federal Health Funding Stimulates Job Creation and State Economies
+
+Federal health funds are used to purchase health care. Then, fiscal effects ripple out through the rest of the economy, creating employment and other economic growth. This phenomenon is called the multiplier effect. Health funds directly pay hospitals, doctors’ offices, and other providers; this is the direct effect of federal funding. These facilities use revenue to pay their employees and buy goods and services, such as rent or equipment; this is the indirect effect of the initial spending. In addition, there are induced effects that occur as health care employees or other businesses (and eventually their workers) use their income to purchase consumer goods like housing, transportation, or food, producing sales for a diverse range of businesses. Similarly, when federal taxes are reduced, consumers or businesses retain income and can purchase goods and services, invest, or save. Due to interstate commerce, each type of effect can flow across state lines.
+
+Both government spending increases and tax reductions can stimulate job creation and economic growth. The relative effects depend on how the funds are used. Government spending or transfers, like health insurance subsidies, typically have stronger multiplier effects in stimulating consumption and economic growth than do tax cuts. Tax cuts usually aid people with high incomes who shift much of their gains into savings, stimulating less economic activity.5,6,7 A recent analysis found that 90 percent of the AHCA’s tax cuts go to the top one-fifth of the population by income.8
+
+This report estimates how the AHCA will change federal funds gained or lost for all 50 states and the District of Columbia from 2018 to 2026. We allocate federal funding changes, based on CBO estimates, for each state. We then analyze how federal funding changes ripple through state economies, using the PI+ economic model, developed by Regional Economic Models, Inc. (REMI).9 (See Appendix B. Study Methods.)
+
+Findings
+
+Overall Effects
+
+As illustrated in Exhibit 2, most of the AHCA’s tax repeals begin almost at once, while coverage-related spending reductions phase in. The net effect initially raises the federal deficit. In 2018, the number of jobs would rise by 864,000 and state economies would grow. Health sector employment begins to fall immediately in 2018, with a loss of 24,000 jobs, and continues dropping to 725,000 health jobs lost by 2026 (Exhibit 3). Most other employment sectors gain initially, but then drop off and experience losses.
+
+By 2020, the reduction in federal funding for coverage would roughly equal the total level of tax cuts. By the following year, 2021, coverage reductions outpace tax cuts. As a result, there are 205,000 fewer jobs than without the AHCA and state economies begin to shrink.
+
+By 2026, 924,000 fewer people would have jobs. Gross state products would drop by $93 billion and business output would be $148 billion lower. These downward trends would continue after 2026.
+
+Looking at Coverage-Related and Tax Repeal Policies
+
+To better understand how the AHCA affects state economies and employment, Exhibit 4 looks at the two major components of the AHCA separately. The coverage-related policies (Title I of the AHCA and sections related to premium tax credits and individual and employer mandates) generally lower federal spending, particularly due to cuts to Medicaid and premium tax credits. Some policies partially offset those large cuts, such as the Patient and State Stability Fund. The tax repeal policies (Title II, except for sections about premium tax credits and individual and employer mandates), such as repeal of Medicare-related taxes, Cadillac tax, or medical device tax, predominantly help people with high incomes or selected businesses.
+
+Implemented alone, the coverage-related policies would lead to steep job losses over time, reaching 1.9 million by 2026, driven by deep Medicaid cuts (Exhibit 4). Job losses begin to mount in 2019.
+
+Alternatively, the tax repeal policies on their own would be associated with higher employment and state economic growth. Gains begin with 837,000 more jobs in 2018; this rises through 2024, and leads to 1 million additional jobs in 2026. Combined, tax repeal and coverage-related changes lead to initial economic and employment growth but eventual losses.
+
+The detailed employment results show how these two components of the AHCA affect different economic sectors. Coverage and spending-related policies are directly related to funding for health services (e.g., Medicaid, premium tax credits, high-risk pools). The reductions directly affect the health sector—hospitals, doctors’ offices, or pharmacies—but then flow out to other sectors. Thus, about two-fifths of jobs lost due to coverage policies are in the health sector while three-fifths are in other sectors. Tax changes affect consumption broadly, spreading effects over most job sectors.
+
+Within the health sector, job losses due to coverage-related cuts are much greater than gains due to tax repeal; losses in health care jobs begin immediately. In other sectors, employment grows at the beginning but later declines.
+
+State-Level Effects
+
+Consequences differ from state to state. We summarize data for nine states: Alaska, Florida, Kentucky, Maine, Michigan, New York, Ohio, Pennsylvania, and West Virginia. Exhibit 5 shows the effects of the AHCA in 2018 and in 2026. Complete results for all 50 states and the District of Columbia are available in Appendices A1–A4. In this analysis, states that expanded Medicaid tend to experience deeper and faster economic declines, although substantial losses occur even among nonexpansion states:
+
+Eight of the nine states (Alaska, Florida, Kentucky, Maine, New York, Ohio, Pennsylvania, and West Virginia) begin with positive economic and employment effects in 2018, but are worse off by 2026, with outcomes typically turning negative well before 2026.
+
+Michigan is worse off in 2018 and continues to decline through 2026. We assume Michigan will terminate its Medicaid expansion immediately because of a state law that automatically cancels the expansion if the federal matching rate changes. 10 Six other states (Arkansas, Illinois, Indiana, New Hampshire, New Mexico, and Washington) have similar legislation and experience losses sooner than other states.
+
+Six other states (Arkansas, Illinois, Indiana, New Hampshire, New Mexico, and Washington) have similar legislation and experience losses sooner than other states. Most job losses are in health care. In six states (Florida, Kentucky, Maine, Michigan, Ohio, and West Virginia) health care job losses begin in 2018, but all nine states have significant reductions in health employment by 2026. Looking at the U.S. overall, in most states, losses in health care jobs begin by 2020 (Appendix A2).
+
+States that expanded Medicaid have deeper and faster losses. Having earned more federal funds, they lose more when Medicaid matching rates fall. While cutting funds to states that expanded health insurance for low-income Medicaid populations, the bill temporarily increases funding to states that did not expand Medicaid. Nonetheless, states that did not expand Medicaid, like Florida and Maine, experience job and economic losses after a few years. In fact, Florida has the third-highest level of job loss in the nation by 2026.
+
+Other factors that can affect the size of economic and employment effects include: the extent to which states gained coverage in the ACA health insurance marketplaces; states with higher marketplace enrollment tend to lose more the cost of health insurance in the state; the new tax credits are the same regardless of location, making insurance less affordable in high-cost states and reducing participation age structure; older people will find insurance less affordable state population size; the population size of states magnifies their losses or gains other factors that affect tax distribution, like number of residents with investment income or high incomes or whether medical device or pharmaceutical manufacturers are located in the state.
+
+
+
+Overall, the 10 states with the largest job losses by 2026 are: New York (86,000), Pennsylvania (85,000), Florida (83,000), Michigan (51,000), Illinois (46,000), New Jersey (42,000), Ohio (42,000), North Carolina (41,000), California (32,000), and Tennessee (28,000). Forty-seven states have job losses by 2026; four states (Colorado, Hawaii, Utah, and Washington) have small job gains in 2026, but would likely incur losses in another year or two (Appendix A1).
+
+Conclusions
+
+The House bill to repeal and replace the Affordable Care Act would greatly reduce the number of people with insurance coverage, effectively reversing gains made since the law’s enactment. The AHCA would initially create more employment and economic growth, driven by a federal deficit increase in 2018 and 2019, but the effects turn negative as coverage reductions deepen, with job losses and lower economic growth beginning in 2021. By 2026, 924,000 jobs would be lost, gross state products would be $93 billion lower, and business output could fall by $148 billion.
+
+Health care has been one of the main areas of job growth in recent years.11 Under the AHCA, the sector would lose jobs immediately, with a loss of 24,000 jobs in 2018. By 2026, 725,000 fewer health sector jobs would exist. This would be a major reversal from current trends. While our analysis shows other employment sectors grow initially, most other sectors would experience losses within a decade.
+
+It may be useful to look at these findings in a macroeconomic context. The U.S. unemployment rate for May 2017 was 4.3 percent, the lowest in 16 years and about half as high as during the recent recession. When unemployment is low, additional job growth creates a tighter labor market, so that businesses often have greater difficulties filling job vacancies. In turn, this can accelerate inflation.
+
+It is likely that the business cycle will eventually slow down again. In that event, the AHCA could accentuate job loss and economic contraction. Combined with major increases in the number of uninsured, this could contribute to a period of economic and medical hardship in the U.S. The AHCA could exaggerate both the highs and lows of the business cycle. From a national policy perspective, it may be more useful to develop countercyclical policies that strengthen employment and the economy during times of contraction.
+
+This analysis finds that the net effect of the AHCA would be a loss of almost 1 million jobs by 2026, combined with 23 million more Americans without health insurance, according to the CBO. In late May, the Trump administration released its budget proposal, which appears to propose an additional $610 billion in Medicaid cuts, beyond those included in the AHCA.12 Such deep cuts would further deepen the employment and economic losses discussed in this study.
+
+This analysis has many limitations. We do not know whether or when the AHCA or an alternative will be enacted into law. Alternative policies could yield different effects. We focus only on the consequences of the AHCA. Other legislation, such as infrastructure, trade, national security, or tax policies, may be considered by Congress and might also affect economic growth and employment.
+
+These projections, like others, are fraught with uncertainty. Economic, technical, or policy changes could alter results. In particular, the AHCA grants substantial discretion to states, such as in Medicaid expansions, waivers of federal regulations, and use of new funds like the Patient and State Stability Fund. While this analysis is aligned with CBO’s national estimates, we developed state-level projections, introducing further uncertainty. Our approach conservatively spreads changes across states and may underestimate the highs and lows for individual states.

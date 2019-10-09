@@ -1,0 +1,49 @@
+Trust the Federal Government 1958-2012
+
+'58 '60 '62 '64 '66 '68 '70 '72 '74 '76 '78 '80 '82 '84 '86 '88 '90 '92 '94 '96 '98 '00 '02 '04 '08 '12 None of the Time (vol.): 0 ** ** 0 2 0 0 1 1 1 4 4 3 1 2 2 2 2 3 1 1 1 0 1 2 2 Some of the Time : 23 ** ** 22 28 36 44 44 61 62 64 69 62 53 57 56 69 68 74 66 58 55 44 52 68 76 Most of the Time : 57 ** ** 62 48 54 47 48 34 30 27 23 31 40 35 36 25 26 19 30 36 40 51 43 25 20 Just About Always : 16 ** ** 14 17 7 6 5 2 3 2 2 2 4 3 4 3 3 2 3 4 4 5 4 5 2 Don't Know, Depends : 4 ** ** 1 4 2 2 2 2 3 3 2 3 2 2 1 1 1 1 0 1 1 0 0 0 0 N 1774 1445 1285 1337 1497 2279 2499 2859 2288 1606 1401 1921 1081 1768 1963 2247 1769 1496 1278 1541 1312 1061 1059 2972
+
+PERCENTAGE WITHIN STUDY YEAR
+
+Table 5A.1
+
+Source: The American National Election Studies
+
+Link to the ASCII text version of this table
+
+Link to see 2012 data by mode
+
+
+
+QUESTION TEXT: ""How much of the time do you think you can trust the government in
+
+Washington to do what is right-- just about always, most of the time
+
+or only some of the time?"
+
+
+
+Graph of Response:
+
+Percent among demographic groups who responded:
+
+
+
+
+
+NOTE: 2012 data are for the combined (face-to-face and internet) sample.
+
+
+
+For 2012, the 'Don't Know/Other' category represents face-to-face
+
+Don't Know cases only (in the 2012 Web instrument, a Don't Know
+
+category was not present).
+
+This question is variable VCF0604 in the ANES Cumulative Data File dataset.
+
+Consult the Cumulative Data File codebook for complete question text and annotation.
+
+Weight variable VCF0009z was used to produce this table (see weight documentation)
+
+(Table generated: 11NOV15)

@@ -1,0 +1,46 @@
+The Clock Has Started: What ISPs Need to Do and When to Comply with the FCC’s Broadband Privacy Rules
+On December 2, 2016, the Federal Communications Commission (“FCC”) published its Report and Order entitled “Protecting the Privacy of Customers of Broadband and Other Telecommunications Services” (the “Order”) as a final rule in the Federal Register, adopting rules applicable to Internet service providers (“ISPs”) intended to protect the privacy of broadband consumers. Despite the publication of the rules in the Federal Register, uncertainty remains regarding when ISPs must be in compliance with some of these newly established privacy obligations. Although the rules are effective January 3, 2017, the FCC has made exceptions to the January 3, 2017 effective date for provisions which have not yet been approved by the Office of Management and Budget (“OMB”).[1] This includes many of the operative provisions of the new rules regarding ISPs’ data collection and use. Once such provisions are approved by the OMB, notice will be published in the Federal Register announcing their approval and corresponding effective dates.
+
+Despite the uncertainty regarding the effective dates of many sections, the publication of the Order puts ISPs on notice of the new rules, and ISPs should begin revising their practices so that they are able to meet the earliest possible effective dates. Here is what ISPs need to know regarding compliance with the new rules:
+
+Restrictions on ISPs Differential Treatment of Customers Based on Waiver of Privacy Rights
+
+Effective as of January 3, 2017, ISPs are prohibited from (1) conditioning the provision of broadband Internet services on a customer’s agreement to waive his or her privacy rights guaranteed by law or regulation, and (2) terminating broadband Internet services or refusing to provide such services to a customer who refuses to waive such privacy rights.[2]
+
+The new rules also require ISPs offering financial incentives for a customer’s approval to use and disclose such customer’s proprietary information (“PI”) to provide clear and conspicuous notice to the customer explaining the terms of the financial incentive offering, including opt-in approval to use such PI and a description of what PI will be collected and how it will be used.[3] This subsection has not yet been approved by the OMB and thus its earliest possible effective date is December 2, 2017.
+
+Data Security Obligations
+
+Section 64.2005 regarding data security is effective March 2, 2017. The new data security rule requires ISPs to take “reasonable measures” to protect customer PI from unauthorized disclosure, use or access. Customer PI includes:
+
+Individually identifiable customer proprietary network information (“CPNI”) – information relating to the location, amount and type of use of a broadband service a customer subscribes to, and information contained in the bills pertaining to the service received by a customer;
+
+– information relating to the location, amount and type of use of a broadband service a customer subscribes to, and information contained in the bills pertaining to the service received by a customer; Personally identifiable information – any information linked to an individual or device;
+
+– any information linked to an individual or device; Sensitive customer proprietary information – financial information, health information, information pertaining to children, social security numbers, precise geo-location information, content of communications, call detail information, ad web browsing history, application usage history, and the functional equivalents of either; and
+
+– financial information, health information, information pertaining to children, social security numbers, precise geo-location information, content of communications, call detail information, ad web browsing history, application usage history, and the functional equivalents of either; and The content of communications .
+
+The security measures taken by the ISP must take into account the nature and scope of the ISP’s activities, the technical feasibility of implementing the security measures, and the sensitivity of the data that the ISP collects. While the rules do not delineate specific actions that ISPs should take, nor do they define what constitutes “reasonable measures,” the FCC guidelines suggest that ISPs should (1) implement industry best practices; (2) provide accountability and oversight of security practices; (3) implement strong customer authentication tools; and (4) properly dispose of sensitive data.
+
+Notice Requirements and Opt-In/Opt-Out Consent
+
+The rules regarding notice and consent may be effective as early as December 2, 2017. The notice rules require ISPs to provide notice regarding an ISP’s privacy practices when a customer signs up for the service and whenever there is a material change to such practices. The notice must specify (1) the types of customer PI that the ISP collects and how it is used; (2) the circumstances under which the ISP discloses such information; (3) the types of entities to whom the ISP discloses customer PI; and (4) a description of customers’ approval rights. Information regarding the ISP’s privacy practices must also be made available on the ISP’s website or mobile application.
+
+In addition to providing notice to customers regarding data collection and use, opt-in or opt-out consent is also required for most uses of customer PI. Opt-in consent is required for the use and sharing of sensitive customer proprietary information (as defined above). Opt-out consent is required for the use and sharing of non-sensitive data. Despite the foregoing, consent is not required to use or share customer PI in the following circumstances: (1) to provide and market services in connection with the broadband service; (2) to initiate, render, bill and collect for the service; and (3) to protect the ISP and its customers from fraudulent use of the provider’s network. Further, de-identified information falls out of the scope of the consent requirement provided that the ISP (a) de-identifies the data, (b) publicly commits to maintain and use the data in an unidentifiable format and not attempt to re-identify data; and (c) contractually prohibits the re-identification of shared information.
+
+Data Breach Notification Requirements
+
+The rule regarding data breach notification may be effective as early as June 2, 2016. The rule requires that, if an ISP determines that an unauthorized disclosure of a customer’s PI has taken place, unless the ISP determines that no harm is reasonably likely to occur, the ISP must notify:
+
+affected customers no later than 30 days after the ISP’s reasonable determination of the breach; and
+
+after the ISP’s reasonable determination of the breach; and if less than 5,000 customers are affected by the breach, the Commission (at the same time customers are notified); or
+
+if the breach affects more than 5,000 customers, the Commission, the Federal Bureau of Investigation, and the US Secret Service within 7 business days after the ISP’s reasonable determination of the breach.
+
+[1] §§64.2003 (Notice requirements for telecommunication carriers), 64.2004 (Customer approval), 64.2006 (Data breach notification), and 64.2011(b) (BIAS offers conditioned on waiver of privacy rights) require OMB approval.
+
+[2] See §64.2011(a).
+
+[3] See §64.2011(b).

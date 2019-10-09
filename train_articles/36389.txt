@@ -1,0 +1,34 @@
+Introduction to the Hazard Ranking System (HRS)
+The Hazard Ranking System (HRS) is the principal mechanism that the EPA uses to place uncontrolled waste sites on the National Priorities List (NPL). It is a numerically based screening system that uses information from initial, limited investigations - the preliminary assessment (PA) and the site inspection (SI) - to assess the relative potential of sites to pose a threat to human health or the environment. Any person or organization can report spills and environmental violations and petition the EPA to conduct a preliminary assessment.
+
+HRS scores do not determine the priority in funding EPA remedial response actions, because the information collected to develop HRS scores is not sufficient to determine either the extent of contamination or the appropriate response for a particular site. The sites with the highest scores do not necessarily come to the EPA's attention first - this would require stopping work at sites where response actions were already underway. The EPA relies on more detailed studies in the remedial investigation/feasibility study which typically follows listing.
+
+
+
+The HRS uses a structured analysis approach to scoring sites. This approach assigns numerical values to factors that relate to risk based on conditions at the site. The factors are grouped into three categories:
+
+likelihood that a site has released or has the potential to release hazardous substances into the environment;
+
+characteristics of the waste (e.g. toxicity and waste quantity); and
+
+people or sensitive environments (targets) affected by the release.
+
+Four pathways can be scored under the HRS:
+
+ground water migration (drinking water);
+
+surface water migration (drinking water, human food chain, sensitive environments);
+
+soil exposure (resident population, nearby population, sensitive environments); and
+
+air migration (population, sensitive environments).
+
+After scores are calculated for one or more pathways, they are combined using a root-mean-square equation to determine the overall site score.
+
+The electronic scoring tool Quickscore can be used to do the scoring calculations. If all pathway scores are low, the site score is low. However, the site score can be relatively high even if only one pathway score is high. This is an important requirement for HRS scoring, because some extremely dangerous sites pose threats through only one pathway.
+
+The HRS Training Course is available but limited to the EPA regional, state, tribal, and contractor personnel who support the EPA in the Superfund site assessment/NPL Listing process. The training course is intended to enable staff to prepare HRS packages for the NPL and to plan PAs and SIs to address future HRS scoring issues.
+
+For more information, please consult the EPA publications, The Hazard Ranking System Guidance Manual; Interim Final, November 1992 (PDF)(533 pp, 7.6 MB, About PDF) and the December 14, 1990 Federal Register, Hazard Ranking System; Final Rule (55 FR 51532)(PDF)(136 pp, 15.5 MB About PDF).
+
+OLEM Home | Superfund Home | Technologies for Cleaning up Contaminated Sites Home

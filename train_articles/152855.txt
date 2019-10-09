@@ -1,0 +1,34 @@
+What are 5G frequency bands
+Like any wireless transmission system, 5G – the fifth generation mobile communication network also require to use frequency spectrum to transmit data. In order to support higher bandwidth, 5G require high frequency range of sub 6 GHz and millimeter waves. What are the radio frequency bands used in 5G communication system?
+
+Why 5G requires high frequency spectrum?
+
+Conventional GSM and LTE network uses frequency range below 4 GHz range. It has limitation due to bandwidth. Significant increase of bandwidth is necessary to support enhanced mobile broadband experience. At higher frequency range such as millimeter waves, there are many unused spectrum to utilize efficiently with higher bandwidth.
+
+Relationship between Frequency and Bandwidth
+
+Technologies like 5G have to support higher data rate requirements which traditional GSM or LTE network is not capable of. Bandwidth of a transmitting signal is the distance between the lower and upper cut-off frequency. If higher frequency is used, wider bandwidth can be utilized for data transmission.
+
+In 5G systems, service providers planning to use bandwidth of 500MHz to even up to 1-2 GHz.
+
+Sub 6GHz spectrum
+
+Sub 6GHz spectrum is the candidate for early deployment of 5G networks across the globe. It will use unused spectrum below 6GHz range, it can support higher bandwidth than LTE frequency bands.
+
+Advantages of sub-6GHz spectrum
+
+Compared to millimeter wave spectrum, frequency below 6GHz is less complex in development of infrastructure, deployment and future network enhancements. Modification of existing system at lower frequency (700MHz or 3,GHz range) is possible for earlier deployments of 5G systems.
+
+Moreover, unlicensed spectrum doesn’t require approval (in many countries) from authorities. Network operators can easily develop, test and deploy unlicensed spectrum efficiently than a costly GSM/LTE bands.
+
+5G – NR (New Radio)
+
+5G NR – new radio is a new standard for ultra fast 5G networks. It will make use of unlicensed spectrum below 6 GHz and above 6 GHz (millimeter range). 5G NR is designed to support a highly scalable network capable of future enhancements.
+
+Find: What is 5G-NR (New Radio) and how it works?
+
+5G Frequency Bands
+
+Country / Region Sub-6 GHz Spectrum (Low and mid band) Spectrum Above 6 GHz (High band) USA 600MHz 3100 – 3550 MHz 3700 – 4200 MHz 27.5 – 28.35 GHz 37 – 40 GHZ 64 – 71 GHz UK / Europe 700 MHz (UK) 2.3 GHz (UK) 3.4 GHz (UK) 694 – 790 MHz 3400 – 3800 MHz 24.25 – 27.5 GHz Japan 3600 – 4200 MHz 4400 – 4900 MHz 27.5 – 28.25 GHz China 3300 – 3600 MHz 4400 – 4500 MHz 4800 – 4990 MHz 24.25 – 27.5 GHz 37.25 – 43.5 GHz Korea 26.5 – 29.5 GHz India 3400 – 3600 MHz 24.5GHz – 29.5GHz
+
+In many countries, 5G system are still in trial and frequency bands yet to be finalized. We will update once each countries / regions officially announce their spectrum for 5G network deployment.

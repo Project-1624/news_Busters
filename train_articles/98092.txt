@@ -1,0 +1,152 @@
+Labour force survey estimates (LFS), employment by class of worker and sex, seasonally adjusted and unadjusted
+The data below is a part of CANSIM table 282-0089. Use the Add/Remove data tab to customize your table.
+
+By default, only data for the most recent periods available will be retrieved. You may use the lists below to select a different time frame.
+
+Select the specific items from each step to create your customized CANSIM table.
+
+Note: Statistics Canada assumes responsibility for the quality of data as retrieved with the frequency unchanged. Clients take responsibility for any manipulations made to the original data. Certain series can only be aggregated by specific methods. If the frequency conversion chosen is not allowed, resultant data will appear as "..".
+
+Convert the data from one frequency to another.
+
+View latest article from The Daily related to this table.View list of related publications
+
+Help
+
+Help
+
+When first opening a CANSIM table, the data that is shown is considered the initial view. Depending on the size of the CANSIM table, this table might only represent a summary with five reference periods, if available. You can use the Add/Remove data tab to add or remove data.
+
+To download the entire table, select option 2 in the Download tab.
+
+The Add/Remove data tab is a pick list where you choose which subset of the selected table you want to work with. There is one scrollable pick list for each dimension in the table and you must select at least one item from each list before selecting Apply.
+
+An All checkbox appears under each dimension title and just above the scrollable list. Level checkboxes will appear for dimensions containing hierarchies. An Expand/Collapse option is available near the scrollable list which lets you open a dimension to see the list of its members/items.
+
+Before proceeding with the request, check the data ranges for which data is available and reduce this range if you wish; data retrievals are faster when the time period is short. Also, you can select one of four options of a screen output format, default being HTML table, times as column.
+
+Once done with your selections, select Apply to view your customized selection, or select Back to original table to return the selections back to the CANSIM initial view that was shown when first opening the table.
+
+Note: There is no guarantee that data exist for every intersection of every dimension; so it is possible that even if you have selected at least one member/item from all the lists you might still be warned that your retrieval contains no series.
+
+Note: If the designation (Terminated) appears at the end of a member/item name that member/item is terminated. Time series attached to a terminated member/item may be revised, but are no longer updated and may not contain data for the most recent time periods.
+
+Tips for selecting members/items:
+
+You can select all members/items in a hierarchical level by selecting the corresponding level.
+
+Note: If you receive an error message after selecting your members from the pick list it's either because your request does not contain series or one member/item has not been selected from a dimension.
+
+Statistics Canada assumes responsibility for the quality of data as retrieved with the frequency unchanged. Clients take responsibility for any manipulations made to the original data.
+
+Frequency of output data will be:
+
+The frequency conversion options are particularly useful to convert data from one frequency to another for comparability purposes.
+
+Note: When frequency of data is already of annual frequency or greater, then no frequency conversion options are presented. Certain series can only be aggregated by specific methods. If the frequency conversion chosen is not allowed, resultant data will appear as "..".
+
+Converted to:
+
+The frequency designates how often data observations are published. A table can contain only one frequency. By default, the frequency of output data will be left unchanged.
+
+Frequency can be converted by these choices:
+
+Annual average: Conversion by averaging is more appropriate for "balance"-type data such as "Population as of July 1" as well as rates and indexes.
+
+Conversion by averaging is more appropriate for "balance"-type data such as "Population as of July 1" as well as rates and indexes. Annual sum: Conversion to a sum should not be performed on a rate or index. Conversion by summing is more appropriate for "count"-type data, such as "Number of cars sold" or "Number of births".
+
+Conversion to a sum should not be performed on a rate or index. Conversion by summing is more appropriate for "count"-type data, such as "Number of cars sold" or "Number of births". Quarterly average: Conversion by averaging is more appropriate for "balance"-type data such as "Population as of July 1" as well as rates and indexes.)
+
+Conversion by averaging is more appropriate for "balance"-type data such as "Population as of July 1" as well as rates and indexes.) Quarterly sum: Conversion by summing is more appropriate for "count"-type data, such as "Number of cars sold" or "Number of births".
+
+Conversion by summing is more appropriate for "count"-type data, such as "Number of cars sold" or "Number of births". Annual - convert to annual by selecting a specific month or quarter: This type of calculation is most useful when data for a specific sub-annual period (month or quarter) is used to state an annual figure such as "Population as of July 1".
+
+When converting frequency by summing or averaging:
+
+Two choices are offered when converting frequency using either a sum or an average:
+
+Use calendar year: This is a normal calendar year starting in January and ending in December.
+
+This is a normal calendar year starting in January and ending in December. Use fiscal year ending with last month retrieved: The annual non-calendar fiscal year average manipulation permits users to calculate the average value for the last twelve months ending with the most recent reference period selected. In order to complete this calculation, please follow these steps: In the section entitled " Frequency of output data will be: " sub-section " Standard frequency conversion options " select "Annual (average)". In the section " When converting frequency by summing or averaging: " select "Use fiscal year ending with last month retrieved". If you wish the output of your data as a percentage change from the previous year please select "Percent changes, year-to-year" found below " Data table will contain: "
+
+The annual non-calendar fiscal year average manipulation permits users to calculate the average value for the last twelve months ending with the most recent reference period selected. In order to complete this calculation, please follow these steps:
+
+Data table will contain:
+
+Select one of these data transformations options to convert your data:
+
+Percent changes, period-over-period: If the frequency of the data is monthly, the calculation would measure the change of the data value in percent between consecutive time periods, (for example: between July 1998 and August 1998.)
+
+If the frequency of the data is monthly, the calculation would measure the change of the data value in percent between consecutive time periods, (for example: between July 1998 and August 1998.) Percent changes, year-over-year: If the frequency of the data is monthly, the calculation would measure the change of the data value in percent between consecutive years, (for example: between July 1998 and July 1999).
+
+If the frequency of the data is monthly, the calculation would measure the change of the data value in percent between consecutive years, (for example: between July 1998 and July 1999). Year-to-date sums: Data for each sub-annual period is added consecutively to the previous period showing cumulative sums for each period.
+
+Data for each sub-annual period is added consecutively to the previous period showing cumulative sums for each period. Year-to-date average: Data for each sub-annual period is averaged consecutively to the previous period showing cumulative averages for each period.
+
+Note: CANSIM rounds data using statistician's rounding (also known as round-to-even method, unbiased rounding, convergent rounding and banker's rounding) which may differ from rounding methods used by common spreadsheet software.
+
+Statistician's rounding rounds the following way:
+
+If the second decimal is larger than 5, the first decimal is incremented by 1 (see example 1).
+
+If the second decimal is smaller than 5, the first decimal stays unchanged (see example 2).
+
+When the second decimal is exactly 5, the "odd/even" rules apply. The first decimal is incremented by 1 if it is odd (see example 4), and left unchanged if it is even (see example 3).
+
+Example: 4.46 rounded to one decimal equals 4.5 4.44 rounded to one decimal equals 4.4 4.45 rounded to one decimal equals 4.4 4.15 rounded to one decimal equals 4.2
+
+
+
+Once you made your selections select the Apply button.
+
+Option 1 - Download data as displayed in the Data table tab
+
+This option downloads your selection and is displayed in the Data table tab or you can modify using the download options.
+
+Three download options are available:
+
+Select the language: You have the choice of the English or French language for the textual content.
+
+You have the choice of the English or French language for the textual content. Select the data output format type: You have the choice of the following six format types: time as columns , where the time frame you have selected will be displayed in columns time as rows , where the time frame you have selected will be displayed in rows. for database loading , where you will download a flat format file ready for database loading for database loading with data quality indicators , where you will download a flat format file including data quality indicators time as columns with data quality indicators , where the time frame you have selected will be displayed in columns including data quality indicators time as rows with data quality indicators , where the time frame you have selected will be displayed in rows including data quality indicators
+
+You have the choice of the following six format types: Select the file format: you will have the choice of the following two output separator types: CSV (comma-separated values) English spreadsheet is usually used when retrieving English tables with computers having their Regional set to English.
+
+you will have the choice of the following two output separator types:
+
+If your objective is to load the data into a spreadsheet package the best choice for output format is a comma-separated values (CSV) file.
+
+Note: CSV and Semicolon-Separated Values (SCSV) files are produced differently whether you perform the retrieval in English or French. This is because, in French, the comma is used to indicate decimals; a different separator (a semicolon) must therefore be used. SCSV files retrieved in French will parse correctly only if the Regional Settings are set to French.
+
+Once you made your selections select the Download data button.
+
+Option 2 - Download entire table
+
+You will have the option to Download entire table as a CSV file or a Beyond 20/20 or SDMX file which will open a new window.
+
+This table represents all of the items in the CANSIM table. To get an initial view (summary) of the CANSIM table, select the Data table tab.
+
+Note: Downloading tables in Beyond 20/20 output format requires the Beyond 20/20 Table Browser.
+
+Once you made your selections select the Download entire table button.
+
+This page contains links to items related to your CANSIM table. Select the various links to view these related items.
+
+Related data tables
+
+View a list of related CANSIM tables that are related to this CANSIM table.
+
+Related publications
+
+View the latest article from The Daily and a list of related publications from Statistics Canada.
+
+The Daily is Statistics Canada's official release bulletin, the Agency's first line of communication with the media and the public. The Daily issues news releases on current social and economic conditions and announces new products. It provides a comprehensive one-stop overview of new information available from Statistics Canada.
+
+Additional information on the survey or statistical program
+
+Definitions, data sources and methods: Here is where you will find a link to the Integrated Meta Data Base (IMDB) where you may view details for the survey number(s) assigned to the CANSIM table.
+
+The Integrated Meta Data Base (IMDB) contains information about the surveys and statistical programs carried out by Statistics Canada and other agencies to collect assemble process and disseminate statistical information.
+
+The IMDB may be used to find out how data for particular CANSIM tables are collected or to identify contacts for questions on the data or survey methodology. The IMDB contains descriptions of over 450 surveys and statistical programs each identified by a unique four-digit survey number.
+
+After selecting a survey or a program from the list, you may choose to either retrieve the list of CANSIM tables for that survey or program, or consult the IMDB for more information.

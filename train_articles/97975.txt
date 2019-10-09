@@ -1,0 +1,425 @@
+Police-reported crime statistics in Canada, 2011
+
+By Shannon Brennan
+
+Corrections have been made to this product. The publication has been reloaded on June 5, 2013.
+
+Please take note of the following change(s):
+
+Note to readers
+
+Due to incorrect reporting by a police service of incidents of child pornography from 2008 to 2011, the data originally contained in this report have been suppressed and revised data were made available on July 25, 2013 with the release of 2012 crime statistics. We regret any inconvenience this may have caused.
+
+Measuring the prevalence and nature of crime in Canada has been recognized as an important issue, as the amount of crime in a country can be seen as a reflection of the overall safety and well-being of the population ( HRSDC 2012). There are two ways of measuring crime in Canada: using self-reported data from victimization surveys (See Text box 3), and using police-reported data. Since 1962, Statistics Canada has conducted the Uniform Crime Reporting (UCR) Survey, which collects data on all criminal incidents reported to, and substantiated by, Canadian police services.Note 1
+
+This Juristat article presents findings from the 2011 UCR Survey. It explores trends in the volume and severity of both violent and non-violent offences at the national, provincial/territorial and census metropolitan area levels. Further, this report examines changes in the number and rate of individual offences reported by police, including homicide, robbery, sexual offences, break-ins and motor vehicle theft. Finally, information pertaining to trends in the volume and severity of youth crime are presented.
+
+Police-reported crime in Canada continues to decrease
+
+The police-reported crime rate, which measures the total volume of crime per 100,000 population, continued to decline in 2011, down 6% from the previous year. Overall, this marked the eighth consecutive decrease in Canada's crime rate (Chart 1). Since peaking in 1991, the crime rate has generally been decreasing, and is now at its lowest point since 1972.
+
+Canadian police services reported about 2 million Criminal Code offences in 2011, almost 110,000 fewer than in 2010 (Table 1a). Similar to previous years, the decline in the crime rate was driven primarily by decreases in the number of property offences, primarily theft under $5,000 (30,100 fewer incidents), mischief (24,100 fewer incidents), break-ins (15,800 fewer incidents) and theft of motor vehicle (10,100 fewer incidents).
+
+Chart 1
+
+Police-reported crime rates, Canada, 1962 to 2011
+
+Data table for chart 1
+
+Note: Information presented in this graph represents data from the UCR Aggregate (UCR1) Survey, and allow for historical comparisons to be made back to 1962. New definitions of crime categories were introduced in 2009 and are only available in the new format back to 1998. As a result, numbers in this graph will not match data released in the new (UCR2) format. Specifically, the definition of violent crime has been expanded. Further, the total number of Criminal Code (excluding traffic violations) does not match in the two sets of tables, as the UCR1 survey included a number of newer traffic violations in the "Other, Other Criminal Code" section, as it did for other types of newer violations.
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+In addition to measuring the volume of crime in Canada, it is also possible to measure the severity of crime, through the use of the Crime Severity Index (CSI) (See Text box 1). Over the past decade, the severity of police-reported crime has decreased in all but one year (2003). The CSI continued to decline in 2011, down 6% from 2010 and 26% lower than a decade earlier (Table 1b, Chart 2).
+
+Chart 2
+
+Police-reported crime severity indexes, 2001 to 2011
+
+Data table for chart 2
+
+Note: Indexes have been standardized to a base year of 2006 which is equal to 100.
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Text box 1
+
+Measuring police-reported crime In Canada, there are two complementary ways police-reported crime can be measured: the traditional crime rate and the Crime Severity Index (CSI). The crime rate measures the volume of crime while the Crime Severity Index measures the seriousness of crime. Crime rate: Since 1962, trends in overall police-reported crime have been measured using the traditional "crime rate", which is expressed as a rate per 100,000 population. It is calculated by summing all criminal incidents (excluding Criminal Code traffic offences and other Federal Statute offences such as drug offences) reported to the police and dividing by the population. In this calculation, all offences are counted equally; for example, one incident of murder equals one incident of theft. As such, the crime rate tends to be driven by high-volume, less serious offences, such as minor thefts and mischief. Reporting of these offences may vary due to differences across jurisdictions in, for example, insurance deductibles, requirement of a police report for insurance purposes, or the use of municipal by-laws or provincial statutes. In addition to the overall crime rate, there are three sub-totals: violent, property and other Criminal Code, each of which is available from 1962. Rates are also available for youth crime. However, while crime rates in general are based upon counts of incidents, youth crime rates are based upon counts of individuals aged 12 to 17 years who have been charged by police or where there is sufficient information for police to lay a charge. Crime Severity Index: To address the issue of the overall crime rate being driven by high-volume, less-serious offences such as minor thefts, mischief and common assaults, another measure of police-reported crime, called the Crime Severity Index, is used. For simplicity, this measure is referred to as the CSI . The CSI not only takes into account the volume of crime, but also the seriousness of crime. In the calculation of the CSI , each offence is assigned a weight, derived from sentences handed down by criminal courts. The more serious the average sentence, the higher the weight for that offence. As a result, more serious offences have a greater impact on the Index. All offences, including traffic and drug offences, are included in the CSI . The calculation for the CSI involves summing the weighted offences and dividing by the population. The CSI is then standardized to a base year (2006) of "100". CSI values are available back to 1998. In addition to the overall CSI , both a violent CSI and a non-violent CSI have been created. Using the same basic concept of weighting offences according to their seriousness, there is also a CSI specific to youth (12 to 17 years) who have been charged by police or where there is sufficient information for police to lay a charge. As is the case for the CSI in general, there is a youth overall CSI , a youth violent CSI and a youth non-violent CSI , each of which is available from 1998 to present. For more information on the Crime Severity Index, see Measuring Crime in Canada: Introducing the Crime Severity Index and Improvements to the Uniform Crime Reporting Survey (Wallace et al. 2009) and The Methodology of the Police-Reported Crime Severity Index (Babyak et al. 2009). End of text box 1.
+
+Declines in crime seen across most of the country
+
+Between 2010 and 2011, both the volume and severity of police-reported crime declined or remained stable across most of the country (Table 2a, Table 2b). Among the provinces, Alberta and Newfoundland and Labrador reported the largest declines in crime severity, down 10% and 8% respectively.
+
+As in past years, both the volume and severity of police-reported crime were found to be highest in the territories, particularly in the Northwest Territories and Nunavut (Table 2a, Chart 3).
+
+Chart 3
+
+Police-reported Crime Severity Index, by province and territory, 2011
+
+Data table for chart 3
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Among the provinces, those in the west reported higher crime rates and crime severity compared to those in the east, continuing a well established trend. For example, as has been the case since 1998, Saskatchewan reported the highest CSI in 2011, followed by Manitoba, British Columbia and Alberta.
+
+Ontario had the lowest Crime Severity Index in the country in 2011, followed by New Brunswick and Prince Edward Island. Nova Scotia was the only eastern province whose CSI in 2011 was above the national Index.
+
+Most jurisdictions have seen a decrease in the CSI over the past 10 years (Charts 4 to 7). Since 2001, the CSI has declined in every province and territory with the exception of Newfoundland and Labrador, the Northwest Territories and Nunavut.
+
+Chart 4
+
+Police-reported Crime Severity Index, Atlantic provinces, 2001 to 2011
+
+Data table for chart 4
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Chart 5
+
+Police-reported Crime Severity Index, Quebec, Ontario and British Columbia, 2001 to 2011
+
+Data table for chart 5
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Chart 6
+
+Police-reported Crime Severity Index, Prairies, 2001 to 2011
+
+Data table for chart 6
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Chart 7
+
+Police-reported Crime Severity Index, Territories, 2001 to 2011
+
+Data table for chart 7
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Severity of crime declines in every census metropolitan area
+
+Both the volume and severity of crime declined in almost all of Canada's census metropolitan areas (CMAs)Note 2 in 2011. The largest declines in crime rates were seen in Victoria (-16%) and in Saint John (-14%). These CMAs also reported among the largest decreases in crime severity, down 17% and 14% respectively (Table 3).
+
+Regina continued to report the highest CSI in 2011, followed by Saskatoon, Thunder Bay and Winnipeg. Calgary and Victoria were the only western CMAs with CSI values below the national index (Chart 8). Guelph reported the lowest CSI value among all the CMAs for the fifth year in a row, followed by Québec, Toronto and Ottawa.
+
+Chart 8
+
+Police-reported Crime Severity Index, by census metropolitan area, 2011
+
+Data table for chart 8
+
+1. Gatineau refers to the Quebec part of the Ottawa–Gatineau CMA .
+
+2. Ottawa refers to the Ontario part of the Ottawa–Gatineau CMA .
+
+Note: The Oshawa census metropolitan area (CMA) is excluded from this chart due to the incongruity between the police service jurisdictional boundaries and the CMA boundaries.
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Police-reported CSI values are also available for the approximately 240 police services policing at least one population centre over 10,000 population (Statistics Canada 2012a). Among these, North Battleford, Saskatchewan reported the highest CSI value for the third year in a row, followed by Thompson, Manitoba. The lowest CSI values were generally found in Ontario, with Amherstburg and LaSalle reporting the lowest.
+
+Text box 2
+
+Factors affecting police-reported crime statistics There are many factors that can influence police-reported crime statistics including local police service policies and procedures; changes in various demographic, social and economic factors; neighbourhood characteristics; technological advancements; legislative amendments; and public perception and attitudes. Differences in local police service policies, procedures and enforcement practices can affect crime statistics. Some police services maintain call centres or allow for on-line reporting to receive and record criminal incidents, while others require victims to report crimes in person. Further, in some jurisdictions, less serious offences may be dealt with through municipal 311 call centres, by-law services or provincial legislation. Examples of these include noise complaints, mischief and fail to stop or remain. Finally, offences such as impaired driving, prostitution and drug crimes may be influenced by police practices that focus more efforts on addressing these types of offences when time, resources and priorities permit. Among demographic factors, change in the age structure of the population has been shown to influence the volume of crime that is committed. In general, crime rates tend to decrease with age (see Police-reported youth crime section). In addition, social and economic factors such as shifts in inflation, alcohol consumption and unemployment rates have also been found to be associated with certain crime trends (Pottie-Bunge et al. 2005). Differences in neighbourhood characteristics can also affect crime statistics. Studies have shown that the type and volume of crime reported by police can vary based on the population density, residential mobility and economic activities of neighbourhoods (Charron 2009). The advent of new technologies has created new types and opportunities for crime ( for example cyber crime) (Nuth 2008). In the same vein, changes to criminal justice legislation, such as the introduction of a new offence, can impact police enforcement practices which may in turn affect the number of police-reported criminal incidents. Societal attitudes and perceptions of certain crimes, such as sexual assault or spousal violence, can also affect the number of incidents reported to police (Bowles et al. 2009). The ease of public reporting and the perception surrounding an incident can impact whether a criminal incident becomes known to police and subsequently reported to Statistics Canada through the UCR Survey. End of text box 2.
+
+Violent crime
+
+Violent crime severity decreases for fifth consecutive year
+
+Both the volume and severity of violent crime declined in 2011. The violent crime rate fell 4% between 2010 and 2011, as did the violent CSI , marking the fifth consecutive drop in the severity of violent crime (Table 1a, Table 1b).
+
+Similar to previous years, violent crimes accounted for about one-fifth of offences reported by police in 2011. Police reported more than 424,400 violent incidents, 14,800 fewer than in 2010.
+
+Almost every type of violent crime decreased or remained stable in 2011, with the exception of a 7% increase in the rate of homicides, a 3% increase in the rate of sexual offences against children and a 1% increase in criminal harassment (Table 4).
+
+The severity of violent crime declined or remained stable across every province and territory in 2011. Prince Edward Island reported the lowest violent CSI value among the provinces, while Manitoba continued to report the highest (Table 2b).
+
+With a 6% increase in 2011, Winnipeg reported the highest violent CSI (173.8) among census metropolitan areas (CMAs), well above Saskatoon's violent CSI of 134.5, the next highest CMA (Chart 9). Five other CMAs recorded increases in their violent CSI , with the largest being reported in Gatineau (+14%) and Guelph (+8%) (Table 3).
+
+Chart 9
+
+Police-reported Violent Crime Severity Index, by census metropolitan area, 2011
+
+Data table for chart 9
+
+1. Gatineau refers to the Quebec part of the Ottawa–Gatineau CMA .
+
+2. Ottawa refers to the Ontario part of the Ottawa–Gatineau CMA .
+
+Note: The Oshawa census metropolitan area (CMA) is excluded from this chart due to the incongruity between the police service jurisdictional boundaries and the CMA boundaries.
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Homicide rate increases in 2011
+
+In general, homicide is a relatively rare event in Canada. Studies have shown that death as a result of homicide is lower than mortality resulting from unintentional injuries and suicide (Statistics Canada 2012b). As one of the few types of violent crime that almost invariably comes to the attention of police, homicide is generally recognized as a country's barometer of violence (Marshall and Block 2004).
+
+In 2011, there were 598 homicides in Canada, 44 more than the previous year, marking a 7% increase in the homicide rate (1.7 per 100,000 population) (Table 4, Chart 10). The homicide rate has generally been decreasing since peaking in the mid-1970s.
+
+Chart 10
+
+Attempted murder and homicide, police-reported rates, Canada, 1981 to 2011
+
+Data table for chart 10
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+With 109 homicides in 2011 (32 more than in 2010), Alberta saw the largest increase in homicide rates in 2011, up 39%, followed by Quebec (+24%) with 21 more homicides than in 2010 (Table 5). With 28 fewer homicides in 2011 than in 2010, the rate in Ontario reached its lowest point since 1966. British Columbia's homicide rate was the second lowest seen in the province since 1964, despite a 4% increase between 2010 and 2011.
+
+Manitoba maintained the highest rate of homicide among the provinces for the fifth year in a row, followed by Saskatchewan and Alberta (Chart 11). Among the provinces, Prince Edward Island and Newfoundland and Labrador reported the lowest rates. Yukon was the only jurisdiction to report no homicides.
+
+Chart 11
+
+Homicide, police-reported rate, by province and territory, 2011
+
+Data table for chart 11
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+With 39 homicides in 2011, Winnipeg reported the highest homicide rate (5.1 homicides per 100,000 population) among all CMAs (Table 6). It was also the highest rate recorded in Winnipeg since 1981 when CMA data became available. The next highest rates were reported in Halifax (4.4) and Edmonton (4.2). The rate in Halifax was also its highest since 1981. Three CMAs reported no homicides in 2011: Moncton, Kingston and Greater Sudbury.
+
+Although the homicide rate increased in 2011, the attempted murder rate declined, down 3% from the previous year. Overall, there were 655 attempted murders reported by police in 2011, 13 fewer than 2010. Though the rate of attempted murder has remained consistently higher than the homicide rate since the 1980s, these offences continue to display similar trends over time (Chart 10).
+
+Aggravated assault and assault with a weapon decrease for fourth consecutive year
+
+Assault is the most prevalent form of violent crime in Canada, accounting for close to 6 in 10 violent offences reported by police. In 2011, police reported close to 241,500 assaults, most of which (72%) were classified as common assaults (level 1), the least serious form in which little or no injury was caused to the victim. Common assaults have gradually declined over the past 10 years, including a 2% rate decrease in 2010.
+
+In addition to level 1 assault, there is also assault with a weapon or causing bodily harm (level 2) and aggravated assault in which the victim is wounded, maimed or disfigured (level 3). In 2011, the combined rate of level 2 and level 3 assaults declined for the fourth consecutive year, down 4% from 2010 (Chart 12).
+
+Chart 12
+
+Major assault (levels 2 and 3) and robbery, police-reported rates, Canada, 1981 to 2011
+
+Data table for chart 12
+
+Note: Trend data for serious assault begin in 1983 when legislation affecting the classification of assault came into effect. Revisions have been applied to robbery data back to 1998. As a result, there is a break in the data series between 1997 and 1998.
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Despite an overall decrease in the national rate of major assault, some provinces reported increases between 2010 and 2011. Nova Scotia reported the largest increase in major assaults, up 15% from the previous year. Prince Edward Island and Newfoundland and Labrador also saw small increases in 2011.
+
+Overall, Saskatchewan and Manitoba reported the highest rates of major assault (levels 2 and 3). Similar to previous years, the rate of major assault in these provinces was about double those in most other provinces (Table 5).
+
+Robbery rates decreased or remained stable across most of the country
+
+Continuing a downward trend, the rate of robbery declined 3% in 2011 (Chart 12). Police reported more than 29,700 robberies in 2011, 700 less than the year before.
+
+Police-reported robbery rates decreased or remained stable across most of the country, with the exception of Quebec (+4%). Provincially, the largest declines in robbery rates occurred in the Atlantic provinces: Newfoundland and Labrador (-32%) and Prince Edward Island (-28%).
+
+Among all provinces and territories, Manitoba reported the highest rate of robbery. Unlike other forms of violent crime, robbery rates in the territories have typically been among the lowest in the country, a trend which continued in 2011 (Table 5).
+
+As seen at the provincial level, most census metropolitan areas reported declining robbery rates. St. John's saw the largest decline, down 43% from 2010. However, some CMAs reported substantial increases: Barrie (+30%) and Greater Sudbury (+30%). With a 3% increase from 2010, Winnipeg continued to have the highest rate of robbery in the country (Table 6).
+
+Police-reported rate of sexual assault continues downward trend
+
+Similar to physical assault, sexual assault is categorized into three types, based on the severity of the incident. In 2011, police reported just over 21,800 sexual assaults, the majority of which (98%) were classified as level 1, the least serious of the three forms (Table 4).
+
+Overall, the rate of sexual assault declined in 2011, down 3% from the previous year. While all three types of sexual assault decreased, aggravated sexual assault (level 3) saw the greatest decline (-23%).
+
+Most provinces reported a decline in the rate of sexual assaults in 2011. Of those showing increases, Prince Edward Island was the largest (+22%), yet still reported the second lowest rate.
+
+It is important to note that the number of sexual assaults reported by police is likely an undercount of the actual number of sexual assaults that occur. Self-reported victimization data from the General Social Survey have consistently shown that most sexual assaults are not brought to the attention of police (Perreault and Brennan 2010; Brennan and Taylor-Butts 2008). There are many reasons that victims gave for not reporting sexual assaults to police, including the belief that the incident wasn't important enough, feeling that it was a private matter and dealing with the situation in another way (Statistics Canada 2011, Brennan and Taylor-Butts 2008).
+
+Sexual offences against children increase
+
+In addition to capturing information on the three levels of sexual assault, the UCR also collects information on sexual violations specific to children, a category which includes sexual interference, invitation to sexual touching, sexual exploitation, and luring a child via a computer.
+
+Police reported over 3,800 incidents of sexual violations against children in 2011. The rate of sexual violations against children rose 3% between 2010 and 2011, making it one of the few categories of violent offences to increase in 2011 (Table 5). Among the specific offences included in this category, the rate of invitation to sexual touching (+8%) and luring a child via a computer (+10%) increased, while sexual interference remained stable and sexual exploitation decreased 7%.
+
+Non-violent crime
+
+Severity of non-violent crime continues to decrease
+
+In 2011, the majority of offences reported by police were non-violent in nature, with property and other Criminal Code offences accounting for about 4 in 5 police-reported crimes. Theft under $5,000, mischief, break-ins and administration of justice offences were the most common type of non-violent crimes.
+
+The rate of property offences reported by police in 2011 fell 8%, marking the eighth consecutive decrease, while the rate of other Criminal Code offences dropped 2%. The severity of non-violent crimes also decreased in 2011, down 7% compared to 2010.
+
+The non-violent Crime Severity Index decreased or remained stable in every province and territory. Despite a 1% decrease in 2011, Saskatchewan continued to report the highest non-violent CSI among the provinces, while Ontario reported the lowest (Table 2b).
+
+Break-ins declining since 1981
+
+In 2011, break-ins were one of the most common forms of property crime in Canada. Police reported over 181,200 break-ins, accounting for 15% of all property-related offences. Over the past 30 years, the rate of break-ins has steadily declined, a trend which continued in 2011 (Chart 13). The rate of break-ins was 9% lower compared to the previous year, and 42% lower than a decade earlier (Table 4).
+
+Chart 13
+
+Break and enter, and motor vehicle theft, police-reported rates, Canada, 1981 to 2011
+
+Data table for chart 13
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Every province saw a decrease in the rate of break-ins, with the largest declines occurring in Alberta (-19%), Nova Scotia (-10%), and Manitoba (-10%). Saskatchewan reported the highest rate of break-ins, while Ontario reported the lowest (Table 5).
+
+The rate of break-ins also declined across most CMAs , with Saint John (-31%), Edmonton (-26%) and Halifax (-24%) reporting the most substantial drops. However, some CMAs did report increases in the rate of break–ins, including London (+12%) and Thunder Bay (+7%). Overall, St. John's reported the highest rate of break-ins, while Toronto reported the lowest rate for the fourth consecutive year (Table 6).
+
+In general, most break-ins occur in private residences. For example, in 2011, more than 6 in 10 (63%) break-ins were residential, while 28% were commercial and 10% were committed at another location, such as a school, shed or detached garage. The rate of break-ins to residences fell by 7% while break-ins to business decreased by 11%.
+
+Motor vehicle thefts continue to decline
+
+Police reported just over 82,400 motor vehicle thefts in 2011, about 226 stolen vehicles per day. After peaking in the mid-1990s, the rate of motor vehicle theft has been gradually declining. Overall, the rate of motor vehicle theft declined 12% from 2010 and was 56% lower than 10 years earlier (Chart 13, Table 4).
+
+Most provinces saw a decrease in the rate of motor vehicle theft in 2011, with the exception of increases in most of the Atlantic Provinces: Newfoundland and Labrador (+6%), Prince Edward Island (+3%) and Nova Scotia (+2%). Saskatchewan reported the highest rate of motor vehicle theft, followed by Alberta and Manitoba (Table 5).
+
+Similar to trends at the provincial level, almost every CMA reported a drop in the rate of motor vehicle theft in 2011, with the largest declines occurring in Sherbrooke (-38%), Victoria (-38%) and Winnipeg (-37%). Only six CMAs showed an increase in the rate of motor vehicle theft, with the largest increases occurring in Guelph (+23%), Saskatoon (+23%), and Moncton (+12%). Overall, the rate of motor vehicle theft was highest in Saskatoon and lowest in Kingston (Table 6).
+
+Text box 3
+
+Measuring crime through victimization surveys In addition to using police-reported data, crime can also be measured through the use of self-reported victimization surveys, such as the General Social Survey (GSS) on Victimization. Conducted every 5 years, the GSS on Victimization asks Canadians 15 years and older about their experiences of victimization for 8 crime types: sexual assault, robbery, physical assault, theft of personal property, break and enter, theft of motor vehicles or their parts, theft of household property and vandalism. One advantage of the GSS is that it collects information on incidents that may not have been reported to police. In 2009, the latest year of available statistics, it was estimated that about two-thirds of all criminal victimizations were not reported to police. Conversely, the GSS is limited to eight crime types and relies upon respondents to accurately recall and report events. For further information on the results from the 2009 GSS , see "Criminal victimization in Canada, 2009" (Perreault and Brennan 2010). End of text box 3.
+
+Impaired driving increases for fourth time in past five years
+
+Police reported close to 90,300 incidents of impaired driving in 2011, 3,000 more than the year before. The rate of impaired driving increased 2% in 2011, marking the fourth increase in the past five years. Prior to these recent increases, the impaired driving rate had steadily decreased during the 1980's and 1990's (Chart 14).
+
+Among the provinces, the largest increases in impaired driving rates in 2011 were seen in British Columbia (+15%), Saskatchewan (+9%) and Manitoba (+7%) (Table 5).
+
+Chart 14
+
+Drug offences and impaired driving, police-reported rates, Canada, 1981 to 2011
+
+Data table for chart 14
+
+Note: Includes alcohol and/or drug impaired operation of a vehicle, alcohol and/or drug impaired operation of a vehicle causing death or bodily harm, failure or refusal to comply with testing for the presence of alcohol or drugs and failure or refusal to provide a breath or blood sample.
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+In spite of the overall increase in the impaired driving rate, the most serious form of this offence decreased in 2011 as the rate of impaired operation causing death decreased 29% from 2010.
+
+The number of impaired driving offences reported by police can be influenced by a number of factors, including changes in legislation, enforcement practices ( for example use of R.I.D.E programs) and changing societal attitudes toward drinking and driving.
+
+Since July 2008, new legislation has allowed police to conduct mandatory roadside tests and assessments of drivers suspected to be impaired by drugs. Drug impairment accounted for 2% of all impaired driving offences, with close to 1,900 incidents in 2011, 160 fewer than 2010.
+
+Cannabis possession offences continue to increase
+
+In Canada, drug offences such as possession, trafficking, importation/exportation and production fall under the purview of the Controlled Drugs and Substances Act. In 2011, police reported more than 113,100 drug crimes, of which more than half (54%) were for the possession of cannabis (Table 4).
+
+The rate of police-reported drug crime increased slightly in 2011, continuing an upward trend which began in the early 1990's (Chart 14). The increase in 2011 was driven by a 7% rise in the rate of cannabis possession offences. However, the rate of trafficking, production and distribution of cannabis declined 11%.
+
+Similar to previous years, British Columbia reported the highest rate of drug offences among the provinces. While British Columbia was highest for cannabis offences, Saskatchewan reported the highest rate of cocaine offences, with a 73% increase in 2011 (Table 5).
+
+Characteristics of accused persons
+
+Males account for 4 in 5 adults charged, but female rates increasing over past decade
+
+In general, males tend to commit crime more frequently than females, a trend which continued in 2011. Of the almost 413,800 adults (age 18 years and older) charged with a criminal offence in 2011, 79% were male.
+
+Regardless of the type of offence, males were consistently more likely than females to be the accused. Sexual offences showed the highest representation of males: 98% of all persons charged with sexual assault level 1, child pornography and sexual violations against children in 2011 were male. The offences with the highest representation of females included abduction (49%), prostitution (47%) and theft under $5,000 (37%).
+
+While the rate of adult males charged with a criminal offence has been declining over the past 20 years, the rate of adult females charged has generally been increasing over the past decade. This difference in trends is even more pronounced for violent crime, particularly over the past 20 years. Since 1991, the rate of males charged with violent crime has declined 32%, while the rate for females has increased 34%. However, males still accounted for more than 4 in 5 people accused of violent crime in 2011.
+
+Police-reported youth crime
+
+In Canada, youth (12 to 17 years) and adults (18 years and older) accused of crime are governed by separate justice systems. It has been long acknowledged that, while youth should be held accountable for the actions they commit, they lack the maturity of adults, and as such the principles of justice that apply to adults are not necessarily suitable for younger Canadians (Casavant et al. 2008). This section examines the nature and prevalence of crime committed by youth.
+
+Less than one-half of youth accused are formally charged by police
+
+On the whole, police-reported rates of offending tend to be higher among youth and young adults (Chart 15). Rates tend to increase incrementally among those aged 12 to 17, peak among those aged 18, and then decrease with increasing age.
+
+Chart 15
+
+Persons accused of crime, age 12 to 65 years, Canada, 2011
+
+Data table for chart 15
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Over 135,600 youth were accused of a Criminal Code offence in 2011, about 18,100 fewer than in 2010. The number of accused includes youth who were charged (or recommended for charging) by police, and those who were dealt with by means other than the formal laying of a charge. Examples of youth not formally charged include youth diverted from the formal criminal justice system through the use of warnings, cautions and referrals to community programs.
+
+Historically, youth in Canada were more likely to be formally charged than dealt with by other means. As of 2003, however, this trend reversed and the number of youth who were diverted from the formal justice system began to exceed the number of youth who were formally charged (Chart 16). This change corresponds to the year in which the Youth Criminal Justice Act was implemented, legislation which established clear guidelines for the implementation and use of extrajudicial measures (i.e. informal sanctions) for youth. In 2011, 57% of youth were diverted from the justice system while 43% were formally charged.
+
+Chart 16
+
+Youth accused of crime, by clearance status, Canada, 2001 to 2011
+
+Data table for chart 16
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Volume and severity of youth crime decline in 2011
+
+Mirroring crime trends in general, the volume and severity of youth crime have also been declining over the past decade. Between 2010 and 2011, both the youth crime rate and the youth CSI fell 10% (Table 7a, Table 7b). Since 2001, the youth CSI fell by 22% (Chart 17, Table 7b). However, the decline in youth violent crime severity over the past decade has been more modest, down 3%.
+
+Chart 17
+
+Police-reported youth crime severity indexes, Canada, 2001 to 2011
+
+Data table for chart 17
+
+Note: Indexes have been standardized to a base year of 2006 which is equal to 100.
+
+Source: Statistics Canada, Canadian Centre for Justice Statistics, Uniform Crime Reporting Survey.
+
+Decreases in youth crime were seen among the most serious types of crime. For example, there were 46 youth accused of homicide in 2011, 10 fewer than in 2010, which resulted in a 16% drop in the rate. Further, the rate of major assault and robbery dropped 4% from 2010. Declines were also seen in the rate of youth accused of most non-violent crimes, including break-ins (-15%) and motor-vehicle theft (-4%) (Table 8).
+
+In 2011, every province reported decreases in the youth CSI and the youth violent CSI (Table 9). The youth CSI was lowest in British Columbia, Prince Edward Island and Quebec and highest in Saskatchewan, Manitoba and Nova Scotia.
+
+Overall, both the volume and severity of crime in Canada continued to decline in 2011, with drops reported across most provinces and territories and all census metropolitan areas. Declines were seen in virtually all offences, with the exception of homicide, sexual offences against children, criminal harassment, impaired driving and some drug offences. Youth crime also fell in 2011.
+
+Data source
+
+Uniform Crime Reporting (UCR) Survey
+
+The Uniform Crime Reporting (UCR) Survey was established in 1962 with the co-operation and assistance of the Canadian Association of Chiefs of Police. The scope of the survey is Criminal Code offence and Other Federal Statutes that have been reported to all federal, provincial and municipal police services in Canada and that have been substantiated through investigation by these services.
+
+Coverage of the UCR aggregate data reflects virtually 100% of the total caseload for all police services in Canada. One incident can involve multiple offences. In order to ensure comparability, counts presented in this article are based upon the most serious offence in the incident as determined by a standard classification rule used by all police services. Counts based upon all violations are available upon request.
+
+Each year, the UCR database is "frozen" at the end of May for the production of crime statistics for the preceding calendar year. However, police services continue to send updated data to Statistics Canada after this date for incidents that occurred in previous years. Generally, these revisions constitute new accused records, as incidents are solved and accused persons are identified by police. However, in some cases, new incidents may be added and previously reported incidents may be deleted as new information becomes known.
+
+Revisions are accepted for a one-year period after the data are initially released. For example, when the 2011 crime statistics are released, the 2010 data are updated with any revisions that have been made between May 2011 and May 2012. The data are revised only once and are then permanently frozen.
+
+Over the past 10 years, the number of incidents in the previous year has been revised downward three times and upward seven times, with an average change of 0.2%. For accused persons, there has been an average upward revision of about 1% to the previous year's data.
+
+Detailed data tables
+
+Table 1a Police-reported crime rate, Canada, 2001 to 2011
+
+Table 1b Police-reported crime severity indexes, Canada, 2001 to 2011
+
+Table 2a Police-reported crime rate, by province and territory, 2011
+
+Table 2b Police-reported crime severity indexes, by province and territory, 2011
+
+Table 3 Police-reported crime severity indexes, by census metropolitan area, 2011
+
+Table 4 Police-reported crime for selected offences, Canada, 2010 and 2011
+
+Table 5 Police-reported crime for selected offences, by province and territory, 2011
+
+Table 6 Police-reported crime for selected offences, by census metropolitan area, 2011
+
+Table 7a Youth accused of police-reported crime, Canada, 2001 to 2011
+
+Table 7b Police-reported youth crime severity indexes, Canada, 2001 to 2011
+
+Table 8 Police-reported youth crime for selected offences, by province and territory, 2011
+
+Table 9 Police-reported youth crime severity indexes, by province and territory, 2011
+
+Babyak, Colin, Asma Alavi, Krista Collins, Amanda Halladay and Dawn Tapper. 2009. The Methodology of the Police-Reported Crime Severity Index. Statistics Canada, Household Surveys Methods Division. HSMD-2009-006E/F. Ottawa.
+
+Bowles, Roger, Marcia Garcia Reyes and Nuno Garoupa. 2009. "Crime reporting decisions and the costs of crime." European Journal on Criminal Policy and Research. Vol. 15, no. 4. p. 365-377.
+
+Brennan, Shannon and Andrea Taylor-Butts. 2008. Sexual Assault in Canada, 2004 and 2007. Canadian Centre for Justice Statistics Profile Series, no. 19. Statistics Canada Catalogue no. 85F0033M. (accessed June 5, 2012).
+
+Casavant, Lyne, Robin MacKay and Dominique Valiquet. 2008. Youth Justice Legislation in Canada. Legal and Legislative Affairs Division. Library of Parliament. PRB-08-23E. Ottawa. Canada. (accessed February 9, 2012).
+
+Charron, Mathieu. 2009. Neighbourhood Characteristics and the Distribution of Police-reported Crime in the City of Toronto. Crime and Justice Research Paper Series, no. 18. Statistics Canada Catalogue no. 85-561-M. (accessed June 5, 2012).
+
+Human Resources and Skills Development Canada (HRSDC). 2012. Indicators of Well-being in Canada. (accessed April 16, 2012).
+
+Marshall, Ineke and Carolyn Block. 2004. "Maximizing the availability of cross-national data on homicide." Homicide Studies. Vol. 8, no. 3. p. 267-310.
+
+Nuth, Maryke. 2008. "Taking advantage of new technologies: For and against crime." Computer Law and Security Report. Vol. 24, no. 5. p. 437-446.
+
+Perreault, Samuel and Shannon Brennan. 2010. "Criminal victimization in Canada, 2009." Juristat. Vol. 30, no. 2. Statistics Canada Catalogue no. 85-002-X. (accessed April 12, 2012).
+
+Pottie-Bunge, Valerie, Holly Johnson and Thierno Baldé. 2005. Exploring Crime Patterns in Canada. Crime and Justice Research Paper Series, no. 5. Statistics Canada Catalogue no. 85-561-MIE. Ottawa. (accessed April 12, 2012).
+
+Statistics Canada. 2012a. "Crime Severity Index values for 239 police services policing communities over 10,000 population, 2011". July 24, 2012.
+
+Statistics Canada, 2012b. Canada at a Glance, 2012. Statistics Canada Catalogue no. 12-581-X. (accessed April 16, 2012).
+
+Statistics Canada, 2011. Special tabulation, based on 2009 General Social Survey.
+
+Wallace, Marnie, John Turner, Colin Babyak and Anthony Matarazzo. 2009. Measuring Crime in Canada: Introducing the Crime Severity Index and Improvements to the Uniform Crime Reporting Survey. Statistics Canada Catalogue no. 85-004-X. (accessed May 6, 2012).

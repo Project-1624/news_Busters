@@ -1,0 +1,69 @@
+Why what Cambridge Analytica did was Unacceptable
+
+Rayid Ghani Blocked Unblock Follow Following Mar 20, 2018
+
+And how we can future-proof against it
+
+The last few days, we’ve all been hearing about Cambridge Analytica, the Trump Campaign, and their use of Facebook data in the 2016 campaign. Some of you have probably also heard that 1) this use of Facebook data is not new, 2) that Cambridge Analytica wasn’t alone in doing this sort of thing, and 3) that even the Obama 2012 Campaign did similar things, and the media and the public praised them instead of criticizing them as is being done to Cambridge Analytica.
+
+I’ve been asked for comments from quite a number of people so I wanted to write this to make clear what some of the issues are around this data, what the Obama Campaign did with Facebook data — how we collected it, what analysis was done with it, what actions were taken based on it, and how it’s different than what it seems that Cambridge Analytica did.
+
+How we collected this data?
+
+We, as Obama for America, collected the data ourselves, with our own app, with processes that were compliant with the Facebook terms of use, with authorization and permissions from our supporters. The typical practice was to email our supporters (who had signed up to our mailing list) and ask them to authorize our facebook app and allow us to access certain pieces of their profile (such as their posts, likes, photos, demographics, and similar information about their Facebook friends). This was done using the Facebook platform (just like any other app uses it without any special privileges from Facebook, with a lot of guidelines and rules around how the data can be used). A click on our link would open the Facebook website and the FB permissions window, asking the user to approve or deny our request, which was very clearly coming from Obama for America.
+
+A large number of users did authorize us to access this data — the purpose was primarily to provide them with a list of their facebook friends they could contact to help us get them registered to vote, persuade them to vote for us, and turn them out to to vote during the campaign. This is not dissimilar to us asking them offline to talk to their neighbors and friends, and to do phone banking and canvassing but done in a more data-driven way to benefit the campaign as well as make efficient use of our supporters’s time (so they’re ideally contacting friends who are not registered to vote for example).
+
+How is it different than what Cambridge Analytica did?
+
+I’m not an expert on what Cambridge Analytica and the Trump campaign did with Facebook data. All I know is what I’ve read from public sources and based on that information, it seems to me that their use of data that was collected using Facebook was very different. From what I’ve read from public sources, Cambridge Analytica did not collect this data themselves and/or directly. Global Science Research (GSR) created an app to collect this data for research purposes and then sold/provided it to Cambridge Analytica without any consent or knowledge of the people who gave initial permissions for the research study. That’s a problem. The users authorized an app for a specific reason and this data was supposedly used for additional purposes (from what I can tell by reading the articles).
+
+In our case, we did not buy or access any facebook profile data that was collected for another purpose. We explicitly asked our supporters to give us permission (through the standard facebook protocols) to access this data. This data was only used to ask for their help in contacting their facebook friends (through facebook sharing and tagging) for a variety of asks (registration, turnout, etc.) during the campaign.
+
+What we collected?
+
+We did not scrape everything available on facebook about everyone we could. As part of the app approval process, we were asked (like all app developers are) by Facebook to justify why each piece of information was being asked for, and what additional experience it would provide to the user.
+
+We worked very hard to figure out the minimal amount of information we needed to collect in order to provide useful recommendations to our supporters.
+
+We kept the data secure.
+
+We abided by facebook terms of use and privacy policies. We did not give our data to anyone else and did not buy/acquire facebook profile data from anyone else as well.
+
+We respected the permissions provided to us by our supporters (and there was no way for us to access this data without the supporter giving us explicit permission and if they denied permission, we did not have access to those profiles).
+
+As has been reported, in 2015, Facebook took away the ability to ask for most of the information about a user’s friends, essentially making this type of data collection much more difficult. This was a good move by Facebook — my Facebook friends should not have the ability to give away my data to anyone without my permission, which is essentially what was happening earlier.
+
+What we did with it?
+
+We did not build any complex (certainly not the so-called psychographic) models of facebook users using their facebook data. Most of the models we built were using the publicly available “voter file” that contains information people typically provide when filling out their voter registrations forms. We did build models to understand which of a supporter’s friends we want to ask to register to vote, or to get them to vote and how likely the friend was to take action based on the ask.
+
+We only contacted the people who had given us access and permission to get their own email address. We did not get any contact information for their friend and did not (and could not ) contact any of their friends directly. All we could do was ask our “primary” supporters to contact their friends and we would recommend who those friends were based on the data they allowed us to access.
+
+Was it useful?
+
+Yes it was. It allowed us to use our supporters networks to reach people that we probably would not have reached otherwise through typical channels (phone calls ,door knocks, tv, radio, print). Would we have won the elections without it? In hindsight, probably yes.
+
+I’m proud of the work we did at OFA, for building new data-driven tools for digital organizing and for being a small part of the Obama team. We wanted to win the elections, but not at all costs. We were not only doing everything legally, but also ethically. Doing the right thing was important to all of us involved in this project. I believe that data, analytics, and technology should not win elections — policies should win elections. Data, analytics, and technology help but eventually it’s the ability to inspire, persuade, and mobilize people to vote for you based on your policies that should create presidents (and other elected officials).
+
+For that to happen effectively, a few things need to happen:
+
+1. Awareness. The public needs to be aware of what data is being collected about them, what it is being used for, who it is shared /sold to, and what they’re doing with it. We need to push corporations to make their privacy policies and terms of use more human-friendly, and less fine-print. There are too many organizations, in the political and commercial world, that are relying on unaware users giving away information about themselves, that is then being sold to third parties without their explicit knowledge or consent. That needs to stop, and regulatory agencies need to do a better job of informing the public, and creating incentives and/or policies that force those organizations to do the right thing.
+
+I’ve always wanted to build a little browser plug-in that makes your browser turn red if you’re on a site that has questionable data collection, sharing, and privacy policies. If Google can make ad blocking part of standard Chrome, why not also add this extension? I’m sure it won’t be trivial to define “questionable” but most of us would agree on some starting principles and we can iterate from there. Another point: Phrases such as “exploit”, “harvest”, “siphoning”, and “build psychographic profiles” cause unnecessary fear without explaining the reason for that fear. We deserve a more nuanced narrative.
+
+2. More oversight of new ways of doing old things: I talked to a lot of people about Facebook dark posts in the aftermath of 2016 US elections. We don’t know how much they were used, or how effective they were, but the fact that they exist is troubling. For most of facebook’s life, a post that was sponsored/promoted to advertise to facebook users had to be a real facebook post that was visible to everyone and then boosted through ads. Typically, an organization would post something on their facebook page (that anyone could see if they went there, and a small fraction of people who liked their page would see that post in their feed based on facebook’s ranking algorithm). Organizations could target ads in a lot of ways using these posts but anyone could, theoretically, see the post if they went to the page that created it. That allowed messages to be audited, allowed reporters to fact-check, among other things.
+
+Dark posts changed that. You did not need to create a public post before using it in an ad. You could create a “draft” post, never publish it but still show it as an ad to a targeted set of users. Essentially, that post would only exist for people who were targeted, and nobody else would ever know it existed, even if they looked for it. FEC regulates political advertising on TV, radio, and print. They monitor how TV ads are bought and sold, and those ads need to be labeled and approved by the campaign. Dark posts do not fall under this umbrella and can be difficult to track, attribute or be verified to exist. We need FEC to treat digital ads the same way they treat other advertising — it makes no sense that they do not.
+
+3. Better enforcement mechanisms around the entire data lifecycle: Platforms such as Facebook controlling who accesses the data is a good thing. What they have a difficult time doing is efficiently/cheaply/reliably enforcing (or even knowing) what happens to the data after it’s collected. When we collected data from a user’s facebook profile after they authorized us, our ability to update the data was limited to a couple of months (unless the user re-authorized us). That is a good enforcement mechanism for making sure that this access is not permanent but doesn’t protect the data from being misused or given to third parties. Today, terms of use are used to enforce it, which essentially means relying on the competence and integrity of the data collectors. We need more automated enforcement tools (incorporating the legal and ethical needs) to make sure people collecting this data abide by the terms of use (which of course also need to incorporate ethical concerns).
+
+Summary:
+
+1. Based on publicly available information and my non-legal opinion, what Cambridge Analytica did was unethical and possibly illegal.
+
+2. Despite some claims that the Obama campaign did the same thing, that is just not true. We complied with all facebook’s terms of use and privacy policies and protected the privacy and information of the users who gave us consent to use their facebook information through the facebook platform. Facebook did not look the other way, because they did not need to.
+
+3. We need to improve the public’s awareness of how their data is being collected, shared, sold, and used in general. We also need to differentiate corporate use of data, purely for profit or organizational gain versus use of data to provide improved social benefits (health, employment, social services). The public deserves to get a nuanced view of data use because it’s not simple. Government and regulatory agencies need to improve how they help the public achieve that.
+
+In my current job, I teach and work with governments and non-profits to help them use data to improve their decision-making and policies to create a better, equitable society. The use of data is critical in achieving that but what’s also critical is doing it legally, ethically, and the public having trust in the collection and use of their data. We cannot live in a world where no data is being used to make any decisions. Equally, we cannot live in a world where anyone can use anyone else’s data for anything. Reality needs to be somewhere in the middle, with legal and ethical guidelines, and with the public being a critical part of this conversation.

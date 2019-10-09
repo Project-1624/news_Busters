@@ -1,0 +1,34 @@
+Very bad analysis of a 2008 email is Donald Trump’s new excuse for why he’s losing
+A boy wears a Trump mask as supporters rally with Donald Trump in Fletcher, N.C., Oct. 21. (Jonathan Ernst/Reuters)
+
+Earlier Monday morning, Matt Drudge's Drudge Report (which has become a centralized resource of Donald Trump-friendly stories) highlighted a story at the blog ZeroHedge. A new email released by WikiLeaks, it seems, shows the “playbook” for “rigging” polls.
+
+ZeroHedge is normally an economics-focused blog, but in recent months it has joined the sprawling galaxy of Trump-friendly outlets. In this particular article, the site's anonymous author, Tyler Durden (a pen name used by several writers), dips into an email sent by Democratic activist Tom Matzzie in 2008.
+
+The email reads:
+
+I also want to get your Atlas folks to recommend oversamples for our polling before we start in February. By market, regions, etc. I want to get this all compiled into one set of recommendations so we can maximize what we get out of our media polling.
+
+“Durden” declares that this is “how you manufacture a 12-point lead for your chosen candidate and effectively chill the vote of your opposition.” After all, many polls include more Democrats than Republicans in their samples, which, naturally, gives Clinton an advantage.
+
+Trump himself apparently tweeted about the story.
+
+But this interpretation of the email is laughably incorrect.
+
+First of all, Matzzie doesn't appear to be talking about public polling — nor does it make sense that he would be, since public polls from media outlets are developed by pollsters who work for or with those outlets. Matzzie's talking about polling that's done by campaigns and political action committees to inform media buys. In other words, before campaigns spend $200,000 on a flight of TV spots, they'll poll on the messages in those ads and figure out what to say to whom and then target that ad to those people as best they can.
+
+The problem is that it can be hard to find enough people to get robust enough sample sizes to offer the necessary information. Normal polling in a state will usually have no problem getting enough white people in the mix to evaluate where they stand, but you may need to specifically target more black or Hispanic voters to get a statistically relevant sample size.
+
+The chart below shows how sample size and margin of error correlate.
+
+Small samples of poll respondents mean a huge margin of error. Until you get to about 400 people in your sample, the margin of error drops quickly; once you pass 400, though, it doesn't change a whole lot. (This is why a lot of polls use sample sizes of 400 to 600.) If you're trying to figure out how to craft a message to Hispanic voters in Colorado, for example, you're going to need to seek out more Hispanic voters in the state to include in the survey. This is called an oversample, since it's an intentional effort to include more people from a certain group in your sampling.
+
+Matzzie was sent a document from a group called “The Atlas Project” that recommended what that oversampling should look like. Here's a snippet from the section on Arizona.
+
+They recommend an oversample from Native Americans and Democrat-leaning independents and moderate Republican women. Those are all groups that are fairly small parts of the electorate, so to get statistically accurate data, you'd need to make sure you include more of those voters in your poll sample. This increases the cost of the polling substantially, but if you're spending hundreds of thousands on TV ads, it's worth spending an extra $20,000 up front to make sure that you're targeting the ads right.
+
+So why do pollsters include more Democrats in their samples than Republicans? Well, because there is a secret national conspiracy in which there actually are more Democrats than Republicans. Gallup tracks party identification over time; in its most recent summary, 32 percent of Americans identify as Democrats to 27 percent who identify as Republicans. (Analysis from Pew Research has it at 30 percent to 24 percent.) The vagaries of polling and identifying poll respondents mean that there can be some fluctuations in the gap between the parties, but overall a national poll would be expected to include more Democrats than Republicans. And note that this is party identity, not party registration.
+
+In short, then: This is an eight-year-old email talking about a common polling technique for ensuring accuracy among demographic subgroups from a guy who was not working for or representative of a media outlet.
+
+It is not, in other words, an explanation of why Trump is losing.

@@ -1,0 +1,4 @@
+FM Stations Listed by Frequency
+Notes on Web Audio:
+
+Many radio stations broadcast live over the internet using streaming audio technology. Those stations marked in the "Audio" column broadcast using the RealAudio (.ra, .ram) format. If it is not already installed on your system, you can download the free RealPlayer to play .ra or .ram files from the Real Networks website. Some RealAudio streams require the latest version of the RealPlayer. Those stations marked in the "Audio" column broadcast using Microsoft`s Advanced Streaming Format (.asf, .asx). If it is not already installed on your system, you can download the free Microsoft Windows Media Player to play .asf or .asx files from the Microsoft Windows Media Player website.

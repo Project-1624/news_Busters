@@ -1,0 +1,26 @@
+K20 Education Data Warehouse
+PK20 Education Data Warehouse PK20 Education Data Warehouse Text Index Custom Search Site Index Directories FAQs
+
+Education Data Warehouse Fact Sheet The Florida K-20 Education Data Warehouse (EDW) integrates existing, transformed data extracted from multiple sources that are available at the state level. It provides a single repository of data concerning students served in the K-20 public education system as well as educational facilities, curriculum and staff involved in instructional activities. EDW Characteristics K-20 public education data integration
+
+Allows longitudinal analyses
+
+Student centric
+
+Historical (1995 forward, when available) and current data
+
+Confidentiality ensured (personally identifiable information removed)
+
+State-of-the-art analytical capabilities EDW Benefits Provides capabilities to track students over time and across delivery
+
+systems Provides capabilities to perform trend analyses
+
+Allows business users to run their own queries against summarized
+
+data in a timely, efficient manner Provides decision-makers with tools and information necessary to make informed, fact-based decisions about education EDW Contents Student Demographics Enrollment Courses Test Scores Financial Aid Awards Employment
+
+Educational Curriculum
+
+Staff Demographics Certified Staff Instructional Activities
+
+Educational Institutions EDW Blueprint

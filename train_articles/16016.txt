@@ -1,0 +1,25 @@
+0617 jngpftexas
+
+Emails, John Nielsen-Gammon, Texas state climatologist, Texas A&M University, June 8, 2017
+
+12:35 p.m.
+
+I interpret the quantity being considered as global surface temperatures. The years 2014-2016 also happen to be the three warmest years on record below the surface within the deep ocean, but not in the atmosphere 1-6 miles above ground level.
+
+There’s no single official global temperature record. The most prominent estimates of global surface temperature are made by NOAA, NASA, and a British consortium (Hadley Centre + Climate Research Unit). For all three, the annual global temperature anomalies in 2014, 2015, and 2016 are the three warmest on record. Two others that are frequently used are by the Japan Meteorological Agency and by Berkeley Earth. The JMA data set has the same three warmest years, but Berkeley Earth ranks 2014 as fourth warmest rather than third warmest. So the consensus is that 2014, 2015, and 2016 were the three hottest on record at the Earth’s surface.
+
+One caveat is that it’s not possible to know the global average temperature anomaly precisely. For that matter, no observed quantity is known precisely. So it’s possible that in reality 2014 was not one of the three warmest years, but we’ll never know that. Based on available evidence, it is most likely that the three warmest years were the last three. On the other hand, in no other context are weather records treated with error bars. So, for example, Austin’s warmest temperature on record is 112 F, recorded for example on September 5, 2000. We don’t say the hottest day might have been September 5, 2000, or it might have been some other day. So it’s accurate to say that 2014-2016 were the three warmest years according to most global surface temperature analyses.
+
+On Jun 8, 2017, at 12:38 PM, Selby, Gardner (CMG-Austin) wrote:
+
+Thanks!
+
+How did Texas temperatures fit with this analysis? That is, was 2016 in Texas the hottest ever after 2015 and 2014 was each the hottest ever, for Texas alone? Is such data posted where we could provide a web link to readers?
+
+12:44 p.m.
+
+Web site to play with: https://www.ncdc.noaa.gov/cag/time-series/us
+
+Sample output: https://www.ncdc.noaa.gov/cag/time-series/us/41/0/tavg/ytd/12/1895-2017?base_prd=true&firstbaseyear=1901&lastbaseyear=2000
+
+The year 2016 was tied for third-warmest in Texas, but 2014 and 2015 did not even make the top ten. As a general rule, the smaller the geographical area, the greater the relative importance of natural variability compared to long-term trends in determining temperatures.

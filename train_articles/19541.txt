@@ -1,0 +1,50 @@
+Trends in Differences in US Mortality Rates Between Black and White Infants
+Infant mortality rate is an important indicator of population health. A 2017 report from the US Centers for Disease Control and Prevention1 reported that the infant mortality rate in the United States decreased by 15% in the past decade. The objective of this study is to establish if both black and white infants benefitted equally from this decrease. We investigated recent trends in the absolute difference in overall and cause-specific infant mortality rates between non-Hispanic black and white infants.
+
+Methods
+
+In this repeated cross-sectional study, we abstracted data on live births and deaths in the first year of life for non-Hispanic black and white infants from the US National Vital Statistics System from 2005 to 2015. The infant mortality rate was calculated as the number of deaths (mortality file)2 divided by the number of births (natality file),3 according to race/ethnicity, year, and cause of death. We calculated rates for the top 4 causes of infant death and a residual category encapsulating all other causes. The excess event rate among black infants was calculated as the absolute difference between the rates. We did not include confidence intervals because these rates are not subject to sampling error.4 R version 3.2.4 (The R Foundation) was used to conduct the analysis. Institutional review board approval was waived because the study used deidentified, publicly available data, and informed consent was not required. A replication data set including the raw data and statistical code to reproduce the letter is publicly available on github (https://github.com/corinne-riddell/InfantMortality/).
+
+Results
+
+From 2005 to 2012, the infant mortality rate for non-Hispanic black infants decreased from 14.3 to 11.6 per 1000 births (Figure 1A). Thereafter, the infant mortality rate in black infants plateaued and then increased from 11.4 to 11.7 from 2014 to 2015. For non-Hispanic white infants, the rate decreased monotonically from 5.7 to 4.8 per 1000 from 2005 to 2015. Because the black infant mortality rate declined faster than the white infant mortality rate, excess events in black infants fell from 8.6 deaths per 1000 infants in 2005 to 6.6 deaths in 2012 but rose to 6.9 in 2015 (Figure 1B). These excess events imply nearly 4000 additional infant deaths among the 589 047 black infants compared with the number of expected deaths if they had experienced the same mortality rate as white infants.
+
+Figure 2 shows trends in cause-specific mortality for the 4 leading causes of infant death and all other causes. Between 2005 and 2011, deaths from short gestation and low birthweight decreased for black infants but have plateaued in recent years. For other leading causes (ie, congenital malformations, sudden infant death syndrome, and maternal complications), rates among black and white infants decreased between 2005 and 2015, although deaths related to both sudden infant death syndrome and congenital malformations increased for black infants last year. Progress has stalled with respect to all other causes of infant death in recent years, and last year also saw a relatively larger increase in mortality rates for black infants compared with white infants.
+
+Discussion
+
+No single cause appears solely responsible for the recent increase in black infant mortality, and in many instances, some arbitrariness exists in the single cause that is assigned. The preterm birth rate is nearly 50% higher for black compared with white infants.5 Furthermore, black infants experience nearly 4-fold as many deaths related to short gestation and low birthweight, making it the leading cause of infant death among black infants.
+
+Conclusions
+
+The sustained progress in reducing infant mortality among black infants since 2005 has stalled in the past few years. This has led to increases in the absolute inequality in infant mortality between black and white infants during the past 3 years. Interventions to further reduce the rate of preterm birth among black infants appear the most promising option for reducing black infant mortality and the absolute inequality between black and white infants.
+
+Back to top Article Information
+
+Corresponding Author: Corinne A. Riddell, PhD, Department of Epidemiology, Biostatistics, and Occupational Health, McGill University, 1020 Pine Ave W, Room 27, Montreal, QC H3A 1A2, Canada (corinne.riddell@mail.mcgill.ca).
+
+Published Online: July 3, 2017. doi:10.1001/jamapediatrics.2017.1365
+
+Author Contributions: Dr Riddell had full access to all of the data and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: All authors.
+
+Acquisition, analysis, or interpretation of data: All authors.
+
+Drafting of the manuscript: Riddell.
+
+Critical revision of the manuscript for important intellectual content: All authors.
+
+Statistical analysis: Riddell, Kaufman.
+
+Obtained funding: Kaufman.
+
+Supervision: Kaufman, Harper.
+
+Conflict of Interest Disclosures: None reported.
+
+Funding/Support: Dr Harper was supported by a Chercheur Boursier Junior 2 from the Fonds de la Recherche en Santé du Québec. Dr Kaufman was supported by a Canada Research Chair in Health Disparities grant that also provided salary support for Dr Riddell.
+
+Role of the Funder/Sponsor: The funding sources had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+References

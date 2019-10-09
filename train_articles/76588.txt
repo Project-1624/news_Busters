@@ -1,0 +1,55 @@
+The Wage Penalty of Right-to-Work Laws
+
+[Posted to The Datazone on August 21, 2001]
+
+The Wage Penalty of "Right-to-Work" Laws
+
+
+
+by Lawrence Mishel
+
+The 1947 Taft-Hartley amendments to the National Labor Relations Act (1935) sanctioned a state's right to pass laws that prohibit unions from requiring a worker to pay dues, even when the worker is covered by a union-negotiated collective bargaining agreement. Within a couple of years of the ammendment's passage, 12 states passed these so-called "right-to-work" (RTW) laws, as did many other states in the intervening years.1 Although there has been an extensive amount of research on the effect of right-to-work laws on union density, organizing efforts, and industrial development (see Moore (1998) and Moore and Newman (1985) for literature overviews), there has been surprisingly little examination of the perhaps more important issue of right-to-work laws' effect on wages.
+
+The limited amount of research that does examine the effect of right-to-work laws on wages can be divided into two areas: RTW laws effects on union wage premiums or the average effects of these laws on wages. Our research focuses on the latter. Since right-to-work laws affect union density and effectiveness (Farber 1985), the effect of the union wage premium is not easily disentangled from the effects of RTW legislation. Our analysis tried to overcome the shortcomings in previous research in this area. First, we control for differences in cost of living throughout the United States, thereby making comparable wages in various parts of the country. Secondly, we examine how metropolitan areas located in both right-to-work and non-right-to-work states affect wages.
+
+We find that the mean effect of working in a right-to-work state results in a 6% to 8% reduction in wages for workers in these states, with an average wage penalty of 6.5%. Controlling for regional costs of living reduces this amount to approximately 4%. We find that previous research reporting real wage gains associated with right-to-work states is almost purely the result of border cities that benefit from their proximity to a non-RTW state.
+
+Data and Analysis
+
+To determine the effect of right-to-work laws on wages we estimate log wage equations using the Bureau of Labor Statistic's current population survey-outgoing rotation group (CPS-ORG) data for 2000. The sample consists of 152,576 prime age workers, ages 18-64, who earn wages or salaries. Average hourly wages for the sample were $15.54, and median hourly wages were $12.25. Median wages for workers living in right-to-work states were $11.45, while wages for those living in non-RTW states were $13.00, indicating that wages were 11.9% lower in RTW states.
+
+Whether this wage disadvantage in these states is due to RTW laws can only be determined by controlling for other characteristics. To this end, we specify wage regressions (Model 1) that control for the following personal and geographic characteristics: race/ethnicity, age, age squared, marital status, sex, education, urbanicity, employed full-time, hourly worker, union status, industry (22 categories), and occupation (13 categories). A second set of regression results (Model 2) controls for state of residence, which should control all the characteristics of a state-other than its RTW status-that differ from other states, including cost-of-living. A third set of results (Model 3) controls for differences in intra-state and inter-state costs of living.2 Our regression results follow Dumond, Hirsch, and MacPherson's (1999) specification of the regional cost of living controls. However, we have limited confidence in these estimates, since there is no universally accepted method of adjusting for regional costs of living, and it is impossible to test the accuracy of using an index based on fair market rents. In each model the mean effect is estimated using a simple indicator variable for right-to-work states.
+
+Our first set of regression results indicate that workers living in right-to-work states earn 6.5% less than comparable workers in non-RTW states. This regression model essentially compares workers with similar demographics (education, age, race, etc.) and occupations within an industry across the two types of states, those with RTW laws and those without. The second regression model controls for different state effects not captured by industry and occupation, partially capturing price differences between states. These results indicate that a worker living in a right-to-work state earns, on average, 7.8% less than a comparable worker in a non-RTW state. The final regression model compares workers with similar demographic, industry and occupations but also controls for cost of living using an index of the fair market rents. These results indicate that, on average, a worker living in a right-to-work state earns 3.8 % less than a worker living in a non-RTW state. Estimates from this last regression model, however, are suspect given the lack of an established series for controlling for regional, inter-state, or intra-state costs of living (see Table 1). Our best estimate is that workers living in right-to-work states earn, on average, 6.5% less than similar workers in non-RTW states.
+
+An analysis along gender lines reveals similar trends. On average, men in RTW states earn 7.8% less than their counterparts in non-RTW states; women in RTW states earn 6.8% less (Table 2).
+
+Unlike previous research by Bennett (2001), we find that, even after controlling for regional costs of living, workers in right-to-work states earn less per hour. Particularly interesting is the affect on workers living in cities that are stretch across state line, placing it in both a right-to-work state and a non-RTW state. Seventeen out of 433 metropolitan areas in our sample (nearly 4%) spill over from a right-to-work state to a non-RTW state. Our analysis indicates that, in areas where a pure RTW state effect exists (i.e., no spill-over effect), the right-to-work penalty is larger (see Table 3). In fact, we find that living near a non-RTW state helps raise workers' wages. 3
+
+There may be reasons why states choose to adopt right-to-work laws that this analysis fails to address. It may be that the wage structure or industry mix within a state helps determine why state legislatures or voters adopt right-to-work laws. To control for this, we estimate a series of regressions that model a state's decision to adopt right-to-work. Both Wessels (1981) and Moore et al. (1986) have designed models that consider the endogeneity of right-to-work law, and find that "once the influence of wages in the passage of RTW laws is accounted for, RTW laws have no independent effect on wages" (Moore 1998, 459). We estimate the probability of a state passing a RTW law using mean and median wages as well as other state-level demographic characteristics. We then use these estimated values in a two-stage least-squares estimation. Even after correcting for endogeneity in this way, we find that RTW laws have statistically significant and negative impacts on workers living in right-to-work states.
+
+Conclusion
+
+The most important aspect of right-to-work law is its effect on wages. That there have only been a handful of studies directly assessing the impact of these laws on workers' earnings is surprising. What research there is on the subject is mixed, with findings critically dependent on model specification. Unlike most research up to this point, this analysis focuses on the impact of regional costs of living and finds that workers living in RTW states earn significantly less than workers living in non-RTW states. We also find that care must be taken in examining the true effect of right-to-work legislation.
+
+Perhaps the most compelling evidence of the effect of RTW legislation can be found in those metropolitan areas that occupy both RTW and non-RTW states. In these cases, estimating the effects separately indicates that workers living in these metropolitan areas are helped by the higher earnings typical of the non-RTW state.
+
+1. Currently the following states have right-to-work laws: Alabama, Arizona, Arkansas, Florida, Georgia, Idaho, Iowa, Kansas, Louisiana, Mississippi, Nebraska, Nevada, North Carolina, North Dakota, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Wyoming. [ return to text
+
+2. Inter-state and intra-state cost of living controls are based on the Department of Housing and Urban Development "Fair Market Rents" for Metropolitan Statistical Areas (MSA). We use the 45th percentile in each MSA. [return to text]
+
+3. To test the robustness of these results, we estimate a model that combines both state-level indicators, regional indicators, and costs of living variables as well as all the control variables listed in model (1). In this combined model we find that both the pure right-to-work effect and the total right-to-work effect are -1.9% and -1.7%, respectively; in neither case are the estimates statistically different from zero. As with other estimates that include a measure of cost of living (COL), we find these estimates to be sensitive to the particular COL measure and unreliable since we have no faith in any particular measure of COL. [return to text]
+
+References
+
+Bennett, J.T. 2001. Right To Work - Prescription for Prosperity and Opportunity. Washington, D.C.: National Institute for Labor Relations Research. Dumond,J.M., B.T. Hirsch, and D.A. MacPherson. 1999. Wage Differentials Across Labor Markets and Workers: Does Cost of Living Matter? Economic Inquiry. Vol. 37, No. 4, pp. 577-98.
+
+Farber, H. S. 1985. "The Extent of Unionization in the United States." in Thomas Kochan, ed., Challenges and Choices Facing American Unions Cambridge, Mass.: MIT Press.
+
+Moore, W. J., and R.J. Newman. 1985. The Effects of Fright-to-Work Laws: A Review of the Literature. Industrial and Labor Relations Review. Vol. 38, No. 4, pp. 571-85.
+
+Moore, W.J. 1998. The Determinants and Effects of Right-To-Work Laws: A Review of the Recent Literature. Journal of Labor Research Vol. 19, No. 3, pp. 449-69.
+
+Moore, W.J., J.A. Dunlevy, and R.J. Newman. 1986. Do Right-to-Work Laws Matter? Comment. Southern Economic Journal. Vol. 53, No. 2, pp. 515-24.
+
+Wessels, W.J. 1981. Economic Effects of Right to Work Laws. Journal of Labor Research. Vol. 2, No. 3, pp. 55-75.

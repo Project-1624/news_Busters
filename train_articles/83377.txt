@@ -1,0 +1,54 @@
+Florida testing troubles caused by cyber attack | Miami Herald
+Florida’s standardized exams that debuted last week suffered from cyber attacks that led to blank screens throughout the state as students attempted to take the tests, the Department of Education said Monday.
+
+Citing testing provider American Institutes for Research, the state education department said the hack, which is being investigated by the Florida Department of Law Enforcement, “will not compromise student performance on the test or any personal student data.”
+
+Eighth, ninth and tenth graders attempting to take the writing portion of the Florida Standards Assessments were met with blank white screens on Thursday. The education department now says the white screens were part of a denial-of-service attack on a vendor login server. There were “sporadic” reports of similar hacks on Monday and Tuesday.
+
+Education Commissioner Pam Stewart said her department will work with law enforcement “to ensure they identify the bad actors and hold them accountable to the fullest extent of the law.”
+
+Premium content for only $0.99 For the most comprehensive local coverage, subscribe today.
+
+That wasn’t the only problem Florida students had. Earlier in the week, thousands of schoolchildren had trouble accessing the testing platform and were booted off the system in the middle of their exams.
+
+The education department on Monday conceded that those technical difficulties were “unrelated to the cyber attack.” Instead, they have been blamed on an update run by provider AIR the day before testing began.
+
+Apart from the statewide issues, Miami-Dade Superintendent Alberto Carvalho said the district, Florida’s largest, noticed strange Internet activity during last week’s testing window. He described it as a “surge” directed at the district.
+
+“Our firewall protected it,” Carvalho said. “We detected it and we reported it, not only to the Florida Department of Education and the Florida Department of Law Enforcement, but also federal authorities.”
+
+It’s not clear whether the attempted attack in Miami-Dade is the same kind of threat that was aimed at the state, or if the same actors were behind it.
+
+Denial-of-service attacks are usually an attempt to make a website unusable by bombarding it with traffic, Rob Morton, director of public relations at Akamai, a company that provides denial-of-service monitoring and mitigation, said in an email. Though it’s a common type of hack, denial of services “is not designed to steal data,” he said.
+
+The problems in Florida are likely to add to the chorus of educators and parents calling for this year’s tests to be used only as a baseline, and not in high-stakes decisions such as whether students get promoted or teachers get to keep their jobs.
+
+Florida Education Association President Andy Ford — who had repeatedly said the state wasn’t ready to deploy the new tests — called Thursday’s news “shocking.”
+
+“If it’s true... it just shows that not only weren't you ready, but you are vulnerable to the outside world,” he said. “The [Department of Education] really needs to take a look at what they’ve done and what they built, and try to make sure that in the future it can’t be attacked.”
+
+State House Education Committee Chairwoman Marlene O'Toole, a Lady Lake Republican, declined to comment on the investigation, saying she needed more information.
+
+But Rep. Alan Williams, a Tallahassee Democrat who sits on the committee, said the attacks raise serious questions about online testing.
+
+“We need a strong system in place for our students to make sure that they are assessed appropriately,” Williams said. “It begs the questions that many Democrats and Republicans have asked, which is: What’s wrong with a piece of paper and a pencil?”
+
+Miami-Dade officials also said the attack highlights the weakness of an Internet-based testing system.
+
+“It’s brand new ground, and I think the state is learning about the frailties as it’s launching,” Carvalho said.
+
+Kansas experienced a similar attack last year when launching standardized tests, using a different provider than Florida. The difference: Kansas caught the issue during a pilot run of the tests, a spokeswoman at the Kansas department of education said.
+
+In Florida, the test— glitches and all — will count towards high-stakes decisions. The potentially dire consequences have prompted some Florida parents to boycott the tests. Among their concerns has been the amount of data that is collected on students through testing. Though AIR and the state stressed that student data was protected, parents are wary.
+
+“There’s a complete lack of trust at this point in the system. It’s just crashed and burned,” said Suzette Lopez, a parent who runs the Opt-Out Miami-Dade Facebook group.
+
+Williams, who has echoed concerns from parents that students face too many tests, had his own theory about who may be responsible for the attack.
+
+“It could have been a student who was upset with the fact that he was taking too many tests,” he quipped.
+
+“Maybe he hacked the system.”
+
+Miami Herald staff writer Nancy Dahlberg and John O'Connor of WLRN-Miami Herald News and State Impact Florida contributed to this report.
+
+Follow @Cveiga on Twitter.

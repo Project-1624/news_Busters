@@ -1,0 +1,74 @@
+Tax Cuts in Every Congressional District in Every State
+The Tax Cut and Jobs Act (TCJA), signed into law by President Donald Trump in December 2017, is one of the most significant policy reforms passed by Congress in recent times. Following this tax reform, individuals, families, and communities across the country have been reaping the benefits of bigger paychecks, lower taxes, and more economic opportunities. In this study, we model the effect of the TCJA on every state and congressional district in the country.
+
+We find that the average household and the average married couple with two kids in every congressional district in every state benefit from the tax cut, both in 2018 and over the next 10 years. Nationally, average households will save $1,400, and married couples with two children will save $2,918 in 2018. The tax cuts also induce changes in wages, employment, and investment. Including these economic effects, the typical American household will benefit from more than $26,000 in increased take-home pay between 2018 and 2027. The average family of four can expect over $44,000 of increased take-home pay. These benefits could be even greater if the TCJA is made permanent—and they could disappear if the tax cuts are repealed.
+
+Elements of the TCJA
+
+For individual taxpayers, the TCJA reduced federal income tax rates, increased the standard deduction, doubled the child tax credit, repealed the personal and dependent exemptions, created a new business deduction, and capped the deduction for state and local taxes. The law also made significant business tax reforms, including lowering the corporate income tax rate and reforming the tax treatment of investments. To model the impact of the TCJA on typical households, we implemented the following provisions:
+
+Lowered individual income tax rates and thresholds.
+
+Added new, almost-doubled standard deductions of $12,000 for single filers, $24,000 for married couples filing jointly, and $18,000 for head of household filers.
+
+Repealed all personal and dependent exemptions.
+
+Doubled the child tax credit (to $2,000). The phase-out threshold for the tax credit for married joint filers increased from $110,00 to $400,000. The refundable portion of the credit increased from $1,000 to $1,400.
+
+Added a new $500 non-child dependent credit. Included a new $10,000 cap on the state and local deduction and a $750,000 cap on the mortgage interest deduction for new mortgages, a $250,000 reduction from 2017 law. The phase-out of itemized deductions (Pease) is eliminated along with other smaller itemized deductions.
+
+Indexed bracket thresholds and other provisions to chained consumer price index (CPI) so they grow more slowly than pre-TCJA.
+
+Increased alternative minimum tax (AMT) exemption from $86,200 to $109,400 for married filers. The new exemption phases out starting at $1 million, up from $164,100.
+
+Added a new 20 percent deduction for certain non-salary pass-through business income. The deduction phases out for certain service providers with incomes that exceed $157,000 for single filers and $315,000 for married couples filing jointly.
+
+Repealed domestic production activities deduction.
+
+Allowed each of the provisions to expire after the 2025 tax year, except for the indexing of brackets to chained CPI.
+
+We used the Heritage Foundation Individual Income Tax Model (HFIITM) to estimate the effects of these provisions on average household tax liabilities in 2018 nationally, as well as for each state and congressional district. We then used a variation of a standard economic growth model to understand the overall economic impact of the law on filers over the next 10 years. The model incorporates the macroeconomic impact of the corporate and personal income tax reforms. Methodologies for both models are detailed in the appendix.
+
+Every Congressional District Will Pay Less in Taxes
+
+Due to the TCJA, the typical household in every congressional district will see a reduction in tax liability in 2018. Nationally, 89 percent of Americans will see either a tax cut or no change. Approximately 4 million more low-income filers will not pay any income taxes in 2018. Map 1 and Appendix Table 1 show the 2018 reduction in tax liability due to the law in dollars on a district-by-district basis for all filers.
+
+There is a significant range in the size of the average tax cut among all filers across the 435 congressional districts, ranging from an average of slightly above $395 (New York’s 15th district, represented in the House by Jose Serrano) to $3,332 (California’s 18th district, represented in the House by Anna Eshoo). For families of four, the comparable range is from $625 (NY–15) to $5,682 (CA–18). The variation is due to many variables, including existing variation in pre-tax income and changes to deductions and exemptions.
+
+Table 2 shows these results on a state-by-state basis. For example, households in West Virginia on average will see an $873 tax cut in 2018, which corresponds to a 14 percent reduction in income taxes, the largest benefit of any state by this measure. The smallest tax cut goes to the residents of the District of Columbia, who can expect a more modest 10 percent decrease in 2018 income taxes. This reduction, however, of over $1,600 for 2018 is also a large tax cut and is more than enough to pay for 12 credits of tuition at the University of District Columbia’s Community College.[REF]
+
+Lower-Income Districts Experience the Largest Reduction in Income Taxes
+
+Americans with lower incomes of course pay smaller amounts in taxes. But when budgets are tight, those dollars are more meaningful for households’ purchasing power. Correspondingly, the TCJA’s tax cuts, measured on a percentage basis, benefit lower-income districts more than districts with larger incomes in bigger population centers, contrary to some claims put forward by opponents of tax reform.[REF]
+
+For example, NY–15 will see a 32 percent decrease in income taxes as a result of the TCJA, the largest percentage reduction of any congressional district in the country. Taxpayers in East Los Angeles, in California’s 40th congressional district, represented in the House by Lucille Roybal-Allard, benefit from a 21 percent reduction in tax liability. Both NY–15 and CA–40 average less than $36,000 in total income per filer and receive average tax cuts of $395 and $510, respectively.
+
+Low-income taxpayers with smaller dollar-value tax cuts still see large benefits relative to their income, and, more impressively, their pre-TCJA income tax bills, as shown in Chart 1. Map 2 shows the tax cut in 2018 as a percentage of pre-TCJA income taxes, on a district-by-district basis for all filers. The relative benefit of the tax cut moves away from high-income population centers as seen in Map 1 to more rural areas and lower-income city populations.
+
+Lower-income communities benefit from the TCJA due to the increased standard deduction, the reductions in marginal rates, and the expanded child tax credit. Repealing the TCJA, a goal that some advocacy organizations and congressional candidates have proposed, will eliminate these benefits for residents of lower-income congressional districts.[REF]
+
+Dynamic Estimates
+
+The TCJA also results in significant growth for the economy. We used an augmented Solow model to adjust our estimates of the tax cuts to include the law’s effects on private saving, foreign capital inflows, the federal deficit, investment in new capital, interest rates, wages, and hours worked.
+
+The TCJA affects economic activity through several channels. The lower tax rates increase saving and capital inflows. However, reduced tax revenues without spending reforms increase the federal deficit. The higher deficit partially crowds out the additional saving, but the net result is still an increase in investment. The lower tax rates increase labor supply, which results in more hours worked, equivalent to about 300,000 full-time jobs.
+
+The economic model was run under the baseline pre-TCJA scenario and under current law. The results of the economic model are growth rates in wage income, capital income, transfer income, and total income that are used to scale the income lines in the HFIITM.
+
+Under current law, total income is 1.6 percent higher than the baseline in 2018, rising to 2.3 percent higher than the baseline by 2027. The increase is initially due to a 5.3 percent increase in capital income in 2018. Capital income remains at that elevated level through the 10-year budget window, consistent with the one-time change in the corporate tax rate. On the other hand, wage income increases 0.12 percent in 2018 and continues to rise to 0.29 percent higher by 2027. Outside the 10-year window, wage income continues to rise as increases in the capital stock raise labor productivity.
+
+Increased Take-Home Pay
+
+As a result of the economic growth from the TCJA, Americans all across the country will have more money to spend and save. Incorporating the economic effects of the tax cuts as the economy grows over the next 10 years produces a more comprehensive picture of how the law affects Americans’ well-being.
+
+The average filer’s take-home pay gains over the course of 10 years are quite substantial, ranging from $7,469 in NY–15 to $60,108 in CA–18. For married couples with two children these values are even higher, ranging from $11,439 to $99,010. Table 2 shows the changes in take-home pay as a result of the TCJA on a state-by-state basis.
+
+Changes in take-home pay vary from slightly over $14,000 for the state of Mississippi all the way up to slightly under $30,000 for Washington, DC, for all filers. These gains are even larger for married couples with two children. A family’s increased take-home pay accounts for both the tax cut and larger wages and other income as a result of the bigger economy. These gains are quite significant. The additional income is enough to pay down a mortgage, cover daycare expenses, or increase college savings. Repeal of the TCJA, especially the business reforms and lower corporate income tax rate, will eliminate these projected gains.
+
+Conclusion
+
+The tax cuts included in the TCJA benefit the average taxpayer in every single state and district in the country. Districts with smaller average income tax burdens tend to see the largest percentage reductions in their total income tax bills. High-income districts tend to see the largest tax cuts as measured by dollar value.
+
+These estimates assume that the tax cuts expire in 2025 and that Washington continues to run large and unsustainable deficits. Making the TCJA permanent and reforming spending to align with projected revenues could significantly increase our estimates of the changes in gross domestic product, income, investment, and wages. Repealing the TCJA, on the other hand, would undo its economic gains. Congress must maintain and extend the TCJA to avoid stifling economic growth and burdening constituents with higher taxes and reduced take-home pay.
+
+—Kevin D. Dayaratna, PhD, is Senior Statistician and Research Programmer in the Center for Data Analysis, of the Institute for Economic Freedom, at The Heritage Foundation. Parker Sheppard, PhD, is Senior Policy Analyst in Dynamic Modeling and Simulations in the Center for Data Analysis. Adam N. Michel is Fiscal Policy Analyst in the Thomas A. Roe Institute for Economic Policy Studies, of the Institute for Economic Freedom.

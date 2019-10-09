@@ -1,0 +1,72 @@
+Conversion Tables
+Carbon Dioxide Information Analysis Center - Conversion Tables
+
+Contents taken from Glossary: Carbon Dioxide and Climate, 1990. ORNL/CDIAC-39, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee. Third Edition. Edited by: Fred O'Hara Jr.
+
+1 - International System of Units (SI) Prefixes
+
+2 - Useful Quantities in CO 2
+
+3 - Common Conversion Factors
+
+4 - Common Energy Unit Conversion Factors
+
+5 - Geologic Time Scales
+
+6 - Factors and Units for Calculating Annual CO 2 Emissions Using Global Fuel Production Data
+
+Table 1. International System of Units (SI) Prefixes
+
+Prefix SI Symbol Multiplication Factor exa E 1018 peta P 1015 tera T 1012 giga G 109 mega M 106 kilo k 103 hecto h 102 deka da 10 deci d 10-1 centi c 10-2 milli m 10-3 micro μ 10-6 nano n 10-9 pico p 10-12 femto f 10-15 atto a 10-18
+
+Table 2. Useful Quantities in CO 2 Research
+
+Modified from Clark, W. C. (ed.). 1982. Carbon Dioxide Review: 1982, p. 469, Oxford University Press, New York.
+
+Quantity Symbol1 Value Solar constant S 1.367 kW/m2 Earth mass M 5.976 × 1024 kg Equatorial radius a 6.378 × 106 m Polar radius c 6.357 × 106 m Mean radius R 6.371 × 106 m Surface area A e 5.101 × 1014 m2 Land area A l 1.481 × 1014 m2 Ocean area A s 3.620 × 1014 m2 Ice sheets and
+
+glaciers area I s 0.14 × 1014 m2 Mean land elevation h l 840 m Mean ocean depth h s 3730 m Mean ocean volume V s 1.350 × 1018 m3 Ocean mass M s 1.384 × 1021 kg Mass of atmosphere M a 5.137 × 1018 kg Equatorial surface
+
+gravity g e 9.78 m/s2 Polar surface
+
+gravity g p 9.83 m/s2 Average surface g 9.805 m/s2
+
+1Symbols generally follow reference standards used in Bolin, B. (ed.). 1981. Carbon Cycle Modelling, SCOPE 16, John Wiley & Sons, New York.
+
+Table 3. Common Conversion Factors
+
+Modifed from Clark, W. C. (ed.). 1982. Carbon Dioxide Review: 1982, p. 467, Oxford University Press, New York.
+
+Area-length-volume 1 acre = 43,560 ft2 = 4,047 m2 1 acre-foot = 1.2335 × 103 m3 1 cubic foot (ft3) = 0.02832 m3 1 hectare (ha) = 10,000 m2 = 2.47 acres 1 square mile (sq mi) = 2.59 × 106 m2 Pressure 1 atmosphere = 76.0 cm Hg = 1,013.25 millibars (mb) 1 bar = 0.98692 atmosphere 1 pascal (Pa) = 0.9869 × 10-5 atmosphere = 1 × 10-2 mb = 10 microbars = 1.4504 × 10-4 pounds per square inch (psi) 1 millibar (mb) = 1 hectopascal (hPa) = 100 pascals (Pa) Factors for carbon and carbon dioxide 1 mole C/liter = 12.011 × 10-3 Gt C/km3 1 ppm by volume of atmosphere CO 2 = 2.13 Gt C (Uses atmospheric mass (M a ) = 5.137 × 1018 kg) 1 mole CO 2 = 44.009 g CO 2 = 12.011 g C 1 g C = 0.083 mole CO 2 = 3.664 g CO 2
+
+Table 4. Common Energy Unit Conversion Factors
+
+J Quad kcal mtce boe mtoe m3gas TWyr 1 J = 1 947.9 × 10-21 239 × 10-6 34.14 × 10-12 163.4 × 10-12 22.34 × 10-12 26.84 × 10-9 31.71 × 10-21 1 Quad = 1055 × 1015 1 252 × 1012 36.02 × 106 172.4 × 106 23.57 × 106 28.32 × 109 33.45 × 10- 3 1 kcal = 4184 3966 × 10-18 1 142.9 × 10-9 683.8 × 10-9 93.47 × 10-9 112.3 × 10-6 132.7 × 10-18 1 mtce = 29.29 × 109 27.76 × 10-9 7 × 106 1 4.786 0.6543 786.1 928.7 × 10-12 1 boe = 6119 × 106 5.8 × 10-9 1462 × 103 0.2089 1 0.1367 164.2 194 × 10-12 1 mtoe = 44.76 × 109 42.43 × 10-9 10.7 × 106 1.528 7.315 1 1201 1419 × 10-12 1 m3gas = 37.26 × 106 35.31 × 10-12 8905 1272 × 10-6 6089 × 10-6 832.3 × 10-6 1 1181 × 10-15 1 Twyr = 31.54 × 1018 29.89 7537 × 1012 1076 × 106 5154 × 106 704.5 × 106 846.4 × 109 1
+
+Notes: J = Joule; Quad = Quadrillion BTU (British thermal unit); kcal = kilogram calorie; mtce = metric ton of coal equivalent; boe = barrel of oil equivalent; mtoe = metric ton of oil equivalent; m3gas = cubic meter of natural gas; Twyr = terawatt-year
+
+From: Clark, W. C. (ed.). 1982. Carbon Dioxide Review: 1982, p. 468, Oxford University Press, New York.
+
+Table 5. Geologic Time Scales
+
+Era Period Epoch Beginning
+
+(Millions Years
+
+Before Present) Cenozoic Quarternary Recent (Holocene) 0.01 Pleistocene 2-3 Tertiary Pliocene 5 Miocene 25 Oligocene 37 Eocene 54 Paleocene 65 Mesozoic Cretaceous 135 Jurassic 190 Triassic 225 Paleozoic Permian 280 Carboniferous 345 Devonian 400 Silurian 440 Ordovician 500 Cambrian 570 Precambrian >570
+
+Table 6. Factors and Units for Calculating Annual CO 2 Emissions Using Global Fuel Production Data
+
+Formula: CO 2 i = (P i )(FO i )(C i ) with all masses in metric tons (103 kg).
+
+Source: Marland, G. and R. M. Rotty. 1983. Carbon Dioxide Emissions from Fossil Fuels: A Procedure for Estimation and Results for 1950-1981, DOE/NBB-0036, TR003, U. S. Department of Energy, Washington, D.C.
+
+From Coal Production CO 2 s = CO 2 emissions in 106 tons C P s = Annual production in 106 tons coal equivalent (± approx. 11.2%) FO s = Effective fraction oxidized in year of production = 0.982 ± 2% C s = Carbon content in tons C per ton coal equivalent = 0.746 ± 2%
+
+(The 0.746 value includes a heating value adjustment to recognize that the carbon content, developed on a higher heating value basis,must be increased when used with UN production data based on"net" or lower heating values.) From Natural Gas Production CO 2 g = CO 2 emissions in 106 tons C P g = Annual production in thousands of 1012 joules (± approx. 10%) FO g = Effective fraction oxidized in year of production = 0.98 ± 1% C g = Carbon content in 106 tons C per thousand 1012 joules = 0.0137 ± 2% From Natural Gas Flaring CO 2 f = CO 2 emissions in 106 tons C P f = Annual gas flaring in 109 cubic meters (± approx. 20%) FO f = Effective fraction oxidized in year of flaring = 1.00 ± 1% C f = Carbon content in tons C per thousand cubic meters = 0.525 ± 3% From Crude Oil and Natural Gas Liquids Production 2 l = CO 2 emissions in 106 tons C P l = Annual production in 106 tons (± approx. 8%) FO l = Effective fraction oxidized in year of production = 0.918 ± 3% C l = Carbon content in tons C per ton crude oil = 0.85 ± 1%
+
+Contents taken from Glossary: Carbon Dioxide and Climates, 1990. ORNL/CDIAC-39, Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee.
+
+Acronyms and abbreviations can be found in the Acronyms and Abbreviations list.
+
+A carbon dioxide-related glossary can be found in the Glossary list.

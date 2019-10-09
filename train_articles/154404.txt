@@ -1,0 +1,132 @@
+Will A Border Wall ‘Pay For Itself’ Because Immigrants Cost the Government Money?
+On 15 February 2017, The Center for Immigration Studies — a nonprofit research organization that advocates for a future United States that “admits fewer immigrants but affords a warmer welcome for those who are admitted” — published a report arguing that a southern border wall might pay for itself, because the cost of undocumented immigrants on the United States’ economy would ultimately be higher than the cost of the wall.
+
+This analysis has been, and continues to be, commonly used as a talking point for supporters of United States President Donald Trump’s southern border wall campaign pledge.
+
+CIS’s approach was simple: estimate an average “price tag” for an undocumented immigrant who crossed into the United States without documentation, then calculate how many of those people one would need to block to equal the construction cost of the wall. To do so, they used information from a single table contained in a 618-page National Academy of Sciences report entitled “The Economic and Fiscal Consequences of Immigration,” containing estimates of the lifetime cost of immigrants to the United States economy at various levels of education. (Education level is widely accepted to correlate with the net drain or benefit an individual, native-born or otherwise, has on the U.S. economy.)
+
+NAS calculated these estimates using multiple scenarios based on a variety of approaches, as well a range of methods to predict government spending 75 years into the future.
+
+The NAS study is the central vehicle for the CIS argument, but in conversations with researchers involved in creating the NAS study— including the demographer responsible for creating the estimates used as the basis for the CIS study — it is apparent that they feel its interpretations of their data were being used in an erroneous and misleading manner. “The NAS report is a cornucopia of data offerings for interested users. But you can cherry pick to your heart’s content,” Dowell Myers, a demographer and urban planner at the University of Southern California and a member of the panel of researchers in charge of the study, told us via e-mail.
+
+Here, we delve into the controversy by analyzing the choices CIS has made in their data selection, and why the authors of the NAS study feel as though CIS skewed their analysis to create an unrealistically high estimate of the “cost” to the U.S. economy of undocumented immigrants that would theoretically be stopped by a wall (in places where the wall doesn’t already exist, that is).
+
+The National Academies Study
+
+To understand the ways in which CIS reinterpreted the NAS data, one has to understand how the NAS developed these estimates in the first place. The relevant portion of the NAS report was table 8-12, found in a chapter titled “Past and Future Fiscal Impacts of Immigrants on the Nation.”
+
+In this chapter, researchers attempted to estimate something they call the “net present value” of immigrants based on their education level — as mentioned earlier, the total cost or benefit of an individual to the government over their lifetime as expressed in today’s dollars. To estimate these numbers the researchers had to utilize models, depend on various assumptions, and make crucial decisions about how best to project cost and revenue into the future. Disagreements over two of those choices drive the major conflict between CIS and NAS.
+
+While there are many decisions a modeler must make when attempting to predict the effect a person will have on the economy over 75 years, the NAS report highlights two major choices the modelers made in their analysis. The first is whether or not to include the fiscal impacts of native-born children of immigrants in the cost analysis of the parent, as children contribute taxes and incur costs that would not existed had their parents not immigrated — but those children are not themselves immigrants.
+
+The second is how to treat an immigrant’s use of what is known as “public goods” — these include defense spending, and other noncongestible (that is, largely unaffected by how many people use them) costs like foreign aid. Here, the choice is between treating these costs as something that increases as a result of the immigrant’s arrival to the United States, or treating them as a cost that would not increase as a result of their arrival:
+
+For pure public goods […] the marginal cost [added cost per person] of an additional immigrant is, at least in the short run, zero or close to it; thus, for answering some questions, it may be reasonable to allocate the costs of pure public goods only to the native-born or to the pre-existing population consisting of natives and earlier immigrants. For analyses estimating the fiscal impact of other kinds of immigration scenarios — for example, for large numbers of arrivals taking place over a multiyear period —t he zero marginal cost assumption becomes less tenable.
+
+The theoretical future costs of an immigrant, if one uses the methods employed by NAS, are also dependent on how much debt we assume a future United States government to assume. The more debt the government takes on, the less positive or more negative every individual’s net present value becomes, regardless of immigration status.
+
+Because no one model is ideal for answering every kind of fiscal immigration question, the NAS decided it would present results using a variety of different assumptions, creating scenarios based on three one-or-the-other choices:
+
+Does the cost of public goods increase as immigration increases or stay the same?
+
+stay the same? Should we use a more pessimistic or more optimistic estimate of future government spending?
+
+more optimistic estimate of future government spending? Will future immigrants have the age/education distribution of all foreign born persons in the U.S. or of more recent immigrants?
+
+We spoke with Gretchen Donehower, a demographer at the University of California, Berkeley and the researcher in charge of the projections made in this chapter of the NAS report, about her approach to the problem:
+
+I follow a hypothetical immigrant [at different education levels] forward each year, counting up all of the taxes he or she paid and all of the benefits he or she received each year for 75 years from 2012 [the latest data they had when their research began]. I do the same for the children that hypothetical immigrant will produce once arrived in the US. I guess at the future of the immigrant by applying probabilities of death or returning to a home country. I guess at the future descendants by using fertility rates for immigrants. I guess at the tax and benefit flows by taking some projection of government tax revenues and spending, and then applying the current distribution of who pays those taxes and who gets those benefits in terms of age, education, and immigrant generation. The flows in the future are discounted to reflect that a dollar tomorrow is worth less than a dollar today and I add those discounted flows up to get the net present value.
+
+CIS’s analysis used numbers generated by this analysis (presented in table 8-12 of the NAS report) to attribute a lifetime cost to the economy of an immigrant at different levels of education. However, instead of picking a specific one of the eight scenarios modeled, they averaged all of them together.
+
+Another decision they made was to consider only the cost of the original immigrant, not their American-born offspring.
+
+Because the NAS data was designed to study all immigrants, CIS made two additional modifications to the NAS data. They reduced the calculations for the use of public services under the assumption that undocumented immigrants are less likely to make use of such services than documented ones, and they used their own demographic information about the educational level of Mexican and Latin American immigrants to come up with a weighted average cost of a border-crossing undocumented immigrant: $74,722.00.
+
+Controversy 1: Taking the Average
+
+Instead of selecting the scenario best tailored to the question their study sought to answer, CIS Director of Research Steven A. Camarota averaged the estimates from each of the eight scenarios together to come up with a single value, as he describes here:
+
+The NAS fiscal projections include eight different scenarios, each with different assumptions about future spending, tax rates, and the future flow of immigrants. It is not entirely clear what set of fiscal assumptions are best, and the NAS study itself does not identify the one best scenario. [Here] we simply take all eight scenarios and average them together by education level.
+
+This decision, as described in the CIS report, is presented as one that provides a middle ground of estimates. Critics, including Donehower (the researcher responsible for this section of the NAS report) argue that this is a dubious approach, because the scenarios were not meant to provide a high-low range of estimates, but were instead tailored for the kinds of questions for which one would use the data. Donehower told us:
+
+The CIS re-analysis of our work took all of those scenarios and averaged them together. This makes no sense. The scenarios were not high/medium/low, or meant to indicate a range of potential outcomes. Our eight scenarios are different ways of thinking about the question and appropriate to different policy or research questions. […] In the case of the CIS analysis, we have a very specific policy question. Will the government realize any saving if future border crossers are kept out?
+
+Averaging these scenarios is misleading, many of the NAS researchers argue, in part because it means the final result from CIS is affected by scenarios they feel are inappropriate to address the question CIS is asking, resulting in unrealistically high cost calculations for border crossing immigrants. Kim Reuben, a senior fellow at Urban-Brookings Tax Policy Center at the Urban Institute and a member of the committee that put out the NAS report, told us that this “overstated the net difference between taxes paid and benefits received.”
+
+Controversy 2: Interpreting Public Goods as a Cost That Increases With Each Immigrant
+
+Camarota, the research director for the Center for Immigration Studies, faces criticism from NAS researchers for including in his average scenarios that depend on the assumption that the cost of defense spending and other public goods increases with each individual immigrant. These dubious assumptions inflate the “cost” a border-crossing immigrant has on the economy.
+
+“200,000 over ten years is less than .01 percent compared to the US population if we are talking 20k people per year,” Donehower told us, referring to the example in given in the CIS report. “That’s pretty small to think it would impact defense spending, foreign aid, or domestic subsidies.”
+
+At issue, primarily, is how significant an effect the relatively small pool of border-crossing immigrants could have on the way the United States spends its defense money, as a full 83 percent of the public goods cost is represented by defense spending. Camarota pushed back on this point, arguing by phone that one could make a valid argument for any of the scenarios presented in the NAS study as being relevant to border-crossing immigrants, including ones where immigrants affect defense spending:
+
+You could say, “Well, look, having 200,000 extra people in the United States, how would that impact defense?” That’s reasonable. On the other hand, if I said to you, “Look, we’re going to have 200,000 people in the United States, primarily say from Central America, I think that has enormous bearing both on our military expenditures in that region for training and deployment make it much more likely that we’re going to defend, to send in say, disaster relief, using the military or other public good budgets.
+
+Donehower told us she finds this argument problematic both because the numbers of people are too small, and because it is generally unconvincing:
+
+This argument I dismiss both because the actual numbers of people prevented from crossing are so small (by CIS’s own estimate) compared to the US population, but also it just seems unconvincing. We did not invade countries like Vietnam, Afghanistan, or Iraq because of large immigrant populations from those places clamoring for war, and Puerto Rico has not been able to secure massive rebuilding aid from the US military despite over 5 million Puerto Ricans living in the 50 states AND actually being citizens!
+
+The decision to include public goods costs in the CIS analysis — which the NAS authors suggest is misguided — has the end result of making immigrants appear more expensive than under scenarios NAS sees as more appropriate to the topic.
+
+Controversy 3: How “Out of Control” Will the United States Debt Be in 75 years?
+
+
+
+Many of the costs attributed to immigrants in the CIS report stem from the national deficit. “Budget projections assume we will keep adding LOTS of new debt to enable all of our government spending,” Donehower told us. “That wouldn’t change if a few thousand fewer immigrants arrived, and this constant deficit spending makes everyone look more expensive on average.”
+
+By using the NAS numbers in the way that CIS has employed them, study author Kim Reuben told us, they are essentially assuming that a cost that would exist anyway for reasons that have nothing to do with immigration (that is, the ballooning national deficit) would not be there at all if an immigrant had not crossed the border:
+
+They are using numbers trying to make it seem that the average cost will just go away if these people aren’t here [while ignoring] the fact that much of that has already been spent, [and] that the large reason why they are negative rather than positive has to do with the fact that we are running deficits in this country.
+
+Further, four of the scenarios averaged into Camarota’s figure include a more aggressive projection of future United States debt, which were calculated by assuming current levels of U.S. spending 75 years into the future with no change.
+
+Using these numbers, as well, increases the CIS estimate for how much a border-crossing immigrant will cost the government compared to projections of future spending made by the Congressional Budget Office in 2015. Donehower thinks the latter numbers a better choice, only because the former would result in a catastrophic collapse of the United States economy, though she is sympathetic to the fact that this is among the harder things to predict:
+
+The other scenario blows up the deficit much faster than the CBO projections […] By “blows up” I mean takes it over 200 percent, higher than it has ever been, higher than Greece in peak crisis. I think most economists would say that a government could not survive like that. No one would lend us money anymore and then immigration would be the least of our problems.
+
+Camarota takes a more pessimistic look at the future, given that the United States’ spending situation has only gotten worse since the Congressional Budget Office estimate was made:
+
+You could say, “Well, gosh, we can’t keep spending like this. We got to be a little more austere, got to be a little more conservative.” So maybe the CBO estimates make sense. The first problem with that is that was three years ago. We’re already way off of the CBO estimates. It’s already wrong. And the second problem is we just passed a tax cut that brings us even farther off the CBO estimates.
+
+The decision to average all the scenarios together means that CIS’s analysis includes scenarios that raise the national debt to this extreme level. This is important because it raises the calculated cost of a border crossing immigrant using assumptions of future debt the authors of the original study find questionable.
+
+It is also important because, as Reuben points out, attributing that debt in part to immigrants makes it seem as though these ballooning deficits would not be present if people did not cross the border, which makes the data set challenging to use for the specific question CIS purports to be using it for.
+
+Controversy 4: Not Including the Descendants of Immigrants
+
+The final controversy involves numbers that were not averaged into any of the CIS estimates — the column in table 8-12 that includes the fiscal impact of immigrants and their children. According to Jeffrey Passel, a senior demographer at Pew Research Center and member of the committee that produced the NAS report, this is problematic because it ignores any possible economic benefit more educated children of immigrants could provide. “By not including the subsequent generation(s), the calculation ignores the benefit of the investment in education,” Passel told us.
+
+Camarota’s reasoning, he told us, was that including the descendants of people that don’t even exist yet is far too speculative:
+
+In some cases we’re trying to estimate the fiscal impact of people who in some cases, [their] mothers have not even been born yet. Well, that’s pretty speculative [if] you’re just trying to estimate the original person.
+
+This is another argument Donehower finds unconvincing, because in her view the entire exercise is speculative, and she argues that figuring out what a theoretical immigrant will do over a 75-year time period is just as speculative as figuring out the impact their kids would have over that same time period. “The cost of those children 75 years from now is no less speculative than the cost of the immigrant 75 years from now,” Donehower told us.
+
+Further, Donehower added, ignoring the descendants adds an untenable assumption in their analysis. “What CIS does in leaving out the children of immigrants is ‘bake in’ an assumption that every one of those 20k people per year have no children at all. We KNOW that is wrong,” she said.
+
+Camarota contends this is a moot point, as nearly every NAS scenario (including those that factor in the children of immigrants) produce results by his methods that suggest that a border-crossing immigrant is still a cost to the economy. This may be true, Donehower argues, except for one scenario — the one Donehower thinks would be best for addressing question CIS is trying to answer:
+
+The scenario I see as appropriate to this question is: immigrants will not raise the cost of providing public goods [and using] the more moderate CBO projections [as the estimate for future government debt]. If I take CIS’ guess and my relevant scenario […], then a single immigrant prevented saves the government $18k each, not $74k as in CIS’ report. […] If I take [that] scenario and calculate the impact of the descendants of one border crosser, his or her descendants will actually contribute $26k over the next 75 years, which would be lost to the government if that immigrant was prevented from arriving. Add the immigrant impact of ~18k to the descendants impact of 26k, then the estimated impact of keeping a border crosser out is that the government loses 8k per border crosser prevented.
+
+This is another example of a decision made by CIS that NAS finds dubious, and it is also one that can, in some cases, serve to negate the benefit of future U.S.- born descendants of border-crossing immigrants.
+
+The Bottom Line
+
+These controversies illustrate that Center for Immigration Studies used data generated by the National Academy of Sciences in ways that the NAS contends are questionable, and in ways that inflate the theoretical savings the government might reap by blocking a single border-crosser with a wall. Using the CIS price tag of $74,722.00 per border crosser and a budget of 15 billion dollars for a wall, Camarota argues that you would need to stop only a fraction of border crossers to make it budget neutral:
+
+Based on the NAS data, illegal border-crossers create an average fiscal burden of approximately $74,722 during their lifetimes, excluding any costs for their U.S.-born children. If a border wall stopped between 160,000 and 200,000 illegal crossers — 9 to 12 percent of those expected to successfully cross in the next decade — the fiscal savings would equal the $12 to $15 billion cost of the wall.
+
+If the savings gained from blocking an immigrant is less than CIS argues (and as NAS contends it likely would be) you would need to stop even more immigrants. Similarly, if the wall were to cost more than $15 billion (which many experts agree it would, and by a hefty margin), the number of immigrants stopped would need to be even higher. If we used Donehower’s theoretical calculation in which an average person crossing would ultimately save the United States economy money, the wall would, of course, never pay for itself.
+
+At some point, if the number of immigrants required to be stopped rises high enough, you would run out of immigrants to stop — making it essentially impossible to reap the savings CIS purports to have uncovered. Net immigration of Mexicans across the wall has dropped, essentially, to zero in recent years. “Border apprehensions of Mexicans have dropped by almost 90 percent from their peak in 2000,” Passell told us; “this is without a wall but with a sizable increase in Border Patrol agents and technology.”
+
+The main influx of undocumented immigrants in the United States now belong to immigrants from El Salvador, Guatemala, and Honduras, which has seen an increase since 2009 — but there is no certainty that these numbers will stay at levels high enough to produce the savings CIS describes, especially if that number were significantly higher than Camarota estimates it to be.
+
+While the NAS researchers we spoke to feel as though Camarota used their data in a misleading way that inflates the fiscal burden of an immigrant, Camarota suggested Donehower has to cherry pick data to make her point. Donehower summed up the argument this way:
+
+[Camarota] maintains that without me cherry picking the one I want, averaging across the eight is the most relevant. I maintain that it’s not cherry picking if there is a valid argument for why one is the most relevant calculation.
+
+“Those are the two sides,” Donehower added. “I think his is wrong and mine is right, but he thinks the opposite.”

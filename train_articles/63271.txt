@@ -1,0 +1,30 @@
+College Bound
+Download Data:
+
+Student counts and sign-up rates, preaggregated to the state, ESD, school district, and school levels are available on data.wa.gov.
+
+Important note:
+
+Data for entities with less than 10 eligible students have been suppressed or rounded to protect student privacy. This affects the ability for end users to roll-up data or make calculations.
+
+However, aggregations are supplied at the state, ESD, district levels. If you would like to request custom aggregations, please email collegebound@wsac.wa.gov
+
+Printable Versions
+
+To generate individual maps as an image or PDF, click the Download icon (box with down arrow) at the bottom right of the embedded dashboard.
+
+Displaying label and exporting charts with labels
+
+Most data labels are hidden by defaul to enhance readability, but viewers can display one or multiple labels using the following methods:
+
+Select legend labels (colors or shapes) individually or multiple labels by holding the control-key Select data points individually or multiple points by holding the control-key or dragging cursor (hold button if using mouse)
+
+Any customizations to the default view, including labels, are preserved while using the buttons in the bottom right of visualization labelled "Download" to export an image or PDF, and “Share" to create sharable links with the current or original default view. The "Undo", Refresh" or "Revert" buttons in combination with the "Current View" are also useful for exploring the data.
+
+Accessibility and assistive technologies
+
+A central tenet of the Roadmap Dashboards is making them available, accessible, understandable, and useful to all users. While Tableau dashboards offer WCAG 2.0 AA compliance, WSAC is committed to evaluating and improving the Roadmap Dashboards for accessibility. We especially value feedback from those using assistive technologies such as screen readers, braille keyboards, or keyboard-only navigation. If you would like assistance or are interested in sharing your experience or how we could improve accessibility, please email data@wsac.wa.gov using this link.
+
+Providing Feedback
+
+Our team greatly welcomes your feedback, suggestions, and error reports. Please email data@wsac.wa.gov.

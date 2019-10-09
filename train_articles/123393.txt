@@ -1,0 +1,46 @@
+Government Uses Color Laser Printer Technology to Track Documents
+WASHINGTON--Next time you make a printout from your color laser printer, shine an LED flashlight beam on it and examine it closely with a magnifying glass. You might be able to see the small, scattered yellow dots printed there that could be used to trace the document back to you.
+
+According to experts, several printer companies quietly encode the serial number and the manufacturing code of their color laser printers and color copiers on every document those machines produce. Governments, including the United States, already use the hidden markings to track counterfeiters.
+
+Peter Crean, a senior research fellow at Xerox, says his company's laser printers, copiers and multifunction workstations, such as its WorkCentre Pro series, put the "serial number of each machine coded in little yellow dots" in every printout. The millimeter-sized dots appear about every inch on a page, nestled within the printed words and margins.
+
+"It's a trail back to you, like a license plate," Crean says.
+
+The dots' minuscule size, covering less than one-thousandth of the page, along with their color combination of yellow on white, makes them invisible to the naked eye, Crean says. One way to determine if your color laser is applying this tracking process is to shine a blue LED light--say, from a keychain laser flashlight--on your page and use a magnifier.
+
+Crime Fighting vs. Privacy
+
+Laser-printing technology makes it incredibly easy to counterfeit money and documents, and Crean says the dots, in use in some printers for decades, allow law enforcement to identify and track down counterfeiters.
+
+However, they could also be employed to track a document back to any person or business that printed it. Although the technology has existed for a long time, printer companies have not been required to notify customers of the feature.
+
+Lorelei Pagano, a counterfeiting specialist with the U.S. Secret Service, stresses that the government uses the embedded serial numbers only when alerted to a forgery. "The only time any information is gained from these documents is purely in [the case of] a criminal act," she says.
+
+John Morris, a lawyer for The Center for Democracy and Technology , says, "That type of assurance doesn't really assure me at all, unless there's some type of statute." He adds, "At a bare minimum, there needs to be a notice to consumers."
+
+If the practice disturbs you, don't bother trying to disable the encoding mechanism--you'll probably just break your printer.
+
+Crean describes the device as a chip located "way in the machine, right near the laser" that embeds the dots when the document "is about 20 billionths of a second" from printing.
+
+"Standard mischief won't get you around it," Crean adds.
+
+Neither Crean nor Pagano has an estimate of how many laser printers, copiers, and multifunction devices track documents, but they say that the practice is commonplace among major printer companies.
+
+"The industry absolutely has been extraordinarily helpful [to law enforcement]," Pagano says.
+
+According to Pagano, counterfeiting cases are brought to the Secret Service, which checks the documents, determines the brand and serial number of the printer, and contacts the company. Some, like Xerox, have a customer database, and they share the information with the government.
+
+Crean says Xerox and the government have a good relationship. "The U.S. government had been on board all along--they would actually come out to our labs," Crean says.
+
+History
+
+Unlike ink jet printers, laser printers, fax machines, and copiers fire a laser through a mirror and series of lenses to embed the document or image on a page. Such devices range from a little over $100 to more than $1000, and are designed for both home and office.
+
+Crean says Xerox pioneered this technology about 20 years ago, to assuage fears that their color copiers could easily be used to counterfeit bills.
+
+"We developed the first (encoding mechanism) in house because several countries had expressed concern about allowing us to sell the printers in their country," Crean says.
+
+Since then, he says, many other companies have adopted the practice.
+
+The United States is not the only country teaming with private industry to fight counterfeiters. A recent article points to the Dutch government as using similar anticounterfeiting methods, and cites Canon as a company with encoding technology. Canon USA declined to comment.

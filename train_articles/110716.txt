@@ -1,0 +1,58 @@
+Bad Data – Carbon Monoxide Eruption Over Western North America Not Real
+This post is a bit out of the scope of this blog, but I think it has important implications for making sure our students develop solid critical thinking skills.
+
+A few days ago, people began noticing an apparent eruption of carbon monoxide (CO) in western North America as seen on Cameron Beccario’s excellent animated map of global weather conditions: Earth. If you view the carbon monoxide data on the map, it shows what appears to be a huge emission of CO beginning in the afternoon of February 25th. In some places, CO levels apparently reach 40,000 ppb (parts per billion), whereas normal levels usually range somewhere between 100 – 1000 ppb.
+
+The internet has been in a tizzy over the over the possibility that this sudden and dramatic output of CO, as well as CO2 and SO2, signifies that a large earthquake is imminent on the west coast. The basis for these claims is a paper that appeared in the journal Applied Geochemistry authored by Dr. Ramesh Singh titled, “Satellite detection of carbon monoxide emission prior to the Gujarat earthquake of 26 January 2001.” Most of the blogs have been linking to this page on NatureIndia.com.
+
+I’ve read the journal paper, and it’s claims are questionable at best. However the merits of the paper are irrelevant because there was no major gas emission on February 25th.
+
+For some reason, no one seems to be questioning the data upon when Nullschool.net’s Earth map is based. Stuff happens and sometimes, though not often, scientific instruments can malfunction. The map even has a disclaimer link at the top right of the screen warning not to take the data too seriously. Clicking on it leads to the statement,
+
+GEOS-5 data (covering all Chem and Particulates layers) comes with the following disclaimer: Forecasts using the GEOS system are experimental and are produced for research purposes only. Use of these forecasts for purposes other than research is not recommended.
+
+This should give anyone pause before scaring people into believing that a destructive earthquake is imminent. After a few hours of research, here’s what I was able to find out about the data used in Nullschool.net’s Earth map.
+
+Source of carbon monoxide data
+
+Earth’s options menu show the source of the data displayed by the map. For the surface-level carbon monoxide overlay, Earth uses data from GEOS-5. GEOS-5 is a system of models that NASA designed to simulate our planet’s climate variability over many different lengths of time.
+
+NASA’s Global Modeling and Assimilation Office (GMAO) says that the GEOS-5 atmospheric model uses data collected by the MOPITT and AIRS instruments. The MOPITT (Measurement of Pollution in the Troposphere) instrument resides on Terra, a satellite that NASA launched in 1999. Terra is the same satellite that collects the MODIS data often featured in spectacular fashion on NASA’s Earth Observatory site. AIRS (Atmospheric Infrared Sounder) was launched on the Aqua satellite in 2002.
+
+So the best I can tell, the MOPITT and AIRS instruments are the primary sources for the CO surface data seen in the Earth map, as well as the CO2 surface and SO2 surface mass data. I wouldn’t be surprised if data from ground-based instruments is also being used by GEOS-5, but I haven’t been able to determine that yet from my research.
+
+MOPITT data outage
+
+University of Wisconsin-Madison’s Space Science and Engineering Center has a timeline of Terra’s system status and it reports that on February 18th, the Terra satellite went into safe mode. All of the satellite’s instruments stopped collecting data, including MOPITT. Terra resumed scientific data collection late in the day on February 24th. Data began being broadcast sometime on the 25th, but they note on the 26th that instrument operating temperatures are still stabilizing, affecting the data collected using infrared channels.
+
+MOPITT uses light collected in the infrared part of the spectrum. Based on Terra’s system status, the CO, CO2 and SO2 data collected by MOPITT on the 25th and 26th of February should be highly suspect.
+
+On the Earth map, the CO, CO2, and SO2 levels spike sometime between 1pm and 4pm Pacific time on Feb. 25th, which is between 2100 UTC on the 25th and 0000 UTC on the 26th. This is precisely during the time window when MOPITT’s operating temperature is still unstable.
+
+This leads to the conclusion that the dramatic increase in CO, CO2 and SO2 levels observed on February 25th isn’t due to any naturally occurring phenomenon. It’s a result of GEOS-5 models incorporating newly acquired data that was faulty.
+
+Location of the gas increases
+
+It’s reasonable to question that if the data is faulty, why are the apparent gas increases showing up only on the west coast of North America? Why aren’t there big gas spikes all over the world? The answer lies in how the MOPITT collects data. The Terra satellite is in a polar orbit, meaning it circles the earth over the north and south poles and across the equator. As it moves above the earth, MOPITT collects its data in swaths about 640 km (400 miles) wide. It takes almost three days to cover the entire earth.
+
+Factor in cloud cover and it’s pretty easy to see from the daily plot above that MOPITT data is sparse. You can view the data here.
+
+It’s pure coincidence that at MOPITT resumed data collection over western North America while its operating temperature was still stabilizing. Had the instrument’s temperature remained unstable for a few days, it would have looked like the whole globe was erupting gas. If MOPITT has started collecting data over the south pole, open ocean, or some other obscure location, I doubt anyone would have noticed and made a big fuss.
+
+Don’t forget the AIRS data
+
+Remember that MOPITT isn’t the only satellite-based instrument being used to collect carbon monoxide concentration data. The AIRS instrument on Aqua was also collecting data during the same time period in question, and there were no reported issues with the instrument or satellite. See the loop below.
+
+There is no huge gas plume. Note the color scale tops out at 140 ppb (parts per billion). Compare this to the 40,000 ppb levels seen on Nullschool.net’s Earth map during the heigh of the apparent gas eruption. After the GEOS-5 model combines the data, the magnitude of the bad MOPITT data is so large that it simply overwhelms the accurate data collected by AIRS.
+
+You can view and interact with the AIRS data for yourself here.
+
+Good lesson for students
+
+So is there a dangerous earthquake about to hit somewhere on the west coast of North America? The truth is, we don’t know. The nature of the tectonically active west coast means the possibility is always there, and the USGS has done its best to quantify the probability of future earthquakes.
+
+However, the chance of a major earthquake striking the west coast has not changed in the past week. There are no scientific models that can reliably predict earthquakes, especially based on carbon monoxide emissions. More importantly, there was no sudden spike in carbon monoxide emissions, natural or otherwise.
+
+This would make a good exercise for high school (and maybe middle school) teachers to give their students. Sudden and dramatic changes in observed data should always be questioned and the causes investigated. Machine and human error should be eliminated as possible cause first. Only when one is confident the data is sound and reliable can he or she begin the fun part of using the scientific method to find the true cause of observed phenomena.
+
+Update: GMAO has put out a statement confirming that bad CO data points erroneously created the unrealistically high levels of CO in the GEOS-5 data products.

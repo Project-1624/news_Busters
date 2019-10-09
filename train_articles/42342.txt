@@ -1,0 +1,248 @@
+Economic Effects Of State Bans On Direct Manufacturer Sales To Car Buyers
+This document is available in two formats: this web page (for browsing content) and PDF (comparable to original document formatting). To view the PDF you will need Acrobat Reader, which may be downloaded from the Adobe site. For an official signed copy, please contact the Antitrust Documents Group.
+
+ECONOMIC ANALYSIS GROUP
+
+COMPETITION ADVOCACY PAPER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic Effects of State Bans on Direct
+
+Manufacturer Sales to Car Buyers by
+
+
+
+Gerald R. Bodisch*
+
+EAG 09-1 CA May 2009
+
+EAG Competition Advocacy Papers are a vehicle for disseminating analysis from economists in the Economic Analysis Group (EAG) of the Antitrust Division concerning public policy options for the promotion of competition. These papers are intended to stimulate discussion and criticism of economic issues related to industries and activities in which the creation and promotion of competition may replace either monopoly or government regulation or both. The Antitrust Division encourages independent research by its economists. The views expressed herein are entirely those of the author and are not purported to reflect those of the United States Department of Justice.
+
+Information on the EAG research program and discussion paper series may be obtained from Russell Pittman, Director of Economic Research, Economic Analysis Group, Antitrust Division, U.S. Department of Justice, 450 5th St., NW, Room 9446, Washington, DC 20530, or by e-mail at russell.pittman@usdoj.gov. Comments on specific papers may be addressed directly to the authors at the same mailing address or at their e-mail address.
+
+Recent EAG Discussion Paper and EAG Competition Advocacy Paper titles are listed at the end of this paper. To obtain a complete list of titles or to request single copies of individual papers, please write to Janet Ficco at the above mailing address or at janet.ficco@usdoj.gov or call (202) 307-3779. Beginning with papers issued in 1999, copies of individual papers are also available from the Social Science Research Network at www.ssrn.com. In addition, recent papers are now available on the Department of Justice website at http://www.usdoj.gov/atr/public/eag/discussion_papers.htm.
+
+_________________________
+
+* Economist, Antitrust Division, U.S. Department of Justice, Washington, DC. I am grateful to Oliver Richard and Carl Shapiro for insightful comments and to Terry Zeng for research assistance. Any errors are my own.
+
+The Antitrust Division encourages independent research by its economists. The views expressed herein are entirely those of the author and are not purported to reflect those of the United States Department of Justice.
+
+Abstract
+
+State franchise laws prohibit auto manufacturers from making sales directly to consumers. This paper advocates eliminating state bans on direct manufacturer sales in order to provide automakers with an opportunity to reduce inventories and distribution costs by better matching production with consumer preferences.
+
+I. Introduction
+
+Automakers General Motors Corporation (GM) and Chrysler LLC have received $17.4 billion in loans under the Troubled Asset Relief Program (TARP) and have indicated that they may need up to an additional $21.6 billion in federal assistance to restructure their operations.(1) As a condition of the loans, the companies are required to develop plans to achieve profitability. Much attention in the plans has centered on getting labor costs under control. Among other measures addressed are ways to cut distribution costs. As part of its cost-cutting effort, GM has announced that it will reduce its dealership network from over 6,200 dealers today to 4,100. The cost of the auto distribution system in the United States has been estimated as averaging up to 30 percent of vehicle price.(2)
+
+With dealer networks being rationalized as part of cost-cutting initiatives, direct manufacturer sales to car buyers may present an additional opportunity to lower distribution costs. Such sales might range from consumers' simply ordering assembled vehicles of their choice directly from automakers to a scenario along the lines of the "Dell Direct" build-to-order model that revolutionized the personal computer production and sale process. GM initiated a build-to-order sales model in Brazil for its Chevrolet Celta economy car over eight years ago. In 2008, the Celta was among the sales leaders in Brazil.(3) At the time of the Celta's introduction, an auto analyst said that build-to-order could result in "spectacular improvements in the company's competitiveness and profitability."(4)
+
+In the United States, however, direct manufacturer auto sales are prohibited in almost every state by franchise laws requiring that new cars be sold only by dealers. These bans on direct manufacturer sales are part of a broad array of state laws that bar manufacturer ownership of dealers and regulate entry and exit of dealers through territorial restrictions and provisions on dealer termination. Analysis of the economic effects of these laws has led some to conclude that they harm consumers and should be eliminated.(5) The focus here is more narrow – state laws banning direct manufacturer sales, since they may be curtailing development of a more cost-effective method of auto distribution.(6)
+
+The next section offers a brief overview of the auto dealer franchise system. Then the essential features of the direct manufacturer distribution model are described and compared with the traditional method of selling autos. Discussion of the benefits of a direct distribution model to auto consumers and manufacturers follows, along with economic analysis of some of the concerns of dealers. A conclusion addresses the question of federal involvement in this issue.
+
+II. The Auto Dealer Franchise System
+
+Early in the evolution of the auto industry direct manufacturer sales to consumers were not uncommon. At that time, production processes had not yet been standardized and industry sales volumes were low. Introduction by Ford of the assembly line technique early in the twentieth century enabled high-volume production and ushered in the era of mass-market sales in the United States. Ever since then manufacturers have sold cars through franchised dealerships.
+
+Selling through dealerships has offered several benefits to manufacturers historically. Auto production is a capital-intensive business and a franchise system allowed manufacturers to concentrate their resources upstream while accessing capital through franchise fees from independent entrepreneurs at the retail level. Economies of scale in auto production also required having relatively few, large manufacturing operations located near essential supplies like steel. This contrasted with the nationwide distribution network needed to reach consumers, who could be more effectively served through local dealerships in a better position to assess demand in particular markets and to provide service and repairs.
+
+Since running a dealership can require making a substantial investment in real estate and assets like showrooms and service facilities, the franchise system also had to offer terms that would make it attractive to dealers. This was accomplished voluntarily by contract, through franchise agreements, even prior to enactment of state franchise laws. Typically such franchise agreements give a dealer exclusive rights to a particular geographic sales territory of a manufacturer. This type of arrangement allows dealers to realize a return on their investment while giving them incentives to undertake advertising and promotional activities and to provide services, like showroom displays, test drives and other types of consumer information, valuable to manufacturers in marketing their vehicles.
+
+With the advent of the internet, some of the mutually beneficial nature of the franchise system for manufacturers and dealers has diminished, as information and access to services historically provided primarily by dealers has become more readily available. Online buying services are an obvious example. In addition, a variety of auto information, including pricing data and reviews, can be found online from sites like Edmunds and Consumer Reports. This raises the prospect of disintermediation, broadly defined as direct-to-consumer sales through reduction or elimination of the role of retailers. With respect to autos, unlike the situation with books and CDs, most customers probably will continue to want some hands-on contact with the product before purchasing, likely implying a continuing, though possibly changed, role for dealers. Since the internet can potentially provide manufacturers with better information on consumer preferences than the traditional local franchised dealer, direct manufacturer sales may be one way through which that changed dynamic occurs.
+
+III. Comparison of Direct Manufacturer Sales with Traditional Auto Distribution
+
+There are substantial differences between the auto industry and the personal computer (PC) industry in which Dell pioneered the direct manufacturer distribution model.(7) These differences have implications for the extent to which a direct manufacturer sales model is adaptable to the auto industry. Auto production is currently characterized by integral and closed product architecture where product design is critical. There is much more product variety in autos than in PCs and the myriad auto components tend to be non-standardized without a common interface across models or companies. By contrast, the manufacture of PCs involves a modular structure with a smaller number of standardized components or modules having a common interface. Build-to-order personal computer products can be readily assembled using the common interface by matching modules to customer preferences.
+
+Despite the differences in the design and production processes of PCs and autos, the computer industry's Dell Direct model can provide some insight into potential cost reductions, particularly with respect to inventories, from direct manufacturer sales of autos. The defining characteristic of the Dell Direct model is the virtual elimination of inventories. Although Dell modified its distribution system a few years ago, historically Dell had sold only directly to final consumers based on customized orders shipped to end users.(8) In the process Dell avoided the cost of carrying finished inventories. Unlike the build-to-order PC model, auto distribution is "make-to-stock," with cars sold through extensive franchised dealer networks. Dealer inventories can range from sixty to ninety days, a consequence of which are substantial carrying costs and negotiation of prices with consumers in order to keep inventory stocks manageable.
+
+Direct manufacturer car sales may have the potential to reduce inventory costs. The salient point is that whether or not direct manufacturer sale of autos is to evolve as a distribution channel in the United States should be determined by the preferences of consumers and the ability of auto producers to meet those preferences, rather than being precluded by fiat. If state laws prohibiting direct manufacturer auto sales remain in effect, automakers may be frustrated from making one type of long-run adjustment to reduce costs that could play a role in their efforts to restructure.
+
+IV. Benefits of Direct Manufacturer Auto Sales
+
+Perhaps the most obvious benefit from direct manufacturer sales would be greater customer satisfaction, as auto producers better match production with consumer preferences ranging from basic attributes on standard models to meeting individual specifications for customized cars. With better information about consumer demand, optimal inventory levels should fall, even short of full build-to-order capability by auto manufacturers. To the extent that there are cost savings from leaner inventories, a portion could be passed on to consumers as lower prices. The total value of new car inventory held by the 20,700 franchised new car dealerships in the United States near the end of 2008 was about $100 billion and the annual carrying cost of that inventory was estimated as $890 million.(9) These figures may provide an order-of-magnitude perspective of the savings potential from a reduction in inventories that might derive from direct manufacturer sales of autos.
+
+The most comprehensive estimate of the savings in the vehicle order-to-delivery cycle from build-to-order, direct manufacturer sales is set out in a 2000 report by a Goldman Sachs analyst.(10) Based on an average vehicle price of $26,000, total cost savings in the order-to-delivery cycle were estimated as $2,225 or about 8.6%.(11) The components of those savings were as follows: $832 from improvement in matching supply with consumer demand; $575 from lower inventory; $387 from fewer dealerships; $381 from lower sales commissions and $50 from lower overall shipping costs, since fewer dealerships would reduce the number of distribution points. The Goldman Sachs report identified other possible build-to-order savings of about $1,000 per vehicle in product development, manufacturing flexibility and procurement and supply but the lion's share of the benefits were attributed to improvements in the order-to-delivery cycle. In a nutshell, the current auto industry make-to-stock sales model takes a lot of money, much of it tied up in inventories and devoted to discounting to clear lots of less popular vehicles, to try to sell cars that can come up short of what customers would really prefer.
+
+While the Goldman Sachs report provides estimates of potential cost savings, a real-world example of the benefits of a build-to-order, direct manufacturer sales model is GM do Brasil's experience with production and sale of the Chevrolet Celta economy car at its modern Blue Macaw plant in Gravatai.(12) Since 2000, customers in Brazil can order the Celta over the internet from a site that links them with GM's assembly plant and 470 dealers nationwide. By 2006, 700,000 Celtas had been produced and the car continues to be one of Brazil's best sellers.(13) Consumers have 20 "build-combinations" from which to configure a model of their choice, including colors and accessories, and can view each change as it is being made. GM built five distribution centers throughout Brazil to reduce transportation time from its assembly plant and buyers can track location of their car online on its way to delivery at a dealer of their choice. The time from configuration at the factory to delivery is only about a week, in contrast to the several week wait that can be common in ordering a car in the United States.
+
+The Celta was designed by GM in collaboration with suppliers who deliver just-in-time pre-assembled modules to the factory. GM estimates that collaboration in design and manufacturing enabled it to use 60 percent fewer suppliers and 50 percent fewer parts than in a traditional assembly operation. According to Mark Hogan, president of e-GM at the time of the Celta's introduction, GM can sell Celtas 24 hours a day and enjoys a competitive advantage from reduced production time, lower inventory levels and an overall more efficient distribution and sales model where dealers need to stock only two models, one for the show room and one for test drives. Consumers benefit from Celta's online no-haggle pricing structure, where prices are about 6 percent lower than for sales made through conventional distribution channels. The price is lower because GM passes on to consumers some of the tax benefits it gets from the Brazilian government as a result of the reduced inventory and real estate associated with online sales.
+
+Since direct manufacturer auto sales are currently prohibited by the state franchise laws in the United States, no direct comparison with GM's Celta experience in Brazil is possible. However, surveys do show that many new car buyers in America would be interested in buying directly from manufacturers, particularly to avoid costs associated with the dealer/customer bargaining process. In one survey, almost half of respondents said that they would opt to buy cars direct from the manufacturer even if it didn't save any money.(14)
+
+Some indication of the value that consumers place on an alternative that minimizes the auto purchase bargaining process is the popularity of auto referral services like Autobytel.com. Such internet services provide auto pricing information and refer prospective buyers to traditional dealers for auto purchases. One study of the effect of Autobytel on dealer pricing in California found that customers using its online referral service paid an average of $450 (about 2 percent) less than non-online consumers.(15) Of the savings, about 25 percent came from buying at a lower-priced dealer affiliated with Autobytel and the rest were from bargaining by the service on behalf of the consumers, provision of information online and cost efficiencies.
+
+While Autobytel reduces the bargaining costs of the "dealership experience" for consumers and may increase inventory turnover somewhat, inventory on dealer lots remains an integral part of the process.(16) Manufacturers, with greater visibility into and more direct control over their own inventory, should be better positioned both to implement quicker order fulfillment and to manage inventories efficiently if they were allowed to make direct sales to consumers.(17) Moreover, only a manufacturer, as GM has done in Brazil, can realize additional savings up the value chain, from build-to-order improvements in design, production and supply chain management made possible by advances in networked communications over the internet.
+
+V. Dealer Concerns
+
+Dealers tend to view direct manufacturer sales with a skeptical eye, concerned that they could be cut out of the sales process and have the investments in their dealerships eroded. Broadly speaking, dealer concerns fall into two categories: a need for protection from abuse by presumably more powerful manufacturers and the prospect that local dealers will not be adequately compensated for services that only they can effectively provide, as consumers take advantage of dealer sales efforts like test drives before buying at a lower price from a manufacturer.(18) In economics, these concerns are referred to as the holdup problem and the free-rider problem. On both theoretical and empirical grounds, there are reasons why these concerns are misplaced or can be addressed without a need for state franchise laws.
+
+The holdup problem occurs if manufacturers can appropriate a portion of dealer-specific investments through opportunistic behavior. Generally this derives from dealer concern about a manufacturer's installing a second dealer within a dealer's established territory, thereby eroding the first dealer's profitability. The same concern can apply to competition from manufacturer direct sales. As a matter of economic theory, holding up dealers is unlikely to be a viable long-run strategy for a manufacturer when, as in the auto industry, reputation is important. Opportunistic behavior by a manufacturer would erode its reputation, making it difficult to attract new dealers and have existing dealers continue to provide the promotion and service essential to attracting those customers not buying directly from the manufacturer.
+
+The free-rider problem is similar to the holdup problem in that it involves dealers being inadequately compensated, in this instance for services provided locally on sales made by the manufacturer. It bears reiterating that, as with the holdup concern, manufacturer self-interest provides a strong incentive to solve this problem. Given that, manufacturers and their dealers are likely to develop contractual arrangements to address free-rider issues should manufacturer direct sales emerge in the United States. A simple example might involve a manufacturer's compensating dealers for services provided by granting a commission to a dealer on any direct manufacture sale made within the dealer's territory.(19)
+
+Because of reputational effects, even a manufacturer with market power has an incentive to address the holdup and free-rider problems, since the manufacturer derives no revenue from sales lost if disgruntled dealers sell fewer cars. In the case of today's U.S. auto industry, inter-brand competition among manufacturers limits their market power and further undercuts the "dealer protection" argument empirically.(20) In short, present-day dealers have a number of auto manufacturers competing for their services, each of whom has a concern for its reputation, and that competition among manufacturers inures to dealers' benefit.
+
+Among the Big Three's competitors with production facilities in the United States are Toyota, Honda, Nissan, Hyundai, BMW and Mercedes-Benz. As Table 1 shows, the Big Three's share of new vehicle sales fell from almost 72 percent in 1997 to around 52 percent in 2007. Inter-brand rivalry among manufacturers fostered a competitive climate for dealers, where many dealers now have franchise agreements with multiple manufacturers and relatively fewer dealerships are dependent on a single manufacturer than in the past. Although the vast majority of dealers are privately owned, the country's largest dealer, AutoNation, has over 200 dealerships and is publicly-held, with a current market capitalization greater than GM's. Many other dealerships are substantial businesses in their own right. The average dealership had new vehicle sales of almost $20 million and a net worth of $2.3 million in 2007.(21)
+
+As mentioned earlier, even under a direct manufacturer sales model, some dealer role likely will be maintained since most customers will continue to want to see and test drive new vehicles before purchase. That was the case with GM's direct sales of the Celta in Brazil. A Harvard Business Review article on implications of the internet for auto competition sums this up well: "Most buyers will value a combination of online services, personal services and physical locations over stand-alone Web distribution. They will want a choice of channels, delivery options and ways of dealing with companies."(22)
+
+Finally, it also may be the case that dealers would get some benefits from ancillary activities like warranty and service work that are complements to direct manufacturer sales. As Figures 1 and 2 show, the average dealership actually lost money on new car sales in 2006 and 2007 and, even in years of profitable new car sales, profits on service and parts tended to be higher. This may suggest that while direct manufacturer sales may reduce the ranks of dealers somewhat, those dealers that remain could turn out to be relatively more profitable than currently.
+
+
+
+
+
+Table 1. New-vehicle sales and market share, by manufacture Year Chrysler Ford General
+
+Motors Big Three Total 1997 2,303,800 3,807,100 4,734,100 8,541,200 15,130,200 15.23% 25.16% 31.29% 71.8% 1998 2,510,000 3,860,200 4,570,100 8,430,300 15,541,900 16.15% 24.84% 29.41% 70.40% 1999 2,638,600 4,115,600 4,974,600 9,090,200 16,895,800 15.62% 24.36% 29.44% 69.42% 2000 2,522,700 4,147,700 4,911,700 9,059,400 17,349,700 14.54% 23.91% 28.31% 66.76% 2001 2,273,200 3,915,500 4,852,500 4,852,500 17,121,900 13.28% 22.87% 28.34% 64.49% 2002 2,205,450 3,576,250 4,815,150 8,391,400 16,817,500 13.11% 21.27% 28.63% 63.01% 2003 2,127,450 3,437,700 4,716,050 8,153,750 16,634,700 12.79% 20.67% 28.35% 61.81% 2004 2,206,000 3,271,100 4,657,400 7,928,500 16,866,500 13.08% 19.39% 27.61% 60.08% 2005 2,304,900 3,106,900 4,456,800 7,563,700 16,945,000 13.60% 18.34% 26.30% 58.24% 2006 2,142,500 2,848,100 4,067,600 6,915,700 16,502,700 12.98% 17.26% 24.65% 54.89% 2007 2,076,100 2,502,000 3,824,550 6,326,550 16,089,300 12.90% 15.55% 23.77% 52.22%
+
+Source: NADA Industry Analysis Division
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI. Conclusion
+
+J.T. Battenberg, the former chief executive of auto parts supplier Delphi Corporation, has put forth the view that "Build-to-order is the key. That's the game changer in the industry."(23) That statement was made in early 2000. Since then, GM has launched a build-to-order, direct manufacturer sales model for an economy car in Brazil. Yet there still are no direct manufacturer sales in the United States. Although, among others, there are issues in the United States relating to union acceptance of modular assembly techniques, such issues are difficult to address effectively as long as there continue to be "stubborn state franchise laws that prevent manufacturers from selling cars directly to customers."(24)
+
+Private challenges to state franchise laws thus far have not been successful in the courts. One case involved an Arizona law that, in part, prohibited manufacturers from marketing directly to consumers.(25) In another, Ford challenged a Texas statute that banned it from selling used cars from its website because Ford wasn't a dealership.(26) One observer familiar with state auto franchise laws said several years ago that "No matter how strong franchise laws look today, I think they are one rider away from being a non-factor."(27) Whether that prediction comes to pass will be determined by the political process, of which taxpayer-financed TARP funding is now a part. As a matter of economics, arguments for state bans on manufacturer direct sales of autos based on holdup and free-rider problems are not persuasive because competition among auto manufacturers gives each manufacturer the incentive to refrain from opportunistic behavior and to work with its dealers to resolve any free-rider problems. Just as Dell has altered its distribution model in the personal computer industry to better meet evolving consumer preferences, car customers would benefit from elimination of state bans on auto manufacturers' making direct sales to consumers.
+
+References
+
+Atkinson, R., 2001, "The Revenge of the Disintermediated: How the Middleman is Fighting E-Commerce and Hurting Consumers," Progressive Policy Institute Policy Paper.
+
+Carlton, D. And Chevalier, J., 2001, "Free Riding and Sales Strategies for the Internet," The Journal of Industrial Economics 49, 441-461.
+
+Casesa Shapiro Group, 2008, "The Franchised Automobile Dealer: The Automaker's Lifeline," Prepared for the National Automobile Dealers Association.
+
+Cooper, M., 2001, "A Roadblock on the Information Superhighway: Anticompetitive Restrictions on Automotive Markets," Consumer Federation of America.
+
+______, 2002, "Bringing New Auto Sales and Service into the 21st Century: Eliminating Exclusive Territories and Restraints on Trade Will Free Consumers and Competition," Consumer Federation of America.
+
+Eckard, E., 1985, "The Effects of State Automobile Dealer Entry Regulation on New Car Prices," Economic Inquiry 24, 223-242.
+
+Empie, D., 2002, "The Dormant Internet: State Regulations Roadblocking Sales by Auto Manufacturers," bibliography in Georgia State University Law Review 18, 7-11.
+
+Fine, C.H., and D.M.G. Raff, 2001, "Automotive Industry: Internet-Driven Innovation and Economic Performance," in The Economic Payoff from the Internet Revolution, Brookings Institution Press, 62–86.
+
+Gutman, S., 2001, "Get a Great Deal on a Car Over the Internet – Not in Texas!",
+
+Helper, S. And J.P. MacDuffie, 2001, "E-volving the Auto Industry: E-Business Effects on Consumer and Supplier Relationships," in E-Business and the Changing Terms of Competition: A View from Within the Sectors, Brookings Institution Press.
+
+Holt, D., 2003, "Internet and Auto Sales: Benefits and Barriers," The Journal of Private Enterprise 19.
+
+______, 2006, "Automobile Distribution Restrictions: An Economic Perspective," Journal of Law, Economics & Policy podcast, George Mason University.
+
+Kwoka, J., "Automobiles: The Old Economy Collides with the New," Review of Industrial Organization 19, 55-69.
+
+Lapidus, G., 2000, "eAutomotive: Gentleman Start Your Search Engines," Goldman Sachs.
+
+Leary, T., 2001, "State Auto Dealer Regulation: One Man's Preliminary View," Commissioner, Federal Trade Commission, text adapted from a speech at the International Franchise Association 34th Annual Legal Symposium.
+
+Lokker, E., 2001, "Internet Flower Sales Fare Better in Arbitration Than Virtual Drug Store," The Franchise Lawyer, American Bar Association Forum on Franchising.
+
+Mathewson, F. and Winter, R., 1989, "The Economic Effects of Automobile Dealer Regulation," Annales d'Economie et de Statistique 15/16, 409-426.
+
+Morton, Zettelmeyer and Silva-Risso, "Internet Car Retailing," The Journal of Industrial Economics 49, 501-519.
+
+NADA Industry Analysis Division, NADA Data 2008, National Automobile Dealers Association.
+
+Porter, M., 2001, "Strategy and the Internet," Harvard Business Review 79, 62-78.
+
+Rogers, R., 1986, "The Effects of State Entry Regulation on Retail Automobile Markets," Bureau of Economics Staff Report to the Federal Trade Commission.
+
+Saloner, G, Spence, A.M. and Marti, 2000 "Disintermediation in the U.S. Auto Industry," Graduate School of Business, Stanford University, Case Number: EC-10.
+
+Shaffer, B., 2001, "An Assessment of Franchise Laws and Internet Auto Sales," NADA Public Affairs, National Automobile Dealers Association.
+
+Singleton, S., 2000, "Will the Net Turn Car Dealers into Dinosaurs? State Limits on Auto Sales Online," CATO Institute Briefing Paper No. 58.
+
+Smith, M., 2003, "How New Car Dealers Put the Brakes on Competition," Georgia Public Policy Foundation.
+
+Smith II, R., 1982, "Franchise Regulation: An Economic Analysis of State Restrictions on Automobile Distribution," Journal of Law and Economics 25, 125-157.
+
+FOOTNOTES
+
+1. See The Wall Street Journal ("U.S. Throws Lifeline to Detroit" 12-20-2008 and "GM Seeks $16.6 Billion More in U.S. Aid" 2-18-2009).
+
+2. See Saloner, Spence and Marti (2000). About half of these distribution costs are manufacturer-related and half are dealer-related. Among manufacturer costs are advertising and promotion, including low-interest loans and cash rebates. Dealer costs include inventory financing and insurance, advertising and sales commissions.
+
+3. See Autonews.com ("Practical SUV-like Cars Provide Big Profits" 3-2-2009).
+
+4. See CNET News ("Commentary: GM's Brazil Success Shows Net Can Drive Sales" 12-6-2000).
+
+5. See, for example, Smith (1982); Eckard (1985); Rogers (1986); Matthewson and Winter (1989); Leary (2001); Cooper (2001) and Holt (2003). Shaffer (2001) offers a critique of some of those studies.
+
+6. A compilation of 45 state statutes and the relevant language restricting auto manufacturers from selling direct to consumers, via the internet or otherwise, is contained in the bibliography of Empie (2002). In 1999 and 2000 as the internet was getting more widespread use, twelve states either strengthened or passed new laws banning direct manufacturer sale of vehicles. See Kwoka (2001).
+
+7. For a detailed analysis see Helper and MacDuffie (2001) and Kwoka (2001).
+
+8. With the increased popularity of notebook computers, which customers often want to see and try before buying, Dell abandoned its exclusive direct distribution model and began selling through some retailers in 2007. See International Herald Tribune ("Dell Breaks with Tradition to Offer PCs at Wal-Mart" 5-24-2007) and CNET News ("Dell to Sell PCs at Staples" 10-22-2007 and "Dell to Sell PCs at Best Buy" 12-6-2007).
+
+9. See Casesa Shapiro Group Report ("The Franchised Automobile Dealer: The Automaker's Lifeline" 11-26-08), prepared for the National Automobile Dealers Association.
+
+10. See Lapidus (2000), as cited in Fine and Raff (2001).
+
+11. Shaffer (2001), in a review of earlier studies of the effect of state franchise laws more broadly, concluded that the national price impact of those laws was lower, averaging 2.2 percent.
+
+12. See CNET News ("Will GM's Internet Direct-Sales Model Catch On?" 12-5-2000) and IT World ("e-GM Expands its Online Sales Model" 1-10-2001).
+
+13. For details, see "GM do Brasil Milestones: 2000 - 2008."
+
+14. See Bankrate.com ("State Franchise Laws Putting the Brakes on Online New Auto Sales" 11-8-2000), citing a J.D. Powers and Associates study.
+
+15. See Morton, Zettelmeyer and Silva-Risso (2001).
+
+16. The same is true of CarsDirect.com, launched nationally in 1999 with financing provided in part by Michael Dell. Unlike Autobytel's dealer referral service, CarsDirect functions as an agent or broker to try to get a better price for its clients and offers an option that bypasses brick-and-mortar dealers entirely by delivering vehicles right to the buyer's door, with up-front, no-haggle pricing. CarsDirect operates through nationwide alliances with large auto retailers like UnitedAutoGroup/Penske Automotive and Asbury Automotive.
+
+17. To address competitive pressures from web-based buying services like Autobytel, GM launched its own website, GMBuyPower.com, in 1999. Using that site, prospective customers can "configure" a vehicle and are then referred to local GM dealers to learn if such a vehicle is available in dealer inventories. Although GMBuypower gives consumers access to information on dealer cars in stock, it is not a build-to-order, direct manufacturer model since selection remains confined to inventories on dealer lots. A drawback is that customers can spend a lot of time configuring cars that aren't available at any dealership. See ZDNet Australia ("Online Auto Sales: Giant Car Wreck?" 4-3-2001).
+
+18. See, for example, Leary (2001) and Holt (2003).
+
+19. This mechanism has been used by Sears for appliances sold by Sears.com. Sears gives a commission to the store located closest to the address of the online buyer. See Carlton and Chevalier (2001). Drug Emporium used a similar strategy to compensate franchisees for its online sales in their exclusive territories but was sued for violation of its franchise agreement and lost that case on a 2-1 vote in arbitration (Emporium Drug Mart, Inc. of Shreveport v. Drug Emporium, Inc., American Arbitration Association No. 71 114 0126 00). The Drug Emporium franchise agreement did not reserve to it the right to sell through alternative distribution channels. See Lokker (2001).
+
+20. The Federal Automobile Dealer Franchise Act of 1956 (15 U.S.C. Sec. 1221), sometimes popularly known as "The Auto Dealers Day in Court Act," gives dealers the right to sue auto manufacturers for damages if dealer rights are violated in franchise terminations. The existence of that federal statute, passed at a time when the Big Three dominated auto sales in the United States, makes any "dealer protection" argument for state franchise laws less compelling, especially with respect to direct manufacturer auto sales.
+
+21. NADA Industry Analysis Division.
+
+22. See Porter (2001).
+
+23. See Fortune ("Detroit Goes Digital" 4-17-2000).
+
+24. Ibid .
+
+25. Alliance of Auto Manufacturers v. Hull (D. Ariz. 2001). Arizona also prohibits auto manufacturers from offering related services like financing and insurance to consumers.
+
+26. Ford Motor Company v. Texas Dept. of Transportation, 264 F.3d 493 (5th Cir. 2001). See Journal of Texas Consumer Law ("Get a Great Deal on a Car Over the Internet – Not in Texas!" 2001). Ford's used cars were from its inventory of expired leases and each transaction was through a franchised Ford dealer that got a commission on the sale.
+
+27. See Bankrate.com, ("State Franchise Laws Putting the Brakes on Online New Auto Sales" 11-8-2000), comment of George E. Hoffer, professor of economics at Virginia Commonwealth University.

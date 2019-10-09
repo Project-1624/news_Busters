@@ -1,0 +1,108 @@
+Understanding vetoes, veto threats & SAPs
+In this background post, I explain how vetoes and veto threats work and what a SAP is. It is a companion post to one on the current situation: Senior advisors veto threat on the Boehner bill.
+
+Before we get to veto threats, we need to understand what a SAP is.
+
+SAP: Statement of Administration Policy
+
+A Statement of Administration Policy, or SAP, is a formal document produced by the Office of Management and Budget that expresses the Administration’s official views on a bill.
+
+A SAP can be a few sentences or several pages long.
+
+A SAP applies to a particular version of a particular bill.
+
+of a particular bill. A SAP applies to a bill being considered on the floor of the House or Senate . When the Administration provide formal written input on a bill earlier in the process (like when it’s in committee), that input usually takes the form of a letter from a senior Administration official (e..g, a Cabinet secretary or senior White House aide) to the relevant Committee chairman.
+
+. When the Administration provide formal written input on a bill earlier in the process (like when it’s in committee), that input usually takes the form of a letter from a senior Administration official (e..g, a Cabinet secretary or senior White House aide) to the relevant Committee chairman. OMB releases the SAP just before the bill comes to the House or Senate floor.
+
+A SAP is unsigned and written “to the world,” sort of like a press release. There is no “From:” or “To:” field in a SAP.
+
+A letter, for example from the Assistant Secretary of Tax Policy to the House Ways & Means Committee Chairman, would probably only apply to a portion on the bill (in this case, the tax part). While such a letter would be “cleared” through OMB and therefore represent the whole Administration’s views, it is formally treated as the views of the particular official who sends it. In contrast, the SAP always formally represents the entire Administration’s views, on the entire bill, and the SAP speaks to the substance of the entire bill, not just one part.
+
+SAPs emphasize the President’s top policy priorities, but they also get into levels of detail in which a President would almost never directly engage. The Administration often uses a SAP to communicate precise or nuanced positions on complex policy issues in a bill.
+
+A SAP, especially a long and detailed one on a big bill, can be the result of discussions and debates among 5-30ish senior officials in the White House, OMB, and Cabinet agencies. Usually OMB and White House policy staff do the initial draft. OMB Legislative Affairs staff take comments from throughout the Administration and play an honest broker role to resolve them as best they can. White House policy council staff sometimes help this process when the differences of opinion among Administration officials are important enough to be debated in the West Wing. This can be a painful process for those involved, because the letter ends up signaling not just the Administration’s substantive views, but what’s important and what’s less so. Individual Administration officials may care only about a portion of a bill, and they will often argue forcefully that their views on a part of a bill should be the Administration’s top priority in a SAP.
+
+SAPs are aimed at Congress – the Members and senior staff who draft, debate, and vote on bills. The language of a SAP is therefore drafted for those who are intimately familiar both with the substantive issues involved and with the legislative process. Like other technical forms of communication, it can sometimes read strangely to a layman. Hill Members and staff will parse the language in a SAP very finely, and the drafters know that. When you’re drafting a SAP you want to be precise and forceful. It’s not really an advocacy piece, but more of a blunt “Here’s where we stand on this bill.”
+
+OMB staff release SAPs by email anywhere from a few minutes to a few days before a bill comes to the House or Senate floor. A short while later they post them on a section of OMB’s website. If you care a lot about a bill, you should read the SAPs on it, one each for the House and Senate floor.
+
+The American Presidency Project at UCSB has a great collection of all SAPs going back to 1997.
+
+A stylistic comment: the Obama Administration’s SAPs tend to be a bit more message-y than were ours in the Bush Administration. An Obama Administration SAP is more likely to include text that sounds like the Administration’s talking points, in addition to the detailed substantive policy feedback on the bill.
+
+The spectrum of support or opposition
+
+The first thing you should look for in a SAP is the core (usually underlined) sentence that summarizes the Administration position on the bill. Let’s assume an imaginary bill H.R. 1234 and look at the spectrum of summary sentences you might find in a SAP.
+
+The Administration strongly supports H.R. 1234. The Administration supports H.R. 1234. The Administration supports passage of H.R. 1234. (list specific good and bad things in H.R. 1234, but don’t make a statement on the bill as a whole) The Administration opposes H.R. 1234 [optional: …in its present form]. The Administration strongly opposes H.R. 1234 [optional: …in its present form]. If the President were presented this bill for signature, Secretary _______ (or White House Advisor ________) would recommend that he veto it. If the President were presented this bill for signature, the President’s senior advisors would recommend he veto it. If the President were presented this bill for signature, he would veto it. If the President is presented this bill for signature, he will veto it. (not in a SAP) If this bill makes it to my desk, I will veto it.
+
+If you can’t find this sentence, you’re in that fourth version in which they’re not taking an overall position on the bill. This means the Administration is conflicted or for some other reason doesn’t want to take a summary position, positive or negative.
+
+Notice the slightly weaker support in (3) compared to (2). In (2) the Administration supports the substance of the bill. In (3) the Administration isn’t excited about the substance of the bill, but hopes they can improve it later in the process, so they “support passage” to keep the process moving.
+
+In (5) and (6) you can weaken the opposition signal by adding “in its present form.” This is signaling to Congress “fix things we address elsewhere in this SAP and we won’t oppose it.”
+
+Note also the addition of “strongly” between (1) and (2), and between (5) and (6). In everyday conversation most people wouldn’t think it’s a big difference to say “I oppose X” versus “I strongly oppose X.” in the world of SAPs and formal communications between the Administration and the Congress, this difference matters. The White House is usually working quite hard to kill a bill that it strongly opposes.
+
+How the President vetoes a bill
+
+The House and Senate pass the same legislative text.
+
+The House or Senate Clerk (based on in which House the bill originated) enrolls the bill and transmits it to the President. A Clerk’s office staffer drives the bill to the White House and hands it to the President’s Executive Clerk. They usually do this in batches.
+
+The President has 10 days (excluding Sundays) to sign the bill or veto it:
+
+If he signs it, it is law.
+
+If he returns it to the house of Congress that sent it to him with “his message of disapproval,” he has vetoed the bill.
+
+If he neither signs nor returns it, after 10 days (excluding Sundays) it becomes law.
+
+The President does not write anything on the bill to be vetoed. Instead, he sends a “veto message,” which looks like a letter, back to the House that originated the bill. He signs the veto message, but that is not technically required by the Constitution. The bill is technically vetoed when it arrives back at the House or Senate. And there is no veto stamp. Sorry to disappoint you.
+
+Congress can then attempt to override the President’s veto. To do this at least two-thirds of the House and two-thirds of the Senate must vote to override the veto.
+
+Therefore to sustain a veto, the President needs more than one-third of the Senate or one-third of the House to stick with him and vote against overriding the veto. That’s 34 or more Senators or 146 or more House members (145 or more today since there are three vacancies in the House at the moment).
+
+How veto threats are issued
+
+Veto threats can be issued in several different ways:
+
+the President can make the threat publicly, on camera, in a public statement, or in a letter to Congress;
+
+a Cabinet secretary or top White House aide could make a public statement or send a letter to Congress;
+
+a veto threat could be included in a Statement of Administration Policy.
+
+The first two of these are somewhat ad hoc. The most common form of a veto threat is a written threat in a SAP. This allows the President and his team to have precise control over the language of the threat.
+
+Presidential threat vs. senior advisors threat vs. single advisor threat
+
+The SAP on H.R. 2560, the Cut, Cap and Balance Act of 2011 contained a Presidential veto threat:
+
+If the President were presented this bill for signature, he would veto it.
+
+Since it is made by the President, this is a strong veto threat. In May 2008, President Bush issued a written statement (not a SAP) on a bad farm bill with the strongest form:
+
+If this bill makes it to my desk, I will veto it.
+
+The difference between these two is fairly small, and the Presidential veto threat on CCB was a big deal and a serious threat. Let’s compare that to the veto threat on Speaker Boehner’s version of the debt limit bill.
+
+If S. 627 is presented to the President, the President’s senior advisors would recommend that he veto this bill.
+
+Senior advisors is a technical term used to mean “all the relevant Cabinet officials and senior White House aides.” A recommendation from the President’s senior advisors is implied to be a consensus recommendation and is therefore stronger than a recommendation from any particular Cabinet secretary or White House aide. Presidents very rarely take a different path than one recommended by a consensus of their senior advisors. When he does there’s a big question about why these people are advising him if he is ignoring advice from all of them.
+
+So a senior advisors veto threat in a SAP is stronger than, for instance, the following threat from a single Presidential advisor:
+
+If H.R. XXX is presented to the President, Secretary YYY would recommend that he veto this bill.
+
+A senior advisors veto threat is a very big deal and a serious threat.
+
+In the Bush White House we almost never issued veto threats in their Presidential form. We treated a senior advisors veto threat as if it were a Presidential veto threat, just one with downgraded phrasing. We cleared every senior advisors veto threat with the President, and never issued one without his approval.
+
+That allowed the President to save the Presidential veto threat language for those cases in which he wanted to send an extra strong negative signal to Congress.
+
+I hope this post has been helpful. You can now apply your newfound understanding to the current situation here: Senior advisors veto threat on the Boehner bill.
+
+(photo credit: DonkeyHotey)

@@ -1,0 +1,78 @@
+Mulvaney response to CFPB data security gaps baffles cyber experts
+Acting Consumer Financial Protection Bureau Director Mick Mulvaney has repeatedly pointed to data security as a defect in the agency's supervisory program, but security experts are scratching their heads over the bureau's response to such problems.
+
+Mulvaney has said hundreds of CFPB-related data breaches justified his announcement in December that the agency would halt collecting personally identifiable information from companies it supervises.
+
+But industry experts say such a data freeze is unusual in the government, where security gaps are somewhat common. More unusual, they say, is that the CFPB apparently resumed data collection after only a few weeks, without investigating or remedying the cybersecurity problems that it identified.
+
+Acting CFPB Director Mick Mulvaney said hundreds of breaches justified a halt on collecting personally identifiable information from companies. But industry experts say such a data freeze is unusual in the government. Bloomberg News
+
+"I have not seen a single federal agency that stopped collecting data after getting breached," said Daniel Tobok, the CEO of Cytelligence, a Toronto cyber-breach response company that employs former law enforcement, military and intelligence agents. "From what I've read there was not a single mention that the matters [at the CFPB] have been investigated and security has been plugged."
+
+Some observers have speculated that the CFPB's unique response to its data security issues could further indicate that Mulvaney attempted to draw attention to the agency's cyber-related problems simply to cast the bureau in a negative light.
+
+"Government agencies all over the country have security problems, but it's not a viable option for most agencies to stop collecting data," said Kirk Nahra, a partner at Wiley Rein. "I can't imagine the Department of Health and Human Services saying we had a security breach last week, so we're going to stop Medicare."
+
+Nahra added that federal agencies typically move quickly to root out the problem and then resume data collection.
+
+"We don't know details or what actual information is the source of those [CFPB] breaches, but there's a disconnect there," Nahra said. "If there's a problem and they can't fix it right away, they hire a contractor. Saying they're having issues so they're not going to do enforcement — no one else is making that connection. You go out and fix the problem."
+
+For all of Mulvaney's criticism of the agency's data collection efforts, the freeze did not last long.
+
+"Information is being submitted, in my experience, in enforcement investigations," said Jean Noonan, a partner at Hudson Cook and a former associate director for credit practices at the Federal Trade Commission.
+
+Noonan said that, in her contact with the CFPB’s enforcement division after Mulvaney halted data collection, it seemed the agency’s staff had been given no guidance about the freeze.
+
+"The enforcement people said they knew nothing about it," Noonan said.
+
+A week later, the enforcement attorneys still had no guidance, but within three weeks Noonan got clearance that the bureau could receive data. She requested that the CFPB send her a letter stating that receiving the data again had been approved by higher-ups.
+
+In letters to companies alerting them about the data policy, the CFPB also "specifically said that there had been no data breach," Noonan said. "They wanted to reassure folks that there had not been a breach."
+
+Jenny Lee, a partner at Dorsey & Whitney, said the CFPB is still receiving information from companies in supervisory or enforcement matters.
+
+"The bureau has not stopped the gathering of data in general," Lee said.
+
+Noonan said there are two potential explanations for inconsistencies between Mulvaney's public pronouncements and the notices given to industry.
+
+"The first possible explanation is that he has such serious concerns about the data security that he's not willing to risk" the data collection, said Noonan. "The second one is that this definitely has a negative impact on the supervisory process and the ability to collect information. And given his anti-regulatory and anti-CFPB point of view, some people have speculated that that was his motivation."
+
+But some point out that the level of data collection the CFPB engages in far exceeds that of other agencies, which does lead to greater security risks. For example, the CFPB enforces the Home Mortgage Disclosure Act, which requires lenders to submit loan data to assist federal authorities in monitoring banks for fair-lending violations.
+
+Under former CFPB Director Richard Cordray, the agency sought to expand data collection under HMDA, but that has sparked greater data security concerns. HMDA data collection and protocols are completely separate from data collected for supervisory and enforcement activities.
+
+Joe Lynyak, a partner at Dorsey & Whitney, said he thinks the data security issues will play a part in rolling back the HMDA effort.
+
+"When they expanded the data, they said there would be a portal and it would quickly grow into the biggest consumer database of personal consumer information in history. And once the data is out in the public, as a result of a breach — and there surely will be one — you can't put the genie back in the bottle."
+
+The CFPB's data collection practices have been a point of contention between Mulvaney and Sen. Elizabeth Warren, D-Mass. In a January letter to Warren, Mulvaney wrote, "Breaches and redaction errors undermine consumer confidence in the bureau and its ability to safely handle consumer complaints."
+
+But when Mulvaney again raised the issue of data security in congressional testimony earlier this month, he resisted calling the episodes breaches.
+
+Mulvaney told lawmakers that the CFPB had suffered 240 data security "lapses" and another 800 "incidents," figures he previously cited in December as the basis for freezing all data collection at the agency.
+
+"We have been able to document about 200-odd — I think 240 — lapses in our data security," Mulvaney told the Senate Banking Committee at a hearing on the CFPB's semiannual report to Congress.
+
+"Lapses — is that a breach?" asked Sen. David Perdue, R-Ga.
+
+"I think data got out that should not have gotten out," said Mulvaney, who is also the White House budget director. "There's another 800 that we suspect that we haven't been able to confirm."
+
+Lawmakers did not ask Mulvaney if consumer data had been stolen or compromised and whether the CFPB had conducted an investigation. (The CFPB declined to comment for this story.)
+
+When a federal agency has a security breach, the typical response is to conduct an investigation, pinpoint what happened and plug the leak, while still resuming data collection, Tobok said.
+
+In the January letter, Mulvaney told Warren that 233 lapses in data security were breaches tied to the bureau's consumer response system, and that the agency had identified 840 "suspected breaches" by financial institutions that use a company portal to send data to the CFPB.
+
+Richard Gottlieb, a partner at Manatt Phelps & Philips, said the spat between Mulvaney and Warren over data collection "may be as much about politics as it is about substance."
+
+A 2017 report by the Office of Inspector General for the Federal Reserve found that the CFPB's data security was just average, with a 3 rating on a scale of 1 to 5, with 5 being the most advanced. The office raised concerns about the strength of the bureau's information security protocols. The recommendations by the inspector general were technical, such as: "ensure that a risk appetite statement and associated risk tolerance levels are defined and used to develop and maintain an agencywide risk profile."
+
+The Fed's inspector general also issued a long-awaited independent audit in February of the CFPB's privacy program and found that the CFPB did not have a major security breach.
+
+The CFPB has "substantially developed, documented, and implemented a privacy program with related policies and procedures," said the audit, which was prepared by Cotton & Co. But it identified two areas that require improvement: identification and maintenance of a comprehensive inventory of personally identifiable information, and physical controls over the CFPB’s portable media.
+
+Shortly after freezing all data collection in December, Mulvaney said he planned to reopen the CFPB's rulemaking on HMDA.
+
+In his recent testimony, Mulvaney said he feared the effects of asking banks to submit more mortgage-related data.
+
+"They more we take in, the more we can lose, and that's why I'm very much concerned about both the scope of the rule and about our cybersecurity," he said.

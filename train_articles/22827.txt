@@ -1,0 +1,52 @@
+The GOP Framework’s Impact on Lower Middle-Income Households
+A few weeks ago, Republican leadership released a framework for a tax overhaul, which outlined some basic parameters for the tax bill that Republicans hope to pass this fall. Since then, there has been some controversy about how the plan would affect lower middle-income households, due to concerns about proposals to eliminate the personal exemption and raise the lowest income tax rate to 12 percent.
+
+In our initial analysis of the proposal, we concluded that the Framework would probably be a net tax cut for lower middle-income Americans. However, it’s still unclear just how large a tax cut lawmakers are contemplating. This is because the Republican Framework is still only an outline, and is missing several key details.
+
+In particular, the Framework does not specify how much the child tax credit would be increased. This is a very important detail, because the child tax credit is one of the central provisions that determines how much many middle-income households owe in taxes. In addition, under the Republican Framework, households with children would lose the personal exemption for each child, and lawmakers seem to be counting on an increase in the child tax credit to help make up for the loss of the personal exemption.
+
+One approach to modeling the effects of the Framework on lower middle-income households is to assume that the child tax credit would be increased from $1,000 to $1,500, and that the $500 increase of the credit would be nonrefundable. These are the parameters that were set forth in the Ryan-Brady tax plan released last summer – and some groups, such as the Tax Policy Center, have assumed that the current Framework would adopt these parameters as well.
+
+That said, the Framework leaves room for lawmakers to decide on a larger expansion of the child tax credit – which they might do if they are looking to deliver a larger tax cut to the middle class. Ultimately, if lawmakers decided to expand the child tax credit to more than $1,500, the tax cut for lower middle-income Americans under the Framework could be much larger.
+
+To illustrate how the effects of the Framework would change under different assumptions about the plan’s parameters, we modeled four potential variants:
+
+The child tax credit is increased to $1,500 per child, with only the first $1,000 refundable. The child tax credit is increased to $1,750 per child, with only the first $1,000 refundable. The child tax credit is increased to $1,500 per child, with current refundability limits. The child tax credit is increased to $1,750 per child, with current refundability limits.
+
+Static Change in After-tax Income From Selected Provisions in the Republican Framework, Under Four Assumptions Note: These figures are the distributional results of a plan that a) increased the standard deduction to $12,000/$17,650/$24,000, b) eliminated the personal exemption, c) consolidated the bottom two income tax brackets into a single bracket of 12 percent, d) created a $500 nonrefundable credit for dependents, and e) increased the child tax credit as specified above. Because these are the major provisions of the Republican Framework that apply to lower middle-income households, this analysis is probably a good first approximation of how the Framework would affect the bottom 60 percent of households. However, these figures do not represent a comprehensive analysis of the Framework in its entirety; they provide little to no insight into how the Framework would affect the top 40 percent of households. CTC expanded by $500, non-refundable CTC expanded by $750, non-refundable CTC expanded by $500, refundable CTC expanded by $750, refundable 0% to 20% 0.15% 0.15% 0.51% 0.59% 20% to 40% 0.35% 0.61% 0.67% 1.24% 40% to 60% 0.30% 0.62% 0.31% 0.65% 60% to 80% 0.54% 0.73% 0.54% 0.73% 80% to 100% -0.05% -0.02% -0.05% -0.02% TOTAL 0.15% 0.27% 0.19% 0.34%
+
+It’s important to note that we did not try to estimate the effects of the entire Framework. Instead, we modeled the key portions of the Framework that apply directly to lower middle-income Americans. These include: nearly doubling the standard deduction, eliminating the personal exemption, creating a nonrefundable dependent credit of $500, and consolidating the bottom two brackets into a 12 percent bracket.[1]
+
+Against this backdrop, we modeled these four different assumptions about how the child tax credit might be increased. The model results show that the Republican Framework could potentially be a vehicle for significant middle-class tax relief, under certain assumptions.
+
+1. Increasing the child tax credit to $1,500, with the first $1,000 refundable
+
+Probably the most conservative assumption about the child tax credit under the Framework is that it would be increased to $1,500, with only the first $1,000 refundable. These are the parameters that were assumed by the Tax Policy Center, and they reflect those set forth by the Ryan-Brady tax plan last summer.
+
+If the Republican Framework adopted this approach, the result would be a slight average tax cut for lower middle-income households. The bottom 20 percent of households would see their after-tax incomes rise by 0.15 percent, while the middle 20 percent of households would see their after-tax incomes rise by 0.30 percent.
+
+2. Increasing the child tax credit to $1,750, with the first $1,000 refundable
+
+If lawmakers decided to increase the child tax credit by $750 instead of $500, the result would be a substantially larger tax cut for middle class households. Households between the 20th and 40th percentiles would see their after-tax incomes rise by 0.61 percent, while those between the 40th and 60th percentiles would see their after-tax incomes rise by 0.62 percent.
+
+Of course, a larger increase in the child tax credit would reduce federal revenue by more. Increasing the child tax credit by $750 instead of $500 would reduce federal revenue by an additional $146 billion over 10 years, in the context of the Republican Framework (see table below).
+
+3. Increasing the child tax credit to $1,500, with current refundability limits
+
+An alternate way to increase the availability of the child tax credit for lower middle-income households is to make the $500 increase in the credit just as refundable as the current credit. This means that many households that do not owe income taxes would still be able to benefit from the increase in the child tax credit amount.
+
+Increasing the child tax credit to $1,500, while keeping the entire increase refundable under current law limits, would deliver significantly larger benefits for the lowest-income households. The bottom quintile of households would see their after-tax income rise by 0.51 percent, while the households between the 20th and 40th percentiles would see their after-tax income rise by 0.67 percent.
+
+4. Increasing the child tax credit to $1,750, with current refundability limits
+
+Finally, lawmakers could choose to increase the child tax credit by more than $500 and to make the increased credit just as refundable as the existing credit. This would be a significant tax cut for many households. For instance, households between the 20th and 40th percentiles would see their after-tax incomes increase by 1.24 percent, on average.
+
+We estimate that increasing the refundable portion of the child tax credit by $750 instead of increasing the nonrefundable portion of the credit by $500 would reduce federal revenue by an additional $208 billion over 10 years, in the context of the Republican Framework.
+
+Static Change in Federal Revenue From Selected Provisions in the Republican Framework, Under Four Assumptions Note: These figures are the revenue results of a plan that a) increased the standard deduction to $12,000/$17,650/$24,000, b) eliminated the personal exemption, c) consolidated the bottom two income tax brackets into a single bracket of 12 percent, d) created a $500 nonrefundable credit for dependents, and e) increased the child tax credit as specified above. CTC expanded by $500, non-refundable CTC expanded by $750, non-refundable CTC expanded by $500, refundable CTC expanded by $750, refundable Static change in federal revenue, 2017-2026 -$209 billion -$355 billion -$244 billion -$417 billion
+
+Of course, the amount of the child tax credit is not the only provision of the Republican Framework that is not entirely specified. For instance, lawmakers have not yet determined which thresholds of income each individual tax bracket would apply to. These bracket thresholds are crucial to determining the overall distributional impact of the Framework.
+
+The broad conclusion here is that, in drafting the Republican Framework, lawmakers have left themselves with at least one significant lever for delivering middle class tax relief: the child tax credit. Until lawmakers decide on how much they want to increase the child tax credit, definitive distributional analysis of the Framework may be premature.
+
+[1] For more information on our modeling assumptions here, see “What Would the “Big Six” Framework Mean for Lower-Middle Income Households?”

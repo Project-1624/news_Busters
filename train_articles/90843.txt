@@ -1,0 +1,574 @@
+CRS Gun Control Report
+Gun Control Legislation
+
+William J. Krouse Specialist in Domestic Security and Crime Policy June 11, 2012
+
+Congressional Research Service 7-5700 www.crs.gov RL32842
+
+CRS Report for Congress
+
+Prepared for Members and Committees of Congress
+
+Gun Control Legislation
+
+Summary
+
+Congress has debated the efficacy and constitutionality of federal regulation of firearms and ammunition, with strong advocates arguing for and against greater gun control. Since March 2011, much of the gun control debate in the 112th Congress has swirled around allegations that the Department of Justice (DOJ) and the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) mishandled a Phoenix, AZ-based gun trafficking investigation known as “Operation Fast and Furious.” In the Consolidated and Further Continuing Appropriations Act, 2012 (P.L. 112-55), Congress included a provision that reflects a Senate-adopted amendment that forbids the expenditure of any funding provided under it to be used by a federal law enforcement officer to transfer an operable firearm to a person known or suspected to be connected with a drug cartel without that firearm being continuously monitored or controlled. The act, however, does not include language adopted during House full committee markup to prohibit ATF from collecting multiple long gun sales reports in Southwest Border states. The 112th Congress continues to consider the implications of Operation Fast and Furious and several gun control issues. On June 20, 2012, the Committee on Oversight and Government Reform is scheduled to meet and consider a report and resolution to hold Attorney General Eric Holder in contempt of Congress for his failure to produce subpoenaed documents related to Operation Fast and Furious. On May 18, 2012, the House passed the National Defense Authorization Act (NDAA) for Fiscal Year 2013 (H.R. 4310), which amends a provision that limits the Secretary of Defense’s authority to regulate firearms privately held by members of the Armed Forces off-base. On May 10, 2012, the House passed a Commerce-Justice-State appropriations bill (H.R. 5326) that would fund ATF for FY2013 and, on April 19, 2012, the Senate Committee on Appropriations reported a similar bill (S. 2323). Both bills include several gun control-related provisions, such as a ban on additional shotgun importation regulations. On April 17, 2012, the House passed the Sportsmen’s Heritage Act of 2012 (H.R. 4089), a bill that would prohibit any federal agency from banning recreational shooting on federally managed public lands. On November 16, 2011, the House passed a bill (H.R. 822) that would establish a greater degree of reciprocity between states that issue concealed carry permits for handguns to civilians than currently exists under state law. On October 11, 2011, the House passed a Veterans’ Benefits Act (H.R. 2349) that would prohibit the Department of Veterans Affairs from determining a beneficiary to be mentally incompetent for the purposes of gun control, unless such a determination were made by a judge, magistrate, or other judicial authority based upon a finding that the beneficiary posed a danger to himself or others. In May 2011, firearms-related amendments to bills reauthorizing the USA PATRIOT Act were considered (H.R. 1800, S. 1038, and S. 990), but they were not passed. The tragic shootings in Tucson, AZ, on January 8, 2011, in which 6 people were killed and 13 wounded, including Representative Gabrielle Giffords, also generated attention. Several Members introduced proposals that arguably address issues related to the shooter’s mental illness and drug use (see S. 436/H.R. 1781) and his use of large capacity ammunition feeding devices (LCAFDs) (see H.R. 308 and S. 32), as well as a proposal to ban firearms within the proximity of certain high-level federal officials (see H.R. 367 and H.R. 496). In addition to legislative action in the 112th Congress, this report also includes discussion of other salient and recurring gun control issues that have generated past or current congressional interest. Those issues include (1) screening firearms background check applicants against terrorist watch
+
+Congressional Research Service
+
+Gun Control Legislation
+
+lists, (2) combating gun trafficking and straw purchases, (3) reforming the regulation of federally licensed gun dealers, (4) requiring background checks for private firearms transfers at gun shows, (5) more-strictly regulating certain firearms previously defined in statute as “semiautomatic assault weapons,” and (6) banning or requiring the registration of certain long-range .50 caliber rifles, which are commonly referred to as “sniper” rifles. To set these and other emerging issues in context, this report provides basic firearms-related statistics, an overview of federal firearms law, and a summary of legislative action in the 111th and 112th Congresses.
+
+Congressional Research Service
+
+Gun Control Legislation
+
+Contents
+
+Developments in the 112th Congress................................................................................................ 1 Background and Analysis ................................................................................................................ 4 Pro/Con Debate ......................................................................................................................... 4 Gun-Related Statistics ............................................................................................................... 5 How Many Guns Are in the United States?......................................................................... 6 How Often Are Guns Used in Homicides? ......................................................................... 7 How Prevalent Are Gun-Related Fatalities? ....................................................................... 8 How Often Are Guns Used in Non-Lethal Crimes?.......................................................... 10 How Often Are Firearms Used in Self-Defense? .............................................................. 10 What About the Recreational Use of Guns?...................................................................... 11 Federal Regulation of Firearms ..................................................................................................... 11 The National Firearms Act (NFA) ........................................................................................... 11 The Gun Control Act of 1968 (GCA)...................................................................................... 11 Firearms Transfer and Possession Eligibility .................................................................... 12 Noncitizen Firearms Eligibility......................................................................................... 13 Licensed Dealers and Firearms Transfers ......................................................................... 14 Private Firearms Transfers ................................................................................................ 15 Gun Trafficking and Straw Purchases ..................................................................................... 15 ATF Compliance Inspections ............................................................................................ 16 Anatomy of a Firearms Straw Purchase ............................................................................ 17 Federal Prosecutions under 18 U.S.C. §§922(a)(6) and 924(a)(1)(A) .............................. 19 Firearms-Related Amendments to the Sentencing Guidelines .......................................... 21 Brady Handgun Violence Prevention Act................................................................................ 21 Interim Provisions ............................................................................................................. 22 Permanent Provisions........................................................................................................ 22 National Criminal History Improvement Program (NCHIP) ............................................ 26 NICS Act Record Improvement Program (NARIP).......................................................... 28 Background Check Fee and Record Retention.................................................................. 31 Overview of Legislative Action in the 111th Congress .................................................................. 33 Emerging Issues in the 112th Congress .......................................................................................... 35 Concealed Carry and National Reciprocity ............................................................................. 35 Firearms on Public Lands........................................................................................................ 38 Armed Forces Members and Privately Held Firearms Off-Base............................................. 38 ATF Southwest Border Gun Trafficking Investigations .......................................................... 39 Multiple Rifle Sales Report Proposal................................................................................ 41 Operation Fast and Furious ............................................................................................... 45 ATF Firearms Tracing for Mexican Authorities ................................................................ 54 Veterans, Mental Incompetency, and Firearms Eligibility....................................................... 58 ATF FY2012 and FY2013 Appropriations .............................................................................. 58 FY2013 Request................................................................................................................ 60 FY2012 Request and Appropriation.................................................................................. 61 FISA Sunset Extensions and Firearms-Related Amendments ................................................. 64 Tucson Shootings .................................................................................................................... 64 Mental Illness and Drug Use as Prohibiting Factors......................................................... 65 Large Capacity Ammunition Feeding Devices.................................................................. 66 Banning Firearms within the Proximity of Federal Officials............................................ 66
+
+Congressional Research Service
+
+Gun Control Legislation
+
+Other Salient Gun Control Legislative Issues................................................................................ 67 Terrorist Watch List Screening and Brady Background Checks.............................................. 67 Post-9/11 Modified NICS Procedures ............................................................................... 67 NICS Record Retention..................................................................................................... 69 Legislation in the 110th Congress and DOJ Draft Proposal............................................... 70 Legislation in the 111th Congress, GAO Follow-Up Report, and Senate Hearing ............ 71 Firearms-Related Terrorist Watch List Legislation in the 112th Congress......................... 73 Gun Trafficking-Related Proposals in the 112th Congress....................................................... 73 Stop Gun Trafficking and Strengthen Law Enforcement Act of 2011 (H.R. 2554) .......... 73 Gun Trafficking Prevention Act of 2011 (S. 1973) ........................................................... 74 Straw Purchaser Penalty Enhancement Act (H.R. 4190) .................................................. 76 ATF Modernization Act........................................................................................................... 76 Gun Shows and Private Firearms Transfers ............................................................................ 77 Expired Semiautomatic Assault Weapons Ban........................................................................ 78 Long-Range .50 Caliber Rifles................................................................................................ 79
+
+Figures
+
+Figure 1. Federal Defendants Charged and Convicted Nationally under 18 U.S.C. §§922(a)(6) and 924(a)(1)(A)..................................................................................................... 20 Figure 2. Federal Sentences Imposed Nationally under 18 U.S.C. §§922(a)(6) and 924(a)(1)(A)................................................................................................................................ 21 Figure 3. ATF Appropriations, FY2001-FY2012........................................................................... 59 Figure 4. ATF Appropriations, FY2013 Request ........................................................................... 60 Figure 5. ATF Appropriations: FY2012 Requested and Enacted Compared ................................. 62
+
+Tables
+
+Table 1. Firearms-Related Murder and Non-negligent Manslaughter Victims, 1993-2010............. 7 Table 2. Firearms-Related Deaths for All Ages ............................................................................... 8 Table 3. Firearms-Related Deaths for Juveniles .............................................................................. 9 Table 4. Brady Background Checks for Firearms Transfers and Permits...................................... 25 Table 5. Estimated Brady Background Check Denials .................................................................. 26 Table 6. NCHIP Appropriations, FY1995 though FY2012............................................................ 27 Table 7. NICS Improvement Authorizations and Appropriations under P.L. 110-180 .................. 29
+
+Appendixes
+
+Appendix A. Legislation in the 111th Congress.............................................................................. 81 Appendix B. Major Federal Firearms and Related Statutes........................................................... 97
+
+Congressional Research Service
+
+Gun Control Legislation
+
+Contacts
+
+Author Contact Information........................................................................................................... 99
+
+Congressional Research Service
+
+Gun Control Legislation
+
+Developments in the 112th Congress
+
+Since March 2011, much of the gun control debate in the 112th Congress has swirled around allegations that the Department of Justice (DOJ) and the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) mishandled a Phoenix, AZ-based gun trafficking investigation known as “Operation Fast and Furious.” In December 2010, two suspect firearms, and possibly a third, linked to that investigation were found at the murder scene of Border Patrol Agent Brian Terry. In January 2010, ATF whistleblowers contacted Senator Charles Grassley with assertions that suspected gun traffickers had not been arrested in a timely fashion and, and as a result, a large number of suspect firearms had not been interdicted and have reportedly passed into the hands of drug traffickers and other criminals. The whistleblowers referred to this investigative tactic as “gun walking.” According to one source, 665 of these firearms have been recovered by law enforcement at crime scenes on both sides of the border.1 Another 1,355 suspect firearms reportedly remain unaccounted for. Senator Grassley, ranking minority Member on the Committee on the Judiciary, and Representative Darrell Issa, chairman of the Committee on Oversight and Government Reform, have issued two joint staff reports on Operation Fast and Furious, and the House committee has held four related hearings, the most recent on February 2, 2012. Representative Elijah Cummings, the committee’s ranking minority Member, has also issued two reports related to this controversial operation. On November 1, 2011, a high-ranking DOJ official testified before the Senate Committee on the Judiciary’s Crime and Terrorism Subcommittee that he had identified “gun walking” as a potentially risk laden investigative technique in April 2010 but failed to inform the Attorney General about the potential risks. On November 8, 2011, the Senate Committee on the Judiciary held a DOJ oversight hearing, and Attorney General Eric Holder fielded questions about Operation Fast and Furious. The Attorney General conceded that a February 4, 2011, letter from DOJ to congressional investigators contained “inaccurate” information regarding the depth of knowledge that departmental officials had of ATF’s use of the “gun walking” tactic. On December 8, 2011, the House Committee held a hearing to explore, among other things, whether senior departmental officials knew more about Operation Fast and Furious than what was previously indicated in a May 3, 2011, hearing before that committee. On November 18, 2011, the President signed into law the Consolidated and Further Continuing Appropriations Act, 2012 (H.R. 2112; P.L. 112-55), following House and Senate passage on the previous day. This act provides ATF with $1.152 billion for FY2012. In response to Operation Fast and Furious, Congress included in that act a provision (§219) that reflects a Senate-passed amendment sponsored by Senator John Cornyn to prevent the expenditure of any funding provided under it to be used by a federal law enforcement officer to facilitate the transfer of an operable firearm to a person known to be or suspected of being connected to a drug cartel without that firearm being continuously monitored or controlled. The act, however, does not include an amendment that was sponsored by Representative Denny Rehberg and adopted in House full committee markup that would have prevented ATF from collecting multiple long gun sales reports from federally licensed gun dealers in Southwest Border states. In addition, two ATF funding provisos and one Federal Bureau of Investigation (FBI) funding proviso were made permanent with the inclusion of “futurity” language, as opposed to temporary, annual
+
+Pete Yost, “Fast and Furious-Like ‘Gun-Walking’ Probe Mentioned In 2007 Bush Administration Memo,” Huffington Post, November 4, 2011.
+
+1
+
+Congressional Research Service
+
+1
+
+Gun Control Legislation
+
+appropriations restrictions.2 These provisos essentially prohibit the consolidation or centralization of firearm acquisition and disposition records. In its FY2013 DOJ budget submission, the Administration proposed dropping the Cornyn language prohibiting “gun walking,” arguing that the prohibition is unnecessary.3 The Administration also proposed stripping the futurity language out of the ATF and FBI funding provisions noted above, which were made permanent in the FY2012 appropriations cycle. In addition, the Administration proposed stripping futurity language out of a long-standing but controversial provision known as the Tiahrt amendment, which prohibits ATF from releasing firearms trace data under a range of circumstances. Besides including futurity language, Congress has altered the language of the Tiahrt amendment several times in recent years to clarify under which circumstances and at what level of detail it is proper to release firearms trace data to law enforcement and other governmental officials, as well as to researchers, the media, and the general public. Other legislative developments in the 112th Congress include the following: • On June 11, 2012, the Committee on Oversight and Government Reform issued a press release announcing that on June 20, 2012, the Committee would meet to consider a report and resolution to hold Attorney General Eric Holder in contempt of Congress for his failure to produce subpoenaed documents related to Operation Fast and Furious.4 On May 18, 2012, the House passed the National Defense Authorization Act (NDAA) for Fiscal Year 2013 (H.R. 4310). This bill includes a provision that would allow Department of Defense (DOD) mental health professionals and commanding officers to inquire about privately owned firearms that a service member might hold off-base, if he is considered to be a risk of suicide or a danger to others. A provision included in the FY2011 NDAA (P.L. 111-383) prohibits the Secretary of Defense from collecting information on privately owned firearms held by service members, DOD civilian employees, or their family members off-base. On May 10, 2012, the House passed a measure (H.R. 5326) that would fund ATF for FY2013 at $1.151 billion. This measure includes the Cornyn anti-gun walking provision, and would make several additional ATF appropriations riders permanent law by including futurity language in those provisions, instead of following the Administration’s proposal and stripping futurity language out of the provisions that were made permanent law in the FY2012 appropriations cycle. The House-passed bill also includes a provision that would prohibit ATF from
+
+•
+
+•
+
+In general, statutory provisions included in an annual appropriations act are usually only applicable to the covered fiscal year, unless they include “futurity” language, in which case, those provisions are usually interpreted to be permanent law. Examples of futurity language include “hereafter,” “after the date of approval of this act,” and “henceforth.” See U.S. Government Accountability Office, Principles of Federal Appropriations Law: Annual Update of the Third Edition, GAO-11-210SP, March 2011, pp. 2-5 through 2-6. 3 “Gun walking” is alleged to have occurred when ATF agents did not act in a timely manner to arrest, or at least confront, suspected “straw purchasers” and interdict the firearms they had purchased in multiple transactions from federally licensed gun dealers, when the agents arguably had a reasonable suspicion or probable cause to believe that they, the straw purchasers, were trafficking firearms to known associates of Mexican drug trafficking organizations. 4 http://oversight.house.gov/fastandfuriousinvestigation/.
+
+2
+
+Congressional Research Service
+
+2
+
+Gun Control Legislation
+
+collecting long gun sales reports. This provision reflects a Rehberg amendment that was successfully offered in full committee markup. • On May 3, 2012, Representative Darrell Issa, Chairman of the House Oversight and Government Reform Committee, issued a staff briefing paper to committee Members that included a draft resolution to cite the Attorney General with contempt for not fully complying with committee subpoenas for information about Operation Fast and Furious and other matters. On April 19, 2012, the Senate Committee on Appropriations reported a bill (S. 2323) that would fund ATF for FY2013 at $1.153 billion. This bill includes the Cornyn provision, but it does not include any language similar to the Rehberg amendment. Like the House bill, it does not address the Administration’s proposal to strip futurity language out of the provisions that were made permanent law in the FY2012 appropriations cycle, but it would not make any additional provisos permanent law. On April 17, 2012, the House passed the Sportsmen’s Heritage Act of 2012 (H.R. 4089), a bill that would prohibit any federal agency from banning recreational shooting on federally managed public lands. On November 16, 2011, the House passed a bill (H.R. 822) that would establish a greater degree of reciprocity between states that issue concealed carry permits for handguns to civilians than currently exists under state law. The Senate considered a similar amendment, which was narrowly defeated, in the 111th Congress. On October 11, 2011, the House passed a Veterans’ Benefits Act (H.R. 2349). This bill includes a provision that would prohibit the Department of Veterans Affairs from determining a beneficiary to be mentally incompetent for the purposes of gun control, unless such a determination were made by a judge, magistrate, or other judicial authority based upon a finding that the beneficiary posed a danger to himself or others. Similar proposals were considered in either the House or the Senate in the 110th and 111th Congresses, in the wake of the enactment of the NICS Improvement Amendments Act of 2007 (P.L. 110-180).5 During May 2011, firearms-related amendments were offered to bills to extend certain USA PATRIOT Act provisions related to national security investigations (H.R. 1800, S. 1038, and S. 990), but those amendments were not passed. On the one hand, Representative Mike Quigley’s amendment would have allowed firearms transfers to be denied, if prospective transferees were the subject of a FBI national security investigation. On other hand, Senator Rand Paul’s amendment would have specifically excluded firearms transfer records from the business records that can be collected without a warrant during a national security investigation.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+The 112th Congress could also examine issues potentially arising from the tragic shootings in Tucson, AZ, on January 8, 2011, in which 6 people were killed and 13 wounded, including Representative Gabrielle Giffords. Armed with a 9mm Glock 19 semiautomatic pistol loaded with a 33-round extended magazine, the shooter reportedly fired 31 shots before bystanders were able to subdue him while he was attempting to reload with another 33-round extended magazine. He
+
+5
+
+NICS stands for the National Instant Criminal Background Checks System, which is described below.
+
+Congressional Research Service
+
+3
+
+Gun Control Legislation
+
+also carried two additional 15-round magazines.6 As discussed below, these magazines were previously defined under federal law as large capacity ammunition feeding devices (LCAFDs) and were banned for 10 years, from September 13, 1994, through September 13, 2004, as part of the larger semiautomatic assault weapons ban. Legislation has been introduced to reinstate the LCAFD ban (H.R. 308 and S. 32) and to ban firearms within the proximity of certain high-level federal officials (H.R. 367 and H.R. 496). Congressional interest could also focus on the shooter’s mental illness and illegal drug use. • On November 15, 2011, the Senate Committee on the Judiciary’s Subcommittee on Crime and Terrorism held a hearing on the Fix Gun Checks Act of 2011 (S. 436/H.R. 1781). This proposal would amend P.L. 110-180 to advance certain deadlines and apply deeper cuts to a wider array of federal law enforcement assistance grant programs to incentivize the greater sharing of firearms-related disqualifying records. Congress passed P.L. 110-180 in the wake of the tragic April 16, 2007, Virginia Tech shootings.
+
+Background and Analysis
+
+Pro/Con Debate
+
+Through the years, legislative proposals to restrict the availability of firearms to the public have raised the following questions: What restrictions on firearms are permissible under the Constitution? Does gun control constitute crime control? Can the nation’s rates of homicide, robbery, and assault be reduced by the stricter regulation of firearms commerce or ownership? Would restrictions stop attacks on public figures or thwart deranged persons and terrorists? Would household, street corner, and schoolyard disputes be less lethal if firearms were more difficult and expensive to acquire? Would more restrictive gun control policies have the unintended effect of impairing citizens’ means of self-defense? In recent years, proponents of gun control legislation have often held that only federal laws can be effective in the United States. Otherwise, they say, states with few restrictions will continue to be sources of guns that flow illegally into more-restrictive states. They believe that the Second Amendment to the Constitution, which states that “[a] well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms shall not be infringed,” is being misread in today’s modern society. They argue that the Second Amendment (1) is now obsolete, with the presence of professional police forces; (2) was intended solely to guard against suppression of state militias by the central government and is therefore restricted in scope by that intent; and (3) does not guarantee a right that is absolute, but rather one that can be limited by reasonable requirements. They ask why in today’s modern society a private citizen needs any firearm that is not designed primarily for hunting or other recognized sporting purposes. Proponents of firearms restrictions have advocated policy changes on specific types of firearms or components that they believe are useful primarily for criminal purposes or that pose unusual risks to the public. Fully automatic firearms (i.e., machine guns) and short-barreled rifles and shotguns have been subject to strict regulation since 1934. Fully automatic firearms have been banned from
+
+David von Drehle, “1 Madman and a Gun: 15 Seconds to Fire the Glock; 31 Bullets in One Clip; 19 Victims, with Six Killed,” Time, January 24, 2011, p. 26.
+
+6
+
+Congressional Research Service
+
+4
+
+Gun Control Legislation
+
+private possession since 1986, except for those legally owned and registered with the Secretary of the Treasury as of May 19, 1986. More recently, “Saturday night specials” (loosely defined as inexpensive, small handguns), “assault weapons,” ammunition-feeding devices with capacities for more than seven rounds, and certain ammunition have been the focus of control efforts. Opponents of gun control vary in their positions with respect to specific forms of control but generally hold that gun control laws do not accomplish what is intended. They argue that it is as difficult to keep weapons from being acquired by “high-risk” individuals, even under federal laws and enforcement, as it was to stop the sale and use of liquor during Prohibition. In their view, a more-stringent federal firearms regulatory system would only create problems for law-abiding citizens, bring mounting frustration and escalation of bans by gun regulators, and possibly threaten citizens’ civil rights or safety. Some argue that the low violent crime rates of other countries have nothing to do with gun control, maintaining instead that multiple cultural differences are responsible. Gun control opponents also reject the assumption that the only legitimate purpose of ownership by a private citizen is recreational (i.e., hunting and target-shooting). They insist on the continuing need of people for effective means to defend themselves and their property, and they point to studies that they believe show that gun possession lowers the incidence of crime. They say that the law enforcement and criminal justice system in the United States has not demonstrated the ability to furnish an adequate measure of public safety in all settings. Some opponents further believe that the Second Amendment includes a right to keep arms as a defense against potential government tyranny, pointing to examples in other countries of the use of firearms restrictions to curb dissent and secure illegitimate government power. The debate has been intense. To gun control advocates, the opposition is out of touch with the times, misinterprets the Second Amendment, and is lacking in concern for the problems of crime and violence. To gun control opponents, advocates are naive in their faith in the power of regulation to solve social problems, bent on disarming the American citizen for ideological or social reasons, and moved by irrational hostility toward firearms and gun enthusiasts.
+
+Gun-Related Statistics
+
+Crime and mortality statistics are often used in the gun control debate. According to a recent study, however, none of the existing sources of statistics provide either comprehensive, timely, or accurate data with which to assess definitively whether there is a causal connection between firearms and violence.7 For example, existing data do not show whether the number of people shot and killed with semiautomatic assault weapons declined during the 10-year period (19942004) that those firearms were banned from further proliferation in the United States.8 Presented below are data on the following topics: (1) the number of guns in the United States, (2) firearmsrelated homicides, (3) non-lethal firearms-related victimizations, (4) gun-related mortality rates, (5) use of firearms for personal defense, and (6) recreational use of firearms. In some cases, the data presented are more than a decade old but remain the most recent available.
+
+7 8
+
+National Research Council, Firearms and Violence: A Critical Review (Washington, DC: 2005), p. 48. Ibid., p. 49.
+
+Congressional Research Service
+
+5
+
+Gun Control Legislation
+
+How Many Guns Are in the United States?
+
+The National Institute of Justice (NIJ) reported in a national survey that in 1994, 44 million people, approximately 35% of households, owned 192 million firearms, 65 million of which were handguns.9 Seventy-four percent of those individuals were reported to own more than one firearm.10 According to the ATF, by the end of 1996 approximately 242 million firearms were available for sale to or were possessed by civilians in the United States.11 That total includes roughly 72 million handguns (mostly pistols, revolvers, and derringers), 76 million rifles, and 64 million shotguns.12 By 2000, the number of firearms had increased to approximately 259 million: 92 million handguns, 92 million rifles, and 75 million shotguns.13 By 2007, the number of firearms had increased to approximately 294 million: 106 million handguns, 105 million rifles, and 83 million shotguns.14 In the past, most guns available for sale were produced domestically. In recent years, 1 million to 2 million handguns were manufactured each year, along with 1 million to 1.5 million rifles and fewer than 1 million shotguns.15 From 2001 through 2007, however, handgun imports nearly doubled, from 711,000 to nearly 1.4 million.16 By 2009, nearly 2.2 million handguns were imported into the United States.17 From 2001 through 2007, rifle imports increased from 228,000 to 632,000, and shotgun imports increased from 428,000 to 726,000.18 By 2009, rifle imports had increased to 864,000, but shotguns had decreased 559,000.19 By the same year, 2009, the estimated total number of firearms available to civilians in the United States had increased to approximately 310 million: 114 million handguns, 110 million rifles, and 86 million shotguns.20 Retail prices of guns vary widely, from $75 or less for inexpensive, low-caliber handguns to more than $1,500 for higher-end, standard-production rifles and shotguns.21 Data are not available on
+
+Jens Ludwig and Phillip J. Cook, Guns in America: National Survey on Private Ownership and Use of Firearms, NCJ 165476, May 1999, http://www.ncjrs.org/pdffiles/165476.pdf. 10 Ibid. 11 U.S. Department of the Treasury, Bureau of Alcohol, Tobacco and Firearms, Commerce in Firearms in the United States, February 2000, pp. A3-A5. 12 Ibid., pp. A3-A5. 13 U.S. Department of the Treasury, Bureau of Alcohol, Tobacco and Firearms, Firearms Commerce in the United States 2001/2002, ATF P 9000.4, April 2002, pp. E1-E3. 14 U.S. Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Annual Firearm Manufacturing and Export Reports for 2002 through 2007, along with firearms import data provided by the ATF Firearms and Explosives Import Branch. 15 Ibid. 16 U.S. Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives, Firearms and Explosives Import Branch. 17 U.S. Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives, Firearms Commerce in the United States 2011, August 2011, p. 15. 18 U.S. Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives, Firearms and Explosives Import Branch. 19 U.S. Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives, Firearms Commerce in the United States 2011, August 2011, p. 15 20 Ibid., pp. 11, 13, and 15. 21 Ned Schwing, 2005 Standard Catalog of Firearms: The Collector’s Price and Reference Guide, 15th edition (Iola, Wisconsin, 2005).
+
+9
+
+Congressional Research Service
+
+6
+
+Gun Control Legislation
+
+the number of “assault weapons” in private possession or available for sale, but one study estimated that 1.5 million assault weapons were privately owned in 1994.22
+
+How Often Are Guns Used in Homicides?
+
+As Table 1 shows, reports submitted by state and local law enforcement agencies to the FBI and published annually in the Uniform Crime Reports23 indicate that the firearms-related murder and non-negligent manslaughter rate per 100,000 of the population decreased from 6.6 for 1993 to 3.6 for 2000. The rate held steady at 3.6 for 2001 and fluctuated thereafter between a high of 3.9 for 2006 and 2007, and a low of 3.2 for 2010. Table 1. Firearms-Related Murder and Non-negligent Manslaughter Victims, 1993-2010
+
+Estimated FirearmsRelated Murder and Nonnegligent Manslaughter Victimsa 17,073 16,333 14,727 13,261 12,335 11,006 10,117 10,203 10,139 10,841 11,037 10,665 11,363 11,731 11,631 11,029 10,301 9,958
+
+Year 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+Murder Victims 24,526 23,326 21,606 19,645 18,208 16,974 15,522 15,586 16,037 16,229 16,528 16,148 16,740 17,309 17,128 16,645 15,399 14,748
+
+Rate per 100,000 of the Population 9.5 9.0 8.2 7.4 6.8 6.3 5.7 5.5 5.6 5.6 5.7 5.5 5.6 5.8 5.7 5.4 5.0 4.8
+
+Rate per 100,000 of the Population 6.6 6.3 5.6 5.0 4.6 4.1 3.7 3.6 3.6 3.8 3.8 3.6 3.8 3.9 3.9 3.6 3.4 3.2
+
+Source: CRS compilation of FBI crime statistics reported annually in the Uniform Crime Reports, 1993-2010.
+
+Christopher S. Koper, Updated Assessment of the Federal Assault Weapons Ban: Impacts on Gun Markets and Gun Violence, 1994-2003 (Washington, DC: July 2004). 23 See http://www.fbi.gov/ucr/ucr.htm.
+
+22
+
+Congressional Research Service
+
+7
+
+Gun Control Legislation
+
+a.
+
+The number of firearms-related murder and non-negligent manslaughter victims was estimated by applying the percentage of firearms-related murders for which the cause of death was known to the number of all reported murder and non-negligent homicide victims for which the cause was known or unknown.
+
+How Prevalent Are Gun-Related Fatalities?
+
+The source of national data on firearms deaths is the publication Vital Statistics, published each year by the National Center for Health Statistics. Firearms deaths reported by coroners are presented in five categories: homicides, legal interventions,24 suicides, accidents, and unknown circumstances. For these categories, the data are presented below for 1993 through 2007 in two tables, one for all deaths and the other for juvenile deaths. Table 2. Firearms-Related Deaths for All Ages
+
+1993-2009
+
+Yeara 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 Homicides 18,253 17,527 15,551 14,037 13,252 11,798 10,828 10,801 11,348 11,829 11,920 11,624 12,352 12,791 12,632 12,179 11,493 Legal Interventions 318 339 284 290 270 304 299 270 323 300 347 311 330 360 351 326 333 Suicides 18,940 18,765 18,503 18,166 17,566 17,424 16,599 16,586 16,869 17,108 16,907 16,750 17,002 16,883 17,352 18,223 18,735 Accidents 1,521 1,356 1,225 1,134 981 866 824 776 802 762 730 649 789 642 613 592 554 Unknown 563 518 394 413 367 316 324 230 231 243 232 235 221 220 276 273 232 Total Deaths 39,596 38,506 35,958 34,041 32,437 30,709 28,875 28,664 29,574 30,243 30,137 29,570 30,695 30,897 31,224 31,593 31,347 -2.8% -6.6% -5.3% -4.7% -5.3% -6.0% -0.7% 3.2% 2.3% -0.4% -1.9% 3.8% 0.7% 1.1% 1.1% -0.7 % Change
+
+Source: National Center for Health Statistics. a. As of February 28, 2012, the last year for which data were available was calendar year 2009.
+
+As Table 2 shows, firearms fatalities decreased continuously from 39,595 in 1993 to 28,664 in 2000, for an overall decrease of nearly 28%. Compared with firearms deaths in 2000, such deaths increased by 3.2% in 2001 to 29,574, and increased again, by 2.3%, in 2002 to 30,243. They decreased by 0.3% in 2003 to 30,137, and decreased again, by 1.9%, in 2004 to 29,570. Firearms
+
+“Legal interventions” include deaths (in these cases by firearms) that involve legal uses of force (justifiable homicide or manslaughter), usually by the police.
+
+24
+
+Congressional Research Service
+
+8
+
+Gun Control Legislation
+
+fatalities increased by 3.8% in 2005 to 30,694, by 0.7% in 2006 to 30,897, and by 1.1% in 2007 to 31,224. They increased again by 1.1% in 2008, but decreased by 0.7% in 2009. Of the 2009 total, 11,826 were homicides or due to legal intervention, 18,735 were suicides, 554 were unintentional (accidental) shootings, and 232 were of unknown causes.25 As Table 3 shows, there were 1,520 juvenile (younger than 18 years old) firearms-related deaths in 2007. Of the juvenile total, 1,047 were homicides or due to legal intervention, 325 were suicides, 112 were unintentional, and 36 were of unknown causes. From 1993 to 2001, juvenile firearms-related deaths decreased by an average rate of 10% annually, for an overall decrease of 56%. From 2001 to 2002, such deaths increased slightly (by less than 1%), but declined by nearly 9% from 2002 to 2003. They increased from 2002 through 2006, by 5% to 7%, but decreased by nearly 5% in 2007.26 Juvenile firearms-related fatalities decreased again by 3.0% in FY2008 and nearly 6% in 2009. Table 3. Firearms-Related Deaths for Juveniles
+
+1993-2009
+
+Yeara 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 Homicides 1,975 1,912 1,780 1,473 1,308 1,045 1,001 819 835 872 805 868 921 1,082 1,038 984 887 Legal Interventions 16 20 16 9 7 17 9 15 6 7 8 6 5 14 9 6 5 Suicides 832 902 836 720 679 648 558 537 451 423 377 384 412 371 325 361 401 Accidents 392 403 330 272 247 207 158 150 125 115 102 105 127 102 112 98 83 Unknown 76 81 72 49 43 54 50 23 16 26 25 22 25 24 36 26 16 Total Deaths 3,292 3,319 3,035 2,524 2,285 1,972 1,777 1,545 1,434 1,444 1,318 1,386 1,491 1,594 1,520 1,475 1,392 0.8% -8.6% -16.8% -9.5% -13.7% -9.9% -13.1% -7.2% 0.7% -8.7% 5.2% 7.6% 6.9% -4.6% -3.0% -5.6% % Change
+
+Source: National Center for Health Statistics. a. As of February 28, 2012, the last year for which data were available was calendar year 2009.
+
+National Vital Statistics System data taken from the Injury Statistics Query and Reporting System (WISQARS), http://www.cdc.gov/ncipc/wisqars/default.htm. 26 Ibid.
+
+25
+
+Congressional Research Service
+
+9
+
+Gun Control Legislation
+
+How Often Are Guns Used in Non-Lethal Crimes?
+
+The other principal source of national crime data is the National Crime Victimization Survey (NCVS) conducted by the U.S. Census Bureau and published by the Bureau of Justice Statistics (BJS). The NCVS database provides some information on the weapons used by offenders, based on victims’ reports. Based on data provided by survey respondents in calendar year 2009, BJS estimated that, nationwide, there were 4.3 million non-lethal violent crimes (rape or sexual assault, robbery, aggravated assault, and simple assault).27 Weapons were used in 22% of these incidents, and firearms were used by offenders in 8% of these incidents.28 The estimated number of firearms-related non-lethal violent crime incidents decreased from 428,670 in 2000 to 326,090 in 2009, and from 2.4 persons to 1.4 per 100,000 of the population ages 12 and older.29
+
+How Often Are Firearms Used in Self-Defense?
+
+According to BJS, NCVS data from 1987 to 1992 indicate that in each of those years, roughly 62,200 victims of violent crime (1% of all victims of such crimes) used guns to defend themselves.30 Another 20,000 persons each year used guns to protect property. Persons in the business of self-protection (police officers, armed security guards) may have been included in the survey.31 Another source of information on the use of firearms for self-defense is the National Self-Defense Survey conducted by criminology professor Gary Kleck of Florida State University in the spring of 1993. Citing responses from 4,978 households, Dr. Kleck estimated that handguns had been used 2.1 million times per year for self-defense, and that all types of guns had been used approximately 2.5 million times a year for that purpose during the 1988-1993 period.32 Why do these numbers vary by such a wide margin? Law enforcement agencies do not collect information on the number of times civilians use firearms to defend themselves or their property against attack. Such data have been collected in household surveys. The contradictory nature of the available statistics may be partially explained by methodological factors. That is, these and other criminal justice statistics reflect what is reported to have occurred, not necessarily the actual number of times certain events occur. Victims and offenders are sometimes reluctant to be candid with researchers. So, the number of incidents can only be estimated, making it difficult to state with certainty the accuracy of statistics such as the number of times firearms are used in selfdefense. For this and other reasons, criminal justice statistics often vary when different methodologies are applied. Survey research can be limited because it is difficult to produce statistically significant findings from small incident populations. For example, the sample in the National Self-Defense Survey
+
+27 U.S. Department of Justice, Bureau of Justice Statistics, National Crime Victimization Survey, Criminal Victimization, 2009, by Jennifer L. Truman and Michael R. Rand, p. 8. 28 Ibid. 29 Ibid. 30 U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Statistics, Guns and Crime: Handgun Victimization, Firearm Self-Defense, and Firearm Theft, NCJ-147003, April 1994, http://bjs.ojp.usdoj.gov/content/pub/ ascii/hvfsdaft.txt. 31 Ibid. 32 Gary Kleck, “Armed Resistance to Crime: The Prevalence and Nature of Self-Defense with a Gun,” Journal of Criminal Law and Criminology, vol. 86, issue 1, 1995, http://www.guncite.com/gcdgklec.html.
+
+Congressional Research Service
+
+10
+
+Gun Control Legislation
+
+might have been too small, given the likely low incidence rate and the inherent limitations of survey research.
+
+What About the Recreational Use of Guns?
+
+According to NIJ, in 1994 recreation was the most common motivation for owning a firearm.33 There were approximately 15 million hunters, about 35% of gun owners, in the United States, and about the same number and percentage of gun owners engaged in sport shooting in 1994.34 The U.S. Fish and Wildlife Service (FWS) reported that there were more than 14.7 million persons who were paid license holders in 200335 and, according to the National Shooting Sports Foundation, in that year approximately 15.2 million persons hunted with a firearm and nearly 19.8 million participated in target shooting.36 The FWS reported that there were 14.4 million paid license holders in 2010.37
+
+Federal Regulation of Firearms
+
+Two major federal statutes regulate the commerce in and possession of firearms: the National Firearms Act of 1934 (26 U.S.C. §5801 et seq.) and the Gun Control Act of 1968, as amended (18 U.S.C. Chapter 44, §921 et seq.). Supplementing federal law, many state firearms laws are stricter than federal law. For example, some states require permits to obtain firearms and impose a waiting period for firearms transfers. Other states are less restrictive, but state law cannot preempt federal law. Federal law serves as the minimum standard in the United States.
+
+The National Firearms Act (NFA)
+
+The NFA was originally designed to make it difficult to obtain types of firearms perceived to be especially lethal or to be the chosen weapons of “gangsters,” most notably machine guns and short-barreled long guns. This law also regulates firearms, other than pistols and revolvers, which can be concealed on a person (e.g., pen, cane, and belt buckle guns). It taxes all aspects of the manufacture and distribution of such weapons, and it compels the disclosure (through registration with the Attorney General) of the production and distribution system from manufacturer to buyer.
+
+The Gun Control Act of 1968 (GCA)
+
+As stated in the GCA, the purpose of federal firearms regulation is to assist federal, state, and local law enforcement in the ongoing effort to reduce crime and violence. In the same act, however, Congress also stated that the intent of the law is not to place any undue or unnecessary
+
+33 Jens Ludwig and Phillip J. Cook, Guns in America: National Survey on Private Ownership and Use of Firearms, NCJ 165476, May 1999, p. 2. 34 Ibid., p. 3. 35 U.S. Department of the Interior, U.S. Fish and Wildlife Service, National Hunting License Report (December 2, 2004). 36 American Sports Data, Inc., The SUPERSTUDY of Sports Participation. 37 U.S. Department of the Interior, U.S. Fish and Wildlife Service, National Hunting License Report (December 10, 2010).
+
+Congressional Research Service
+
+11
+
+Gun Control Legislation
+
+burdens on law-abiding citizens in regard to the lawful acquisition, possession, or use of firearms for hunting, trapshooting, target shooting, personal protection, or any other lawful activity. The GCA, as amended, contains the principal federal restrictions on domestic commerce in small arms and ammunition. The statute requires all persons manufacturing, importing, or selling firearms as a business to be federally licensed; prohibits the interstate mail-order sale of all firearms; prohibits interstate sale of handguns generally and sets forth categories of persons to whom firearms or ammunition may not be sold, such as persons under a specified age or with criminal records; authorizes the Attorney General to prohibit the importation of non-sporting firearms; requires that dealers maintain records of all commercial gun sales; and establishes special penalties for the use of a firearm in the perpetration of a federal drug trafficking offense or crime of violence. As amended by the Brady Handgun Violence Prevention Act, 1993 (P.L. 103-159), the GCA requires background checks be completed for all non-licensed persons seeking to obtain firearms from federal firearms licensees. Private transactions between persons “not engaged in the business” are not covered by the recordkeeping or the background check provisions of the GCA. These transactions and other matters such as possession, registration, and the issuance of licenses to firearms owners may be covered by state laws or local ordinances. For a listing of other major firearms and related statutes, see Appendix B.
+
+Firearms Transfer and Possession Eligibility
+
+Under current law, there are nine classes of persons prohibited from shipping, transporting, receiving, or possessing firearms: • • • • • • • • • persons convicted in any court of a crime punishable by imprisonment for a term exceeding one year; fugitives from justice; unlawful users or addicts of any controlled substance as defined in Section 102 of the Controlled Substances Act (21 U.S.C. §802)); persons adjudicated as “mental defective” or committed to mental institutions; unauthorized immigrants and most nonimmigrant visitors (with some exceptions in the latter case); persons dishonorably discharged from the U.S. Armed Forces; persons who have renounced their U.S. citizenship; persons under court-order restraints related to harassing, stalking, or threatening an intimate partner or child of such intimate partner; and persons convicted of a misdemeanor crime of domestic violence.38
+
+In addition, there is a 10th class of persons prohibited from shipping, transporting, or receiving firearms:
+
+38
+
+18 U.S.C. §922(g).
+
+Congressional Research Service
+
+12
+
+Gun Control Legislation
+
+•
+
+persons under indictment in any court of a crime punishable by imprisonment for a term exceeding one year.39
+
+Since 1994, moreover, it has been a federal offense for any non-licensed person to transfer a handgun to anyone younger than 18 years old. It has also been illegal for anyone younger than 18 years old to possess a handgun (there are exceptions to this law related to employment, ranching, farming, target practice, and hunting) (18 U.S.C. §922(x)).
+
+Noncitizen Firearms Eligibility
+
+Regarding immigration status, the GCA does not distinguish between citizens and legal permanent residents (legal immigrants); both are eligible to receive, possess, and transfer firearms and ammunition as long as they are not in one of the categories of prohibited persons. As shown above, among prohibited categories are illegal immigrants and nonimmigrants (with exceptions for the latter). Illegal immigrants are those noncitizens (aliens) who have either entered the United States without inspection or have violated the terms of their nonimmigrant visas or entry by overstaying or accepting unauthorized employment. Illegal immigrants are prohibited from possessing firearms with no exceptions. Nonimmigrant aliens are admitted for temporary stays—sometimes for several years. In general, nonimmigrants are not eligible to purchase and take possession of firearms or ammunition in the United States.40 There are limited exceptions, however, for certain nonimmigrants who • have resided in a state for 90 days that they intend to make their home, in which case they may purchase handguns in their state of residence, or purchase long guns (rifles or shotguns) in any state;
+
+and establish that they are either • official representatives of a foreign government who are accredited to the United States government or the nonimmigrant’s government mission to an international organization that is headquartered in the United States and possession of a firearm is necessary to their official capacity; officials of foreign governments or distinguished visitors who have been designated by the State Department and possession of a firearm is necessary to their official capacity; foreign law enforcement officers of a friendly foreign government entering the United States on law enforcement business; or visitors admitted to the United States for lawful hunting or sporting purposes or are in possession of a valid hunting license or permit lawfully issued in the United States.41
+
+•
+
+• •
+
+18 U.S.C. §922(n). 18 U.S.C. §922(y). 41 For further information, see ATF brochure, “Nonimmigrant Aliens Purchasing Firearms and Ammunition in the United States (ATF P 5300.18)” (Washington, July 2002).
+
+40
+
+39
+
+Congressional Research Service
+
+13
+
+Gun Control Legislation
+
+In two separate memoranda, dated October 28, 2011,42 and January 30, 2012,43 DOJ Office of Legal Counsel (OLC) Assistant Attorney General Virginia A. Seitz provided ATF Chief Counsel Stephen R. Rubenstein with formal opinions regarding nonimmigrant aliens and firearms ineligibility in most cases and the separate, but related 90-day state residency requirement for other noncitizens, who are lawfully present in the United States.44 In these opinions, which are binding on ATF, the OLC has found these two long-standing ATF administrative interpretations to be in error. While ATF is compelled to amend its regulations to conform to the OLC opinions, such regulations have yet to be published as of the date of this memorandum. Consequently, ATF’s administrative interpretations still carry the force of law, notwithstanding the OLC’s opinions discussed above.
+
+Licensed Dealers and Firearms Transfers
+
+Persons who are federally licensed to be engaged in the business of manufacturing, importing, or selling firearms are known as “federal firearms licensees (FFLs).” Under current law, FFLs may ship, transport, and receive firearms that have moved in interstate and foreign commerce. FFLs are currently required to verify with the FBI through a background check that non-licensed persons are eligible to possess a firearm before subsequently transferring a firearm to them. FFLs must also verify the identity of non-licensed transferees by inspecting a government-issued identity document (e.g., a driver’s license). FFLs may engage in interstate transfers of firearms among themselves without conducting background checks. Licensees may transfer long guns (rifles and shotguns) to out-of-state residents, as long as the transactions are face-to-face and not knowingly in violation of the laws of the state in which the unlicensed transferees reside. FFLs, however, may not transfer handguns to unlicensed out-of-state residents. Transfer of handguns by FFLs to anyone younger than 21 years old is also prohibited, as is the transfer of long guns to anyone younger than 18 years old (18 U.S.C. §922(b)). Also, FFLs are required to submit “multiple sales reports” to the Attorney General if any person purchases two or more handguns within five business days. Furthermore, FFLs are required to maintain records on all acquisitions and dispositions of firearms. They are obligated to respond to ATF agents requesting firearms tracing information within 24 hours. Under certain circumstances, ATF agents may inspect, without search warrants, their business premises, inventory, and gun records.
+
+42 U.S. Department of Justice, Office of Legal Counsel, Nonimmigrant Aliens and Firearms Disabilities Under the Gun Control Act: Memorandum Opinion for the Chief Counsel, Bureau of Alcohol, Tobacco, Firearms and Explosives (October 28, 2011), p. 1. 43 U.S. Department of Justice, Office of Legal Counsel, State of Residence Requirements for Firearms Transfers: Memorandum Opinion for the Chief Counsel, Bureau of Alcohol, Tobacco, Firearms and Explosives (January 30, 2012), p. 1. 44 The OLC provides oral advice and written opinions in response to requests from executive branch agencies, as well as the Counsel to the President. Formal opinions are prepared for and signed by the Attorney General. More frequently, written legal opinions (formal advice) are prepared and signed by the OLC Assistant Attorney General or Deputy Assistant Attorney General. The OLC also serves as the general counsel for DOJ and, in this role, reviews all regulations promulgated under the Attorney General’s signature. The OLC only provides legal advice to the Executive Branch and, within that branch, OLC opinions “are controlling on questions of the law.” See Memorandum for Attorneys of the Office, from Steven G. Bradbury, Principal Deputy Assistant Attorney General, Office of Legal Counsel, Re: Best Practices for OLC Opinions (May 16, 2005), p. 1.
+
+Congressional Research Service
+
+14
+
+Gun Control Legislation
+
+Private Firearms Transfers
+
+Non-licensees are prohibited from acquiring firearms from out-of-state sources (except for long guns acquired from FFLs under the conditions described above). Non-licensees are also prohibited from transferring firearms to any persons who they have reasonable cause to believe are not residents of the state in which the transaction occurs. In addition, since 1986 it has been a federal offense for non-licensees to knowingly transfer a firearm to prohibited persons. It is also notable that firearms transfers initiated through the Internet are subject to the same federal laws as transfers initiated in any other manner.45
+
+Gun Trafficking and Straw Purchases
+
+ATF has developed a nationwide strategy to reduce firearms trafficking and violent crime by preventing convicted felons, drug traffickers, and juvenile gang members from acquiring firearms from gun traffickers.46 These criminals often acquire firearms from a person who is not prohibited to possess firearms through straw purchases or by buying firearms from corrupt dealers who sell firearms off the books in an attempt to escape federal regulation. Although there is no statutory definition for “gun trafficking” in the GCA, it essentially entails the movement or diversion of firearms from legal to illegal markets.47 Therefore, it follows that the entire GCA is arguably a statutory framework designed to combat gun trafficking domestically, particularly interstate gun trafficking.48 For example, according to ATF, gun trafficking cases include, but are not limited to, the following activities: • • • • Straw purchasers or straw purchasing rings; Trafficking in firearms by corrupt federally licensed gun dealers; Trafficking in firearms by unlicensed dealers (i.e., persons who deal in firearms illegally as the principal source of their livelihood); Trafficking in secondhand firearms acquired from unlicensed persons at gun shows, flea markets, and other private venues; and
+
+For further information, see CRS Report RS20957, Internet Firearm Sales, by T. J. Halstead. U.S. Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives, Office of Field Operations, Project Gunrunner: A Cartel Focused Strategy, September 2010, 28 pp. 47 U.S. Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives, Project Gunrunner: The Southwest Border Initiative, ATF P 3317.6, March 2009, available at http://www.atf.gov/pub/fire-explo_pub/ p3317_6rev2.pdf. It is noteworthy that in 2006 the U.S. Sentencing Commission amended its guidelines to include the following definition: “firearms trafficking” occurred if an offender, “regardless of whether anything of value was exchanged,” engaged in the following activities: (1) transported, transferred, or otherwise disposed of two or more firearms to another individual, or received two or more firearms with the intent to transport, transfer, or otherwise dispose of firearms to another individual; and (2) knew or had reason to believe that such conduct would result in the transport, transfer, or disposal of a firearm to an individual (a) whose possession or receipt of the firearm would be unlawful; or (b) who intended to use or dispose of the firearm unlawfully. See United States Sentencing Commission, Guidelines Manual, §2K2.1(b)(5) (November 2006). 48 With regard to Southwest Border gun trafficking, it is significant to note that the GCA does not include any provisions that directly address smuggling firearms out of the United States, across international boundaries, to countries like Mexico. However, the Arms Export Control Act (AECA; 22 U.S.C. §2778 et seq.) does include provisions that directly address such cross-border illegal arms trafficking.
+
+46
+
+45
+
+Congressional Research Service
+
+15
+
+Gun Control Legislation
+
+•
+
+Trafficking in stolen firearms.49
+
+Unlike other forms of contraband, almost all illegal firearms used criminally in the United States were diverted at some point from legal channels of commerce.50 ATF works to reduce firearmsrelated crime with two approaches, industry regulation and criminal investigation.
+
+ATF Compliance Inspections
+
+ATF regulates the U.S. firearms industry by inspecting FFLs to monitor their compliance with the GCA and NFA, and to prevent the diversion of firearms from legal to illegal channels of commerce. Despite its crime-fighting mission, ATF’s business relationships with the firearms industry and larger gun-owning community have been a perennial source of tension, which from time to time has been the subject of congressional oversight.51 Nevertheless, under current law, ATF Special Agents (SAs)52 and Industry Operations Investigators (IOIs)53 are authorized to inspect or examine the inventory and records of an FFL without search warrants under three scenarios:54 • • in the course of a reasonable inquiry during the course of a criminal investigation of a person or persons other than the FFL; to ensure compliance with the record keeping requirements of the GCA—not more than once during any twelve-month period, or at any time with respect to records relating to a firearm involved in a criminal investigation that is traced to the licensee; or when such an inspection or examination is required for determining the disposition of one or more firearms in the course of a criminal investigation.
+
+•
+
+By inspecting the firearms transfer records that FFLs are required by law to maintain, ATF SAs and IOIs are able to trace crime guns from their domestic manufacturer or importer to the first retail dealer that sold those firearms to persons in the general public, generating vital leads in homicide and other criminal investigations. In addition, by inspecting those records, ATF investigators sometimes discover evidence of corrupt FFLs dealing in firearms “off the books,” straw purchases, and other patterns of illegal behavior.
+
+49 U.S. Department of the Treasury, Bureau of Alcohol, Tobacco and Firearms, Following the Gun: Enforcing Federal Laws against Firearms Traffickers, June 2000, p. 11. 50 Greg Ridgeway, Glenn L. Pierce, and Anthony A. Braga et al., Strategies for Disrupting Illegal Firearms Markets: A Case Study of Los Angeles, RAND Corporation, 2008, p. 1. 51 For example, in the 109th Congress, the House Judiciary Crime subcommittee held two oversight hearings examining ATF firearms enforcement operations at guns shows in Richmond, VA, in 2005. ATF agents reportedly provided state and local law enforcement officers with confidential information from background check forms (ATF Form 4473s), so that officers could perform residency checks on persons who had otherwise legally purchased firearms at those gun shows. Questions were also raised as to whether ATF agents had profiled gun purchasers at those gun shows on the basis of race, ethnicity, and gender. See U.S. Congress, House of Representatives, Committee on the Judiciary, Subcommittee on Crime, Terrorism, and Homeland Security, Oversight Hearing on the Bureau of Alcohol, Tobacco, Firearms, and Explosives (BATFE) Parts I & II: Gun Show Enforcement, February 15 and 28, 2006. Also see Department of Justice, Office of the Inspector General, The Bureau of Alcohol, Tobacco, Firearms and Explosives’ Investigative Operations at Gun Shows, I-2007-007, June 2007. 52 For FY2012, Congress has provided ATF with funding for 2,539 SA positions. 53 For FY2009, Congress has provided ATF with funding for 834 IOI positions. 54 18 U.S.C. §923(g)(1)(B).
+
+Congressional Research Service
+
+16
+
+Gun Control Legislation
+
+Anatomy of a Firearms Straw Purchase
+
+A “straw purchase” occurs when an individual poses as the actual transferee, but he is actually acquiring the firearm for another person. In effect, he serves as an illegal middleman. As part of any firearms transfer from an FFL to a private person, the GCA requires them to fill out jointly an ATF Form 4473. In addition, the FFL is required to verify the purchaser’s name, address, date of birth, and other information by examining a government-issued piece of identification, most often a driver’s license. Among other things, the purchaser attests on the ATF Form 4473 that he is not a prohibited person, and that he is the “actual transferee/buyer.”55 Hence, straw purchases are known as “lying and buying for the other guy.” Straw purchases are illegal under two provisions of the GCA.
+
+If the purchaser makes any false statement to a FFL with respect to any fact material to the lawfulness of a prospective firearms transfer, it is a federal offense punishable under 18 U.S.C. 922(a)(6). This provision, however, also captures misrepresentations such as presenting false identity documents. Violations are punishable by up to 10 years imprisonment.56 It is also illegal for any person knowingly to make any false statement with respect to the records that FFLs are required to maintain under 18 U.S.C. §924(a)(1)(A). This provision, however, also captures misrepresentations related to licensure and other benefits under the GCA. Violations are punishable by up to five years imprisonment.57
+
+Straw purchases, however, are not easily detected, because their illegality only becomes apparent when the straw purchaser’s true intent is revealed by a subsequent transfer to the actual buyer. In many cases, the actual buyer may be a prohibited person, who would not pass a background check. Under such a scenario, if the straw purchaser knew or had reasonable cause to know the actual transferee was a prohibited person, he would also be in violation of 18 U.S.C. §922(d), for which the penalty is up to 10 years imprisonment.58 It would also be a violation for the prohibited person to possess or receive the firearm under 18 U.S.C. §922(g), for which the penalty is also up to 10 years imprisonment.59 Alternatively, the actual buyer may not be a prohibited person, but may be seeking to acquire firearms without any paper trail linking him to the acquisition of the firearm. Under such a scenario, however, the straw purchase and subsequent illegal transfer would be even less apparent for several reasons. Under federal law, it is legal for an unlicensed, private person to purchase firearms and then resell them or given them away, as long as the • • transferees are not prohibited or underage persons; transferors do not deal in firearms in a volume that would require licensing; and
+
+On the ATF Form 4473, question 11a reads: “Are you the actual transferee/buyer of the firearm(s) listed on this form? Warning: You are not the actual buyer if you are acquiring the firearm(s) on behalf of another person. If you are not the actual buyer, the dealer cannot transfer the firearm(s) to you.” 56 18 U.S.C. §924(a)(2). 57 18 U.S.C. §924(a)(1)(D). 58 18 U.S.C. §924(a)(2). 59 Ibid.
+
+55
+
+Congressional Research Service
+
+17
+
+Gun Control Legislation
+
+•
+
+transfers are intrastate, as generally only federally licensed gun dealers can legally transfer firearms interstate.
+
+Hence, individuals may buy several firearms at a time with the intention of giving those firearms away as presents to anyone, as long as they do not present those firearms to persons who are underage, out-of-state residents, or prohibited persons. They may also buy firearms and, then, sell those firearms at any time, as long as selling firearms is not the principal objective of their livelihood and profit, in which case they would be required to be federally licensed to deal in firearms. Furthermore, no federal background checks are required for recipients of subsequent intrastate firearms transfers. On the other hand, if the suspected straw purchaser were observed departing the licensed gun dealer’s place of business and traveling immediately to another locale, where he transferred the firearm(s) to another person, there would be a reasonable suspicion that he was a straw purchaser. However, the actual buyer would not have committed a crime unless it could be proven that he had sponsored the straw purchase.60 Moreover, depending on the time that elapses between the initial straw purchases and subsequent transfers to the actual buyer, the illegality of the transfers may not become apparent until the actual buyer’s true intent is revealed, when he either transports those firearms across state lines to be sold or bartered, attempts to smuggle them across an international border, or engages in some other illegal act. Sometimes, the behavior of the prospective transferee (straw purchaser) may raise reasonable suspicions. For example, during a controversial ATF Phoenix-based investigation known as “Operation Fast and Furious,” several of the individuals under indictment made multiple purchases from the same FFL of multiple semiautomatic firearms. Raising suspicions further, they paid for these firearms with thousands of dollars in cash. Indeed, FFLs contacted ATF about these suspicious transfers, prompting the investigation. They did so, in part, because they realized that these firearms might be traced back to their businesses and they probably wanted to avoid any negative attention that those traces might bring back on them. It is notable that if an FFL believes a firearms transfer to be suspicious, he may choose not to sell those firearms to the individuals in question. If he should proceed with the transfer, however, as long as he had conducted the required criminal background check on the prospective buyer, and he and the prospective buyer had filled out the proper paperwork, his obligations under federal law would have been fulfilled. In summation, with regard to interstate transfers, it is unlawful for any person who is not federally licensed to deal in firearms to transport or receive a firearm into his own state of residence that was obtained in another state.61 In addition, it is unlawful for any person who is not federally licensed to deal in firearms to deliver a firearm to another unlicensed person who resides in a state other than the transferor’s state of residence.62 Violations of either provision are punishable by a fine and/or not more than five years imprisonment.63 It is also unlawful to smuggle firearms,
+
+60 61
+
+It is unlawful for any person to aid, abet, counsel, command, or solicit a criminal act (18 U.S.C. §2). 18 U.S.C. §922(a)(3). 62 18 U.S.C. §922(a)(5). 63 18 U.S.C. §924 (a)(1)(D).
+
+Congressional Research Service
+
+18
+
+Gun Control Legislation
+
+or any other merchandise contrary to U.S. law from the United States.64 Violations are punishable by a fine and/or not more than 10 years imprisonment.65
+
+Federal Prosecutions under 18 U.S.C. §§922(a)(6) and 924(a)(1)(A)
+
+According to the Government Accountability Office (GAO), the largest percentage of Southwest Border gun trafficking cases is comprised of multiple straw purchases.66 And, large-scale straw purchasing schemes were at the center of several ATF Phoenix-based gun trafficking investigations, including Operation Fast and Furious. Contributing to the controversy surrounding Fast and Furious, reportedly, the U.S. Attorney’s Office in Arizona was reluctant to prosecute straw purchasing cases, even though ATF conducted several investigations involving dozens of firearms and multiple defendants from 2006 through 2010.67 Some of this reluctance to prosecute referred cases may have stemmed from legal interpretations (and underlying case law) made by the U.S. Attorney’s Office in Arizona that “differed substantially from those of other U.S. Attorney’s Offices.68 Other considerations could have included allocation of scarce resources and prosecutorial priorities. Nonetheless, as shown above, federal prosecutions for straw purchasing and related offenses nationally appears to have fallen off significantly in recent years, despite congressional efforts to increase ATF appropriations to combat gun trafficking. In addition, at a hearing on Operation Fast and Furious, an ATF agent testified that the penalties levied under current law are not harsh enough to deter gun trafficking to Mexican drug trafficking organizations.69 He opined that the “statute doesn’t carry significant jail time,” and that straw purchases were viewed as “paperwork violations.”70 To explore this assertion, CRS requested criminal caseload data from the U.S. Attorneys Office for 18 U.S.C. §§922(a)(6) and 924(a)(1)(A) for FY2004 through FY2010. It is noteworthy, however, that the criminal cases under these provisions include violations involving false identities and entries, in addition to straw purchases. As Figure 1 shows, nationally, the defendants charged under §922(a)(6) declined from 459 for FY2004 to 218 for FY2010, or by about half (-52.5%). Similarly, defendants convicted under §922(a)(6) declined by more than half (-58.6%) for those years, even though they increased from FY2007 to FY2008 (17.3%). The defendants charged under §924(a)(1)(A) also declined from 290 for FY2004 to 209 for FY2010, but at a slower rate of change (-27.9%). Convictions under that provision also declined through FY2008 (-22.3%), but increased for FY2009 (18.7%) and
+
+18 U.S.C. §554. Ibid. 66 U.S. Government Accountability Office, Firearms Trafficking: U.S. Efforts to Combat Arms Trafficking to Mexico Face Planning and Coordination Challenges, GAO-09-709, June 29, 2009, p. 21. 67 U.S. Congress, Fatally Flawed: Five Years of Gunwalking in Arizona, House Committee on Oversight and Government Reform, Minority Staff Report, 112th Cong., 2nd Sess., January 2012, p. 72, http://www.scribd.com/doc/ 79930290/%E2%80%9CFatally-Flawed-Five-Years-of-Gunwalking-in-Arizona-%E2%80%9D?tw_p=twt. See also Colby Goodman and Michel Marizco, U.S. Firearms Trafficking to Mexico: New Data and Insights Illuminate Key Trends and Challenges, Woodrow Wilson International Center for Scholars Mexico Institute and University of San Diego Trans-Border Institute, September 2010, p. 29. 68 Ibid. 69 U.S. Congress, House Committee on Oversight and Government Reform, Operation Fast and Furious: Reckless Decisions, Tragic Outcomes, 112th Cong., 1st sess., June 15, 2012, p. 120. 70 Ibid.
+
+65 64
+
+Congressional Research Service
+
+19
+
+Gun Control Legislation
+
+FY2010 (2.4%). Under either provision, about two-thirds of defendants were convicted during FY2004 through FY2010 cumulatively. Figure 1. Federal Defendants Charged and Convicted Nationally under 18 U.S.C. §§922(a)(6) and 924(a)(1)(A)
+
+FY2004-FY2010
+
+Source: Data from U.S. Attorney’s Office. Figure created by CRS.
+
+As Figure 2 shows, moreover, over a third of the individuals convicted under either provision received no prison sentence. Over a third received a prison sentence of up to two years. The remainder received prison sentences of greater than two years. Several individuals received life sentences, but those individuals were likely career criminals who were convicted of additional offenses.
+
+Congressional Research Service
+
+20
+
+Gun Control Legislation
+
+Figure 2. Federal Sentences Imposed Nationally under 18 U.S.C. §§922(a)(6) and 924(a)(1)(A)
+
+FY2004-FY2010
+
+Source: Data from U.S. Attorney’s Office. Figure created by CRS.
+
+Firearms-Related Amendments to the Sentencing Guidelines
+
+To provide federal judges and prosecutors with greater leverage, on January 19, 2011, the U.S. Sentencing Commission (Commission) published proposed amendments to the sentencing guidelines that potentially increase penalties under the GCA for cases involving cross-border trafficking in small arms or ammunition, including straw purchases, and similar amendments to the Arms Export Control Act (AECA; 22 U.S.C. §2778 et seq.).71 While the GCA amendments to the Sentencing Guidelines Manual became effective on November 1, 2011, the Commission did not adopt the AECA amendments. According to an April 6, 2011, press release, the Commission’s Chair, Judge Patty B. Saris, stated, “Firearms trafficking across our borders is a national security issue. The Commission is aware of the view [shared] by some that firearms trafficking is fueling drug violence along our southwest border.”72
+
+Brady Handgun Violence Prevention Act
+
+After seven years of extensive public debate, Congress passed the Brady Handgun Violence Prevention Act of 1993 (P.L. 103-159, the Brady Act)73 as an amendment to the Gun Control Act of 1968, requiring background checks for firearms transfers between FFLs and non-licensed persons. The Brady Act included both interim and permanent provisions.
+
+71 United States Sentencing Commission, “Sentencing Guidelines for United States Courts ,” 76 Federal Register 3193, January 19, 2011. See also, CRS Report R41696, How the Federal Sentencing Guidelines Work: An Overview, by Charles Doyle. 72 United States Sentencing Commission, “U.S. Sentencing Commission Promulgates Permanent Amendment to the Federal Sentencing Guidelines Covering Crack Cocaine, Other Drug Trafficking Offenses; Also promulgates amendments regarding firearms and other offenses,” press release, April 6, 2011. 73 107 Stat. 1536, November 30, 1993.
+
+Congressional Research Service
+
+21
+
+Gun Control Legislation
+
+Interim Provisions
+
+Under the interim provisions, which were in effect through November 1998, background checks were required for handgun transfers, and licensed firearms dealers were required to contact local chief law enforcement officers (CLEOs) to determine the eligibility of prospective customers to be transferred a handgun. The CLEOs were given up to five business days to make such eligibility determinations. Under the interim provisions, 12.7 million firearms background checks (for handguns) were completed during that four-year period, resulting in 312,000 denials.
+
+Permanent Provisions
+
+On November 30, 1998, the Federal Bureau of Investigation (FBI) activated the National Instant Criminal Background Check System (NICS) to facilitate firearms-related background checks, when the permanent provisions of the Brady Act became effective. Through NICS, FFLs conduct background checks on non-licensee applicants for both handgun and long gun transfers. The objective of a Brady background check is to ensure that an unlicensed transferee is not a prohibited person under the GCA. It is notable that federal firearms laws serve as the minimum standard in the United States. States may choose, and have chosen, to regulate firearms more strictly. For example, some states require set waiting periods and/or licenses for firearms transfers and possession. As part of a Brady background check, an FFL is required to submit a prospective firearm transferee’s name, sex, race, date of birth, and state of residence through NICS. Social security numbers and other numeric identifiers are optional, but the submission of such data is likely to increase the timeliness of the background check (and reduce misidentifications).74 The transferee’s information is crosschecked against three computerized databases/systems to determine firearms transfer/possession eligibility. Those systems include the NICS index, Interstate Identification Index (III), and National Crime Information Center (NCIC).75 If the transferee indicates that he is foreign born, his information is also checked against the immigration and naturalization databases maintained by the Department of Homeland Security, Immigration and Customs Enforcement.76 According to the FBI, the NICS index contains disqualifying records not found in either the III or NCIC on all the classes of prohibited persons enumerated in the GCA. It also includes records on persons previously denied firearms transfers. As of May 2010, the NICS index included a little over 6 million records.77 The III, or “Triple I,” is a computerized criminal history index pointer system that the FBI maintains so that records on persons arrested and convicted of felonies and serious misdemeanors at either the federal or state level can be shared nationally. All 50 states and the District of Columbia participate in the III, and the system holds indices to nearly 70 million
+
+Querying Records in the System, 28 C.F.R. §25.7. Accessing Records in the System, 28 C.F.R. §25.6. 76 Those databases include the Central Index System (CIS), Computer Linked Application Information Management System (CLAIMS), Deportable Alien Control System (DACS), National Automated Immigration Lookout System (NAIL II), Nonimmigrant Information System (NIIS), Student and Exchange Visitor Information System (SEVIS), Redesigned Naturalization Casework System (RNACS), Refugee, Asylum, and Parole System (RAPS), Enforcement Case Tracking System (ENFORCE), and the Treasury Enforcement Communications System (TECS). 77 U.S. Department of Justice, Report to Congress Pursuant to the NICS Improvement Amendments Act of 2007 (P.L. 110-180), July 1, 2010, Appendix C.
+
+75 74
+
+Congressional Research Service
+
+22
+
+Gun Control Legislation
+
+criminal history records.78 The NCIC includes files on information that is of immediate importance and applicability to law enforcement officials. Several NCIC files include over 4.4 million records on potentially prohibited persons. Hence, those files are pertinent to the Brady background check process. They include files on • • • • • • wanted persons (fugitives), persons subject to domestic abuse restraining orders, deported alien felons, persons in the U.S. Secret Service protective file, foreign fugitives, and known or suspected terrorists.
+
+While the FBI handles background checks entirely for some states, other states serve as full or partial points of contact (POCs) for background check purposes. In POC states, FFLs contact a state agency, and the state agency contacts the FBI for such checks.79 As part of the Brady background check process, NICS will respond to an FFL or state official with a NICS Transaction Number (NTN) and one of three outcomes: (1) “proceed” with transfer or permit/license issuance, because a prohibiting record was not found; (2) “denied,” indicating a prohibiting record was found; or (3) “delayed,” indicating that the system produced information that suggested there could be a prohibiting record. Under the last outcome, a firearms transfer may be “delayed” for up to three business days while NICS examiners attempt to ascertain whether the person is prohibited.80 At the end of the three-day period, an FFL may proceed with the transfer at his discretion if he has not heard from the FBI about the matter. The FBI, meanwhile, will continue to work the NICS adjudication for up to 90 days, during which the transaction is considered to be in an “open” status. If the FBI ascertains that the person is not in a prohibited status at any time during the 90 days, then the FBI will contact the FFL through NICS with a proceed response. If the person is subsequently found to be prohibited, the FBI will inform ATF and a firearms retrieval process will be initiated.
+
+Ibid., Appendix A. In 13 states, state agencies serve as full POCs and conduct background checks for both long gun and handgun transfers. In four states, state agencies serve as partial POCs for handgun permits, whereas in another four states, state agencies serve as partial POCs for handgun transfers only. In these eight partial POC states, checks for long gun transfers are conducted entirely through the FBI. In the 30 non-POC states, the District of Columbia, and five territories (Guam, American Samoa, Northern Mariana Islands, Puerto Rico, and the Virgin Islands), FFLs contact the FBI directly to conduct background checks through NICS for both handgun and long gun transfers. For state agencies (POCs), background checks may not be as expeditious, but they may be more thorough because state agencies may have greater access to databases and records that are not available through NICS. According to the Government Accountability Office (GAO), this is particularly true for domestic violence misdemeanor offenses and protective orders. For further information, see GAO, Gun Control: Opportunities to Close Loopholes in the National Instant Criminal Background Check System, GAO-02-720, July 2002, p. 27. 80 Accessing Records in the System, 28 C.F.R. §25.6.
+
+79
+
+78
+
+Congressional Research Service
+
+23
+
+Gun Control Legislation
+
+Under no circumstances is an FFL informed about the prohibiting factor upon which a denial is based.81 Under the Brady background check process, however, a denied person may challenge the accuracy of the underlying record(s) upon which his denial is based.82 He would initiate this process by requesting (usually in writing) the reason for the denial from the agency that conducted the NICS check (the FBI or POC). The denying agency has five business days to respond to the request. Upon receipt of the reason and underlying record for the denial, the denied person may challenge the accuracy of that record. If the record is found to be inaccurate, the denying agency is legally obligated to correct that record.83 As with other screening systems, particularly those that are name-based, false positives occur as a result of Brady background checks, but the frequency of these misidentifications is unreported. Nevertheless, the FBI has taken steps to mitigate false positives. In July 2004, DOJ issued a regulation that established the NICS Voluntary Appeal File (VAF), which is part of the NICS Index (described above).84 DOJ was prompted to establish the VAF to minimize the inconvenience incurred by some prospective firearms transferees (purchasers) who have names or birth dates similar to those of prohibited persons. So as not to be misidentified in the future, these persons agree to authorize the FBI to maintain personally identifying information about them in the VAF as a means to avoid future delayed transfers. Current law requires that NICS records on approved firearm transfers, particularly information personally identifying the transferee, be destroyed within 24 hours (see heading below, “Background Check Fee and Record Retention”). Under the GCA, there is also a provision that allows the Attorney General (previously, the Secretary of the Treasury) to consider petitions from a prohibited person for “relief from disabilities” and have his firearms transfer and possession eligibility restored.85 Since FY1993, however, a rider on the ATF annual appropriations for salaries and expenses has prohibited the expenditure of any funding provided under that account on processing such petitions.86 While a prohibited person arguably could petition the Attorney General, bypassing ATF, such an alternative has never been successfully tested. As a result, the only way a person can reacquire his lost firearms eligibility is to have his civil rights restored or disqualifying criminal record(s) expunged or set aside, or to be pardoned for his crime.
+
+Statement of Daniel D. Roberts, Assistant Director, Criminal Justice Information Services, Federal Bureau of Investigation, Terrorists and Guns: The Nature of the Threat and Proposed Reforms: Hearing Before the S. Comm. on Homeland Sec. and Gov’t Affairs, 111th Cong., May 5, 2010. 82 Correction of Erroneous System Information, 28 C.F.R. §25.10. 83 Ibid. 84 Final Rule, National Instant Criminal Background Check System Regulation, 69 Federal Register 43892 (July 23, 2004) (codified at 28 C.F.R. §25.10(g)). 85 18 U.S.C. §925(c). See also Relief from Disabilities Under the Act, 27 C.F.R. §478.144. 86 For FY1993, see P.L. 102-393; 106 Stat. 1732 (1992). For FY2012, see P.L. 112-55; 125 Stat. 552, 609 (November 18, 2011). The FY2012 limitation provides: “That none of the funds appropriated herein shall be available to investigate or act upon applications for relief from Federal firearms disabilities under 18 U.S.C. 925(c).”
+
+81
+
+Congressional Research Service
+
+24
+
+Gun Control Legislation
+
+Table 4. Brady Background Checks for Firearms Transfers and Permits
+
+1998-2009
+
+Year 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 Total Total Annual Checks 893,127 8,621,315 7,698,643 7,957,926 7,805,792 7,831,146 8,083,809 8,277,873 8,612,201 8,658,245 9,900,711 10,764,237 95,105,025 Denials 18,647 204,455 153,087 150,500 135,973 126,181 125,842 131,916 134,442 135,817 147,080 150,013 1,613,953 FBI Checks 507,000 4,538,000 4,260,270 4,291,926 4,248,893 4,462,801 4,685,018 4,952,639 5,262,752 5,136,883 5,813,249 4,680,809 54,242,859 S&L Checks 386,127 4,083,315 3,438,373 3,666,000 3,556,899 3,368,345 3,398,791 3,325,234 3,349,449 3,521,362 4,087,462 4,987,459 40,862,166 FBI Denialsa 8,836 81,000 66,808 64,500 60,739 61,170 63,675 66,705 69,930 66,817 70,725 67,324 748,229 POC Denialsb 9,811 123,455 86,279 86,000 75,234 65,011 62,167 65,211 64,512 69,000 76,355 82,689 865,724
+
+Source: U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Statistics, available at http://bjs.ojp.usdoj.gov/index.cfm?ty=pbse&sid=13. Notes: On November 30, 1998, the interim provisions of the Brady Handgun Violence Prevention Act (P.L. 103-159) ended, and the permanent provisions were implemented when the FBI stood up the National Instant Criminal Background Check System (NICS). a. b. In non-point of contact (non-POC) states, federal firearms licensees contact the FBI directly to conduct NICS background checks. In point of contact (POC) states, federal firearms licenses contact a state agency and, in turn, the state agency contacts the FBI to conduct NICS background checks.
+
+As shown in Table 4, under the permanent provisions of the Brady Act (December 1998 through 2009), more than 95.1 million checks were completed, resulting in more than 1.6 million denials, or nearly a 1.7% denial rate. More than 54.2 million of these checks were completed entirely by the FBI for non-point of contact (non-POC) states, the District of Columbia, and four territories. Those checks resulted in a denial rate of nearly 1.4%. Nearly 40.9 million checks were conducted by full or partial point of contact (POC) states.87 Those checks resulted in a higher denial rate of 2.1%. Table 5 shows breakouts for NICS denials by reasons and by denying agency.
+
+87
+
+Ibid.
+
+Congressional Research Service
+
+25
+
+Gun Control Legislation
+
+Table 5. Estimated Brady Background Check Denials
+
+(1999 through 2009)
+
+Reasons for denial Felony indictment/conviction State law prohibition Domestic violence Misdemeanor conviction Restraining order Fugitive Illegal alien Mental illness or disability Drug user/addict Local law prohibition Other prohibitions Totalsa Total Denials 904,904 92,311 237,323 176,210 61,113 101,001 13,322 28,637 77,420 6,724 152,310 1,613,953 % 56.1 5.7 14.7 10.9 3.8 6.3 0.8 1.8 4.8 0.4 9.4 100.0 FBI Denials 482,608 19,454 119,717 86,795 32,922 49,383 9,727 4,489 57,614 0 5,238 748,229 0.7 100.0 % 64.5 2.6 16.0 11.6 4.4 6.6 1.3 0.6 7.7 State Denials 387,491 56,509 99,808 74,122 25,686 49,904 2,936 18,347 8,073 0 110,816 733,884 15.1 100.0 % 52.8 7.7 13.6 10.1 3.5 6.8 0.4 2.5 1.1 Local Denials 34,806 16,348 17,798 15,293 2,505 1,714 659 5,801 11,734 6,724 36,256 131,840 % 26.4 12.4 13.5 11.6 1.9 1.3 0.5 4.4 8.9 5.1 27.5 100.0
+
+Source: U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Statistics, Background Checks for Firearms Transfers, 2009—Statistical Tables, by Michael Bowling et al., available at http://bjs.ojp.usdoj.gov/ index.cfm?ty=pbdetail&iid=2214. a. Denials by reason subtotals are based upon percentages reported by BJS, which were applied to total denials by the FBI and state and local officials. Consequently, denials by reason may not sum precisely to the totals.
+
+National Criminal History Improvement Program (NCHIP)
+
+Under the Brady Act, Congress authorized a grant program known as the National Criminal History Improvement Program (NCHIP), the initial goal of which was to improve electronic access to firearms-related disqualifying records, particularly felony conviction records.88 DOJ’s Bureau of Justice Statistics (BJS) administers this program, under which grants are made to states to assist in updating and automating criminal history and other related records so that they are able to participate effectively in key federal criminal justice systems.89 Besides the NICS Index, III, and NCIC, these systems also include the Integrated Automated Fingerprint Identification System (IAFIS) and the National Sex Offender Registry (NSOR).90 This grant program is administered by BJS, which is part of the Office of Justice Programs.
+
+88 For further information, see Department of Justice, Office of Justice Programs, Bureau of Justice Statistics, National Criminal History Program (NCHIP): Improving Criminal History Records for Background Checks, 2005, July 2006. 89 Ibid. 90 Ibid.
+
+Congressional Research Service
+
+26
+
+Gun Control Legislation
+
+Table 6. NCHIP Appropriations, FY1995 though FY2012
+
+(dollars in millions)
+
+Fiscal Year FY1995 FY1996 FY1997 FY1998 FY1999 FY2000 FY2001 FY2002 FY2003 FY2004 FY2005 FY2006 FY2007 FY2008 FY2009 FY2010 FY2011 FY2012 Total Appropriation 100.000 26.500 51.750 47.750 45.000 35.000 35.000 38.000 42.721 32.634 27.577 12.796 12.805 12.220 13.000 14.500 9.500 6.000 562.753
+
+Source: U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Statistics.
+
+Table 6 shows that over the last 18 years (FY1995-FY2012), Congress has appropriated nearly $562.8 million for NCHIP, or an annual average of $31.3 million. Nevertheless, in 2007 congressional testimony following the April 16, 2007, Virginia Tech tragedy, DOJ reported that approximately half of the 70 million criminal history records in the Interstate Identification Index (III) were missing final dispositions—a circumstance that often results in delayed background checks and firearms transfers.91 It was also reported that many states had not forwarded any records on persons adjudicated mentally defective to the FBI. As of April 30, 2007, the FBI reported that 22 states had contributed nearly 168,000 mental defective records to the FBI for inclusion in the NICS index;92 however, other states had declined to report persons adjudicated mentally defective to the FBI. In many cases, state mental health, patients’ rights, and privacy laws prohibited the disclosure of those records.93 Other states may not have been able to report
+
+91 Statement of Rachel L. Brand, Assistant Attorney General for Legal Policy, Department of Justice at the Committee on Oversight and Government Reform Hearing on Lethal Loopholes in Gun Purchase Laws, May 10, 2007, p. 126. 92 Ibid, p. 138. 93 New York state, for example, had such a provision. See Section 33.13 of the Mental Health Law, which addresses the rights of patients and confidentiality of mental health records. Since enactment of P.L. 110-180, however, the New York State legislature addressed this issue and now provides mental defective records to the FBI for inclusion in the NICS Index.
+
+Congressional Research Service
+
+27
+
+Gun Control Legislation
+
+such persons to the FBI because mental health “databanks” that would include such records are not maintained.94 Following the Virginia Tech tragedy, the NICS mental defective file increased from 175,000 to 400,000 individual records, with California contributing more than 200,000 of those records.95 By May 2010, that number had increased to more than 859,000 records, due in large part to NCIS Improvement Amendments Act (described below).96 However, about half of the states had not contributed any records or had contributed only a handful of such records.97 For FY2012, the President’s budget request included $12.0 million for NCHIP. The Housereported FY2012 Commerce-Justice-Science (CJS) appropriations bill (H.R. 2596) would have provided $6.0 million for NCHIP. The Senate-passed CJS appropriations bill (S. 1572) would have provided $8.0 million for this program. S. 1572 was folded into the Senate-passed FY2012 Minibus appropriations bill (H.R. 2112). The House- and Senate-passed conference report version of H.R. 2112 (H.Rept. 112-284), which the President has signed into law (P.L. 112-55), provides $6.0 million for NCHIP. For FY2013, the Senate-reported CJS appropriations bill (S. 2323) would provide $6 million for NCHIP, the same amount as requested by the Administration. The House Committee on Appropriations ordered reported a similar measure that would provide the same amount for NCHIP.
+
+NICS Act Record Improvement Program (NARIP)
+
+Under the NICS Improvement Amendments Act of 2007,98 Congress authorized the Attorney General to make additional grants to states to improve further electronic access to records, including court disposition and corrections records, which are necessary to fully facilitate NICS background checks. Under the act, the Attorney General is required to report annually to Congress on federal department and agency compliance with the act’s provisions. Because BJS administers this program, the BJS Director is required to report annually on the progress that states are making in providing reasonable estimates of the number of firearms-related disqualifying records that they have jurisdiction over, as well as the number of those records that have been made accessible to the FBI for NICS background check purposes.99 BJS has designated this grant program the “NICS Act Record Improvement Program (NARIP),” although congressional appropriations documents simply refer to it as “NICS improvement.” As shown in Table 7, Section 103(e) of the act included an authorization for appropriations for FY2009 through FY2013. The act directs that the grants provided under this authorization be made “in a manner consistent” with NCHIP. The act also requires that between 3% and 10% of each grant be allocated for a relief from disabilities program for persons adjudicated men

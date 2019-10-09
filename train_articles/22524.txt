@@ -1,0 +1,66 @@
+Can the U.S. Grid Work With 100% Renewables? There's a Scientific Fight Brewing
+Illustration: iStockphoto
+
+A battle royal between competing visions for the future of energy blew open today on the pages of a venerable science journal. The conflict pits 21 climate and power-system experts against Stanford University civil and environmental engineer Mark Jacobson and his vision of a world fueled 100 percent by renewable solar, wind, and hydroelectric energy. The criticism of his “wind, water, and sun” solution and an unapologetic rebuttal from Jacobson and three Stanford colleagues appear today in the Proceedings of the National Academy of Sciences (PNAS).
+
+The critics enumerate what they view as invalid modeling tools, modeling errors, and “implausible and inadequately supported assumptions” in a projection of the midcentury U.S. energy supply that Jacobson and his coauthors published in PNAS in 2015. “The scenarios of [that paper] can, at best, be described as a poorly executed exploration of an interesting hypothesis,” write the experts, led by Christopher Clack, CEO of power-grid-modeling firm Vibrant Clean Energy.
+
+Clack says their primary goal is accurate science, the better to equip policymakers for critical decisions: “We’re trying to be scientific about the process and honest about how difficult it could be to move forward.”
+
+Jacobson calls Clack's attack, “the most egregious case of scientific fraud I have encountered in the literature to date”
+
+The text and statements by Clack's coauthors question Jacobson’s evaluation of competing energy technologies, and specifically his rejection of two nonrenewable energy options: fossil fuel power plants equipped to capture their own carbon dioxide pollution, and nuclear reactors.
+
+Jacobson calls Clack's attack “the most egregious case of scientific fraud I have encountered in the literature to date.”
+
+In fact, while both sides claim to be objectively weighing the energy options, the arguments and backgrounds of the protagonists belie well-informed affinities for various energy sources (and informed biases against others). As sociologists of science would say, their choice of data and their reading of it reflects hunches, values, and priorities.
+
+Consider Clack’s coauthor Ken Caldeira, a climate scientist at the Carnegie Institution for Science. Caldeira's press release broadcasting their critique argues that removing carbon dioxide from the U.S. power supply is a massive job demanding the biggest tool box possible: “When you call a plumber to fix a leak, you want her to arrive with a full toolbox and not leave most of her tools at home," says Caldeira.
+
+The same document then abandons this technology-agnostic tone to call out nuclear energy and carbon capture as technologies that “solving the climate problem will depend on.” And Caldeira has appealed for deploying a new generation of nuclear reactors, which he and other nuclear boosters such as former NASA scientist Jim Hansen say are needed because renewables “cannot scale up fast enough.”
+
+They could be right. Then again, expert sources they cite, such as the International Energy Agency, have consistently underestimated renewable energy growth. And identical scale-up critiques have also been well argued against nuclear energy and carbon capture and storage (CCS).
+
+Jacobson makes some powerful arguments for walking away from those technologies in his PNAS papers. Nuclear liabilities cited by Jacobson include the threat of future Fukushima-like disasters, nuclear weapons proliferation facilitated by large-scale uranium enrichment, and the financial risks such as those that recently bankrupted Westinghouse. And, as he notes in his rebuttal, the International Panel on Climate Change has determined there is “robust evidence” and “high agreement” among experts validating these nuclear risks.
+
+Jacobson’s rejection of CCS technology, meanwhile, may provide deeper insight on what makes him a magnet for academic attacks.
+
+The main thing that soured Jacobson on CCS was his own pioneering work on the climate change impacts of black carbon, or soot. Fossil fuel plants that capture most of their CO 2 still release soot that's both a public health menace and an agent of climate change. In a 2001 paper in Nature on simulations of soot particles in the atmosphere, he controversially argued that soot in the air and on blackened snow and ice fields absorbs enough heat to make its climate impact second only to CO 2 . Sixteen years on, that view now enjoys strong support from the science community.
+
+Photo: L.A. Cicero Mark Jacobson
+
+Jacobson subsequently turned his science on black carbon into political activism, helping to convince California regulators to deny low-carbon incentives to “clean diesel” technology. A decade later that tech is in disarray—sullied by scandals over fraudulent tailpipe cleanup claims. European automakers long reliant on diesel technology are now abandoning it in favor of hybrids, as IEEE Spectrum reported in April.
+
+His style, however, has not necessarily made him popular among climate scientists. Drew Shindell, a climate modeler at Duke University, describes Jacobson as a brilliant scientist with an unusual go-it-alone style that alienates some researchers.
+
+Whereas most climate models are honed by large teams, composed of hundreds of scientists, Jacobson single-handedly constructed the GATOR-GCMM climate model that underpins his work—including the 2001 Nature and 2015 PNAS reports. Shindell says other climate models are also shared more freely and subject to much more independent validation than Jacobson's. So when he claims that “his model is more complex and therefore better,” says Shindell, it “rubs people the wrong way."
+
+To Shindell, however, Jacobson’s outspokenness and solo style do not invalidate his work. In fact, he argues that raising important questions is Jacobson’s greatest contribution: “His work does prompt people to really look closely. That’s also a service to the community.”
+
+Could something similar be playing out now in PNAS? Power experts can bristle at outsiders who offer novel approaches to their problems. In 2004 Spectrum profiled mathematical modelers—a power engineer and a pair of plasma physicists—who were drawing heavy fire for the unorthodox prediction that big blackouts are inevitable. That trio (Ian Dobson, Benjamin Carreras, and David Newman) endured years of derision and saw their research funding pulled. They ultimately triumphed by all but predicting the Southwest blackout of 2011, a story I documented for Discover magazine last year.
+
+Jacobson and his PNAS coauthors similarly crafted their own unorthodox energy model—LOADMATCH—which sets a bold vision. While their critics mostly model power grids, Jacobson's team used LOADMATCH to map out a 100-percent-renewable route to meeting all major energy needs in the continental United States. The model replaces fossil fuels for heating and transportation with hydrogen and electricity generated by renewables, thereby tackling nearly all greenhouse emissions from fossil fuels rather than just the 35 percent from power plants.
+
+Illustration: Arizona State University/PNAS Four Days in 2055: Dynamic heat and power supplies in the wind, water, and sunlight-fueled continental United States, simulated by Stanford's Mark Jacobson.
+
+The weakest point in Jacobson’s 2015 paper identified by his critics is a heavy reliance on hydropower plants, which serve as his simulated power grid's backstop energy supply during long periods of weak sun and becalmed winds. This jumps out in the graph [above], which simulates total continental U.S. heat and power generation over four days in January 2055. Hydro turbines ramp up heavily each day after the sun sets, delivering as much as 1,300 gigawatts at their peak—a level that implies a 15-fold expansion in hydropower generating capacity.
+
+Jacobson says the LOADMATCH code adds turbines to existing hydropower dams as required to prevent power outages. The reservoirs are untouched, and thus store the same amount of energy. But that energy is concentrated into those hours of the year when no other power source is available.
+
+However, no such expansion is documented in the 2015 paper. Critic-in-chief Christopher Clack argues that it is a modeling error because, according his analysis, adding the required turbines at existing dams is not physically possible. And even if it were, he says, discharging the hydropower as described would impose unacceptable impacts on aquatic ecosystems and downstream water users. Invalidating that option, says Clack, means Jacobson’s scheme will cause blackouts: “The whole system breaks down.”
+
+Jacobson admits the 2015 paper was “vague” on the hydropower upgrade but stands by its technical and economic viability. The environmental impacts, he says, reflect a cost that policymakers pursuing his road map would need to consider. All clean energy solutions will require trade-offs, says Jacobson, noting that the low-carbon grid projection that made Clack’s reputation, a 2016 report in Nature Climate Change, calls for a much larger build-out of unpopular powerlines.
+
+Jacobson also has alternative sources of backup power, such as adding turbines to more rapidly convert stored heat from solar thermal power plants into electricity. "We could increase [their] discharge rate by a factor of 3.5 to obtain the same maximum discharge rate of hydro, without increasing the [solar thermal plants’] mirror sizes or storage,” he says.
+
+If you’re wondering where battery storage figures in all of this, it is yet another option—though one that both Jacobson and Clack deemed unnecessarily costly in their respective studies. Clack’s 2016 projections relied mostly on flexible natural gas power plants rather than dams or batteries to handle residual power demand—delivering a 78 percent reduction of power sector carbon emissions from 1990 levels by 2030.
+
+What is certain, from the darkening findings of climate science, is that climate change calls for a bold remake of the global energy system of the sort that both Clack and Jacobson have championed. Their respective visions certainly appear to have more in common than ever as the Trump administration seeks to turn back the clock on grid engineering.
+
+The U.S. power sector is bracing for the release of a power grid study ordered by President Trump on whether renewable energy installations degrade grid reliability by undermining continuously operated “baseload” nuclear and coal power plants. U.S. Energy Secretary Rick Perry’s memo commissioning the study states as fact that “baseload power is necessary to a well-functioning electric grid.”
+
+Last week, the Rocky Mountain Institute’s Mark Dyson and Amory Lovins called out that “curious claim,” which they say, “has been thoroughly disproven by a diverse community of utilities, system operators, economists, and other experts that moved on from this topic years ago.” What the grid needs, they write, is flexibility, not baseload power plants.
+
+The power industry is already moving in that direction. For example, flexibility was California utility PG&E’s central argument last year when it announced plans to shut down the Diablo Canyon nuclear plant when its reactor licenses expire in 2024 and 2025. The baseload plant was ill suited, PG&E said, to help them manage the increasingly dynamic power flowing on California’s grid.
+
+Dyson and Lovins' prescription for the power grid community, meanwhile, is unity. As they titled last week's post: “The grid needs a symphony, not a shouting match.”

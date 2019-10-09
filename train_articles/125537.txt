@@ -1,0 +1,42 @@
+FACT CHECK: Cell Phone Security
+Claim: Pressing a sequence of keys on your cell phone will produce a serial number that can be used to disable it in case of theft.
+
+PARTLY TRUE
+
+Example: [Collected on the Internet, 2005]
+
+
+
+Mobile Phone security – worth doing. Mobile Phone security – worth doing. Here is something worth knowing if you have a mobile phone …. Have you ever wondered why phone companies don’t seem interested in trying to prevent the theft of mobile phones? If you have ever lost, or had one stolen, and if you are on a plan, you still have to pay the plan approximately up to 24 months, and you have to buy another handset and enter into another contract. This is more revenue for the phone company. There is a simple way of making lost or stolen mobiles useless to thieves and the phone companies know about it, but keep it quiet. To check your mobile phone’s serial number, key in the following on your phone: star-hash-zero-six-hash ( * # 0 6 # ) and a fifteen digit code will appear on the screen. This is unique to your handset. Write it down and keep it safe. Should your mobile phone get stolen, you can phone your service provider and give them this code. They will then be able to block your handset, so even if the thief changes the sim card, your phone will be totally useless. You probably won’t get your phone back, but at lease you know that whoever stole it can’t use / sell it either. If everybody did this, there would be no point in stealing mobile phones. May want to send this to as many people with mobiles as possible.
+
+
+
+Origins: One of the drawbacks to a world of increasingly prevalent electronic communications and financial transactions is that it has created new (and sometimes easier) forms of crime. The thief who snatches a purse no longer ends up with just a bag and a few dollars in change and currency — he may also make off with credit cards he can use to purchase other expensive goodies, an ATM card he can use to drain money from bank accounts (if he can obtain the PIN), and a cell phone on which he can rack up hundreds (maybe even thousands) of dollars in free calls.
+
+Fortunately, it’s also getting easier to detect and disable fraudulent account activity, and in many cases regulations limit the amounts consumers can be held liable for due to theft (once they’ve notified the proper agencies). Still, somebody eventually ends up paying for stolen goods and services — if not the consumer, then banks, retailers, or service providers can get stuck with the losses. The message quoted above purportedly offers some tips on how to cut down the incidence of one of these types of theft, stolen cell phones.
+
+Given the plethora of cell phone manufacturers and service providers in the world, it’s difficult to make any statement about cell phones that applies across the board, or that remains valid for long since cellular technology is continually evolving. In general, we note that:
+
+
+
+Entering the sequence * # 0 6 # on your cell phone’s keypad may produce a display showing a unique fifteen-digit International Mobile Equipment Identity (IMEI) string. However, this only works with phones that use the Global System Mobile Communications (GSM) standard, as these phones contain a Subscriber Identity Module (SIM) card that holds users’ subscription information and phonebook information. Not all cellular phone service carriers use GSM technology, so entering the * # 0 6 # sequence will not work with every cell phone.
+
+Should your cell phone be stolen, you may be able to report its IMEI to your service provider and have the phone flagged as invalid to prevent the thief from using it with a different wireless number or carrier, but again, the availability of this option varies depending upon which cellular provider is involved. If your cell phone is stolen or lost, the far more important action for you to undertake is to contact your cellular provider to have your account disabled so that nobody else can apply charges to it, and to make such a report you need not know your phone’s IMEI.
+
+
+
+A couple of aspects of this message are also misleading or wrong:
+
+
+
+If your cell phone is stolen, service providers will not generally require you to sign a new service contract. You may have to pay for a new handset, but if you are, say, twenty-two months into a two-year contract, you will not have to sign a new contract — you’ll be only obligated for the two months’ worth of service remaining on your original contract.
+
+generally require you to sign a new service contract. You may have to pay for a new handset, but if you are, say, twenty-two months into a two-year contract, you will not have to sign a new contract — you’ll be only obligated for the two months’ worth of service remaining on your original contract. Although there is a small black market for stolen handsets, cell phone theft is overwhelmingly a theft of service — thieves don’t really want your handset (cell phones are so cheap and ubiquitous that hot phones aren’t worth much); they want to use your wireless service to make free calls and stick you with the bill. Since reporting your stolen handset’s phone number to your service provider already cuts off a thief’s ability to charge calls to your account, reporting the serial number and having the handset disabled as well is largely superfluous. It certainly won’t hurt anything to take the extra step, but doing so isn’t likely to pose much of a deterrent to cell phone thieves.
+
+
+
+Unfortunately, what cell phone thieves primarily take advantage of is the time lag between their stealing your phone and your noticing the loss and reporting it to your service provider (and, in some cases, your service provider’s delay in disabling the account), during which they can largely make as many phone calls as they want for free, with little fear of being caught. As long as these windows of opportunity exist, thieves will continue to pilfer cell phones, whether or not they can re-use or re-sell them afterwards.
+
+Additional information:
+
+How Cell Phones Work

@@ -1,0 +1,98 @@
+About the Data - Postsecondary Enrollment
+Overview | Cautions | Definitions | Calculating Percents | Data Changes | Data Sources | FAQ | Useful Links | Data Errata | Privacy | Contact Us
+
+Overview
+
+A key goal of K-12 education is to ensure every child completes high school ready for further education and the workplace. Postsecondary enrollment of high school completers is one indicator of postsecondary readiness.
+
+Where to Find Data about Postsecondary Enrollment School Years WISEdash Beginning with 2005-06 X
+
+Data about high school completers from the Wisconsin Department of Public Instruction (DPI) and about postsecondary enrollment from the National Student Clearinghouse (NSC) are merged to create WISEdash postsecondary enrollment summaries beginning with data for 2005-06 high school completers. WISEdash is DPI's primary data analysis portal. Postsecondary enrollments have never been available in the School District Performance Report or WINSS. Postsecondary outcomes are included in other DPI reports, such as the Special Education District Profile.
+
+Below you will find detailed background information and links to facilitate use and appropriate interpretation of postsecondary enrollment data in WISEdash.
+
+Cautions
+
+NSC-based postsecondary enrollment summaries in WISEdash may underrepresent actual postsecondary enrollment. DPI exchanges data files with the NSC to obtain postsecondary enrollment information about Wisconsin high-school completers who continued their education. Underrepresentation can occur for several reasons. This underrepresentation may affect the reports for some schools more than others depending upon the possible concentration of these reasons. For more information, see "About NSC Data" under "Counting Students and Calculating Percents" below. NSC-based postsecondary enrollments are updated on WISEdash twice a year, in March and in November. When NSC data are updated, WISEdash counts and percents change. Second fall and later postsecondary enrollments for recent high school completers tend to change the most. When analyzing trend data, please remember that total postsecondary enrollments will tend to increase –at a decreasing rate- with each passing year after high school completion. Because of this, considering “All” enrollments when analyzing trends may erroneously show or overstate a downward trend in postsecondary enrollments. In other words, recent high school graduates who will enroll in a postsecondary institution 2, 3 or 4 years after high school graduation are not yet considered in this trend data (as enrollment has not yet occurred) while such enrollments have since occurred for earlier high school completers leading to misleading comparisons. The best way to see the effect of this issue is to review initial enrollments of “Other” while the best way to analyze this trend data over time is to compare “First Fall” enrollments. Postsecondary enrollments for pre- and post-2010-11 high school completers by race/ethnicity may not be comparable. Race/ethnicity collection and reporting changes were implemented in 2010-11. These changes resulted in five continuing categories with description changes and two new categories. For more information about these changes, see How and why have race/ethnicity reporting categories changed.
+
+Definitions of Key Terms
+
+Definitions of terms used in reporting data about postsecondary enrollments are found in the WISEdash Glossary.
+
+Counting Students and Calculating Percents
+
+About NSC Data
+
+The NSC collects enrollment data from over 3,300 postsecondary institutions enrolling over 96% of all students in postsecondary institutions in the United States. These institutions include public/private, two-year/four-year, technical colleges, and training programs. The data include all enrolled students and can follow a student through his or her entire collegiate experience. Examples of NSC data elements available include college name, state. type, enrollment begin date, enrollment end date, graduation, date, degree title, and major.
+
+DPI exchanges data files with the NSC to obtain postsecondary enrollment information about Wisconsin high-school completers who continued their education. The data submitted to the National Student Clearinghouse includes all Wisconsin public high school completers from the 2005-06 school year onward. The Clearinghouse then attempts a matching process to find the postsecondary enrollment information for each of the completers and sends files back to DPI containing this information.
+
+NSC-based postsecondary enrollment summaries in WISEdash may underrepresent actual postsecondary enrollment for the following reasons:
+
+The student's records were blocked by the student or the postsecondary institution.
+
+The postsecondary enrollment was not submitted at all or was not submitted to the NSC by the time the file exchange and matching occurred. Note however that enrollment counts are adjusted retroactively after more complete data become available from the NSC.
+
+The student enrolled at a postsecondary institution that does not participate with the NSC. (DPI receives a list of colleges in WI with 1,000 or more students enrolled that do not submit enrollment to NSC.)
+
+The student, though enrolled in a postsecondary institution, does not have a social security number and is thus not reported by the postsecondary institution to the clearinghouse.
+
+A match could not be made during the NSC matching process for technical reasons.
+
+More than one student was matched by NSC and they could not resolve the multiple matching.
+
+Counting High School Completers
+
+All students who earned a high school completion credential in the selected school year are counted as high school completers in that year. For students who earned multiple credentials in a single school year (rare), the later credential is counted only if it was a higher credential than previously earned. Students count at most once in any given high school completion year.
+
+Counting Postsecondary Enrollees
+
+A high school completer is counted as a postsecondary enrollee if a NSC postsecondary enrollment record is found for the time between the high school completion exit date and the date of the most recent postsecondary enrollment update. (See "About NSC Data" above.) All enrollment records are considered regardless of a student's full- or part-time status and regardless of subsequent changes in enrollment status (e.g. withdrawals) after the enrollment begin date. For any given high school completion year, each high school completer is counted as a postsecondary enrollee no more than once regardless of the number of postsecondary enrollment records found.
+
+Counts of postsecondary enrollees are summarized by initial postsecondary enrollment time frame, by institution level, by institution type, and by institution location as provided below.
+
+Initial Postsecondary Enrollment Time frame First Fall. Initial postsecondary enrollment date is between the exit date associated with the student's high school completion credential and the first November 1 following that date. Second Fall. Initial postsecondary enrollment date is between the first and second November 1 following the exit date associated with the student's high school completion credential. For recent high school completers, if the latest NSC postsecondary enrollment update is before the second November 1, then Second Fall describes initial enrollment dates between the first November 1 and the latest NSC update. Later Enrollment. Initial postsecondary enrollment date is between the second November 1 following the exit date associated with the student's high school completion credential and the latest NSC postsecondary enrollment update.
+
+Institution Level Less than 2-year Institution. 2-year Institution. 4-Year Institution. Multiple Levels. If a high school completer attended institutions at more than one of the above levels then he/she is counted only in the multiple levels category.
+
+Institution Type Public Institution. Private Institution. Multiple Types. If a high school completer attended institutions of more than one of the above types then he/she is counted only in the multiple types category.
+
+Institution Location In-State Institution. Out-of-State Institution. Multiple Locations. If a high school completer attended institutions in more than one of the above locations then he/she is counted only in the multiple locations category.
+
+
+
+Note that, in WISEdash, all counts of postsecondary enrollees are reported for the school year of the student's high school completion.
+
+Calculating Percents
+
+For any selected high school completion school year, the numerator for postsecondary enrollment percents is either the the count of postsecondary enrollees in the specific category of interest (e.g. first fall, public institution, etc).
+
+The denominator for "initial postsecondary enrollment" and "postsecondary first fall enrollment by year" percents is the count of high school completers for the selected high school completion school year. Typically these percents will not total 100% because the graphs do not display the percentage of completers for whom no postsecondary enrollment information is available. The denominator for the "postsecondary enrollment by level," "by type," or "by location" percents is the count of postsecondary enrollees (all categories combined) for the selected high school completion year.
+
+Data Changes Over Time
+
+Beginning with 2005-06 high school completers, postsecondary enrollment data are available. Prior to that year, reliable student level data about high school completers were not available.
+
+Beginning with 2010-11 high school completers, new race/ethnicity categories were implemented.
+
+Beginning with 2017-18 English language learner status (ELL Status) changed to display the value reported for the third Friday of September for this topic.
+
+Data Sources
+
+The table below summarizes data sources for WISEdash postsecondary summaries. Summaries are available for students completing high school in 2005-06 and more recent years.
+
+Postsecondary Enrollment Data Sources Data Element WISEdash Notes District/school Individual Student Enrollment System (ISES) Year End (YE) records; accountable district/school is used. Record is the one associated with the high school completion credential earned by the student.* High school completers ISES YE records. Record is the one associated with the high school completion credential earned by the student.* Postsecondary enrollment NSC records. Matched records only. Includes data about enrollment dates and postsecondary institution level, type, and location. Student demographic group ISES YE records; end-of-year state record is used. School year of the ISES YE record is the one associated with the high school completion credential earned by the student.
+
+* For students who earned multiple credentials in a single school year (rare), the relevant credential is the later credential only if it was a higher credential than previously earned.
+
+Frequently Asked Questions about Postsecondary Enrollment
+
+Why are WISEdash postsecondary enrollment summaries not considered Certified data? Postsecondary enrollments are based on a more dynamic set of data than for other WISEdash topics. Institutions of higher education submit their enrollments to NSC every 30-45 days. These submissions may include relatively significant updates or corrections to earlier submissions. Why might counts of high school completers and postsecondary enrollees for a selected year change over time? Counts and percents for any given school year can change over time for three primary reasons: DPI and NSC files are exchanged every few months, and WISEdash is updated based on the most recent postsecondary enrollment update. Institutions of higher education may submit corrected or late postsecondary enrollments which will retroactively impact WISEdash summaries.
+
+Students can opt-out of having their postsecondary data reported at any point in time. This can result in their records being removed from WISEdash.
+
+Duplicate student identifiers are merged or removed over time.
+
+More About the Data
+
+Data Tools and Reports

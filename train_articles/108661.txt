@@ -1,0 +1,58 @@
+CGI Experts Say Flying Bird Man Is Fake (Update 2)
+The internet is hysterically flapping its wings over a video that portends to show a man flying. Flying like a bird! But is it real? There's no consensus, but George Lucas' CGI masterminds say it's a big avian hoax.
+
+Advertisement
+
+We spoke with Ryan Martin, Technical Director at preeminent Industrial Light & Magic, who not only offered his own take, but that of over a dozen coworkers. He asked me to forgive the delay in their response because they've "all been pretty busy finishing up The Avengers." Yeah.
+
+Here's their case:
+
+Okay, so I don't see any glaring visual problems, but that's expected when the quality is as shitty as this. But that's the first thing that makes me question its authenticity. They're able to afford to build this thing, but can't invest in proper video equipment, or... a tripod. If I were to make a fake video with the intention of going viral, I would make certain that the quality was as poor as possible to disguise any flaws in poor cg work. Another big visual issue I have with this video is the stability of his head during flight. Try and keep your head that still while waving your arms up and down when they aren't attached to a giant wing contraption. Still, it seems almost too crazy to be fake and I was unable to find other glaring flaws with the video. So, I've queried our entire facility because we have some pretty amazingly smart people here. Here's what some of them had to say: Employee 1: "without a doubt, fake" Employee 2 (also a pilot) "the camera seems very strange. I know that when I am flying in an airplane, I don't look straight ahead all of the time. Also, the only way people have been able to propel themselves above the ground have been by bicycle arrangements to power a fixed-wing aircraft. A human powered helicopter managed 10 seconds of flight about 5 inches above the ground. The legs are much more powerful than the arms. I have serious doubts about it just on the physics and physiology points alone. " Employee 3: "I agree, I saw that earlier today. I can't spot any glaring visual problems, but the physics just don't add up." Employee 4: "Bad physics, shaky cam with bad focus (always a giveaway) and the most steady head I've ever seen on a guy flapping his arms in order to not break every bone in his body. FAKE." Employee 5: "check out this video
+
+
+
+and some others....
+
+http://www.humanbirdwings.net/my-recent-videos/ he is talking about the motors that assist his flying, so he isn't flapping all by himself. if its a hoax, its a pretty elaborate hoax, because he has been trying t build up trust for months before hand." Employee 6: " it is a matter of weight ratios! Have a look at the gossamer condor surface area of the wing to sustain flight at 1.5 miles an hour." Employee 7: "6 December 2011,For weeks I have been programming the HTC phone and the Wii remote to work together in order to let them flap my wings in the right movement.",,http://www.humanbirdwings.net/project-timeline/" I've had my wiimote just shut off suddenly without any warning. Sounds like marketing bs or soon to be granted Darwin award." Employee 8: "I constantly see gliders taking off (Fort Funston in Daly City) and It doesn't look right to me: - the motion of the wings and physics looks bogus to me. the flapping motion is weird to me.
+
+- the wing cloth, totally looks like cloth simulation. the cloth look structurally too rigid looks like a thick velvet.
+
+- the wing clothing material looks CGI." Employee 9: "Look how steady the GoPro footage is. You seriously think his neck is that stable when flapping his arms? To get that high and not move your head around an inch to take in the view? FAKE" Employee 10: I have to wonder where the power is coming from (where are the batteries, etc). The most efficient for human transportation appears to be a fixed wing aircraft. You can get very good results from a good laminar wingform and a low power engine/motor. His wings will definitely not provide the aerodynamics to haul a 180 pounds in the air. The largest bird had a 23 foot wingspan, and was only 171 pounds. It also had very large pectoral muscles to handle the power needed. Employee 11: "The wing-loading is crazy. ,,Also, a major purpose of a tail on a bird or airplane is to counter-act the forward pitching moment of the wing. If you could get your weight down to about 50 pounds for those wings, you would still find yourself rolling forward. Straight-wing flying wings need a specific twist, or large dihedral, to maintain stable flight (both of which kill lift). The configuration in the video is prone to gerbilling.,,I think the animation cycle on the figure is borrowed from the monkeys in Wizard of Oz."
+
+Advertisement
+
+Emphasis added. Martin even produced a smoking gun:
+
+Okay Sam, They wouldn't let this go without getting to the bottom of it. We've got proof it's faked. The proof comes from one of their other videos and the guys here are genuinely impressed that it's taken so long even for us to determine the truth.
+
+These guys are fooling everyone. Watch this video:
+
+At 1:45, you can see a little black square on the fabric
+
+Now, without cutting, the camera pans down and then back up again. When the camera pans up, the wing is cg. You can tell because the model they used didn't have perfect textures It's a pretty good fake, but it is absolutely fake.
+
+Again, emphasis added.
+
+We also talked with a CGI brain at Visual Playground, who spotted what he says is another giveaway:
+
+Ok...not on the vid...but on their site...a bit of a giveaway. this vid:
+
+contains screen shot of the prototype 3D model of the wing movements. The program is Maya, a 3D program primarily used by CG artists. I would think if this was the engineering vid it claims to be they would be using a 3D modeling program more suited to physics based modeling. Also the toolbar they have loaded atop the program is the 'Cloth Simulation' area of the program, which is used create such effects as fabric wings moving through air...hmmm. This isnt 100% proof but it is strange for them to have such a detailed ANIMATED model in a CG program rather than a engineering one.
+
+Advertisement
+
+So if it's a fake, it's a pretty masterful one. Even the Star Wars guys are impressed.
+
+Update: Martin has more refutation out of ILM:
+
+Even more definitive evidence from on of our veteran compositors:
+
+Advertisement
+
+"At 0:18 - the cast shadows of the three fellas on the wings are another giveaway. The shadow on screen right, for example, was created using an articulate of the man himself, then hand-animated and warped to look like a cast shadow on the wing. Watch how the cast shadow does a moon-walk/shuffle, incongruous with the man himself. All that said, it's still very well done. Good stuff. And I truly believe this is a healthy exercise for folks who do this stuff for a living."
+
+Advertisement
+
+Update 2: Another heavyweight CGI alum weighs in:
+
+I've been in CG for 15 years, and worked at some of the largest studios like ILM and Weta Digital. This is 100% without a doubt a digital composite, which is great! When I saw this video I was happy to see that somebody really took the time to integrate good CG into a viral video. So many hackneyed attempts are passed around, and this one really stands out. A lot of people have been fooled, so I thought I'd show how trained Hollywood visual effects artists can spot CG when ley people can't. The ILM guys that pointed out the crappy footage were right - that's what covers 90% of the problems. You actually WANT bad footage to put CG into, because the shaking covers many mistakes. So I stabilized the shot, as you can see here, and the problems leap out. First thing that you might be surprised by, is that the PEOPLE are digitally composited into the shot too! Everyone has been focusing on the wings but the people running in frame were shot separately and then added to the shot later to save on work. Rather than "Roto" the people (trace their outline frame by frame to put CG objects behind them), the makers of this video thought it would be easier (and it is) to just add them on TOP of the CG wings later. In the stabilized shot, look how there is motion blur on the three actors and the wings when there is none on the background. This is due to the fact that a "2D" motion blur plugin was used. The computer calculates the change in pixels from frame to frame and blurs the pixels the more the pixels change. The problem is, these actors already had motion blur on them when they were first shot. When you composite them into the footage, motion blur gets added AGAIN. This is why they go very blurry when the rest of the shot doesn't. The makers of this video tried to hide the fact they did this by having the two characters on the right run off screen, and then come back into frame. The actual footage that was shot on this day was a blank field, and the characters running in from screen right. Look closely at the shadows on the ground of the middle character. There is only only leg on the ground, and it slides with his movement. There's even some frames where the shadow is on the wrong side of the foot. The screen left character transitions (simple fade) between the digitally composited version of himself and the version of him on the ground between frames 90-92 of my video. The cg artists then have to roto the foreground characters minimally for the rest of the shot. A very valiant attempt, plain as day to a CG artist. This is really convincing CG work, but the public needs to understand that CG artists can detect things the same way a master chef can detect the ingredients of a dish. I take my hat off to these artists for their commitment to this project, creating and releasing so many videos with convincing graphics that have fooled a LOT of people. It's the perfect PR for a visual effects studio. Wish I'd thought of it!

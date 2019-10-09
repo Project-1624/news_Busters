@@ -1,0 +1,32 @@
+List of Printers Which Do or Do Not Display Tracking Dots
+Warning
+
+(Added 2015) Some of the documents that we previously received through FOIA suggested that all major manufacturers of color laser printers entered a secret agreement with governments to ensure that the output of those printers is forensically traceable. Although we still don't know if this is correct, or how subsequent generations of forensic tracking technologies might work, it is probably safest to assume that all modern color laser printers do include some form of tracking information that associates documents with the printer's serial number. (If any manufacturer wishes to go on record with a statement to the contrary, we'll be happy to publish that here.)
+
+(Added 2017) REMINDER: IT APPEARS LIKELY THAT ALL RECENT COMMERCIAL COLOR LASER PRINTERS PRINT SOME KIND OF FORENSIC TRACKING CODES, NOT NECESSARILY USING YELLOW DOTS. THIS IS TRUE WHETHER OR NOT THOSE CODES ARE VISIBLE TO THE EYE AND WHETHER OR NOT THE PRINTER MODELS ARE LISTED HERE. THIS ALSO INCLUDES THE PRINTERS THAT ARE LISTED HERE AS NOT PRODUCING YELLOW DOTS.
+
+This list is no longer being updated.
+
+
+
+Forensic investigations of the source of documents produced with other printing technologies are also possible, but, as far as we know, printers other than color laser and similar technologies do not deliberately encode their serial numbers in their output.
+
+Introduction
+
+This is a list of color laser printer models that do or do not print yellow tracking dots on their output.
+
+We tried to interpret the information conveyed by these dots as part of our Machine Identification Code Technology Project.
+
+Limitations of this information
+
+A "no" simply means that we couldn't see yellow dots; it does not prove that there is no forensic watermarking present. (For example, the HP Color LaserJET 8500 series does not include any yellow tracking dots that we can see, but it may still include some kind of forensic marking, since the majority of other Color LaserJET models do. Other forensic marking techniques have been invented, and we do not yet know how to determine whether these techniques are used by a particular printer.)
+
+A "yes" simply means that we (or another source, as noted) saw yellow dots that appeared anomalous to us. Until we decipher the marking schemes or receive other confirmation, this does not constitute proof that any particular kind of information is represented by these dots. In a very few cases, for example, they might be the result of a dithering technique, rather than a forensic mark, or they could be the result of a poorly calibrated printer. In most cases, we are confident that the arrangement of dots is intentional and is intended to track users.
+
+Sources of information
+
+We have employed three sources of information. We looked at printer output under a blue light and/or a computer microscope; we consulted press reports about printers (e.g. at Druckerchannel); we relied on printer manuals and other manufacturer statements. We welcome additional statements by manufacturers, resellers, or technicians.
+
+Thanks to our friends at software firms and symphonies, public schools and physics labs, semiconductor fabs and ice cream parlors, in about a dozen countries around the world.
+
+Table of printers

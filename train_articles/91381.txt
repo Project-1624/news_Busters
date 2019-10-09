@@ -1,0 +1,32 @@
+SIPRI Military Expenditure Database — www.sipri.org
+The SIPRI Military Expenditure Database contains consistent time series on the military spending of 171 countries since 1988, and of NATO member states from 1949 or from when they joined NATO. Military expenditure data by country is shown in the following formats:
+
+Estimates of world, regional and subregional totals in constant (2014) US$ (billions), and in current (2015) US$b. for 2015.
+
+Data for military expenditure by country in current price local currency, presented according to each country's financial year.
+
+Data for military expenditure by country in current price local currency, presented according to calendar year.
+
+Data for military expenditure by country in constant price (2014) US$ (millions), presented according to calendar year, and in current (2015) US$m. for 2015.
+
+Data for military expenditure by country in current US$ (millions), presented according to calendar year.
+
+Data for military expenditure by country as a share of GDP, presented according to calendar year.
+
+Data for military expenditure per capita, in current US$, presented according to calender year.
+
+Data for military expenditure as a percentage of general government expenditure, presented according to financial year.
+
+List of footnotes by country.
+
+Military expenditure in local currency at current prices is presented according to both the financial year of each country and according to calendar year, calculated on the assumption that, where financial years do not correspond to calendar years, spending is distributed evenly through the year. Figures in constant (2014) and current US$, as a share of GDP and per capita are presented according to calendar year. Figures as a share of government expenditure are presented according to financial year.
+
+SIPRI military expenditure data is based on open sources only, including a SIPRI questionnaire which is sent out annually to all countries included in the database. For some NATO member states, and for most data on then-NATO members before 1988, NATO’s annual press releases on Financial and Economic Data on NATO Defence is a key source. The collected data is processed to achieve consistent time series which are, as far as possible, in accordance with the SIPRI definition of military expenditure, detailed in the sources and methods.
+
+
+
+Pre-1988 military expenditure data now available
+
+
+
+In addition to the online military expenditure database covering the period 1988-2015, SIPRI is now making available a ‘beta’ version of an extended military expenditure dataset, with data going back in some cases to 1949, and to at least 1957 for a majority of countries that were independent at the time. The new extended dataset, along with additional methodological information, is available on request. Please send an email giving your name and affiliation (if any) to milex@sipri.org. As a beta version, the new extended dataset is a work in progress. SIPRI welcomes feedback including on apparent errors or inconsistencies in the data, or on new sources of data that might help us fill in some of the gaps in the data.

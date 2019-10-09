@@ -1,0 +1,154 @@
+FAQ from Guccifer 2.0
+Hello! I received lots of questions from journalists and other people who are interested in my doings. Many thanks to all of you, it’s a pleasure for me!
+
+Unfortunately, I couldn’t reply to each of you personally, especially given that you often asked the same questions. That’s why I decided to answer the most frequently asked questions here.
+
+I divided them into three groups:
+
+1. About me
+
+2. About my activities and publications
+
+3. About my political views
+
+As you can guess, all special services are doing their best trying to locate and catch me. And I have absolutely no desire to help them. So, if your curiosity isn’t satisfied after reading this post, you may have my apologies. It’s a matter of life and death. But I can assure you that everything I do corresponds to my beliefs.
+
+Let‘s get it started!
+
+1. A glimpse of me
+
+Many people ask me where I’m from, where I live and other personal information.
+
+You see, I can’t show you my IDs, it would be stupid of me.
+
+I can only tell you that I was born in Eastern Europe. I won’t answer where I am now. In fact, it’s better for me to change my location as often as possible. I have to hide.
+
+But generally, it’s not that important for where I live. I can work wherever there’s an Internet connection. So I feel free in any free country.
+
+A lot of people are concerned if I have any links to special services and Russia?
+
+I’ll tell you that everything I do I do at my own risk. This is my personal project and I’m proud of it. Yes, I risk my life. But I know it’s worth it. No one knew about me several weeks ago. Nowadays the whole world’s talking about me. It’s really cool!
+
+How can I prove this is true? I really don’t know. It seems the guys from CrowdStrike and the DNC would say I’m a Russian bear even if I were a catholic nun in fact. At first I was annoyed and disappointed. But now I realize they have nothing else to say. There’s no other way to justify their incompetence and failure. It’s much easier for them to accuse powerful foreign special services.
+
+
+
+They just fucked up! They can prove nothing! All I hear is blah-blah-blah, unfounded theories and somebody’s estimates.
+
+Specialists from Eastern Europe, Russia, China, India work for the leading IT-companies such as Google, IBM, Microsoft, Apple. There’s no surprise that many hackers are descendants from these regions.
+
+Almost all recent famous hacker attacks have been attributed to Russia. The researchers supposed that the same instruments were implemented during the attacks. But I’d like to reveal a secret to all those cool IT-specialists: all the hackers in the world use almost the same tools. You can buy them or simply find on the web.
+
+And btw, it was the Russian company Kaspersky Lab that was the first to start a myth about the almighty Russian hackers. It’s a fucking awesome advertisement. They mean that only the Russian antivirus company is able to cope with Russian hackers! Bingo!
+
+I’m often asked if I’m afraid of being prosecuted by the FBI. My answer is No! I’ve expected it and that’s why I’m ready. They certainly have great possibilities. But it won’t be that easy to catch me. I took all precautions. Yes, there’s still a risk. But I hope they won’t find me.
+
+You asked me several times if I’m a man or a woman. I’m a man. I’ve never met a female hacker of the highest level. Girls, don’t get offended, I love you.
+
+2. About my activities and publications.
+
+How do you estimate your hacking abilities? How much time does it take to acquire such skills?
+
+Well… Actually, it’s up to you to estimate the one who is so widely spoken about. Personally I think that I’m among the best hackers in the world. And I don’t really think it could be easy to become a hacker of such a level. You can spend much time reading and learning but there’s absolutely no guarantee you’ll ever reach the top. You should be chosen, talented or something like that, I don’t know.
+
+Who inspires me? Not the guys like Rambo or Terminator or any other like them. The world has changed. Assange, Snowden, and Manning are the heroes of the computer age. They struggle for truth and justice; they struggle to make our world better, more honest and clear. People like them make us hope for tomorrow. They are the modern heroes, they make history right now.
+
+Marcel Lazar is another hero of mine. He inspired me and showed me the way. He proved that even the powers that be have weak points.
+
+Anyway it seems that IT-companies and special services can’t realize that people like me act just following their ideas but not for money. They missed the bus with Assange and Snowden, they are not ready to live in the modern world. They are not ready to meet people who are smart and brave, who are eager to fight for their ideals, who can sacrifice themselves for the better future. Working for a boss makes them slow I suppose.
+
+Who among Romanian hackers do you know? How sophisticated are the hackers from Moldova?
+
+I know a couple of hackers from Romania who impressed me. Anyway, I’m not gonna call them by name. I mentioned Marcel because he is already widely known. We try not to disclose each other; this is a matter of our security.
+
+As for Moldova, I think it’s a part of Romania, so there’s no reason to speak about it separately. So, there are also Romanian hackers there.
+
+Other popular questions are why I broke into the DNC servers and if it was my first hack.
+
+Obviously, it wasn’t my first hack. But I made some conclusions from the Marcel’s story and decided not to put all eggs in one basket. Moreover, other cases weren’t so successful and didn’t bring me the glory.
+
+As for the DNC, first, the U.S. election race is one of the most exciting events that attracts people from all over the world. My hack wouldn’t go unnoticed in any case. And now I have my own fans who put me in a line with Assange and Snowden, so my bet has played I think.
+
+Second, the chain is no stronger than its weaker link. Marcel showed where the weak points could be and I found them.
+
+Why did it take me so long to publish the documents? Well, it was pretty interesting to wait until I was discovered. Really, it took them much longer than I expected. It was like playing hide-and-seek; I had to pass from one machine to another inside the network to stay stealth. It was breathtaking! And of course I was waiting for an appropriate moment to speak loud.
+
+How did you break into the DNC network? And are you still in?
+
+These questions are also very popular. I’ve already said about the software vulnerabilities. The DNC had NGP VAN software installed on their system so I used the 0-day exploit and then deployed my backdoor. The DNC used Windows on their server, so it made my work much easier. I installed my Trojan like virus on their PCs. I just modified the platform that I bought on the hacking forums for about $1.5k.
+
+I’ve been inside the network for pretty long time, so I downloaded a lot of files. I lost access after they rebooted the system on June 12. But after all, if they’ll carry on like this it won’t be a problem to get in again and again.
+
+Is it easy to find a 0-day vulnerability?
+
+It seems hard at first glance, but for a really good specialist armed with good skills in fuzzing, the IDA Pro disassembler, and the WinDbg debugger it’s just a matter of time.
+
+3. About my political views
+
+There were lots of questions about my personal opinion on the U.S. politics and presidential candidates.
+
+I don’t want to disappoint anyone, but none of the candidates has my sympathies. Each of them has skeletons in the closet and I think people have a right to know the truth about the politicians.
+
+As for me, I see great differences between Hillary Clinton and Donald Trump. Hillary seems so much false to me, she got all her money from political activities and lobbying, she is a slave of moguls, she is bought and sold. She never had to work hard and never risked everything she had. Her words don’t meet her actions. And her collusion with the DNC turned the primaries into farce.
+
+Opposite to her, Donald Trump has earned his money himself. And at least he is sincere in what he says. His position is straight and clear.
+
+Anyway that doesn’t mean that I support him. I’m totally against his ideas about closing borders and deportation policy. It’s a nonsense, absolute bullshit.
+
+I have nothing to say about Bernie Sanders. It seems he never had a chance to win the nomination as the Democratic Party itself stood against him!
+
+I beg your pardon if some of your questions didn’t get answers. I’ve chosen the most popular inquiries and those ones which don’t affect my security. You are always welcome to write me DMs, maybe I’ll make an UPD or post a new interview later.
+
+And from me to you, here are some more interesting files from the DNC.
+
+Senate travel project
+
+Fwd Clinton foundation Stories
+
+Foreign Donations & FPOTUS Foundations
+
+Clinton Foundation Investments FINAL
+
+HITS on Sec Clinton 5 13 16
+
+Copy_Sortable DNC PAC Research
+
+DWS AZ Op-Ed Comparison Doc_LM
+
+And other docs
+
+USAID – Narrowed
+
+POTUS Debate Response Document
+
+Hillary Clinton Travel FINAL
+
+Hillary Clinton Travel – Private Jets
+
+GCI DNC Rap and Visual Materials_clean for vet
+
+FOREIGN POLICY Debate Response Book
+
+Jordan David Kaplan – The Legacy
+
+Our Principles PAC – Anti Trump
+
+HRC Travel – Private Jets FINAL
+
+DNC PAC Calls & Contact List_MASTER TARGETS (8)
+
+Hillary_Rodham_Clinton_oct 08 – march 09
+
+Hillary_Rodham_Clinton_oct 07 – march 08
+
+Hillary_Rodham_Clinton_Oct 06 – March 07
+
+Hillary_Rodham_Clinton_april 08 -sep 08
+
+Hillary_Rodham_Clinton_April 07- sept 07
+
+DNC letter
+
+2016 GOP Field
+
+5-18-16 (Report)

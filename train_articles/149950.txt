@@ -1,0 +1,50 @@
+Using Cell Phones and Wireless Modems for Networking
+Home networks use modems to connect to the internet. Each internet service uses its own type of modem. For example:
+
+Dial-up and DSL modems connect through the home phone line.
+
+Cable modems connect through the home cable TV line.
+
+Fiber-optic modems connect through fiber-optic cables installed in the home.
+
+In addition, continuing technological advances have made the wireless modem in your cell phone an increasingly feasible way to connect to the internet.
+
+What Are Cell Modems?
+
+Cellular modems are an alternative to these other types of network modems. Cell modems are wireless modems that enable computers and other devices for internet access. Instead of connecting to a cable that serves as the network pipe, cellular modems communicate over wireless networks to the internet via cell phone towers. Using cell modems offers several benefits over other types of modems:
+
+Digital cellular service is faster than dial-up internet.
+
+They provide internet access while you're traveling and from any location a cell signal is available.
+
+For some people, cell service can be cheaper than other forms of broadband internet service.
+
+Types of Cell Modems
+
+Three main types of cellular modems exist for computer networking:
+
+Built into cell phones — enableS connections in a setup known as tethering
+
+Portable cellular cards — network adapters that plug into computers, sometimes called aircards
+
+Cellular routers — portable network routers that contain built-in cellular modems
+
+Setting Up a Cell Phone as a Wireless Modem
+
+The specific steps to set up tethering depends on the model of cell phone you're using, but the same general process applies in all cases:
+
+Ensure the phone can connect to the internet. Install appropriate phone connection manager software on the computer. Connect the phone to the computer.
+
+Cellular service providers sell service plans (typically called data plans) that enable digital phones to work as wireless Internet modems. When subscribing to a data plan, ensure that the service allows for either unlimited use or has a high bandwidth limit to avoid excessive charges. A cell phone cannot work as a modem unless a compatible service plan is in place.
+
+Cell phones can connect to other nearby devices with a USB cable or the Bluetooth wireless protocol. Although Bluetooth connections are much slower than USB, many prefer the convenience of wireless if their computers support them (as nearly all mobile devices do). Both types provide sufficient bandwidth for most cellular links.
+
+Companies that provide cell service also usually provide the free software needed to set up cell phones as wireless modems and manage their connections. Simply install the software on the computer to be used for tethering according to the provider's instructions.
+
+Setting Up Cellular Cards and Routers
+
+Cellular cards and routers function in the same way as other traditional types of network adapters and broadband routers. Aircards typically plug into a computer's USB port (or sometimes via PCMCIA), while cell routers may accept either ethernet or Wi-Fi connections. Various manufacturers sell these cards and routers.
+
+Limitations of Cell Modem Networking
+
+Although their network speeds have increased substantially in the past several years, cell connections to the internet typically offer somewhat slower data rates than other forms of broadband internet, sometimes even below 1 Mbps.

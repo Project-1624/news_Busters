@@ -1,0 +1,50 @@
+Seasonality of Federal Receipts, Outlays, and Deficits
+[OK, this one is deeply wonky and you should feel free to skip it. But after writing intensely about policy for months on end, I declare that I’ve earned a pure wonkfest on a statistical topic I’ve always enjoyed: extracting seasonality from time series. And no, I don’t have a lot of friends. And I’m OK with that…]
+
+Each month Treasury records receipts and outlays, the difference being the US budget deficit or surplus for that month. Budget analysts like to compare these values across time, e.g., as an input for tracking the impact of fiscal policy on the economy or to simply to track the state of our fiscal accounts.
+
+But since economic variables in the form of time series can have a seasonal factor, such comparisons can be misleading. If we looked at teenage employment in the summer we’d think a lot more teens work than if we did so in the fall. Or consider trips to the beach, ice-cream consumption, retail sales (the holiday season!), and so on.
+
+To some extent, federal outlays and receipts in particular also follow a seasonal pattern, as does their difference (the deficit or surplus), as you can see from the regular-ish zig-zags in the figure below, which plots the quarterly deficit (summed over the three months of the quarter) in thousands of nominal dollars (e.g., for the deficit, the peak surplus quarter was $212 billion in 2000 while the biggest negative was $460 billion in 2011q1).
+
+Non-Seasonally Adjusted Quarterly Outlays, Receipts, and Deficit, in Thousands of Nominal Dollars.
+
+Source: Treasury Dept.
+
+Before we get into the seasonality question there are two important data questions to consider. First, why quarterly data when Treasury reports monthly receipts and outlays?
+
+The reason is that the monthly data are too noisy to generate a reliable seasonal signal. Without getting into the deep weeds of extracting seasonality from a data series, to do so in a statistically reliable manner requires that a time series can be decomposed into its component parts, including trend, cycle, seasonal (if there’s a seasonal pattern), and a random residual part. If there’s too much “noise” in a time series, it’s impossible to separate out these components. By averaging out the noise over three months — i.e., by moving from monthly to quarterly data — I found I could more accurately decompose the series and pull out a seasonal factor.
+
+Second, if our goal is a seasonally adjusted (SA) budget deficit, should we adjust both receipts and outlays and then subtract them to get a seasonally adjusted deficit? Or would it be better to just adjust the deficit directly?
+
+It is generally considered “cleaner” to adjust the components, since their seasonal factors are probably different and mushing them together just confuses the type of decomposition noted above. This is clearly the case at hand, as receipts are more clearly seasonal than outlays. However, in many cases, including this one, it turns out that there’s not much difference either way.
+
+The figure below shows the three SA series, which basically look like less jagged versions of the series above.
+
+Seasonally Adjusted Version of the Above
+
+Source: My analysis of Treasury Dept. data.
+
+With these adjusted series in hand, we can make valid comparisons across disparate time periods. That is, the typical practice with non-SA data is to compare the same time periods across different years, under the assumption that doing so implicitly controls for any seasonal factors (though we’ll show in a moment that this is not always a valid assumption).
+
+Absent SA data, we could say that the deficit “improved” (became less negative) by $23 billion from the first half of 2013 to the first half of 2014. But supposed we wanted a more recent trend, say from the last half of 2013 through the first half of this year. Here, we’d need SA data.
+
+That comparison shows an improvement of $149 billion in the deficit. Imagine that we were incautious enough to make that same comparison using NSA data. Then we’d get an improvement of only $54 billion. This underscores that it is can be misleading to compare seasonal data across time without accounting for seasonality[1].
+
+Finally, the figure below plots the seasonal adjustment factors — the amounts by which we adjust each quarter’s data — for both receipts and outlays[2]. A few observations stand out.
+
+–the seasonal factor for receipts is much larger than that of outlays; for example, the SA value for receipts in the last quarter for which we have data (2014q2) is 20% lower than actual receipts, while SA outlays are just 1.5% higher than actual outlays. BTW, the reason for the large seasonal adjustment of receipts in Q2 is obvious with a moment’s thought: it includes April!
+
+–while the seasonal factor for outlays is small and pretty steady, that of receipts is not just larger, but it has grown more so over time. This is called “moving seasonality” and it’s an important dimension of the adjustment procedure. Why receipts have grown more seasonal over time is a good question that’s beyond our scope.
+
+Seasonal Factors for Quarterly Outlays and Receipts
+
+Source: My analysis of Treas. Dept data.
+
+In sum, for certain analyses there are good analytic reasons to seasonally adjust outlays, receipts, and deficits. Moreover, they clearly have seasonal factors, so such analysis is demonstrably do-able.
+
+Endnotes:
+
+[1] That caveat “can be” is important. Budget analysts often just want to know how the deficit has actually changed — what is on the books — without regard for seasonal impacts. But economic analysts trying to understand more persistent trends in the data will generally prefer to extract the impact of seasonality.
+
+[2] Based on the scale, it should be clear that these are multiplicative adjustments, the most common type of adjustment for economic series. That is, each quarter’s NSA value is divided by these factors to get the SA value.

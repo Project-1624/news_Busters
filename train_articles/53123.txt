@@ -1,0 +1,68 @@
+Quanta Magazine
+Imagine fighting a war on 10 battlefields. You and your opponent each have 200 soldiers, and your aim is to win as many battles as possible. How would you deploy your troops? If you spread them out evenly, sending 20 to each battlefield, your opponent could concentrate their own troops and easily win a majority of the fights. You could try to overwhelm several locations yourself, but there’s no guarantee you’ll win, and you’ll leave the remaining battlefields poorly defended. Devising a winning strategy isn’t easy, but as long as neither side knows the other’s plan in advance, it’s a fair fight.
+
+Now imagine your opponent has the power to deploy your troops as well as their own. Even if you get more troops, you can’t win.
+
+In the war of politics, this power to deploy forces comes from gerrymandering, the age-old practice of manipulating voting districts for partisan gain. By determining who votes where, politicians can tilt the odds in their favor and defeat their opponents before the battle even begins.
+
+In 1986, the Supreme Court ruled extreme partisan gerrymanders unconstitutional. But without a reliable test for identifying unfair district maps, the court has yet to throw any out. Now, as the nation’s highest court hears arguments for and against a legal challenge to Wisconsin’s state assembly district map, mathematicians are on the front lines in the fight for electoral fairness.
+
+Simple math can help scheming politicians draw up districts that give their party outsize influence, but mathematics can also help identify and remedy these situations. This past summer the Metric Geometry and Gerrymandering Group, led by the mathematician Moon Duchin, convened at Tufts University, in part to discuss new mathematical tools for analyzing and addressing gerrymandering. The “efficiency gap” is a simple idea at the heart of some of the tools being considered by the Supreme Court. Let’s explore this concept and some of its ramifications.
+
+Start by imagining a state with 200 voters, of whom 100 are loyal to party A and 100 to party B. Let’s suppose the state needs to elect four representatives and so must create four districts of equal electoral size.
+
+Imagine that you have the power to assign voters to any district you wish. If you favor party A, you might distribute the 100 A voters and 100 B voters into the four districts like this:
+
+D1 D2 D3 D4 A 30 30 30 10 B 20 20 20 40
+
+With districts constructed in this way, party A wins three of the four elections. Of course, if you prefer party B, you might distribute the voters this way:
+
+D1 D2 D3 D4 A 20 20 20 40 B 30 30 30 10
+
+Here, the results are reversed, and party B wins three of the four elections.
+
+Notice that in both scenarios the same number of voters with the same preferences are voting in the same number of elections. Changing only the distribution of voters among the districts dramatically alters the results. The ability to determine voting districts confers a lot of power, and attending to some simple math is all that’s needed to create an electoral edge.
+
+What if, instead of creating an advantage for one party over the other, you wished to use your power to create fair districts? First, you’d need to determine what “fair” means, and that can be tricky, as winners and losers often have different perspectives on fairness. But if we start with some assumptions about what “fair” means, we can try to quantify the fairness of different voter distributions. We may argue about those assumptions and their implications, but by adopting a mathematical model we can attempt to compare different scenarios. The efficiency gap is one approach to quantifying the fairness of a voter distribution.
+
+To understand the efficiency gap, we can begin with the observation that, in a series of related elections, not all votes have the same impact. Some votes might make a big difference, and some votes might be considered “wasted.” The disparity in wasted votes is the efficiency gap: It measures how equally, or unequally, wasted votes are distributed among the competing parties.
+
+So what counts as a wasted vote? Consider California’s role in presidential elections. Since 1992, California has always backed the Democratic nominee for president. Therefore, California Republicans know they are almost certainly backing a losing candidate. In some sense their vote is wasted: If they were allowed to vote in a toss-up state like Florida, their vote might make more of a difference. From a Republican perspective, that would be a more efficient use of their vote.
+
+As it turns out, Democratic voters in California can make a similar argument about their vote being wasted. Since the Democratic candidate will likely win California in a landslide, many of their votes, in a sense, are wasted, too: Whether the candidate wins California with 51 percent of the vote or 67 percent of the vote, the outcome is the same. Those extra winning votes are meaningless.
+
+Thus, in the context of the efficiency gap, there are two kinds of wasted votes: those for a losing candidate and those for a winning candidate that go beyond what is necessary for victory (for simplicity, we take the threshold for victory to be 50 percent, even though this could technically result in a tie; an actual tie is beyond unlikely with hundreds of thousands of voters in each congressional district). In a multi-district election, each party will likely have wasted votes of each kind. The efficiency gap is the difference in the totals of the wasted votes for each party, expressed as a percentage of total votes cast. (We subtract the smaller number from the larger when possible, to ensure a nonnegative efficiency gap. We could also take the absolute value of the difference.)
+
+Let’s return to our four-district scenarios and examine their efficiency gaps. Our first distribution looked like this.
+
+D1 D2 D3 D4 A 30 30 30 10 B 20 20 20 40
+
+In this scenario, 75 of B’s votes are wasted: 60 in losing causes and 15 more than the 25 needed to win district 4. Only 25 of party A’s votes are wasted: 5 extra votes in each victory and 10 losing votes. The raw difference in wasted votes is 75 − 25 = 50, so the efficiency gap here is 50/200 = 25 percent. We say the 25 percent efficiency gap here favors party A, as party B had the larger number of wasted votes. In the second scenario, where the numbers are reversed, the 25 percent efficiency gap now favors party B.
+
+Can the efficiency gap give us a sense of the fairness of a distribution? Well, if you had the power to create voting districts and you wanted to engineer victories for your party, your strategy would be to minimize the wasted votes for your party and maximize the wasted votes for your opponent. To this end, a technique colorfully known as packing and cracking is employed: Opposition votes are packed into a small number of conceded districts, and the remaining block of votes is cracked and spread out thinly over the rest of the districts to minimize their impact. This practice naturally creates large efficiency gaps, so we might expect fairer distributions to have smaller ones.
+
+Let’s take a deeper look at efficiency gaps by imagining our 200-voter state now divided into 10 equal districts. Consider the following voter distribution, in which party A wins 9 of the 10 districts.
+
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 A 11 11 11 11 11 11 11 11 11 1 B 9 9 9 9 9 9 9 9 9 19
+
+On the surface, this doesn’t seem like a fair distribution of voters. What does the efficiency gap say?
+
+In this scenario, almost all of party B’s votes are wasted: nine losing votes in each of nine districts, plus nine excess votes in one victory, for a total of 90 wasted votes. Party A’s voters are much more efficient: only 10 total votes are wasted. There is a difference of 90 − 10 = 80 wasted votes and an efficiency gap of 80/200 = 40 percent, favoring party A.
+
+Compare that with the following distribution, where party A wins 7 of the 10 districts.
+
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 A 13 13 13 13 13 13 13 3 3 3 B 7 7 7 7 7 7 7 17 17 17
+
+Here, the wasted vote tally is 70 for party B and 30 for party A, producing an efficiency gap of 40/200 = 20 percent. A seemingly fairer distribution results in a smaller efficiency gap.
+
+As a final exercise, consider this even split of district elections.
+
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 A 15 15 15 15 15 5 5 5 5 5 B 5 5 5 5 5 15 15 15 15 15
+
+The symmetry alone suggests the answer, and the calculations confirm it: 50 wasted votes for each party means a 0 percent efficiency gap. Notice here that a 0 percent efficiency gap corresponds to an independent notion of fairness: Namely, with voters across the state evenly split between both parties, it seems reasonable that each party would win half of the elections.
+
+These elementary examples demonstrate the utility of the efficiency gap as a measure of electoral fairness. It’s easy to understand and compute, it’s transparent, and its interpretations are consistent with other notions of fairness. It’s a simple idea, but one that is being used in a variety of complex ways to study gerrymandering. For example, mathematicians are now using simulations to consider millions of theoretical electoral maps for a given state and then examining the distribution of all possible efficiency gaps. Not only does this create a context for evaluating the fairness of a current map against other possibilities, it can also potentially be used to suggest fairer alternatives.
+
+Though voters are not actually assigned to districts in the way we have imagined in our examples, the practice of gerrymandering achieves similar results. By strategically redrawing district boundaries, gerrymanderers can engineer voting distributions to create an uneven electoral playing field. These unfair fights affect how we are governed and help majority-party incumbents coast to re-election term after term. The case before the Supreme Court involves just one of many potentially unfair maps. Objective mathematical tools like the efficiency gap may be the only way to root out gerrymandering and keep our political battlefields in balance.
+
+Download the “Doing the Political Math” PDF worksheet to practice these concepts or to share with students.

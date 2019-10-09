@@ -1,0 +1,14 @@
+HSR Abstract
+< ABSTRACT LIST VOLUME 44 | NUMBER 4 | AUGUST 2009
+
+Health Insurance Coverage and Mortality Revisited
+
+Objective. To improve understanding of the relationship between lack of insurance and risk of subsequent mortality.
+
+Data Sources. Adults who reported being uninsured or privately insured in the National Health Interview Survey from 1986 to 2000 were followed prospectively for mortality from initial interview through 2002. Baseline information was obtained on 672,526 respondents, age 18–64 at the time of the interview. Follow-up information on vital status was obtained for 643,001 (96 percent) of these respondents, with approximately 5.4 million person-years of follow-up.
+
+Study Design. Relationships between insurance status and subsequent mortality are examined using Cox proportional hazard survival analysis.
+
+Principal Findings. Adjusted for demographic, health status, and health behavior characteristics, the risk of subsequent mortality is no different for uninsured respondents than for those covered by employer-sponsored group insurance at baseline (hazard ratio 1.03, 95 percent confidence interval [CI], 0.95–1.12). Omitting health status as a control variable increases the estimated hazard ratio to 1.10 (95 percent CI, 1.03–1.19). Also omitting smoking status and body mass index increases the hazard ratio to 1.20 (95 percent CI, 1.15–1.24). The estimated association between lack of insurance and mortality is not larger among disadvantaged subgroups; when the analysis is restricted to amenable causes of death; when the follow-up period is shortened (to increase the likelihood of comparing the continuously insured and continuously uninsured); and does not change after people turn 65 and gain Medicare coverage.
+
+Conclusions. The Institute of Medicine's estimate that lack of insurance leads to 18,000 excess deaths each year is almost certainly incorrect. It is not possible to draw firm causal inferences from the results of observational analyses, but there is little evidence to suggest that extending insurance coverage to all adults would have a large effect on the number of deaths in the United States.

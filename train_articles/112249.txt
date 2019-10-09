@@ -1,0 +1,230 @@
+Mortality trends and differentials in South Africa from 1997 to 2012: second National Burden of Disease Study
+This study shows the reversal of HIV/AIDS, non-communicable disease, and injury mortality trends in South Africa during the study period. Mortality differentials show the importance of social determinants, raise concerns about the quality of health services, and provide relevant information to policy makers for addressing inequalities. Differences between GBD estimates for South Africa and this study emphasise the need for more careful calibration of global models with local data.
+
+All-cause age-standardised death rates increased rapidly since 1997, peaked in 2006 and then declined, driven by changes in HIV/AIDS. Mortality from tuberculosis, non-communicable diseases, and injuries decreased slightly. In 2012, HIV/AIDS caused the most deaths (29·1%) followed by cerebrovascular disease (7·5%) and lower respiratory infections (4·9%). All-cause age-standardised death rates were 1·7 times higher in the province with the highest death rate compared to the province with the lowest death rate, 2·2 times higher in black Africans compared to whites, and 1·4 times higher in males compared with females. Comparison with the IHME GBD estimates for South Africa revealed substantial differences for estimated deaths from all causes, particularly HIV/AIDS and interpersonal violence.
+
+We used underlying cause of death data from death notifications for 1997–2012 obtained from Statistics South Africa. These data were adjusted for completeness using indirect demographic techniques for adults and comparison with survey and census estimates for child mortality. A regression approach was used to estimate misclassified HIV/AIDS deaths and so-called garbage codes were proportionally redistributed by age, sex, and population group population group (black African, Indian or Asian descent, white [European descent], and coloured [of mixed ancestry according to the preceding categories]). Injury deaths were estimated from additional data sources. Age-standardised death rates were calculated with mid-year population estimates and the WHO age standard. Institute of Health Metrics and Evaluation Global Burden of Disease (IHME GBD) estimates for South Africa were obtained from the IHME GHDx website for comparison.
+
+The poor health of South Africans is known to be associated with a quadruple disease burden. In the second National Burden of Disease (NBD) study, we aimed to analyse cause of death data for 1997–2012 and develop national, population group, and provincial estimates of the levels and causes of mortality.
+
+Countries should continue to improve cause of death data and make use of burden of disease approaches to track population health. Variations in mortality levels and profiles reflect health inequalities and emphasise the need for health planning and resource allocation to be at subnational level. Future research should focus on methods that can provide subnational estimates including uncertainty levels.
+
+Our study has used local data to develop estimates that confront the data deficiencies in the vital registration data from Statistics South Africa and has highlighted the start of the reversal of several epidemics. Nonetheless, HIV/AIDS continues to be the main cause of mortality, and we report substantial mortality burden from non-communicable diseases, including increases in diabetes and renal disease. Although the burden from some forms of injuries has reduced, we report no change in mortality from infectious diseases, such as respiratory diseases, septicaemia, or neonatal causes.
+
+The first National Burden of Disease Study for South Africa, conducted for the year 2000 and undertaken by researchers from the South African Medical Research Council, showed a unique quadruple burden of disease for the country. Before using national burden of disease methods in South Africa, policy makers in the country had access to cause of death statistics that could not be used at face value because of data deficiencies or country estimates on the basis of global models produced by WHO and IHME. To our knowledge, no other National Burden of Disease Studies have been undertaken for South Africa.
+
+The South African Government is moving towards national health insurance to provide accessible, quality health care to all.Understanding the disease burden nationally and subnationally is crucial to identify priorities and monitor changes and differentials in health status. Although improvements in the quality of vital registration data have occurred, these data are not complete and cause of death information is problematicwith a high proportion of so-called garbagecauses (causes considered not to be an acceptable underlying cause of death—eg, headache, coughing), misclassification of HIV/AIDS deaths, little information about external causes of non-natural deaths, non-medical certification of deaths by rural headmen, and poor content validity.In this, the second National Burden of Disease (NBD) study, we describe the trends in mortality during a 16-year period and estimate deaths by specific causes and years of life lost to premature mortality nationally and provincially, after adjusting for these data inadequacies. Additionally, we analyse trends by apartheid-defined population groups to describe differentials in health status.
+
+Improving the quality of medical certification of cause of death: the time is now!.
+
+Although the beginning of democracy in 1994 led to efforts to build a society with racial equality, post-apartheid macroeconomic policies have focused more on economic growth than on wealth inequality.The 2012 update of the Lancet Seriesacknowledged improved access to water, sanitation, and electricity, and increased provision of social grantsbut noted the large racial differentials in social determinants of health. The health service faces considerable challenges, including inefficiencies and inequities.More than half of the country's health-care financing, and more than 70% of the country's doctors are employed in the private sector, serving about 20% of the population.
+
+South Africa has poor health outcomes given its level of economic development.Despite being an upper-middle-income country,South Africa has high mortality levels resulting from a unique quadruple disease burden, described in the first National Burden of Disease study in 2000.The 2009 Lancet Series on Health in South Africaascribed the poor health status to the country's history of colonialism and apartheid, which resulted in every aspect of life being racially segregated, exploitation of the working class, high poverty and unemployment, and extreme wealth inequalities.
+
+The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. VP-vW, DB, WM, RL, and TG had access to the database used to derive the estimates. The corresponding author had final responsibility to submit the manuscript for publication.
+
+Ethics approval was not required for secondary analysis of Statistics South Africa data or aggregate data from the National Injury Mortality Surveillance System; primary data analysis of Injury Mortality Survey data was approved by the South African Medical Research Council's ethics committee (EC005-5/2011).
+
+Finally, we compared our findings with those generated by the GBD 2013 study for South Africa.GBD data were obtained from the IHME GHDx website
+
+Garbage causes of death were proportionally redistributed by age, sex, and population group to specified causes.Trends in age-standardised death rates for the country's nine provinces and four population groups were calculated using mid-year population estimates generated by Dorringtonand the 2001 WHO age standard.Population group analysis was not done for years before 2000 because of limited reporting in this period.
+
+The Injury Mortality Survey,a national survey of Forensic Pathology Service mortuaries, provided an estimate of non-natural deaths in 2009 according to an ICD-compatible shortlist that was mapped to the NBD list. Completeness of registration of injury deaths in the vital statistics was assessed against the survey estimate for that year. For all other years, a scaling factor was calculated by assuming that the percentage change in non-natural deaths and the all-cause completeness was the same relative to 2009. Having estimated the annual numbers of injury deaths, the 2009 Injury Mortality Surveyand the 2000/2001 National Injury Mortality Surveillance Systemwere used to estimate trends in the external cause profiles according to five common injury categories (“homicide with a firearm”, “homicide without a firearm”, “suicide'”, “transport'”, and “other unintentional”) using with linear interpolation.A multinomial logistic regression model was applied to the 2009 Injury Mortality Survey data by age, sex, province, and population group, to smooth out sampling fluctuations in the cause fractions. The 2000/2001 National Injury Mortality Surveillance System data was apportioned by province and population group based on the 2009 Injury Mortality Survey data after adjusting for demographic changes. Further breakdown of injury categories was done with the 2009 profile.
+
+Most HIV/AIDS deaths in South Africa have been misclassified as AIDS indicator causes (eg, tuberculosis) because of medical doctors' reluctance to report HIV on the death certificate or possibly because of not knowing the HIV status of the deceased.Therefore, a new method, regressing the cause-specific mortality in excess of projected non-HIV/AIDS mortality on antenatal HIV prevalence a number of years before the deaths (ie, 5 years for adults, 2 years for children aged 1–4 years, and 1 year for infants), was used to estimate and reallocate the misclassified HIV/AIDS deaths.
+
+DBradshawWMsemburiRDorringtonVPillay-van WykRLaubscherPGroenewald for the SANBD team HIV/AIDS in South Africa: how many people died from the disease between 1997 and 2010?.
+
+Completeness of reporting of deaths in children younger than 5 years was estimated by comparing uncorrected rates with rates derived from census and survey data, constraining the trend in completeness of reporting to be monotonically increasing over time.Completeness was estimated for adults with death distribution methodsand for adolescents by interpolating between the child and adult estimates. Provincial estimates were rebalanced to ensure that for each sex the sum of the deaths in the provinces, allowing for changes to the provincial boundaries during the study period, was the same as the estimate for the country as a whole. More detail about the estimation of completeness can be found in the technical report on the cleaning and validation of the data.
+
+*40 884 deaths with missing data for age and 25 854 with missing data for sex for 1997–2012 and 1 691 793 with missing data for population group for 2000–2012.
+
+The data were categorised according to apartheid defined (racial) population groups (black African, Indian or Asian descent, white [European descent], and coloured [of mixed ancestry according to the preceding categories]). After excluding stillbirths (n=211 111), deaths that occurred outside the country (n=7745), individuals with unknown (n=3484) or unspecified (n=6447) province information, and population groups other than those listed above (n=11 551), the remaining data (n=8 099 883) were cleaned and adjusted for missing information, under-registration, misclassification of HIV/AIDS deaths, insufficiently reported injury deaths, and deaths attributed to ill-defined causes. The data were first assessed for completeness of registration and quality. Figure 1 summarises the data sources used and the data adjustments done to generate the number of deaths.
+
+The base information was the Statistics South Africa underlying cause of death datafrom death notifications for 1997–2012 including the late registrations (ie, deaths from earlier years that were processed in a particular year). Statistics South Africa manually codes the causes to the 10th version of the International Classification of Diseases (ICD-10) and undertakes automated selection of underlying cause of death according to ICD rules.
+
+The South African NBD team with local and international experts revised the 2000 NBD list to reflect local cause-of-death patterns. This list differs from the Global Burden of Disease (GBD) list.The main difference is the level of aggregation of ICD-10 codes,resulting in 140 causes ( appendix ) compared with 107 causes in the GBD 1992 studyand 235 in the Institute of Health Metrics and Evaluation (IHME) GBD 2010 study.Another difference is the inclusion of septicaemia (because of the large number of deaths attributed to this cause), even though it is not a valid underlying cause of death as defined by Lozano and colleagues.Causes are grouped into 24 categories. Although the GBD group reports three broad cause groups—namely, communicable diseases, maternal causes, perinatal conditions, and nutritional deficiencies; non-communicable diseases, including cardiovascular diseases and cancers; and injuries, this study reports four broad causes—namely, HIV/AIDS and tuberculosis; other communicable diseases with perinatal conditions, maternal causes, and nutritional deficiencies; non-communicable diseases; and injuries. HIV/AIDS and tuberculosis is introduced as a fourth group because of the size of the burden and the need to integrate HIV/AIDS and tuberculosis programmes.
+
+Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010.
+
+Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010.
+
+For 2010, the GBD 2013 studyestimated substantially more deaths for diabetes (25·8%) and lower respiratory infections (20·5%) and fewer deaths for road injuries (40·0%), interpersonal violence (34·4%), and cerebrovascular disease (22·1%) than our study ( figure 9 ). Comparison of our 2012 estimates with GBD's 2013 estimates (2012 estimates were not available on the IHME website for the GBD 2013 study) showed that the GBD study estimated substantially more deaths for HIV/AIDS (39·5%), and fewer deaths for interpersonal violence (48·6%), hypertensive heart disease (45·7%), tuberculosis (28·9%), and cerebrovascular disease (25·3%).
+
+Data are n (%), unless otherwise specified. Percentages of deaths are calculated with total deaths in that population as the denominator. COPD=chronic obstructive pulmonary disease. GBD=Global Burden of Disease. NBD=National Burden of disease. *Data from the GBD study 2013.† Percentage difference=(percentage of deaths according to NBD–percentage of deaths according to GBD)/percentage of deaths according to NBD × 100.‡11 919 deaths were reported as hypertensive heart disease in the 2013 for South Africa from the GBD 2013 study; 1·7% of total deaths. with a percentage difference between South Africa NBD and GBD South Africa of 50%. §Data for 2012 for South Africa from the GBD 2013 study was not available on the Institute for Health Metrics and Evaluation website.
+
+HIV/AIDS was the leading cause of premature mortality in all nine provinces; however, the provinces have unique profiles that reflect the various states of health transition ( figure 8 ). For example, cerebrovascular disease was the second leading cause of premature mortality in the KwaZulu-Natal and North West provinces, whereas lower respiratory infections were second for the Free State and Limpopo provinces. The total deaths and age-standardised death rates for 2000, 2005, 2010, and 2012 for single causes of death are reported in the appendix for each province.
+
+COPD=chronic obstructive pulmonary disease. Numbers in parentheses are proportions of years of life lost in each province resulting from that specified cause of death.
+
+In terms of provinces, in 2012, Western Cape had the lowest age-standardised death rates and KwaZulu-Natal the highest, 1·7 times higher than that of Western Cape. Some provinces, Western Cape (970 vs 938 per 100 000 population), Northern Cape (1374 vs 1290 per 100 000 population), Mpumalanga (1347 vs 1329 per 100 000 population), Eastern Cape (1584 vs 1382 per 100 000 population), and Free State (1443 vs 1427 per 100 000 population) showed a decrease in age-standardised death rates from 1997 to 2012 ( figure 7 ). All provinces showed a decrease in age-standardised death rates since 2005.
+
+Differences in the leading cause of death by population group are shown in figure 6 . Tuberculosis and interpersonal violence do not feature for whites, being replaced by cancers and other chronic diseases. Other population group-specific differences were that Indians or Asians and whites have renal disease in the top ten causes of death, while black Africans have diarrhoeal disease in the top ten causes of death. Diabetes was not in the top ten causes for whites in 2000 or 2012, but accounted for the largest increase (38·1%) in age-standardised death rates for black Africans between 2000 and 2012, a 40·8% decrease for Indians or Asians, and a 12·4% decrease coloureds. The total deaths and age-standardised death rates for 2000, 2005, 2010, and 2012 for single causes of death by population group are reported in the appendix
+
+Data are n (%), unless otherwise specified. Population group analysis was only performed for years 2000 onwards because of poor reporting in the years before 2000. *Percentage change in age-standardised death rate for specific cause =([age-standardised death rate for specific cause in 1997–age-standardised death rate for specific cause in 2012]/age-standardised death rate in 1997 × 100) × –1. † Percentages of deaths and years of life lost in each population group are calculated with total deaths in that population group as the denominator. ‡Age-standardised death rate from Alzheimer's disease in whites in 2000 was 11·9 per 100 000 population. §Age-standardised death rate from trachea/bronchi/lung disease in Indians in 2000 was 21·7 per 100 000 population. ¶Age-standardised death rate from lower respiratory infections in Indians in 2000 was 24·3 per 100 000 population. Slight discrepancies in the estimated numbers and proportions can be observed as a result of rounding. For example, the total of the population group estimates compared with the person estimates might differ.
+
+Considerable subnational mortality differences were reported ( figure 5 ). The trend in the percentage of deaths due to the four broad cause groups within each population group for 2000–12 illustrated the disproportionate burden of HIV/AIDS, with black Africans most substantially affected. In 2012, about 80% of deaths in Indians or Asians and whites were attributed to non-communicable diseases, about 61% for coloureds, and about 37% for black Africans.
+
+Population group analysis was only performed for years 2000 onwards because of poor reporting in the years before 2000
+
+HIV/AIDS contributed 18·8% of total years of life lost in 1997, and 35·7% in 2012. The proportion of years of life lost was higher in males than in females for both 1997 and 2012. Compared with the ranking based on the number of deaths, interpersonal violence, road injuries, tuberculosis, and diarrhoeal disease ranked higher when considering years of life lost, whereas ischaemic and hypertensive heart disease and diabetes ranked lower. The number of deaths and age-standardised death rates for 1997, 2000, 2005, 2010, and 2012 for single causes are reported in the appendix
+
+The top ten causes of death ( figure 4 ) have not changed from 1997 to 2012, although rates and rankings have changed. HIV/AIDS remains the leading cause of death for males and females, accounting for 14·5% of deaths in 1997 and 29·1% in 2012. The age-standardised death rates for HIV/AIDS increased by 120·1%. Cerebrovascular disease remained the second leading cause of death, accounting for 7·6% of deaths in 1997 and 7·5% of deaths in 2012 ( figure 4 ). Interpersonal violence moved from third (7·3%) in 1997 to eighth (3·5%) in 2012, with a 52·0% decrease in age-standardised death rates during this time. Diabetes moved from tenth (2·7%) in 1997 to sixth (3·6%) in 2012, with a 29·3% increase in age-standardised death rates. In 2012, interpersonal violence featured in the top ten causes of death for males but not for females; hypertensive heart disease featured in the top ten causes for females but not males. Among males, the age-standardised death rates for interpersonal violence decreased by 52·4% from 1997 to 2012 (129 vs 61 per 100 000 population), whereas diabetes increased by 40·7% (36 vs 51 per 100 000 population). Among females, the age-standardised death rates for diabetes increased by 22·6% (42 to 52 per 100 000 population), and renal disease by 38·3% (21 to 29 per 100 000 population).
+
+Data are n (%), unless otherwise specified. COPD=chronic obstructive pulmonary disease. *Percentage change in age-standardised death rate for specific cause=([age-standardised death rate for specific cause in 1997–age-standardised death rate for specific cause in 2012]/age-standardised death rate in 1997 × 100) × –1. † Percentages of deaths and years of life lost in males and females are calculated with total male deaths and total female deaths as the denominators, respectively. ‡Age-standardised death rate from diabetes in males in 1997 was 35·9 per 100 000 population. §Age- standardised death rate from renal disease in males in 1997 was 27·3 per 100 000 population. ¶Age-standardised death rate from renal disease in females in 1997 was 20·9 per 100 000 population. Slight discrepancies in the estimated numbers and proportions can be observed as a result of rounding. For example, the total of the male and female estimates compared with the person estimates might differ.
+
+Top ten causes of death, years of life lost and age-standardised death rates by persons and sex for South Africa, 1997 and 2012
+
+Figure 4 Top ten causes of death, years of life lost and age-standardised death rates by persons and sex for South Africa, 1997 and 2012
+
+A substantial decrease in infant deaths particularly from HIV/AIDS and tuberculosis since 2005, a noticeable increase in HIV/AIDS and tuberculosis deaths in young adults up to 2005, and an increase in deaths from non-communicable diseases at the older ages was observed ( figure 3 ). Deaths from injuries mainly affected young adults.
+
+We estimated that total deaths rose from 416 209 in 1997, peaked at 677 078 in 2006, and declined to 528 946 in 2012. In 2012, 43·4% of the deaths were attributed to non-communicable diseases, 33·6% to HIV/AIDS and tuberculosis, 13·5% to other communicable diseases, perinatal conditions, maternal causes, and nutritional deficiencies, and 9·6% to injuries. The all-cause age-standardised death rates increased from 1215 per 100 000 population in 1997 to peak at 1670 per 100 000 population in 2006 and declined to 1232 per 100 000 population in 2012. Deaths from HIV/AIDS and tuberculosis increased rapidly between 1997 and 2006 then declined, whereas the non-communicable disease deaths increased steadily and deaths from injuries declined slightly ( figure 2 ). Similar trends were observed for broad cause age-standardised death rates ( figure 2 ), with the exception of age-standardised death rates for non-communicable diseases, which increased slightly until 2003 then decreased slightly.
+
+Discussion
+
+4 Bradshaw D
+
+Groenewald P
+
+Laubscher R
+
+et al. Initial burden of disease estimates for South Africa, 2000. 7 Mayosi BM
+
+Lawn JE
+
+van Niekerk A
+
+Bradshaw D
+
+Abdool Karim SS
+
+Coovadia HM BMMayosiJELawnAvan NiekerkDBradshawSSAbdool KarimHMCoovadia Lancet South Africa team Health in South Africa: changes and challenges since 2009. The second NBD study for South Africa has generated trends in causes of death derived from empirical country-specific data. These trends show the persistence of the quadruple disease burden due to continued high levels of HIV/AIDS and tuberculosis; other communicable diseases, perinatal conditions, maternal causes, and nutritional deficiencies; non-communicable diseases; and injuries identified by the initial 2000 study.This study also reveals the reversal of three epidemics (HIV and tuberculosis, non-communicable diseases, and injuries) with little change in communicable diseases (other than HIV and tuberculosis), perinatal conditions, maternal causes, and nutritional deficiencies, and extends and strengthens the emerging trends reported in the 2012 Lancet Series update for South Africa.
+
+30 Larson E
+
+O'Bra H
+
+Brown JW
+
+Mbengashe T
+
+Klausner JD Supporting the massive scale-up of antiretroviral therapy: the evolution of PEPFAR-supported treatment facilities in South Africa, 2005–2009. 31 Pillay Y
+
+Mametja D
+
+Mbengashe T
+
+et al. 32 Johnson L Access to antiretroviral treatment in South Africa, 2004–2011. 33 Goga A
+
+Dinh TH
+
+Jackson D AGogaTHDinhDJackson SAPMTCTE study group We report a marked decline in HIV/AIDS and tuberculosis mortality since 2006, which can be attributed to the intensified antiretroviral treatment rollout for adults since 2005.According to the National Department of Health, more than 2 million people received antiretroviral therapy in 2012versus an estimated 47 500 in 2004.The rollout of the prevention of mother-to-child transmission programme since 2002 has reduced infections and hence deaths in infants.
+
+34 UN A new global partnership: eradicate poverty and transform economies through sustainable development. The report of the high-level panel of eminent persons on the post-2015 development agenda. 35 WHO , 36 UNAIDS AIDSINFO website. However, HIV/AIDS remains a major concern, accounting for almost half of all premature mortality. Treatment provision should be sustained and prevention strategies strengthened if South Africa is to move towards the Sustainable Development Goal (SDG) of ending this epidemics by 2030.South Africa has one of the highest HIV and tuberculosis incidence rates in the world, highlighting the major challenge that the country still faces.
+
+37 Reddy P
+
+James S
+
+Sewpaul R
+
+et al. A decade of tobacco control: the South African case of politics, health policy, health promotion and behaviour change. 38 National Department of Health Strategic plan for the prevention and control of non-communicable disease 2013–17. 39 Mashinya F
+
+Alberts M
+
+Van Geertruyden J-P
+
+Colebunders R Assessment of cardiovascular risk factors in people with HIV infection treated with ART in rural South Africa: a cross sectional study. Our study also shows that there was a gradual decline in the death rates because of injuries and, since 2003, a decline in non-communicable diseases. The latter decline is partly associated with a decrease in tobacco-related conditions, such as ischaemic heart disease, chronic obstructive pulmonary disease (COPD), and lung cancer, probably because of tobacco-control efforts.The substantial burden of non-communicable diseases, particularly cardiovascular diseases and diabetes, COPD and cancers, together with the ageing and growing population, emphasises the need to implement the national non-communicable disease strategic plan.This plan focuses attention on primary prevention and the management of the high burden of non-communicable diseases and their risk factors. Recent studies point to the changing cardiovascular disease risk profile associated with antiretroviral therapy;therefore integrated management is essential.
+
+25 Matzopoulos R
+
+Prinsloo M
+
+Pillay-van Wyk V
+
+et al. Injury-related mortality in South Africa: a retrospective descriptive study of postmortem investigations. 40 Matzopoulos RG
+
+Thompson ML
+
+Myers JE Firearm and nonfirearm homicide in 5 South African cities: a retrospective population-based study. 41 Abrahams N
+
+Mathews S
+
+Martin LJ
+
+Lombard C
+
+Jewkes R Intimate Partner Femicide in South Africa in 1999 and 2009. 42 Matzopoulos R
+
+Myers JE
+
+Butchart A
+
+Corrigall J
+
+Peden M
+
+Naledi T Reducing the burden of injury: an intersectoral preventive approach is needed. The decline in overall injury death rates can be attributed largely to a decrease in deaths from interpersonal violence (homicide) between 1997 and 2012 (50·0% change in age-standardised death rates). The decrease in firearm homicidehas been attributed to the introduction of the Fire Arms Control Act of 2000and political stabilisation post-apartheid probably contributed to the general decrease in interpersonal violence. Nonetheless, these rates remain high with a heavy toll on young males. Intimate-partner femicide is also a problem.Multisectoral initiativesare needed to address violence and other injuries, particularly traffic accidents.
+
+43 Dorrington RE
+
+Bradshaw D
+
+Laubscher R 44 Chola L
+
+Fadnes LT
+
+Engebretsen IMS
+
+Tumwine JK
+
+Tylleskar T
+
+Robberstad B Infant feeding survival and Markov transition probabilities among children under age 6 months in Uganda. Unchanged mortality rates for communicable diseases (other than HIV and tuberculosis), perinatal conditions, maternal causes, and nutritional deficiencies reflect poor progress in dealing with infectious conditions, such as lower respiratory infections, diarrhoeal diseases, and septicaemia despite such deaths being preventable or treatable. Although gains have been made in maternal and child mortality,South Africa will probably carry an unfinished agenda as it moves into the era of the SDGs. Although progress has been made in reducing the effect of HIV/AIDS in children, addressing the other causes of death becomes important to ensure a continued decrease in child mortality. Modelling the effect of interventions known to be effective from 2010 onwardshowed the need to expand their coverage, especially exclusive breast feeding and handwashing. Integration of quality maternal and neonatal care is a key requirement to further reduce neonatal mortality rates. Furthermore, improvement in living conditions is needed to address child mortality across all ages.
+
+Population group differentials reflect the legacy of apartheid and the stage of health transition of the groups. Black Africans and coloureds are faced with the quadruple burden of disease while profiles for Indians or Asians and whites are dominated by non-communicable diseases. The effect of HIV/AIDS and tuberculosis has been greatest in black Africans, exacerbating mortality differentials. In 2012, age-standardised death rates for black Africans were 2·2 times higher than for whites (1388 vs 631 per 100 000 population).
+
+Different rankings and mortality burdens were observed for provinces. Review of socioeconomic, health, and demographic indicators ( appendix ) reveals that provincial rankings of all-cause mortality cannot be explained by any single indicator. The low age-standardised death rates for Limpopo are unexpected and difficult to explain. The differences highlight the need for subnational mortality estimates and for each province to identify their burden before planning priorities and resource allocation. The ranking of causes according to premature mortality ( figure 8 ) should go some way to help provinces identify priority activities for health promotion and disease prevention.
+
+Our study encountered several challenges. Limited data resulted in us estimating the injury cause of death profile at two timepoints and extrapolating the trend over time from these. Annual variations in injury deaths have probably been attenuated. We noticed age misreporting in the deaths after 2000, suggesting that a small proportion of child deaths were misreported as old-age deaths. Unexplained changes in the number of deaths have been noted in the data since 2011 and these might account for a slightly exaggerated decline in death rates, especially in Free State and Eastern Cape. Uncertainty about our estimates has not been quantified in this study, nor have we undertaken a sensitivity analysis. For the study period, 18% of deaths were from under-registration, 14% from garbage causes, and 13% were ill-defined, with 17% of deaths (excluding HIV/AIDS deaths misclassified as tuberculosis deaths) reallocated to HIV/AIDS ( appendix ). Imputation of population group was necessary for a high proportion of deaths (24%). Our estimates have a margin of error and future research should explore Bayesian regression approaches to quantify all forms of uncertainty for these estimates.
+
+45 Pillay-van Wyk V
+
+Bradshaw D
+
+Msemburi W
+
+et al. Mortality trends for South Africa 1997–2009. 46 The JAMA Network Modelled estimates of HIV Incidence, prevalence, and mortality worldwide and in 188 countries, 1990–2013. 20 Statistics South Africa (Stats SA) , 43 Dorrington RE
+
+Bradshaw D
+
+Laubscher R 24 Bradshaw D
+
+Msemburi W
+
+Dorrington R
+
+Pillay-van Wyk V
+
+Laubscher R
+
+Groenewald P DBradshawWMsemburiRDorringtonVPillay-van WykRLaubscherPGroenewald for the SANBD team HIV/AIDS in South Africa: how many people died from the disease between 1997 and 2010?. , 47 Johnson L THEMBISA version 1.0: a model for evaluating the impact of HIV/AIDS in South Africa. Centre for Infectious Disease Epidemiology and Research, University of Cape Town. 48 Nojilana B
+
+Brewer L
+
+Bradshaw D
+
+Groenewald P
+
+Burger EH
+
+Levitt NS Certification of diabetes-related mortality: the need for an international guideline. 47 Johnson L THEMBISA version 1.0: a model for evaluating the impact of HIV/AIDS in South Africa. Centre for Infectious Disease Epidemiology and Research, University of Cape Town. Collaboration between IHME GBD team and the South Africa NBD team on mortality estimates for South Africa resulted in the number of all-cause deaths by age and sex having a less divergent age-sex pattern for deaths than the initial IHME GBD estimates for 2010.However the IHME GBD 2013 study estimates a substantially higher number of HIV/AIDS deaths, which follows an unsubstantiated time trend that reached a peak in 2010/2011.By contrast, our estimates peaked in 2006, following the strong signal from all-cause death data from vital registration,and is consistent with the THEMBISA model of the HIV epidemic and treatment programme in South Africa.Additionally, GBD deaths from injuries, hypertensive heart disease, tuberculosis, and diarrhoeal disease are lower than our estimates. Our higher estimate of cerebrovascular disease deaths arises from our decision to reallocate deaths where diabetes was reported with cerebrovascular disease and ischaemic heart disease as the immediate cause of death to cerebrovascular disease to bring it in line with international certification practices.The IHME GBD studies aim to use a consistent statistical approach to generate estimates for all countries. The strength of the GBD study also has the disadvantage that the multicountry modelling restricts the use of local information and insights. Despite extensive modelling work on the HIV epidemic in South Africa,for example, the constraints of the global model has not allowed for the incorporation of the insights from the model. Furthermore, trends from other countries might have affected estimates for South Africa.
+
+19 Lozano R
+
+Naghavi M
+
+Foreman K
+
+et al. Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010. Lozano and colleagues suggest that “cause-specific mortality is arguably one of the most fundamental metrics of population health”.Our study shows that during the study period a major increase in mortality from HIV/AIDS occurred and this trend reversed but no change was reported in the top ten causes of death. The quadruple burden of disease still prevails. Subnational variations reflect health inequalities, and disease profiles indicate that population groups and provinces are at different health transition stages. Subnational estimates should therefore be used to guide resource allocation towards equity and to address local disease burdens. This study has shown the importance of local researchers undertaking a national burden of disease study with a bottom-up approach. However observed differences between the South Africa NBD study and the IHME GBD study could not be resolved by IHME because of the restrictions of their global and regional modelling approaches.

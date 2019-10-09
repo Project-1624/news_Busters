@@ -1,0 +1,86 @@
+‘I Lived a Nightmare:’ SIM Hijacking Victims Share Their Stories
+Image: Shutterstock
+
+Last year, hackers found a bug that allowed them to access some personal information on any T-Mobile customer. The bug was so well known in the criminal underground that someone made a tutorial on how to exploit it on YouTube.
+
+The bug itself didn’t expose anything too sensitive. No passwords, social security numbers, or credit card data was exposed. But it did expose customers’ email addresses, their billing account numbers, and the phone’s IMSI numbers, standardized unique number that identifies subscribers. Just by knowing (or guessing) customer’s phone numbers, hackers could get their target’s data.
+
+Read more: The Motherboard Guide to Not Getting Hacked
+
+Once they had that, they could impersonate them with T-Mobile’s customer support staff and steal their phone numbers. This is how it works: a criminal calls T-Mobile, pretends to be you, convinces the customer rep to issue a new SIM card for your number, the criminal activates it, and they take control of your number.
+
+Phone numbers are increasingly the password recovery option for forgotten passwords, so when attackers take control of a phone number they can then hack into the victim’s bank, social media, and email accounts.
+
+None of these are theoretical scenarios. Ever since we revealed the bug and helped get it fixed, roughly two dozen victims reached out to share their stories. And just last month, T-Mobile began the process of alerting all customers that fraudsters are trying to hijack their SIM cards and phone numbers.
+
+Have you been a victim of this type of hack? You can contact this reporter securely on Signal at +1 917 257 1382, OTR chat at lorenzo@jabber.ccc.de, or email lorenzo@motherboard.tv
+
+To show how damaging and hurtful these hacks can be, we’re sharing some of the most harrowing stories that victims shared with us. The stories have been edited for length and clarity and have not been independently verified by Motherboard.
+
+Tina Herrera
+
+This just happened to me over the weekend. I lost service late Saturday night and assumed it was an issue with my always buggy iPhone. Then on Sunday morning my husband got a text from T-Mobile saying that a line on our phone plan had been cancelled (mine) and i soon discovered that $1200 had wired out of my bank account to someone in [redacted] with my same last name.
+
+I have my phone number back and am getting reimbursed in the next few days. But, T-Mobile was disturbingly casual about all of this, playing dumb about how the port out could have happened even though there’s clearly been evidence of the hacks for the past 6 months. We’re still waiting for a customer service supervisor to get back to us and give us any answers.
+
+Fanis Poulinakis
+
+Today I lived a nightmare.
+
+My phone all of the sudden stopped working - I tried to contact T-Mobile through twitter—no phone right?—It took them an hour to let me know that someone must have transferred my number to another carrier and they asked me to call my bank to let them know.
+
+I immediately log in on my bank account and voila! $2,000 were gone.
+
+I've spent the whole day between T-Mobile, Chase Bank and trying to understand what happened. What a nightmare.
+
+[...] It is unbelievable—and i think it's also a negligence from T-Mobile's side that they don't make it mandatory to have a password connected to the phone number rather than the social number. [...] It's the first time I'm realizing how vulnerable our information is.
+
+Anonymous Victim 1
+
+I am currently being affected by this. I've tried getting this resolved with T-Mobile, which has not been helpful. Yesterday, I went to a T-Mobile store with ID to prove my identity, but the hacker had already blocked the T-Mobile account. And, because I am not the account holder, just an authorized user, they will not give me information.
+
+[...] The thief has been able to hack into my AOL email at least 3 times since Sunday, by having the 2fa calls answered on another device. I just recently got a new iPhone X. The thief was also able to successfully request a replacement AmEx card be sent to [redacted] by placing outgoing calls to AmEx.
+
+Thomas Ciccarelli
+
+I was targeted multiple times today.
+
+I was alerted this morning about someone trying to access my sim. I told the rep to lock my account and not allow anything unless I am physically present in the store. 4 hours later my phone is alerted with a "No network available" message. I knew the hacker got through.
+
+[...] they pretended to be a T-Mobile employee and got access to my sim. They said they didn't have a record of who gave them access but said they only had it for about 3-7 mins. I started to getting alerts on all my email accounts that my passwords have been changed. It took about an hour to regain control of everything but I am panicked. I am unsure what they were able to grab and I find it completely irresponsible of T-Mobile to allow such a sensitive piece of information to be given out even with a lock on my account. I am unsure who to talk to and currently just sitting staring at my email and bank accounts waiting for disaster. This is a huge issue that needs to be looked at. Everything revolves around our phones and this company needs to be responsible with the power they hold over our lives.
+
+Barry W.
+
+I actually got hit by that back in November on the Veteran’s Day holiday. Not only did they port my number out but they hijacked one of my credit accounts and applied for a credit card. They got a $20k account approved and proceeded to go on a Google Pay shopping spree. Luckily all charges were declined but this was all due to T-Mobile’s lack of security on the account.
+
+[...] I was pretty disappointed in T-Mobile’s lack of protection of their customers. I had to go through 7 Tiers of their Help Desk before someone actually got the ball rolling to recover my account. I am pretty sure that the first 6 Tiers were overseas due to the fact it was difficult to understand the tech.
+
+Heather Thomas
+
+Happened to me same exact way two weeks ago. Except mine came via a text message that looked it came from T-Mobile. It came from 611. My husband had just got a new phone the night before and the text said to click the link to confirm the new plan. Of course I clicked the link and all of sudden my phone stopped working! About twenty minutes later I got an email from Wells Fargo Zelle confirming my wire transfers of two two thousand dollar transfers!
+
+I called Wells Fargo first to try and stop but it was too late! It’s been two weeks and I have yet to get my money back!
+
+Meghan Clifford
+
+This happened to me. I lost $5200 in total, $1999 from one account, $2500 from another and $600 in credit card points redeemed for cash. I still haven't gotten my number back and have spent countless hours closing and reopening all my bank accounts, filling a police report, dealing with banks, credit card companies and TMobile. I've had to pay interest on my credit card as all my funds were frozen from Jan 9 to Jan 25th and I'm pretty sure I'll get some check return fees because I didn't change my transfer account for my auto debits in time.
+
+The best part was TMobile sent me a bill and charged me for ending my service and porting out my number. Are you kidding me?!?!
+
+Anonymous Victim 2
+
+My T-mobile number was hijacked yesterday. As a result, $4,000 was stolen from my Chase account over two days. Both companies responded quickly to help me remedy the situation.
+
+Anonymous Victim 3
+
+Saturday afternoon, just before 4 o’clock, I got a text message on my phone that said the following: “Welcome to Simple Mobile. Your new phone number is [RECDACTED]. Your service end date is 3/5/2018. For self-help options, text ‘HELP’ to 611611” Obviously this didn’t sound right, but before I could do any research on my phone, I noticed I had no service. My SIM card was no longer authorized on the network. Since my mobile provider (T-Mobile) was just down the street, I headed to their office and showed them the message and that I hadn’t authorized a number transfer (not to mention that I had never heard of Simple Mobile). Sure enough, her system showed that my account was cancelled because someone (obviously not me) had “ported” my phone number to another service.
+
+After about 45 minutes of navigating the customer service phone jungle, we finally were able to get my number ported back to T-Mobile and put it back into my account. After resetting my phone, and reconnecting to the network, my phone blew up with a slew of notifications, most of them harmless, but a few were from my bank. This is when the T-Mobile employee told me that when my number was ported, my payment information most likely went WITH it because (a) I have auto-pay on my account and (b) Simple Mobile is the pre-paid low-cost plan under T-Mobile, so the companies are tied together.
+
+While my phone number was out of my possession the culprit had managed to request a password reset through my bank. All they needed was my debit card number (which I assumed they now had) and my phone number for the 2-factor authentication. After they changed my password, they used the direct payment service through my bank to transfer out $2000 to someone that, oddly, had the same last name as me (not sure if this is coincidence or part of the scam so that the bank won’t question such a large transfer). I immediately called my bank and locked down everything including my mobile banking access. Now I had my phone number back, but my money was locked down for the rest of the weekend.
+
+The time it took form having my number “stolen” to the money being transferred, was only 18 minutes.
+
+If you think you could become a victim of this scam—and even if you don’t—we recommend calling T-Mobile or whatever cell phone provider you use and ask them to set up a “port validation” passcode. This is also called a phone passcode or PIN, depending on your provider (most US providers offer this feature now). This should be unique, different than your password for your cell phone provider’s website (such as https://my.t-mobile.com/ or https://www.verizonwireless.com/my-verizon/, and you should keep it a safe place, such as your password manager. You will have to provide that passcode or PIN if you request a new SIM or change providers, preventing others from impersonating you.
+
+Get six of our favorite Motherboard stories every day by signing up for our newsletter.

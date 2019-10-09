@@ -1,0 +1,48 @@
+Migration data miscounts millennials, confuses the media
+Fivethirtyeight’s Ben Casselman published an article recently entitled “Think Millennials Prefer the City? Think Again.” He cites the most recently published migration data from the Census Bureau’s CPS (Current Population Survey) to show that more millennials moved from “principal cities” (a designation of the Office of Management and Budget) to “suburbs” in 2013-2014:
+
+“529,000 Americans ages 25 to 29 moved from cities out to the suburbs in 2014; only 426,000 moved in the other direction. Among younger millennials, those in their early 20s, the trend was even starker: 721,000 moved out of the city, compared with 554,000 who moved in.”
+
+This is wrong, but it’s not Casselman’s fault. He’s reading the table correctly. The problem is with the way the CPS migration data is tabulated and presented. Other data journalists have made similar points about migration, relying on the same bad data. To demographers who work with population data every day, these articles make no sense. That’s just not how it works. There is always a steady churn of people into and out of central cities, with cities gaining young adults (and suburbs and rural areas losing them), followed by cities losing families as they have children (and suburbs gaining them). It’s the variations in this pattern which are newsworthy, not the pattern itself.
+
+The truth is harder to nail down, but based on population distributions from the same survey, it looks like over the past 5 years about 3 million more Americans age 20-29 moved from suburbs to principal cities than from cities to suburbs, with last year being the largest net gain for cities yet.
+
+That’s an error several orders of magnitude in the wrong direction and should be a little startling. Proving it is fairly easy. Explaining it is more difficult.
+
+Tracking migration
+
+There are two ways to measure migration. One is to count the number of people in a place over a period of time. Say for example that there were 1,000 19-year-olds in Little City in 2005 and 1,400 24 year-olds in Little City in 2010. That means that, unless fully-grown humans are popping up out of the ground, 400 people in that age cohort moved to Little City during those five years (“age cohort” means a group of people who were born at the same time, in this case 1986, and are the same age as a result). This is the most reliable way to measure migration, especially if it’s done with data from the decennial census (1990, 2000, 2010, etc), when everyone is counted. All other population data is made up of estimates, which vary in quality.*
+
+The second way to measure migration is to do a survey and ask people: “did you move? From where?” This is what the CPS ASEC supplement does. The ASEC supplement, which this data comes from, is an extra piece of paper with questions about mobility. Its value is that survey respondents can give us more information about the move than we can get from just counting them. The downside is that the accuracy of the data is totally dependent on how the survey is run and how the results are tabulated. In this case, the CPS misses most of the suburb-to-city migration happening in the young adult years.
+
+The numbers don’t add up
+
+As Casselman caveats, the migration deficit for cities in 2014 was the smallest in recent memory. With international immigration and migration to and from rural areas factored in, principal cities had a net loss of 55,000 residents age 20-24 in 2014 and a slight gain of 13,000 ages 25-29. But that’s the high water mark. For the years – and even decades – prior to 2014, the data shows significant net migration out of cities for every age group every year.
+
+This is a problem because the actual population in cities in those age groups keeps going up, with a consistent jump happening in the early 20’s. In 2009, according to the CPS, there were 6.4 million 15-19 year-olds living in principal cities. According to the migration numbers, cities had a net loss from that age group over the next five years of about -420,000. So there should only be 6 million 20-24 year-olds living in principal cities in 2014. Instead, there were 8.5 million. Somewhere in there, 2.5 million people born between 1990-1994 made their way into cities and the CPS completely missed them:
+
+On the other side of the equation, migration numbers show suburbs netting 1.25 million members of this age group. Instead, the suburbs lost 540,000 of them. That’s 1.7 million people in their early 20’s who disappeared from the suburbs without showing up in the migration data.
+
+The same holds true for 25-29 year-olds. The results are also consistent for the past two decades. Every year, migration numbers show them leaving the city and every year, population numbers show them coming in.
+
+What causes this problem?
+
+I am not 100% certain, but after talking with the CPS office at the Census Bureau, I think I have a rough explanation.
+
+The CPS operates in its own statistical “universe” separate from other census products. Most importantly, it excludes all residents of institutional group housing. That means prisons and military bases. Students living in college dormitories are counted, but they are counted as living at their parents’ house still. A huge percentage of teenagers, who are disproportionately located in suburbs, will move to a college dorm or a military barracks (or, sadly, to a prison) around the age of 18-20. That move will not be recorded by the CPS and, for all practical purposes, those young people disappear from the CPS universe (or still be in their parents’ house in the suburbs). After graduating or being discharged, those young people overwhelmingly move to principal cities. This is a well-documented fact and not difficult to prove at all. During this period of their lives, they are extremely hard to track down. The CPS’ methodology pages admit that even within its statistical universe, response rates for young adults are extremely low compared to older age groups. That means a lot of missing data as recent grads bounce from house to house and don’t appear on the CPS radar until they’re settled enough to be answering census surveys. At that point, residents of institutional housing “reappear” in the CPS universe without their migration (which was ultimately suburb-to-city) being accounted for. College students filling out the survey themselves for the first time say they moved from their college town to their new city. The suburb-to-city moves go uncounted. Over the next few decades, these young city-dwellers slowly migrate out to the suburbs again.
+
+To put it another way, the CPS ASEC is counting the children coming down the slide, but not counting the ones climbing up the ladder. The logical conclusion then is that the number of children at the top of the slide must be going down all the time – but it’s not.
+
+More on surveys
+
+
+
+The other piece of evidence referenced by Casselman is a survey of millennials showing that many of them still want large single-family homes in the suburbs. That survey has its own problems. It only included people who had purchased a home in the past 3 years or intended to soon, excluding all those who said they were happy renting. What they mean by “outside the city center” is also changing rapidly. But more importantly, surveys about consumer preferences are fine, but are still meaningless without a discussion of trade-offs and the big picture. I (and probably most others) would say that I want a large house with a large yard right in the middle of the city. We all want to live on a cul-de-sac but don’t want the traffic created when others do. We all want as much space as we can get cheaply while still being as close to everything else as we can be. What I say I want is less relevant than what trade-offs I am willing to make to get it.
+
+A few takeaways
+
+1. Conclusions based on migration data from the CPS, especially for young adults, should be considered highly suspect. This may also affect regional migration numbers, which I hope to comment on in the future. Americans are most mobile at the ages the CPS is most likely to miss them, meaning that a great deal of the reshuffling of the population gets missed by the survey.
+
+2. The only rock-solid way to measure migration is by tracking the changes in age groups from the 2000 census to the 2010 census. That’s what I did for Virginia in this post last year, and I found that Arlington, Alexandria, Charlottesville, Richmond, and Virginia’s other “principal cities” tend to get an influx of people in their 20’s that increases the population of that age group by 50-100% or more.
+
+3. There has been a small cottage industry of “gotcha” articles debunking the notion that millennials are gravitating towards cities. I appreciate these articles for bringing down to earth the factory industry of “all the millennials want to live in cities!!1!11” articles, some of which recently have been based on my work and have even misquoted me saying exactly that. It is good to keep pointing out that young people always gravitate towards the city and they will almost certainly gravitate back towards the suburbs later in life. However, the data is pretty clear: the current generation of young adults is much more likely to live in the city center than previous generations. They are also more likely to live in a “principal city” than in the suburbs. There could be many reasons for this and I’ve speculated about a few of them. It’s not everybody and it doesn’t mean they’ll be there forever, but the migration is larger than usual – enough to be worth writing about.

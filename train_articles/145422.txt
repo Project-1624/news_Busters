@@ -1,0 +1,58 @@
+Tech History: How Bluetooth got its name
+By , 0
+
+Harald had united Denmark and Christianized the Danes! It occurred to me that this would make a good codename for the program. At this time I also created a PowerPoint foil with a version of the Runic stone where Harald held a cellphone in one hand and a notebook in the other and with a translation of the runes:
+
+Harald united Denmark and Norway
+
+Harald thinks that mobile PC's and cellular phones should seamlessly communicate
+
+In any case, the marketing group was formed under the leadership of Simon Ellis (Intel) and Anders Edlund (now with Bluetooth SIG) and they started working on official "names." The suggestion I just can't forget was "Flirt" with the catch phrase "getting close, but not touching." The naming process would continue for a long time.
+
+
+
+In February timeframe the contracts to form the SIG were finalized, but we still didn't have agreement on a name; so the codename "Bluetooth" was inserted into the contracts and the Bluetooth SIG was formed. The marketing group was still debating away on the real name.
+
+
+
+The signing of the SIG contracts allowed the technical working groups to start working on the specifications. At the same time we needed to announce the formation of the SIG which was picked to occur in the month of May.
+
+
+
+At this point we needed to have an official name and we had picked a board meeting the month before the launch to agree upon the name such that we could start printing collateral.
+
+
+
+The different companies in the SIG were each developing their own names for the technology, however at this time the two top contenders were RadioWire (the Intel proposal) and PAN (for Personal Area Networking, the IBM proposal).
+
+
+
+In April we held our board meeting and voted for the official name which went to PAN in a 4-1 vote. At this point everybody started using the name PAN and we were driving towards the launch event which would occur in about four weeks.
+
+
+
+About a week later, an emergency meeting was called. The other member companies had performed a trademark search on the word PAN and surmised that this would be a poor candidate for a trademark: an internet search produced tens of thousands of hits.
+
+
+
+It turned out that no trademark search was done on the backup name (Radio Wire) and the only name we could go to launch with on short notice was Bluetooth!
+
+
+
+It was decided then that we would go ahead and launch the SIG with the codename "Bluetooth", but would then change the name when the marketing group came-up with the official name.
+
+
+
+Needless to say, the codename turned out to be a pretty good, took hold of in the press and after awhile became synonymous with short range radios, so synonymous that when the SIG applied for a US trademark it was originally rejected because Bluetooth is synonymous with "short range radios," but that's another story
+
+
+
+About the author
+
+Jim Kardach helped form the Bluetooth SIG and ran it until around 2001 and for his efforts was inducted into the Bluetooth Hall of Fame.
+
+
+
+
+
+A longer version of this story (with a lot more fun details) can be downloaded at Jim's blog site at www.kardach.com/bluetooth/runic_stone_journal/runic_stone_journal.html.

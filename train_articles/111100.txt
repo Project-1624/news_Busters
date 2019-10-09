@@ -1,0 +1,68 @@
+PIOMAS Arctic Sea Ice Volume Reanalysis
+Fig 7. PIOMAS Sea Ice Motion Anomaly for February 2018 relative to based period 2000-2017
+
+Arctic Sea Ice Volume Anomaly
+
+Sea Ice Volume is calculated using the Pan-Arctic Ice Ocean Modeling and Assimilation System (PIOMAS, Zhang and Rothrock, 2003) developed at APL/PSC. Anomalies for each day are calculated relative to the average over the 1979 -2016 period for that day of the year to remove the annual cycle. The model mean annual cycle of sea ice volume over this period ranges from 28,000 km3 in April to 11,500 km3 in September. The blue line represents the trend calculated from January 1 1979 to the most recent date indicated on the figure. Shaded areas represent one and two standard deviations of the residuals of the anomaly from the trend in Fig 1 and standard deviations about the daily 1979-2016 mean in Fig 2.
+
+The year 2017 finished out with an annually averaged sea ice volume that was the lowest on record with 12,900 km 3 , below 2012 for which the annually averaged volume was 13,500 km3 . This was even though extent and sea ice thickness were at record lows during the early months of 2017 but anomalousy little melt for the recent years (Fig 8), brought the ice volume back above record levels.
+
+Average Arctic sea ice volume in July 2018 was 17,200 km3. This value is the 6th lowest on record about 1800 km3 above the June record that was set in 2017 with 15,400 km3 . Ice volume was 42% below the maximum in 1979 and 26% below the mean value for 1979-2017. June 2018 ice volume falls close to the long term trend line.
+
+Ice thickness anomalies anomalies 2018 relative to 2011-2017 (Fig 6) continue what previous months showed with positive anomalies in the East Siberian Sea and negative anomalies in much of the rest of the Arctic. Ice thickness is still anomalous north of Greenland where a large Polynya opened up during the second half of February due to strong off shore motion (Fig 7) of sea ice brought about by unusual wind patterns. Ice thickness anomalies from CryoSat AWI for April (no ice thickness from CryoSat is available between May-Sept) show very similar overall pattern (Fig 9.) supporting the idea that ice was thicker that normal over the recent years (2011-2017) along the Siberian coast. This is the result of anomalously large sea ice advection by winds into this area (Fig. 10).
+
+This is an example of how anomalous weather can have substantial effects on the large distribution of sea ice thickness in the Arctic. Also notable is the anomalously large sea ice advection along northern shore of Greenland and Ellsmere Island. This is the signature of the “refilling” of the Polynya that opened in this area during the second half of February. More normal, anticyclonic sea ice circulation during March that normally piles up sea ice against the Greenland shore, began filling the Polynya and other areas along the shore that had lost sea ice due to the “whacky winds” in late February of 2018. In this case both sea ice dynamics (ice drift) and thermodynamics regrowth of thin ice help patch the “holes”.
+
+An animation showing the 1979 -2018 September ice thickness evolution can be found here.
+
+Updates will be generated at approximately one-month intervals.
+
+Purpose
+
+Sea ice volume is an important climate indicator. It depends on both ice thickness and extent and therefore more directly tied to climate forcing than extent alone. However, Arctic sea ice volume cannot currently be observed continuously. Observations from satellites, Navy submarines, moorings, and field measurements are all limited in space and time. The assimilation of observations into numerical models currently provides one way of estimating sea ice volume changes on a continuous basis over several decades. Comparisons of the model estimates of the ice thickness with observations help test our understanding of the processes represented in the model that are important for sea ice formation and melt.
+
+Versions
+
+Version 2.1
+
+We identified a programming error in a routine that interpolates ice concentration data prior to assimilation. The error only affected data from 2010-2013. These data have been reprocessed and are now available as version 2.1. Ice thickness is generally greater in the Beaufort Chukchi Sea area with the largest differences in thickness during May. Differences in ice volume are up to 11% greater in late spring.
+
+Fig 5. shows the differences in volume between Version 2.0 and Version 2.1 (click to enlarge)
+
+Version 2. 0
+
+This time series of ice volume is generated with an updated version of PIOMAS (June-15,2011). This updated version improves on prior versions by assimilating sea surface temperatures (SST) for ice-free areas and by using a different parameterization for the strength of the ice. Comparisons of PIOMAS estimates with ice thickness observations show reduced errors over the prior version. The long term trend is reduced to about -2.8 103 km3/decade from -3.6 km3 103/decade in the last version. Our comparisons with data and alternate model runs indicate that this new trend is a conservative estimate of the actual trend. New with this version we provide uncertainty statistics. More details can be found in Schweiger et al. 2011. Model improvement is an ongoing research activity at PSC and model upgrades may occur at irregular intervals. When model upgrades occur, the entire time series will be reprocessed and posted.
+
+Model and Assimilation Procedure
+
+PIOMAS is a numerical model with components for sea ice and ocean and the capacity for assimilating some kinds of observations. For the ice volume simulations shown here, sea ice concentration information from the NSIDC near-real time product are assimilated into the model to improve ice thickness estimates and SST data from the NCEP/NCAR Reanalysis are assimilated in the ice-free areas. NCEP/NCAR reanalysis SST data are based on the global daily high-resolution Reynolds SST analyses using satellite and in situ observations (Reynolds and Marsico, 1993; Reynolds et al., 2007). Atmospheric information to drive the model, specifically wind, surface air temperature, and cloud cover to compute solar and long wave radiation are specified from the NCEP/NCAR reanalysis. The pan-Arctic ocean model is forced with input from a global ocean model at its open boundaries located at 45 degrees North.
+
+Model Validation and Uncertainty
+
+PIOMAS has been extensively validated through comparisons with observations from US-Navy submarines, oceanographic moorings, and satellites. In addition model runs were performed in which model parameters and assimilation procedures were altered. From these validation studies we arrive at conservative estimates of the uncertainty in the trend of ± 1.0 103 km3/decade. The uncertainty of the monthly averaged ice volume anomaly is estimated as ±0.75 103 km3. Total volume uncertainties are larger than those for the anomaly because model biases are removed when calculating the anomalies. The uncertainty for October total ice volume is estimated to be ±1.35 103 km3 . Comparison of winter total volumes with other volume estimates need to account for the fact that the PIOMAS domain currently does not extend southward far enough to cover all areas that can have winter time ice cover. Areas in the Sea of Okhotsk and in the Gulf of St. Lawrence are partially excluded from the domain. Details on model validation can be found in Schweiger et al. 2011 and (here). Additional information on PIOMAS can be found (here)
+
+A comprehensive library of sea ice thickness data for model validation has been compiled and is available (here)
+
+Perspective: Ice Loss and Energy
+
+It takes energy to melt sea ice. How much energy? The energy required to melt the 16,400 Km3 of ice that are lost every year (1979-2010 average) from April to September as part of the natural annual cycle is about 5 x 1021 Joules. For comparison, the U.S. Energy consumption for 2009 (www.eia.gov/totalenergy) was about 1 x 1020 J. So it takes about the 50 times the annual U.S. energy consumption to melt this much ice every year. This energy comes from the change in the distribution of solar radiation as the earth rotates around the sun.
+
+To melt the additional 280 km3 of sea ice, the amount we have have been losing on an annual basis based on PIOMAS calculations, it takes roughly 8.6 x 1019 J or 86% of U.S. energy consumption.
+
+However, when spread over the area covered by Arctic sea ice, the additional energy required to melt this much sea ice is actually quite small. It corresponds to about 0.4 Wm-2 . That’s like leaving a very small and dim flashlight bulb continuously burning on every square meter of ice. Tracking down such a small difference in energy is very difficult, and underscores why we need to look at longer time series and consider the uncertainties in our measurements and calculations.
+
+Data
+
+The reprocessed PIOMAS ice volume data (version 2.1) are available (here).
+
+How to cite PIOMAS Ice volume time series
+
+Volume time series and uncertainties:
+
+Schweiger, A., R. Lindsay, J. Zhang, M. Steele, H. Stern, Uncertainty in modeled arctic sea ice volume, J. Geophys. Res., doi:10.1029/2011JC007084, 2011
+
+Model details:
+
+Zhang, J.L. and D.A. Rothrock, “Modeling global sea ice with a thickness and enthalpy distribution model in generalized curvilinear coordinates“, Mon. Weather Rev., 131, 845-861, 2003
+
+The Polar Science Center is entirely funded through grants and contracts from federal and state agencies and private foundations. If you would like to support our research, education, and outreach activities through a personal gift, please talk to us or you can make a donation online.

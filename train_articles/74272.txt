@@ -1,0 +1,76 @@
+How Much of a Factor Is the Affordable Care Act in the Declining Uninsured Rate?
+Most adults who got coverage during ACA’s first open enrollment period would likely not have had it without the law
+
+Issue: While the number of uninsured has decreased substantially since the Affordable Care Act (ACA) expanded coverage in 2014, questions remain about how much the economic recovery and other changes might have influenced this decline. Goal: Assess the direct impact of the ACA marketplaces and the Medicaid expansion on the uninsured rate among nonelderly adults. Methods: Analysis of insurance coverage rates before and after the ACA’s first open enrollment period (fall 2013 to spring 2014) using the National Health Interview Survey (NHIS) and the Behavioral Risk Factor Surveillance Survey (BRFSS). Key findings: Based on NHIS data, enrollment in ACA-related coverage options explains about 76 percent of the 4-percentage-point decline in the uninsured rate during the first open enrollment period. Marketplace enrollments reduced the adult uninsured rate by an estimated 1.7 percentage points to 2.3 percentage points. The effects were substantially more pronounced among adults eligible for income-related subsidies. Medicaid expansions in participating states further reduced the uninsured rate by an estimated 0.76 points to 1.0 points. Conclusion: The great majority of nonelderly adults who enrolled during the first open enrollment period would likely not have held health coverage without the ACA expansions.
+
+BACKGROUND
+
+Several studies have examined how the percentage of people without insurance decreased during the Affordable Care Act’s (ACA’s) first open enrollment period, which began in October 2013 and lasted through March 15 or April 15, 2014, depending on the state. Analyses uniformly show that the uninsured rate declined by roughly 4 percentage points to 6.1 percentage points during this first enrollment period, although pre- and postenrollment rates differ across studies (Exhibit 1).
+
+This drop in uninsured of 4 points to 6.1 points roughly correlates with the 4 percent of the U.S. population that gained coverage through the ACA marketplaces or Medicaid during the first enrollment period1:
+
+About 8 million people (almost all adults), or 2.5 percent of the population, enrolled in ACA marketplace plans: 2.6 million of these consumers signed up through state-based exchanges and 5.4 million enrolled through HealthCare.gov on the federally facilitated marketplace.
+
+An additional 4.8 million people, or 1.5 percent of the population, enrolled in Medicaid plans.
+
+In combination, these figures suggest that the drop in the uninsured rate is from 100 percent to 150 percent as high as the enrollment increase. This suggests that other factors, in addition to enrollment in new ACA coverage options, may have contributed to the reduction in the number of uninsured.
+
+The economy may have impacted the uninsured rate.
+
+Accurately determining the impact of the ACA’s expansions on the uninsured population is a challenge for a number of reasons. For example, the decrease in the uninsured rate could be partly attributable to the economic recovery from the 2007–09 recession. The unemployment rate fell and the cost of health care moderated about the same time as the ACA marketplaces launched and Medicaid expanded. These improvements made it more likely that employers would offer coverage to their employees, that people would be employed, and that employees would take up coverage.
+
+Enrollment may not account for one-to-one coverage.
+
+Likewise, assessing the relationship between enrollment in new affordable coverage options and the change in the uninsured rate is not straightforward. Enrollment in new options might understate or overstate the overall impact of the law on coverage. One reason is the possibility of “crowd out”: some consumers or employers may have dropped their private or employer-sponsored health insurance plans in favor of new options available under the ACA. In this case, the number of newly enrolled would overstate the number of newly insured.2
+
+There was considerable concern about crowd-out of employer-sponsored insurance when the ACA passed. In 2012, the Congressional Budget Office and Joint Committee on Taxation predicted that employer-sponsored insurance coverage would decrease by 2 million people when the ACA was implemented in 2014.3 Most evidence suggests that this pattern has not occurred.4 For instance, according to the most recent Current Population Survey, the employer-sponsored insurance rate among nonelderly adults was identical (62%) in 2013 and 2014.5 However, this lack of change might mask the crowd-out of coverage that would otherwise have been made available because of the improving economy.
+
+Another reason that new enrollment may not translate into new coverage is that some people who were previously insured in the individual market might simply transfer their coverage to the marketplaces. This kind of transfer was intended by the drafters of the ACA and, to the extent that it occurs, will not raise coverage rates. In 2013, about 30.5 percent of those who were eligible for marketplace coverage held individual coverage before the expansions.6 Of those who enrolled in coverage, about 60 percent reported they had previously been uninsured, according to various reports.7
+
+Enrollment in new coverage options might also understate the effect of the law on coverage. Some people who chose to enroll in the marketplaces might have switched from less secure sources of coverage (for example, from a short-term employer-sponsored or individual plan) and might have retained coverage longer through the marketplaces. Others might have responded to the marketing and outreach surrounding the marketplace launch, as well as to the introduction of the individual mandate, by choosing to participate in existing employer coverage or to buy nongroup coverage outside the marketplaces.
+
+The original design of the ACA would have made analysis difficult.
+
+As originally designed, the ACA called for all 50 states to launch marketplaces and simultaneously expand Medicaid. This would have made it difficult to robustly assess the effects of coverage expansions on uninsured rates. In practice, however, two factors interfered with the legislation’s design, making it possible for us to disentangle these effects.
+
+The first was the Supreme Court’s 2012 decision, in National Federation of Independent Business v. Sebelius, to make Medicaid expansion optional for states. Because not all states chose to expand, we are able to compare states that did and did not participate in the expansion.
+
+The second factor was the uneven success of the ACA marketplace website rollouts during the first enrollment period. The federal website malfunctioned, and very few people were able to enroll in coverage through HealthCare.gov before early December 2013.8 After December 2013, the federal website worked well. Some of the state websites worked effectively right away, such as those in California, Connecticut, Kentucky, and Vermont. Others—such as the marketplaces in Oregon, Hawaii, Massachusetts, and Minnesota—did not function well during the entire enrollment period.9,10 These technical glitches affected how many people were able to enroll in the state marketplaces and when they could enroll.
+
+Because of the variation in the success of the rollout, we were able to compare states where many people enrolled in the marketplace early to those where few people did so, using the National Health Interview Survey (NHIS) and the Behavioral Risk Factor Surveillance Survey (BRFSS). (See How This Study Was Conducted.) We compared changes in the percentage of uninsured people in a state each month to enrollment in the marketplaces in the previous month, providing the first direct assessment of the effects of ACA reform on insurance coverage.
+
+FINDINGS
+
+Effect of Marketplace Enrollment
+
+Using NHIS data, we found that the uninsured rate declined by 0.92 percent for every 1.0 percent of the nonelderly adult population who enrolled in the marketplaces during the first open enrollment period (Exhibit 2). Given the 2.5 percent of the population that enrolled in marketplace plans in 2014, we estimate that enrollment in the marketplaces decreased the national uninsured rate by 2.3 percentage points (2.5% × 0.92%).
+
+The effects are slightly smaller, but still highly significant, in the BRFSS data: For each additional 1.0 percent of the nonelderly adult population enrolled in the marketplaces, 0.68 points gained coverage. The BRFSS estimate implies that enrollment in the marketplaces decreased the national uninsured rate by 1.7 points.
+
+Effect of the Medicaid Expansion
+
+Our analyses also controlled for the effect of state participation in the Medicaid expansion. Overall, the NHIS data show that choosing to expand Medicaid lowered the national uninsured rate for nonelderly adults by 1.7 points. The BRFSS data show a larger reduction of 2.3 points.
+
+In 2014, 44.4 percent of the U.S. population lived in a state that had expanded Medicaid. (Some states began their Medicaid expansions prior to January 2014.) Our estimates imply that these Medicaid expansions reduced the national adult uninsured rate by an additional 0.76 points (NHIS) and 1.0 points (BRFSS).
+
+State-by-State Variations
+
+As shown in Exhibit 3, the effects of the marketplaces and Medicaid expansions on the uninsured rate varied greatly across states. Our estimates suggest that decreases in state uninsured rates resulting directly from the ACA varied from 1.4 points to 7.3 points across the country.
+
+States that expanded their Medicaid eligibility or experienced high rates of enrollment in the marketplaces generally had larger reductions in their uninsured rate. Two exceptions to this are Florida and North Carolina. While these states opted not to expand Medicaid, they experienced substantial decreases in their respective uninsured rates because of very robust marketplace enrollment.
+
+Correlation to Income-Related Subsidies
+
+To assess the validity of our estimates, we repeated our analyses on subsets of the sample who would be most likely to benefit from the marketplace subsidies and the Medicaid expansions (Exhibit 4). We looked at the effects of marketplace enrollment on those with incomes between 125 percent and 400 percent of the federal poverty level (FPL) in the NHIS, and those with family incomes between $15,000 and $75,000 in the BRFSS. Then we looked at the effect of the Medicaid expansion on those with incomes below 125 percent of FPL in the NHIS and family incomes below $35,000 in the BRFSS.
+
+As expected, the effect of enrollment in the marketplaces and of participation in the Medicaid expansion was much stronger for these income-eligible populations. In the NHIS, an additional 1 percent of the population enrolled in the marketplaces was associated with a 1.43-point reduction in the share of the income-eligible population who were uninsured. In the BRFSS, it was associated with a 0.84-point reduction. The effects of expanding Medicaid reduced the share of the uninsured income-eligible population by 2.9 points in the NHIS and by 4.6 points in the BRFSS.
+
+DISCUSSION
+
+The Affordable Care Act established health insurance marketplaces and expanded Medicaid programs in many states. These coverage expansions would be expected to reduce the uninsured rate. However, the ACA’s first open enrollment (Fall 2013 to Spring 2014) occurred during a period of economic growth and declining unemployment, which also would be expected to reduce the uninsured rate.
+
+How many of the 12.8 million Americans who gained insurance coverage during the first open enrollment period would not have acquired insurance without the ACA? We found that the ACA-associated coverage expansions were strongly associated with declines in the uninsured rate. Enrollment in new coverage options explains about 76 percent of the 4-percentage-point decline in the national uninsured rate during the 2013–2014 open enrollment period, according to NHIS data.
+
+In both NHIS and BRFSS data sets, we found that the marketplaces and the Medicaid expansion had similar effects on the uninsured rate in states that chose to expand Medicaid. Of course, in states that did not expand Medicaid, almost all the coverage expansion occurred through marketplace enrollment. Our results point to the importance of maintaining and expanding subsidized coverage and Medicaid options to further reduce the number of uninsured Americans. While the new ACA options did replace some individual coverage, they generated little crowd-out of employer coverage. Indeed, our regression-adjusted analysis, which controls for other factors that occurred contemporaneously, indicates that even more people gained coverage through the ACA than prior survey research has suggested.
+
+Surveys that asked people signing up for new coverage options whether they had previously been uninsured found that about 40 percent of the new enrollees had previously been insured.11 Our results suggest that only about 8 percent (NHIS) or 32 percent (BRFSS) of new enrollees in marketplace coverage would have been insured in its absence. That difference is likely a consequence of the dynamics of the health insurance market. In addition to covering those who had previously been uninsured, the ACA provided coverage to people who would have become uninsured had the expansions not come into effect, such as young adults aging out of their parents’ health plan, people who lost their jobs, or people who became self-employed.

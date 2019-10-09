@@ -1,0 +1,12 @@
+Microsoft Corp Market Cap (MSFT)
+MSFT Market Cap Excel Add-In Codes
+
+Metric Code: market_cap
+
+market_cap Latest data point: =YCP("MSFT", "market_cap")
+
+=YCP("MSFT", "market_cap") Last 5 data points: =YCS("MSFT", "market_cap", -4)
+
+To find the codes for any of our financial metrics, see our Complete Reference of Metric Codes.
+
+Access our powerful Excel Add-in with a YCharts Professional Membership. Learn More.

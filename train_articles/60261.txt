@@ -1,0 +1,44 @@
+The EPA’s carbon plan asks the least from states that pollute the most
+Photo by Flickr user Jeff Wallace, used under a Creative Commons license.
+
+Philip Wallach is a fellow in the Governance Studies program at the Brookings Institution. Alex Abdun-Nabi is an intern in the Brookings Center for Effective Public Management.
+
+The EPA’s Clean Power Plan is undoubtedly one of the biggest regulatory events in decades. The proposed rule under the Clean Air Act is the centerpiece of the Obama Administration’s strategy to address climate change, and its champions laud it as an important step in combating climate change and a boon to public health, while its detractors say it represents a war on coal and an abuse of executive power.
+
+The rule provides every state with a target carbon-emissions intensity for its power plants, with preliminary standards kicking in by 2020 and full goals to be achieved by 2030. But where do those targets come from, and how demanding are they?
+
+The answers, which depend on a complicated series of formulas explicated in dense bureaucratese in a series of technical support documents, vary enormously from state to state—and not at all in the ways you might expect if you listened only to the proposal’s noisiest proponents or detractors.
+
+As the map below shows, the rule generally asks the least from the states with the worst carbon-intensity at present—those that are very heavily dependent on coal generation, such as West Virginia, Kentucky, and North Dakota. It asks the most from states that have made large past investments in natural gas or nuclear power, and those that have set themselves the most ambitious plans for developing renewable energy sources.
+
+<a href='#'><img alt='This interactive shows the proposed EPA rule's emissions standard for each state, and the state's energy profile. Click on a state for detailed information. ' src='https://public.tableausoftware.com/static/images/3C/3C2CB7D8D/1_rss.png' style='border: none' /></a>
+
+Because Vermont and the District of Columbia have no fossil-fuel electric generating units, they are not subject to the Clean Power Plan. The data for this map is derived from this EPA spreadsheet and other EPA technical documents. Interactive by Grace Wallack of the Brookings Institution.
+
+We might understand EPA’s disparate treatment of the states as a pragmatic accommodation to political realities. In coal-dependent states like Kentucky, where Democratic politicians like Senate candidate Alison Lundergan Grimes join Republicans in rejecting the plan as harmful to their state, achieving even modest improvements in energy efficiency is likely to be a struggle.
+
+On the other hand, some states start from a relatively low-carbon-intensity baseline but have mustered the political will to commit to a path of even higher efficiency down the line. Those states, like Washington, are required to make good on their ambitious promises or achieve equivalent reductions some other way.
+
+EPA’s attempts to avoid picking fights may be admirably prudent, but it is not fair. EPA does not dictate any specific requirements in its rule, leaving the question of how to meet standards to the states. But by setting such divergent standards, it makes it extremely likely that basically identical emitters will be treated extremely differently.
+
+While cross-state variations in the intensity of pollution controls are a standard feature of regulation under the Clean Air Act, they usually have a compelling justification: the negative effects of emissions are local, and so areas suffering from pollution problems must be more stringent. But greenhouse gas concentrations are uniform globally, making it somewhat awkward to subject identical emitters to divergent standards simply because their home states’ power mix is more or less carbon-intensive.
+
+EPA’s methods for calculating goals also have some peculiar features. States that have developed natural gas capacity are effectively penalized relative to those that have not, as the EPA expects them to achieve high utilization of their existing and under-construction gas plants as a matter of course. Being a laggard in natural gas capacity development is thus effectively rewarded.
+
+A somewhat similar dynamic operates for nuclear energy. States that have nuclear plants are expected to keep them operating, less 5.8 percent of their current nuclear generation capacity to compensate for potential plant retirements. This means that if states manage to keep their nuclear plants in operation, they get a small bonus toward meeting their overall goal, but if they have unavoidable retirements, they will find themselves facing a considerably higher climb to achieve their mandated reduction target (since they will be losing a zero-carbon-emissions power source).
+
+This is good news for reactors that might otherwise be on their way out and for those now under construction, but possibly bad news for states, like Wisconsin, that have experienced closings since 2012 (the year used as the energy baseline). It seems puzzling to effectively penalize states for decisions made about nuclear closings many years ago, but that is what the rule does.
+
+States are also asked to achieve certain levels of renewable growth based on how ambitious the goals of all of the states in their region are today. EPA says this regional approach is a way to account for America’s diverse geography, but the variation it produces is just as much a function of which regions have decided to make expanding their Renewable Portfolio Standards a political priority.
+
+Where the states in a region have been ambitious, as in the West, the Clean Power Plan effectively locks them into that decision, so that they must either meet their goals or find other ways to compensate for their failures. Where states shied away from goal-setting, as in the South, the progress required is much less. Strangely, states without their own RPS in the South Central region are asked to progress toward the renewable goals set by Kansas’ legislature, and those in the Southeast to North Carolina’s—a rather arbitrary way to decide what states ought to be expected to do on the renewable front.
+
+A close look at EPA’s precise formulation techniques does not to lead to the sense that the agency’s considerations really do make sense—quite the opposite, actually. For those interested in the nitty-gritty of how the goals were calculated, we provide a separate explainer on Brookings’ FixGov blog.
+
+There is no single right way to allocate the costs of reducing our nation’s greenhouse gas emissions, and EPA’s accommodation of cross-state differences has some appeal. But the agency should expect no gratitude from coal-reliant states treated relatively gently, because its solution feels arbitrarily imposed from on high.
+
+It also feels somewhat tone-deaf: if we are (rightly) concerned about the unequal distribution of the costs of climate change decades from now, why should we be unconcerned by the unequal distribution of regulatory costs in the present, especially in the absence of a compelling economic justification? For a complicated compromise to earn widespread legitimacy, it would need to be the product of extensive legislative wrangling that resulted in a bipartisan accord. That may seem unattainable today, but bureaucratic accommodation cannot provide a substitute.
+
+The state-based unfairness built into the EPA’s formulas is yet another reason why it would be preferable to pursue a different approach to address greenhouse gas emissions and climate change. Stanford’s Michael Wara puts it well, saying that the rule’s mind-bending complexity “makes a fantastic argument for legislative action to implement a simpler and more cost-effective policy,” most probably a nationwide carbon tax taking the place of EPA regulation.
+
+Alternatively, Congress could take more modest action to enable state-level carbon taxes as an option for compliance with EPA rules, as proposed by Representative John Delaney in his “State’s Choice Act.” A carbon tax would have its own equity issues to deal with, but they would pale in comparison to the Clean Power Plan’s.

@@ -1,0 +1,111 @@
+Apple, The FBI And iPhone Encryption: A Look At What's At Stake
+
+Enlarge this image toggle caption Stephen Lam/Getty Images Stephen Lam/Getty Images
+
+Remember the cryptex, the little handheld safe from The Da Vinci Code where entering the correct combination will reveal the secret message and entering the wrong one will destroy it?
+
+Now replace the little safe with an iPhone, and instead of a secret message, it's holding evidence in a terrorism case. The critical combination? It's a passcode — one the FBI doesn't know, and one that Apple is reluctant to help the agency figure out.
+
+Of course, it's more complicated than that. Here are a few key questions and answers about the dispute between the tech giant and federal investigators:
+
+Whose phone are investigators trying to access?
+
+In December, Syed Rizwan Farook and Tashfeen Malik attacked the Inland Regional Center in San Bernardino, Calif., with guns and explosives, killing 14 people before being killed themselves in a shootout with police.
+
+Malik had expressed support for the Islamic State on a Facebook page created under an alias, investigators say, but there are still many questions about who the two shooters might have communicated with before the attack, and what their motives were.
+
+During the investigation, the FBI obtained an iPhone 5c used by Syed Farook. The device was a company phone, owned by Farook's employer, San Bernardino County.
+
+Investigators have a warrant to search the phone and also have permission from the county — but the phone is protected by a passcode that the FBI does not know.
+
+The agency has asked Apple to help it circumvent the phone's security features — a request Apple has denied. Now a federal judge has ordered Apple to cooperate, and Apple has refused.
+
+What is the FBI looking for?
+
+Investigators say they've already obtained the most recent backup of Farook's iCloud account — but that the iCloud account stopped updating a month and a half before the attack. That suggests there may be something valuable on the actual phone, the U.S. Attorney's Office for the Central District of California wrote in a court filing:
+
+"This indicates to the FBI that Farook may have disabled the automatic iCloud backup function to hide evidence, and demonstrates that there may be relevant, critical communications and data around the time of the shooting that has thus far not been accessed, may reside solely on the SUBJECT DEVICE, and cannot be accessed by any other means known to either the government or Apple."
+
+... there may be relevant, critical communications and data around the time of the shooting that has thus far not been accessed. ...
+
+We don't know what, if anything, the phone contains. Law enforcement can typically access some information shared through a phone — such as social media posts, Web searches, some emails and text messages — with a subpoena to telecom and tech companies. But some information, such as iMessages or WhatsApp messages, gets encrypted on the sender's phone and only gets decrypted when delivered, while other data, like photos, might never get shared with another device.
+
+Why does the FBI need Apple's help?
+
+"The encryption is so well done and so hard that they know they're not going to be able to break the encryption or they would have already done that," says Joseph Lorenzo Hall, chief technologist at the Center for Democracy and Technology.
+
+In fact, Apple designed iPhone security with exactly this kind of scenario in mind, saying the company made it impossible even for Apple to crack. The data are protected by a code specific to the physical device and a passcode (aka PIN) set by the user. Without both numbers, Apple says, it's impossible for third parties to decrypt the phone's content.
+
+The FBI has the phone, but not the PIN. So can't it just guess?
+
+Well, it's stumped by three security features: an auto-erase function that deletes a phone's content after 10 incorrect passcode entries, a mandatory delay between entering passcodes after a certain number of failed attempts, and the requirement that passcodes be entered manually instead of being quickly plugged in by a computer.
+
+What does the FBI want Apple to do?
+
+The FBI wants the company to circumvent those security features so that the bureau can just test out enough passcodes to find the right one (a process called "brute forcing").
+
+"There's breaking encryption, which is effectively either exhaustively guessing or finding a flaw in the actual way the encryption is performed. And there's messing with the security software that serves as glue around the encryption pieces to make the thing work," Hall says.
+
+Here's a helpful analogy from Matthew Green, cryptographer and associate professor at Johns Hopkins University.
+
+Think of your phone as a bank. Inside it is a safe that has your information — emails, messages, photos. The FBI is outside the bank, unable to get through the front door to try to crack the safe. So it's asking Apple to help get inside the bank so it can set up a safecracking team to try various combinations to open it.
+
+If Apple complies with the judge's order, "all that would give [the FBI] is the ability to get close to that encryption core," says Green.
+
+"I think the FBI acknowledged that Apple is not lying when it says that the best Apple can really potentially do is get them onto the phone and help them guess the passcode."
+
+What would Apple's cooperation look like?
+
+The FBI has proposed that Apple could get it closer to the safe inside that bank (to follow the earlier analogy) by building software that could be loaded onto the phone and would allow the FBI to try out unlimited passcodes to see which one works. If Farook's passcode consisted only of four digits, security experts say, it could take as little as 30 minutes to find it (though of course far longer if it's a complex alphanumeric one).
+
+The FBI thinks that software is feasible — but it has to be made by Apple, not another developer, because only Apple has the proper security credentials to push new software to iPhones.
+
+Why doesn't Apple want to comply?
+
+Apple says building that kind of software would amount to building a whole "new version of the iPhone operating system," customized to lift the security restrictions. Here's what CEO Tim Cook said in an open letter:
+
+"In the wrong hands, this software — which does not exist today — would have the potential to unlock any iPhone in someone's physical possession. ... "The government suggests this tool could only be used once, on one phone. But that's simply not true. Once created, the technique could be used over and over again, on any number of devices. In the physical world, it would be the equivalent of a master key, capable of opening hundreds of millions of locks — from restaurants and banks to stores and homes. No reasonable person would find that acceptable."
+
+So ... is the FBI asking for a "backdoor"?
+
+Apple has described the FBI's request as amounting to asking for "a backdoor to the iPhone" — a flaw in a security system purposefully designed to help law enforcement break in for investigations. But unlike the FBI's policy demands for encryption backdoors, here it is not asking for a change to the technology on all iPhones; instead, the court order calls for a targeted tool, software using unique identifiers of this individual phone.
+
+They don't want this software in the world.
+
+"They are not asking Apple to redesign its product or to create a new backdoor to one of their products. They're simply asking for something that would have an impact on this one device," White House spokesman Josh Earnest has said.
+
+But Apple says such a tool, once created, would be too easy to reuse. "They don't want this software in the world," Green says. "Once they build it, they're potentially going to have to break it out every time the FBI comes back."
+
+How is the FBI trying to compel Apple to cooperate?
+
+The FBI is citing a two-sentence law that dates to the birth of America's legal system. The All Writs Act was originally part of the Judiciary Act of 1789 and is both simple and sweepingly broad: It says that courts "may issue all writs necessary or appropriate in aid of their respective jurisdictions and agreeable to the usages and principles of law."
+
+In the wrong hands, this software — which does not exist today — would have the potential to unlock any iPhone in someone's physical possession.
+
+In 2014, at the Justice Department's request, a federal court in New York used the law to order a phone-maker to unlock a password-protected device. The Justice Department says various other companies have been ordered under the All Writs Act to provide otherwise inaccessible information to investigators.
+
+But Apple says the use of the All Writs Act in this instance — pushing a manufacturer not to unlock a phone but to develop a system for breaking into a phone designed to be impossible to unlock — is "unprecedented."
+
+"If the government can use the All Writs Act to make it easier to unlock your iPhone, it would have the power to reach into anyone's device to capture their data," Cook writes in his open letter.
+
+What's next?
+
+Apple initially had five business days to formally respond to the court order issued Tuesday. The deadline is now Feb. 26.
+
+Last fall, the Justice Department, using the All Writs Act, tried to force Apple to unlock an iPhone running iOS 7 in a case involving a suspected methamphetamine dealer. Apple responded that it might be technically capable of unlocking that phone (since iOS 7 has fewer security features than later operating systems) but said the cost to the company's reputation — and resulting harm to its business — would pose an "undue burden." That case is still pending, The New York Times says — and suggests one possible line of argument that Apple might try again.
+
+Regardless of how Apple chooses to respond, this case might turn into a lengthy battle — one that could eventually work its way to the U.S. Supreme Court.
+
+Is this a new dispute between Apple and the government?
+
+Not by a long shot. Apple and the federal government have been arguing about encryption for years. The debate has taken various forms — fighting over the FBI's requests for backdoors into Apple encryption, sparring with the DEA over encrypted iMessages, arguing over the feasibility of unlocking iPhones — but the general disagreement has been the same. Federal investigators and prosecutors want access to more data, and Apple maintains that it's essential to keep encryption unbreakable.
+
+The rhetoric has been hot — expressed in life-or-death terms. In November 2014, The Wall Street Journal reported that a senior Justice Department official told Apple that its encryption technology would eventually lead to a child's death, because law enforcement would be unable to access encrypted iPhone data.
+
+In an interview with Charlie Rose in September 2015, Cook said of putting a backdoor in Apple's servers for law enforcement, "they would have to cart us out in a box before we would do that."
+
+Apple isn't the only one in this fight — Google, too, has beefed up its encryption within the past few years. But Cook has placed a strong emphasis on the issue during his 4 1/2 years helming the company.
+
+"Some of our most personal data is on the phone: our financial data, our health information, our conversations with our friends and family and co-workers," he told NPR in October 2015.
+
+"We do think that people want us to help them keep their lives private," Cook said.

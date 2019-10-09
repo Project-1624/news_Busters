@@ -1,0 +1,38 @@
+How To Steal Cars — A Practical Attack on KeeLoq
+How To Steal Cars —
+
+A Practical Attack on KeeLoq
+
+Eli Biham1, Orr Dunkelman2, Sebastiaan Indesteege2, Nathan Keller3 and Bart Preneel2
+
+1 Computer Science Department, Technion. Haifa 32000, Israel.
+
+2 Department of Electrical Engineering ESAT/SCD-COSIC, Katholieke Universiteit Leuven. Kasteelpark Arenberg 10, B-3001 Heverlee, Belgium.
+
+3 Einstein Institute of Mathematics, Hebrew University. Jerusalem 91904, Israel.
+
+News
+
+2008-04-14 The paper was presented at Eurocrypt 2008. The slides are available here. 2008-04-06 Our paper has been published, and is available online here. 2008-01-07 Our paper, describing the attack was accepted to EUROCRYPT 2008. It will be presented at the conference. 2007-08-22 We also made it to the Israeli press. 2007-08-22 Press release from the Technion (in Hebrew) here (PDF). 2007-08-22, 6:00 CEST The results were presented at the CRYPTO 2007 Rump Session. Download the slides here (PDF, 236 KB). 2007-08-21 Appeared in the Belgian press (VRT television and radio, various newspapers). 2007-08-21, 16:00 CEST Press Release issued. The K.U.Leuven press release (in Dutch) is here.
+
+Press Release
+
+KeeLoq is a cipher used in several car anti-theft mechanisms distributed by Microchip Technology Inc. It may protect your car if you own a Chrysler, Daewoo, Fiat, General Motors, Honda, Toyota, Volvo, Volkswagen, or Jaguar. The cipher is included in the remote control device that opens and locks your car and that activates the anti-theft mechanisms.
+
+Each device has a unique key that takes 18 billion billion values. With 100 computers, it would take several decades to find such a key. Therefore KeeLoq was widely believed to be secure. In our research we have found a method to identify the key in less than a day. The attack requires access for about 1 hour to the remote control (for example, while it is stored in your pocket). Once we have found the key, we can deactivate the alarm and drive away with your car.
+
+This research is the joint work between 3 research groups: the computer science department of the Technion, Israel, the research group COSIC of the Katholieke Universiteit Leuven, Belgium, and the math department of the Hebrew University, Israel.
+
+Paper abstract
+
+KeeLoq is a lightweight block cipher with a 32-bit block size and a 64-bit key. Despite its short key size, it is widely used in remote keyless entry systems and other wireless authentication applications. For example, authentication protocols based on KeeLoq are supposedly used by various car manufacturers in anti-theft mechanisms. This paper presents a practical key recovery attack against KeeLoq that requires 216 known plaintexts and has a time complexity of 244.5 KeeLoq encryptions. It is based on the slide attack and a novel approach to meet-in-the-middle attacks. The fully implemented attack requires 65 minutes to obtain the required data and 7.8 days of calculations on 64 CPU cores. A variant which requires 216 chosen plaintexts needs only 3.4 days on 64 CPU cores. Using only 10000 euro, an attacker can purchase a cluster of 50 dual core computers that will find the secret key in about two days. We investigated the way KeeLoq is intended to be used in practice and conclude that our attack can be used to subvert the security of real systems. An attacker can acquire chosen plaintexts in practice, and one of the two suggested key derivation schemes for KeeLoq allows to recover the master secret from a single key.
+
+Full paper available here:
+
+S. Indesteege, N. Keller, E. Biham, O. Dunkelman, and B. Preneel, "A Practical Attack on KeeLoq," In Advances in Cryptology - EUROCRYPT 2008, Lecture Notes in Computer Science 4965, N. Smart (ed.), Springer-Verlag, pp. 1-18, 2008.
+
+Contact
+
+Contact us.
+
+Visit the COSIC website.

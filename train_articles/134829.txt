@@ -1,0 +1,34 @@
+NATIONAL RIFLE ASSOCIATION OF AMERICA
+State Any State Alabama Alaska Arkansas Arizona California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Iowa Indiana Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific America Samoa Fed. States of Micronesia Guam Marshall Islands Northern Mariana Islands Puerto Rico Palau Virgin Island Outside U.S.
+
+Sign up to get ProPublica’s biggest stories delivered straight to your inbox.
+
+About This Data
+
+Nonprofit Explorer includes summary data for nonprofit tax returns and PDFs of full Form 990 documents.
+
+The summary data contains information processed by the IRS during the 2012-2017 calendar years; this generally consists of filings for the 2011-2016 fiscal years, but may include older records. This data release includes only a subset of what can be found in the full Form 990s.
+
+In addition to the raw summary data, we link to PDFs of full Form 990 documents wherever possible. This consists of a separate release by the IRS of Form 990 documents processed by the agency through June 2016; these documents may contain filings as recent as the 2015 fiscal year.
+
+Which Organizations Are Here?
+
+Every organization that has been recognized as tax exempt by the IRS has to file Form 990 every year, unless they make less than $200,000 in revenue and have less than $500,000 in assets, in which case they have to file form 990-EZ. Organizations making less than $50,000 don’t have to file either form but do have to let the IRS they’re still in business via a Form 990N "e-Postcard."
+
+Nonprofit Explorer has organizations claiming tax exemption in each of the 27 subsections of the 501(c) section of the tax code, and which have filed a Form 990, Form 990EZ or Form 990PF. Taxable trusts and private foundations that are required to file a form 990PF are also included. Small organizations filing a Form 990N "e-Postcard" are not included in this data.
+
+Types of Nonprofits
+
+There are 27 nonprofit designations based on the numbered subsections of section 501(c) of the tax code. See the list »
+
+How to Research Tax-Exempt Organizations
+
+We've created a guide for investigating nonprofits for those just getting started as well as for seasoned pros.
+
+API
+
+The data powering this website is available programmatically, via an API. Read the API documentation »
+
+Get the Data
+
+For those interested in acquiring the original data from the source, here’s where our data comes from:

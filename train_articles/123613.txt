@@ -1,0 +1,264 @@
+FBI Records Search
+#!/usr/bin/perl -T # Coded by Chump # FBI Search Script # For use by: Jim Casey @ PoliceGuide.Com # Version 1.1b read(STDIN,$info,$ENV{'CONTENT_LENGTH'}); @search = split(/&/,$info); foreach $i (0..$#search) { $search[$i] =~ tr/+/ /; ($key,$val) = split(/=/,$search[$i],2); $key =~ s/%(..)/pack("c",hex($1))/ge; $val =~ s/%(..)/pack("c",hex($1))/ge; # No LC/HTML/SSI/CR allowed $val =~ s/]|
+
+)*>//ge; $val =~ s/\;//ge; $val = uc($val); $search{$key} .= $val; } print "Content-type: text/html
+
+
+
+"; $ssn = 1; $state = 1; $name = 1; $year = 1; # not submitted... if ($search{'yet'} ne 'NOW') { header(); title(); pageone(); ssnone(); stateone(); nameone(); footer(); exit 0; } # submitted... else { # checkbox blank... if ($search{'all'} ne 'YES') { # ssn blank or short, error if (length($search{'ssn'}) != 3) { $ssn = 0; } # ssn not numeric, error if ($search{'ssn'} !~ /[0-9]/) { $ssn = 0; } } # ssn not numeric, error if (length($search{'ssn'}) != 0) { if ($search{'ssn'} !~ /[0-9]/) { $ssn = 0; } } # state blank or short, error if (length($search{'state'}) != 2) { $state = 0; } # state not alpha, error if ($search{'state'} =~ /[0-9]/) { $state = 0; } # first/last name blank, error if (length($search{'fname'}) == 0 || length($search{'lname'}) == 0) { $name = 0; } # submitted w/o error... if ($ssn == 1 && $state == 1 && $name == 1) { # waiting page... if ($search{again} eq 'NOW') { waitheader(); title(); waiting(); waitfooter(); exit 0; } # 2nd time submitted... if ($search{'final'} eq 'NOW') { # year short, error if (length($search{'year'}) != 2) { $year = 0; } # year not numeric, error if ($search{'year'} !~ /[0-9]/) { $year = 0; } # 2nd submitted w/o error... if ($year == 1) { # make case number... $case = ''; $tmp = time; @hold = split(//,$tmp); foreach $x (0..1) { $case .= $hold[$x]; } $case .= '-'; foreach $x (2..$#hold-2) { $case .= $hold[$x]; } $case .= '-'; foreach $x ($#hold-1..$#hold) { $case .= $hold[$x]; } # page three headerthree(); title(); pagethree(); footer(); exit 0; } # page two w/error... else { headertwo(); title(); pagetwo(); yeartwo(); footer(); exit 0; } } # page two w/o error... headertwo(); title(); pagetwo(); yearone(); footer(); exit 0; } # page one header(); title(); pageone(); if ($ssn == 1) { ssnone(); } else { ssntwo(); } if ($state == 1) { stateone(); } else { statetwo(); } if ($name == 1) { nameone(); } else { nametwo(); } footer(); exit 0; } sub header() { print <
+
+
+
+
+
+
+
+end_html } sub ssnone() { print <Enter the first three digits of your Social Security Number (ex: 123)
+
+
+
+
+
+
+
+- OR -
+
+
+
+Search All States:
+
+
+
+
+
+Step 2:
+
+
+
+end_html } sub ssntwo() { print < Enter the first three digits of your Social Security Number (ex: 123)
+
+
+
+
+
+
+
+- OR -
+
+
+
+Search All States:
+
+
+
+
+
+Step 2:
+
+
+
+end_html } sub stateone() { print <Enter State in which you were born (ex: KY)
+
+
+
+
+
+
+
+
+
+Step 3:
+
+
+
+end_html } sub statetwo() { print < Enter State in which you were born (ex: KY)
+
+
+
+
+
+
+
+
+
+Step 3:
+
+
+
+end_html } sub nameone() { print <Enter your Full Name for verification:
+
+
+
+First Last
+
+
+
+
+
+end_html } sub nametwo() { print < Enter your Full Name for verification:
+
+
+
+First Last
+
+
+
+
+
+end_html } sub pageone() { print < Please read our Privacy Disclosure Statement before entering any personal information.
+
+
+
+
+
+Step 1:
+
+
+
+You may choose not to enter your SSN by leaving "Search All States" checked
+
+
+
+end_html } sub waiting() { print <
+
+Search in Progress...
+
+
+
+
+
+-=- Please Wait -=-
+
+
+
+end_html } sub pagetwo() { print < MULTIPLE MATCHES FOUND
+
+
+
+
+
+Search Results: Found 7 Possible Matches Searched For: $search{'lname'}, $search{'fname'}
+
+------------------------------ Search Halted ------------------------------
+
+
+
+
+
+Step 4:
+
+
+
+To narrow down the search, please provide the following information:
+
+
+
+end_html } sub yearone() { print <Enter the last two digits of the Year that you were born (ex: 65)
+
+
+
+19
+
+
+
+
+
+
+
+end_html } sub yeartwo() { print <Enter the last two digits of the Year that you were born (ex: 65)
+
+
+
+19
+
+
+
+
+
+
+
+end_html } sub pagethree() { print <
+
+
+
+1 MATCH CONFIRMED
+
+
+
+Case Number: $case Name on File: $search{'lname'}, $search{'fname'} State of Birth: $search{'state'} Year of Birth: 19$search{'year'} Misdemeanors on Record: none Felonies on Record: none Sentences Served: none Photo on File: Yes Photo Date: 12/25/98 Photo Location: Parking Area
+
+RETRIEVING PICTURE
+
+
+
+
+
+
+
+
+
+
+
+----------------------------- End of Record Match ------------------------------
+
+
+
+
+
+Note:
+
+The results shown above are intended for entertainment purposes only, and are not guaranteed to be correct. In any instance where the results shown above correlate to your own personal information, no matter how complete or partial, is merely coincidental. The results shown above are not meant to be offensive or discriminative in any form to any one. An actual FBI records search is currently not available to the public, nor will it probably ever be. Copyright ©, 1996 - 2000, all rights reserved.
+
+
+
+Privacy Disclosure Statement
+
+
+
+
+
+
+
+
+
+
+
+Laughing or Really Mad? You can leave a comment on our bulletin board.
+
+Click Here!
+
+
+
+
+
+
+
+Get Big Discounts on Popular Magazine Subscriptions
+
+or Renew Your Current Subscriptions at Low Rates
+
+People
+
+As low as \$2.10 / issue!
+
+America's No.1 magazine on fascinating people.
+
+Time
+
+As low as \$0.89 / issue!
+
+The No.1 news magazine.
+
+ESPN The Magazine
+
+As low as \$0.58 / issue!
+
+Coming to you bi-weekly, ESPN The Magazine is a sports magazine with a real difference.
+
+Sports Illustrated
+
+As low as \$0.91 / issue!
+
+America's premier source for sports.
+
+end_html } sub footer() { print <

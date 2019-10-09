@@ -1,0 +1,14 @@
+UL - 1741 Standard for Inverters, Converters, Controllers and Interconnection System Equipment for Use With Distributed Energy Resources
+1 Scope
+
+1.1 These requirements cover inverters, converters, charge controllers, and interconnection system equipment (ISE) intended for use in stand-alone (not grid-connected) or utility-interactive (grid-connected) power systems. Utility-interactive inverters, converters, and ISE are intended to be operated in parallel with an electric power system (EPS) to supply power to common loads.
+
+1.2 For utility-interactive equipment, these requirements are intended to supplement and be used in conjunction with the Standard for Interconnecting Distributed Resources With Electric Power Systems, IEEE 1547, and the Standard for Conformance Test Procedures for Equipment Interconnecting Distributed Resources with Electric Power Systems, IEEE 1547.1.
+
+1.3 These requirements cover AC modules that combine flat-plate photovoltaic modules and inverters to provide AC output power for stand-alone use or utility-interaction, and power systems that combine other alternative energy sources with inverters, converters, charge controllers, and interconnection system equipment (ISE), in system specific combinations.
+
+1.4 These requirements also cover power systems that combine independent power sources with inverters, converters, charge controllers, and interconnection system equipment (ISE) in system specific combinations.
+
+1.5 The products covered by these requirements are intended to be installed in accordance with the National Electrical Code, NFPA 70.
+
+1.6 These requirements also cover rapid shutdown equipment and systems.

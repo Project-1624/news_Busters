@@ -1,0 +1,64 @@
+Distance Calculator
+Due to significant price increases we can no longer offer all functionally. You may find some functions are no longer available or have limitations in use
+
+Upload Coordinates Please paste in the list of coordinates to add to your route in the text box below:
+
+Generate Link For This Route (Share your route on Facebook, Twitter or by email) Please copy the link from text box below: Upload GPX file :
+
+An important feature of this distance calculator tool is that it is "as the crow flies", so traveling in real life will normally involve larger distances, but this may also help those who need to measure off-road distances.
+
+Want to save your route? Try the Advanced Google Maps Distance Calculator
+
+How To Use
+
+Zoom and drag the map to find the location of marker 1 Click to place marker 1. Zoom and drag the map to find the location of marker 2. Click to place marker 2. The distance will be calculated then displayed below the map in miles or kilometers. You can change between miles or km at any time Add as many points as required and the distance will build up. You can also drag and drop markers after they have been put on the map To share your route and distance calculation use the option [Generate Link For This Route]. You can then copy the link generated and send this via Twitter or Facebook.
+
+Note
+
+All distances are estimations so Daft Logic does not accept any responsibility that may arise when the value reported is incorrect.
+
+You can move the markers after they have been positioned so you can modify you route on the fly and see how the distance will be affected.
+
+Options
+
+Click [Clear Last] to undo the last marker placed
+
+Click [Zoom To Fit] to zoom the map around all markers
+
+Click [Clear Map] to erase all markers and start again
+
+Use the Quick Find text box to quickly relocate the map
+
+You can choose between miles and kilometers (km) for the Total Distance readout
+
+Click [Show Elevation] to get a chart showing the elevation of your route
+
+How it Works
+
+Clearly you, the user inputs two 'points' that are used to calculate the distance. Calculating the "As the Crow Flies" distance is a matter of using Great Circle formula. Then the main problem is converting the Google Map unit to miles and kilometers.
+
+The map will also automatically save your route in your temporary internet cookies so that you can return and see the route as you last left it. If you ever need to start from scratch then use the [Clear Map] button.
+
+Benchmark Tests
+
+Map showing the Mary Peters Track in South Belfast. The reading shows 0.394km which is clearly a reasonable measurement for an athletics track.
+
+Map showing the estimated distance between New York and Paris. All references that can be found suggest that this is an accurate measurement.
+
+Map showing the Seven Mile Straight in County Antrim, Northern Ireland. This shows a reading of 6.910 miles.
+
+Map showing the distance between Belfast and Dublin. As far as I can see this is an accurate estimate (if there is such a thing). This trip would be approximately 100 miles by road so the proverbial crow would have less distance to travel.
+
+Relevant Links
+
+Google Maps API
+
+Further Uses and Ideas
+
+Remember auto-pan setting between sessions
+
+Show difference in elevation between markers
+
+Export a list of all waypoints and show the distance between each
+
+Version History

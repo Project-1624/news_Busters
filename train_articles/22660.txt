@@ -1,0 +1,24 @@
+Online search for Obama-era White House visitor logs goes offline
+Over the past eight years, the White House visitor logs represented a meaningful window, if a flawed one, into what was happening at the White House. The data enabled reporters like Sunlight’s Paul Blumenthal to report on the pharmaceutical industry’s lobbying in 2010, lobbying on healthcare reform, and who visited former White House chief of staff Rahm Emanuel. More recently, reporters used the visitor logs to as evidence to report on Google’s relationship with the Obama administration.
+
+Today, the Web-based interface for the archive of the Obama White House’s visitor logs hosted by the National Archives and Records Administration (NARA) is gone. The embedded Web application, which was provided by Seattle-based Socrata, is now a broken plug-in. The logs are still available as open government data on the Obama White House archive, compressed into ZIP files that expand into comma-separated value data sets. If you have Excel or can set up a database, you can search through them. (Google Spreadsheets and Apple Pages can’t handle a million row data set.)
+
+Given the continued availability of the open data on the page, we have not added this to our list of data removed from the Internet, but the change is still significant. What’s now missing reduces the accessibility of this open data for non-technical users. It’s no longer possible to simply visit a Web page, enter in the name of an individual and see when he or she visited the White House, who was visited, and when. You have to download the data to do so. In practice, this represents a reduction in government transparency.
+
+The National Archives confirmed to Sunlight that the removal of the Socrata embed was not in error but the outcome of an intentional choice driven by budgetary constraints:
+
+NARA did the best we could to keep this data online for access purposes. Our goal is not to continue to maintain government websites exactly as they were in perpetuity. We do not have the budget to support that approach. The record copies are, of course, permanently preserved. ion to d its use of DKAN instead of Socrata. NARA opted not to contract with Socrata to support an archived version of open.whitehouse.gov . We instead used a free, open-source tool, DKAN. The Obama administration’s ODS staff previewed and approved the open.whitehouse.gov migration to open.obamawhitehouse.gov and its use of DKAN instead of Socrata. While all of the data is available on the archived website, not all of the previously available file formats, preview functionality, or APIs are available, due to the transition from Socrata to DKAN. Members of the public who cannot download the files available now can contact the Obama Presidential Library staff at obama.library@nara.gov with a request for the information they need.
+
+Putting the issue of this broken embed aside, it remains unclear if the Trump administration will continue the practice of disclosing visitor logs as open government data on the Internet, or indeed to continue disclosing them at all.
+
+A line about data coming “soon” at the new open.whitehouse.gov and a dedicated section on the disclosure section of the Trump White House website suggest data is coming, someday.
+
+As of today, however, we can neither trust nor verify today that will be the case in April, nor has the Trump White House used its blog or social media platforms to inform the public of its plans in this area or on other open government questions.
+
+“We hope to see the Trump Administration make full use of the White House’s open data platform,” Hudson Hollister, the executive director of the Data Coalition, told Sunlight.
+
+“In addition to visitor logs, staff lists, and financial data sets, like those the Obama administration published, White House Office of Management and Budget Director Mick Mulvaney suggested in his confirmation hearings that he wants to publish an open data version of the President’s proposed budget that matches the DATA Act’s format so that it can be electronically compared to the previous year. We’d love that, too.”
+
+Sunlight joins Hollister in hoping that the Trump administration will see the value of open government data in the 21st century and continues the standard for disclosure set to date.
+
+This post has been updated with additional comment and context from NARA>.

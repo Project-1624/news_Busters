@@ -1,0 +1,64 @@
+Veterans Choice Program: Improvements Needed to Address Access-Related Challenges as VA Plans Consolidation of its Community Care Programs
+What GAO Found
+
+Through the Veterans Choice Program (Choice Program), eligible veterans may receive care from community providers when it is not readily accessible at Veterans' Health Administration (VHA) medical facilities. The Department of Veterans Affairs (VA) uses two contractors—or third party administrators (TPA)—to schedule most veterans' Choice Program appointments after receiving referrals from VA medical centers (VAMC). GAO found that veterans who are referred to the Choice Program for routine care because services are not available at VA in a timely manner could potentially wait up to 70 calendar days for care if VAMCs and the TPAs take the maximum amount of time VA allows to complete its appointment scheduling process. This is not consistent with the statutory requirement that veterans receive Choice Program care within 30 days of their clinically indicated date (when available), which is the soonest date that it would be appropriate for the veteran to receive care, according to a VHA clinician. Without designing appointment scheduling processes that are consistent with this requirement, VA lacks assurance that veterans will receive Choice Program care in a timely manner.
+
+GAO and VHA found that selected veterans experienced lengthy actual wait times for appointments in 2016, after manually reviewing separate samples of Choice Program authorizations. For example, when GAO analyzed 55 routine care authorizations that were created between January and April of 2016, it found that the process took at least 64 calendar days, on average. When VHA analyzed about 5,000 authorizations created between July and September of 2016, it took an average of 51 calendar days for veterans to receive care.
+
+Average Wait Times for Choice Program Appointments in 2016, According to Separate Non-Generalizable Analyses by GAO and the Veterans Health Administration (VHA)a
+
+aGAO excluded from its analysis the amount of time the TPA took to schedule the appointment and the overall wait time because its sample selection methodology differed from VHA's in a way that would have skewed these two averages but not the averages for the other segments of the process.
+
+GAO also found that VHA cannot systematically monitor the timeliness of veterans’ access to Choice Program care because it lacks complete, reliable data to do so. The data limitations GAO identified include:
+
+A lack of data on the timeliness of referring and opting veterans in to the program. GAO found that the data VHA uses to monitor the timeliness of Choice Program appointments do not capture the time it takes VAMCs to prepare veterans’ referrals and send them to the TPAs, nor do they capture the time spent by the TPAs in accepting VAMCs’ referrals and opting veterans in to the Choice Program. VHA has implemented an interim solution to monitor overall wait times that relies on VAMC staff consistently and accurately entering unique identification numbers on VHA clinicians’ requests for care and on Choice Program referrals, a process that is prone to error.
+
+GAO found that the data VHA uses to monitor the timeliness of Choice Program appointments do not capture the time it takes VAMCs to prepare veterans’ referrals and send them to the TPAs, nor do they capture the time spent by the TPAs in accepting VAMCs’ referrals and opting veterans in to the Choice Program. VHA has implemented an interim solution to monitor overall wait times that relies on VAMC staff consistently and accurately entering unique identification numbers on VHA clinicians’ requests for care and on Choice Program referrals, a process that is prone to error.
+
+Inaccuracy of clinically indicated dates. GAO found that clinically indicated dates (which are used to measure the timeliness of care) are sometimes changed by VAMC staff before they send Choice Program referrals to the TPAs, which could mask veterans’ true wait times. GAO found that VAMC staff entered later clinically indicated dates on referrals for about 23 percent of the 196 authorizations it reviewed. It is unclear if VAMC staff mistakenly entered incorrect dates manually, or if they inappropriately entered later dates when the VAMC was delayed in contacting the veteran, compiling relevant clinical information, and sending the referral to the TPA.
+
+GAO found that clinically indicated dates (which are used to measure the timeliness of care) are sometimes changed by VAMC staff before they send Choice Program referrals to the TPAs, which could mask veterans’ true wait times. GAO found that VAMC staff entered later clinically indicated dates on referrals for about 23 percent of the 196 authorizations it reviewed. It is unclear if VAMC staff mistakenly entered incorrect dates manually, or if they inappropriately entered later dates when the VAMC was delayed in contacting the veteran, compiling relevant clinical information, and sending the referral to the TPA.
+
+Unreliable data on the timeliness of urgent care. GAO found that VAMCs and TPAs do not always categorize Choice Program referrals and authorizations in accordance with the contractual definition for urgent care. According to the contracts, a referral is to be marked as “urgent,” and an appointment is to take place within 2 days of the TPA accepting it, when a VHA clinician has determined that the needed care is (1) essential to evaluate and stabilize the veteran’s condition, and (2) if delayed would likely result in unacceptable morbidity or pain. GAO reviewed a sample of 53 urgent care authorizations and determined that about 28 percent of the authorizations were originally marked as routine care authorizations but were changed to urgent by VAMC or TPA staff, in an effort to administratively expedite appointment scheduling.
+
+Without complete, reliable data, VHA cannot determine whether the Choice Program has helped to achieve the goal of alleviating veterans’ wait times for care.
+
+GAO found that numerous factors adversely affected veterans’ access to care through the Choice Program. These factors include: (1) administrative burden caused by complexities of referral and appointment scheduling processes, (2) poor communication between VHA and its VAMCs, and (3) inadequacies in the networks of community providers established by the TPAs, including an insufficient number, mix, or geographic distribution of community providers. VA and VHA have taken numerous actions throughout the Choice Program’s operation that were intended to help address these factors, though not all access factors have been fully resolved. For example, to help address administrative burden and improve the process of coordinating veterans’ Choice Program care, VA established a secure e-mail system and a mechanism for TPAs and community providers to remotely access veterans’ VA electronic health records. However, these mechanisms only facilitate a one-way transfer of necessary information. They do not provide a means by which VAMCs or veterans can view the TPAs’ step-by-step progress in scheduling appointments or electronically receive medical documentation associated with Choice Program appointments.
+
+While the Choice Program will soon end, VA anticipates that veterans will continue to receive community care under a similar program that VA plans to implement, which will consolidate the Choice Program and other VA community care programs. Incorporating lessons learned from the Choice Program into the implementation and administration of the new program could help VHA avoid similar challenges.
+
+Why GAO Did This Study
+
+Congress created the Choice Program in 2014 to address longstanding challenges with veterans' access to care at VHA medical facilities. The Joint Explanatory Statement for the Consolidated Appropriations Act, 2016 included provisions for GAO to review veterans' access to care through the Choice Program.
+
+This report examines for Choice Program care (1) VA's appointment scheduling process, (2) the timeliness of appointments and the information VHA uses to monitor veterans' access; and (3) the factors that have adversely affected veterans' access and the steps VA and VHA have taken to address them for VA's future community care program.
+
+GAO reviewed applicable laws and regulations, VA's TPA contracts, and relevant VHA policies and guidance. Absent reliable national data, GAO also selected 6 of 170 VAMCs (selected for variation in geographic location and the TPAs that served them) and manually reviewed a random, non-generalizable sample of 196 Choice Program authorizations. The authorizations were created for veterans who were referred to the program between January and April of 2016, the most recent period for which data were available when GAO began its review. The sample of authorizations included 55 for routine care, 53 for urgent care, and 88 that the TPAs returned without scheduling appointments. GAO also obtained the results of VHA's non-generalizable analysis of wait times for a nationwide sample of about 5,000 Choice Program authorizations that were created for selected services between July and September of 2016.
+
+What GAO Recommends
+
+For VA's future consolidated community care program, GAO is making 10 recommendations, which include:
+
+establishing an achieveable wait-time goal for the community care program that will permit VHA to monitor whether veterans are receiving care within time frames that are comparable to the amout of time they would otherwise wait for care at VHA medical facilities;
+
+
+
+designing an appointment scheduling process that (1) is consistent with the wait-time goal and (2) sets forth time frames within which veterans' referrals must be processed, appointments must be scheduled, and appointments must occur;
+
+
+
+implementing mechanisms to:
+
+allow VHA to systematically monitor the amount of time taken to prepare referrals, schedule appointments, and complete appointments;
+
+prevent veterans' clinically indicated dates from being modified by individuals other than VHA clinicians; and
+
+separate clinically urgent referrals and authorizations from those for which the VAMC or the TPA has decided to expedite appointment scheduling for administrative reasons; and
+
+
+
+establishing a system that will help facilitate seamless, efficient care coordination and exchanges of information among VAMCs, VHA clinicians, TPAs, community providers, and veterans.
+
+VA generally agreed with all but one of GAO's recommendations, which was to separate clinically urgent referrals from those that are administratively expedited. GAO maintains that implementing this recommendation will help improve future monitoring of urgent care timeliness for reasons explained in the report.
+
+For more information, contact Sharon M. Silas at (202) 512-7114 or silass@gao.gov or A. Nicole Clowers at (202) 512-7114 or clowersa@gao.gov.

@@ -1,0 +1,1294 @@
+Transcript of Zuckerberg’s appearance before House committee
+Facebook chief executive Mark Zuckerberg appeared before the House Energy and Commerce Committee Wednesday for his second day of questioning on the Hill. Below is a partial transcript of the hearing.
+
+
+
+[Transcript of Mark Zuckerberg’s Senate hearing]
+
+REP. GREG WALDEN (R-ORE.): Okay. I'd ask our guests to please take their seats so we can get started. The Committee on Energy And Commerce will now come to order.
+
+WALDEN: Before my opening statement, just as a reminder to our committee members on both sides, it's another busy day at Energy and Commerce. In addition, as you will recall, to this morning's Facebook hearing, later today, our Health Subcommittee will hold its third in the series of legislative hearings on solutions to combat the opioid crisis.
+
+And, remember, Oversight and Investigations Subcommittee will hold a hearing where we will get an update on the restoration of Puerto Rico's electric infrastructure following last year's hurricane season.
+
+So, just a reminder: When this hearing concludes, I think we have votes on the House floor. Our intent is to get through every — every member before that point, to be able to ask questions. But then, after the votes, we will come back into our subcommittees to do that work. As Ray Baum used to say, “The fun never stops.”
+
+[Facebook’s Zuckerberg survived 10 hours of questioning by Congress]
+
+The chair now recognizes himself for five minutes for purposes of an opening statement.
+
+Good morning. Welcome, Mr. Zuckerberg, to the Energy and Commerce Committee in the House. We've called you here today for two reasons. One is to examine the alarming reports regarding breaches of trust between your company, one of the biggest and most powerful in the world, and its users. And the second reason is to widen our lens to larger questions about the fundamental relationship tech companies have with their users.
+
+The incident involving Cambridge Analytica and the compromised personal information of approximately 87 million American users — or mostly American users — is deeply disturbing to this committee. The American people are concerned about how Facebook protects and profits from its users' data.
+
+In short, does Facebook keep its end of the agreement with its users? How should we, as policymakers, evaluate and respond to these events? Does Congress need to clarify whether or not consumers own or have any real power over their online data? Have edge providers grown to the point that they need federal supervision?
+
+You and your co-founders started a company in your dorm room that's grown to one — be one of the biggest and most successful businesses in the entire world.
+
+Through innovation and quintessentially American entrepreneurial spirit, Facebook and the tech companies that have flourished in Silicon Valley join the legacy of great American companies who built our nation, drove our economy forward, and created jobs and opportunity. And you did it all without having to ask permission from the federal government and with very little regulatory involvement.
+
+The company you created disrupted entire industries and has become an integral part of our daily lives. Your success story is an American success story, embodying our shared values of freedom of speech, freedom of association and freedom of enterprise.
+
+Facebook also provides jobs for thousands of Americans, including my own congressional district, with data centers in Prineville. Many of our constituents feel a genuine sense of pride and gratitude for what you've created, and you're rightly considered one of the era's greatest entrepreneurs.
+
+This unparalleled achievement is why we look to you with a special sense of obligation and hope for deep introspection. While Facebook has certainly grown, I worry it may not have matured. I think it's time to ask whether Facebook may have moved too fast and broken too many things.
+
+There are critical unanswered questions surrounding Facebook's business model and the entire digital ecosystem regarding online privacy and consumer protection. What exactly is Facebook? Social platform? Data company? Advertising company? A media company? A common carrier in the information age? All of the above? Or something else?
+
+WALDEN: Users trust Facebook with a great deal of information; their name, home town, email, phone number, photos, private messages, and much, much more. But, in many instances, users are not purposefully providing Facebook with data. Facebook collects this information while users simply browse other websites, shop online or use a third-party app.
+
+People are willing to share quite a bit about their lives online, based on the belief they can easily navigate and control privacy settings and trust that their personal information is in good hands. If a company fails to keep its promises about how personal data are being used, that breach of trust must have consequences.
+
+Today we hope to shed light on Facebook's policies and practices surrounding third-party access to and use of user data. We also hope you can help clear up the considerable confusion that exists about how people's Facebook data are used outside of the platform.
+
+We hope you can help Congress, but, more importantly, the American people better understand how Facebook user information has been accessed by third parties, from Cambridge Analytica and Cubeyou, to the Obama for America presidential campaign.
+
+And we ask that you share any suggestions you have for ways policymakers can help reassure our constituents that data they believe was only shared with friends or certain groups remains private to those circles.
+
+As policymakers, we want to be sure that consumers are adequately informed about how their online activities and information are used. These issues apply not just to Facebook, but equally to the other internet-based companies that collect information about users online.
+
+So, Mr. Zuckerberg, your expertise in this field is without rival. So thank you for joining us today to help us learn more about these vital matters and to answer our questions.
+
+With that, I yield now to the gentleman from New Jersey, the ranking member of the Energy and Commerce Committee, my friend, Mr. Pallone, for five minutes for purposes of an opening statement.
+
+REP. FRANK PALLONE JR. (D-N.J.): Thank you, Mr. Chairman. And I also want to thank you Mr. Zuckerberg for being here today.
+
+Facebook has become integral to our lives. We don't just share pictures of our families, we use it to connect for school, to organize events and to watch baseball games.
+
+Facebook has enabled everyday people to spur national political movements. Most of us in Congress use Facebook to reach our constituents in ways that were unimaginable 10 years ago, and this is certainly a good thing.
+
+But it also means that many of us can't give it up easily. Many businesses have their only web presence on Facebook, and, for professions like journalism, people's jobs depend on posting on the site.
+
+And this ubiquity comes with a price; for all the good it brings, Facebook can be a weapon for those, like Russia and Cambridge Analytica, that seek to harm us and hack our democracy.
+
+Facebook made it too easy for a single person — in this instance, Aleksandr Kogan — to get extensive personal information about 87 million people. He sold this data — Cambridge Analytical [sic] — who used it to try to sway the 2016 presidential election for the Trump campaign.
+
+And Facebook made itself a powerful tool for things like voter suppression, in part by opening its platform to app developers with little or no oversight.
+
+But it gets worse. The fact is no one knows how many people have access to the Cambridge Analytical [sic] data, and no one knows how many other Cambridge Analyticas are still out there.
+
+Shutting down access to data to third parties isn't enough, in my opinion. Facebook and many other companies are doing the same thing: They're using people's personal information to do highly targeted product and political advertising.
+
+And Facebook is just the latest in a never-ending string of companies that vacuum up our data, but fail to keep it safe. And this incident demonstrates yet again that our laws are not working.
+
+Making matters worse, Republicans here in Congress continue to block or even repeal the few privacy protections we have. In this era of nonstop data breaches, last year, Republicans eliminated existing privacy and data security protections at the FCC.
+
+PALLONE: And their justification that those protections were not needed because the Federal Trade Commission has everything under control — well, this latest disaster shows just how wrong the Republicans are.
+
+The FTC used every tool Republicans have been willing to give it, and those tools weren't enough. And that's why Facebook acted like so many other companies, and reacted only when it got bad press.
+
+We all know this cycle by now. Our data is stolen. The company looks the other way. Eventually, reporters find out, publish a negative story, and the company apologizes. And Congress then holds a hearing, and then nothing happens.
+
+By not doing its job, this Republican-controlled Congress has become complicit in this nonstop cycle of privacy by press release. And this cycle must stop, because the current system is broken.
+
+So I was happy to hear that Mr. Zuckerberg conceded that his industry needs to be regulated, and I agree. We need comprehensive privacy and data security legislation.
+
+We need baseline protections that stretch from Internet service providers, to data brokers, to app developers and to anyone else who makes a living off our data. We need to figure out how to make sure these companies act responsibly, even before the press finds out.
+
+But, while securing our privacy is necessary, it's not sufficient. We need to take steps immediately to secure our democracy. We can't let what happened in 2016 happen again.
+
+And, to do that, we need to learn how Facebook was caught so flat-footed in 2016. How was it so blind to what the Russians and others were doing on its systems? Red flags were everywhere. Why didn't anyone see them? Or were they ignored?
+
+So today's hearing is a good start. But we also need to hold additional hearings where we hold accountable executives from other tech companies, Internet service providers, data brokers and anyone else that collects our information.
+
+Now, Congresswoman Schakowsky from Illinois and I introduced a bill last year that would require companies to implement baseline data security standards. And I plan to work with my colleagues to draft additional legislation.
+
+But I have to, say Mr. Chairman, it's time for this committee and this Congress to pass comprehensive legislation to prevent incidents like this in the future.
+
+My great fear is that we have this hearing today, there's a lot of press attention — and, Mr. Zuckerberg, you know, appreciate your being here once again — but, if all we do is have a hearing and then nothing happens, then that's not accomplishing anything.
+
+And — and I — you know, I know I sound very critical of the Republicans and their leadership on this — on these privacy issues. But I've just seen it — I've just seen it over and over again — that we have the hearings, and nothing happens. So excuse me for being so pessimistic, Mr. Chairman, but that's where I am.
+
+I yield back.
+
+WALDEN: I think I thank the gentleman for his opening comments.
+
+(LAUGHTER)
+
+With that, we now conclude with member opening statements. The chair would like to remind members that, pursuant to the committee rules, all members' opening statements will be made part of the record.
+
+Today, we have Mr. Mark Zuckerberg, Chairman and CEO of Facebook Incorporated, here to testify before the full Energy and Commerce Committee. Mr. Zuckerberg will have the opportunity to give a five-minute opening statement, followed by a round of questioning from our members.
+
+So thank you for taking the time to be here, and you are now recognized for five minutes.
+
+ZUCKERBERG: Thank you.
+
+Chairman Walden, Ranking Member Pallone and members of the committee, we face a number of important issues around privacy, security and democracy. And you will rightfully have some hard questions for me to answer.
+
+Before I talk about the steps we're taking to address them, I want to talk for a minute about how we got there. Facebook is an idealistic and optimistic company. For most of our existence, we focused on all the good that connecting people can bring.
+
+And, as Facebook has grown, people everywhere have gotten a powerful new tool for staying connected to the people they care about most, for making their voices heard and for building community and businesses.
+
+Just recently, we've seen the “Me Too” movement and the March for Our Lives organized, at least part, on Facebook. After Hurricane Harvey, people came together and raised more than $20 million for relief. And there are more than 70 million small businesses around the world that use our tools to grow and create jobs.
+
+ZUCKERBERG: But it's clear now that we didn't do enough to prevent these tools from being used for harm, as well. And that goes for fake news, foreign interference in elections and hate speech, as well as developers and data privacy. We didn't take a broad enough view of our responsibility, and that was a big mistake.
+
+It was my mistake, and I am sorry. I started Facebook, I run it, and, at the end of the day, I am responsible for what happens here. So, now, we have to go through every part of our relationship with people to make sure that we're taking a broad enough view of our responsibility.
+
+It's not enough to just connect people. We have to make sure those connections are positive. It's not enough to just give people a voice. We need to make sure that voice isn't used to harm other people or spread misinformation. And it's not enough to just give people control of their information. We need to make sure that the developers that they share it with protect their information too.
+
+Across the board, we have a responsibility to not just give people tools, but to make sure that those tools are used for good.
+
+It's going to take some time to work through all the changes we need to make. But I am committed to getting this right, and that includes the basic responsibility of protecting people's information, which we failed to do with Cambridge Analytica.
+
+So here are a few key things that we're doing to address this situation and make sure that this doesn't happen again.
+
+First, we're getting to the bottom of exactly what Cambridge Analytica did, and telling everyone who may have been affected. What we know now is that Cambridge Analytica improperly obtained some information about millions of Facebook members by buying it from an app developer that people had shared it with.
+
+This information was generally information that people share publicly on their profile pages, like their name and profile picture and the list of pages that they follow. When we first contacted Cambridge Analytica, they told us that they had deleted the data. And then, about a month ago, we heard a new report that suggested that this was not true.
+
+So now we're working with governments in the U.S., the U.K. and around the world to do a full audit of what they've done and to make sure that they get rid of any data that they still have.
+
+Second, to make sure that no other app developers are out there misusing data, we're now investigating every single app that had access to a large amount of people's information on Facebook in the past. And, if we find someone that improperly used data, we're going to ban them from our platform and tell everyone affected.
+
+Third, to prevent this from ever happening again, we're making sure developers can't access as much information, going forward. The good news here is that we made some big changes to our platform in 2014 that would prevent this specific instance with Cambridge Analytica from happening again today.
+
+But there's more to do, and you can find more of the details of the other steps we're taking in the written statement I provided.
+
+My top priority has always been our social mission of connecting people, building community and bringing the world closer together. Advertisers and developers will never take priority over that for as long as I am running Facebook.
+
+I started Facebook when I was in college. We've come a long way since then. We now serve more than 2 billion people around the world, and, every day, people use our services to stay connected with the people that matter to them most.
+
+I believe deeply in what we're doing, and I know that, when we address these challenges, we'll look back and view helping people connect and giving more people a voice as a positive force in the world.
+
+I realize the issues we're talking about today aren't just issues for Facebook and our community; they're challenges for all of us as Americans. Thank you for having me here today, and I am ready to take your questions.
+
+WALDEN: Thank you, Mr. Zuckerberg.
+
+I'll start out, and we'll go into the questioning phase. We'll go back and forth, as we always do. Remember, it's four minutes today, so we can get to everyone.
+
+Mr. Zuckerberg, you've described Facebook as a company that connects people and as a company that's idealistic and optimistic. I have a few questions about what other types of companies Facebook may be.
+
+Facebook has created its own video series, starring Tom Brady, that ran for six episodes and has over 50 million views. That's twice the number of the viewers that watched the Oscars last month. Also, Facebook's obtained exclusive broadcasting rights for 25 major league baseball games this season.
+
+Is Facebook a media company?
+
+ZUCKERBERG: Thank you, Mr. Chairman.
+
+I consider us to be a technology company, because the primary thing that we do is have engineers who write code and build products and services for other people.
+
+There are certainly other things that we do, too. We — we do pay to help produce content. We build enterprise software, although I don't consider us an enterprise software company. We build planes to help connect people, and I don't consider ourselves to be an aerospace company.
+
+But, overall, when people ask us if we're a media company, what — what I hear is, “Do we have a responsibility for the content that people share on Facebook?” And I believe the answer to that question is yes.
+
+WALDEN: All right, let me ask the next one. You can send money to friends on Facebook Messenger using a debit card or a PayPal account to, quote, “split meals, pay rent and more,” close quote. People can also send money via Venmo or their bank app.
+
+Is Facebook a financial institution?
+
+ZUCKERBERG: Mr. Chairman, I do not consider ourselves to be a financial institution, although you're right that we do provide tools for people to send money.
+
+WALDEN: So you've mentioned several times that you started Facebook in your dorm room in 2004; 15 years, 2 billion users and several — unfortunately — breaches of trust later, Facebook's today — is Facebook today the same kind of company you started with a Harvard.edu email address?
+
+ZUCKERBERG: Well, Mr. Chairman, I think we've evolved quite a bit as a company. When I started it, I certainly didn't think that we would be the ones building this broad of a community around the world. I thought someone would do it. I didn't think it was going to be us. So we've definitely grown.
+
+WALDEN: And — and you've recently said that you and Facebook have not done a good job of explaining what Facebook does. And so, back in 2012 and 2013, when a lot of this scraping of user and friend data was happening, did it ever cross your mind that you should be communicating more clearly with users about how Facebook is monetizing their data?
+
+I understand that Facebook does not sell user data, per se, in the traditional sense, but it's also just as true that Facebook's user data is probably the most valuable thing about Facebook. In fact, it may be the only truly valuable thing about Facebook.
+
+Why wasn't explaining what Facebook does with users' data a higher priority for you as a co-founder and — and now as CEO?
+
+ZUCKERBERG: Mr. Chairman, you're right that we don't sell any data. And I would say that we do try to explain what we do as — as time goes on. It's a — it's a broad system.
+
+You know, every day, about 100 billion times a day, people come to one of our products, whether it's Facebook or Messenger or Instagram or WhatsApp, to put in a piece of content, whether it's a — a photo that they want to share or a message they want to send someone.
+
+And, every time, there's a control right there about who you want to share it with. Do you want to share it publicly, to broadcast it out to everyone? Do you want to share it with your friends, a specific group of people? Do you want to message it to just one — one person or a couple of people? That's the most important thing that we do. And I think that, in the product, that's quite clear.
+
+I do think that we can do a better job of explaining how advertising works. There is a common misperception, as you say, that is just reported — often keeps on being reported, that, for some reason, we sell data.
+
+ZUCKERBERG: I can't be clearer on this topic: We don't sell data. That's not how advertising works, and I do think we could probably be doing a clearer job explaining that, given the misperceptions that are out there.
+
+WALDEN: Given the situation, are — can you manage the issues that are before you? Or does Congress need to intercede? I'm going to leave that, because I'm out — I'm over my time — that and I want an issue the Vietnam Veterans of America have raised, too. And we'll get back with your staff on that about some fake pages that are up.
+
+But I want to stay on schedule, so, with that, I'll yield to Mr. Pallone for four minutes.
+
+PALLONE: Thank you.
+
+I — Mr. Zuckerberg, you talk about how positive and optimistic you are, and I'm — I guess I'm sorry, because I'm not. I don't have much faith in corporate America, and I certainly don't have much faith in their GOP allies here in Congress.
+
+I really look at everything in — that this committee does, or most of what this committee does, in terms of the right to know. In other words, they — I always fear that people, you know, that go on Facebook — they don't necessarily know what's happening or what's going on with their data.
+
+And so, to the extent that we could pass legislation, which I think we need — and you said that we probably should have some legislation — I want that legislation to give people the right to know, to empower them, to — to, you know, provide more transparency, I guess, is the best way to put. So I'm looking at everything through that sort of lens.
+
+So just let me ask you three quick questions. And I'm going to ask you to answer yes or no, because of the time. Yes or no: Is Facebook limiting the amount or type of data Facebook itself collects or uses?
+
+ZUCKERBERG: Congressman, yes. We limit a lot of the data that we collect and use.
+
+PALLONE: But, see, I — I don't see that in the announcements you've made. Like, you've made all these announcements the last few days about the changes you're going to make. And I don't really see how that — how those announcements or changes limit the amount or type of data that Facebook collects or uses in an effective way.
+
+But let me go to the second one. Again, this is my concern — that users currently may not know or take affirmative action to protect their own privacy. Yes or no: Is Facebook changing any user default settings to be more privacy-protective?
+
+ZUCKERBERG: Congressman, yes. In — in response to these issues, we've changed a lot of the way that our platform works, so, that way, developers can't get access to as much information.
+
+PALLONE: But see, again, I don't see that in — in the changes you — that you propose. I don't really see any way that these user default settings — you're changing these user default settings in a way that is going to be more privacy protection. But let me — protective.
+
+But let me go to the third one. Yes or no: Will you commit to changing all user default settings to minimize, to the greatest extent possible, the collection and user — and use of users' data? Can you make that commitment?
+
+ZUCKERBERG: Congressman, we try to collect and — and give people the ability ...
+
+(CROSSTALK)
+
+PALLONE: But I'd like you to answer yes or no, if you could. Will you make the commitment to change all the user — to changing all the user default settings to minimize, to the greatest extent possible, the collection and use of users' data?
+
+That's — I don't think that's hard for you to say yes to, unless I'm missing something.
+
+ZUCKERBERG: Congressman, this is a complex issue that I think is — deserves more than a one-word answer.
+
+PALLONE: Well, again, that's disappointing to me, because I think you should make that commitment. And maybe what we could do is follow up with you on this, if possible — if that's okay. We can do that follow-up?
+
+ZUCKERBERG: Yes.
+
+PALLONE: All right.
+
+Now, you said yesterday that each of us owns the content that we put on Facebook and that Facebook gives some control to consumers over their content. But we know about the problems with Cambridge Analytica.
+
+PALLONE: I know you changed your rules in 2014 and again this week, but you still allow third parties to have access to personal data. How can consumers have control over their data when Facebook doesn't have control over the data itself? That's my concern. Last question.
+
+ZUCKERBERG: Congressman, what we allowed — what we allow with our developer platform is for people to choose to sign into other apps and bring their data with them. That's something a lot of people want to be able to do.
+
+The reason why we built the developer platform in the first place was because we thought it would be great if more experiences that people had could be more social, so if you could have a calendar that showed your friends' birthdays; if you could have an address book that had pictures of your friends in it; if you could have a map that showed your friends' addresses on it.
+
+In order to do that, you need to be able to sign into an app, bring some of your data and some of your friends' data. And that's what we built.
+
+Now, since then, we have recognized that that can be used for abuse, too. So we've limited it, so now people can only bring their data when they go to an app.
+
+But that's something that a lot of people do on a day-to-day basis — is sign into apps and websites with their — with Facebook. And that's something that we're ...
+
+PALLONE: I still don't ...
+
+(CROSSTALK)
+
+WALDEN: We're going to have to move on to our next question.
+
+PALLONE: Yeah, I know. I still think that there's not enough — people aren't empowered enough to really make those decisions in a positive way.
+
+WALDEN: The chair now recognizes a former chairman of the committee, Mr. Barton of Texas, for four minutes.
+
+REP. JOE BARTON (R-TEX.): Well, thank you. And thank you, Mr. Zuckerberg for being here. People need to know that you're here voluntarily. You're not here because you've been subpoenaed. So we appreciate that.
+
+Sitting behind you — have a gentleman who used to be counsel for the committee, Mr. Jim Barnett. And, if he's affiliated with Facebook, you've got a good one. If he's not, he's just got a great seat. I don't know ...
+
+(LAUGHTER)
+
+... know what it is. I'm going to read you a question that I was asked. I got this through Facebook, and I've got dozens like this.
+
+So, my first question: “Please ask Mr. Zuckerberg, why is Facebook censoring conservative bloggers such as Diamond and Silk? Facebook called them unsafe to the community. That is ludicrous. They hold conservative views. That isn't unsafe.” What's your response to ...
+
+ZUCKERBERG: Congressman, in that specific case, our team made an enforcement error. And we have already gotten in touch with them to reverse it.
+
+BARTON: Well, Facebook does tremendous good. When — when I met you in my office, eight years ago — you don't remember that. But I've got a picture of you when you had curly hair and Facebook had 500 million users. Now, it's got over 2 billion. That's a success story in — in anybody's book.
+
+It's such an integral part of, certainly, young Americans' lives that you need to work with Congress and the community to ensure that it is a neutral, safe and, to the largest extent possible, private platform. Do you agree with that?
+
+ZUCKERBERG: Congressman, I do agree that we should work to give people the fullest free expression that is possible. That's what — when I talk about giving people a voice, that's what I care about.
+
+BARTON: Okay.
+
+Let's talk about children. Children can get a Facebook account of their own, I believe, starting at age 13. Is that not correct?
+
+ZUCKERBERG: Congressman, that's correct.
+
+BARTON: Okay. Is there any reason that we couldn't have just a no-data-sharing policy, period, until you're 18? Just — if you're a child with your own Facebook account, until you reach the age of 18, you know, it's — it's — you know, you can't share anything.
+
+It's — it's their data, their picture — it doesn't — it doesn't go anywhere. Nobody gets to scrape it; nobody gets to access it. It's absolutely, totally private. Well, it's — for children. What's wrong with that?
+
+ZUCKERBERG: Congressman, we have a number of measures in place to protect minors specifically. We make it so that adults can't contact minors who they — they aren't already friends with. We make it so that certain content that may be inappropriate for minors, we don't show.
+
+The reality that we see is that teens often do want to share their opinions publicly, and that's a service that ...
+
+BARTON: Will we let them opt in to do that?
+
+ZUCKERBERG: Yes, we do.
+
+BARTON: But don't — you know, unless they specifically allow it, then don't allow it. That's my point.
+
+ZUCKERBERG: Congressman, every time that someone chooses to share something on Facebook — you go to the app; right there, it says, “Who do you want to share with?” When you sign up for a Facebook account, it starts off sharing with just your friends.
+
+If you want to share publicly, you have to specifically go and change that setting to be sharing publicly. Every time ...
+
+BARTON: I'm — I'm about out of time. I — I actually use Facebook, and, you know, I know, if you take the time, you can go to your privacy and click on that. You can go to your settings and click on that.
+
+You can pretty well set up your Facebook account to — to be almost totally private. But you have to really work at it. And my time's expired. Hopefully we can do some questions in writing as a follow-up.
+
+Thanks, Mr. Chairman.
+
+WALDEN: Absolutely. The chair now recognizes the gentleman from Illinois, Mr. Rush, for four minutes for questions.
+
+REP. BOBBY L. RUSH (D-ILL.): Thank you, Mr. Chairman. Mr. Zuckerberg, welcome.
+
+In the 1960s, our government, acting through the FBI and local police, maliciously tricked individuals and organizations into participating in something called COINTELPRO, which was a counterintelligence program where they tracked and shared information amongst civil rights activists, their political, social, city, even religious affiliations. And I personally was a victim of COINTELPRO.
+
+Your organization, your methodology, in my opinion, is similar. You're truncating the basic rights of the American promise of life, liberty and the pursuit of happiness by the wholesale invasion and manipulation of their right to privacy.
+
+Mr. Zuckerberg, what is the difference between Facebook's methodology and the methodology of the American political pariah, J. Edgar Hoover?
+
+ZUCKERBERG: Congressman, this is an important question because I think people often ask what the difference is between surveillance and what we do. And I think that the difference is extremely clear, which is that, on Facebook, you have control over your information.
+
+The content that you share, you put there. You can take it down at any time. The information that we collect, you can choose to have us not collect. You can delete any of it, and, of course, you can leave Facebook if you want.
+
+I know of no surveillance organization that gives people the option to delete the data that they have, or even know what — what they're collecting.
+
+RUSH: Mr. Zuckerberg, you should be commended that Facebook has grown so big, so fast. It is no longer the company that you started in your dorm room. Instead, it's one of — great American success stories.
+
+That much influence comes with enormous social responsibility, on which you have failed to act and to protect and to consider. Shouldn't Facebook, by default, protect users' information? Why is the onus on the user to opt in to privacy and security settings?
+
+ZUCKERBERG: Congressman, as I've said, every time that a person chooses to share something on Facebook, they're proactively going to the service and choosing that they want to share a photo, write a message to someone.
+
+And, every time, there is a control right there — not buried in settings somewhere, but right there, when they're — when they're posting ...
+
+RUSH: All right.
+
+ZUCKERBERG: ... about who they want to share it with.
+
+RUSH: Mr. Zuckerberg, I only have a few more seconds. In November 2017, (inaudible) reported that Facebook was — still allowed housing and work advertisements to systematically exclude advertisements to specific racial groups, an explicitly prohibited practice.
+
+This is just one example where Facebook has allowed race — so race — race to improperly play a role. What has Facebook done, and what are you doing, to ensure that you are — that your targeted advertisements and other components of your platform are in compliance with federal laws such as the Civil Rights Act of 1968?
+
+ZUCKERBERG: Congressman, since we learned about that, we've removed the option for advertisers to exclude ethnic groups from targeting.
+
+RUSH: When did you do that?
+
+WALDEN: The gentleman's time has expired.
+
+We need to go now to the gentleman from Michigan, Mr. Upton, for four minutes.
+
+REP. FRED UPTON (R-MICH.): Thank you, Mr. Chairman, and welcome to the committee.
+
+A number of times in the last day or two, you've indicated that, in fact, you're now open to some type of regulation. And we know, of course, that you're the dominant social media platform without any true competitor, in all frankness. And you have hundreds, if not thousands, of folks that are — would be required to help navigate any type of regulatory environment.
+
+Some would argue that a more regulatory environment might ultimately stifle new platforms and innovators some might describe as desperately needed competition; i.e., regulatory complexity helps protect those folks like you. It could create a harmful barrier to entry for some start-ups, particularly ones that might want to compete with you.
+
+So should we policymakers up here be more focused on the needs of start-ups, over large incumbents? And what kind of policy regulation — regulatory environment would you want, instead of managing, maybe, a Fortune 500 company, if you were launching a start-up to — taking on the big guy?
+
+ZUCKERBERG: Congressman, thank you, and let me say a couple of things on this. First, to your point about competition, the average American uses about eight different apps to communicate and stay connected to people.
+
+So there's a lot of competition that we feel every day. And — and that — that's — that's an important force that — that we — that we definitely feel when running the company.
+
+Second, on your point about regulation, the Internet is growing in importance around the world in people's lives, and I think that it is inevitable that there will need to be some regulation.
+
+So my position is not that there should be no regulation. But I also think that you have to be careful about what regulation you put in place for a lot of the reasons that you're saying.
+
+I think, a lot of times, regulation, by definition, puts in place rules that a company that is larger, that has resources like ours, can easily comply with, but that might be more difficult for a smaller start-up to — to comply with.
+
+ZUCKERBERG: So I think that all things that need to be thought through very carefully when — when thinking through what — what rules we want to put in place.
+
+UPTON: And, to follow up a question with — that Mr. Barton asked about Silk and Diamond — I don't know whether you know about this particular case — I have a former state rep who's running for state senate. He's the former Michigan Lottery commissioner, so he's a guy of — of fairly good political prominence.
+
+He is a — he announced for state senate just in the last week, and he had what I thought was a rather positive announcement. It's — and I'll read to you precisely what it was.
+
+“I'm proud to announce my candidacy for state senate. Lansing needs conservative west Michigan values, and, as our next state senator, I will work to strengthen our economy, limit government, lower our auto insurance rates, balance the budget, stop sanctuary cities, pay down government debt, be a pro-life, pro-2nd-Amendment lawmaker.”
+
+And it was rejected. And the response from you all was it wasn't approved because it doesn't follow our advertising policies. We don't allow ads that contain shocking, disrespectful or sensational content, including ads that depict violence or threats of violence. I'm not sure where the threat was, based on what he tried to post.
+
+ZUCKERBERG: Congressman, I'm not sure either. I'm not familiar with that specific case. It's quite possible that we made a mistake, and we'll follow up afterward to — on that.
+
+UPTON: Okay.
+
+ZUCKERBERG: Overall — yeah, we have — by the end of this year, we'll have about 20,000 people at the company who work on security and content-review-related issues.
+
+But there's a lot of content flowing through the systems and a lot of reports, and, unfortunately, we don't always get these things right when people report it to us.
+
+UPTON: Okay. Thank you.
+
+WALDEN: Gentleman's time's expired.
+
+Chair recognizes the gentlelady from California, Ms. Eshoo, for four minutes.
+
+REP. ANNA G. ESHOO (D-CALIF.): Thank you, Mr. Chairman. Good morning, Mr. Zuckerberg.
+
+First, I believe that our democratic institutions are undergoing a stress test in our country. And I believe that American companies owe something to America.
+
+I think the damage done to our democracy, relative to Facebook and its platform being weaponized, are incalculable. Enabling the cynical manipulation of American citizens for the purpose of influencing an election is deeply offensive, and it's very dangerous. Putting our private information on offer without concern for possible misuses, I think, is simply irresponsible.
+
+I invited my constituents, going into the weekend, to participate in this hearing today by submitting what they want to ask you. And so my questions are theirs.
+
+And, Mr. Chairman, I'd like unanimous consent to place all of their questions in the record.
+
+WALDEN: Without objection.
+
+ESHOO: So these are a series of just yes-no questions.
+
+Do you think you have a moral responsibility to run a platform that protects our democracy? Yes or no.
+
+ZUCKERBERG: Congresswoman, yes.
+
+ESHOO: Have users of Facebook who are caught up in the Cambridge Analytica debacle been notified?
+
+ZUCKERBERG: Yes. We are starting to notify people this week. We started Monday, I believe.
+
+ESHOO: Will Facebook offer to all of its users a blanket opt-in to share their privacy data with any third-party users?
+
+ZUCKERBERG: Congresswoman, yes. That's how our platform works. You have to opt in to sign in to any app before you use it.
+
+ESHOO: Well, let — let me just add that it is a minefield in order to do that. And you have to make it transparent, clear, in pedestrian language, just once, “This is what we will do with your data. Do you want this to happen, or not?”
+
+So I — I think that this is being blurred. I — I think you know what I mean by it. Are you aware of other third-party information mishandlings that have not been disclosed?
+
+ZUCKERBERG: Congresswoman, no, although we are currently going through the process of investigating every ...
+
+(CROSSTALK)
+
+ESHOO: So you're not sure?
+
+ZUCKERBERG: ... that had access to a large amount of data.
+
+ESHOO: What does that mean?
+
+ZUCKERBERG: It means that we're going to look into every app that had a large amount of access to data in the past, before we lock down the platform. I ...
+
+ESHOO: So you're not aware.
+
+(CROSSTALK)
+
+ZUCKERBERG: ... because there are tens of thousands of apps, we will find some ...
+
+(CROSSTALK)
+
+ESHOO: All right. I — I only have four minutes.
+
+ZUCKERBERG: ... and, when we find them ...
+
+ESHOO: Was your data included in the data sold to the malicious third parties? Your personal data?
+
+ZUCKERBERG: Yes.
+
+ESHOO: It was.
+
+Are you willing to change your business model in the interest of protecting individual privacy?
+
+ZUCKERBERG: Congresswoman, we are — have made and are continuing to make changes to reduce the amount of ...
+
+ESHOO: No, are you willing to change your business model in the interest of protecting individual privacy?
+
+ZUCKERBERG: Congresswoman, I'm not sure what that means.
+
+ESHOO: Well, I'll follow up with you on it.
+
+When did Facebook learn that Cambridge Analytica's research project was actually for targeted psychographic political campaign work?
+
+ZUCKERBERG: Congresswoman, it might be useful to clarify what actually happened here. A developer does research ...
+
+(CROSSTALK)
+
+ESHOO: Well, no. I — I don't have time for a long answer, though. When did Facebook learn that? And, when you learned it, did you contact their CEO immediately? And, if not, why not?
+
+ZUCKERBERG: Congresswoman, yes. When we learned in 2015 that a Cambridge University researcher associated with the academic institution that built an app that people chose to share their data with ...
+
+ESHOO: We know what happened with them. But I'm asking you.
+
+ZUCKERBERG: Yes. I'm answering your question.
+
+ESHOO: Yes. All right.
+
+ZUCKERBERG: When — when we learned about that, we ...
+
+ESHOO: So, in 2015, you learned about it?
+
+ZUCKERBERG: Yes.
+
+ESHOO: And you spoke to their CEO immediately?
+
+ZUCKERBERG: We shut down the app.
+
+ESHOO: Did you speak to their CEO immediately?
+
+ZUCKERBERG: We got in touch with them, and we asked them to — to — we commanded that they delete any of the data that they had, and their chief data officer told us that they had.
+
+WALDEN: The gentlelady's time is expired.
+
+ESHOO: Thank you.
+
+WALDEN: Chair now recognize gentleman from Illinois, Mr. Shimkus, for four minutes.
+
+REP. JOHN SHIMKUS (R-ILL.): Thank you, Mr. Chairman. Thank you for being here, Mr. Zuckerberg.
+
+Two things: First of all, I want to thank Facebook. You streamlined our Congressional Baseball Game last year. We've got the managers here, and I was told that, because of that, we raised an additional $100,000 for D.C. literacy and feeding kids and stuff.
+
+So that's a — the other thing is, I — I usually put my stuff up on the TV. I don't want to do it very much, because my dad — and he'd be mad if he went international, like you are — and he's been on Facebook for a long time. He's 88. It's been good for connecting with kids and grandkids.
+
+I just got my mother involved on an iPad and — because she can't handle a keyboard. And so — and I did this last week. So the — in this world — activity — I still think there is a positive benefit for my parents to be engaged on this platform.
+
+So — but there's issues, as being raised today. And so I'm going to go into a couple of those. Facebook made — developed access to user and friend data back in — your main update was in 2014. So the question is, what triggered that update?
+
+ZUCKERBERG: Congressman, this is — this is an important question to clarify.
+
+So, in 2007, we launched the platform in order to make it so that people could sign in to other apps, bring some of their information and some of their friends' information, to have social experiences.
+
+This created a lot of innovative experiences — new games, companies like Zynga. There were companies that you're — that you're familiar with, like Netflix and Spotify — had integrations with this that allowed social experiences in their apps.
+
+But, unfortunately, there were also a number of apps that used this for abuse, to collect people's data ...
+
+SHIMKUS: So, if I can interrupt, it's just — you identified that there was possibly social scraping going on?
+
+ZUCKERBERG: Yeah, there was abuse. And that's why, in 2014, we took the step of fundamentally changing how the platform works. So, now, when you sign into an app, you can bring your information, and, if a friend has also signed into the app, then we'll — then the app can know that you're friends, so you can have a social experience in that app.
+
+But, when you sign into an app, it now no longer brings information from other people.
+
+SHIMKUS: Yeah. Let me go to your announcement of audits. Who's going to conduct the audit? We're talking about — are there other Cambridge Analytics [sic] out there?
+
+ZUCKERBERG: Yes, Congressman. Good question. So we're going to start by doing an investigation, internally, of every single app that had access to a large amount of information, before we lock down the platform.
+
+If we detect any suspicious activity at all, we are working with third-party auditors — I imagine there will have to be a number of them, because there are a lot of apps — and they will conduct the audit for us.
+
+SHIMKUS: Yeah, I think we would hope that you would bring in a third party to help us ...
+
+ZUCKERBERG: Yes.
+
+SHIMKUS: ... clarify and have more confidence.
+
+The last question I have is, in yesterday's hearing, you talked a — a little about Facebook tracking in different scenarios, including logged-off users. Can you please clarify as — how that works? And how does tracking work across different devices?
+
+ZUCKERBERG: Yes, Congressman. Thank you for giving me the opportunity to clarify that.
+
+So one — one of the questions is — is, what information do we track, and why, about people who are not signed into Facebook. We track certain information for security reasons and for ads reasons.
+
+For security, it's to make sure that people who are not signed into Facebook can't scrape people's public information. You can — even when you're not signed in, you can look up the information that people have chosen to make public on their page, because they wanted to share it with everyone. So there's no reason why you should have to be logged in.
+
+But, nonetheless, we don't want someone to be able to go through and download every single public piece of information. Even if someone chose to make it public, that doesn't mean that it's good to allow someone to aggregate it. So, even if someone isn't logged in, we track certain information, like how many pages they're accessing, as a security measure.
+
+The second thing that we do is we provide an ad network that third-party websites and apps can run in order to help them make money. And those ads — you know, similar to what Google does and what the rest of the industry does — it's not limited to people who are just on Facebook.
+
+So, for the purposes of that, we may also collect information to make it so that those ads are more relevant and work better on those websites. There's a control that — for that second class of information around ad targeting — anyone can turn off, has complete control over it.
+
+For obvious reasons, we do not allow people to turn off the — the measurement that we do around security.
+
+WALDEN: The gentleman's time has expired.
+
+We now turn to the gentleman from New York, Mr. Engel, for four minutes.
+
+REP. ELIOT L. ENGEL (D-N.Y.): Thank you, Mr. Chairman.
+
+Mr. Zuckerberg, you have roots in my district, the 16th congressional district of New York. I know that you attended Ardsley High School and — and grew up in Westchester County.
+
+As you know, Westchester has a lot to offer, and I hope that you might commit to returning to Westchester County, perhaps to do a forum on — on this and some other things. I hope you would consider that. We'll — we'll be in touch — in touch with you. But I know that Ardsley High School's very proud of you.
+
+You mentioned yesterday that Facebook was deceived by Aleksandr Kogan when he sold user information to Cambridge Analytica. Does Facebook, therefore, plan to sue Aleksandr Kogan, Cambridge University or Cambridge Analytica, perhaps, for unauthorized access to computer networks, exceeding access to computer networks or breach of contract? And why or why — why not?
+
+ZUCKERBERG: Congressman, it's something that we're looking into. We already took action by banning him from the platform, and we're going to be doing a full audit to make sure that he gets rid of all the data that — that he — that he has, as well.
+
+To your point about Cambridge University, what we've found now is that there's a whole program associated with Cambridge University where a number of researchers, not just Aleksandr Kogan — although, to our current knowledge, he's the only one who's sold the data to Cambridge Analytica — there were a number of other researchers who were building similar apps.
+
+So we do need to understand whether there was something bad going on at Cambridge University overall that will require a stronger action from us.
+
+ENGEL: You mentioned before, in your remarks, hate speech. We've seen the scale and reach of extremism balloon in the last decade, partially because of the expansion of social platforms.
+
+Whether it's a white supremacist rally in Charlottesville that turned violent, or it's ethnic cleansing in Burma that resulted in the second-largest refugee crisis in the world, are you aware of any foreign or domestic terrorist organizations, hate groups, criminal networks or other extremist networks that have scraped Facebook user data?
+
+And, if they have, and if they do it in the future, how would you go about getting it back or deleting it?
+
+ZUCKERBERG: Congressman, we're not aware of any specific groups like that, that have — that have engaged in this. We are, as I've said, conducting a full investigation of any apps that had access to a large amount of data. And, if we find anything suspicious, we'll tell everyone affected.
+
+We do not allow hate groups on Facebook, overall. So, if — if there's a group that — their primary purpose or — or a large part of what they do is spreading hate, we will ban them from the platform, overall.
+
+ENGEL: So do you adjust your — your algorithms to prevent individuals interested in violence or nefarious activities from being connected with other like-minded individuals?
+
+ZUCKERBERG: Sorry. Can you repeat that?
+
+ENGEL: Do you adjust your algorithms to prevent individuals interested in violence or bad activities from being connected with other like-minded individuals?
+
+ZUCKERBERG: Congressman, yes. That's certainly an important thing that — that we need to do.
+
+ENGEL: Okay. And, finally, let me say this. Many of us are very angry about Russian influence in the — in the 2016 presidential elections and Russian influence over our presidential elections.
+
+Does Facebook have the ability to detect when a foreign entity is attempting to buy a political ad? And is that process automated? Do you have procedures in place to inform key government players when a foreign entity is attempting to buy a political ad or when it might be taking other steps to interfere in an election?
+
+ZUCKERBERG: Congressman, yes. This is an extremely important area. After we were slow to identify the Russian information operations in 2016, this has become a top priority for our company — to prevent that from ever happening again, especially this year, in 2018, which is such an important election year with the U.S. midterms, but also major elections in India, Brazil, Mexico, Hungary, Pakistan and a number of other places.
+
+So we're doing a number of things that — that I'm — that I'm happy to talk about, or follow up with afterward, around deploying new A.I. tools that can proactively catch fake accounts that Russia or others might create to spread misinformation.
+
+And one thing that I'll — that I'll end on here, just because I — I know we're — we're running low on time, is, since the 2016 election, there have been a number of significant elections, including the French presidential election, the German election and, last year, the U.S. Senate Alabama special election.
+
+ZUCKERBERG: And the A.I. tools that we deployed in those elections were able to proactively take down tens of thousands of fake accounts that may have been trying to do the activity that you're — that you're talking about. So our tools are getting better.
+
+For as long as Russia has people who are employed, who are trying to perpetrate this kind of interference, it will be hard for — for us to guarantee that we're going to fully stop everything.
+
+But it's an arms race, and I think that we're making ground and are — are doing better and better and are confident about how we're going to be able to do ...
+
+(CROSSTALK)
+
+WALDEN: Gentleman's time has expired.
+
+ENGEL: Thank you.
+
+WALDEN: Chair recognizes the chairman of the Health Subcommittee, Mr. — Dr. Burgess of Texas, for four minutes.
+
+REP. MICHAEL C. BURGESS (R-TEX.): Thank you, Mr. Chairman, and thanks to our witness for — for being here today.
+
+Mr. Chairman, I have a number of articles that I ask unanimous consent to insert into the record. I know I won't have time to get to all of my questions.
+
+WALDEN: Without objection. And we put the slide up you requested.
+
+BURGESS: And so I'm going to be submitting some questions for the record that are referencing these articles. One is “Friended: How the Obama Campaign Connected with Young Voters,” by Michael Scherer; “We Already Know How to Protect Ourselves from Facebook,” and I hope I get this name right — Zeynep Tufekci; and “It's Time to Break Up Facebook,” by Eric Wilson, who, in the interest of full disclosure ...
+
+WALDEN: Without objection.
+
+BURGESS: ... was a former staffer. And I will be referencing those articles in — in some written questions.
+
+I consulted my technology guru, Scott Adams, in the form of Dilbert, going back 21 years ago. And, when you took the shrink-wrap off of a piece of software that you bought, you were automatically agreeing to be bound by the terms and conditions.
+
+So we've gone a long way from taking the shrimp wrap — shrink wrap off of a — off of an app. But I don't know that things have changed so much.
+
+And, I guess, does Facebook have a position — a — a position that you recommend for elements of a company's terms and conditions that you encourage consumers to look at before they click on the acceptance?
+
+ZUCKERBERG: Congressman, yes.
+
+I think that it's really important for the service that people understand what they are doing and signing up for and how the service works. We have laid out all of what we do in the terms of service, because that's what is legally required of us.
+
+BURGESS: Let me just ask you, because we're going to run short on time, do you have — have you laid out for people what it — would be indicative of a good actor, versus a less-than-good actor, in someone who's developed a — one of these applications?
+
+ZUCKERBERG: Congressman, yes.
+
+We have a developer terms of service, which is separate from the normal terms of service for — for individuals using the service.
+
+BURGESS: Is the average consumer able to determine what elements would indicate poor or weak consumer protections, just by their evaluation of the terms and conditions? Do you think that's possible?
+
+ZUCKERBERG: Congressman, I'm not sure what you mean by that.
+
+BURGESS: Well, can you — can someone — can the average person — the average layperson look at the terms and conditions and make the evaluation, “Is this a strong enough protection for me to enter into this arrangement?”
+
+Look, I'm as bad as anyone else. I see an app, I want it, I download it, I breeze through the stuff. Just take me to the — to the good stuff in the app. But, if a consumer wanted to know, could they know?
+
+ZUCKERBERG: Congressman, I think you're raising an important point, which is that I think, if someone wanted to know, they could. But I think that a lot of people probably just accept terms of service without taking the time to read through it.
+
+I view our responsibility not as just legally complying with laying it out and getting that consent, but actually trying to make sure that people understand what's happening throughout the product.
+
+That's why, every single time that you share something on Facebook or one of our services, right there is a control in line, where you control who — who you want to share with, because I don't just think that this is about a terms of service. It's contextual.
+
+You — you want to present people with the information about what — what they might be doing and give them the relevant controls in line, at the time that they're making those decisions, not just have it be in the background sometime, or up front — make a one-time decision.
+
+BURGESS: Yeah, let me move onto something else.
+
+Mr. Pallone brought up the issue of — he wanted to see more regulation. We actually passed a bill through this committee last Congress dealing with data breach notification — not so much for Facebook, but for the credit card breaches — a good bill.
+
+Many of the friends on the other side of the dais voted against it. But it was Ms. Blackburn's bill, and I think it's one we should consider again, in light of what is going on here.
+
+But you also signed a consent decree back in 2011. And, you know, when I read through that consent decree, it's — it's pretty explicit. And there is a significant fine of $40,000 per violation, per day. And, if you've got 2 billion users, you can see how those fines would mount up pretty quickly.
+
+So, in the course of your audit, are you — are you extrapolating data for the people at the Federal Trade Commission for that — the terms and conditions of the consent decree?
+
+WALDEN: It's time.
+
+ZUCKERBERG: That is — I'm not sure what you mean by extrapolating data.
+
+BURGESS: Well, you're — you've said — you've referenced there are audits that are ongoing. Are you making that information from those audits available to our friends at the — at the agency, at the Federal Trade Commission?
+
+ZUCKERBERG: Congressman, as you know, the FTC is investigating this. And we are certainly going to be complying with them and working with them on that investigation.
+
+WALDEN: Gentleman's time has expired.
+
+Chair recognizes the gentleman from Texas, Mr. Green, for four minutes.
+
+REP. GENE GREEN (D-TEX.): Thank you, Mr. Chairman, and welcome to our committee.
+
+I want to follow up on what my — my friend from North Texas talked about on — on his cartoon. Next month, the General Data Protection Regulation — the GDPR — goes into effect in the European Union.
+
+The GDPR is pretty prescription on — prescriptive on how companies treat consumer data. And it makes it clear that consumers need to be in control of their own data.
+
+Mr. Zuckerberg, Facebook has committed to abiding to these consumer protections in Europe, and you face large penalties if they don't. In recent days, you've said that Facebook intends to make the same settings available to users everywhere, not only in Europe.
+
+Did I understand correctly that Facebook would not only make the same settings available, but that it will make the same protections available to Americans that they will the Europeans?
+
+ZUCKERBERG: Yes, Congressman. All the same controls will be available around the world.
+
+GREEN: Okay. And you commit today that Facebook will extend the same protections to Americans that European users — users will receive under the GDPR?
+
+ZUCKERBERG: Yes, Congressman. We believe that everyone around the world deserves good privacy controls. We've had a lot of these controls in place for years. The GDPR requires us to do a few more things, and we're going to extend that to the world.
+
+GREEN: There are many requirements in the GDPR, so I'm just going to focus on a few of them.
+
+The GDPR requires that the company's request for user consent — to be requested in a clear and concise way, using language that is understandable, and be clearly distinguishable from other pieces of information, including terms and conditions.
+
+How will that requirement be implemented in the United States?
+
+ZUCKERBERG: Congressman, we're going to put, at the top of everyone's app when they sign in, a tool that walks people through the settings and gives people the choices and — and asks them to make decisions on how they want their settings set.
+
+GREEN: One of the GDPR's requirements is data portability. Users must be able to — permitted to request a full copy of their information and be able to share that information with any companies that they want to.
+
+I know Facebook allows users in the U.S. to download their Facebook data. Does Facebook plan to use the currently existing ability of users to download their Facebook data as the means to comply with the GDPR's data portability requirement?
+
+ZUCKERBERG: Congressman, I think we may be updating it a little bit. But, as you say, we've had the ability to download your information for years now. And people have the ability to see everything that — that they have in Facebook, to take that out, delete their account and move their data anywhere that they want.
+
+GREEN: Does that download file include all the information Facebook has collected about any given individual?
+
+In other words, if I download my Facebook information, is there other information accessible to you within Facebook that I wouldn't see on that document, such as browsing history or other inferences that Facebook has drawn from users for advertising purposes?
+
+ZUCKERBERG: Congressman, I believe that all of your information is in that — that file.
+
+GREEN: GDPR also gives users the right to object to the processing of their personal data for marketing purposes, which, according to Facebook's website, includes custom micro-target audiences for advertising.
+
+Will the same right be object — to object be available to Facebook users in the United States? And how will that be implemented?
+
+ZUCKERBERG: Congressman, I'm not sure how we're going to implement that yet. Let me follow up with you on that.
+
+GREEN: Okay. Thank you, Mr. Chairman.
+
+And again, is the small — Facebook conducted, a couple years ago, an effort in our district in Houston for our small businesses. And it was one of the most successful outreach I've seen. So I appreciate that outreach to helping small businesses use Facebook to market their products.
+
+Thank you, Mr. Chairman.
+
+WALDEN: Thank the gentleman.
+
+The chair now recognizes the gentlelady from Tennessee, Ms. Blackburn, for four minutes.
+
+REP. MARSHA BLACKBURN (R-TENN.): Thank you, Mr. Chairman.
+
+Mr. Zuckerberg, I tell you, I think your cozy community, as Dr. Mark Jameson recently said, is beginning to look a whole lot like “The Truman Show,” where people's identities and relationships are made available to people that they don't know. And then that data is crunched and it is used and they are fully unaware of this.
+
+So I've got to ask you, I think what we're getting to here is, who owns the virtual you? Who owns your presence online?
+
+And I'd like for you to comment. Who do you think owns an individual's presence online? Who owns their virtual you? Is it you or is it them?
+
+ZUCKERBERG: Congresswoman, I believe that everyone owns their own content online. And that's — the first line of our terms of service, if you read it, says that.
+
+BLACKBURN: And where does privacy rank as a corporate value for Facebook?
+
+ZUCKERBERG: Congresswoman, giving people control of their information and how they want to set their privacy is foundational to the whole service. It's not just a — kind of an add-on feature, something we have to ...
+
+BLACKBURN: Okay.
+
+ZUCKERBERG: ... comply with.
+
+BLACKBURN: Well ...
+
+ZUCKERBERG: The reality is, if you have a photo — if you just think about this in your day-to-day life ...
+
+BLACKBURN: No, I can't let you filibuster right now.
+
+A constituent of mine who's a benefits manager brought up a great question in a meeting at her company last week. And she said, you know, health care, you've got HIPAA, you've got Gramm-Leach-Bliley, you've got the Fair Credit Reporting Act. These are all compliance documents for privacy for other sectors of the industry. She was stunned, stunned, that there are no privacy documents that apply to — to you all.
+
+And we've heard people say that — you know, and you've said you're considering, maybe you need more regulation. What we think is, we need for you to look at new legislation. And you're hearing there'll be more bills brought out in the next few weeks. But we have had a bill. The BROWSER Act, and I'm certain that you're familiar with this, is bipartisan. And I thank Mr. Lipinski and Mr. Lance and Mr. Flores for their good work on this legislation.
+
+We've had it for over a year and certainly we've been working on this issue for about four years. And what this would do is have one regulator, one set of rules for the entire ecosystem.
+
+And will you commit to working with us to pass privacy legislation, to pass the BROWSER Act? Will you commit to doing that?
+
+ZUCKERBERG: Congresswoman, I'm not directly familiar with the details of what you just said. But I certainly think that regulation in this area ...
+
+BLACKBURN: Okay, let's get — let's get familiar with the details.
+
+As you have heard, we need some rules and regulations. This is only 13 pages. The BROWSER Act is 13 pages, so you can easily become familiar with it. And we would appreciate your help.
+
+And I've got to tell you, as Mr. Green just said, as you look at the E.U. privacy policies, you're already doing much of that, if you're doing everything you claim. Because you will have to allow consumers to control their data, to change, to erase it.
+
+You have to give consumers opt-in so that mothers know — my constituents in Tennessee want to know that they have a right to privacy. And we would hope that that's important to you all.
+
+I want to move on and ask you something else. And please get back to me once you've reviewed the BROWSER Act. I would appreciate hearing from you.
+
+We've done one hearing on the algorithms. I chair Communications and Technology Subcommittee here. We're getting ready to do a second one on the algorithms. We're going to do one next week on prioritization.
+
+So I'd like to ask you, do you subjectively manipulate your algorithms to prioritize or censor speech?
+
+ZUCKERBERG: Congresswoman, we don't think about what we're doing as censoring speech.
+
+I think that there are — there are types of content like terrorism that I think that we all agree we do not want to have on our service. So we build systems that can identify those and can remove that content, and we're very proud of that work.
+
+BLACKBURN: Let me tell you something right now: I — Diamond and Silk is not terrorism.
+
+WALDEN: Gentlelady's time's expired.
+
+Chair recognizes gentlelady from Colorado, Ms. DeGette, for four minutes.
+
+REP. DIANA DEGETTE (D-COLO.): Thank you very much, Mr. Chairman.
+
+Mr. Zuckerberg, we appreciate your contrition. And we appreciate your commitment to resolving these past problems.
+
+From my perspective, though, and my colleagues on both sides of the aisle in this committee, we're interested in looking forward to preventing this kind of activity; not just with Facebook but with others in your industry.
+
+And as has been noted by many people already, we've been relying on self-regulation in your industry for the most part. We're trying to explore what we can do to prevent further breaches.
+
+So I'm going to ask you a whole series of fairly quick questions. They should only require yes-or-no answers.
+
+Mr. Zuckerberg, at the end of 2017, Facebook had a total shareholder equity of just over $74 billion. Is that correct?
+
+ZUCKERBERG: Sorry, Congresswoman, I'm not familiar with ...
+
+DEGETTE: At the end of 2017, Facebook had a total shareholder equity of over $74 billion, correct?
+
+ZUCKERBERG: Of over that?
+
+DEGETTE: That's correct. You're the CEO, do you know ...
+
+ZUCKERBERG: The market cap of the company was greater than that, yes.
+
+DEGETTE:
+
+Greater than $74 billion.
+
+Last year, Facebook earned a profit of $15.9 billion on $40.7 billion in revenue, correct? Yes or no.
+
+ZUCKERBERG: Yes.
+
+DEGETTE: Now, since the revelations surrounding Cambridge Analytica, Facebook has not noticed a significant increase in users deactivating their accounts. Is that correct?
+
+ZUCKERBERG: Yes.
+
+DEGETTE: Now, since the revelations surrounding Cambridge Analytica, Facebook has also not noticed a decrease in user interaction on Facebook. Correct?
+
+ZUCKERBERG: Yes, that's correct.
+
+DEGETTE: Okay. Now, I want to take a minute to talk about some of the civil and regulatory penalties that we've been seeing.
+
+I'm aware of two class-action lawsuits that Facebook has settled relating to privacy concerns: Lane v. Facebook was settled in 2010. That case resulted in no money being awarded to Facebook users. Is that correct?
+
+ZUCKERBERG: Congresswoman, I'm not familiar with the details of that.
+
+DEGETTE: Do you — you're — you're the CEO of the company, correct?
+
+ZUCKERBERG: Yes.
+
+DEGETTE: Now, there — this — this major lawsuit was settled. Do you know — do you know about the lawsuit?
+
+ZUCKERBERG: Congresswoman, I — I get briefed on — on these things ...
+
+(CROSSTALK)
+
+DEGETTE: Do you know about this lawsuit, Lane v. Facebook? Yes or no?
+
+ZUCKERBERG: I'm not familiar with the details of it.
+
+DEGETTE: Okay. If you can supplement — I'll just tell you, there was this lawsuit, and the users got nothing.
+
+In another case, Fraley v. Facebook, it resulted in a 2013 settlement fund of $20 million being established, with $15 individual payment — payouts to Facebook users, beginning in 2016. Is that correct?
+
+ZUCKERBERG: Congresswoman, I'm not familiar with ...
+
+(CROSSTALK)
+
+DEGETTE: You don't know about that one either.
+
+ZUCKERBERG: I — I ...
+
+DEGETTE: Okay. Well, I'll tell you it happened.
+
+ZUCKERBERG: ... I discuss them with — with our team, but I don't remember the exact details of them.
+
+DEGETTE: Okay. Now, as the result of a 2011 FTC investigation into Facebook's privacy policy — do you know about that one?
+
+ZUCKERBERG: The FTC investigation?
+
+DEGETTE: Yes.
+
+ZUCKERBERG: Yes.
+
+DEGETTE: Okay. You entered into a consent decree with the FTC which carried no financial penalty for Facebook. Is that correct?
+
+ZUCKERBERG: Congresswoman, I don't remember if we had a financial penalty.
+
+DEGETTE: You're the CEO of the company, you entered into a consent decree, and you don't remember if you had a financial penalty?
+
+ZUCKERBERG: I — I remember the consent decree. The consent decree is extremely important to how we operate the company.
+
+DEGETTE: Yes. I would think a financial penalty would be, too.
+
+Okay, well, the reason you probably don't remember is because the FTC doesn't have the authority to issue financial penalties for first-time violations.
+
+The reason I'm asking these questions, sir, is because we continue to have these abuses and these — and these data breaches, but, at the same time, it doesn't seem like future activities are prevented.
+
+And so I think one of the things that we need to look at in the future, as we work with you and others in the industry, is putting really robust penalties in place in case of — of improper actions.
+
+And that's why I ask these questions.
+
+WALDEN: The gentlelady's time is expired.
+
+Chair recognizes the gentleman from Louisiana, the whip of the House, Mr. Scalise, for four minutes.
+
+REP. STEVE SCALISE (R-LA.): Thank you, Mr. Chairman. And, Mr. Zuckerberg, I appreciate you coming here. I know, as some of my colleagues mentioned, you came here voluntarily, and we appreciate the opportunity to have this discussion, because, clearly, what your company's been able to do has revolutionized the way that people can connect.
+
+And there's a tremendous benefit to our country. Now it's a worldwide platform, and it's — it's helped create a shortage of computer programmers. So, as a former computer programmer, I think we would both agree that we need to encourage more people to go into the computer sciences, because our country is a world leader, thanks to your company and so many others.
+
+But it obviously raises questions about privacy and data and how the data is shared and what is a user's expectation of where that data goes. So I want to ask a few questions.
+
+First, would you agree that we need more computer programmers and people to go into that field?
+
+ZUCKERBERG: Congressman, yes.
+
+SCALISE: That's a public service announcement we just made, so appreciate you ...
+
+(LAUGHTER)
+
+... joining me in that.
+
+And Mr. Shimkus's question — it was really a follow-up to a question yesterday that — that you weren't able to answer, but it was dealing with how Facebook tracks users, especially after they log off.
+
+And you had said, in relation to Congressman Shimkus's question, that there is data mining, but it goes on for security purposes. So my question would be, is that data that is mined for security purposes also used to sell as part of the business model?
+
+ZUCKERBERG: Congressman, I believe that those are — are — that we collect different data for those. But I can follow up on the details of — of that.
+
+SCALISE: All right. If you could follow up, I would appreciate that.
+
+Getting into this — this new realm of content review, I know some of the people that work for Facebook — Campbell Brown said, for example, “This is changing our relationship with publishers and emphasizing something that Facebook has never done before: It's having a point of view.”
+
+And you mentioned the Diamond and Silk example, where there — you — you, I think, described it as a mistake. Were the people who made that mistake held accountable in any way?
+
+ZUCKERBERG: Congressman, let me follow up with you on that. That situation developed while I was here, preparing to testify, so I'm not ...
+
+SCALISE: Okay.
+
+(CROSSTALK)
+
+ZUCKERBERG: ... details on it.
+
+SCALISE: I do want to ask you about a study that was done dealing with the algorithm that Facebook uses to describe what is fed to people through the news feed.
+
+And what they found was, after this new algorithm was implemented, that there was a tremendous bias against conservative news and content, and a favorable bias toward liberal content.
+
+And, if you can look at that, that shows a 16-point disparity, which is concerning. I would imagine you're not going to want to share the algorithm itself with us. I'd encourage you if you wanted to do that. But who develops the algorithm?
+
+I wrote algorithms before, and you can determine whether or not you want to write an algorithm to sort data, to compartmentalize data; but you can also put a bias in, if that's the directive. Was there a directive to put a bias in? And, first, are you aware of this bias that many people have looked at and analyzed and seen?
+
+ZUCKERBERG: Congressman, this is a really important question. There is absolutely no directive in any of the changes that we make to have a bias in anything that we do. To the contrary, our goal is to be a platform for all ideas ...
+
+(CROSSTALK)
+
+SCALISE: And I know we're — we're almost out of time. So, if you can go back and look and determine if there was a bias — whoever developed that software — you have 20,000 people that work on some of this data analysis — if you can look and see if there is a bias and let us know if there is and what you're doing about it, because that is disturbing, when you see that kind of disparity.
+
+Finally, there has been a lot of talk about Cambridge and what they've done and the last campaign. In 2008 and 2012, there was also a lot of this done.
+
+One of the lead digital heads of the Obama campaign said recently, “Facebook was surprised we were able to suck out the whole social graph, but they didn't stop us once they realized that was what we were doing. They came to office in the days following the election recruiting and were very candid that they allowed us to do things they wouldn't have allowed someone else to do, because they were on our side.”
+
+That's a direct quote from one of the heads of the Obama digital team. What — what would she mean by they — Facebook — were on our side?
+
+ZUCKERBERG: Congressman, we didn't allow the Obama campaign to do anything that any developer on the platform wouldn't have otherwise been able to do.
+
+(CROSSTALK)
+
+SCALISE: So she was making an inaccurate statement, in your point of view?
+
+ZUCKERBERG: Yes, I ...
+
+(CROSSTALK)
+
+WALDEN: Gentleman's time has expired.
+
+SCALISE: ... the comments and look forward to those answers. Yield back the balance of my time.
+
+WALDEN: Chair now recognizes the gentleman from Pennsylvania, Mr. Doyle, for four minutes.
+
+REP. MIKE DOYLE (D-PA.): Thank you, Mr. Chairman. Mr. Zuckerberg, welcome.
+
+Facebook uses some of the most advanced data processing techniques and technologies on the planet, correct?
+
+(CROSSTALK)
+
+ZUCKERBERG: Congressman, we pride ourselves on — on doing good technical work, yes.
+
+DOYLE: Thank you. And — and you use these technologies to flag spam, identify offensive content and track user activity, right?
+
+ZUCKERBERG: Among other things.
+
+DOYLE: But not — 2015 when, the Guardian first reported on Cambridge Analytica using Facebook user data — was that the first time Facebook learned about these allegations?
+
+ZUCKERBERG: Congressman, in 2015, when we heard that the developer on our platform, Aleksandr Kogan ...
+
+DOYLE: Was that the first time you heard about it, when it was ...
+
+ZUCKERBERG: That — that Aleksandr Kogan had ...
+
+DOYLE : ... reported by The Guardian?
+
+ZUCKERBERG: ... sold data to Cambridge Analytica?
+
+DOYLE: When The Guardian made the report, was that the first time you heard about it?
+
+ZUCKERBERG: Yes.
+
+DOYLE: Thank you.
+
+So the — you weren't tuning — learn about these violations through the press?
+
+ZUCKERBERG: Congressman, sometimes we do. I generally think that ...
+
+DOYLE: Let me ask you this. You have the capability to audit developers' use of Facebook user data and — and do more to prevent these abuses. But the problem at Facebook not only persisted; it proliferated.
+
+In fact, relatives (sic) to other types of problems you had on your platform, it — it seems as though you turned a blind eye to this. Correct?
+
+ZUCKERBERG: Congressman, I disagree with that assessment. I do think that, going forward, we need to take a more proactive view of — of policing what the developers do. But, looking back, we've had an app review process. We investigate ...
+
+DOYLE: But, Mr. Zuckerberg ...
+
+ZUCKERBERG: ... tens of thousands of apps a year.
+
+DOYLE: ... it seems to us that — that — it seems like you were more concerned with attracting and retaining developers on your platform than you were with ensuring the security of Facebook user data.
+
+Let me switch gears. Your company is subject to a 20-year consent decree with the FTC since 2011. Correct?
+
+ZUCKERBERG: Congressman, we have a consent decree, yes.
+
+DOYLE: And that decree emerged out of a number of practices that Facebook engaged in that the FTC deemed to be unfair and deceptive.
+
+One such practice was making Facebook users' private information public without sufficient notice or consent; claiming that Facebook certified the security and integrity of certain apps when, in fact, it did not; and enabling developers to access excessive information about a user and their friends. Is that correct?
+
+ZUCKERBERG: Congressman, I'm not — I'm not familiar with all of the things that the FTC said, although I'm very familiar with the FTC ...
+
+DOYLE: But these were part of the — the consent decree.
+
+(CROSSTALK)
+
+ZUCKERBERG: ... order, itself.
+
+DOYLE: So I think — I'm — I'm just concerned that, despite this consent decree, Facebook allowed developers access to an unknown number of user profiles on Facebook for years — potentially hundreds of million, potentially more — and not only allowed, but partnered with individuals and app developers such as Aleksandr Kogan, who turned around and sold that data on the open market and to companies like Cambridge Analytica.
+
+Mr. Zuckerberg, you've said that you plan to audit tens of thousands of developers that may have improperly harvested Facebook user data. You also said that you planned to give all Facebook users access to some user controls that will be made available in the E.U. under the GDPR.
+
+But it strikes me that there's a real trust gap here. This developer data issue is just one example. But why should we trust you to follow through on these promises when you have demonstrated repeatedly that you're willing to flout both your own internal policies and government oversight when the needs suit you?
+
+ZUCKERBERG: Congressman, respectfully, I disagree with that characterization. We've had a review process for apps for years. We've reviewed tens of thousands of apps a year and taken action against a number of them.
+
+Our process was not enough to catch a developer who sold data ...
+
+DOYLE: I see my time is almost over.
+
+ZUCKERBERG: ... that they had in their ...
+
+DOYLE: I just want to say, Mr. Chairman ...
+
+(CROSSTALK)
+
+ZUCKERBERG: ... outside of our system.
+
+DOYLE: ... that, to my mind, the only way we're going to close this trust gap is through legislation that creates and empowers a sufficiently resourced expert oversight agency with rulemaking authority to protect the digital privacy and ensure ...
+
+WALDEN: Gentleman's ...
+
+DOYLE: ... that companies protect our users' data. With that, I yield back.
+
+WALDEN: ... Gentleman's time's expired.
+
+Chair recognizes the chairman of the Subcommittee on Digital Commerce and Consumer Protection, Mr. Latta of Ohio, for four minutes.
+
+REP. ROBERT E. LATTA (R-OHIO): Well thank you, Mr. Chairman. And — and, Mr. Zuckerberg, thanks very much for being with us today.
+
+First question I have is, can you tell the Facebook users that the Russians and the Chinese have not used the same methods as other third parties to scrape the entire social network for their gain?
+
+ZUCKERBERG: Congressman, we have not seen that activity.
+
+LATTA: None at all?
+
+ZUCKERBERG: I — not that I am aware of.
+
+LATTA: Okay.
+
+Let me ask this question. You know, it's a little bit that's been going on — when you made your opening statement in regards to what you'd like to see done with the — with the company and — and steps going — moving forward, there's been a couple questions, you know, about that you're going to be investigating the apps.
+
+How many apps are there out there that you'd have to investigate?
+
+ZUCKERBERG: There are tens of thousands of apps that had access to a large amount of people's information before we locked down the platform in 2014. So we're going to do an investigation that first involves looking at their patterns of API access and what those companies were doing.
+
+And then, if we find anything suspicious, then we're going to bring in third-party auditors to go through their technical and physical systems to understand what they did.
+
+And, if they — we find that they misused any data, then we'll ban them from our platform, make sure they delete the data and tell everyone affected.
+
+LATTA: Just to follow up on that, then, how long would it take to then investigate each of those apps, once you're doing that? Because, again, when you're talking about tens of thousands and you're going through that entire process, then how long will it take to go through each one of those apps?
+
+ZUCKERBERG: Yes, Congressman. It's going to take many months to do this full process.
+
+LATTA: Okay.
+
+ZUCKERBERG: And it's going to — it's going to be an expensive process with a lot of auditors. But we think that this is the right thing to do at this point.
+
+You know, before, we'd thought that, when developers told us that they weren't going to sell data, that that was — that that was a good representation. But one of the big lessons that we've learned here is that, clearly, we cannot just take developers' word for it. We need to go and enforce that.
+
+LATTA: Okay. We were talking about audits, as there have been some questions about this. On the audits, in 2011, Facebook signed — it did sign that consent order with the Federal Trade Commission for the privacy violations.
+
+Part of that consent order requires Facebook to submit third-party privacy audits to the FTC every two years. First, are you aware of the audits? And, second, why didn't the audits disclose or find these issues with the developer's access to users' data?
+
+ZUCKERBERG: Yes, Congressman, I'm — I'm aware of the audits that we do. We do audits every other year. They're ongoing. The audits have not found material issues with our privacy programs in place at the company.
+
+I think the broader question here is — we have had this FTC consent decree, but we take a broader view of what our responsibility for people's privacy is.
+
+And our — our view is that this — what a developer did — that they represented to us that they were going to use the data in a certain way, and then, in their own systems, went out and sold it — we do not believe is a violation of the consent decree. But it's clearly a breach of people's trust.
+
+And the standard that we hold ourselves to is not just following the laws that are in place. But we also — we just want to take a broader view of this in protecting people's information.
+
+LATTA: Let me — I'm about out of time here.
+
+Are you aware that Facebook did provide the auditors with all the information they requested for — when doing the FTC audits?
+
+ZUCKERBERG: Sorry, can you repeat that?
+
+LATTA: Yeah. Did we — did Facebook provide the auditors with all the information it requested when they were preparing the audit for the FTC?
+
+ZUCKERBERG: Congressman, I believe we do provide the audits to the FTC.
+
+LATTA: Okay. So — but all the information is provided. And were you ever personally asked to provide information or feedback in these audits to the FTC?
+
+ZUCKERBERG: Congressman, not personally, although I'm briefed on all of the audits by our team.
+
+LATTA: Okay.
+
+Mr. Chair, my time's expired and I yield back.
+
+WALDEN: Gentleman yields back.
+
+Chair recognizes the gentlelady from Illinois, Ms. Schakowsky, for four minutes.
+
+REP. JAN SCHAKOWSKY (D-ILL.): Thank you, Mr. Chairman.
+
+You know, you have a long history of growth and success, but you also have a long list of apologies. In 2003, it started at Harvard. “I apologize for any harm done as a result of my neglect.” 2006: “We really messed this one up.” 2007: “We simply did a bad job. I apologize for it.” 2010: “Sometimes we move too fast.” 2011: “I'm the first to admit that we're made — that we've made a bunch of mistakes.”
+
+2017 — this is in — in connection with the Russian manipulation of the election and the data that was — came from Facebook initially: “I am — I ask for forgiveness. I will work to do better.” So it seems to me from this history that self-regulation — this is proof to me that self-regulation simply does not work.
+
+I have a bill — the Secure and Protect Americans' Data Act — that I hope you will take a look at, very simple bill about setting standards for how you have to make sure that the data is protected, deadlines on when you have to release that information to the public. Certainly, it ought to go to the FTC, as well.
+
+But, in response to the questions about the apps and the investigation that you're going to do, you said you don't necessarily know how long. Have you set any deadline for that? Because we know, as my colleague said, that there are tens of thousands — there's actually been 9 million apps. How long do we have to wait for that kind of investigation?
+
+ZUCKERBERG: Congresswoman, we expect it to take many months.
+
+SCHAKOWSKY: Years?
+
+ZUCKERBERG: I hope not.
+
+SCHAKOWSKY: Okay.
+
+I want to ask you — yesterday — following up on your response to Senator Baldwin's question, you said yesterday that Kogan also sold data to other firms. You named Eunoia Technologies.
+
+How many are there total? And what are their names? Can we get that? And how many are total — are there total?
+
+ZUCKERBERG: Congresswoman, we can follow up with you to make sure you get all that information.
+
+SCHAKOWSKY: Yeah, but order of magnitude?
+
+ZUCKERBERG: I don't believe it was a large number. But, as we complete the audits we will know more.
+
+SCHAKOWSKY: What's a large number?
+
+ZUCKERBERG: A handful.
+
+SCHAKOWSKY: Has Facebook tried to get those firms to delete user data and its derivatives?
+
+ZUCKERBERG: Yes, Congresswoman. In 2015, when we first learned about it, we immediately demanded that the app developer and the firms that he sold it to delete the data. And they all represented to us that they had.
+
+It wasn't until about a month ago that new reports surfaced that suggested that they hadn't, which is what has kicked off us needing to now go do this full audit and investigation and investigate all these other apps that have come up.
+
+SCHAKOWSKY: And were derivatives deleted?
+
+ZUCKERBERG: Congresswoman, we need to complete the investigation and audit before I can confirm that.
+
+SCHAKOWSKY: You are looking at the ...
+
+(CROSSTALK)
+
+ZUCKERBERG: What they represented to us is that they have. But we need to now get into their systems and confirm that before I want to stand up here confidently and say what they've done.
+
+SCHAKOWSKY: So Mr. Green asked about the General Data Protection Regulation on May 25th that's going to go into effect by the E.U. And your response was — let me ask: Is your response that exactly the protections that are guaranteed, not the — what did he say? Yeah, not just the controls, but all the rights that are guaranteed under the General Data Protection Regulations will be applied to Americans, as well?
+
+ZUCKERBERG: Congresswoman, the GDPR has a bunch of different, important pieces. One is around offering controls over specific — over every use of people's data.
+
+SCHAKOWSKY: Right, that's one. Yes.
+
+ZUCKERBERG: That, we're doing.
+
+The second is around pushing for affirmative consent and putting a control in front of people that walks people through their — their choices.
+
+SCHAKOWSKY: Exactly.
+
+ZUCKERBERG: We're going to do that too. The second — although that might be different, depending on the laws in specific countries and different places — but we're going to put a tool at the top of everyone's app that walks them through their settings and helps them understand what is going on.
+
+SCHAKOWSKY: It sounds like it will not be exact. And let me say, as we look at the distribution of information ...
+
+WALDEN: The gentlelady's time ...
+
+SCHAKOWSKY: ... that who's going to protect us from Facebook is also a question.
+
+Thank you. I yield back.
+
+WALDEN: Gentlelady's time's expired.
+
+Chair recognizes the gentlelady from Washington state, the conference chairman.
+
+REP. CATHY MCMORRIS RODGERS (R-WASH.): Yeah, turn on the — thank you. And thank you, Mr. Zuckerberg, for joining us.
+
+Today is clearly timely. There's a number of extremely important questions Americans have about Facebook, including questions about safety and security of their data, about the process by which their data is made available to third parties, about what Facebook is doing to protect consumer privacy as we move forward.
+
+But one of the issues that is concerning me and I'd like to dig a little deeper into is how Facebook treats content on its platform. So, Mr. Zuckerberg, given the extensive reach of Facebook and its widespread use as a tool of public expression, do you think Facebook has a unique responsibility to ensure that it has clear standards regarding the censorship of content on its platform?
+
+And do you think Facebook adequately and clearly defines what these standards are for its users?
+
+ZUCKERBERG: Congresswoman, yes, I feel like we have a very important responsibility to outline what the content policies are and the community standards are.
+
+This is one of the areas that, frankly, I'm worried we're not doing a good enough job at right now, especially because, as an American-based company where about 90 percent of the people in our community are outside of the U.S., where there are different social norms and different cultures, it's not clear to me that our current situation of how we define community standards is going to be effective for articulating that around the world.
+
+So we're looking at different ways to evolve that, and I think that this is one of the more important things that we will do.
+
+MCMORRIS RODGERS: Okay.
+
+And, even focusing on content for here in America, I'd like to shift gears just a little bit and talk about Facebook's recent changes to its news feed algorithm.
+
+Your head of news partnerships recently said that Facebook is, quote, “taking a step to define what quality news looks like and give that a boost so that, overall, there is a less — there is less competition from news.”
+
+Can you tell me what she means by “less competition from news”? And also, how does Facebook objectively determine what is acceptable news and what safeguards exist to ensure that, say, religious or conservative content is treated fairly?
+
+ZUCKERBERG: Yes, Congresswoman. I'm not sure specifically what that person was referring to, but I can walk you through what the algorithm change was, if that's useful.
+
+MCMORRIS RODGERS: Well, maybe I'll just go on to my other questions, then.
+
+There's an issue of content discrimination, and it's not a problem unique to Facebook. There's a number of high-profile examples of edge providers engaging in blocking and censoring religious and conservative political content.
+
+In November, FCC Chairman Pai even said that edge providers routinely block or discriminate against content they don't like. This is obviously a serious allegation.
+
+How would you respond to such an allegation? And what is Facebook doing to ensure that its users are being treated fairly and objectively by content reviewers?
+
+ZUCKERBERG: Congresswoman, the principle that we're a platform for all ideas is something that I care very deeply about. I'm worried about bias, and we take a number of steps to make sure that none of the changes that we make are targeted at — in any kind of biased way.
+
+And I'd be happy to follow up with you and go into more detail on that, because I agree that this is a serious issue.
+
+MCMORRIS RODGERS: Over Easter, a Catholic university's ad with a picture of a historic San Damiano cross was rejected by Facebook. Though Facebook addressed the error within days, that it happened at all is deeply disturbing.
+
+Could you tell me what was so shocking, sensational or excessively violent about the ad to cause it to be initially censored? Given that your company has since said that it did not violate terms of service, how can users know that their content is being viewed and judged accordingly — to objective standards?
+
+ZUCKERBERG: Congresswoman, it sounds like we made a mistake there, and I apologize for that. And, unfortunately, with the amount of content in our systems and the current systems that we have in place to review, we make a relatively small percent of mistakes in content review. But that can be — that's — that's too many. And this is an area where we need to improve.
+
+What I — what I will say is that I wouldn't extrapolate from a few examples, to assuming that the overall system is biased. I — I get how people can — can look at that and draw that conclusion, but I don't think that that reflects the — the way that we're trying to build the system or what we've seen.
+
+WALDEN: Gentlelady's ...
+
+MCMORRIS RODGERS: Thank you. And I — I just — this — this is — important issue in building trust.
+
+ZUCKERBERG: I agree.
+
+MCMORRIS RODGERS: And that is going to be important as we move forward.
+
+Thank you, and I yield back.
+
+WALDEN: Gentlelady's time is expired.
+
+Chair recognizes the gentleman from North Carolina, Mr. Butterfield, for four minutes.
+
+REP. G.K. BUTTERFIELD (D-N.C.): Thank you, Mr. Chairman, and thank you, Mr. Zuckerberg, for your testimony here today.
+
+Mr. Zuckerberg, you have stated that your goal with Facebook is to build strong communities. And, certainly, that sounds good. You've stated here today, on the record, that you did not live up to the privacy expectations. And I appreciate that.
+
+But this committee — and you must know this — this committee is counting on you to right a wrong. And I hope you get it. In my opinion, Facebook is here to stay, and so you have an obligation to protect the data that you collect and the data that you use. And Congress has the power to regulate your industry, and we have the power to penalize misconduct.
+
+But I want to go in a different direction today, sir. You and your team certainly know how I feel about racial diversity in corporate America. And Sheryl Sandberg and I talk about that all of the time.
+
+Let me ask you this — and — and the Congressional Black Caucus has been very focused on — on holding your industry accountable — not just Facebook, your industry — accountable for increasing African American inclusion at all levels of the industry.
+
+And I know you've — have a number of diversity initiatives. In 2017, you've increased you black representation from 2 percent to 3 percent. While this is a small increase, it's better than none. And this does not nearly meet the definition of building a racially diverse community.
+
+CEO leadership — and I have found this to be absolutely true — CEO leadership on issues of diversity is the only way that the technology industry will change.
+
+So will you commit, sir, to convene — personally convene a meeting of CEOs in — in your sectors, many of them — them — all of them, perhaps are your friends — and to do this very quickly to develop a strategy to increase racial diversity in the technology industry?
+
+ZUCKERBERG: Congressman, I think that that's a good idea and we should follow up on it. From the conversations that I have with my fellow leaders in the tech industry, I — I know that this something that we all understand that the whole industry is behind on. And Facebook is certainly a big part of that issue.
+
+And we care about this not just from the justice angle, but because we know that having diverse, different viewpoints is what will help us serve our community better, which is ultimately what we're here to do. And I think we know that the industry is behind on this and want to ...
+
+(CROSSTALK)
+
+BUTTERFIELD: Well, we've talked with you over the years about this. And, while there has been some marginal improvement, we — we must do better than we have done.
+
+Recently, you appointed an African-American — our friend, Ken Chenault — to your board. And, of course, Erskine Bowles is already on your board, who is also a friend. But — but we've — we've got to concentrate more on board membership for African Americans, and also minorities at the entry level in — within your company.
+
+I was looking at your website a few minutes ago, and it looks like you list five individuals as leadership in your company, but none of them is African American.
+
+I was just looking at it — not only you and Sheryl, but David (sic), Mike and Chris — that is your leadership team. And this does not reflect America. Can you improve the numbers on your leadership team to be more diverse?
+
+ZUCKERBERG: Congressman, this is an issue that we're — we're focused on. We have a broader leadership than just five people. I mean ...
+
+BUTTERFIELD: Not on your website.
+
+ZUCKERBERG: I understand that.
+
+BUTTERFIELD: We can do better than that, Mr. Zuckerberg. We certainly can.
+
+Do you plan to add an African-American to your leadersh

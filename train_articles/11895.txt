@@ -1,0 +1,28 @@
+How not to calculate temperatures, part 2
+Unfortunately some folks who really should know better paid attention to the pseudonymous Steven Goddard, which spawned a whole slew of incorrect articles in places like the Telegraph, Washington Times, and Investor’s Business Daily about how the U.S. has been cooling since the 1930s. It even was the top headline on the Drudge Report for a good portion of the day. This isn’t even true in the raw data, and certainly not in the time of observation change-corrected or fully homogenized datasets.
+
+As mentioned earlier, Goddard’s fundamental error is that he just averages absolute temperatures with no use of anomalies or spatial weighting. This is fine when station records are complete and well distributed; when the station network composition is changing over time or the stations are not well-distributed, however, it gives you a biased result as discussed at length earlier.
+
+There is a very simple way to show that Goddard’s approach can produce bogus outcomes. Lets apply it to the entire world’s land area, instead of just the U.S. using GHCN monthly:
+
+Egads! It appears that the world’s land has warmed 2C over the past century! Its worse than we thought!
+
+Or we could use spatial weighting and anomalies:
+
+Now, I wonder which of these is correct? Goddard keeps insisting that its the first, and evil anomalies just serve to manipulate the data to show warming. But so it goes.
+
+Update
+
+Anthony Watts asked for the code I used to generate these figures, something I should have included in the initial post.
+
+The raw GHCN v3 data is available here.
+
+The code for the first figure (averaged absolutes) is here (Excel version here).
+
+The code for the second figure (gridded anomalies) is here.
+
+The land mask used in calculating grid weights in the second figure is here.
+
+Also, for reference, here is how my Figure 2 compares to the land records from all the other groups:
+
+Written by Zeke

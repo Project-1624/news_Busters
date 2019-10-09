@@ -1,0 +1,42 @@
+Answers to FAQs
+A Grid style display theme presents the main VZ Navigator screen as a set of icons that may be scrolled in any direction using the navigation key.
+
+VZ Navigator is a mobile device application that allows you to get a map of a location and locate places and get directions to any destination. There are four menu options within VZ Navigator:
+
+NOTE: that it may be necessary for VZ Navigator to contact the server to update the directions.
+
+Navigation will be suspended during the call. At the end of the call, VZ Navigator will determine your location and will continue navigating to your destination.
+
+NOTE: Navigation will be suspended during the call. At the end of the call, VZ Navigator will determine your location and will continue navigating to your destination.
+
+Yes. At any time you can press the Send key to place a call. You can call your destination, someone in your phone book, or dial any number.
+
+If you miss a turn, or if you go off route, VZ Navigator will automatically contact the server and download new directions.
+
+Note: You can also search for all places near your current location by leaving the "What" field blank. To search for all places within a certain category, follow this example: To search for all nearby restaurants, highlight the Category field, scroll right to the category list and select Eating & Drinking and press OK while leaving the "What" field blank.
+
+No, you don’t need to select a specific category. If the field says All Categories, VZ Navigator will search for any place of interest with the keyword entered.
+
+Yes, VZ Navigator allows you to store your Home address and Work address within My Places. In addition, you can save any search result, or any address you enter, into your favorites by selecting Options (or Menu for BlackBerry users) and then selecting Save (or Add for BlackBerry users) to Favorites.
+
+Meeting for dinner? Search for the restaurant and send them a Place Message with the location. If the recipient has VZ Navigator too, they can automatically get turn-by-turn audible driving directions to the destination. When using Place Messaging, you will be charged at the standard text message rate.
+
+Place Messaging allows you to send location-enabled messages, with your own customizable text, to other Verizon Wireless subscribers.
+
+What are locations privacy settings? The first time you launch VZ Navigator, you will be prompted to set up your location privacy settings. Location privacy settings define when and how VZ Navigator is permitted to get your location. Each location-enabled application has its own location privacy settings. Location privacy settings may be set to one of three values, Always Allow, Always Ask or Always Deny or Allow, Prompt, or Deny (for BlackBerry users). In addition, you can set up the days of the week and times of the day when VZ Navigator can get your location. If the location privacy settings are set to Always Allow (or Allow for BlackBerry Users), VZ Navigator will not ask you if it can get your location. Any time you use VZ Navigator to get directions somewhere, to look for things around you or to display a map, the application will do this without asking your permission.
+
+If the location privacy settings are set to Always Ask (or Prompt for BlackBerry users), then any time you use VZ Navigator to get directions somewhere, to look for things around you or to display a map, the application will ask you for permission to get your location.
+
+If the location privacy settings are set to Always Deny (or Deny for BlackBerry users), then VZ Navigator will not get your location. For VZ Navigator, given that no one else will be able to access your location information, Always Allow (or Allow for BlackBerry users) is the recommended location privacy setting. Back to top
+
+How can I tell if my phone is enabled to get my location? If the location icon on the status looks like this , you phone is enabled to get your location. If it looks like this , your phone is not enabled to get your location and VZ Navigator will not work correctly. Back to top
+
+How do I set up my location privacy setting? The first time you run VZ Navigator, you will be asked to accept an End User License Agreement. After you accept it, VZ Navigator will present you with a screen where you can set up your location privacy settings. If you want to be able to use VZ Navigator any time, without being asked for permission to get your location, don’t make any changes on the screen and select OK. If you want to make any changes, scroll to the appropriate fields, make the changes, and then press OK. Back to top
+
+Can I change my location privacy settings later? Yes. You can make changes in one of two ways. First, you can download the free Get It Now application called Location Management. It is located under getGoing. Location Management will allow you to change the location privacy settings for any location-enabled application you download to your phone. For BlackBery users: From the BlackBerry home screen, select Options. Select Advanced Options. Select Applications. Select VZ Navigator. Press the Menu key and select Edit Permissions. Expand Connections. Select Location (GPS) and set privacy setting to Allow, Prompt, or Deny. Back to top
+
+How do I enable my phone to get my location? Before you use VZ Navigator, your phone’s Position Location function must be enabled. This needs to be done only once. The following steps indicate how to enable your phone’s Position Location function. Note: VZ Navigator must be off to complete the following steps: Press the OK Button Access the phone’s Settings & Tools Menu Scroll to System and press OK Scroll to Location and press OK Scroll to Location On and press Select (the right soft key). The icon on the status bar will change to . Note: BlackBerry users should follow the directions below to enable the phone's Position Location function. Select Options. Select Advanced Options. Select GPS. Select GPS services and change the option to Location On. Back to top
+
+If I turn Location On, can anyone find my location No. It does not allow anyone to locate the phone. You must still opt-in to a location application before the application can locate the phone’s location. Back to top
+
+If I turn Location On, will they still be able to find me if I dial 9-1-1? Yes. 9-1-1 operators will be able to locate you regardless of whether the switch is set to E911 Only or Location On. Back to top

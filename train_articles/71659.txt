@@ -1,0 +1,25 @@
+Civilian Noninstitutional Population and Associated Rate and Ratio Measures for Model-Based Areas
+
+The Local Area Unemployment Statistics (LAUS) program of the Bureau of Labor Statistics (BLS) publishes four data measures—civilian labor force, employed persons, unemployed persons, and unemployment rates—on a monthly basis for approximately 7,500 subnational areas. Data for about one percent of the LAUS areas are model-based. These model-based areas include all census regions and divisions, the 50 states and the District of Columbia, the Los Angeles-Long Beach-Glendale, CA Metropolitan Division and New York city, NY, and a handful of other large metropolitan areas and metropolitan divisions and associated balance-of-state areas.
+
+For the LAUS model-based areas, BLS obtains estimates of the civilian noninstitutional population ages 16 and older, which is the universe for labor force data, from the Census Bureau. These population estimates are used to adjust labor force level (that is, number-of-person) measures to be consistent with the Census Bureaus most up-to-date information on the distribution of population across states. Labor force level measures for all LAUS areas are controlled to the Census Bureaus statewide estimates of civilian noninstitutional population ages 16 and older through a process of additivity. (See the page on LAUS estimation methodology for more information on additivity.) These Census Bureau population data also allow BLS to calculate labor force participation rates and employment-population ratios for the LAUS model-based areas.
+
+The statewide data files below include monthly estimates of civilian noninstitutional population, labor force participation rates, and employment-population ratios for the 50 states and the District of Columbia from January 1976 forward. Data are presented on both seasonally-adjusted and not-seasonally-adjusted bases. Series for civilian noninstitutional population ages 16 and older are not available on a seasonally-adjusted basis. Thus, the statewide population estimates are the same in both sets of monthly data files. Differences between monthly seasonally-adjusted and not-seasonally-adjusted labor force participation rates and employment-population ratios are determined by the seasonal components of the LAUS labor force and employment levels, respectively. Similarly, the standard error measures associated with the labor force participation rates and employment-population ratios for the current month are determined by the standard errors on the corresponding LAUS level measures. Error measures for current unemployment rates, by contrast, reflect standard errors of the underlying employment and unemployment levels.
+
+At the beginning of each year, the four LAUS measures are typically revised for the previous five years as updated inputs to the models become available. For the latest annual processing cycle, both seasonally-adjusted data and not-seasonally-adjusted data for all model-based areas were revised from January 2014 forward on February 28, 2019. The Census Bureau estimates of civilian noninstitutional population ages 16 and older each year are revised back to the base period for post-censal estimation, currently April 2010. Changes to not-seasonally-adjusted labor force participation rates and employment-population ratios for states from January 2014 forward reflect model-based reestimation of the underlying labor force and employment levels in conjunction with revisions to estimates of civilian noninstitutional population ages 16 and older. Changes to seasonally-adjusted labor force participation rates and employment-population ratios for states from January 2014 forward reflect model-based reestimation and re-seasonal adjustment of the underlying labor force and employment levels in conjunction with revisions to estimates of civilian noninstitutional population ages 16 and older. Changes to both not-seasonally-adjusted and seasonally-adjusted rates and ratios for states from April 2010 through December 2013 reflect the updated estimates of civilian noninstitutional population ages 16 and older only.
+
+Statewide Data
+
+Monthly Series Employment status of the civilian noninstitutional population, seasonally adjusted (TXT 3.1M) (ZIP 2.1M) Employment status of the civilian noninstitutional population, not seasonally adjusted (TXT 3.1M) (ZIP 2.1M)
+
+Annual Average Series Employment status of the civilian noninstitutional population, annual averages (TXT 234K) (ZIP 175K)
+
+
+
+Monthly Error Information
+
+Region, Division, and State Labor Force Participation Rates with Confidence Intervals, Their Relationships to the U.S. Rate, and Over-the-Month Rate Changes with Significance Indicators (XLS)
+
+Region, Division, and State Employment-Population Ratios with Confidence Intervals, Their Relationships to the U.S. Ratio, and Over-the-Month Ratio Changes with Significance Indicators (XLS)
+
+Model-Based Error Measures on Labor Force Participation Rates and Employment-Population Ratios (XLS)

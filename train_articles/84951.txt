@@ -1,0 +1,58 @@
+Germline mitochondrial DNA mutations aggravate ageing and can impair brain development
+Animals
+
+All mice in this study were on an inbred C57BL/6NCrl nuclear background. The study was performed in strict accordance with the recommendations and guideline of the Federation of the European Laboratory Animal Science Association (FELASA). Protocols were approved by the Landesamt für Natur, Umwelt und Verbraucherschutz, Nordrhein-Westfalen, Germany, and, in Sweden, the animal welfare ethics committee and performed in accordance with Swedish law.
+
+Complete mtDNA sequencing
+
+The protocol used was modified slightly from that described previously11. Total DNA from tail biopsies from 3-week-old animals was collected, and the mitochondrial genome was amplified with a modified primer set, producing 30 overlapping fragments of 1–1.5 kilobases (kb) (Supplementary Table 3). Each primer was tagged with M13F or M13R sequence for use in sequencing reactions11. Sequences were aligned to the C57BL/6NCrl mtDNA reference sequence (JF286601.1) to detect mutations, with position numbering altered to remain consistent with the C57BL/6J mtDNA reference sequence (NC_005089.1). Only mutations >20% in relative abundance are detected by this assay31, thus we excluded animals from the first backcross generation (maximum mutation levels 15%) from this assay.
+
+Mutation load analysis
+
+A PCR–clone–sequence method was used to assay mutation loads. Total DNA was extracted from tail biopsy samples obtained from the mice at weaning (∼3 weeks of age). Detailed protocols have been published elsewhere32. Two pseudogenes of the target region are found in the nuclear genome, but differ from the reference sequence by 19–20 sites. Any sequence sharing two or more consecutive single nucleotide polymorphisms with these pseudogenes was excluded from the analysis. An error-rate assessment of the method is described in ref. 32. One single nucleotide polymorphism variation was observed in 295 clones assayed, giving an observed error rate of 3.48 × 10−6. This is less than one-sixth the mean rate observed for the wild-type C57BL/6N. We obtained 3.3 megabases of mtDNA sequence (mean coverage = 88.7 kb per animal from an average of 91 clones per animal) from type I–VI mice (Fig. 1a–c).
+
+Lambda clones of intact mtDNA molecules were obtained as described20. Mitochondria were sucrose purified from livers of 10-week-old animals to obtain sufficient mtDNA for cloning. Approximately 30 clones were chosen at random for complete mtDNA sequencing, as described above. In total, 250,298 bp and 259,858 bp of cloned mtDNA was sequenced from two C57BL/6N controls and showed no mtDNA mutations (error rate <3.85 × 10−6 mutations per bp at 16× sequencing depth). In total, 350 complete mtDNA molecules, corresponding to a total of 5.6 megabases of mtDNA, were sequenced.
+
+RFLP-PCR assay
+
+Mutation level quantification by quantitative restriction fragment length polymorphism (RFLP)-PCR was carried out as described13. One microlitre of lysate was used for PCR. Primers used: 5247A>G, 5′-TGTAAAACGACGGCCAGTAGACCTCAACTAGATTGGCAG-3′ and 5′-CAGGAAACAGCTATGACCGGTGACTGGCTGAGTAAGCATTAGACTG-3′; 5839T>C and 5840G>A, 5′-CCCACCTCTAGCCGGAAATCTAGC-3′ and 5′-CAGGAAACAGCTATGACCAATGCCTGCGGCTAGCACTG-3′. M13 tag sequences are in bold. FAM-labelled primers M13F (for 5247A>G) and M13R (for 5839T>C and 5840G>A) were used for fragment detection. Restriction enzymes used in the assay were HphI for 5247A>G, NlaIII for 5839T>C and 5840G>A (New England Biolabs).
+
+Statistical analysis
+
+Statistical analyses were performed using GraphPad Prism (GraphPad Software), with α = 0.05.
+
+Mitochondrial respiratory chain complex activities
+
+Analysis of isolated respiratory chain complex activities was assayed as described13.
+
+Histology and enzyme histochemistry
+
+For visualization of brain morphology, slides were stained with either cresyl violet or haematoxylin and eosin, dehydrated in increasing concentrations of ethanol (70%, 95% and 99.5%), mounted (Entellan, VWR International AB) and coverslipped. The activity of succinate dehydrogenase was visualized as previously described33.
+
+Tissue preparation for cryosectioning
+
+Fresh–frozen brain sections for histochemistry and in situ hybridization were prepared as described33. Combined COX and succinate dehydrogenase staining of mouse colons was conducted as described26. Counts of colonic crypts with and without COX activity were performed by a researcher blinded to animal genotype.
+
+Nurr1 gene expression
+
+High-stringency radioactive in situ hybridization was performed as previously described33 to detect Nurr1 mRNA transcripts using a synthetic DNA oligonucleotide probe (5′-GCGTAGTGGCCACGTAGTTCTGGTGGAAGTTCTGAAGGGAGCCCGGATCG-3′; Thermo Scientific).
+
+Magnetic resonance imaging
+
+MRI was performed on animals as described previously33 using a horizontal 4.7 T/40 cm magnet (BioSpec Avance 47/40; Bruker), fitted with a 12-cm inner diameter self-shielded gradient system (maximum gradient strength 200 mT m−1). A linear birdcage resonator (25 mm inner diameter) was used for excitation and detection. The sequence used for inversion recovery imaging had the following parameters: echo time 35.6 ms, repetition time 2566.8 ms, rapid acquisition with relaxation enhancement (RARE)-factor 8 with RARE-maximum 4, inversion time 450 ms, and matrix size 64 × 64 × 128 with two averages. The field of view was 0.9 × 1.2 (or 1.4 for larger voxel) × 1.8 cm, yielding the following directional resolutions: 0.14 mm (dorsolateral), 0.18 mm (left–right) and 0.14 mm (rostrocaudal).
+
+Male fertility analysis
+
+Type III males (n = 8) and type VI males (n = 8) (Fig. 1a, c) were mated to single C57BL/6N females. The size of the first litter was recorded. Males were removed from females after 60 days of unproductive mating, with females observed for three additional weeks to confirm that the mating was unproductive.
+
+Blood and tissue analyses
+
+Blood was drawn from the heart immediately after death, with haemoglobin and erythrocyte values determined by Laboklin GmbH & Co. KG. Spleen and heart masses were determined after dissection and washing in PBS to remove residual blood.
+
+Rearing behaviour
+
+Spontaneous rearing activity in an open field was studied in wild-type mice derived from various crossings. A multi-cage infrared-sensitive motion-detection system (Accuscan Instruments) was used. Total rearing was recorded at 5-min intervals over 90 min, and was determined by vertical sensor beam-breaks using appropriate software (VersaMax activity monitor, Accuscan Instruments). Animals were habituated in a dimly lit, low-noise and ventilated experimental room kept at 20–22 °C for 1 h before testing. Experiments were performed between 11 am and 6 pm (light phase).
+
+Phenotype scoring
+
+The presence of alopecia, greying of the hair, body size reduction and kyphosis were each scored on a scale of 0–3 (0, absence of phenotype; 1, moderate presence of phenotype; 2, strong presence of phenotype; 3, severe presence of phenotype) and the scores were summed for each animal. A summed score of 0 thus indicates normal ageing, whereas a score of 12 indicates marked premature ageing similar to the end-stage phenotype of mtDNA mutator mice. The animals were scored blind without knowledge of the genotype.

@@ -1,0 +1,6 @@
+Protecting Your Data When Using Browser Extensions
+Q. I was installing a browser extension the other day, and the software said it needed to “read and change all the data on the websites you visit.” Why is this, and should I be worried?
+
+A. Browser extensions meant to perform tasks — like finding coupon deals or stopping videos from automatically playing — are programs all on their own. Web browsers that use a permissions system to explain what data the extension needs to function should alert you to what the program wants to do and, as with app permissions on mobile devices, give you a chance to stop installing the software if its reach seems too invasive.
+
+In theory, an extension that has license to “read and change all the data on the websites you visit” can see the sites you browse, make changes to those pages and report back to its creator with the information. Some extensions legitimately require access to this data to perform their function. For example, video-blocking software must read a website’s code to see that a clip is set to play automatically — so it knows how to stop the playback.

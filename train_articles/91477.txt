@@ -1,0 +1,44 @@
+NSA PRISM scandal: What Patriot Act Section 215 does.
+Photo by Tim Sloan/AFP/Getty Images
+
+As we all scramble to become cybersecurity scholars, here's a handy guide to Section 215, the part of the Patriot Act that authorized the National Security Agency to collect cell data from Verizon and also possibly data for its PRISM program.
+
+
+
+What is Section 215?
+
+
+
+Advertisement
+
+
+
+To understand Section 215, you first need to read Section 103(a) of the 1978 Foreign Intelligence Surveillance Act, which established the FISA court system that grants the government permission to conduct electronic surveillance.
+
+The relevant section:
+
+
+
+The Chief Justice of the United States shall publicly designate seven district court judges from seven of the United States judicial circuits who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this Act, except that no judge designated under this subsection shall hear the same application for electronic surveillance under this Act which has been denied previously by another judge designated under this subsection.
+
+Under Section 215, the government can apply to the FISA court to compel businesses (like Verizon) to hand over user records. Here's what Slate wrote about Section 215 in a 2003 guide to the Patriot Act:
+
+
+
+Section 215 modifies the rules on records searches. Post-Patriot Act, third-party holders of your financial, library, travel, video rental, phone, medical, church, synagogue, and mosque records can be searched without your knowledge or consent, providing the government says it's trying to protect against terrorism.
+
+Advertisement
+
+
+
+As Section 215 stands today—in the reauthorized version of the Patriot Act passed in 2005—"tangible things" (aka user data) sought in a FISA order "must be 'relevant' to an authorized preliminary or full investigation to obtain foreign intelligence information not concerning a U.S. person or to protect against international terrorism or clandestine intelligence activities." It also established congressional oversight for the FISA program, requiring the DOJ to conduct an audit of the program and the "effectiveness" of Section 215, and to submit an unclassified report on the audit to the House and Senate Committees on the Judiciary and Intelligence.
+
+
+
+That was during the Bush administration. How has the Patriot Act changed since President Obama was elected?
+
+Not very much. Sen. Obama voted to reauthorize the Patriot Act in 2005, a decision he defended on the campaign trail in 2008 with the caveat that some provisions contained in Section 215, like allowing the government to go through citizens' library records, "went way overboard." But in 2011 President Obama signed a bill to extend the Patriot Act's sunset clause to June 1, 2015—with Section 215 intact in its 2005 form.
+
+
+
+Did the NSA also use Section 215 to obtain Internet data for its PRISM program?

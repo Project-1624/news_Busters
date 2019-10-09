@@ -1,0 +1,10 @@
+Illinois Report Card Data
+The 2013-2014 Report Card data file contains all the data used in the production of the 2014 School Report Cards. Included are data on student demographics, instructional setting, district staffing, finance, and state assessment.
+
+View the entire report card file layout in MS Excel format The fields/variables are semicolon delimited.
+
+A segmented version of the data file (Zip format, 7.4 MB) is also available. The 28 files include a "read me" file listing the fields contained in the individual segments.
+
+A SPSS data file (Zip format, 13.5 MB) is available for users with the SPSS program.
+
+A SAS dataset file and SAS program file SAS file are available for users with the SAS program (Zip format, 19 MB)

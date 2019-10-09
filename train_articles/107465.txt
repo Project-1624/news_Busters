@@ -1,0 +1,22 @@
+It's Just the Key to Your Room
+Warning: Hotel card keys may contain personally identifiable data on the magnetic stripe. Is it factor fiction?
+
+
+
+"It's an urban legend. It doesn't work," says Joe McInerney, president of the American Hotel and Lodging Association (AHLA). Nonetheless, unsubstantiated reports keep surfacing every six months or so, he acknowledges.
+
+For example, last fall, an IT director at a travel club in Wyomissing, Pa., toldthat he had found personal information on magnetic hotel key cards when visiting three major hotel chains. The IT professional said he read the cards using a commonly available ISO-standard swipe-card reader that plugs into any USB port. At one resort, he said, his card key contained credit card information, his address and his name. He said the hotel expressed surprise when he showed it the results. His comments, which appeared in ablog in September , created a furor. He subsequently declined to comment for this story.
+
+As part of ainvestigation into the allegations, reporters and other staff members who traveled last fall brought back 52 hotel card keys over a six-week period. The cards came from a wide range of hotels and resorts, from Motel 6 to Hyatt Regency and Disney World. We scanned them using an ISO-standard card reader from MagTek Inc. in Carson, Calif.the type anyone could buy online.
+
+We then sent the cards to Terry Benson, engineering group leader at MagTek, for a more in-depth examination using specialized equipment. MagTek also gathered cards from its own staff. In all, 100 cards were tested.
+
+Most cards were completely unreadable with an off-the-shelf card reader. Neither Benson norfound any personally identifiable information on them. Based on these results, we think it's unlikely that hotel guests in the U.S. will find any personal information on their hotel card keys. There is, however, some debate among industry experts over whether some older systems could have been configured to store personal information under specific scenarios.
+
+
+
+
+
+
+
+To understand why personal information is unlikely to appear on hotel card keys, you must first understand how the technology works. Electronic locks that use magnetic cards were developed to address petty-theft problems associated with traditional keys. "Those problems have virtually gone away," says Brian Garavuso, CIO at Hilton Grand Vacations Co. in Orlando and chairman of the AHLA's technology committee. Most keys contain only a room number, a departure date and a "folio," or guest account codealthough other data may be stored on them as well.The door locks, which are stand-alone, battery-powered devices, each

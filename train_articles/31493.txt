@@ -1,0 +1,6 @@
+Drug Overdose Mortality by State
+1 The number of deaths per 100,000 total population.
+
+Source: http://wonder.cdc.gov
+
+States are categorized from highest rate to lowest rate. Although adjusted for differences in age-distribution and population size, rankings by state do not take into account other state specific population characteristics that may affect the level of mortality. When the number of deaths is small, rankings by state may be unreliable due to instability in death rates.

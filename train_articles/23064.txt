@@ -1,0 +1,21 @@
+Some background on broadband privacy changes
+
+Congress passed joint resolutions to rescind FCC online privacy regulations this week, which President Trump is expected to sign. Ignore the hyperbole. Lawmakers are simply attempting to maintain the state of Internet privacy law that’s existed for 20-plus years.
+
+Since the Internet was commercialized in the 1990s, the Federal Trade Commission has used its authority to prevent “unfair or deceptive acts or practices” to prevent privacy abuses by Web companies and ISPs. In 2015, that changed. The Obama FCC classified “broadband Internet access service” as a common carrier service, thereby blocking the FTC’s authority to determine which ISP privacy policies and practices are acceptable.
+
+Privacy advocates failed to convince the Obama FTC that de-identified browsing history is “sensitive” data. (The FTC has treated SSNs, medical information, financial information, precise location, etc. as “sensitive” for years and companies must handle these differently.) The FCC was the next best thing and in 2016 they convinced the FCC to say that browsing history is “sensitive data,” but it’s sensitive only when ISPs have it.
+
+This has contributed to a regulatory mess for consumers and tech companies. Technological convergence is here. Regulatory convergence is not.
+
+Consider a plausible scenario. I start watching an NFL game via Twitter on my tablet on Starbucks’ wifi. I head home at halftime and watch the game from my cable TV provider, Comcast. Then I climb into bed and watch overtime on my smartphone via NFL Mobile from Verizon.
+
+One TV program, three privacy regimes. FTC guidelines cover me at Starbucks. Privacy rules from Title VI of the Communications Act cover my TV viewing. The brand-new FCC broadband privacy rules cover my NFL Mobile viewing and late-night browsing.
+
+Other absurdities result from the FCC’s decision to regulate Internet privacy. For instance, if you bought your child a mobile plan with web filtering, she’s protected by FTC privacy standards, while your mobile plan is governed by FCC rules. Google Fiber customers are covered by FTC policies when they use Google Search but FCC policies when they use Yelp.
+
+This Swiss-cheese approach to classifying services means that regulatory obligations fall haphazardly across services and technologies. It’s confusing to consumers and to companies, who need to write privacy policies based on artificial FCC distinctions that consumers disregard.
+
+The House and Senate bills rescind the FCC “notice and choice” rules, which is the first step to restoring FTC authority. (In the meantime, the FCC will implement FTC-like policies.)
+
+Considering that these notice and choice rules have not even gone into effect, the rehearsed outrage from advocates demands explanation: The theatrics this week are not really about congressional repeal of the (inoperative) privacy rules. Two years ago the FCC decided to regulate the Internet in order to shape Internet services and content. The leading advocates are outraged because FCC control of the Internet is slipping away. Hopefully Congress and the FCC will eliminate the rest of the Title II baggage this year.

@@ -1,0 +1,74 @@
+The “Big Six” Tax Plan and the Lower-Middle Class
+On Wednesday, Republican leadership released a framework for a tax reform bill. One major question about the framework so far has been about how the plan would impact the tax burden of lower-middle income households.[1]
+
+In anticipation of the plan’s release, there was already a great deal of confusion about this question. Initial reports suggested that the plan would include a 12 percent bottom bracket, which would be higher than the current bottom bracket of 10 percent – leading some to speculate that the Republican framework would raise taxes on some lower-middle income households.
+
+Even after the framework was released, some questions remained about the effects of the tax plan on the middle class. Advocates of the framework noted that it would nearly double the standard deduction, which would amount to a large middle-class tax cut. Critics of the framework noted that it would also eliminate the personal exemption, which would reduce the benefit of a larger standard deduction.
+
+Normally, the way to settle these sorts of disputes would be to model the distributional effects of a full tax plan. However, the Republican framework isn’t detailed enough yet for the Tax Foundation to model. For instance, the framework is still missing information about what income thresholds the 12 percent, 25 percent, and 35 percent brackets would apply to, which is a key piece of information for determining the effects of the entire plan.
+
+That said, we can try to isolate the portions of the GOP framework that apply to taxes paid by the lower-middle class. With some assumptions, it’s possible to analyze the impact of this approach.
+
+Details of the GOP Proposal
+
+Here’s what we know about the key provisions in the Republican tax framework that apply to lower-middle income households:
+
+It calls for a larger standard deduction ($12,000 for single filers, $24,000 for married filers), but does not specify the size of the standard deduction for taxpayers who file as heads of household.
+
+It calls for the elimination of the personal exemption for both filers and dependents.
+
+It calls for the creation of a $500 nonrefundable credit for non-child dependents, as a partial replacement for the personal exemption for non-child dependents.
+
+It calls for an increase in the nonrefundable portion of the child tax credit, to an unspecified amount. This is also presumably designed to replace the personal exemption for children.
+
+It calls for a 12 percent bottom bracket, up to an unspecified threshold.
+
+We can describe this proposal in the following way: it is essentially a proposal to replace the personal exemption and the 10 percent tax bracket with other tax benefits. The portion of the personal exemption that applies to children and other dependents is converted into a larger tax credit for children and a new tax credit for other dependents. The portion of the personal exemption that applies to non-dependent adults is rolled into a larger standard deduction. Finally, the 10 percent bracket is eliminated, and is replaced by increasing the standard deduction even further, as well as lowering the 15 percent bracket to 12 percent.
+
+Making Some Assumptions
+
+As currently written, the GOP framework is missing a few key details about exactly how these proposals would work. For instance, the framework is silent on how much the child tax credit would be increased, to make up for the elimination of the personal exemption for children. In addition, the framework does not give the size of the standard deduction for taxpayers who file as heads of household. Finally, the framework does not specify how much household income would be subject to the 12 percent bracket.
+
+However, we can make some reasonable assumptions about how Republican lawmakers might fill in these details in a tax bill. First, we can assume that the child tax credit would be increased by at least $500, given the creation of a $500 credit for non-child dependents; this was the approach of the House GOP Blueprint from June 2016. Second, we can assume that the standard deduction for heads of household would be about 47 percent larger than the standard deduction for single filers, as under current law; this would amount to a deduction of $17,650. Finally, we can assume that the 12 percent bracket completely replaces the current 10 percent and 15 percent brackets; this too was the approach of the House Blueprint.
+
+Using these assumptions, we modeled the following combination of changes:
+
+Increase the standard deduction to $12,000 for single filers, $24,000 for married filers, and $17,650 for heads of household.
+
+Eliminate the personal exemption.
+
+Allow households to claim a $500 nonrefundable credit for each non-child dependent.
+
+Increase the child tax credit to $1,500, with the final $500 nonrefundable.
+
+Consolidate the current bottom two income tax brackets into a single tax bracket of 12 percent.
+
+Current law GOP framework, with assumptions Standard deduction $6,350/$9,350/$12,700 $12,000/$17,650/$24,000 Personal exemption $4,050 $0 Lowest tax rates 10% and 15% 12% Child tax credit $1,000 $1,500 (only $1,000 refundable) Dependent tax credit N/A $500
+
+Analysis of the GOP Proposals
+
+Overall, these changes would reduce federal revenue by $209 billion over ten years, on a static basis. Raising the standard deduction, increasing the child tax credit, creating a dependent tax credit, and lowering the 15 percent bracket rate would all reduce federal revenue. To partially offset the cost, eliminating the personal exemption and raising the 10 percent bracket rate would raise federal revenue.
+
+The distributional effects of these changes are displayed in the table below.
+
+Income group Static change in after-tax income 0% to 20% 0.15% 20% to 40% 0.35% 40% to 60% 0.30% 60% to 80% 0.54% 80% to 100% -0.05% 80% to 90% 0.09% 90% to 95% -0.33% 95% to 99% -0.19% 99% to 100% 0.10% Total 0.15%
+
+The combination of proposals we modeled would, on average, lower the tax burden on the bottom 80 percent of households, while slightly raising the tax burden on the top 20 percent of households. The group with the largest gains is households between the 60th and 80th percentile, who would see their after-tax income rise by 0.54 percent.
+
+Households in the bottom 40 percent would benefit most from the increased standard deduction amount, which would more than make up for the loss of the personal exemption for filers and the increase of the lowest bracket rate. Households between the 40th and 80th percentiles would benefit most from decreasing the 15 percent bracket rate to 12 percent.
+
+Stay Informed on the Latest in Tax Policy
+
+Notably, the combination of changes we modeled would actually end up raising taxes on households between the 90th and 99th income percentiles. This is because many of these households currently itemize deductions, and would therefore get limited or no benefit from an increase in the standard deduction. Meanwhile, these households would lose the benefit of the personal exemption for filers, leading to a slightly higher tax burden.
+
+On the other hand, households in the top 1 percent would see a slight gain from this combination of changes. This is because the highest-income households are already barred from benefiting from the personal exemption under the current tax code, due to a provision known as the “personal exemption phaseout.” As a result, the top 1 percent of households would have less to lose from this combination of changes.
+
+Why this Approach?
+
+Most of the distributional effects in the table above are relatively small. Why would Republican lawmakers be interested in shuffling these provisions for lower-middle income Americans if it didn’t lead to major changes in the distribution of the tax burden?
+
+One potential advantage of this approach is that it increases the standard deduction, which would be an important simplification of the federal tax code. Currently, millions of U.S. households go through the process of deciding whether to itemize their deductions each year, requiring a fair amount of recordkeeping, calculations, and compliance with IRS rules. A larger standard deduction would mean that the millions of households would no longer need to determine whether to itemize, making the tax filing process simpler.
+
+That said, we still don’t have all the details of what a Republican tax bill would include, so it’s hard to determine the entire impact this approach would ultimately have. Hopefully, lawmakers will fill in the blanks soon.
+
+[1] Here, I use “lower-middle income households” loosely to signify households that currently fall in the 10 percent and 15 percent tax brackets.

@@ -1,0 +1,71 @@
+What is a "covered entity" under HIPAA?
+
+The term "covered entity" under the HIPAA Privacy Rule refers to three specific groups, including health plans, health care clearinghouses, and health care providers that transmit health information electronically. Covered entities under the HIPAA Privacy Rule must comply with the Rule's requirements for safeguarding the privacy of protected health information. Below is a more detailed list of those who fall under the covered entity category under HIPAA.
+
+Health Care Providers
+
+
+
+This includes all health care providers, regardless of practice size, provided that they transmit health information electronically. The specific electronic transactions subject to this rule are those that are covered under the HIPAA Transactions Rule. Providers subject to the Privacy rule include:
+
+o Doctors,
+
+o Clinics,
+
+o Psychologists,
+
+o Dentists,
+
+o Chiropractors,
+
+o Nursing Homes, and,
+
+o Pharmacies.
+
+Health Plans
+
+Medical, Dental, and Vision Plans
+
+HMOs
+
+Medicare and Medicaid
+
+Medicare+Choice and Medicare Supplement Insurers
+
+Long-Term Care Insurers (excluding nursing home fixed-indemnity policies)
+
+Veterans Health Plans
+
+Company Health Plans
+
+Exceptions include:
+
+o A group health plan with less than 50 participants that is administered solely by the employer that established and maintains the plan is not a covered entity;
+
+o Government-funded programs whose principal purpose is not providing or paying the cost of health care;
+
+o Government-funded programs whose principal activity is directly providing health care or the making of grants to fund the direct provision of health care; and,
+
+o Certain types of insurance entities such as those providing only workers' compensation, automobile insurance, and property and casualty insurance.
+
+Health Care Clearinghouses
+
+Entities that process nonstandard health information they receive from another entity into a standard (i.e., standard electronic format or data content), or vice versa. This includes:
+
+o Billing Services,
+
+o Repricing Companies,
+
+o Community Health Management Information Systems, and,
+
+o Value-added networks and switches if these entities perform clearinghouse functions.
+
+Related Resources:
+
+Summary of the HIPAA Privacy Rule: Who is Covered by the Privacy Rule - Developed by the Office for Civil Rights at the U.S. Department of Health and Human Services (2003). This site provides a summary of the HIPAA Privacy Rule.
+
+For Covered Entities - Developed by the Office for Civil Rights at the U.S. Department of Health and Human Services. This information specifically targets covered entities, providing guidance with respect to privacy and security.
+
+Are You a Covered Entity (CMS) - Developed by Centers for Medicare & Medicaid Services. This site provides assistance in determining if a group or an individual is a covered entity or not.
+
+Developed by the Health Resources and Services Administration as a resource for health centers and other safety net and ambulatory care providers who are seeking to implement health IT.

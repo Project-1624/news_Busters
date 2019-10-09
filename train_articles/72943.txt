@@ -1,0 +1,14 @@
+International Classification of Diseases, Ninth Revision
+The International Classification of Diseases (ICD) is designed to promote international comparability in the collection, processing, classification, and presentation of mortality statistics.
+
+This includes providing a format for reporting causes of death on the death certificate. The reported conditions are then translated into medical codes through use of the classification structure and the selection and modification rules contained in the applicable revision of the ICD, published by the World Health Organization. These coding rules improve the usefulness of mortality statistics by giving preference to certain categories, by consolidating conditions, and by systematically selecting a single cause of death from a reported sequence of conditions. The single selected cause for tabulation is called the underlying cause of death, and the other reported causes are the nonunderlying causes of death. The combination of underlying and nonunderlying causes is the multiple causes of death.
+
+The ICD has been revised periodically to incorporate changes in the medical field. To date, there have been 10 revisions of the ICD. The years for which causes of death in the United States have been classified by each revision are as follows:
+
+Revision Years Covered 1st 1900-09 2d 1910-20 3d 1921-29 4th 1930-38 5th 1939-48 6th 1949-57 7th 1958-67 8th 1968-78 9th 1979-98 10th 1999-present
+
+The U.S. introduced its own classification and coding rules for Human immunodeficiency virus infection (HIV) mortality effective with the 1987 data year (see the Technical Appendix of Vital Statistics of the United States).
+
+The ICD-9 is no longer available in print. Volume I, modified for U.S. purposes, is available. In addition, the most detailed tabulation list of causes used in the U.S. can be found at the beginning of the mortality worktable GMWKI.
+
+A related classification, the International Classification of Diseases, Clinical Modification (ICD-9-CM), is used in assigning codes to diagnoses associated with inpatient, outpatient, and physician office utilization in the U.S. Volume 3 (procedures) is used in assigning codes associated with inpatient procedures. The ICD-9-CM is based on the ICD but provides for additional morbidity detail and is annually updated.

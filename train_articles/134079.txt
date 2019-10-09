@@ -1,0 +1,30 @@
+Spot Viral pour Levis par Minivegas et synthèse de mouvement dynamique
+Minivegas à réalisé une petite vidéo pour levis :
+
+minivegas Levis - Stairs (viral) L
+
+Le spot rempli sa mission, être viral, avec une recette qui commence à devenir un brin monotone, mais qui fait vendre les jeans :
+
+une scène banale de la vie quotidienne,
+
+la camera grand public qui fait la mise au point toutes les 3s, mais avec un micro qui capte les bruits de bébé a 300m
+
+le tout devant un événement incroyable, si si !
+
+Je voulais profiter de cette vidéo pour vous présenter des softs assez bluffant, et qui représentent selon Jordi Bares (superviseur vfx chez the mill) l'avenir de l'animation 3D. Rien que ça !
+
+Endorphine, de naturalmotion, est un logiciel utilisant la synthèse de mouvement dynamique, ou encore Dynamic Motion Synthesis (DMS). Euphoria, du même éditeur, utlise lui le DMS dans les jeux vidéos.
+
+Les personnages sont en fait animé par des comportements qui s'adaptent automatiquement à la scène de manière intelligente et réaliste en temps réel.
+
+Pour la 3D et les films (endorphine), cela permet d'obtenir des comportements de personnages crédibles sont avoir recours à une animation par images clé manuel.
+
+Pour les jeux vidéos (euphoria), cela apporte un comportement des persos calculé en direct suivant les actions du joueur. Il n'y a plus d'animations précalculés mais des comportements générés à la volée selon l'action .
+
+Hum, oui dis comme ça, ça fait beaucoup de mots pas vrai ? Ci-dessous, une démonstration vidéo des deux logiciels ainsi qu'un making of de la pub pour pepsi max réalisé par the mill avec endorphine :
+
+naturalmotion Endorphine Presentation naturalmotion Endorphine Presentation L naturalmotion Euphoria Presentation naturalmotion Euphoria Presentation L The mill Pepsi Max making of The mill Pepsi Max making of L
+
+Assez bluffant non ? Surtout lorsque l'on remplace ces bouts de plastiques bleu et blanc par des textures réalistes ! Je n'ai pas trouvé de making of pour le spot de levis, mais je doute qu'un pauvre acteur/cascadeur ait accepté le rôle, et je pense que c'est ce genre de logiciel qui a été utilisé.
+
+Les logiciels de simulation 3D pour humains sont de plus en plus présent dans les films et publicités. Que ce soit avec Endorphine, ou bien les autres softs de simulation de foules (et plus) comme massive. Je me demande bien si dans 10 ans les acteurs de films à gros effets spéciaux tourneront encore beaucoup dans de vrais décors, et même parfois si il y aura encore de vrais acteurs, ou seulement des marionnettes en 3D contrôlées par des IA ou du motion capture... Rendez vos dans quelques années pour la réponse ;)

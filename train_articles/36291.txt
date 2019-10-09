@@ -1,0 +1,38 @@
+Crystalline Silicon Photovoltaics Research
+DOE supports crystalline silicon photovoltaic (PV) research and development efforts that lead to market-ready technologies. Below are a list of the projects, summary of the benefits, and discussion on the production and manufacturing of this solar technology.
+
+Background
+
+Crystalline silicon PV cells are the most common solar cells used in commercially available solar panels, representing more than 85% of world PV cell market sales in 2011. Crystalline silicon PV cells have laboratory energy conversion efficiencies over 25% for single-crystal cells and over 20% for multicrystalline cells. However, industrially produced solar modules currently achieve efficiencies ranging from 18%–22% under standard test conditions.
+
+Research Directions
+
+Current DOE research efforts focus on innovative ways to reduce costs. Research and development is being done to reduce raw material requirements, including pioneering ultra-thin crystalline silicon absorber layers, developing kerf-free wafer production techniques (kerf is silicon dust that is wasted when silicon ingots are cut into thin wafers), and optimizing growth processes.
+
+Learn more about the Solar Energy Technologies Office PV R&D awardees and the projects involving crystalline silicon below.
+
+Benefits
+
+The benefits of crystalline silicon solar cells include:
+
+Maturity: There is a considerable amount of information on evaluating the reliability and robustness of the design, which is crucial to obtaining capital for deployment projects.
+
+Performance: A standard industrially produced silicon cell offers higher efficiencies than any other mass-produced single-junction device. Higher efficiencies reduce the cost of the final installation because fewer solar cells need to be manufactured and installed for a given output.
+
+Reliability: Crystalline silicon cells reach module lifetimes of 25+ years and exhibit little long-term degradation.
+
+Abundance: Silicon is the second most abundant element in Earth's crust (after oxygen).
+
+Production
+
+Typical crystalline silicon solar cells are produced from monocrystalline (single-crystal) silicon or multicrystalline silicon. Monocrystalline cells are produced from pseudo-square silicon wafers, substrates cut from boules grown by the Czochralski process, the float-zone technique, ribbon growth, or other emerging techniques. Multicrystalline silicon solar cells are traditionally made from square silicon substrates cut from ingots cast in quartz crucibles. More information on these production techniques and the types of silicon used in photovoltaics can be found at the Energy Basics website.
+
+To reduce the amount of light reflected by the solar cell—and therefore not used to generate current—an antireflective coating (ARC), often titanium dioxide (TiO 2 ) or silicon nitride (SiN), is deposited on the silicon surface. To increase light trapping and absorption, the top of the solar cell can be textured with micrometer‐sized pyramidal structures, formed by a chemical etch process.
+
+To create a p-n junction, typically a phosphorus-doped n+ region is created on top of a boron-doped p-type silicon substrate. A metal electrode, such as aluminum, forms the back contact, whereas the front contact is most often formed using screen-printed silver paste applied on the top of the ARC layer.
+
+Charge-carrier collection in a crystalline silicon solar cell is achieved by minority-carrier diffusion within the p‐doped and n‐doped layers. Long diffusion lengths (> 200 micrometers) assist carrier collection over the entire range of the solar cell thickness where the optical absorption occurs.
+
+For more information on crystalline silicon photovoltaic cells, visit the Energy Basics website.
+
+Events

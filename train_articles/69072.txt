@@ -1,0 +1,50 @@
+Troubled Obamacare website wasn't tested until a week before launch
+Federal officials did not permit testing of the Obamacare healthcare.gov website or issue final system requirements until four to six days before its Oct. 1 launch, according to an individual with direct knowledge of the project.
+
+The individual, who spoke on condition of anonymity, described the troubled Obamacare website project as suffering from top-level management disarray, changing systems requirements and recurring delays.
+
+The root cause of the problems was a pivotal decision by Centers for Medicare and Medicaid Services officials to act as systems integrator, the central coordinator for the entire program. Usually this role is reserved for the prime information technology contractor.
+
+As a result, full testing of the site was delayed until four to six days before the fateful Oct. 1 launch of the health care exchanges, the individual said.
+
+Federal officials were “freezing requirements in time to permit full testing at all levels of the site — integration testing, user testing, performance testing and tuning,” the individual said.
+
+“Normally a system this size would need 4-6 months of testing and performance tuning, not 4-6 days,” the individual said.
+
+The source said there were “ever-changing, conflicting and exceedingly late project directions. The actual system requirements for Oct. 1 were changing up until the week before,” the individual said.
+
+The individual described the project as suffering from a “lack of an end-to-end business and technology vision for the project,” adding that “the hardest part of any technology project is not the technology — it is the business process decisions, what is the system supposed to do and how it will it do it.”
+
+In addition, “The challenge with this project was that the decisions were made very, very late in the project, and no one organization ... seemed to know how this complex ecosystem of applications, interfaces, user processes and hardware should all work together.”
+
+Another person, a former employee of CGI Federal — the private-sector contractor hired to build healthcare.gov — said the government’s insistence on being the systems integrator resulted in disastrous consequences for the website.
+
+The former employee said that “requirements came late, CMS dictated the design, especially the sign-up-before-viewing-plans, and there was absolutely not enough time for testing.”
+
+Another former CMS contract employee who also requested anonymity said, “CMS was not capable of being the integrator. ... An integrator used to be someone like an IBM. That is how this business used to be run. CMS is not an integrator. CMS operates as numerous disparate organizations. I often recommended we get a good, strong integrator like an IBM to look at the entire mess.
+
+“I wonder why the president did not have better technical advisers. He ran a huge risk with this,” the former contract employee said.
+
+Stan Z. Soloway, president and CEO of the trade association that represents hundreds of government service companies, reviewed major contracts in the project and concluded that CMS was the system integrator. He has no direct connection to the healthcare.gov project.
+
+“The system integration piece is an important one because that’s where it all comes together. And I don’t see any evidence in any of any of those contracts that says 'system integration' or overall management. So that leads me to believe that CMS — as others have said they did — chose to do the integration of the system of themselves.”
+
+Soloway also said one of the main reasons a government agency seeks to be a systems integrator is for control. “On one level, government wants to be careful to how much responsibility it turns over to one entity, how much control,” he said.
+
+Soloway heads the Professional Services Council, which represents 370 private-sector companies that provide technical services to the federal government. Among his member companies is CGI Federal, the prime contractor that designed and operates healthcare.gov. CGI Federal is the U.S. subsidiary of CGI Group, based in Montreal, Canada.
+
+“One has to look at, did CMS have the right kinds of skills, organizational structure, alignments internally? What were the other technology elements? And were they properly knit together?” Soloway asked.
+
+CMS spokesmen refused to say if their agency was the systems integrator.
+
+Other IT experts said it is highly unusual for a government agency to act as a systems integrator. “Literally, it’s crazy,” said IT consultant Charles Martin. “The reason government goes to external prime contractors to do integration is because they [government] know they’re no good at it.”
+
+Martin has been an IT consultant to the U.S. Defense Department, the IRS and the Commerce Department.
+
+“I don't recall ever hearing that HHS was notably good at running big IT projects,” he said, referring to the Department of Health and Human Services, the parent agency of both the Centers for Medicare and Medicaid Services and much of the Obamacare infrastructure. “The government generally doesn't do big IT projects. It hires somebody else.”
+
+Patrick Ruffini, a digital expert with extensive experience on information technology for Republican presidential campaigns, agreed, saying, “From what I understand, usually you do have a private-sector systems integrator just because there isn’t that level of technical expertise in the government, typically speaking.”
+
+Soloway, however, said some of the military services have been technical integrators on weapons systems, particularly the Air Force. But he said even the military typically farms out IT integration.
+
+“There is always the question, ‘Do you have the capability internally and skill sets, the people with the right depth to do the systems engineering and program management associated with something this complicated?' That’s a question,” Soloway said.

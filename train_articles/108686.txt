@@ -1,0 +1,6 @@
+Global Modeling and Assimilation Office Research Site
+IMPORTANT NOTICE: Elevated carbon monoxide (CO) concentrations over California in the GEOS-5 products since February 25, 2016, are incorrect. They are a consequence of unrealistic emissions derived from satellite observations of fires, which led to elevated concentrations of atmospheric CO (as well as other species).
+
+NASA's EOS-Terra spacecraft entered safe mode on February 18, 2016, during an inclination adjustment maneuver. This caused the MODIS instrument to enter safe mode, with the nadir and space-view doors closed. When the Terra MODIS transitioned back to science mode on February 24, 2016, the operating temperatures for the SWIR and LWIR (Short-wave Infrared and Longwave infrared) focal planes have not yet stabilized. As a consequence, some data products have been severely degraded. This includes the "Fire Radiative Power" fields that are used by GEOS-5 to compute emissions of CO, CO2, and carbonaceous aerosols by biomass burning.
+
+GMAO is working to correct this problem. The GEOS-5 analyses will be re-run from February 24, 2016, using only the EOS-Aqua MODIS data, in order to exclude the unrealistic CO emissions. EOS-Terra observations will be re-introduced once the instrument has stabilized.

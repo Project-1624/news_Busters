@@ -1,0 +1,484 @@
+Buk missile system
+The Buk missile system (Russian: "Бук"; "beech" (tree), ) is a family of self-propelled, medium-range surface-to-air missile systems developed by the Soviet Union and its successor state, the Russian Federation, and designed to counter cruise missiles, smart bombs, fixed- and rotary-wing aircraft, and unmanned aerial vehicles.[2]
+
+The Buk missile system is the successor to the NIIP/Vympel 2K12 Kub (NATO reporting name SA-6 "Gainful").[3] The first version of Buk adopted into service carried the GRAU designation 9K37 Buk and was identified in the west with the NATO reporting name "Gadfly" as well as the US Department of Defense designation SA-11.
+
+With the integration of a new missile the Buk-M1-2 and Buk-M2 systems also received a new NATO reporting name Grizzly and a new DoD designation SA-17. In 2013, the latest incarnation "Buk-M3" was scheduled for production.[4]
+
+A naval version of the system, designed by MNIIRE Altair (currently part of GSKB Almaz-Antey) for the Russian Navy, received the GRAU designation 3S90M and will be identified with the NATO reporting name Gollum and a DoD designation SA-N-7C, according to Jane's Missiles & Rockets. The naval system was scheduled for delivery in 2014.[5]
+
+Development [ edit ]
+
+Development of the 9K37 "Buk" started on 17 January 1972 at the request of the Central Committee of the CPSU.[6] The development team included many of the same institutions that had developed the previous 2K12 "Kub" (NATO reporting name "Gainful", SA-6), including the Tikhomirov Scientific Research Institute of Instrument Design (NIIP) as the lead designer and the Novator design bureau, which was responsible for the development of the missile armament.[6] In addition to the land-based system, a marine system was to be produced for the Navy: the 3S90 "Uragan" (Russian: "Ураган"; hurricane) which also carries the SA-N-7 and "Gadfly" designations.[7]
+
+
+
+
+
+Kub Kvadrat Kub-M1 Kub-M Kub-M3 Buk Uragan Shtil Buk-M1 Buk-1 (Kub-M4) Buk-M1-2 Gang Gange Buk-M1-2A Buk-M2 Ural Buk-M2E Buk-M2EK Ezh Shtil Buk-M3 Export Version Soviet or Russian Version Smerch Shtil-1
+
+The Buk missile system was designed to surpass the 2K12 Kub in all parameters, and its designers, including its chief designer Ardalion Rastov, visited Egypt in 1971 to see Kub in operation.[8] Both the Kub and Buk used self-propelled launchers developed by Ardalion Rastov. As a result of this visit, the developers came to the conclusion that each Buk transporter erector launcher (TEL) should have its own fire control radar, rather than being reliant on one central radar for the whole system as in Kub.[8] The result of this move from TEL to transporter erector launcher and radar (TELAR) was development of a system able to shoot at multiple targets in multiple directions at the same time.
+
+In 1974 the developers determined that although the Buk missile system is the successor to the Kub missile system, both systems could share some interoperability. The result of this decision was the 9K37-1 Buk-1 system.[6] Interoperability between Buk TELAR and Kub TEL meant an increase in the number of fire control channels and available missiles for each system, as well as faster entry of Buk system components into service. The Buk-1 was adopted into service in 1978 following completion of state trials, while the complete Buk missile system was accepted into service in 1980[8] after state trials took place between 1977 and 1979.[6]
+
+The naval variant of the 9K37 "Buk", the 3S90 "Uragan," was developed by the Altair design bureau under the direction of chief designer G.N. Volgin.[9] The 3S90 used the same 9M38 missile as the 9K37, though the launcher and associated guidance radars were exchanged for naval variants. After the 9S90 system was tested, between 1974 and 1976 on the Kashin-class destroyer Provorny, it was accepted into service in 1983 on the Project 956 Sovremenny-class destroyers.[9]
+
+No sooner had the 9K37 "Buk" entered service than the Central Committee of the CPSU authorised the development of a modernised 9K37 which would become the 9K37M1 Buk-M1, adopted into service in 1983.[6] The modernisation improved the performance of the system radars, its "probability of kill" and its resistance to electronic countermeasures (ECM). Additionally a non-cooperative threat classification system was installed, relying on analysis of returned radar signals to purportedly identify and clearly distinguish civilian aircraft from potential military targets in the absence of IFF.[8]
+
+Another modification to the Buk missile system was started in 1992 with work carried out between 1994 and 1997 to produce the 9K37M1-2 Buk-M1-2,[6] which entered service in 1998.[10] This modification introduced a new missile, the 9M317, which offered greater kinematic performance over the previous 9M38, which could still be used by the Buk-M1-2. Such sharing of the missile type caused a transition to a different GRAU designation, 9K317, which has been used independently for all later systems. The previous 9K37 series name was also preserved for the complex, as was the "Buk" name. The new missile, as well as a variety of other modifications, allowed the system to shoot down ballistic missiles and surface targets, as well as enlarging the "performance and engagement envelope" (zone of danger for potential attack) for more traditional targets like aircraft and helicopters.[6] The 9K37M1-2 Buk-M1-2 also received a new NATO reporting name distinguishing it from previous generations of the Buk system; this new reporting name was the SA-17 Grizzly. The export version of the 9K37M1-2 system is called "Ural" (Russian: "Урал"); this name has also been applied to M2, at least to early, towed, export versions.[11]
+
+3S90M SA missile system (graphic)
+
+The introduction of the 9K37M1-2 system for the land forces also marked the introduction of a new naval variant: the "Ezh", which carries the NATO reporting name SA-N-7B 'Grizzly' (9M317 missile). was exported under the name "Shtil" and carries a NATO reporting name of SA-N-7C 'Gollum' (9M317E missile), according to Jane's catalogue.[7] The 9K317 incorporates the 9M317 missile to replace the 9M38 used by the previous system. A further development of the system was unveiled as a concept at EURONAVAL 2004, a vertical launch variant of the 9M317, the 9M317ME, which is expected to be exported under the name "Shtil-1". Jane's also reported that in the Russian forces it would have a name of 3S90M ("Smerch") (Russian: "Смерч", English translation: 'tornado').[9][12][13]
+
+The Buk-M1-2 modernisation — based on a previous more advanced developmental system referred to as the 9K317 "Buk-M2" —[6] featured new missiles and a new third-generation phased array fire control radar allowing targeting of up to four targets while tracking an additional 24. A new radar system with a fire control radar on a 24 m extending boom reputedly enabled more accurate targeting of low-altitude planes.[14] This generation of Buk missile systems was stalled due to poor economic conditions after the fall of the Soviet Union. The system was presented as a static display at the 2007 MAKS Airshow.
+
+In October 2007, Russian General Nikolai Frolov, commander of the Russian Ground Forces air defense, declared that the army would receive the brand-new Buk-M3 to replace the Buk-M1. He stipulated that the M3 would feature advanced electronic components and enter into service in 2009.[15] The upgraded Buk-M3 TELAR will have a seven rollers tracked chassis and 6 missiles in launch tubes.[16]
+
+Description [ edit ]
+
+Inside the TELAR of a Buk-M1 SAM system
+
+A standard Buk battalion consists of a command vehicle, target acquisition radar (TAR) vehicle, six transporter erector launcher and radar (TELAR) vehicles and three transporter erector launcher (TEL) vehicles. A Buk missile battery consists of two TELAR and one TEL vehicle.
+
+Inside the TEL of a Buk-M1-2 SAM system
+
+The Buk-M1-2 TELAR uses the GM-569 chassis designed and produced by JSC MMZ (Mytishchi).[17] TELAR superstructure is a turret containing the fire control radar at the front and a launcher with four ready-to-fire missiles on top. Each TELAR is operated by a crew of four and is equipped with chemical, biological, radiological, and nuclear (CBRN) protection. It can guide up to three missiles against a single target. While the early Buk had a day radar tracking system 9Sh38 (similar to that used on Kub, Tor and Osa missile system), its current design can be fitted with a combined optical tracking system with a thermal camera and a laser range-finder for passive tracking of the target. The 9K37 system can also use the same 1S91 Straight Flush 25 kW G/H band continuous wave radar as the 3M9 "Kub" system.
+
+The 9S35 radar of the original Buk TELAR uses a mechanical scan of a Cassegrain antenna reflector, where the Buk-M2 TELAR design used a PESA, for tracking and missile guidance.
+
+A Buk-M1-2 SAM system 9S18M1-1 Tube Arm target acquisition radar (TAR) on 2005 MAKS Airshow
+
+The 9K37 uses the 9S18 "Tube Arm" or 9S18M1 (which carries the NATO reporting name "Snow Drift") (Russian: СОЦ 9C18 "Купол"; dome) target acquisition radar in combination with the 9S35 or 9S35M1 "Fire Dome" H/I band tracking and engagement radar which is mounted on each TELAR. The Snow Drift target acquisition radar has a maximum detection range of 85 km (53 mi) and can detect an aircraft flying at 100 m (330 ft) from 35 km (22 mi) away and even lower flying targets at ranges of around 10–20 km (6–12 mi).
+
+Console of the upgraded TELAR of a Buk-M2E
+
+The TEL reload vehicle for the Buk battery resembles the TELAR, but instead of a radar they have a crane for the loading of missiles. They are capable of launching missiles directly but require the cooperation of a Fire Dome–equipped TELAR for missile guidance. A reload vehicle can transfer its missiles to a TELAR in around 13 minutes and can reload itself from stores in around 15 minutes.
+
+Also, the Buk-M2 featured a new vehicle like TELAR but with radar atop of a telescopic lift and without missiles, called a target acquisition radar (TAR) 9S36. This vehicle could be used together with two TELs 9A316 to attack up to four targets, missile guidance in forested or hilly regions.
+
+The mobile simulator SAM Buk-M2E was shown at MAKS-2013. A self-propelled fire simulator installation JMA 9A317ET SAM "Buk-M2E", based on the mobile, is designed for training and evaluating the combat crew in the war environment to detect, capture, lock on to ("maintain") and defeat targets. A computer information system fully records all actions of the crew to a "black box" to allow objective assessment of the consistency of the crew's actions and results.[18]
+
+All vehicles of the Buk-M1 (Buk-M1-2) missile system use an Argon-15A computer, as does the Zaslon radar (the first Soviet-made airborne digital computer, designed in 1972 by the Soviet Research Institute of Computer Engineering (NICEVT, currently NII Argon). It is produced at a Chișinău plant originally named "50 Years of the USSR".[19][20] The vehicles of Buk-M2 (Buk-M2E) missile system use a slightly upgraded version of Argon-A15K. This processor is also used in such military systems as anti-submarine defence Korshun and Sova, airborne radars for MiG-31 and MiG-33, mobile tactical missile systems Tochka, Oka and Volga. Currently,[when?] Argons are upgraded with the Baget series of processors by NIIP.[citation needed]
+
+Basic missile system specifications [ edit ]
+
+Target acquisition range (by TAR 9S18M1, 9S18M1-1) Range: 140 kilometres (87 miles) Altitude: 60 meters – 25 kilometers (197 feet – 15.5 miles)
+
+Firing groups in one battalion: up to 6 (with one command post)
+
+Firing groups operating in a sector 90° in azimuth, 0–7° and 7–14° in elevation 45° in azimuth, 14–52° in elevation
+
+Radar mast lifting height (for TAR 9S36): 21 meters
+
+Reloading of 4 missiles by TEL from itself: around 15 minutes
+
+Combat readiness time: no more than 5 minutes
+
+Kill probability (by one missile): 90–95%
+
+Target engagement zone Aircraft Altitude: 15 meters – 25 kilometers (50 feet – 15.5 miles) Range: 3–42 kilometres (2–26 miles) Tactical ballistic missiles Altitude: 2.0–16 kilometres (1.2–9.9 miles) Range: 3–20 kilometres (1.9–12.4 miles) Sea targets: up to 25 kilometres (16 miles) Land targets: up to 15 kilometres (9.3 miles)
+
+The system is estimated to have a 70% to 93% probability of destroying a targeted aircraft per missile launched. In 1992, the system was demonstrated to be capable of intercepting Scud missiles and large rocket artillery.[21]
+
+Operation [ edit ]
+
+The Buk is a mobile, radar-guided surface-to-air missile (SAM) missile system with all four main components — acquisition and targeting radars, a command element, missile launchers, and a logistics element — mounted on tracked vehicles. This allows the system to move with other military forces and relocate to make it a more difficult target to find than a fixed SAM system.
+
+The acquisition radar component (several variants have differing capabilities) allows the system to identify, track and target selected targets.
+
+The command component is intended to discern "friendly" military aircraft from foes (IFF), prioritise multiple targets, and pass radar targeting information to the missile launchers.
+
+The missile launcher component can carry a variety of missiles (as listed below) and may be able to engage more than one target simultaneously.
+
+The logistics component carries additional (reload) missiles and provides other supplies and parts for the system and the operators.
+
+In general, the system identifies potential targets (radar), selects a particular target (command), fires a missile (launcher) at the target, and resupplies the system (logistics). The missiles require a radar lock to initially steer the missile to the target until the missile's on-board radar system takes over to provide final course corrections. A proximity fuse aboard the missile determines when it will detonate, creating an expanding fragmentation pattern of missile components and warhead to intercept and destroy the target. A proximity fuse improves the "probability of kill" given the missile and target closure rates, which can be more than 3,000 km/h (1,900 mph) (or more than 900 m/s (3,000 ft/s)).
+
+Alternatively, the command component may be able to remotely detonate the missile, or the on-board contact fuse will cause the warhead to detonate. The most capable radar, assuming it has a line of sight (no terrain between the radar and the target), can track targets (depending on size) as low as 30 m (98 ft) and as far as 140 km (87 mi). The most capable missile can hit targets as far as 50 km (31 mi) and more than 24,000 m (79,000 ft) in altitude. Since the introduction of the Buk in the 1970s, the capabilities of its system components have evolved, which has led to different nomenclature and nicknames for the components' variants. The Buk has also been adapted for use on naval vessels.
+
+Integration with higher level command posts [ edit ]
+
+The basic command post of the Buk missile system is 9С510 (9K317 Buk-M2), 9S470M1-2 (9K37M1-2 Buk-M1-2) and 9S470 (Buk-M1) vehicles, organising the Buk system into a battery. It is capable of linking with various higher level command posts (HLCPs). As an option, with the use of HLCP, the Buk missile system may be controlled by an upper level command post system 9S52 Polyana-D4, integrating it with S-300V/S-300VM into an air defence brigade.[22][23] Also, it may be controlled by an upper-level command-post system 73N6ME «Baikal-1ME» together with 1-4 units of PPRU-M1 (PPRU-M1-2), integrating it with SA-19 "Grison" (9K22 Tunguska) (6-24 units total) into an air defence brigade, as well as SA-10/20 and SA-5 Gammon and SA-2 Guideline and SA-3 Goa and Air Force.[24][25] With the use of the mobile command center Ranzhir or Ranzhir-M (GRAU designations 9S737, 9S737М) the Buk missile system allows creation of mixed groups of air defense forces, including Tor, Tungushka, Strela-10, and Igla.[26] "Senezh" [27] is another optional command post for a free mixing of any systems. In addition to mixing their potential, each of the air defense system with the aid of Senezh[28][29][30] can become part of another air defence system (missile's / radar's / targeting information). The system works automatically.[31] But for the full realisation of all functions, a Senezh-control system need various other monitoring systems for air defence and air force. Otherwise a Senezh system will work as a command centre, but not within a free association.
+
+3S90 "Uragan" / M-22 [ edit ]
+
+The 3S90 "Uragan" (Russian: Ураган; hurricane) is the naval variant of the 9K37 "Buk" and has the NATO reporting name "Gadfly" and US DoD designation SA-N-7, it also carries the designation M-22. The export version of this system is known as "Shtil" (Russian: Штиль; still). The 9М38 missiles from the 9K37 "Buk" are also used on the 3S90 "Uragan". The launch system is different with missiles being loaded vertically onto a single arm trainable launcher, this launcher is replenished from an under-deck magazine with a 24-round capacity, loading takes 12 seconds to accomplish.[9] The Uragan utilises the MR-750 Top Steer D/E band as a target acquisition radar (naval analogue of the 9S18 or 9S18M1) which has a maximum detection range of 300 km (190 mi) depending on the variant. The radar performing the role of the 9S35 the 3R90 Front Dome H/I band tracking and engagement radar with a maximum range of 30 km (19 mi).
+
+The Uragan underwent trials from 1974 aboard the Project 61 destroyer Provorny, prior to being introduced aboard the Project 956 Sovremenny class, with the first of class commissioned in 1980. The Uragan was officially adopted for service in 1983.[32]
+
+3S90 "Ezh" [ edit ]
+
+The modernised version of the 3S90 is the 9K37M1-2 (or 9K317E) "Ezh", which carries the NATO reporting name "Grizzly" or SA-N-12 and the export designation "Shtil". It uses the new 9M317 missile.
+
+In 1997, India signed a contract for the three Project 1135.6 frigates with "Shtil". Later, when the decision was made to modernise it with a new package of hardware & missiles, the name changed to "Shtil-1".
+
+3S90M, or for export "Shtil-1" [ edit ]
+
+In 2004, the first demonstration module of the new 9M317M (export 9M317ME) missile was presented by Dolgoprudniy Scientific and Production Plant for the upgraded 3S90M / "Shtil-1" naval missile system (jointly with 'Altair'). Designed primary for the export purpose, its latest variant used a vertical launch missile which is fired from under-deck silos clustered into groups of twelve, twenty-four or thirty-six. The first Shtil-1 systems were installed into ships exported to India and China.[33][34] Old systems Uragan, Ezh and Shtil could be upgraded to Shtil-1 by replacing the launcher module inside the ship.
+
+The reaction time is 5–10 seconds (Shtil-1).[35] The interval between starts is less 2 seconds. To protect against boats, helicopters, aircraft, anti-ship missiles.[36]
+
+Missiles [ edit ]
+
+9М38 and 9М38M1 missile [ edit ]
+
+The 9M38 uses a single-stage X-winged design without any detachable parts; its exterior design is similar to the American Tartar and Standard surface-to-air missile series. The design had to conform to strict naval dimension limitations, allowing the missile to be adapted for the M-22 SAM system in the Soviet Navy. Each missile is 5.55 m (18.2 ft) long, weighs 690 kg (1,520 lb) and carries a relatively large 70 kg (150 lb) warhead which is triggered by a radar proximity fuze. In the forward compartment of the missile, a semi-active homing radar head (9E50, Russian: 9Э50, 9Э50М1), autopilot equipment, power source and warhead are located. The homing method chosen was proportional navigation. Some elements of the missile were compatible with the Kub's 3M9; for example, its forward compartment diameter (33 cm), which was less than the rear compartment diameter.
+
+9M317 surface-to-air missile on the Buk-M2 quadruple launcher.
+
+BUK M1 missile
+
+The 9M38 surface-to-air missile uses a two-mode solid-fuel rocket engine with total burn time of about 15 seconds; the combustion chamber is reinforced by metal. For the purpose of reducing the centring dispersion while in flight, the combustion chamber is located close to the centre of the missile and includes a longer gas pipe. The 9M38 is capable of readiness without inspection for at least 10 years of service. The missile is delivered to the army in the 9Ya266 (9Я266) transport container.
+
+9M317 missile [ edit ]
+
+The 9M317 missile was developed as a common missile for the Russian Ground Force's Air Defence Forces (PVO) (using Buk-M1-2) as well as for ship-based PVO of the Russian Navy (Ezh). Its exterior design bears a resemblance to the Vympel R-37 air-to-air missile.
+
+The unified multi-functional 9M317 (export designation 9M317E) can be used to engage aerodynamic, ballistic, above-water and radio contrast targets from both land and sea. Examples of targets include tactical ballistic missiles, strategic cruise missiles, anti-ship missiles, tactical, strategic and army aircraft and helicopters. It was designed by OJSC Dolgoprudny Scientific Production Plant (DNPP). The maximum engagable target speed was 1200 m/s[37] and it can tolerate an acceleration overload of 24G. It was first used with Buk-M1-2 system of the land forces and the Shtil-1 system of the naval forces.
+
+In comparison with 9M38M1, the 9M317 has a larger defeat area, which is up to 45 km of range and 25 km of altitude and of lateral parameter, and a larger target classification. Externally the 9M317 differs from the 9M38M1 by a smaller wing chord. It uses the inertial correction control system with semi-active radar homing, utilising the proportional navigation (PN) targeting method.
+
+The semi-active missile homing radar head (used in 9E420, Russian: 9Э420) as well as 9E50M1 for the 9M38M1 missile (9E50 for 9M38) and 1SB4 for Kub missile (Russian: 1СБ4) was designed by MNII Agat (Zhukovskiy) and manufactured by MMZ at Ioshkar-Ola.
+
+The 9M317 missile uses active homing when approaching the goal.[38][39]
+
+9M317M and 9M317A missile development projects [ edit ]
+
+Currently, several modernised versions are in development, including the 9M317M / 9M317ME, and active radar homing (ARH) missile 9M317A / 9M317MAE.
+
+The lead developer, NIIP, reported the testing of the 9M317A missile within Buk-M1-2A "OKR Vskhod" (Sprout in English) in 2005.[40] The range is reported as being up to 50 km (31 mi), maximum altitude around 25 km (82,000 ft) and maximum target speed around Mach 4. The weight of the missile has increased slightly to 720 kg (1587 lb).
+
+The missile's Vskhod development program for the Buk-M1-2A was completed in 2011. This missile could increase the survival capability and firing performance of the Buk-M1-2A using its ability to hit targets over the horizon.[41]
+
+In 2011, Dolgoprudny NPP completed preliminary trials of the new autonomous target missile system OKR Pensne (pince-nez in English) developed from earlier missiles.[41]
+
+9M317M(E) missile [ edit ]
+
+The weight of the missile is 581 kg, including the 62 kg blast fragmentation warhead initiated by a dual-mode radar proximity fuze. Dimensions of the hull are 5.18 m length; 0.36 m maximum diameter. Range is 2.5–32 km in a 3S90M / "Shtil-1" naval missile system. Altitude of targets from 15 m up to 15 km (and from 10 m to 10 km against other missiles). 9M317ME missiles can be fired at 2-second intervals, while its reaction (readiness) time is up to 10 s.
+
+The missile was designed to be single-staged, inertial guidance, radio control mid-course update and terminal semi-active radar homing.[33]
+
+The tail surfaces have a span of 0.82 m when deployed after the missile leaves the launch container by a spring mechanism. Four gas-control vanes operating in the motor efflux turn the missile towards the required direction of flight. After the turnover manoeuvre, they are no longer used and subsequent flight controlled via moving tail surfaces. A dual-mode solid-propellant rocket motor provides the missile with a maximum speed of Mach 4.5.[42]
+
+Comparison [ edit ]
+
+Missile
+
+(GRAU designation) 3M9 9М38 9М38
+
+9М38M1 9М38
+
+9М38M1
+
+9M317 9M317 9M317ME System
+
+(GRAU and NATO designation) 2K12 "Kub"
+
+(SA-6) 9K37
+
+"Buk"
+
+(SA-11) 9K37M
+
+"Buk-M1"
+
+(SA-11) 9K37M1-2
+
+"Buk-M1-2"
+
+(SA-17) 9K317E
+
+"Buk-M2E"[43]
+
+(SA-17) 3S90M/3S90E.1
+
+"M-22[44] "/"Shtil-1"[33]
+
+(SA-N-12) Introduced 1967[45] adopted by 1980[46] is used from 1978[47] 1983[ citation needed ] is used from 1979[48] 1998[49] development is completed 1988,[50][51][52][53] produced from 2007 1983 / first seen in 2004[35] Missiles per TEL 3 4 4 4 4 12/24/36 Missile weight 599 kg
+
+(1321 lb) 690 kg
+
+(1521 lb) 690 kg
+
+(1521 lb) 9М38M1: – 690 kg
+
+(1521 lb);
+
+9M317: – 710–720 kg
+
+(1565–1587 lb) 710–720 kg
+
+(1565–1587 lb) 581 kg Range 8(6)–22 km
+
+(2–15 miles)[45] 3,5–25 (30) km
+
+(3–19 miles) 3,3–35 km
+
+(2–22 miles)[54] 9М38M1: – 3–42 km
+
+(2–26 miles);
+
+9M317: 3–50 km
+
+(2–31 miles) 3–50(M2),[55] 45(M2E)[56] km
+
+(2–31(29) miles) (M-22=25 km)/3,5-32[57] up to 50 km (taking into account the use against large targets (ships))[58] Range of altitude 100–7000 m
+
+[45] 25–18000 (20000) m
+
+(100-46,000 ft)[46] 15–22000 m
+
+(100-72,000 ft)[54] 15–25000 m
+
+(100-82,000 ft)[59] 15 of M2E[25] 10 of M2[60]–25000 m
+
+(to-82,000 ft) (M-22=10)5[61]–15000 m Missile speed
+
+(Mach) 2.8 3 3 3 4 4.5 (For M-22 average speed of 1000 m / s) Maximum target
+
+speed (Mach) 2 800 m/s[46] 4 4 to meet (M2E - aerodynamic up to 1100[37] m/s, of ballistic 1200 m/s), pursuing 300–400 m/s[55] 830 m/s[58]/? Maximum
+
+manoeuvrability (G) (for missiles). 19/? 19[62] 20 24[63] For missiles (24[37]). For target (10[39]). up to 19/? Simultaneous
+
+fire 1–2 ("Kub"M4/"Buk-1" ) (2) max 6[48] 18[64] (2) 18[64] 22[64][65] 6 old/12 update 1997[63] 24[25][66] 2-12[61] (For Shtil-1 directs to 3 missiles simultaneously at each target)[57]
+
+Other variants [ edit ]
+
+Original design tree [ edit ]
+
+9K37-1 'Buk-1' – First Buk missile system variant accepted into service, incorporating a 9A38 TELAR within a 2K12M3 Kub-M3 battery.
+
+9K37 'Buk'- The completed Buk missile system with all new system components, back-compatible with 2K12 Kub.
+
+9K37M1 'Buk-M1' – An improved variant of the original 9K37 which entered into service with the then Soviet armed forces.
+
+9K37M1-2 'Buk-M1-2' ('Gang' for export markets) – An improved variant of the 9K37M1 'Buk-M1' which entered into service with the Russian armed forces.
+
+9K317 'Ural' – initial design of Buk-M2 which entered into service with the Russian armed forces
+
+Backside of the 9A317 TELAR of Buk-M2E (export version) at the 2007 MAKS Airshow
+
+9K317E 'Buk-M2E' - revised design for export markets [67]
+
+9K37M1-2A 'Buk-M1-2A' - redesign of Buk-M1-2 for the use of 9M317A missile
+
+'Buk-M2EK' [68] – A wheeled variant of Buk-M2 on MZKT-6922 chassis exported to Venezuela and Syria.
+
+– A wheeled variant of Buk-M2 on MZKT-6922 chassis exported to Venezuela and Syria. 9K317M 'Buk-M3' – A SAM battalion has 36 target channels in total.
+
+Naval version design tree [ edit ]
+
+3S90/M-22 Uragan (SA-N-7 "Gadfly") – Naval version of the 9K37 Buk missile system with 9M38/9M38M1 missile.
+
+(SA-N-7 "Gadfly") – Naval version of the 9K37 Buk missile system with 9M38/9M38M1 missile. 3S90 Ezh (SA-N-7B/SA-N-12 'Grizzly') – Naval version of the 9K37M1-2 with 9M317 missile.
+
+(SA-N-7B/SA-N-12 'Grizzly') – Naval version of the 9K37M1-2 with 9M317 missile. 3S90 Shtil (SA-N-7C 'Gollum') – Naval export version of the 9K37M1-2 with 9M317E missile.
+
+(SA-N-7C 'Gollum') – Naval export version of the 9K37M1-2 with 9M317E missile. 3S90E.1 "Shtil-1" (SA-N-12 'Grizzly') – Naval export version with 9M317ME missile.
+
+3S90M Smerch (SA-N-12 'Grizzly') – naval version with 9M317M missile.
+
+Copies [ edit ]
+
+MILEX-2005 exposition in Minsk, Belarus presented their own digital upgrade package for early models of 9K37 Buk, called Buk-MB.[69] On 26 June 2013 an exported version of Buk-MB was displayed on a military parade in Baku. It included the new 80K6M Ukrainian-build radar on an MZKT chassis (instead the old 9S18M1) and the new Russian-build missile 9M317 (as in Buk-M2).[70] Buk-MB has been sold to Azerbaijan.
+
+HQ-16 (Hongqi-16) - Co-developed by China and Russia, [71] [72] believed to be based on either the SA-11 or SA-17. [71] Credited with a range of 40 km. Also known as the HQ-16A. [72] HHQ-16 - Naval variant of the HQ-16 with a range of 35 to 75 km. [71] [72] LY-80 - Export version of the HQ-16. [73] HQ-16B - Improved Chinese development of the HQ-16. Reportedly has improved rocket motor and revised wings, and a range of 70 km. [72] HQ-16E/LY-80N- New ship-based version, launched from vertical system similar to Mark 41 Vertical Launching System. [74]
+
+Ra'ad (Thunder) Medium Ranged Surface-to-Air Missile System using Ta'er 2 missiles. It has very similar layout to wheeled Buk-M2EK 9M317. It was shown during 2012 military parade. [75]
+
+Ra'ad (Thunder) Medium Ranged Surface-to-Air Missile System using Ta'er 2 missiles. It has very similar layout to wheeled Buk-M2EK 9M317. It was shown during 2012 military parade. Dnipro SAM system (between Buk and S300P type).
+
+System composition [ edit ]
+
+Composition[ citation needed ] Complex
+
+(GRAU and NATO designation) 9K37
+
+"Buk"
+
+(SA-11) 9K37-1
+
+"Buk-1"
+
+(SA-11) 9K37M1
+
+"Buk-M1"
+
+(SA-11) 9K37M1-2
+
+"Buk-M1-2"
+
+(SA-17) 9K317E
+
+"Buk-M2E" Command Post 9S470 N/A 9S470M1 9S470M1-2 9S510 Surveillance Radar
+
+(SURN, SOTs or TAR) 9S18 Kupol 1S91M3 9S18M1 Kupol-M1 9S18М1-1 9S112,
+
+9S36 TELAR 9А310,
+
+9А38 9A38 9A310M1 9A310M1-2 9A317 TEL 9А39 2P25M3 9A39M1 9A39M1,
+
+9A39M1-2 9A316
+
+9K37 Buk [ edit ]
+
+TEL 9A316
+
+TELAR 9A317
+
+Upper level CP (PBU of the zrbr – zenith-rocket brigade) from the structure of ASU Polyana-D4 4 × zrdn (zenith-rocket division) CP 9S470 SOTs 9S18 Kupol range up to 120 km (45 km at a height 30 meters). [76] 3 × zrbat (zenith-rocket battery) 2 × TELAR 9А310 1 × TEL 9А39 Technical service division Сommunication service platoon
+
+
+
+2K12M4 Kub-M4 (9K37-1 Buk-1) [ edit ]
+
+1 × SURN 1S91M3 (from the structure of 2K12M3 Kub-M3)
+
+4 × TEL 2P25M3 (from the structure of 2K12M3 Kub-M3)
+
+1 × TELAR 9A38 (from the structure of 9K37 Buk)
+
+9K37M1 Buk-M1 (Ganges) [ edit ]
+
+Technical service division [ edit ]
+
+9V95M1E – mobile automatized control and test station vehicle based on a ZiL-131 with a trailer
+
+9V883, 9V884, 9V894 – repair and technical service vehicles based on Ural-43203-1012
+
+9V881E – technical service workshop based on Ural-43203-1012
+
+9T229 – transporter vehicle for 8 missiles or 6 containers with missiles based on a KrAZ-255Б
+
+9T31M – autocrane
+
+MTO-ATG-M1 – technical service workshop based on ZiL-131
+
+Preparing to fight (inversely) - 5 min. Translation in battle mode, not for the first time in battle (after moving to another place) - no more than 20 seconds.[77] During the exercise, "Defense 92" (1992) SAM family of "Buk" conducted successful firing at targets on the basis of ballistic missile R-17 Elbrus, and on the basis of MLRS rockets "Smerch" (caliber 0.3 meters).[78]
+
+A command post vehicle 9S470M1-2 may take control over 4 batteries, each has 1 TELAR 9A310M1-2 with 1 × TEL 9A39M1/9A39M1-2 or 2 batteries, each has 1 target acquisition radar 9S18М1-1 and 2 x TELs 9A39M1
+
+Additionally, the TELAR 9A310M1-2 may take control over the Kub vehicles – just the TEL 2P25 or the self-propelled unit of reconnaissance and guidance 1S91 with a TEL 2P25. In this configuration complex can simultaneously fire two goals instead of one.[63]
+
+Probability of hitting of one rocket is:[65] - Statically flying aircraft - 0.7–0.9; - Manoeuvring aircraft with overdrive to 7–8 G - 0.5–0.7; - Tactical ballistic missiles - 0.5–0.7; - Anti-radar missiles - 0.6–0.8; - Cruise missiles - 0.6–0.8.
+
+The composition:[63] command post 9S470M1-2 6 self-propelled fire units 9A310M1-2 can perform all combat functions,[63] including identification of the state of the owner of the object detected.[77] 3 launchers (can fire, transporting and loading of other launchers) installation 9A39M1, target detection station 9S18M1, machine of maintenance 9V881M1-2 with caravan ZIP 9T456, workshop of maintenance SPA-M1, machine of repair and maintenance.
+
+The maximum range of fire against ballistic missiles is 20 km, and the maximum target speed is 1200 m / s.[79] Its capacity of protecting against ballistic missiles are comparable with that of the Patriot PAC-2.[80] However, the engagement ceiling is lower.[77] Preparing to fight (inversely) - 5 min.[79] Translation in battle mode, not for the first time in battle (after moving to another place) - no more than 20 seconds.[77] The range for engaging targets on land is 15 km, 25 km on the water.[81] The capture distance of targets with RCS = 5 m² - 40 km.[63] It automatically provides a high resistance to interference and work in several different combat modes, detection range of the locator of early detection 160 km.[77]
+
+Technical service division [ edit ]
+
+Technical service vehicle MTO 9V881M1-2 with a trailer ZIP 9T456
+
+Technical service workshop MTO AGZ-M1
+
+Technical service and maintenance vehicles MRTO: MRTO-1 9V883M1, MRTO-2 9V884M1, MRTO-3 9V894M1
+
+Transport vehicle (TM) 9T243 with a technological equipment set KTO 9T3184
+
+Automated control and test mobile station AKIPS 9V95M1
+
+Workshop vehicle for the missile maintenance 9T458
+
+Unified compressor station UKS-400V
+
+Mobile power plant PES-100-T/400-AKP1
+
+9K317 Buk-M2 [ edit ]
+
+There was an experimental 9А320 TEL (with 8 missiles).
+
+Some works were conducted to utilize a wheeled vehicles for Buk-M2-1 on a KrAZ-260 chassis, but they were not completed.[82]
+
+Developed in 1988.[83] Accepted for service in 2008.
+
+The structure of the Buk-M2[25][60][84]
+
+Fighting means Anti-aircraft missiles: 9М317 Self-propelled firing installation: 9А317 and 9А318 (towed), has everything for self-War, reaction time - 5 sec, range to 20 km (reflecting surface=1–2m 2 height - 3 km), 18–20 km (rs=1-2m 2 , height - 10–15m), range of work in the system -5 to + 85 degrees for missile guidance (to search for up to 70 if alone) [37] Installation of charging 9А317 and 9А318 or shooting teams 9С510: 9А316 and 9А320; [85]
+
+Management tools
+
+Command post 9С510, reaction time 2 seconds.
+
+Radar of targets detection (all directions - 360°) 9С18М1-3, range to 160 km (1-2m2)
+
+Radar of illumination and guidance of missiles or radar of targets detection of range ±60° 9С36.
+
+9S36-1 (if derrick is raised as much as possible) range to 120 km (reflecting surface=1–2m2 height - 3 km), 30-35 km (rs=1-2m2, height - 10–15m) [60]
+
+Translation in battle mode for the first time in battle-not more than 5 minutes, but 10–15 minutes when using derrick in which the radar of 9S36-1. Translation in battle mode, not for the first time in battle (after moving to another place) - no more than 20 seconds.[60]
+
+The probability of hitting targets one missile is: (data from the developer and several other sources)
+
+Aircraft of tactical aviation - 0.9–0.95
+
+Tactical ballistic missiles - 0.6–0.7 maximum speed of ballistic targets 1200 m / s.
+
+Cruise missiles - 0.7–0.8
+
+Hovering helicopters - 0.3–0.4 [66]
+
+Helicopter - 0.7–0.8 [60]
+
+Anti-radiation missile - 0.5–0.7.[55]
+
+The minimum rs to 0.05 square meters. Day-and-night passive optical system for target detection, thermal imager with minimal radiation (9А317 and 9А318).[86] The system operates in a mountainous area without glare.[37]
+
+The normal range of a ballistic missile to intercept with the use of Buk is up to 200 km.[87]
+
+9A316M launcher of the Buk-M3 surface-to-air missile system
+
+The 9K317M 'Buk-M3' (9K37M3) is the latest production version, based on new hardware.[88][89] It has 36 target channels and features advanced electronic components. Specifications include a maximum target speed of 3,000 m/s (11,000 km/h; 6,700 mph; Mach 8.8), an altitude range of 0.015–35 km (49–114,829 ft) and a distance range of 2.5–70 km (1.6–43.5 mi). Extensive trials began in 2015,[90] with the first deliveries planned for 2016.[91][92] (2 into 2016).[93] The probability of hitting a target with one missile is: aircraft - 0.95; tactical ballistic missile - 0.7; cruise missile - 0.8. It offers increased efficiency against electronic countermeasures and manoeuvring targets.[94] They are more compact, increasing the TELAR's carrying capacity to six missiles.[95] The missile's new HE-fragmentation warhead can more easily penetrate armor.[96] The complex is highly mobile and designed against air, ground and sea targets (e.g. destroyers).[97]
+
+The missile reaches a speed of 1,550 m/s (5,600 km/h; 3,500 mph; Mach 4.6), and manoeuvres by air rudders and reactive rudders.[98] The interval between shots is one second in any direction. Targeting is by commands or active homing, or in combination. Thermal radar works on any target at any time in any weather. Russian sources claim the system can destroy the MGM-140 ATACMS, though this has never been actually attempted.[99][100]
+
+Radar, guidance and target detection operates at a range of ±60° 9S36. A target at an altitude of 7–10 m can be detected at a distance of up to 35 km, targets like the AGM-158A "JASSM" at an altitude of 20 m, and RCS over 0.1 m² at a distance of 17–18 km.[101] The radar sees targets at an altitude of 5 meters and in practical shooting, the system demonstrated its ability to destroy anti-ship missiles flying at that altitude.[99]
+
+In June 2016 Almaz-Antey announced successful trials of the anti-aircraft complex. Firing at Kapustin Yar in the Astrakhan region was carried out at a ballistic target, which was made by the missile-target. The first brigade set of the "Buk-M3" was delivered in 2016.[102][103] It is in active service.[104]
+
+A missile uses active guidance, the system has radio and thermal guidance (any weather, day / night), the missile uses guidance 1) on commands, 2) only active homing, 3) mixed. The missile uses a directional explosion, Minimum target height 5 meters.[105]
+
+In April 2018, Rosoboronexport announced that it would be promoting the Buk-M3 system for export.[106] The system can use launcher from the Antey 2500 complex, range 130 km, own - 65 km.[107] The autonomous operation of individual parts of the system, and individual single machines, is possible. It is possible to work together without intermediaries using radar systems of various systems.[108] The probability of hitting the target is ≈100%.[109] Ballistic missiles can also be destroyed in a manner similar to other types of targets. The time for clotting / unfolding is 20 seconds.[110]
+
+Service history [ edit ]
+
+Combat service [ edit ]
+
+Operators [ edit ]
+
+Map with Buk operators in blue and former operators in red
+
+9K37 Buk in Azerbaijan service
+
+Current operators [ edit ]
+
+Algeria [127] 48 systems Buk-M2.
+
+Algeria 48 systems Buk-M2.
+
+Azerbaijan [128]
+
+Azerbaijan Belarus[129] - 12 complexes as of 2016.
+
+Ukrainian 9K37 Buk SAMS during the Independence Day parade in Kiev (2008)
+
+Former operators [ edit ]
+
+Finland – In 1996 Finland started operating the missile systems that they received from Russia as debt payment. [158] Due to concerns about susceptibility to electronic warfare, Finland has replaced the missile system with NASAMS 2. [159] [160] [161]
+
+Finland – In 1996 Finland started operating the missile systems that they received from Russia as debt payment. Due to concerns about susceptibility to electronic warfare, Finland has replaced the missile system with NASAMS 2. Soviet Union
+
+Failed bids [ edit ]
+
+Before 1990, 9K37M1E "Gang" launchers were supposed to enter the armies of the Warsaw Pact, but did not enter their armaments because they ceased to exist.[162]
+
+See also [ edit ]
+
+References [ edit ]
+
+Sources [ edit ]
+
+Russian sources [ edit ]
+
+Video [ edit ]

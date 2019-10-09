@@ -1,0 +1,956 @@
+Implementation Guidelines for Alcohol and Drug Regulations - Chapter 7
+Alcohol Testing Procedures
+
+Section 1. Obtaining Program Services
+
+When establishing an effective alcohol testing program, you will need to perform certain specialized services. You will need someone to
+
+Operate the testing equipment
+
+Report the results
+
+Assess drivers who test positive (unlike the controlled substances testing requirements, the alcohol rule does not require the use of an MRO).
+
+You will need to have access to equipment to perform the tests.
+
+If you do not have qualified individuals on staff to perform these functions, or do not have the equipment available, you will need to identify qualified contractors to provide each of these services.
+
+Alcohol Testing
+
+The FMCSA regulation (49 CFR part 382) requires that you conduct alcohol testing on drivers performing safety-sensitive functions consistent with the provisions set forth in 49 CFR part 40. The initial sample must be collected through the use of a saliva device, a nonevidential breath test device [alcohol screening device (ASD)], or an evidential breath testing device (EBT) that is approved by the National Highway Traffic Safety Administration (NHTSA). All screening tests must be performed by a trained breath alcohol technician (BAT). Saliva and nonevidential breath testing must only be performed by a trained screening test technician (STT).
+
+The confirmation sample must be conducted within 30 minutes of the completion of the screening test. The confirmation test must use an EBT that is approved by NHTSA. The test must be performed by a trained BAT.
+
+The FMCSA regulation prohibits you from allowing a driver with an alcohol concentration of 0.04 or greater to perform any safety-sensitive functions until he/she has been evaluated by an SAP and has passed a return-to-duty test. A driver with an alcohol concentration of 0.02 or greater, but less than 0.04, must be removed from duty for 24 hours.
+
+Evidential Breath Testing Device (§40.229).
+
+An EBT is a breath testing device that is capable of measuring a driver’s blood alcohol concentration. It must be able to distinguish alcohol from acetone at the 0.02 alcohol concentration level. An EBT must be capable of conducting an air blank and performing an external calibration check. For confirmation tests (defined later), you must use EBTs that can
+
+Produce a printed result in triplicate or three consecutive identical copies of each breath test
+
+Print a unique and sequential number of each completed test, with the BAT and the driver being able to read the number before each test, and print the number on each copy of the result
+
+Print, on each copy of the result, the manufacturer’s name for the device, the device’s serial number, and the time of the test
+
+The EBT must have a manufacturer-developed quality assurance plan approved by NHTSA. The plan must include
+
+A designated method or methods to be used to perform external calibration checks of the device
+
+Specified minimum intervals for performing external calibration checks of the device that account for different frequencies of use, environmental conditions (e.g., temperature, altitude, humidity), and contexts of operation (e.g., stationary or mobile use)
+
+Specified tolerances on an external calibration check within which the EBT is regarded to be in proper calibration
+
+Specified inspection, maintenance, and calibration requirements and intervals for the device.
+
+NHTSA will occasionally print updates to its Conforming Products List (CPL) of EBTs in the Federal Register.
+
+The regulation specifically requires that you comply with the NHTSA-approved quality assurance plan by ensuring that the external calibration checks of each EBT are performed as described in the manufacturer’s plan and that the EBT will be taken out of service if any external calibration check results in a reading outside the tolerances for the EBT. The EBT cannot be returned to service until it has been recalibrated and has had an acceptable external calibration check. You must also ensure that the inspection, maintenance, and calibration of each EBT are performed by the manufacturer or a maintenance representative certified by the manufacturer or an appropriate State agency. You must also maintain records of the external calibration checks of the EBT and store the EBT in a secure place when not being used.
+
+Provisions should be made for a back-up EBT for times when the primary EBT is unavailable, out of calibration, or being serviced. This could include acquiring a second instrument, arranging for a “loaner,” or arranging to use another employer’s EBT when necessary.
+
+Breath Alcohol Technician (§40.213)
+
+The alcohol tests must be performed by a BAT who is “trained to proficiency” in the operation of the EBT that he/she is using and in the alcohol testing procedures specified in the regulations. The BAT must successfully complete a DOT-approved course of instruction that provides training in the principles of EBT methodology, operation, and calibration checks. Information on these courses of instruction may be obtained from the Government Printing Office (GPO). See Chapter 4, “Education and Training.” In addition, the BAT must complete training on the fundamentals of breath analysis for alcohol content, the procedures required for obtaining a breath sample, and interpreting and recording EBT results.
+
+The BAT must demonstrate competence in the operation of the specific EBT he/she will use. The BAT will be required to receive additional training as new or additional devices or technology are introduced.
+
+You must identify the individual(s) who will serve as your BAT(s). If one BAT is selected as the primary EBT operator, provisions should be made for back-up services. You are required to document the training and proficiency testing of the BAT who tests your employees.
+
+The supervisor of a driver to be tested for alcohol misuse, if at all possible, should not serve as the BAT for that driver’s test. However, in no circumstances will the supervisor who made the reasonable cause
+
+determination serve as the BAT for that driver’s test.
+
+Alcohol Testing Site (§40.221)
+
+Alcohol tests should be conducted at a site that provides privacy to the driver being tested. The testing site must be secured, with no unauthorized access at any time the ASD and/or EBT is unsecured or when testing is occurring. The BAT must conduct only one test at a time and must not leave the testing site while the preparations for testing or the test itself are in progress.
+
+In unusual circumstances (e.g., an accident), an alcohol test can be conducted at a place other than an alcohol testing site. In such cases, the STT or BAT shall conduct the test in a manner that provides the driver with privacy to the greatest extent practicable.
+
+You may purchase and operate the ASD and/or EBT, or these services may be procured from a for-profit or nonprofit entity. If possible, the alcohol test should be performed at the same location used for urine collection for controlled substances tests to minimize the time and logistical problems associated with the collection process, particularly when a driver will be taking both an alcohol and a controlled substances test (e.g., preemployment, postaccident). Other possible locations include other employer facilities and facilities available at other transportation employers that fall under the DOT regulations
+
+(e.g., transit agencies, school bus operations, or other agencies that have drivers holding CDLs).
+
+
+
+In an attempt to reduce cost demands, you may wish to join forces with other transportation employers in your region to purchase ASDs, EBTs, and STT and BAT services as a group.
+
+
+
+In anticipation of the need for alcohol testing services, the following procedures should be followed:
+
+Develop specifications for ASD, EBT, STT, and BAT services consistent with 49 CFR part 40. Estimate the number and types of tests to be performed and their approximate frequency throughout the year. Specify the hours of required availability and the need for back-up equipment and trained personnel. Confer with other employers that must purchase alcohol testing services to satisfy DOT regulations to identify potential consortia/ third- party administrators (private and public) for testing services. Investigate the current and potential availability of ASDs, EBTs, and STT and BAT services in the local community and evaluate the level of interest in the provision of testing services. As soon as possible, select an alcohol testing site. If possible, the alcohol testing site should be the same as the drug sample collection site. Law enforcement agencies are not recommended as collection sites in order to avoid any perception of testing as a “police” action. Develop a contract that specifies the obligation of the collection site to maintain equipment quality standards, and STT and BAT proficiency training consistent with 49 CFR part 40 throughout the duration of the contract. Require that sufficient records of the quality control measures, equipment calibration, and proficiency training are provided for documentation of the employer’s program.
+
+Alcohol Testing Process
+
+The following procedures must be used to conduct the test.
+
+Preparation (See 49 CFR part 40 Subpart L).
+
+Upon arrival at the alcohol testing site, the driver must provide positive identification to the STT or BAT. The identification can be in the form of a company photo identification card, a commercial driver’s license (CDL), or identification by an employer representative.
+
+These alcohol requirements only apply to drivers who are subject to CDL requirements. A color photograph, except in rare circumstances in the State of Alaska, is required to be on a CDL. The FMCSA fully expects most employers to require the driver to present the CDL document to the STT or BAT.
+
+After the testing procedures are explained to the driver, the driver and the STT or BAT must complete, date, and sign the alcohol testing form. The driver and the STT or BAT sign the form indicating that the driver is present and providing a saliva or breath sample. You may not modify or revise this form, unless the form is directly generated by an EBT (i.e., the space for affixing a separate printed result is not needed on an EBT-generated form since the form itself is the result). The form must provide carbonless triplicate copies. Electronic signatures are prohibited. Copy 1 must be transmitted to the employer. Copy 2 must be provided to the driver. Copy 3 must be retained by the BAT. Except for a form generated by an EBT, the form shall be 8½ by 11 inches (21.6 by 28 centimeters) in size. The form may be found in the appendix at the end of this chapter.
+
+EBT Screening Test (§40.243).
+
+The BAT will inform the driver of the need to conduct a screening test. The BAT must open an individually sealed, disposable mouthpiece in view of the driver and attach it to the EBT. For screening tests, air blanks are not required.
+
+The BAT will instruct the driver to blow forcefully into the mouthpiece for at least 6 seconds or until an adequate amount of breath has been obtained. Following the screening test, the BAT must show the driver the result displayed on the EBT or the printed result.
+
+If the result of the screening test is an alcohol concentration of less than 0.02, no further testing is required and the test will be reported to you as a negative test. The driver may then return to his/ her safety-sensitive function.
+
+ASD screening test (§40.245)
+
+The steps for preparation for testing are the same as provided for EBT alcohol testing. If a saliva test is being conducted, the STT will explain the testing procedure to the driver. The STT will check the expiration date of the saliva testing device, showing the date to the driver, and must not use a device at any time after the expiration date. The STT will open an individually sealed package containing the device in the presence of the driver and then will offer the driver the opportunity to use the swab. If the driver chooses to use the swab, the
+
+STT will instruct the employee to insert the absorbent end of the swab into his/her mouth, moving it actively throughout the mouth for a sufficient time to ensure that it is completely saturated, as indicated in the manufacturer’s instructions for the device.
+
+If the employee chooses not to use the swab, or in all cases in which a new test is necessary because the device did not activate, the STT will insert the absorbent end of the swab into the driver’s mouth, moving it actively throughout the mouth for a sufficient time to ensure that it is completely saturated, as indicated in the manufacturer’s instructions for the device.
+
+The STT will wear a surgical glove while doing so. The STT will place the device on a flat surface or otherwise in a position in which the swab can be firmly placed into the opening provided in the device for this purpose. The STT will insert the swab into this opening and maintain firm pressure on the device until the device indicates that it is activated.
+
+If the swab breaks, or the STT drops the swab on the floor or another surface, or the swab is removed or falls from the device before the device is activated, the STT will discard the device and swab and conduct a new test using a new device. The new device will be one that has been under the control of the employer or STT prior to the test. The STT will note in the remarks section of the form the reason for the new test.
+
+In this case, the STT shall offer the
+
+employee the choice of using the swab himself or herself or having the STT use the swab. If the test continues to be unsuccessful, the collection shall be terminated and an explanation provided in the remarks section of the form. A new test shall then be conducted, using an EBT for both the screening and confirmation tests.
+
+If the procedures are followed successfully but the device is not activated, the STT will discard the device and swab, and conduct a new test. In this case, the STT will place the swab into the driver’s mouth to collect saliva for the new test.
+
+The STT will read the result displayed on the device 2 minutes after inserting the swab into the device and will show the device and its reading to the driver and enter the result on the form.
+
+Devices, swabs, gloves, and other materials used in saliva testing shall not be reused and shall be disposed of in a sanitary manner following their use, consistent with applicable requirements.
+
+Confirmation Test (see 49 CFR part 40 subpart M).
+
+If the result of the screening test is an alcohol concentration of 0.02 or greater, a confirmation test must be performed.
+
+The confirmation test must be conducted at least 15 minutes, but not more than 30 minutes, after the completion of the initial test. This delay prevents any accumulation of alcohol in the mouth from leading to an artificially high reading.
+
+Employers that use nonevidential ASDs are responsible for ensuring that an EBT is available for use within 30 minutes of obtaining a test result on the ASD. If an employer cannot ensure that an EBT will be available within the 30-minute time limit, the employer must not use ASDs in an alcohol testing program. The FMCSA will not allow, as a standard practice, employers to violate the 30-minute time limit for getting a confirmation test started. Rare instances may be allowed, at the FMCSA’s discretion, on a case-by-casebasis.
+
+Once a screening test indicates an alcohol concentration of 0.02 or greater, however, a confirmation test must be conducted, no matter how long it takes to complete it. As stated above, these instances will be rare.
+
+The BAT will inform the driver of the need to conduct a confirmation test. The driver will be instructed not to eat, drink, or put any object or substance in his/her mouth. The BAT will also instruct the driver not to belch (to the
+
+extent possible) while awaiting the confirmation test. The BAT must inform the driver that the test will be conducted at the end of the waiting period, even if the driver has disregarded the instructions.
+
+Before the confirmation test is administered, the BAT shall conduct an air blank on the EBT. An air blank is a test of ambient air containing no alcohol to ensure that the EBT is properly calibrated. If the reading is greater than 0.00, the BAT shall conduct one more airblank. If the second air-blank reading is greater than 0.00, the EBT must not be used to conduct the test.
+
+The confirmation test is conducted using the same procedures as the EBT screening test. A new mouthpiece must be used if the screening test was conducted on the EBT. If the initial and confirmation test results are not identical, the confirmation test result is deemed to be the final result.
+
+If the result displayed on the EBT is not the same as that on the printed form, the test will be cancelled and the EBT removed from service.
+
+The BAT will sign and date the form. The driver will sign and date the certification statement, which includes a notice that the driver cannot perform safety-sensitive functions or operate a motor vehicle if theresults are 0.02 or greater. If the results are 0.04 or greater, the driver must be removed from his/her driving duties and attendant safety-sensitive functions and be evaluated by an SAP. The BAT will attach the alcohol test result printout directly onto the alcohol collection form with tamper-evident tape (unless the results are printed directly on the form).
+
+Reporting.
+
+The BAT will transmit all results to your designated representative in a confidential manner (in writing, in person, by telephone, or other electronic means). In the event a driver must be removed from safety-sensitive functions, the BAT will notify your representative immediately.
+
+Incomplete Tests (See 49 CFR part 40 Subpart N).
+
+If a screening or confirmation test cannot be completed, the BAT must, if practical, begin a new test using a new alcohol testing form with a new sequential test number.
+
+Refusal by a driver to complete and sign the alcohol testing form, to provide breath, to provide an adequate amount of breath, or otherwise to cooperate with the collection process must be noted on the form and the test will be terminated.
+
+If a driver attempts and fails to provide an adequate amount of breath, the BAT must note this on the form and immediately inform you. You shall direct your driver to obtain, from a licensed physician acceptable to you, an evaluation concerning the driver’s medical ability to provide an adequate amount of breath. The evaluation should be made as soon as practical after the attempted breath test. If the physician indicates that there was a valid medical reason, the driver’s failure to provide an adequate amount of breath will not be considered a refusal. If no valid medical reason is determined, the inadequate amount of breath must be considered a refusal to take the test.
+
+Test Accuracy (See 49 CFR part 40 Subpart N).
+
+To protect the integrity of the test and to ensure accurate results, the procedures for conducting an alcohol test are rigorous. Alcohol tests are considered invalid when the following occur:
+
+The external calibration check of the EBT produces a result outside the allowed tolerance levels.
+
+The BAT does not wait 15 minutes between the screening and confirmation tests.
+
+A valid air blank test that registers 0.00 is not performed before eachconfirmation test.
+
+The alcohol test form with the attached EBT printout is not completed correctly. Employee, STT, and BAT signatures, and relevant STT and BAT remarks, must be included.
+
+The EBT fails to print the confirmation results, the sequential test number on the EBT is not the same as the number on the printout, or the alcohol concentration displayed on the EBT is different from what is printed out.
+
+For tests conducted on a saliva device —
+
+The result is read before 2 minutes or after 15 minutes from the time the swab is inserted into the device.
+
+The device does not activate.
+
+The device is used for a test after the expiration date printed on its package.
+
+The STT fails to note on the alcohol testing form that the test was conducted using a saliva device.
+
+Substance Abuse Professional
+
+The FMCSA regulations require that any individual who has a breath alcohol concentration of 0.04 or greater must be removed immediately from his/her driving duties and any attendant safety-sensitive functions. In addition, he/she must be advised of the resources available to evaluate and resolve problems associated with alcohol misuse, including the names, addresses, and telephone numbers of SAPs and counseling and treatment programs. The driver must also be assessed by an SAP, who must determine the required treatment and/or education the driver needs in resolving problems associated with alcohol misuse.
+
+An SAP is (1) a licensed physician (medical doctor or doctor of osteopathy), or licensed or certified psychologist, licensed or certified social worker, or certified employee assistance professional with knowledge of and clinical experience in the diagnosis and treatment of alcohol-related disorders; or (2) an addiction counselor certified by the National Association of Alcoholism and Drug Abuse Counselors Certification Commission or International Certification Reciprocity Consortium. The SAP must carry out the following responsibilities:
+
+Evaluate whether each driver who has an alcohol test result of 0.04 or greater or has refused to submit to an alcohol test should be prescribed treatment and/or education in resolving problems associated with alcohol misuse.
+
+Evaluate whether each driver who previously tested 0.04 or greater and wants to return to work has properly followed the SAP’s recommendations for treatment and/or education.
+
+Determine the number of months a returning driver will be subject to follow-up alcohol testing after returning to duty (after the minimum six tests required during the first 12 months).
+
+Recommend whether a returning driver should also be subject to return-to-duty and/or follow-up testing for controlled substances use.
+
+SAPs may not provide treatment to drivers that they have assessed. Nor may SAPs have any financial or other ties to treatment providers who are treating drivers that the SAP referred.
+
+Potential SAPs should provide documentation of their credentials and a summary of their assessment and referral procedures. The SAP should also provide a list of the treatment options available and the frequency with which each is recommended. A primary SAP and a back-up SAP should be selected. A contract should be negotiated that states the specific requirements for the SAP and the associated cost for the services. The contract may be with individuals or with a company that provides the SAP services.
+
+A primary SAP should be selected to provide services to your drivers. This professional should be encouraged to learn about your operations and the safety-sensitive functions that your drivers perform. This knowledge will be a major asset when assessing the needs of your drivers and their ability to perform safety-sensitive functions. Back-up SAPs should also be selected to provide assessments when the primary SAP is not available.
+
+Section 2. Alcohol-Related Conduct
+
+The FMCSA alcohol regulation prohibits the following alcohol-related conduct by CMV drivers:
+
+Using alcohol within 4 hours prior to driving and performing attendant safety-sensitive functions.
+
+Reporting for duty or remaining on duty requiring driving and the performance of attendant safety-sensitive functions while having an alcohol concentration of 0.04 or greater.
+
+Using alcohol while driving and performing attendant safety-sensitive functions.
+
+Using alcohol within 8 hours following an accident that requires the employee to take an alcohol test, unless the driver has already taken a postaccident alcohol test or if his/her involvement has been discounted as a contributing factor.
+
+Refusing to submit to an alcohol test required by FMCSA regulations.
+
+In addition, driving and performing attendant safety-sensitive functions is prohibited after an alcohol test result of 0.02 or higher, but less than 0.04, regardless of when the alcohol was ingested and regardless ofwhether the driver is under the influence of alcohol as defined in Federal, State, or local law. Conduct will result in being removed from duty for at least 24 hours.
+
+In addition to stipulating which behavior is unacceptable and in violation of DOT and FMCSA regulations, you must inform drivers of the consequences of violating these regulations. Drivers who have violated provisions of the alcohol regulations are subject to the following consequences:
+
+Drivers will not be permitted to drive CMVs and perform attendant safety-sensitive functions.
+
+Drivers shall be advised by the employer of the resources available to them in evaluating and resolving problems associated with the misuse of alcohol.
+
+Drivers shall be evaluated by an SAP who shall determine the treatment and/or education the employee needs in resolving problems associated with alcohol misuse.
+
+Before returning to duty, the driver shall undergo a return-to-duty alcohol test resulting in an alcohol concentration less that 0.02.
+
+Drivers identified as needing assistance in resolving problems associated with alcohol shall be evaluated by an SAP to determine that the driver has followed the rehabilitation program prescribed.
+
+The driver shall also be subject to unannounced follow-up alcohol testing in resolving a problem.
+
+Section 3. Dry Run of the Program
+
+You should begin your actual alcohol misuse program with a dry-run period, and then, after all is in order, implement the actual program. Do not allow a gap between the dry run of the program and the actual implementation.
+
+A detailed discussion of how to do a dry run can be found in Chapter 6, “Controlled Substances Testing Procedures.” The only difference between the dry runs of the controlled substances use and alcohol misuse programs is the sample collection procedure. In the dry run of the controlled substances use program, the urine specimen would be collected but then disposed of in clear view of the driver. For the alcohol dry run, the air blank would still be performed on an operating EBT, but the breath sample from the driver should be blown into the EBT after the machine is turned off. As with the controlled substances dry run, this assures the driver that the sample will not be analyzed, yet allows you to trial-run all the necessary procedures.
+
+You should announce the starting date of actual testing at the same time that you begin your dry run. This will allow drivers to take full advantage of your EAP and voluntary rehabilitation programs, if applicable.
+
+Chapter 7 Appendix Conforming Products List
+
+Alcohol Screening Devices (Authorized for Use in the DOT & FMCSA Program) Printed in the Federal Registeron May 4, 2001 (66 FR 22639)
+
+This list is subject to change. Amendments will be published by the National Highway Traffic Safety Administration.
+
+For Further Information Contact: Driver Control Division, NTS-21 Office of Alcohol and State Programs National Highway Traffic Safety Administration, 1200 New Jersey Avenue SE, Washington, DC 20590 Telephone: (202) 366 9851
+
+Conforming Products List of Alcohol Screening Devices
+
+Manufacturer Device(s) 1. Akers Laboratories, Inc Thorofare, N.J. •Alcohol “ 2. Alco Check International *Hudsonville, MI •Alco Check 3000 D.O.T
+
+•Alco Screen 3000
+
+•Alco Check 9000 3. Chematics, Inc. North Webster, IN •ALCO-SCREEN 02 4. Guth Laboratories, Inc.* Harrisburg, PA •Alco Tector Mark X
+
+•Mark X Alcohol Checker 5. Han International, Co., Ltd.
+
+Seoul, Korea •A.B.I. (Alcohol Breath Indicator) 6. OraSure Technologies, Inc.
+
+Bethlehem, PA
+
+Formerly STC Technologies, Inc.) •Q.E.D. Saliva Alcohol Test 7. PAS Systems International, Inc. Fredericksburg, VA •PAS IIIa
+
+•PAS Vr 8. Repco Marketing, Inc.
+
+Raleigh, NC •Alco Tec III 9. Roche Diagnostic Systems
+
+Branchburg, NJ •On-Site Alcohol 10. Sound Off, Inc. * Hudsonville, MI •Digitox D.O.T.
+
+•Alco Screen 1000
+
+Evidential Breath Testing Devices (Authorized for Use in the DOT & FMCSA Program)
+
+Printed in the Federal Register on July 21, 2000 (65 FR 45419)
+
+This list is subject to change. Amendments will be published by the National Highway Traffic Safety Administration.
+
+For Further Information Contact:
+
+Driver Control Division, NTS-21
+
+Office of Alcohol and State Programs
+
+National Highway Traffic Safety Administration
+
+1200 New Jersey Avenue SE
+
+Washington, DC 20590
+
+Telephone: (202) 366 9851
+
+Manufacturer and Model Mobile Non-mobile Alcohol Countermeasure Systems Corp. Mississauga, ON Altert J3AD* X X PBA3000C X X BAC Systems, Inc. Ontario, Canada Breath Analysis Computer* X X CAMEC Ltd., North Shields, Tyne, and Ware, England IR Breath Analyzer* X X CMI, Inc., Owensboro, KY Intoxilyzer Model: 200 X X 200D X X 300 X X 400 X X 400PA X X 1400 X X 4011* X X 4011A* X X 4011AS* X X 4011AS-A* X X 4011AS-AQ* X X 4011AW* X X 4011A27-1011* X X 4011A27-10100 with filter* X X 5000 X X 5000 (w/Cal. Vapor Re-Circ.) X X 5000 (w/3/8" ID Hose option) X X 5000CD X X 5000CD/FG5 X X 5000EN X X 5000 (CAL DOJ) X X 5000VA X X PAC 1200* X X S-D2 X X Decator Electronics, Decator, IL Alco-Tector model 500* X X Draeger Safety, Inc. Durango, CO Alcotest Model: 7010* X X 7110* X X 7110 MKIII X X 7110 MKIII-C X X 7410 X X 7410 Plus X X Breathalzyer Test: 900* X X 900A* X X 900BG* X X 7410 X X 7410-II X X Gall’s Inc., Lexington, Kentucky Alcohol Detection System-A.D.S. 500 X X Intoximeters, Inc., St. Louis, MO Photo Electric Intoximeter* X GC Intoximeter MK II* X GC Intoximeter MK IV* X Auto Intoximeter* Intoximeters Model: 3000* X X 3000 (rev B1)* X X 3000 (rev B2)* X X 3000 (rev B2A)* X X 3000 (rev B2A) w/FM Option X X 3000 (Fuel Cell)* X X 3000 D* X X 3000 DFC* X X Alcomonitor X Alcomonitor CC X X Alco Sensor III X X Alco Sensor IV X X Alco Sensor IV-XL XL X Alco Sensor AZ X X RBT-AZ X X RBT III X X RBT III-A X X RBT IV X X RBT IV with CEM (cell enhancement module) X X Portable Intox EC/IR X X Komyp Kitagawa, Kogyo, K.K Alcoyzer DPA-2* X X Breath Alcohol Meter PAM 101B* X X Life Loc, Inc., Wheat Ridge, CO PBA 3000B X X PBA 3000-P* X X PBA 3000C X X Alcohol Data Sensor X X Phoenix X X Lion Laboratories, Ltd., Cardiff, Wales, United Kingdom Alcolmeter Model: 300 X X 400 X X AE-D1* X X SD-2* X X EBA* X X Auto-Alcolmeter* X X Intoxilyzer Model: 200 X X 200D X X 1400 X X 5000CD/FG5 X X 5000 EN X X Luckey Laboratories, San Bernadino, CA
+
+Alco-Analyzer Model: 1000* X X 2000* X X National Draeger, Inc., Pittsburgh, PA Alcotest Model: 7010* X X 7110* X X 7110 MKIII X X 7110 MK-C X X 7410 X X 7410 Plus X X Breathalyzer Model: 900* X X 900A* X X 900BG* X X 7410 X X 7410-II X X National Patent Analytical Systems, Inc., Mansfield, OH BAC DataMaster (with or without the Delta-1 accessory) X X BAC Verifier DataMaster (with or without the Delta-1 accessory) X X DataMaster cdm (with or without the Delta-1 accessory) X X Omicron Systems, Palo Alto, CA
+
+Intoxilyzer Model: 4011* X X 4011AW* X X Plus 4 Engineering, Minturn, CO 5000 Plus4* X X Seres, Paris, France Alco Master X X Alcopro X X SSiemans-Allis, Cherry Hill, NJ Alcomat* X X Alcomat F* X X Smith and Wesson Electronics, Springfield, MA
+
+Breathalyzer Model: 900* X X 900A* X X 1000* X X 2000* X X 2000 (non-Humidity Sensor)* X X Sound-Off, Inc., Hudsonville, MI AlcoData X X Seres Alco Master X X Seres Alcopro X X Stephenson Corp. Breathalyzer 900* X X U.S. Alcohol Testing, Inc./Protection Devices, Inc., Rancho Cucamonga, CA Alco Analyzer 1000 X Alco Analyzer 2000 X Alco Analyzer 2100 X X Verax Systems, Inc., Fairport, NY BAC Verifier* X X BAC Verifier DataMaster X X BAC Verifier DataMaster II* X X
+
+Evidential Breath Tester Calibration Devices (Authorized for Use in the DOT & FMCSA Program)
+
+Printed in the Federal Register on December 29, 1994 (59 FR )
+
+This list is subject to change. Amendments will be published by the National Highway Traffic Safety Administration.
+
+
+
+For Further Information, Contact:
+
+Driver Control Division, NTS-21 Office of Alcohol and State Programs
+
+National Highway Traffic Safety Administration
+
+1200 New Jersey Avenue SE Washington, DC 20590
+
+Telephone: (202) 366-9851
+
+www.dot.gov/ost/dabc
+
+Manufacturer Calibrating Unit 1. CMI, Inc., Owensboro, KY •Toxitest II 2. Guth Laboratories, Inc., Harrisburg, PA •Model 34C Simulator
+
+•34C (Cal DOJ)
+
+•34C-FM
+
+•34C-NPAS
+
+•Model 3412
+
+•Model 104
+
+•Model 1214 3. National Draeger, Inc., Pittsburgh, PA •Mark II-A 4. PLD of Florida, Inc., Rockledge, FL •BA 500 5. Repco Marketing, Inc., Raleigh, NC •AS-1 6. U.S. Alcohol Testing, Rancho
+
+Cucamonga, CA •Alco-Simulator 61000
+
+Note: Instruments meet the model specifications in 59 FR (December 29, 1994).
+
+Breath Alcohol Testing Form
+
+U.S. Department of Transportation (DOT) Alcohol Testing Form (The instructions for completing this form are on the back of Copy 3)
+
+Step 1: TO BE COMPLETED BY ALCOHOL TECHNICIAN
+
+A: Employee Name ________________________________
+
+(Print) (First, MI, Last)
+
+B: SSN or Employee ID No. _______________________
+
+C: Employer Name _______________________
+
+Street _______________________
+
+City, State Zip _______________________
+
+DER Name and Telephone No. ______________ (___)______
+
+DER Name DER Phone Number
+
+D: Reason for Test: • Random • Reasonable Susp • Post-Accident • Return to Duty • Follow-Up • Pre-employment Step 2: TO BE COMPLETED BY EMPLOYEE
+
+
+
+I certify that I am about to submit to alcohol testing required by the US Department of Transportation regulations and that the identifying information provided on the form is true and correct.
+
+
+
+_____________________________________________________________ _______________/______/______
+
+Signature of Employee Date Month Day Year Step 3: TO BE COMPLETED BY ALCOHOL TECHNICIAN
+
+
+
+(If the technician conducting the screening test is not the same technician who will be conducting the confirmation test, each technician must complete their own form.) I certify that I have conducted alcohol testing on the above named individual in accordance with the procedures established in the US Department of Transportation regulation, 49 CFR Part 40, that I am qualified to operate the testing device(s) identified, and that the results are as recorded.
+
+
+
+TECHNICIAN: • BAT • STT DEVICE: • SALIVA • BREATH* 15-Minute Wait: • Yes • No
+
+
+
+Screening Test: (For breath device* write in the space below only if the testing device is not designed to print)
+
+
+
+
+
+________ _______________ __________________________ _______________ ____________ __________
+
+Test # Testing Device Name Device Serial # Or Lot # & Exp Date Activation Time Reading Time Result
+
+
+
+CONFIRMATION TEST: Results must be affixed to each copy of this form or printed directly onto the form.
+
+
+
+REMARKS:
+
+____________________________________________________________________________________________
+
+____________________________________________________________________________________________
+
+____________________________________________________________________________________________
+
+______________________________________________ __________________________________________
+
+Alcohol Technician's Company Company Street Address
+
+______________________________________________ _______________________________(____)____
+
+(PRINT) Alcohol Technician's Name (First, M.I., Last) Company City, State, Zip Phone Number
+
+______________________________________________ _______________/______/______
+
+Signature of Alcohol Tenician Date Month Day Year Step 4: To be completed by employee if test result is 0.02 or higher I certify that I have submitted to the alcohol test, the results of which are accurately recorded on this form. I understand that I must not drive, perform safety-sensitive duties, or operate heavy equipment because the results are 0.02 or greater.
+
+
+
+_____________________________________________________________ _______________/______/______
+
+Signature of Employee Date Month Day Year
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Screening Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Confirmation Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Additional Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+OMB No. 2105-0529
+
+Copy 1 - Original - Forward to the Employer
+
+Paperwork reduction act notice (as required by 5 CFR 1320.21)
+
+Public reporting burden for this collection of information is estimated for each respondent to average: 1 minute/employee, 4 minutes/Breath Alcohol Technician. Individuals may send comments regarding these burden estimates, or any other aspect of this collection of information, including suggestions for reducing the burden, to U.S. Department of Transportation, Drug and alcohol policy and compliance, 1200 New Jersey Avenue SE, Washington, DC 20590. Please note that an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB contrl number associated with the collection is 2105-0529.
+
+Back of Pages 1 and 2
+
+U.S. Department of Transportation (DOT)
+
+Alcohol Testing Form (The instructions for completing this form are on the back of Copy 3) Step 1: TO BE COMPLETED BY ALCOHOL TECHNICIAN
+
+A: Employee Name ________________________________
+
+(Print) (First, MI, Last)
+
+B: SSN or Employee ID No. _______________________
+
+C: Employer Name _______________________
+
+Street _______________________
+
+City, State Zip _______________________
+
+DER Name and Telephone No. ______________ (___)______
+
+DER Name DER Phone Number
+
+D: Reason for Test: • Random • Reasonable Susp • Post-Accident • Return to Duty • Follow-Up • Pre-employment Step 2: TO BE COMPLETED BY EMPLOYEE
+
+
+
+I certify that I am about to submit to alcohol testing required by the US Department of Transportation regulations and that the identifying information provided on the form is true and correct.
+
+
+
+_____________________________________________________________ _______________/______/______
+
+Signature of Employee Date Month Day Year Step 3: TO BE COMPLETED BY ALCOHOL TECHNICIAN
+
+
+
+(If the technician conducting the screening test is not the same technician who will be conducting the confirmation test, each technician must complete their own form.) I certify that I have conducted alcohol testing on the above named individual in accordance with the procedures established in the US Department of Transportation regulation, 49 CFR Part 40, that I am qualified to operate the testing device(s) identified, and that the results are as recorded.
+
+
+
+TECHNICIAN: • BAT • STT DEVICE: • SALIVA • BREATH* 15-Minute Wait: • Yes • No
+
+
+
+Screening Test: (For breath device* write in the space below only if the testing device is not designed to print)
+
+
+
+
+
+________ _______________ __________________________ _______________ ____________ __________
+
+Test # Testing Device Name Device Serial # Or Lot # & Exp Date Activation Time Reading Time Result
+
+
+
+CONFIRMATION TEST: Results must be affixed to each copy of this form or printed directly onto the form.
+
+
+
+REMARKS:
+
+____________________________________________________________________________________________
+
+____________________________________________________________________________________________
+
+____________________________________________________________________________________________
+
+______________________________________________ __________________________________________
+
+Alcohol Technician's Company Company Street Address
+
+______________________________________________ _______________________________(____)____
+
+(PRINT) Alcohol Technician's Name (First, M.I., Last) Company City, State, Zip Phone Number
+
+______________________________________________ _______________/______/______
+
+Signature of Alcohol Tenician Date Month Day Year Step 4: To be completed by employee if test result is 0.02 or higher I certify that I have submitted to the alcohol test, the results of which are accurately recorded on this form. I understand that I must not drive, perform safety-sensitive duties, or operate heavy equipment because the results are 0.02 or greater.
+
+
+
+_____________________________________________________________ _______________/______/______
+
+Signature of Employee Date Month Day Year
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Screening Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Confirmation Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Additional Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+OMB No. 2105-0529
+
+Copy 2 - Employee Retains
+
+Paperwork reduction act notice (as required by 5 CFR 1320.21)
+
+Public reporting burden for this collection of information is estimated for each respondent to average: 1 minute/employee, 4 minutes/Breath Alcohol Technician. Individuals may send comments regarding these burden estimates, or any other aspect of this collection of information, including suggestions for reducing the burden, to U.S. Department of Transportation, Drug and alcohol policy and compliance, 1200 New Jersey Avenue SE, Washington, DC 20590. Please note that an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB contrl number associated with the collection is 2105-0529.
+
+Back of Pages 1 and 2
+
+U.S. Department of Transportation (DOT)
+
+Alcohol Testing Form (The instructions for completing this form are on the back of Copy 3) Step 1: TO BE COMPLETED BY ALCOHOL TECHNICIAN
+
+A: Employee Name ________________________________
+
+(Print) (First, MI, Last)
+
+B: SSN or Employee ID No. _______________________
+
+C: Employer Name _______________________
+
+Street _______________________
+
+City, State Zip _______________________
+
+DER Name and Telephone No. ______________ (___)______
+
+DER Name DER Phone Number
+
+D: Reason for Test: • Random • Reasonable Susp • Post-Accident • Return to Duty • Follow-Up • Pre-employment Step 2: TO BE COMPLETED BY EMPLOYEE
+
+
+
+I certify that I am about to submit to alcohol testing required by the US Department of Transportation regulations and that the identifying information provided on the form is true and correct.
+
+
+
+_____________________________________________________________ _______________/______/______
+
+Signature of Employee Date Month Day Year Step 3: TO BE COMPLETED BY ALCOHOL TECHNICIAN
+
+
+
+(If the technician conducting the screening test is not the same technician who will be conducting the confirmation test, each technician must complete their own form.) I certify that I have conducted alcohol testing on the above named individual in accordance with the procedures established in the US Department of Transportation regulation, 49 CFR Part 40, that I am qualified to operate the testing device(s) identified, and that the results are as recorded.
+
+
+
+TECHNICIAN: • BAT • STT DEVICE: • SALIVA • BREATH* 15-Minute Wait: • Yes • No
+
+
+
+Screening Test: (For breath device* write in the space below only if the testing device is not designed to print)
+
+
+
+
+
+________ _______________ __________________________ _______________ ____________ __________
+
+Test # Testing Device Name Device Serial # Or Lot # & Exp Date Activation Time Reading Time Result
+
+
+
+CONFIRMATION TEST: Results must be affixed to each copy of this form or printed directly onto the form.
+
+
+
+REMARKS:
+
+____________________________________________________________________________________________
+
+____________________________________________________________________________________________
+
+____________________________________________________________________________________________
+
+______________________________________________ __________________________________________
+
+Alcohol Technician's Company Company Street Address
+
+______________________________________________ _______________________________(____)____
+
+(PRINT) Alcohol Technician's Name (First, M.I., Last) Company City, State, Zip Phone Number
+
+______________________________________________ _______________/______/______
+
+Signature of Alcohol Tenician Date Month Day Year Step 4: To be completed by employee if test result is 0.02 or higher I certify that I have submitted to the alcohol test, the results of which are accurately recorded on this form. I understand that I must not drive, perform safety-sensitive duties, or operate heavy equipment because the results are 0.02 or greater.
+
+
+
+_____________________________________________________________ _______________/______/______
+
+Signature of Employee Date Month Day Year
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Screening Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Confirmation Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affix
+
+Or
+
+Print
+
+Additional Results Here
+
+
+
+
+
+Affix
+
+With
+
+Tamper Evident Tape
+
+OMB No. 2105-0529
+
+Copy 3 Alcohol Technician Retains
+
+Instructions for completing the U.S. Department of Transportation Alcohol Testing Form
+
+Note: Use a ballpoint pen, press hard, and check all copies for legibility.
+
+Step 1: The breath alcohol technician (BAT) or Screening Test Technician (STT) completes the information required in this step. Be sure to print the employee's name and check to box identifying the reason for the test.
+
+Note: If the employee refuses to provide a SSN or ID Number, be sure to indicate this in the remarks section in STEP 3. Proceed with STEP 2.
+
+The breath alcohol technician (BAT) or Screening Test Technician (STT) completes the information required in this step. Be sure to print the employee's name and check to box identifying the reason for the test. If the employee refuses to provide a SSN or ID Number, be sure to indicate this in the remarks section in STEP 3. Proceed with STEP 2. Step 2: Instruct the employee to read, sign, and date the employee certification statement in STEP 2
+
+Note: If the employee refuses to sign the certification statement, do not proceed with the alcohol test. Contact the designated employer representative.
+
+Instruct the employee to read, sign, and date the employee certification statement in STEP 2 If the employee refuses to sign the certification statement, do not proceed with the alcohol test. Contact the designated employer representative. Step 3: The BAT or STT completes the information required in this step and checks the type of device (saliva or breath) being used. After conducting the alcohol screening test, do the following (as appropriate): Enter the information for the screening test (test number, testing device name, testing serial number or lot number and expiration date, time of test with any device-dependent activation times, and the results), on the front of the AFT. For a breath testing device capable of printing, the information may be part of the printed record.
+
+Note: Be sure to enter the result of the test exactly as it is indicated on the breath testing, e.g., 0.00, 0.02, 0.04, etc. Affix the printed information in the space provided, in a tamper-evident manner (e.g., tape) or the device may print the results directly on the ATF. If the results of the screening test are less than 0.02, print, sign your name, and enter today's date in the space provided. The test process is complete. If the results of the screening test are 0.02 or greater, a confirmation test must be administered in accordance with DOT regulations. An evidential breath testing device that is capable of printing confirmation test information must be used in conducting this test. Ensure that a waiting period of at least 15 minutes occurs before the confirmation test begins. Check the box indicating that the waiting period lasted at least 15 minutes. After conducting the alcohol confirmation test, affix the printed information in the space provided, in a tamper-evident manner (e.g., tape), or the device may print the results directly on the ATF. Print, sign your name, and enter the date in the space provided. Go to STEP 4.
+
+The BAT or STT completes the information required in this step and checks the type of device (saliva or breath) being used. After conducting the alcohol screening test, do the following (as appropriate): Step 4: If the employee has a breath alcohol confirmation test results of 0.02 or higher, instruct the employee to read, sign, and date the employee certification statement in STEP 4.
+
+Note: If the employee refuses to sign the certification statement in STEP 4, be sure to indicate this in the remarks line in STEP 3.
+
+Immediately notify the DER if the employee has a breath alcohol confirmation test result of 0.02 or higher.
+
+Note: Results from a calibration check may be printed or affixed to the front of the form in the space provided, or to the back of the form.
+
+Forward copy 1 to the employer. Give copy 2 to the employee. Retain copy 3 for BAT/STT records.
+
+Back of Page 3 Terms and Definitions Used in Chapter 7

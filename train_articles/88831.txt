@@ -1,0 +1,88 @@
+How the government may have spied on Trump's team
+These breaches of Americans' privacy can happen in any of several ways, multiple surveillance specialists told POLITICO. | AP Photo How the government may have spied on Trump's team
+
+House Intelligence Chairman Devin Nunes’ surprise allegations Wednesday touched on one of the most confusing aspects of the U.S. government's spying powers — the danger that routine surveillance of foreign targets will scoop up and expose Americans' private information too.
+
+Nunes alleged that such “incidental collection” had swept up information on members of Donald Trump’s transition team, possibly including Trump himself. And then, the California Republican charged, widely disseminated U.S. intelligence reports had “unmasked” the identities of some of those individuals, despite procedures that normally shield Americans' privacy.
+
+Story Continued Below
+
+Nunes was describing the process through which, surveillance experts believe, a significant number of Americans wind up in a National Security Agency database every year, and possibly have their names appear in subsequent intelligence reports.
+
+Not even close advisers to the most powerful person on Earth are necessarily immune to having their private conversations revealed this way. Nor are countless ordinary Americans, privacy advocates say.
+
+“Regardless of whether those claims turn out to be true or not, incidental collection is a real problem,” said Neema Singh Guliani, a surveillance policy expert with the American Civil Liberties Union.
+
+These breaches of Americans' privacy can happen in any of several ways, multiple surveillance specialists told POLITICO:
+
+1) Agencies can cast a wide dragnet
+
+First, incidental collection occurs through several provisions under the Foreign Intelligence Surveillance Act, the 1978 law meant to provide oversight for agencies' surveillance requests.
+
+In 2015, the secret FISA court approved nearly 1,500 government surveillance applications. These targets can be either Americans or foreigners, but the government must always show probable cause to believe that the person is an agent of a foreign power — essentially a spy, terrorist or foreign government official.
+
+“That’s a significant hurdle,” said Greg Nojeim, director of the Freedom, Security and Technology Project at the Center for Democracy and Technology.
+
+Surveillance of these targets — which could include tapping their phones or placing a bug in their offices — will also pick up anyone who speaks with the suspect.
+
+Another FISA provision, Section 702, authorizes several digital surveillance programs — including Upstream and PRISM — that hoover up large quantities of internet data.
+
+PRISM allows the NSA to collect people’s browsing histories, email contents and digital chats from major tech firms like Google, Facebook and Apple. Upstream lets the spy agency lift web browsing information off internet cables.
+
+Both programs employ filters designed to grab only international chatter that matches an exhaustive list of selectors — such as email addresses and screen names — linked to nearly 100,000 targets. Still, the searches are so sweeping that surveillance specialists estimate millions or tens of millions of Americans make it into the NSA’s databases. In 2014, an independent government privacy watchdog found that the NSA was grabbing approximately 250 million internet communications annually under 702 programs.
+
+“Even if only a small percentage of these … involved Americans, the number would be large in absolute terms,” said the report, from the Privacy and Civil Liberties Oversight Board.
+
+Finally, incidental collection occurs under the even more secretive Executive Order 12333, which is not overseen by the FISA court. The presidential directive — first written in 1981 and amended several times — is for overseas spying where FISA falls short. It is not subject to certain FISA restrictions, such as the Section 702 selectors intended to narrow the targeted information.
+
+“They could just collect, for example, everything coming in and out of Russia,” Nojeim said.
+
+Little is known about exactly what tools the government uses under 12333, and what data it collects. But documents leaked by former NSA contractor Edward Snowden revealed that the clandestine agency had a surveillance system operating under 12333 that could record “100 percent” of a foreign country’s telephone calls. Such a tool would inevitably incidentally collect Americans’ communications.
+
+These pathways could easily have led to intelligence agencies collecting the chatter of Trump’s associates, given that Nunes said the information “looks to me like it was all legally collected.”
+
+2) Americans' names are protected — usually
+
+Even if Americans legally ends up in an NSA databases, safeguards are supposed to keep them from being “unmasked” and blasted across the intelligence community, as Nunes claimed happened to Trump's aides.
+
+But those protections have key exceptions.
+
+NSA analysts sifting through these databases can see everyone’s name, but they’re usually barred from sharing Americans' names in intelligence reports that go to other agencies.
+
+Instead, an American’s name will be “masked” — replaced with something like “U.S. person 1.”
+
+But a select group of NSA officials can choose to reveal the person’s identity if it is vital to helping other agencies understand the significance of the intelligence.
+
+Some believe this may explain how former National Security Adviser Michael Flynn's name was exposed in a leaked transcript of a call between him and a top Russian diplomat during the transition. To understand the significance of the call — in which Flynn discussed sanctions the Obama administration had slapped on Russia — it was necessary to know it was Flynn on the other end of the line, surveillance experts have speculated.
+
+The NSA can also unmask the individual if it sees evidence of criminal activity in intercepted communications.
+
+A small cadre of 20 people at the NSA have the authority to strip away the anonymity in these cases, the agency’s director, Adm. Mike Rogers, told lawmakers during a House hearing Monday. Senior intelligence officials at other agencies can also request an unmasking, he added.
+
+“We'll ask ourselves, is there criminal activity involved?” Rogers said. “Is there a threat, potential threat or harm to U.S. individuals being discussed in a conversation?”
+
+But Nunes alleged that those loopholes didn't apply to Trump's associates. Instead, he said Wednesday, they had been inappropriately exposed in widely shared intelligence reports that contained “little or no apparent intelligence value.”
+
+The Intelligence Committee’s top Democrat, Rep. Adam Schiff of California, rejected that characterization.
+
+“The chairman informed me that most of the names in the intercepted communications were in fact masked, but that he could still figure out the probable identity of the parties,” he said. “This does not indicate that there was any flaw in the procedures followed by the intelligence agencies. Moreover, the unmasking of a U.S. person's name is fully appropriate when it is necessary to understand the context of collected foreign intelligence information."
+
+3) Expect the privacy debate to grow
+
+The spat is just the latest in a recent string of dust ups over incidental collection and unmasking.
+
+In addition to Trump’s evidence-free claim that former President Barack Obama had ordered a wiretap of Trump Tower, Republicans are also fuming over the Flynn leak.
+
+The leaked transcript revealed that Flynn had misled his colleagues about the call, leading to his resignation.
+
+Republicans have been pressing intelligence agencies to explain how Flynn's information may have been unmasked and leaked. Many seethed about the incident at Monday’s hearing, arguing that it damaged national security.
+
+The loaded terms are also in the middle of a brewing battle over whether to revise the Section 702 programs, which expire at the end of the year. Even hawkish Republicans who believe the 702 tools are vital to catching terrorists say their renewal may be on hold until Congress figures out how Flynn’s conversations leaked out. And surveillance critics have gladly jumped into the fray, using the public attention to point to their long-standing worries about incidental collection and unmasking.
+
+Further fueling the debate is the growing number of agencies that have access to this data.
+
+The ACLU's Singh and others pointed to an 11th-hour change during the Obama administration that gave more intelligence agencies access to the raw, unmasked data collected under Executive Order 12333.
+
+The move represents a trend, Singh said, that can be traced back to 2002. That year, the FISA court secretly allowed the FBI and CIA to search raw, unmasked intercepts gathered under FISA. While the move was intended to erase the intelligence silos that bedeviled the government before the Sept. 11 terrorist attacks, it also exposed Americans’ unfiltered private information to an expanding array of officials across the government.
+
+“When it comes to [intelligence] reports there are procedures,” Singh said. “But when it comes to raw data, there are concerns that the [masking] procedures are not as robust.”

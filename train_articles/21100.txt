@@ -1,0 +1,583 @@
+Circular A-4
+
+September 17, 2003
+
+TO THE HEADS OF EXECUTIVE AGENCIES AND ESTABLISHMENTS
+
+Subject: Regulatory Analysis
+
+A. Introduction
+
+B. The Need for Federal Regulatory Action
+
+C. Alternative Regulatory Approaches
+
+D. Analytical Approaches
+
+E. Identifying and Measuring Benefits and Costs
+
+F. Specialized Analytical Requirements
+
+G. Accounting Statement
+
+H. Effective Date
+
+This Circular provides the Office of Management and Budget’s (OMB's) guidance to Federal agencies on the development of regulatory analysis as required under Section 6(a)(3)(c) of Executive Order12866, "Regulatory Planning and Review," the Regulatory Right-to-Know Act, and a variety of related authorities. The Circular also provides guidance to agencies on the regulatory accounting statements that are required under the Regulatory Right-to-Know Act.
+
+This Circular refines OMB's "best practices" document of 1996 (http://obamawhitehouse.archives.gov/omb/inforeg/riaguide.html), which was issued as a guidance in 2000 (http://obamawhitehouse.archives.gov/omb/memoranda/m00-08.pdf), and reaffirmed in 2001 (http://obamawhitehouse.archives.gov/omb/memoranda/m01-23.html). It replaces both the 1996 "best practices" and the 2000 guidance.
+
+In developing this Circular, OMB first developed a draft that was subject to public comment, interagency review, and peer review. Peer reviewers included Cass Sunstein, University of Chicago; Lester Lave, Carnegie Mellon University; Milton C. Weinstein and James K. Hammitt of the Harvard School of Public Health; Kerry Smith, North Carolina State University; Jonathan Weiner, Duke University Law School; Douglas K. Owens, Stanford University; and W. Kip Viscusi, Harvard Law School. Although these individuals submitted comments, OMB is solely responsible for the final content of this Circular.
+
+A. Introduction
+
+This Circular is designed to assist analysts in the regulatory agencies by defining good regulatory analysis, called either "regulatory analysis" or "analysis" for brevity, and standardizing the way benefits and costs of Federal regulatory actions are measured and reported. Executive Order 12866 requires agencies to conduct a regulatory analysis for economically significant regulatory actions as defined by Section 3(f)(1). This requirement applies to rulemakings that rescind or modify existing rules as well as to rulemakings that establish new requirements.
+
+The Need for Analysis of Proposed Regulatory Actions1
+
+Regulatory analysis is a tool regulatory agencies use to anticipate and evaluate the likely consequences of rules. It provides a formal way of organizing the evidence on the key effects, good and bad, of the various alternatives that should be considered in developing regulations. The motivation is to (1) learn if the benefits of an action are likely to justify the costs or (2) discover which of various possible alternatives would be the most cost-effective.
+
+A good regulatory analysis is designed to inform the public and other parts of the Government (as well as the agency conducting the analysis) of the effects of alternative actions. Regulatory analysis sometimes will show that a proposed action is misguided, but it can also demonstrate that well-conceived actions are reasonable and justified.
+
+Benefit-cost analysis is a primary tool used for regulatory analysis.2 Where all benefits and costs can be quantified and expressed in monetary units, benefit-cost analysis provides decision makers with a clear indication of the most efficient alternative, that is, the alternative that generates the largest net benefits to society (ignoring distributional effects). This is useful information for decision makers and the public to receive, even when economic efficiency is not the only or the overriding public policy objective.
+
+It will not always be possible to express in monetary units all of the important benefits and costs. When it is not, the most efficient alternative will not necessarily be the one with the largest quantified and monetized net-benefit estimate. In such cases, you should exercise professional judgment in determining how important the non-quantified benefits or costs may be in the context of the overall analysis. If the non-quantified benefits and costs are likely to be important, you should carry out a "threshold" analysis to evaluate their significance. Threshold or "break-even" analysis answers the question, "How small could the value of the non-quantified benefits be (or how large would the value of the non-quantified costs need to be) before the rule would yield zero net benefits?" In addition to threshold analysis you should indicate, where possible, which non-quantified effects are most important and why.
+
+Key Elements of a Regulatory Analysis
+
+A good regulatory analysis should include the following three basic elements: (1) a statement of the need for the proposed action, (2) an examination of alternative approaches, and (3) an evaluation of the benefits and costs—quantitative and qualitative—of the proposed action and the main alternatives identified by the analysis.
+
+To evaluate properly the benefits and costs of regulations and their alternatives, you will need to do the following:
+
+Explain how the actions required by the rule are linked to the expected benefits. For example, indicate how additional safety equipment will reduce safety risks. A similar analysis should be done for each of the alternatives.
+
+Identify a baseline. Benefits and costs are defined in comparison with a clearly stated alternative. This normally will be a "no action" baseline: what the world will be like if the proposed rule is not adopted. Comparisons to a "next best" alternative are also especially useful.
+
+Identify the expected undesirable side-effects and ancillary benefits of the proposed regulatory action and the alternatives. These should be added to the direct benefits and costs as appropriate.
+
+With this information, you should be able to assess quantitatively the benefits and costs of the proposed rule and its alternatives. A complete regulatory analysis includes a discussion of non-quantified as well as quantified benefits and costs. A non-quantified outcome is a benefit or cost that has not been quantified or monetized in the analysis. When there are important non-monetary values at stake, you should also identify them in your analysis so policymakers can compare them with the monetary benefits and costs. When your analysis is complete, you should present a summary of the benefit and cost estimates for each alternative, including the qualitative and non-monetized factors affected by the rule, so that readers can evaluate them.
+
+As you design, execute, and write your regulatory analysis, you should seek out the opinions of those who will be affected by the regulation as well as the views of those individuals and organizations who may not be affected but have special knowledge or insight into the regulatory issues. Consultation can be useful in ensuring that your analysis addresses all of the relevant issues and that you have access to all pertinent data. Early consultation can be especially helpful. You should not limit consultation to the final stages of your analytical efforts.
+
+You will find that you cannot conduct a good regulatory analysis according to a formula. Conducting high-quality analysis requires competent professional judgment. Different regulations may call for different emphases in the analysis, depending on the nature and complexity of the regulatory issues and the sensitivity of the benefit and cost estimates to the key assumptions.
+
+A good analysis is transparent. It should be possible for a qualified third party reading the report to see clearly how you arrived at your estimates and conclusions. For transparency's sake, you should state in your report what assumptions were used, such as the time horizon for the analysis and the discount rates applied to future benefits and costs. It is usually necessary to provide a sensitivity analysis to reveal whether, and to what extent, the results of the analysis are sensitive to plausible changes in the main assumptions and numeric inputs.
+
+A good analysis provides specific references to all sources of data, appendices with documentation of models (where necessary), and the results of formal sensitivity and other uncertainty analyses. Your analysis should also have an executive summary, including a standardized accounting statement.
+
+B. The Need for Federal Regulatory Action
+
+Before recommending Federal regulatory action, an agency must demonstrate that the proposed action is necessary. If the regulatory intervention results from a statutory or judicial directive, you should describe the specific authority for your action, the extent of discretion available to you, and the regulatory instruments you might use. Executive Order 12866 states that "Federal agencies should promulgate only such regulations as are required by law, are necessary to interpret the law, or are made necessary by compelling need, such as material failures of private markets to protect or improve the health and safety of the public, the environment, or the well being of the American people ... ."
+
+Executive Order 12866 also states that "Each agency shall identify the problem that it intends to address (including, where applicable, the failures of private markets or public institutions that warrant new agency action) as well as assess the significance of that problem." Thus, you should try to explain whether the action is intended to address a significant market failure or to meet some other compelling public need such as improving governmental processes or promoting intangible values such as distributional fairness or privacy. If the regulation is designed to correct a significant market failure, you should describe the failure both qualitatively and (where feasible) quantitatively. You should show that a government intervention is likely to do more good than harm. For other interventions, you should also provide a demonstration of compelling social purpose and the likelihood of effective action. Although intangible rationales do not need to be quantified, the analysis should present and evaluate the strengths and limitations of the relevant arguments for these intangible values.
+
+Market Failure or Other Social Purpose
+
+The major types of market failure include: externality, market power, and inadequate or asymmetric information. Correcting market failures is a reason for regulation, but it is not the only reason. Other possible justifications include improving the functioning of government, removing distributional unfairness, or promoting privacy and personal freedom.
+
+1. Externality, common property resource and public good
+
+An externality occurs when one party's actions impose uncompensated benefits or costs on another party. Environmental problems are a classic case of externality. For example, the smoke from a factory may adversely affect the health of local residents while soiling the property in nearby neighborhoods. If bargaining were costless and all property rights were well defined, people would eliminate externalities through bargaining without the need for government regulation.3 From this perspective, externalities arise from high transactions costs and/or poorly defined property rights that prevent people from reaching efficient outcomes through market transactions.
+
+Resources that may become congested or overused, such as fisheries or the broadcast spectrum, represent common property resources. "Public goods," such as defense or basic scientific research, are goods where provision of the good to some individuals cannot occur without providing the same level of benefits free of charge to other individuals.
+
+2. Market Power
+
+Firms exercise market power when they reduce output below what would be offered in a competitive industry in order to obtain higher prices. They may exercise market power collectively or unilaterally. Government action can be a source of market power, such as when regulatory actions exclude low-cost imports. Generally, regulations that increase market power for selected entities should be avoided. However, there are some circumstances in which government may choose to validate a monopoly. If a market can be served at lowest cost only when production is limited to a single producer B local gas and electricity distribution services, for example B a natural monopoly is said to exist. In such cases, the government may choose to approve the monopoly and to regulate its prices and/or production decisions. Nevertheless, you should keep in mind that technological advances often affect economies of scale. This can, in turn, transform what was once considered a natural monopoly into a market where competition can flourish.
+
+3. Inadequate or Asymmetric Information
+
+Market failures may also result from inadequate or asymmetric information. Because information, like other goods, is costly to produce and disseminate, your evaluation will need to do more than demonstrate the possible existence of incomplete or asymmetric information. Even though the market may supply less than the full amount of information, the amount it does supply may be reasonably adequate and therefore not require government regulation. Sellers have an incentive to provide information through advertising that can increase sales by highlighting distinctive characteristics of their products. Buyers may also obtain reasonably adequate information about product characteristics through other channels, such as a seller offering a warranty or a third party providing information.
+
+Even when adequate information is available, people can make mistakes by processing it poorly. Poor information-processing often occurs in cases of low probability, high-consequence events, but it is not limited to such situations. For instance, people sometimes rely on mental rules-of-thumb that produce errors. If they have a clear mental image of an incident which makes it cognitively "available," they might overstate the probability that it will occur. Individuals sometimes process information in a biased manner, by being too optimistic or pessimistic, without taking sufficient account of the fact that the outcome is exceedingly unlikely to occur. When mistakes in information processing occur, markets may overreact. When it is time-consuming or costly for consumers to evaluate complex information about products or services (e.g., medical therapies), they may expect government to ensure that minimum quality standards are met. However, the mere possibility of poor information processing is not enough to justify regulation. If you think there is a problem of information processing that needs to be addressed, it should be carefully documented.
+
+4. Other Social Purposes
+
+There are justifications for regulations in addition to correcting market failures. A regulation may be appropriate when you have a clearly identified measure that can make government operate more efficiently. In addition, Congress establishes some regulatory programs to redistribute resources to select groups. Such regulations should be examined to ensure that they are both effective and cost-effective. Congress also authorizes some regulations to prohibit discrimination that conflicts with generally accepted norms within our society. Rulemaking may also be appropriate to protect privacy, permit more personal freedom or promote other democratic aspirations.
+
+Showing That Regulation at the Federal Level Is the Best Way to Solve the Problem
+
+Even where a market failure clearly exists, you should consider other means of dealing with the failure before turning to Federal regulation. Alternatives to Federal regulation include antitrust enforcement, consumer-initiated litigation in the product liability system, or administrative compensation systems.
+
+In assessing whether Federal regulation is the best solution, you should also consider the possibility of regulation at the State or local level. In some cases, the nature of the market failure may itself suggest the most appropriate governmental level of regulation. For example, problems that spill across State lines (such as acid rain whose precursors are transported widely in the atmosphere) are probably best addressed by Federal regulation. More localized problems, including those that are common to many areas, may be more efficiently addressed locally.
+
+The advantages of leaving regulatory issues to State and local authorities can be substantial. If public values and preferences differ by region, those differences can be reflected in varying State and local regulatory policies. Moreover, States and localities can serve as a testing ground for experimentation with alternative regulatory policies. One State can learn from another's experience while local jurisdictions may compete with each other to establish the best regulatory policies. You should examine the proper extent of State and local discretion in your rulemaking context.
+
+A diversity of rules may generate gains for the public as governmental units compete with each other to serve the public, but duplicative regulations can also be costly. Where Federal regulation is clearly appropriate to address interstate commerce issues, you should try to examine whether it would be more efficient to retain or reduce State and local regulation. The local benefits of State regulation may not justify the national costs of a fragmented regulatory system. For example, the increased compliance costs for firms to meet different State and local regulations may exceed any advantages associated with the diversity of State and local regulation. Your analysis should consider the possibility of reducing as well as expanding State and local rulemaking.
+
+The role of Federal regulation in facilitating U.S. participation in global markets should also be considered. Harmonization of U.S. and international rules may require a strong Federal regulatory role. Concerns that new U.S. rules could act as non-tariff barriers to imported goods should be evaluated carefully.
+
+The Presumption Against Economic Regulation
+
+Government actions can be unintentionally harmful, and even useful regulations can impede market efficiency. For this reason, there is a presumption against certain types of regulatory action. In light of both economic theory and actual experience, a particularly demanding burden of proof is required to demonstrate the need for any of the following types of regulations:
+
+price controls in competitive markets;
+
+production or sales quotas in competitive markets;
+
+mandatory uniform quality standards for goods or services if the potential problem can be adequately dealt with through voluntary standards or by disclosing information of the hazard to buyers or users; or
+
+controls on entry into employment or production, except (a) where indispensable to protect health and safety (e.g., FAA tests for commercial pilots) or (b) to manage the use of common property resources (e.g., fisheries, airwaves, Federal lands, and offshore areas).
+
+C. Alternative Regulatory Approaches
+
+Once you have determined that Federal regulatory action is appropriate, you will need to consider alternative regulatory approaches. Ordinarily, you will be able to eliminate some alternatives through a preliminary analysis, leaving a manageable number of alternatives to be evaluated according to the formal principles of the Executive Order. The number and choice of alternatives selected for detailed analysis is a matter of judgment. There must be some balance between thoroughness and the practical limits on your analytical capacity. With this qualification in mind, you should nevertheless explore modifications of some or all of a regulation's attributes or provisions to identify appropriate alternatives. The following is a list of alternative regulatory actions that you should consider.
+
+Different Choices Defined by Statute
+
+When a statute establishes a specific regulatory requirement and the agency is considering a more stringent standard, you should examine the benefits and costs of reasonable alternatives that reflect the range of the agency's statutory discretion, including the specific statutory requirement.
+
+Different Compliance Dates
+
+The timing of a regulation may also have an important effect on its net benefits. Benefits may vary significantly with different compliance dates where a delay in implementation may result in a substantial loss in future benefits (e.g., a delay in implementation could result in a significant reduction in spawning stock and jeopardize a fishery). Similarly, the cost of a regulation may vary substantially with different compliance dates for an industry that requires a year or more to plan its production runs. In this instance, a regulation that provides sufficient lead time is likely to achieve its goals at a much lower overall cost than a regulation that is effective immediately.
+
+Different Enforcement Methods
+
+Compliance alternatives for Federal, State, or local enforcement include on-site inspections, periodic reporting, and noncompliance penalties structured to provide the most appropriate incentives. When alternative monitoring and reporting methods vary in their benefits and costs, you should identify the most appropriate enforcement framework. For example, in some circumstances random monitoring or parametric monitoring will be less expensive and nearly as effective as continuous monitoring.
+
+Different Degrees of Stringency
+
+In general, both the benefits and costs associated with a regulation will increase with the level of stringency (although marginal costs generally increase with stringency, whereas marginal benefits may decrease). You should study alternative levels of stringency to understand more fully the relationship between stringency and the size and distribution of benefits and costs among different groups.
+
+Different Requirements for Different Sized Firms
+
+You should consider setting different requirements for large and small firms, basing the requirements on estimated differences in the expected costs of compliance or in the expected benefits. The balance of benefits and costs can shift depending on the size of the firms being regulated. Small firms may find it more costly to comply with regulation, especially if there are large fixed costs required for regulatory compliance. On the other hand, it is not efficient to place a heavier burden on one segment of a regulated industry solely because it can better afford the higher cost. This has the potential to load costs on the most productive firms, costs that are disproportionate to the damages they create. You should also remember that a rule with a significant impact on a substantial number of small entities will trigger the requirements set forth in the Regulatory Flexibility Act. (5 U.S.C. 603(c), 604).
+
+Different Requirements for Different Geographic Regions
+
+Rarely do all regions of the country benefit uniformly from government regulation. It is also unlikely that costs will be uniformly distributed across the country. Where there are significant regional variations in benefits and/or costs, you should consider the possibility of setting different requirements for the different regions.
+
+Performance Standards Rather than Design Standards
+
+Performance standards express requirements in terms of outcomes rather than specifying the means to those ends. They are generally superior to engineering or design standards because performance standards give the regulated parties the flexibility to achieve regulatory objectives in the most cost-effective way. In general, you should take into account both the cost savings to the regulated parties of the greater flexibility and the costs of assuring compliance through monitoring or some other means.
+
+Market-Oriented Approaches Rather than Direct Controls
+
+Market-oriented approaches that use economic incentives should be explored. These alternatives include fees, penalties, subsidies, marketable permits or offsets, changes in liability or property rights (including policies that alter the incentives of insurers and insured parties), and required bonds, insurance or warranties. One example of a market-oriented approach is a program that allows for averaging, banking, and/or trading (ABT) of credits for achieving additional emission reductions beyond the required air emission standards. ABT programs can be extremely valuable in reducing costs or achieving earlier or greater benefits, particularly when the costs of achieving compliance vary across production lines, facilities, or firms. ABT can be allowed on a plant-wide, firm-wide, or region-wide basis rather than vent by vent, provided this does not produce unacceptable local air quality outcomes (such as "hot spots" from local pollution concentration).
+
+Informational Measures Rather than Regulation
+
+If intervention is contemplated to address a market failure that arises from inadequate or asymmetric information, informational remedies will often be preferred. Measures to improve the availability of information include government establishment of a standardized testing and rating system (the use of which could be mandatory or voluntary), mandatory disclosure requirements (e.g., by advertising, labeling, or enclosures), and government provision of information (e.g., by government publications, telephone hotlines, or public interest broadcast announcements). A regulatory measure to improve the availability of information, particularly about the concealed characteristics of products, provides consumers a greater choice than a mandatory product standard or ban.
+
+Specific informational measures should be evaluated in terms of their benefits and costs. Some effects of informational measures are easily overlooked. The costs of a mandatory disclosure requirement for a consumer product will include not only the cost of gathering and communicating the required information, but also the loss of net benefits of any information displaced by the mandated information. The other costs also may include the effect of providing information that is ignored or misinterpreted, and inefficiencies arising from the incentive that mandatory disclosure may give to overinvest in a particular characteristic of a product or service.
+
+Where information on the benefits and costs of alternative informational measures is insufficient to provide a clear choice between them, you should consider the least intrusive informational alternative sufficient to accomplish the regulatory objective. To correct an informational market failure it may be sufficient for government to establish a standardized testing and rating system without mandating its use, because competing firms that score well according to the system should thereby have an incentive to publicize the fact.
+
+D. Analytical Approaches
+
+Both benefit-cost analysis (BCA) and cost-effectiveness analysis (CEA) provide a systematic framework for identifying and evaluating the likely outcomes of alternative regulatory choices. A major rulemaking should be supported by both types of analysis wherever possible. Specifically, you should prepare a CEA for all major rulemakings for which the primary benefits are improved public health and safety to the extent that a valid effectiveness measure can be developed to represent expected health and safety outcomes. You should also perform a BCA for major health and safety rulemakings to the extent that valid monetary values can be assigned to the primary expected health and safety outcomes. In undertaking these analyses, it is important to keep in mind the larger objective of analytical consistency in estimating benefits and costs across regulations and agencies, subject to statutory limitations. Failure to maintain such consistency may prevent achievement of the most risk reduction for a given level of resource expenditure. For all other major rulemakings, you should carry out a BCA. If some of the primary benefit categories cannot be expressed in monetary units, you should also conduct a CEA. In unusual cases where no quantified information on benefits, costs and effectiveness can be produced, the regulatory analysis should present a qualitative discussion of the issues and evidence.
+
+Benefit-Cost Analysis
+
+A distinctive feature of BCA is that both benefits and costs are expressed in monetary units, which allows you to evaluate different regulatory options with a variety of attributes using a common measure.4 By measuring incremental benefits and costs of successively more stringent regulatory alternatives, you can identify the alternative that maximizes net benefits.
+
+The size of net benefits, the absolute difference between the projected benefits and costs, indicates whether one policy is more efficient than another. The ratio of benefits to costs is not a meaningful indicator of net benefits and should not be used for that purpose. It is well known that considering such ratios alone can yield misleading results.
+
+Even when a benefit or cost cannot be expressed in monetary units, you should still try to measure it in terms of its physical units. If it is not possible to measure the physical units, you should still describe the benefit or cost qualitatively. For more information on describing qualitative information, see the section "Developing Benefit and Cost Estimates."
+
+When important benefits and costs cannot be expressed in monetary units, BCA is less useful, and it can even be misleading, because the calculation of net benefits in such cases does not provide a full evaluation of all relevant benefits and costs.
+
+You should exercise professional judgment in identifying the importance of non-quantified factors and assess as best you can how they might change the ranking of alternatives based on estimated net benefits. If the non-quantified benefits and costs are likely to be important, you should recommend which of the non-quantified factors are of sufficient importance to justify consideration in the regulatory decision. This discussion should also include a clear explanation that support designating these non-quantified factors as important. In this case, you should also consider conducting a threshold analysis to help decision makers and other users of the analysis to understand the potential significance of these factors to the overall analysis.
+
+Cost-Effectiveness Analysis5
+
+Cost-effectiveness analysis can provide a rigorous way to identify options that achieve the most effective use of the resources available without requiring monetization of all of relevant benefits or costs. Generally, cost-effectiveness analysis is designed to compare a set of regulatory actions with the same primary outcome (e.g., an increase in the acres of wetlands protected) or multiple outcomes that can be integrated into a single numerical index (e.g., units of health improvement).
+
+Cost-effectiveness results based on averages need to be treated with great care. They suffer from the same drawbacks as benefit-cost ratios. The alternative that exhibits the smallest cost-effectiveness ratio may not be the best option, just as the alternative with the highest benefit-cost ratio is not always the one that maximizes net benefits. Incremental cost-effectiveness analysis (discussed below) can help to avoid mistakes that can occur when policy choices are based on average cost-effectiveness.
+
+CEA can also be misleading when the "effectiveness" measure does not appropriately weight the consequences of the alternatives. For example, when effectiveness is measured in tons of reduced pollutant emissions, cost-effectiveness estimates will be misleading unless the reduced emissions of diverse pollutants result in the same health and environmental benefits.
+
+When you have identified a range of alternatives (e.g., different levels of stringency), you should determine the cost-effectiveness of each option compared with the baseline as well as its incremental cost-effectiveness compared with successively more stringent requirements. Ideally, your CEA would present an array of cost-effectiveness estimates that would allow comparison across different alternatives. However, analyzing all possible combinations is not practical when there are many options (including possible interaction effects). In these cases, you should use your judgment to choose reasonable alternatives for careful consideration.
+
+When constructing and comparing incremental cost-effectiveness ratios, you should be careful to determine whether the various alternatives are mutually exclusive or whether they can be combined. If they can be combined, you should consider which might be favored under different regulatory budget constraints (implicit or explicit). You should also make sure that inferior alternatives identified by the principles of strong and weak dominance are eliminated from consideration.6
+
+The value of CEA is enhanced when there is consistency in the analysis across a diverse set of possible regulatory actions. To achieve consistency, you need to carefully construct the two key components of any CEA: the cost and the "effectiveness" or performance measures for the alternative policy options.
+
+With regard to measuring costs, you should be sure to include all the relevant costs to society B whether public or private. Rulemakings may also yield cost savings (e.g., energy savings associated with new technologies). The numerator in the cost-effectiveness ratio should reflect net costs, defined as the gross cost incurred to comply with the requirements (sometimes called "total" costs) minus any cost savings. You should be careful to avoid double-counting effects in both the numerator and the denominator of the cost-effectiveness ratios. For example, it would be incorrect to reduce gross costs by an estimated monetary value on life extension if life-years are already used as the effectiveness measure in the denominator.
+
+In constructing measures of "effectiveness", final outcomes, such as lives saved or life-years saved, are preferred to measures of intermediate outputs, such as tons of pollution reduced, crashes avoided, or cases of disease avoided. Where the quality of the measured unit varies (e.g., acres of wetlands vary substantially in terms of their ecological benefits), it is important that the measure capture the variability in the value of the selected "outcome" measure. You should provide an explanation of your choice of effectiveness measure.
+
+Where regulation may yield several different beneficial outcomes, a cost-effectiveness comparison becomes more difficult to interpret because there is more than one measure of effectiveness to incorporate in the analysis. To arrive at a single measure you will need to weight the value of disparate benefit categories, but this computation raises some of the same difficulties you will encounter in BCA. If you can assign a reasonable monetary value to all of the regulation's different benefits, then you should do so. But in this case, you will be doing BCA, not CEA.
+
+When you can estimate the monetary value of some but not all of the ancillary benefits of a regulation, but cannot assign a monetary value to the primary measure of effectiveness, you should subtract the monetary estimate of the ancillary benefits from the gross cost estimate to yield an estimated net cost. (This net cost estimate for the rule may turn out to be negative B that is, the monetized benefits exceed the cost of the rule.) If you are unable to estimate the value of some of the ancillary benefits, the cost-effectiveness ratio will be overstated, and this should be acknowledged in your analysis. CEA does not yield an unambiguous choice when there are benefits or costs that have not been incorporated in the net-cost estimates. You also may use CEA to compare regulatory alternatives in cases where the statute specifies the level of benefits to be achieved.
+
+The Effectiveness Metric for Public Health and Safety Rulemakings
+
+When CEA is applied to public health and safety rulemakings, one or more measures of effectiveness must be selected that permits comparison of regulatory alternatives. Agencies currently use a variety of effectiveness measures.
+
+There are relatively simple measures such as the number of lives saved, cases of cancer reduced, and cases of paraplegia prevented. Sometimes these measures account only for mortality information, such as the number of lives saved and the number of years of life saved. There are also more comprehensive, integrated measures of effectiveness such as the number of "equivalent lives" (ELs) saved and the number of "quality-adjusted life years" (QALYs) saved.
+
+The main advantage of the integrated measures of effectiveness is that they account for a rule's impact on morbidity (nonfatal illness, injury, impairment and quality of life) as well as premature death. The inclusion of morbidity effects is important because (a) some illnesses (e.g., asthma) cause more instances of pain and suffering than they do premature death, (b) some population groups are known to experience elevated rates of morbidity (e.g, the elderly and the poor) and thus have a strong interest in morbidity measurement7, and (c) some regulatory alternatives may be more effective at preventing morbidity than premature death (e.g., some advanced airbag designs may diminish the nonfatal injuries caused by airbag inflation without changing the frequency of fatal injury prevented by airbags).
+
+However, the main drawback of these integrated measures is that they must meet some restrictive assumptions to represent a valid measure of individual preferences.8 For example, a QALY measure implicitly assumes that the fraction of remaining lifespan an individual would give up for an improvement in health-related quality of life does not depend on the remaining lifespan. Thus, if an individual is willing to give up 10 years of life among 50 remaining years for a given health improvement, he or she would also be willing to give up 1 year of life among 5 remaining years. To the extent that individual preferences deviate from these assumptions, analytic results from CEA using QALYs could differ from analytic results based on willingness-to-pay-measures. Though willingness to pay is generally the preferred economic method for evaluating preferences, the CEA method, as applied in medicine and health, does not evaluate health changes using individual willingness to pay. When performing CEA, you should consider using at least one integrated measure of effectiveness when a rule creates a significant impact on both mortality and morbidity.
+
+When CEA is performed in specific rulemaking contexts, you should be prepared to make appropriate adjustments to ensure fair treatment of all segments of the population. Fairness is important in the choice and execution of effectiveness measures. For example, if QALYs are used to evaluate a lifesaving rule aimed at a population that happens to experience a high rate of disability (i.e., where the rule is not designed to affect the disability), the number of life years saved should not necessarily be diminished simply because the rule saves the lives of people with life-shortening disabilities. Both analytic simplicity and fairness suggest that the estimated number of life years saved for the disabled population should be based on average life expectancy information for the relevant age cohorts. More generally, when numeric adjustments are made for life expectancy or quality of life, analysts should prefer use of population averages rather than information derived from subgroups dominated by a particular demographic or income group.
+
+OMB does not require agencies to use any specific measure of effectiveness. In fact, OMB encourages agencies to report results with multiple measures of effectiveness that offer different insights and perspectives. The regulatory analysis should explain which measures were selected and why, and how they were implemented.
+
+The analytic discretion provided in choice of effectiveness measure will create some inconsistency in how agencies evaluate the same injuries and diseases, and it will be difficult for OMB and the public to draw meaningful comparisons between rulemakings that employ different effectiveness measures. As a result, agencies should use their web site to provide OMB and the public with the underlying data, including mortality and morbidity data, the age distribution of the affected populations, and the severity and duration of disease conditions and trauma, so that OMB and the public can construct apples-to-apples comparisons between rulemakings that employ different measures.
+
+There are sensitive technical and ethical issues associated with choosing one or more of these integrated measures for use throughout the Federal government. The Institute of Medicine (IOM) may assemble a panel of specialists in cost-effectiveness analysis and bioethics to evaluate the advantages and disadvantages of these different measures and other measures that have been suggested in the academic literature. OMB believes that the IOM guidance will provide Federal agencies and OMB useful insight into how to improve the measurement of effectiveness of public health and safety regulations.
+
+Distributional Effects
+
+Those who bear the costs of a regulation and those who enjoy its benefits often are not the same people. The term "distributional effect" refers to the impact of a regulatory action across the population and economy, divided up in various ways (e.g., income groups, race, sex, industrial sector, geography). Benefits and costs of a regulation may also be distributed unevenly over time, perhaps spanning several generations. Distributional effects may arise through "transfer payments" that stem from a regulatory action as well. For example, the revenue collected through a fee, surcharge in excess of the cost of services provided, or tax is a transfer payment.
+
+Your regulatory analysis should provide a separate description of distributional effects (i.e., how both benefits and costs are distributed among sub-populations of particular concern) so that decision makers can properly consider them along with the effects on economic efficiency. Executive Order 12866 authorizes this approach. Where distributive effects are thought to be important, the effects of various regulatory alternatives should be described quantitatively to the extent possible, including the magnitude, likelihood, and severity of impacts on particular groups. You should be alert for situations in which regulatory alternatives result in significant changes in treatment or outcomes for different groups. Effects on the distribution of income that are transmitted through changes in market prices can be important, albeit sometimes difficult to assess. Your analysis should also present information on the streams of benefits and costs over time in order to provide a basis for assessing intertemporal distributional consequences, particularly where intergenerational effects are concerned.
+
+E. Identifying and Measuring Benefits and Costs
+
+This Section provides guidelines for your preparation of the benefit and cost estimates required by Executive Order 12866 and the "Regulatory Right-to-Know Act." The discussions in previous sections will help you identify a workable number of alternatives for consideration in your analysis and an appropriate analytical approach to use.
+
+General Issues
+
+1. Scope of Analysis
+
+Your analysis should focus on benefits and costs that accrue to citizens and residents of the United States. Where you choose to evaluate a regulation that is likely to have effects beyond the borders of the United States, these effects should be reported separately. The time frame for your analysis should cover a period long enough to encompass all the important benefits and costs likely to result from the rule.
+
+2. Developing a Baseline
+
+You need to measure the benefits and costs of a rule against a baseline. This baseline should be the best assessment of the way the world would look absent the proposed action. The choice of an appropriate baseline may require consideration of a wide range of potential factors, including:
+
+evolution of the market,
+
+changes in external factors affecting expected benefits and costs,
+
+changes in regulations promulgated by the agency or other government entities, and
+
+the degree of compliance by regulated entities with other regulations.
+
+It may be reasonable to forecast that the world absent the regulation will resemble the present. If this is the case, however, your baseline should reflect the future effect of current government programs and policies. For review of an existing regulation, a baseline assuming "no change" in the regulatory program generally provides an appropriate basis for evaluating regulatory alternatives. When more than one baseline is reasonable and the choice of baseline will significantly affect estimated benefits and costs, you should consider measuring benefits and costs against alternative baselines. In doing so you can analyze the effects on benefits and costs of making different assumptions about other agencies' regulations, or the degree of compliance with your own existing rules. In all cases, you must evaluate benefits and costs against the same baseline. You should also discuss the reasonableness of the baselines used in the sensitivity analyses. For each baseline you use, you should identify the key uncertainties in your forecast.
+
+EPA's 1998 final PCB disposal rule provides a good example of using different baselines. EPA used several alternative baselines, each reflecting a different interpretation of existing regulatory requirements. In particular, one baseline reflected a literal interpretation of EPA's 1979 rule and another the actual implementation of that rule in the year immediately preceding the 1998 revision. The use of multiple baselines illustrated the substantial effect changes in EPA's implementation policy could have on the cost of a regulatory program. In the years after EPA adopted the 1979 PCB disposal rule, changes in EPA policy -- especially allowing the disposal of automobile "shredder fluff" in municipal landfills -- reduced the cost of the program by more than $500 million per year.
+
+In some cases, substantial portions of a rule may simply restate statutory requirements that would be self-implementing, even in the absence of the regulatory action. In these cases, you should use a pre-statute baseline. If you are able to separate out those areas where the agency has discretion, you may also use a post-statute baseline to evaluate the discretionary elements of the action.
+
+3. Evaluation of Alternatives
+
+You should describe the alternatives available to you and the reasons for choosing one alternative over another. As noted previously, alternatives that rely on incentives and offer increased flexibility are often more cost-effective than more prescriptive approaches. For instance, user fees and information dissemination may be good alternatives to direct command-and-control regulation. Within a command-and-control regulatory program, performance-based standards generally offer advantages over standards specifying design, behavior, or manner of compliance.
+
+You should carefully consider all appropriate alternatives for the key attributes or provisions of the rule. The previous discussion outlines examples of appropriate alternatives. Where there is a "continuum" of alternatives for a standard (such as the level of stringency), you generally should analyze at least three options: the preferred option; a more stringent option that achieves additional benefits (and presumably costs more) beyond those realized by the preferred option; and a less stringent option that costs less (and presumably generates fewer benefits) than the preferred option.
+
+You should choose reasonable alternatives deserving careful consideration. In some cases, a regulatory program will focus on an option that is near or at the limit of technical feasibility. In this case, the analysis would not need to examine a more stringent option. For each of the options analyzed, you should compare the anticipated benefits to the corresponding costs.
+
+It is not adequate simply to report a comparison of the agency's preferred option to the chosen baseline. Whenever you report the benefits and costs of alternative options, you should present both total and incremental benefits and costs. You should present incremental benefits and costs as differences from the corresponding estimates associated with the next less-stringent alternative.10 It is important to emphasize that incremental effects are simply differences between successively more stringent alternatives. Results involving a comparison to a "next best" alternative may be especially useful.
+
+In some cases, you may decide to analyze a wide array of options. In 1998, DOE analyzed a large number of options in setting new energy efficiency standards for refrigerators and freezers and produced a rich amount of information on their relative effects. This analysis -- examining more than 20 alternative performance standards for one class of refrigerators with top-mounted freezers -- enabled DOE to select an option that produced $200 more in estimated net benefits per refrigerator than the least attractive option.
+
+You should analyze the benefits and costs of different regulatory provisions separately when a rule includes a number of distinct provisions. If the existence of one provision affects the benefits or costs arising from another provision, the analysis becomes more complicated, but the need to examine provisions separately remains. In this case, you should evaluate each specific provision by determining the net benefits of the proposed regulation with and without it.
+
+Analyzing all possible combinations of provisions is impractical if the number is large and interaction effects are widespread. You need to use judgment to select the most significant or relevant provisions for such analysis. You are expected to document all of the alternatives that were considered in a list or table and which were selected for emphasis in the main analysis.
+
+You should also discuss the statutory requirements that affect the selection of regulatory approaches. If legal constraints prevent the selection of a regulatory action that best satisfies the philosophy and principles of Executive Order 12866, you should identify these constraints and estimate their opportunity cost. Such information may be useful to Congress under the Regulatory Right-to-Know Act.
+
+4. Transparency and Reproducibility of Results
+
+Because of its influential nature and its special role in the rulemaking process, it is appropriate to set minimum quality standards for regulatory analysis. You should provide documentation that the analysis is based on the best reasonably obtainable scientific, technical, and economic information available. To achieve this, you should rely on peer-reviewed literature, where available, and provide the source for all original information.
+
+A good analysis should be transparent and your results must be reproducible. You should clearly set out the basic assumptions, methods, and data underlying the analysis and discuss the uncertainties associated with the estimates. A qualified third party reading the analysis should be able to understand the basic elements of your analysis and the way in which you developed your estimates.
+
+To provide greater access to your analysis, you should generally post it, with all the supporting documents, on the internet so the public can review the findings. You should also disclose the use of outside consultants, their qualifications, and history of contracts and employment with the agency (e.g., in a preface to the RIA). Where other compelling interests (such as privacy, intellectual property, trade secrets, etc.) prevent the public release of data or key elements of the analysis, you should apply especially rigorous robustness checks to analytic results and document the analytical checks used.
+
+Finally, you should assure compliance with the Information Quality Guidelines for your agency and OMB's "Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies" ("data quality guidelines") http://obamawhitehouse.archives.gov/omb/fedreg/reproducible.html.
+
+Developing Benefit and Cost Estimates
+
+1. Some General Considerations
+
+The analysis document should discuss the expected benefits and costs of the selected regulatory option and any reasonable alternatives. How is the proposed action expected to provide the anticipated benefits and costs? What are the monetized values of the potential real incremental benefits and costs to society? To present your results, you should:
+
+include separate schedules of the monetized benefits and costs that show the type and timing of benefits and costs, and express the estimates in this table in constant, undiscounted dollars (for more on discounting see "Discount Rates" below);
+
+list the benefits and costs you can quantify, but cannot monetize, including their timing;
+
+describe benefits and costs you cannot quantify; and
+
+identify or cross-reference the data or studies on which you base the benefit and cost estimates.
+
+When benefit and cost estimates are uncertain (for more on this see "Treatment of Uncertainty" below), you should report benefit and cost estimates (including benefits of risk reductions) that reflect the full probability distribution of potential consequences. Where possible, present probability distributions of benefits and costs and include the upper and lower bound estimates as complements to central tendency and other estimates.
+
+If fundamental scientific disagreement or lack of knowledge prevents construction of a scientifically defensible probability distribution, you should describe benefits or costs under plausible scenarios and characterize the evidence and assumptions underlying each alternative scenario.
+
+2. The Key Concepts Needed to Estimate Benefits and Costs
+
+"Opportunity cost" is the appropriate concept for valuing both benefits and costs. The principle of "willingness-to-pay" (WTP) captures the notion of opportunity cost by measuring what individuals are willing to forgo to enjoy a particular benefit. In general, economists tend to view WTP as the most appropriate measure of opportunity cost, but an individual's "willingness-to-accept" (WTA) compensation for not receiving the improvement can also provide a valid measure of opportunity cost.
+
+WTP and WTA are comparable measures under special circumstances. WTP and WTA measures may be comparable in the following situations: if a regulation affects a price change rather than a quantity change; the change being evaluated is small; there are reasonably close substitutes available; and the income effect is small.11 However, empirical evidence from experimental economics and psychology shows that even when income/wealth effects are "small", the measured differences between WTP and WTA can be large.12 WTP is generally considered to be more readily measurable. Adoption of WTP as the measure of value implies that individual preferences of the affected population should be a guiding factor in the regulatory analysis.
+
+Market prices provide rich data for estimating benefits and costs based on willingness-to-pay if the goods and services affected by the regulation are traded in well-functioning competitive markets. The opportunity cost of an alternative includes the value of the benefits forgone as a result of choosing that alternative. The opportunity cost of banning a product -- a drug, food additive, or hazardous chemical -- is the forgone net benefit (i.e., lost consumer and producer surplus13) of that product, taking into account the mitigating effects of potential substitutes.
+
+The use of any resource has an opportunity cost regardless of whether the resource is already owned or has to be purchased. That opportunity cost is equal to the net benefit the resource would have provided in the absence of the requirement. For example, if regulation of an industrial plant affects the use of additional land or buildings within the existing plant boundary, the cost analysis should include the opportunity cost of using the additional land or facilities.
+
+To the extent possible, you should monetize any such forgone benefits and add them to the other costs of that alternative. You should also try to monetize any cost savings as a result of an alternative and either add it to the benefits or subtract it from the costs of that alternative. However, you should not assume that the "avoided" costs of not doing another regulatory alternative represent the benefits of a regulatory action where there is no direct, necessary relationship between the two. You should also be careful when the costs avoided are attributable to an existing regulation. Even when there is a direct relationship between the two regulatory actions, the use of avoided costs is problematic because the existing regulation may not maximize net benefits and thus may itself be questionable policy. (See the section, "Direct Use of Market Data," for more detail.)
+
+Estimating benefits and costs when market prices are hard to measure or markets do not exist is more difficult. In these cases, you need to develop appropriate proxies that simulate market exchange. Estimates of willingness-to-pay based on revealed preference methods can be quite useful. As one example, analysts sometimes use "hedonic price equations" based on multiple regression analysis of market behavior to simulate market prices for the commodity of interest. The hedonic technique allows analysts to develop an estimate of the price for specific attributes associated with a product. For instance, a house is a product characterized by a variety of attributes including the number of rooms, total floor area, and type of heating and cooling. If there are enough data on transactions in the housing market, it is possible to develop an estimate of the implicit price for specific attributes, such as the implicit price of an additional bathroom or for central air conditioning. This technique can be extended, as well, to develop an estimate for the implicit price of public goods that are not directly traded in markets. An analyst can develop implicit price estimates for public goods like air quality and access to public parks by assessing the effects of these goods on the housing market. Going through the analytical process of deriving benefit estimates by simulating markets may also suggest alternative regulatory strategies that create such markets.
+
+You need to guard against double-counting, since some attributes are embedded in other broader measures. To illustrate, when a regulation improves the quality of the environment in a community, the value of real estate in the community generally rises to reflect the greater attractiveness of living in a better environment. Simply adding the increase in property values to the estimated value of improved public health would be double counting if the increase in property values reflects the improvement in public health. To avoid this problem you should separate the embedded effects on the value of property arising from improved public health. At the same time, an analysis that fails to incorporate the consequence of land use changes when accounting for costs will not capture the full effects of regulation.
+
+3. Revealed Preference Methods
+
+Revealed preference methods develop estimates of the value of goods and services -- or attributes of those goods and services -- based on actual market decisions by consumers, workers and other market participants. If the market participant is well informed and confronted with a real choice, it may be feasible to determine accurately and precisely the monetary value needed for a rulemaking. There is a large and well-developed literature on revealed preference in the peer-reviewed, applied economics literature.
+
+Although these methods are well grounded in economic theory, they are sometimes difficult to implement given the complexity of market transactions and the paucity of relevant data. When designing or evaluating a revealed preference study, the following principles should be considered:
+
+the market should be competitive. If the market isn't competitive (e.g., monopoly, oligopoly), then you should consider making adjustments such that the price reflects the true value to society (often called the "shadow price");
+
+the market should not exhibit a significant information gap or asymmetric information problem. If the market suffers from information problems, then you should discuss the divergence of the price from the underlying shadow price and consider possible adjustments to reflect the underlying shadow price;
+
+the market should not exhibit an externality. In this case, you should discuss the divergence of the price from the underlying shadow price and consider possible adjustments to reflect the underlying shadow price;
+
+the specific market participants being studied should be representative of the target populations to be affected by the rulemaking under consideration;
+
+a valid research design and framework for analysis should be adopted. Examples include using data and/or model specifications that include the markets for substitute and complementary goods and services and using reasonably unrestricted functional forms. When specifying substitute and complementary goods, the analysis should preferably be based on data about the range of alternatives perceived by market participants. If such data are not available, you should adopt plausible assumptions and describe the limitations of the analysis.
+
+the statistical and econometric models employed should be appropriate for the application and the resulting estimates should be robust in response to plausible changes in model specification and estimation technique; and
+
+the results should be consistent with economic theory.
+
+You should also determine whether there are multiple revealed-preference studies of the same good or service and whether anything can be learned by comparing the methods, data and findings from different studies. Professional judgment is required to determine whether a particular study is of sufficient quality to justify use in regulatory analysis. When studies are used in regulatory analysis despite their technical weaknesses (e.g., due to the absence of other evidence), the regulatory analysis should discuss any biases or uncertainties that are likely to arise due to those weaknesses. If a study has major weaknesses, the study should not be used in regulatory analysis.
+
+Direct Uses of Market Data
+
+
+
+Economists ordinarily consider market prices as the most accurate measure of the marginal value of goods and services to society. In some instances, however, market prices may not reflect the true value of goods and services due to market imperfections or government intervention. If a regulation involves changes to goods or services where the market price is not a good measure of the value to society, you should use an estimate that reflects the shadow price. Suppose a particular air pollutant damages crops. One of the benefits of controlling that pollutant is the value of the crop yield increase as a result of the controls. That value is typically measured by the price of the crop. However, if the price is held above the market price by a government program that affects supply, a value estimate based on this price may not reflect the true benefits of controlling the pollutant. In this case, you should calculate the value to society of the increase in crop yields by estimating the shadow price, which reflects the value to society of the marginal use of the crop. If the marginal use is for exports, you should use the world price. If the marginal use is to add to very large surplus stockpiles, you should use the value of the last units released from storage minus storage cost. If stockpiles are large and growing, the shadow price may be low or even negative.
+
+
+
+Other goods whose market prices may not reflect their true value include those whose production or consumption results in substantial (1) positive or negative external effects or (2) transfer payments. For example, the observed market price of gasoline may not reflect marginal social value due to the inclusion of taxes, other government interventions, and negative externalities (e.g., pollution). This shadow price may also be needed for goods whose market price is substantially affected by existing regulations that do not maximize net benefits.
+
+Indirect Uses of Market Data
+
+
+
+Many goods or attributes of goods that are affected by regulation--such as preserving environmental or cultural amenities--are not traded directly in markets. The value for these goods or attributes arise both from use and non-use. Estimation of these values is difficult because of the absence of an organized market. However, overlooking or ignoring these values in your regulatory analysis may significantly understate the benefits and/or costs of regulatory action.
+
+
+
+"Use values" arise where an individual derives satisfaction from using the resource, either now or in the future. Use values are associated with activities such as swimming, hunting, and hiking where the individual makes use of the natural environment.
+
+
+
+"Non-use values" arise where an individual places value on a resource, good or service even though the individual will not use the resource, now or in the future. Non-use value includes bequest and existence values.
+
+
+
+General altruism for the health and welfare of others is a closely related concept but may not be strictly considered a "non-use" value.14 A general concern for the welfare of others should supplement benefits and costs equally; hence, it is not necessary to measure the size of general altruism in regulatory analysis. If there is evidence of selective altruism, it needs to be considered specifically in both benefits and costs.
+
+
+
+Some goods and services are indirectly traded in markets, which means that their value is reflected in the prices of related goods and services that are directly traded in markets. Their use values are typically estimated through revealed preference methods. Examples include estimates of the values of environmental amenities derived from travel-cost studies, and hedonic price models that measure differences or changes in the value of real estate. It is important that you utilize revealed preference models that adhere to economic criteria that are consistent with utility maximizing behavior. Also, you should take particular care in designing protocols for reliably estimating the values of these attributes.
+
+
+
+4. Stated Preference Methods
+
+Stated Preference Methods (SPM) have been developed and used in the peer-reviewed literature to estimate both "use" and "non-use" values of goods and services. They have also been widely used in regulatory analyses by Federal agencies, in part, because these methods can be creatively employed to address a wide variety of goods and services that are not easy to study through revealed preference methods.
+
+The distinguishing feature of these methods is that hypothetical questions about use or non-use values are posed to survey respondents in order to obtain willingness-to-pay estimates relevant to benefit or cost estimation. Some examples of SPM include contingent valuation, conjoint analysis and risk-tradeoff analysis. The surveys used to obtain the health-utility values used in CEA are similar to stated-preference surveys but do not entail monetary measurement of value. Nevertheless, the principles governing quality stated-preference research, with some obvious exceptions involving monetization, are also relevant in designing quality health-utility research.
+
+When you are designing or evaluating a stated-preference study, the following principles should be considered:
+
+the good or service being evaluated should be explained to the respondent in a clear, complete and objective fashion, and the survey instrument should be pre-tested;
+
+willingness-to-pay questions should be designed to focus the respondent on the reality of budgetary limitations and alerted to the availability of substitute goods and alternative expenditure options;
+
+the survey instrument should be designed to probe beyond general attitudes (e.g., a "warm glow" effect for a particular use or non-use value) and focus on the magnitude of the respondent's economic valuation;
+
+the analytic results should be consistent with economic theory using both "internal" (within respondent) and "external" (between respondent) scope tests such as the willingness to pay is larger (smaller) when more (less) of a good is provided;
+
+the subjects being interviewed should be selected/sampled in a statistically appropriate manner. The sample frame should adequately cover the target population. The sample should be drawn using probability methods in order to generalize the results to the target population;
+
+response rates should be as high as reasonably possible. Best survey practices should be followed to achieve high response rates. Low response rates increase the potential for bias and raise concerns about the generalizability of the results. If response rates are not adequate, you should conduct an analysis of non-response bias or further study. Caution should be used in assessing the representativeness of the sample based solely on demographic profiles. Statistical adjustments to reduce non-response bias should be undertaken whenever feasible and appropriate;
+
+the mode of administration of surveys (in-person, phone, mail, computer, internet or multiple modes ) should be appropriate in light of the nature of the questions being posed to respondents and the length and complexity of the instrument;
+
+documentation should be provided about the target population, the sampling frame used and its coverage of the target population, the design of the sample including any stratification or clustering, the cumulative response rate (including response rate at each stage of selection if applicable); the item non-response rate for critical questions; the exact wording and sequence of questions and other information provided to respondents; and the training of interviewers and techniques they employed (as appropriate);
+
+the statistical and econometric methods used to analyze the collected data should be transparent, well suited for the analysis, and applied with rigor and care.
+
+Professional judgment is necessary to apply these criteria to one or more studies, and thus there is no mechanical formula that can be used to determine whether a particular study is of sufficient quality to justify use in regulatory analysis. When studies are used despite having weaknesses on one or more of these criteria, those weaknesses should be acknowledged in the regulatory analysis, including any resulting biases or uncertainties that are likely to result. If a study has too many weaknesses with unknown consequences for the quality of the data, the study should not be used.
+
+The challenge in designing quality stated-preference studies is arguably greater for non-use values and unfamiliar use values than for familiar goods or services that are traded (directly or indirectly) in market transactions. The good being valued may have little meaning to respondents, and respondents may be forming their valuations for the first time in response to the questions posed. Since these values are effectively constructed by the respondent during the elicitation, the instrument and mode of administration should be rigorously pre-tested to make sure that responses are not simply an artifact of specific features of instrument design and/or mode of administration.
+
+Since SPM generate data from respondents in a hypothetical setting, often on complex and unfamiliar goods, special care is demanded in the design and execution of surveys, analysis of the results, and characterization of the uncertainties. A stated-preference study may be the only way to obtain quantitative information about non-use values, though a number based on a poor quality study is not necessarily superior to no number at all. Non-use values that are not quantified should be presented as an "intangible" benefit or cost.
+
+If both revealed-preference and stated-preference studies that are directly applicable to regulatory analysis are available, you should consider both kinds of evidence and compare the findings. If the results diverge significantly, you should compare the overall size and quality of the two bodies of evidence. Other things equal, you should prefer revealed preference data over stated preference data because revealed preference data are based on actual decisions, where market participants enjoy or suffer the consequences of their decisions. This is not generally the case for respondents in stated preference surveys, where respondents may not have sufficient incentives to offer thoughtful responses that are more consistent with their preferences or may be inclined to bias their responses for one reason or another.
+
+5. Benefit-Transfer Methods
+
+It is often preferable to collect original data on revealed preference or stated preference to support regulatory analysis. Yet conducting an original study may not be feasible due to the time and expense involved. One alternative to conducting an original study is the use of "benefit transfer" methods. (The transfer may involve cost determination as well). The practice of "benefit transfer" began with transferring existing estimates obtained from indirect market and stated preference studies to new contexts (i.e., the context posed by the rulemaking). The principles that guide transferring estimates from indirect market and stated preference studies should apply to direct market studies as well.
+
+Although benefit-transfer can provide a quick, low-cost approach for obtaining desired monetary values, the methods are often associated with uncertainties and potential biases of unknown magnitude. It should therefore be treated as a last-resort option and not used without explicit justification.
+
+In conducting benefit transfer, the first step is to specify the value to be estimated for the rulemaking. You should identify the relevant measure of the policy change at this initial stage. For instance, you can derive the relevant willingness-to-pay measure by specifying an indirect utility function. This identification allows you to "zero in" on key aspects of the benefit transfer.
+
+The next step is to identify appropriate studies to conduct benefit transfer. In selecting transfer studies for either point transfers or function transfers, you should base your choices on the following criteria:
+
+The selected studies should be based on adequate data, sound and defensible empirical methods and techniques.
+
+The selected studies should document parameter estimates of the valuation function.
+
+The study context and policy context should have similar populations (e.g., demographic characteristics). The market size (e.g., target population) between the study site and the policy site should be similar. For example, a study valuing water quality improvement in Rhode Island should not be used to value policy that will affect water quality throughout the United States.
+
+The good, and the magnitude of change in that good, should be similar in the study and policy contexts.
+
+The relevant characteristics of the study and the policy contexts should be similar. For example, the effects examined in the original study should be "reversible" or "irreversible" to a degree that is similar to the regulatory actions under consideration.
+
+The distribution of property rights should be similar so that the analysis uses the same welfare measure. If the property rights in the study context support the use of WTA measures while the rights in the rulemaking context support the use of WTP measures, benefit transfer is not appropriate.
+
+The availability of substitutes across study and policy contexts should be similar.
+
+If you can choose between transferring a function or a point estimate, you should transfer the entire demand function (referred to as benefit function transfer) rather than adopting a single point estimate (referred to as benefit point transfer).15
+
+Finally, you should not use benefit transfer in estimating benefits if:
+
+resources are unique or have unique attributes. For example, if a policy change affects snowmobile use in Yellowstone National Park, then a study valuing snowmobile use in the state of Michigan should not be used to value changes in snowmobile use in the Yellowstone National Park.
+
+If the study examines a resource that is unique or has unique attributes, you should not transfer benefit estimates or benefit functions to value a different resource and vice versa. For example, if a study values visibility improvements at the Grand Canyon, these results should not be used to value visibility improvements in urban areas.
+
+There are significant problems with applying an "ex ante" valuation estimate to an "ex post" policy context. If a policy yields a significant change in the attributes of the good, you should not use the study estimates to value the change using a benefit transfer approach.
+
+You also should not use a value developed from a study involving, small marginal changes in a policy context involving large changes in the quantity of the good.
+
+Clearly, all of these criteria are difficult to meet. However, you should attempt to satisfy as many as possible when choosing studies from the existing economic literature. Professional judgment is required in determining whether a particular transfer is too speculative to use in regulatory analysis.
+
+6. Ancillary Benefits and Countervailing Risks
+
+Your analysis should look beyond the direct benefits and direct costs of your rulemaking and consider any important ancillary benefits and countervailing risks. An ancillary benefit is a favorable impact of the rule that is typically unrelated or secondary to the statutory purpose of the rulemaking (e.g., reduced refinery emissions due to more stringent fuel economy standards for light trucks) while a countervailing risk is an adverse economic, health, safety, or environmental consequence that occurs due to a rule and is not already accounted for in the direct cost of the rule (e.g., adverse safety impacts from more stringent fuel-economy standards for light trucks).
+
+You should begin by considering and perhaps listing the possible ancillary benefits and countervailing risks. However, highly speculative or minor consequences may not be worth further formal analysis. Analytic priority should be given to those ancillary benefits and countervailing risks that are important enough to potentially change the rank ordering of the main alternatives in the analysis. In some cases the mere consideration of these secondary effects may help in the generation of a superior regulatory alternative with strong ancillary benefits and fewer countervailing risks. For instance, a recent study suggested that weight-based, fuel-economy standards could achieve energy savings with fewer safety risks and employment losses than would occur under the current regulatory structure.
+
+Like other benefits and costs, an effort should be made to quantify and monetize ancillary benefits and countervailing risks. If monetization is not feasible, quantification should be attempted through use of informative physical units. If both monetization and quantification are not feasible, then these issues should be presented as non-quantified benefits and costs. The same standards of information and analysis quality that apply to direct benefits and costs should be applied to ancillary benefits and countervailing risks.
+
+One way to combine ancillary benefits and countervailing risks is to evaluate these effects separately and then put both of these effects on the benefits side, not on the cost side. Although it is theoretically appropriate to include disbenefits on the cost side, legal and programmatic considerations generally support subtracting the disbenefits from direct benefits.
+
+7. Methods for Treating Non-Monetized Benefits and Costs
+
+Sound quantitative estimates of benefits and costs, where feasible, are preferable to qualitative descriptions of benefits and costs because they help decision makers understand the magnitudes of the effects of alternative actions. However, some important benefits and costs (e.g., privacy protection) may be inherently too difficult to quantify or monetize given current data and methods. You should carry out a careful evaluation of non-quantified benefits and costs. Some authorities16 refer to these non-monetized and non-quantified effects as "intangible".
+
+Benefits and Costs that are Difficult to Monetize
+
+
+
+You should monetize quantitative estimates whenever possible. Use sound and defensible values or procedures to monetize benefits and costs, and ensure that key analytical assumptions are defensible. If monetization is impossible, explain why and present all available quantitative information. For example, if you can quantify but cannot monetize increases in water quality and fish populations resulting from water quality regulation, you can describe benefits in terms of stream miles of improved water quality for boaters and increases in game fish populations for anglers. You should describe the timing and likelihood of such effects and avoid double-counting of benefits when estimates of monetized and physical effects are mixed in the same analysis.
+
+Benefits and Costs that are Difficult to Quantify
+
+
+
+If you are not able to quantify the effects, you should present any relevant quantitative information along with a description of the unquantified effects, such as ecological gains, improvements in quality of life, and aesthetic beauty. You should provide a discussion of the strengths and limitations of the qualitative information. This should include information on the key reason(s) why they cannot be quantified. In one instance, you may know with certainty the magnitude of a risk to which a substantial, but unknown, number of individuals are exposed. In another instance, the existence of a risk may be based on highly speculative assumptions, and the magnitude of the risk may be unknown.
+
+
+
+For cases in which the unquantified benefits or costs affect a policy choice, you should provide a clear explanation of the rationale behind the choice. Such an explanation could include detailed information on the nature, timing, likelihood, location, and distribution of the unquantified benefits and costs. Also, please include a summary table that lists all the unquantified benefits and costs, and use your professional judgment to highlight (e.g., with categories or rank ordering) those that you believe are most important (e.g., by considering factors such as the degree of certainty, expected magnitude, and reversibility of effects).
+
+
+
+While the focus is often placed on difficult to quantify benefits of regulatory action, some costs are difficult to quantify as well. Certain permitting requirements (e.g., EPA's New Source Review program) restrict the decisions of production facilities to shift to new products and adopt innovative methods of production. While these programs may impose substantial costs on the economy, it is very difficult to quantify and monetize these effects. Similarly, regulations that establish emission standards for recreational vehicles, like motor bikes, may adversely affect the performance of the vehicles in terms of driveability and 0 to 60 miles per hour acceleration. Again, the cost associated with the loss of these attributes may be difficult to quantify and monetize. They need to be analyzed qualitatively.
+
+
+
+8. Monetizing Health and Safety Benefits and Costs
+
+We expect you to provide a benefit-cost analysis of major health and safety rulemakings in addition to a CEA. The BCA provides additional insight because (a) it provides some indication of what the public is willing to pay for improvements in health and safety and (b) it offers additional information on preferences for health using a different research design than is used in CEA. Since the health-preference methods used to support CEA and BCA have some different strengths and drawbacks, it is important that you provide decision makers with both perspectives.
+
+In monetizing health benefits, a WTP measure is the conceptually appropriate measure as compared to other alternatives (e.g., cost of illness or lifetime earnings), in part because it attempts to capture pain and suffering and other quality-of-life effects. Using the WTP measure for health and safety allows you to directly compare your results to the other benefits and costs in your analysis, which will typically be based on WTP.
+
+If well-conducted revealed-preference studies of relevant health and safety risks are available, you should consider using them in developing your monetary estimates. If appropriate revealed-preference data are not available, you should use valid and relevant data from stated-preference studies. You will need to use your professional judgment when you are faced with limited information on revealed preference studies and substantial information based on stated preference studies.
+
+A key advantage of stated-preference and health-utility methods compared to revealed preference methods is that they can be tailored to address the ranges of probabilities, types of health risks and specific populations affected by your rule. In many rulemakings there will be no relevant information from revealed-preference studies. In this situation you should consider commissioning a stated-preference study or using values from published stated-preference studies. For the reasons discussed previously, you should be cautious about using values from stated-preference studies and describe in the analysis the drawbacks of this approach.
+
+Nonfatal Health and Safety Risks
+
+
+
+With regard to nonfatal health and safety risks, there is enormous diversity in the nature and severity of impaired health states. A traumatic injury that can be treated effectively in the emergency room without hospitalization or long-term care is different from a traumatic injury resulting in paraplegia. Severity differences are also important in evaluation of chronic diseases. A severe bout of bronchitis, though perhaps less frequent, is far more painful and debilitating than the more frequent bouts of mild bronchitis. The duration of an impaired health state, which can range from a day or two to several years or even a lifetime (e.g., birth defects inducing mental retardation), need to be considered carefully. Information on both the severity and duration of an impaired health state is necessary before the task of monetization can be performed.
+
+
+
+When monetizing nonfatal health effects, it is important to consider two components: (1) the private demand for prevention of the nonfatal health effect, to be represented by the preferences of the target population at risk, and (2) the net financial externalities associated with poor health such as net changes in public medical costs and any net changes in economic production that are not experienced by the target population. Revealed-preference or stated-preference studies are necessary to estimate the private demand; health economics data from published sources can typically be used to estimate the financial externalities caused by changes in health status. If you use literature values to monetize nonfatal health and safety risks, it is important to make sure that the values you have selected are appropriate for the severity and duration of health effects to be addressed by your rule.
+
+
+
+If data are not available to support monetization, you might consider an alternative approach that makes use of health-utility studies. Although the economics literature on the monetary valuation of impaired health states is growing, there is a much larger clinical literature on how patients, providers and community residents value diverse health states. This literature typically measures health utilities based on the standard gamble, the time tradeoff or the rating scale methods. This health utility information may be combined with known monetary values for well-defined health states to estimate monetary values for a wide range of health states of different severity and duration. If you use this approach, you should be careful to acknowledge your assumptions and the limitations of your estimates.
+
+Fatality Risks
+
+
+
+Since agencies often design health and safety regulation to reduce risks to life, evaluation of these benefits can be the key part of the analysis. A good analysis must present these benefits clearly and show their importance. Agencies may choose to monetize these benefits. The willingness-to-pay approach is the best methodology to use if reductions in fatality risk are monetized.
+
+
+
+Some describe the monetized value of small changes in fatality risk as the "value of statistical life" (VSL) or, less precisely, the "value of a life." The latter phrase can be misleading because it suggests erroneously that the monetization exercise tries to place a "value" on individual lives. You should make clear that these terms refer to the measurement of willingness to pay for reductions in only small risks of premature death. They have no application to an identifiable individual or to very large reductions in individual risks. They do not suggest that any individual's life can be expressed in monetary terms. Their sole purpose is to help describe better the likely benefits of a regulatory action.
+
+
+
+Confusion about the term "statistical life" is also widespread. This term refers to the sum of risk reductions expected in a population. For example, if the annual risk of death is reduced by one in a million for each of two million people, that is said to represent two "statistical lives" extended per year (2 million people x 1/1,000,000 = 2). If the annual risk of death is reduced by one in 10 million for each of 20 million people, that also represents two statistical lives extended.
+
+
+
+The adoption of a value for the projected reduction in the risk of premature mortality is the subject of continuing discussion within the economic and public policy analysis community. A considerable body of academic literature is available on this subject. This literature involves either explicit or implicit valuation of fatality risks, and generally involves the use of estimates of VSL from studies on wage compensation for occupational hazards (which generally are in the range of 10-4 annually), on consumer product purchase and use decisions, or from an emerging literature using stated preference approaches. A substantial majority of the resulting estimates of VSL vary from roughly $1 million to $10 million per statistical life.17
+
+
+
+There is a continuing debate within the economic and public policy analysis community on the merits of using a single VSL for all situations versus adjusting the VSL estimates to reflect the specific rule context. A variety of factors have been identified, including whether the mortality risk involves sudden death, the fear of cancer, and the extent to which the risk is voluntarily incurred.18 The consensus of EPA's recent Science Advisory Board (SAB) review of this issue was that the available literature does not support adjustments of VSL for most of these factors. The panel did conclude that it was appropriate to adjust VSL to reflect changes in income and any time lag in the occurrence of adverse health effects.
+
+
+
+The age of the affected population has also been identified as an important factor in the theoretical literature. However, the empirical evidence on age and VSL is mixed. In light of the continuing questions over the effect of age on VSL estimates, you should not use an age-adjustment factor in an analysis using VSL estimates.19
+
+
+
+Another way that has been used to express reductions in fatality risks is to use the life expectancy method, the "value of statistical life-years (VSLY) extended." If a regulation protects individuals whose average remaining life expectancy is 40 years, a risk reduction of one fatality is expressed as "40 life-years extended." Those who favor this alternative approach emphasize that the value of a statistical life is not a single number relevant for all situations. In particular, when there are significant differences between the effect on life expectancy for the population affected by a particular health risk and the populations studied in the labor market studies, they prefer to adopt a VSLY approach to reflect those differences. You should consider providing estimates of both VSL and VSLY, while recognizing the developing state of knowledge in this area.
+
+
+
+Longevity may be only one of a number of relevant considerations pertaining to the rule. You should keep in mind that regulations with greater numbers of life-years extended are not necessarily better than regulations with fewer numbers of life-years extended. In any event, when you present estimates based on the VSLY method, you should adopt a larger VSLY estimate for senior citizens because senior citizens face larger overall health risks from all causes and they may have accumulated savings to spend on their health and safety.20
+
+
+
+The valuation of fatality risk reduction is an evolving area in both results and methodology. Hence, you should utilize valuation methods that you consider appropriate for the regulatory circumstances. Since the literature-based VSL estimates may not be entirely appropriate for the risk being evaluated (e.g., the use of occupational risk premia to value reductions in risks from environmental hazards), you should explain your selection of estimates and any adjustments of the estimates to reflect the nature of the risk being evaluated. You should present estimates based on alternative approaches, and if you monetize mortality risk reduction, you should do so on a consistent basis to the extent feasible. You should clearly indicate the methodology used and document your choice of a particular methodology. You should explain any significant deviations from the prevailing state of knowledge. If you use different methodologies in different rules, you should clearly disclose the fact and explain your choices.
+
+Valuation of Reductions in Health and Safety Risks to Children
+
+
+
+The valuation of health outcomes for children and infants poses special challenges. It is rarely feasible to measure a child's willingness to pay for health improvement and an adult's concern for his or her own health is not necessarily relevant to valuation of child health. For example, the wage premiums demanded by workers to accept hazardous jobs are not readily transferred to rules that accomplish health gains for children.
+
+
+
+There are a few studies that examine parental willingness to pay to invest in health and safety for their children. Some of these studies suggest that parents may value children’s health more strongly than their own health. Although this parental perspective is a promising research strategy, it may need to be expanded to include a societal interest in child health and safety.
+
+
+
+Where the primary objective of a rule is to reduce the risk of injury, disease or mortality among children, you should conduct a cost-effectiveness analysis of the rule. You may also develop a benefit-cost analysis to the extent that valid monetary values can be assigned to the primary expected health outcomes. For rules where health gains are expected among both children and adults and you decide to perform a benefit-cost analysis, the monetary values for children should be at least as large as the values for adults (for the same probabilities and outcomes) unless there is specific and compelling evidence to suggest otherwise.21
+
+
+
+Discount Rates
+
+Benefits and costs do not always take place in the same time period. When they do not, it is incorrect simply to add all of the expected net benefits or costs without taking account of when the actually occur. If benefits or costs are delayed or otherwise separated in time from each other, the difference in timing should be reflected in your analysis.
+
+As a first step, you should present the annual time stream of benefits and costs expected to result from the rule, clearly identifying when the benefits and costs are expected to occur. The beginning point for your stream of estimates should be the year in which the final rule will begin to have effects, even if that is expected to be some time in the future. The ending point should be far enough in the future to encompass all the significant benefits and costs likely to result from the rule.
+
+In presenting the stream of benefits and costs, it is important to measure them in constant dollars to avoid the misleading effects of inflation in your estimates. If the benefits and costs are initially measured in prices reflecting expected future inflation, you can convert them to constant dollars by dividing through by an appropriate inflation index, one that corresponds to the inflation rate underlying the initial estimates of benefits or costs.
+
+1. The Rationale for Discounting
+
+Once these preliminaries are out of the way, you can begin to adjust your estimates for differences in timing. (This is a separate calculation from the adjustment needed to remove the effects of future inflation.) Benefits or costs that occur sooner are generally more valuable. The main rationales for the discounting of future impacts are:
+
+(a) Resources that are invested will normally earn a positive return, so current consumption is more expensive than future consumption, since you are giving up that expected return on investment when you consume today.
+
+
+
+(b) Postponed benefits also have a cost because people generally prefer present to future consumption. They are said to have positive time preference.
+
+
+
+(c) Also, if consumption continues to increase over time, as it has for most of U.S. history, an increment of consumption will be less valuable in the future than it would be today, because the principle of diminishing marginal utility implies that as total consumption increases, the value of a marginal unit of consumption tends to decline.
+
+There is wide agreement with point (a). Capital investment is productive, but that point is not sufficient by itself to explain positive interest rates and observed saving behavior. To understand these phenomena, points (b) and (c) are also necessary. If people are really indifferent between consumption now and later, then they should be willing to forgo current consumption in order to consume an equal or slightly greater amount in the future. That would cause saving rates and investment to rise until interest rates were driven to zero and capital was no longer productive. As long as we observe positive interest rates and saving rates below 100 percent, people must be placing a higher value on current consumption than on future consumption.
+
+To reflect this preference, a discount factor should be used to adjust the estimated benefits and costs for differences in timing. The further in the future the benefits and costs are expected to occur, the more they should be discounted. The discount factor can be calculated given a discount rate. The formula is 1/ (1+ the discount rate)t w

@@ -1,0 +1,20 @@
+News Releases/Statements
+Boeing Statement on 737 MAX Software Enhancement
+
+March 11, 2019 - The Boeing Company is deeply saddened by the loss of Lion Air Flight 610, which has weighed heavily on the entire Boeing team, and we extend our heartfelt condolences and sympathies to the families and loved ones of those onboard.
+
+Safety is a core value for everyone at Boeing and the safety of our airplanes, our customers’ passengers and their crews is always our top priority. The 737 MAX is a safe airplane that was designed, built and supported by our skilled employees who approach their work with the utmost integrity.
+
+For the past several months and in the aftermath of Lion Air Flight 610, Boeing has been developing a flight control software enhancement for the 737 MAX, designed to make an already safe aircraft even safer. This includes updates to the Maneuvering Characteristics Augmentation System (MCAS) flight control law, pilot displays, operation manuals and crew training. The enhanced flight control law incorporates angle of attack (AOA) inputs, limits stabilizer trim commands in response to an erroneous angle of attack reading, and provides a limit to the stabilizer command in order to retain elevator authority.
+
+Boeing has been working closely with the Federal Aviation Administration (FAA) on development, planning and certification of the software enhancement, and it will be deployed across the 737 MAX fleet in the coming weeks. The update also incorporates feedback received from our customers.
+
+The FAA says it anticipates mandating this software enhancement with an Airworthiness Directive (AD) no later than April. We have worked with the FAA in development of this software enhancement.
+
+It is important to note that the FAA is not mandating any further action at this time, and the required actions in AD2018-23.51 continue to be appropriate.
+
+A pitch augmentation control law (MCAS) was implemented on the 737 MAX to improve aircraft handling characteristics and decrease pitch-up tendency at elevated angles of attack. It was put through flight testing as part of the certification process prior to the airplane entering service. MCAS does not control the airplane in normal flight; it improves the behavior of the airplane in a non-normal part of the operating envelope.
+
+Boeing’s 737 MAX Flight Crew Operations Manual (FCOM) already outlines an existing procedure to safely handle the unlikely event of erroneous data coming from an angle of attack (AOA) sensor. The pilot will always be able to override the flight control law using electric trim or manual trim. In addition, it can be controlled through the use of the existing runaway stabilizer procedure as reinforced in the Operations Manual Bulletin (OMB) issued on Nov. 6, 2018.
+
+Additionally, we would like to express our deepest condolences to those who lost loved ones on Ethiopian Airlines Flight 302. A Boeing technical team is at the crash site to provide technical assistance under the direction of the Ethiopia Accident Investigation Bureau and U.S. National Transportation Safety Board. It is still early in the investigation, as we seek to understand the cause of the accident.

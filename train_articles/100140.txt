@@ -1,0 +1,92 @@
+Carbon pricing: regulatory framework for the output-based pricing system
+Introduction Carbon pricing is a central component of the Pan-Canadian Framework on Clean Growth and Climate Change (PCF). Carbon pricing is an efficient way to reduce greenhouse gas (GHG) emissions at the lowest cost to businesses and consumers, while stimulating innovation and clean growth. In October 2016, the Government of Canada published the Pan-Canadian Approach to Pricing Carbon Pollution (the benchmark) to ensure that carbon pricing applies to a broad set of emission sources throughout Canada in 2018 with increasing stringency over time. Under the benchmark, provinces and territories can implement the type of carbon pricing system that makes sense for their circumstances--either an explicit price-based system (such as a carbon tax or carbon charge and performance-based emissions system) or cap-and-trade. As part of the benchmark, the federal government also committed to implement a federal carbon pricing backstop that will apply in any province or territory that requests it or that does not have a carbon pricing system in place in 2018 that meets the benchmark (referred to as “backstop jurisdictions”). In early 2018, the Government of Canada will release a draft legislative proposal for the federal backstop for comment. The Government of Canada has requested that provinces and territories that choose the federal backstop, in whole or in part, confirm this by March 30, 2018. Those opting to establish or maintain a provincial or territorial pricing system that meets the benchmark need to outline how they are doing so by September 1, 2018. After reviewing each system, the Government of Canada intends to implement the federal backstop in whole or in part on January 1, 2019 in any province and territory that does not have a carbon pricing system that meets the benchmark. To minimize uncertainty for residents, businesses and investors, once in effect, the backstop will remain in effect until at least 2022. From 2019 onwards, there will be an annual verification process to ensure carbon pricing systems continue to meet the benchmark. We will also monitor major changes to provincial and territorial systems on an ongoing basis. In May 2017, the federal government released a Technical Paper on the Federal Carbon Pricing BackstopFootnote 1 outlining the federal carbon pricing backstop with two elements: a charge on fossil fuels Footnote 2 that is generally payable by fuel producers or distributors, with rates that will be set for each fuel such that they are equivalent to $10 per tonne of carbon dioxide equivalent (CO 2 e) Footnote 3 in 2018, rising by $10 per year to $50 per tonne CO 2 e in 2022
+
+
+
+that is generally payable by fuel producers or distributors, with rates that will be set for each fuel such that they are equivalent to $10 per tonne of carbon dioxide equivalent (CO e) in 2018, rising by $10 per year to $50 per tonne CO e in 2022 an Output-Based Pricing System (OBPS) for industrial facilities The aim of the OBPS is to minimize competitiveness risks for emissions-intensive, trade-exposed industrial facilities, while retaining the carbon price signal and incentive to reduce GHG emissions. The charge is not intended to apply to fuel used at a facility that is part of the OBPS. Each OBPS facilityFootnote 4 will instead be subject to the carbon price on the portion of emissions that exceed an annual output-based emissions limit. In jurisdictions where the backstop applies, the OBPS will apply to industrial facilities that emit 50 kilotonnes (kt) CO 2 e or more and for which an output-based standard is specified, or that emit between 10 and 50 kt CO 2 e per year and whose application for voluntary participation is approved. This paper provides additional information on the proposed design of the OBPS, and seeks further input from the public and stakeholders on key technical issues to inform its development. Design principles of the Output-Based Pricing System The OBPS is based on the following principles, subject to practical considerations: Deliver incremental GHG emissions reductions
+
+The OBPS will create incentives for incremental GHG emission reductions (meaning fewer emissions than would have occurred without the OBPS in place). Minimize carbon leakage and competitiveness risks
+
+The OBPS will be designed to minimize carbon leakage by limiting impacts on competiveness from carbon pricing for large industrial facilities. Treat OBPS participants in a consistent manner
+
+The design of output-based standards will be consistent within and across sectors and products. Provide transparency
+
+The OBPS will be implemented in a transparent manner. Commitment to review
+
+The OBPS will be reviewed by 2022, in conjunction with the review of the overall pan-Canadian approach to carbon pricing, committed to as part of the Pan-Canadian Framework on Clean Growth and Climate Change. Overview of the Output-Based Pricing System Industrial facilities that are registered under the OBPS will be able to purchase charge-free fuel from the time the charge starts to apply. OBPS facilities will instead be subject to the carbon price on the portion of their emissions that exceed an annual output-based emissions limit. An OBPS facility’s annual GHG emissions limit, expressed in tonnes of CO 2 e, will be based on the prescribed output-based standards (OBS) for the production activities that the facility undertakes. The limit for a single product facility will be determined by multiplying the applicable output-based standard and the facility’s total annual production. For a facility to which more than one output-based standard applies, the annual facility emissions limit will be based on the sum of the limits for each product, expressed as follows:
+
+Annual Facility Emissions Limit (tonnes CO2e) = ∑ i = 1 n [ OBS i ( tonnes CO2e units i ) × Production i (units i) ]
+
+The compliance obligation of a facility will be calculated as follows: Compliance obligation (tonnes CO 2 e) = Total annual facility emissions - Annual facility emissions limit
+
+The Government of Canada will issue surplus credits to facilities whose emissions are below their annual facility emissions limit. Each surplus credit will represent one tonne of CO 2 e. A facility whose emissions are above its limit will have three options to meet its obligation: paying a charge to the Government of Canada. This charge will be set at the same level as the fuel charge ($10 per tonne CO 2 e in 2018, increasing by $10 per tonne CO 2 e each year to $50 per tonne CO 2 e in 2022)
+
+e in 2018, increasing by $10 per tonne CO e each year to $50 per tonne CO e in 2022) submitting surplus credits issued by the federal government
+
+
+
+submitting eligible offset credits Footnote 5 Regulated facilities The OBPS will apply to facilities: in backstop jurisdictions
+
+that reported annual emissions of 50 kt CO 2 e or more
+
+
+
+e or more that carry out an activity for which an output-based standard is prescribed Consideration is being given to which year(s) will be included when assessing a facility’s emissions against the threshold of 50 kt CO 2 e. The OBPS will not apply to buildings (including municipal, hospitals, universities, schools, and commercial), or landfills not associated with an OBPS facility, municipal wastewater treatment facilities or to natural gas distribution pipelines. Facilities that meet the 50 kt CO 2 e threshold will be required to register with Environment and Climate Change Canada. Voluntary participation in the Output-Based Pricing System (opt-in) Facilities in backstop jurisdictions with annual emissions between 10 kt CO 2 e and 50 kt CO 2 e and that carry out an activity for which an output-based standard has been prescribed will be able to opt-in to the OBPS starting with the January 1 to December 31, 2020 compliance period (i.e., they will purchase charge-in fuel during 2019). Once a facility opts-in, it will be subject to the same obligations as all other OBPS facilities and will be able to purchase charge-free fuel. A facility wishing to opt-in will need to submit a request to Environment and Climate Change Canada in advance of the first year in which it would like to be subject to the OBPS. Environment and Climate Change Canada will review each application and will designate approved applicants. For those facilities, the OBPS will apply starting at the beginning of the next relevant compliance period. Additional information will be provided following further consultation on the eligibility criteria and process for opting in. Covered emission sources Covered emission sources will include fuel combustion, industrial process, flaring, and some venting and fugitive sources. Methane venting and methane fugitive emissions from oil and gas facilities will not be subject to pricing under the OBPS. Emissions of all seven of the United Nations Framework Convention on Climate Change (UNFCCC) greenhouse gases will be included, to the extent practicable – carbon dioxide (CO 2 )Footnote 6 , methane (CH 4 ), nitrous oxide (N 2 O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF 6 ) and nitrogen trifluoride (NF 3 ). Output-based standards To the extent practicable, output-based standards will be developed using a consistent approach across sectors. In most cases, output-based standards will be set as a percentage of the production-weighted national average of emission intensityFootnote 7 . In some cases it may be necessary to use alternate metrics that better characterize the sector. The proposed starting percentage for all output-based standards will be 70% of the production-weighted national average of emission intensity (i.e., the output-based standard will be set 30% below the production-weighted national average of emission intensity). That percentage may be adjusted based on various considerations, such as the emissions intensity of the best-in-class performer (the facility with the lowest emissions intensity); the distribution of emissions intensities among facilities in the sector; and potential impacts on competitiveness. The stringency of output-based standards will increase over time. Consideration is being given to different approaches, including a fixed annual percent reduction and scheduled revisions at multi-year intervals. Output-based standards will initially be developed for the following industrial sectors: oil and gas, pulp and paper, chemicals, nitrogen-fertilizers, lime, cement, base metal smelting and refining, potash, iron ore pelletizing, mining, iron and steel, and food processing. Over time, output-based standards for additional sectors may be developed. To address heterogeneity within some sectors, output-based standards may be developed within sub-sector categories at a product level, or in some cases, for a grouping of products, as illustrated in Table 1.
+
+Table 1: preliminary list of output-based standards Sector/ sub-sector Proposed standard basis Proposed standard metric Base Metal Smelting and Refining
+
+Base metals
+
+Tonne CO 2 e/tonne base metals produced
+
+Bitumen and Heavy Oil Upgrading
+
+Synthetic Crude Oil (SCO)
+
+Tonne CO 2 e/barrel SCO Cement
+
+Grey cement Tonnes CO 2 e/tonne clinker Chemicals (Ethanol) Ethanol Tonne CO 2 e/tonne ethanol Iron ore pelletizing
+
+Iron ore pellets Tonne CO 2 e/tonne iron ore pellets Iron and Steel
+
+Mini mills
+
+Tonnes CO 2 e/tonne cast steel Lime
+
+High calcium and dolomitic
+
+Tonnes CO 2 e/tonne lime Mining
+
+Overburden and ore or coal Tonnes CO 2 e/tonne overburden and ore or coal product Natural Gas Pipelines Natural gas transmission pipelines Tonne CO 2 e/km throughput Nitrogen Fertilizers
+
+Nitric acid
+
+Ammonia
+
+Tonne CO 2 e/tonne nitric acid
+
+Tonne CO 2 e/tonne ammonia
+
+Oil Sands and Heavy Oil
+
+Thermal production of bitumen and heavy oil
+
+Tonne CO 2 e/barrel bitumen (or heavy oil)
+
+Other Manufacturing Food processing
+
+Tonne CO 2 e/unit product Potash
+
+Conventional
+
+Solution
+
+Tonnes CO 2 e/tonne potash Pulp and Paper Pulp or paper from a chemical process
+
+Pulp or paper from a mechanical process
+
+Tonne CO 2 e/air dried tonne finished product Refining
+
+Complexity weighted barrel (CWB) Tonne CO 2 e/CWB Steam/Heat Steam/heat transferred on or off-site
+
+Tonne CO 2 e/gigajoule steam Upstream Oil & Gas Natural gas processing Tonne CO 2 e/volume processed NG

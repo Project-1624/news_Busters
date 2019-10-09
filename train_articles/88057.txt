@@ -1,0 +1,24 @@
+State Coincident Indexes
+Explore This Section
+
+State Coincident Indexes
+
+A Note to Users of the Data for the State Coincident Indexes: Indexing to 2007 Annual Averages Effective with the release of the Philadelphia Fed’s state coincident indexes for January 2018, all 50 state indexes and the U.S. index are indexed to their 2007 annual averages (previously indexed to July 1992). This change more directly ties the current indexes to the peak of the prior economic cycle. The changes are outlined in the Changes to Methodology document below. For more information, please contact Tosmai Puenpatom.
+
+The Federal Reserve Bank of Philadelphia produces a monthly coincident index for each of the 50 states. The indexes are released a few days after the Bureau of Labor Statistics (BLS) releases the employment data for the states. The Bank issues a release each month describing recent trends in the state indexes, with special coverage of the three states in the Third District: Pennsylvania, New Jersey, and Delaware.
+
+The coincident indexes combine four state-level indicators to summarize current economic conditions in a single statistic. The four state-level variables in each coincident index are nonfarm payroll employment, average hours worked in manufacturing by production workers, the unemployment rate, and wage and salary disbursements deflated by the consumer price index (U.S. city average). The trend for each state’s index is set to the trend of its gross domestic product (GDP), so long-term growth in the state’s index matches long-term growth in its GDP.
+
+A dynamic single-factor model is used to create the state indexes. James Stock and Mark Watson developed the basic model for constructing a coincident index for the U.S. Theodore Crone and Alan Clayton-Matthews adapted the basic model for the states. The method involves a system of five major equations: one equation for each input variable and one equation for an underlying (latent) factor that is reflected in each of the indicator (input) variables. The underlying factor represents the state coincident index. The model and the input variables are consistent across the 50 states, so the state indexes are comparable to one another.
+
+Data Sources & Methodology
+
+Nonfarm payroll employment, the unemployment rate, average hours worked in manufacturing, and the consumer price index are obtained from the Bureau of Labor Statistics. Wages and salary disbursements (a component of personal income) and gross domestic product by state are obtained from the Bureau of Economic Analysis.
+
+Historical maps: Available from January 2005.
+
+Changes to Methodology: Describes changes to the creation of the state coincident index. (Last update: April 3, 2018)
+
+Describes changes to the creation of the state coincident index. Errata: Shows corrections to the historical data (Last update: May 23, 2018)
+
+References

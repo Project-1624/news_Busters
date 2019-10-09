@@ -1,0 +1,104 @@
+PLOS ONE: The number of undocumented immigrants in the United States: Estimates based on demographic modeling with data from 1990 to 2016
+On September 21, 2018, the journal PLOS ONE published an article by Mohammad M. Fazel-Zarandi, Jonathan S. Feinstein, and Edward H. Kaplan, “The number of undocumented immigrants in the United States: Estimates based on demographic modeling with data from 1990 to 2016” [hereinafter “the Yale study”]. The article concluded that 22 million undocumented residents live in the United States, about twice the 11 million figure often reported. This paper provides irrefutable demographic evidence that the 22 million figure is overestimated by at least 11 million. It then describes three primary sources of error that contributed to this gross overestimate. This evaluation focuses on the 1990 to 2000 period because most of the Yale study’s overestimate of the population occurred in that period. It concludes that:
+
+
+
+• The study’s estimate of undocumented population growth from Mexico from 1990 to 2000 is about 11 million too high, for the reasons described below. This accounts for the entire difference between the study’s estimate and the current estimates of 11 million.
+
+• The apprehension rates used to estimate inflow in the 1990s are purely speculative; they are not based on empirical data.
+
+• Even if apprehension rates had been available for the 1990s, additions to the population would have been overestimated because apprehensions include undocumented migrants returning to their residence the United States after visits to Mexico.
+
+• Having added too many to the population, the authors used inappropriate rates of emigration, thus underestimating the number of departures while exaggerating population growth.
+
+
+
+Analysis
+
+
+
+The Yale study added 11 million Mexican immigrants to the US undocumented population who neither emigrated from Mexico nor immigrated to the United States.
+
+
+
+This section demonstrates that the study’s estimate of undocumented population growth from Mexico from 1990 to 2000 is about 11 million too high. The Center for Migration Studies (CMS) replicated the estimation model as closely as possible using the limited data and assumptions available in the study. Our simulation derived separate annual estimates for Mexico and nations other than Mexico. The model estimated an increase of 17.5 million in the US undocumented population from Mexico in the 1990s. To determine whether this reported surge could have occurred, we relied on statistics for Mexico published by the National Institute of Statistics and Geography (INEGI) of Mexico and on data collected in the 2000 US census.
+
+
+
+To test the plausibility of the 17.5 million figure, we examined data on population change in Mexico from 1990 to 2000. The population of Mexico was 86.1 million in 1990, and there were 27.6 million births and 4.3 million deaths from 1990 to 1999. If there had been no international migration during the decade, the population in 2000 would have been 109.4 million. Instead, the population in 2000 was 103.9, indicating a net emigration of 5.5 million from Mexico during the 1990s. In other words, 17.5 million could not have moved from Mexico to the United States in the 1990s because they were not “missing” from Mexico in 2000.
+
+
+
+The 2000 US census provides support for the figure of 5.5 million emigrants from Mexico in the 1990s. The census counted 4.5 million from Mexico that entered from 1990 to 2000.
+
+
+
+The statistics described here – Mexican population and vital statistics data, along with US census data – provide strong evidence that emigration from Mexico to the United States was very likely in the 4.5 to 6.5 million range in the 1990s. Thus, the estimate of 17.5 million indicated by the Yale study is not plausible; in fact, it overestimates the population by about 11 million. No reasonable assumptions of error in any of the population or vital statistics data for Mexico would change the estimate of 5.5 million emigrants by more than a million or so.
+
+
+
+The next question is: How could the model the authors used in this study overestimate undocumented immigration from Mexico in the 1990s so badly? The answer is apparent in the following three sections.
+
+
+
+The apprehension rates used by the study to estimate illegal border crossings in the 1990s are purely speculative: they are not based on any empirical data.
+
+
+
+Annual statistics are available for 2005 to 2015 for border apprehensions, repeat apprehensions, and the deterrence rate. However, the annual numbers of apprehensions are the only data available for the period before 2005. Thus, as the authors state, “For earlier years (1990 to 2004), we must make…assumptions” about how many arrived. The authors justify their choice of apprehension rates for the 1990s by reference to “most experts,” “the general view that apprehension rates have risen” [in recent years], and the claim that rates used in the study are “above the average rates.” Yet they concede that “there is much uncertainty about the border apprehension rate” used for the 1990 to 2004 period. In short, the study had no statistical basis for determining how many “got away,” that is, how many actually entered across the border in the 1990s.
+
+
+
+Even if apprehension rates had been available for the 1990s, the study would have overestimated this population because it conflates apprehensions with population change; it fails to account for the undocumented migrants – who are apprehended multiple times – returning to their residence in the United States after visits to Mexico.
+
+
+
+The Yale study’s model used apprehension data to estimate how many migrants evaded the Border Patrol and entered the United States. Some were caught, others entered; the population estimate increases as apprehensions increase. But demographers know the process is much more complicated than that. For example, consider the hundreds of thousands of undocumented farm workers that migrated back and forth each year in the 1990s. Many of them followed the same pattern from year to year: They returned to Mexico in the fall, spent the holidays with their families, returned in the spring, endured two apprehensions on average, and, finally, arrived back home in the United States. For each of these migrants, border officials made two apprehensions, but the increase to the US undocumented population was zero. Over the decade, millions of apprehensions were of undocumented migrants, and not just agricultural workers, returning to their home in the United States. These apprehensions do not represent additions to the undocumented population. The study erroneously assumes they were additions, thus overestimating the US undocumented population.
+
+
+
+The study also used inappropriate rates of emigration, underestimating the number of departures from the United States and, thus, further exaggerating US undocumented population growth.
+
+
+
+Next, we examine “losses” to the undocumented population. In addition to deportations, adjustments of status, and mortality, which can be estimated with reasonable precision, the model requires voluntary emigration rates for the undocumented population. In other words, the model needs a mechanism – referred to here as the voluntary emigration rate – for removing people from the population as they return home.
+
+
+
+In this study, the authors used three voluntary emigration rates, based on the length of time spent in the United States: one year, two to 10 years and 10 years or more. The authors noted, correctly, that “the first-year rate is the most critical for our analysis.”
+
+
+
+Incredibly, the one-year emigration rate used in this model was the “first-year visa overstay exit rate” derived by the Department of Homeland Security (DHS) in 2016. Even non-demographers should recognize that the emigration rate of overstays – persons who enter legally and overstay their temporary visas – in 2016 bears absolutely no relationship to the departure of temporary migrants who illegally crossed the southern border in the 1990s.
+
+
+
+Clearly, the one-year emigration rate used in the model was inappropriate; we also know that it was too low because, as shown above, the study overestimated population growth in the 1990s by about 11 million. In short, the population grew too fast in the 1990s because estimated departures were too low. The study might have used a higher one-year emigration rate if its authors had been aware of the CMS evaluation of the DHS estimates of overstays for 2016. The DHS estimates were shown to be too high by hundreds of thousands. Taking that into account would have raised the study’s one-year emigration rate. That, in turn, would have reduced the error in their estimates, possibly by millions. However, even if the authors had known about and adjusted for the errors in the DHS overstay rate, that rate still would not have been appropriate for estimating the departure of short-term migrants in the 1990s.
+
+
+
+Discussion
+
+
+
+The Yale study states a demographic truism, “the population size at a future date equals the starting value plus the cumulative inflows minus the cumulative outflows.” We have shown that the study’s estimates of cumulative inflows are far too high and their estimates of cumulative outflows are far too low; we have also identified the primary reasons for those errors.
+
+
+
+The authors also state, “We ran 1,000,000 trials simulating the model.” Since the study’s publication, the authors have faulted its many critics for not understanding “how mathematical modeling works.” In fact, it would be more accurate to say that the statistical basis for the Yale study is so woefully inadequate that its model produced the wrong answer a million times.
+
+
+
+The information cited in this evaluation was readily available to the authors of the study, and due diligence required that they conduct plausibility tests prior to publication of their paper. In fact, it is clear that the peer review process itself failed in this case.
+
+
+
+The authors have argued that the Census Bureau has far more dramatically undercounted the US undocumented population than academics, researchers, demographers, or government officials have ever recognized. As one author explained, the undocumented are “people who don’t want to be found and don’t want to cooperate.” This is inaccurate. In fact, they do not want to be deported or to run afoul of the government in ways that might bring negative attention to them – ignoring a Census Bureau survey or the decennial census would do that.
+
+
+
+Finally, the authors have remarkably claimed that their study – which has been lauded by hate groups and the extremist media – could help make the progressive case for reform. Congress has failed to pass broad reform of the US immigration system for nearly 40 years. Even the most modest of legalization programs – like offering a path to citizenship for undocumented persons brought to the United States as children – has proven a stumbling point and faced opposition for allegedly rewarding illegality. In these circumstances, it is extremely naïve to believe a study proclaiming the undocumented population to be twice as high as any credible study previously concluded would somehow break the legislative logjam and create momentum for necessary reforms.
+
+
+
+More to the point, the Yale study will make evidence-based reform even more difficult. The 22 million estimate will be cited uncritically by some news outlets that fail to assess the validity of the numbers and will be used by others for ideological purposes, making an appropriate resolution to this challenge even more elusive.

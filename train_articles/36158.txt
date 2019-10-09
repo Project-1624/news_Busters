@@ -1,0 +1,6 @@
+U.S. Energy Information Administration (EIA)
+Real Prices Viewer
+
+Real Petroleum Prices are computed by dividing the nominal price in a given month by the ratio of the Consumer Price Index (CPI) in that month to the CPI in some "base" period. The Real Petroleum Prices spreadsheet and charts are updated every month so that the current month is the base period in the monthly price series. Consequently, all real prices are expressed in "current" dollars and any current month price may be compared directly with any past or projected real prices.
+
+Download all real and nominal price series to an Excel Spreadsheet (Excel xlsx file)

@@ -1,0 +1,151 @@
+0915 blspftexas
+
+Emails, Cheryl Abbot, regional economist, chief, Economic Analysis & Information, Bureau of Labor Statistics, Dallas, Sept. 17, 21 and 22-23, 2015
+
+3:09 p.m.
+
+Sept. 17, 2015
+
+Here is a worksheet showing 10 years of data for employment and average weekly wages for three categories of jobs in Travis county: Total; Private Industry; and Local Government. Please note that ‘local government’ includes all local jurisdictions, and not just city government. So this would have jobs from ISD’s, other city governments, law enforcement, etc. I’ve include the number of employees in this category so you could compare it compare to ‘city government’ employment.
+
+This information is from the Quarterly Census of Employment and Wages (QCEW), a near-census of administrative records. As such, it has nothing to do with ‘household residents,’ and is entirely a jobs-based series.
+
+Cheryl
+
+Cheryl Abbot
+
+Regional Economist
+
+Chief, Economic Analysis & Information
+
+U.S. Bureau of Labor Statistics
+
+Dallas, TX
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Monday, September 21, 2015 3:40 PM
+
+To: Abbot, Cheryl - BLS
+
+Cc: BLSinfoDALLAS
+
+Subject: RE: New note
+
+How would I best gauge from this data pay raises for each of the past few years?
+
+g.
+
+From: Abbot, Cheryl - BLS [mailto:Abbot.Cheryl@bls.gov]
+
+Sent: Monday, September 21, 2015 8:07 PM
+
+To: Selby, Gardner (CMG-Austin)
+
+Cc: BLSinfoDALLAS
+
+Subject: RE: New note
+
+...I need to know specifically whose pay raises are you looking for in this worksheet?
+
+Also, I’m sure you noticed the volatility in this series, particularly if you look at 4th Qtr to 4th Qtr (or any other quarter-to-quarter for that matter). The main reason for that has to do with the ‘total wage’ coverage in this Program – the fact that all bonuses are included in the quarter they are paid can make for a volatile series in counties where a lot of bonuses area paid (or just few bonuses, but big ones). So I’d recommend that you use the Annual Averages regardless of the group you want to look at. I won’t make you read the whole Tech Note on this program, but I’ve pasted some highlights below.
+
+Included in the quarterly wage data are non-wage cash payments such as bonuses, the cash value of meals and lodging when supplied, tips and other gratuities, and, in some states, employer contributions to certain deferred compensation plans such as 401(k) plans and stock options. Over-the-year comparisons of average weekly wages may reflect fluctuations in average monthly employment and/or total quarterly wages between the current quarter and prior year levels.
+
+Average weekly wages are affected by the ratio of full-time to part-time workers as well as the number of individuals in high-paying and low-paying occupations and the incidence of pay periods within a quarter. For instance, the average weekly wage of the workforce could increase significantly when there is a large decline in the number of employees that had been receiving below-average wages.... When comparing average weekly wage levels between industries, states, or quarters, these factors should be taken into consideration. Wages measured by QCEW may be subject to periodic and sometimes large fluctuations. This variability may be due to calendar effects resulting from some quarters having more pay dates than others. The effect is most visible in counties with a dominant employer. In particular, this effect has been observed in counties where government employers represent a large fraction of overall employment. Similar calendar effects can result from private sector pay practices. However, these effects are typically less pronounced for two reasons: employment is less concentrated in a single private employer, and private employers use a variety of pay period types (weekly, biweekly, semimonthly, monthly).
+
+I don’t know if you’re trying to do something with government wages, but if you are, you should read the example below. (BTW, I don’t know what the pay schedules are for state and local employers.)
+
+For example, the effect on over-the-year pay comparisons can be pronounced in federal government due to the uniform nature of federal payroll processing. Most federal employees are paid on a biweekly pay schedule. As a result, in some quarters federal wages include six pay dates, while in other quarters there are seven pay dates. Over-the-year comparisons of average weekly wages may also reflect this calendar effect. Growth in average weekly wages may be attributed, in part, to a comparison of quarterly wages for the current year, which include seven pay dates, with year-ago wages that reflect only six pay dates. An opposite effect will occur when wages in the current quarter reflecting six pay dates are compared with year-ago wages for a quarter including seven pay dates.
+
+This last paragraph is less of an issue if you’re looking at a broad groups like total covered or total private, but it can be an issue if you’re looking at some particular industry.
+
+QCEW data are not designed as a time series. QCEW data are simply the sums of individual establishment records and reflect the number of establishments that exist in a county or industry at a point in time. Establishments can move in or out of a county or industry for a number of reasons—some reflecting economic events, others reflecting administrative changes. For example, economic change would come from a firm relocating into the county; administrative change would come from a company correcting its county designation.
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Tuesday, September 22, 2015 2:22 PM
+
+To: Abbot, Cheryl - BLS
+
+Cc: BLSinfoDALLAS
+
+Subject: Following up
+
+We are focused on a claim that Austin workers outside of city employees have not been getting 3 percent raises the past few years. Anything that sheds light on this would help.
+
+Part of our inquiry centers on OES data cited by the person we’re checking. But I see the bureau advises against using these figures to compare information from different years. The bureau’s explanation appears in question F. 1. here. If we’re looking at changes in wages for workers at the median salary for the Austin MSA for 2012 through 2014, does the bureau’s guidance apply to that just as strongly as to longer-term comparisons? Why or why not?
+
+I hope to complete this fact check Wednesday.
+
+THANKS.
+
+g.
+
+5:01 p.m.
+
+Sept. 22, 2015
+
+Although all my previous caveats apply, I’d still recommend the QCEW program. However, I’d look at the Austin MSA rather than Travis County alone, and use total private industry average weekly wages. This QCEW measure is as close as the Bureau can come to ‘average annual pay raises for Austin workers, ‘excluding city employees.’ Please note that the attached QCEW data actually exclude all government workers (federal, state, county, and city), but they are for the MSA rather than a single county as previously provided. I suggest use of the QCEW series over the OES data because of the greater establishment coverage in the QCEW. The OES is a survey of employers, whereas, the Quarterly Census of Employment and Wages (QCEW) is a near census of establishments that report to the Unemployment Insurance (UI) programs of the United States. Employment covered by these UI programs represents about 97% of all wage and salary civilian employment in the country. Also, to be clear, neither the Occupational Employment Statistics (OES) nor the Quarterly Census of Employment and Wages (QCEW) data are intended for use as a time series. However, at the ‘top-side’ levels you are reviewing, changes in occupational and industry coverage or geographic definitions and locations, is less worrisome.
+
+Cheryl Abbot
+
+Regional Economist
+
+Chief, Economic Analysis & Information
+
+U.S. Bureau of Labor Statistics
+
+Dallas, TX
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Tuesday, September 22, 2015 7:39 PM
+
+To: Abbot, Cheryl - BLS
+
+Cc: BLSinfoDALLAS
+
+Subject: Fresh follow-up
+
+Any reason not to rely on CES data to address this topic? Beverly Kerr of the Austin Chamber of Commerce told us the BLS CES private industry wage data for the Austin MSA is available since 2007, giving us annual percent change for 2008-2014. Over those 7 years, annual increases range from 1.3% to 4.8%, averaging 2.2% annually.
+
+Meantime, it’s been pointed out to us how much salary figures vary based on the data source. I am pasting what Joe Petronis, chief of staff to Austin City Council Member Don Zimmerman, sent to me. Guidance?
+
+I find it interesting that the BLS has different Data Sets: QCEW vs OES. One quick observation, the average annual wage numbers are very different between the 2 data sets:
+
+Year OES - A_MEAN QCEW - Travis QCEW - MSA 2014 $ 48,150 $ 54,184 $ 57,239 2013 $ 47,900 $ 52,286 $ 55,029 2012 $ 47,080 $ 51,987 $ 54,431 2011 $ 47,340 $ 50,505 $ 52,832 2010 $ 46,130 $ 48,919 $ 52,143 2009 $ 45,180 $ 47,450 $ 50,141
+
+Thanks again.
+
+g.
+
+8:29 p.m.
+
+CES is also a perfectly valid choice and has been in continuous production since 2007. The survey scope, coverage, and intent of the various BLS wage programs actually do differ. If you asked for detailed industry earnings (i.e., machinery and parts manufacturing) for a locality, our only option would be QCEW. If you asked for detailed occupational earnings (i.e. secretary) for a locality, our only option would be OES. The CES program produces average hourly (and weekly) earnings for total private industry workers for MSAs, but has no further industry detail below total private at the MSA level. I’ve attached another worksheet here showing CES earnings data for Austin. The CES data are also survey based and are subject to revision in the spring of each year.
+
+Cheryl
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Tuesday, September 22, 2015 8:35 PM
+
+To: Abbot, Cheryl - BLS
+
+Subject: RE: Fresh follow-up
+
+Thanks. What should we make of wide variations in the salary figures?
+
+10:16 a.m.
+
+Sept. 23, 2015
+
+They measure different things, cover different groups, and some are revised and some not. And to add more to the discussion, we actually have another program, the Employment Cost Index (ECI), which is a principal Federal economic indicator, and one of the Fed’s preferred measures of wage and benefit changes – at the national level. If you’re really interested in looking at some of the detailed program differences, try this article from 2005.
+
+Cheryl
+
+12:26 p.m.
+
+BLS produces medians wages only in the OES program (pay by detailed occupation). The QCEW and CES programs only produce mean (average) earnings.
+
+Cheryl

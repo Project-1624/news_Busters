@@ -1,0 +1,152 @@
+Union of Concerned Scientists
+The electricity grid is a complex system in which power supply and demand must be equal at any given moment. Constant adjustments to the supply are needed for predictable changes in demand, such as the daily patterns of human activity, as well as unexpected changes from equipment overloads and storms. Energy storage plays an important role in this balancing act and helps to create a more flexible and reliable grid system.
+
+Energy storage technologies can help smooth out the electricity supply from variable energy sources like wind and solar power. Photo: germanborillo/Flickr
+
+For example, when there is more supply than demand, such as during the night when low-cost power plants continue to operate, the excess electricity generation can be used to power storage devices. When demand is greater than supply, storage facilities can discharge their stored energy to the grid.
+
+Pumping water back behind hydroelectric dams has been used for decades as a form of storage that absorbs excess capacity from the grid and returns capacity to the grid later when it is needed. In the future, as more storage technology options emerge and the United States transitions to a cleaner energy economy, energy storage is poised to play an even greater role.
+
+The benefits of energy storage
+
+Because some renewable energy technologies – such as wind and solar – have variable outputs, storage technologies have great potential for smoothing out the electricity supply from these sources and ensuring that the supply of generation matches the demand.
+
+Energy storage can play an important role in creating a more flexible and reliable electricity system. Photo: Dennis Forgione/Flickr
+
+Energy storage is also valued for its rapid response – most storage technologies can begin discharging power to the grid very quickly, while fossil fuel sources tend to take longer to ramp up. This rapid response is important for ensuring stability of the grid when unexpected increases in demand occur.
+
+Energy storage also becomes more important the farther you are from the electrical grid. For example, when you turn on the lights in your home, the power comes from the grid; but when you turn on a flashlight while camping, you must rely on the stored energy in the batteries. Similarly, homes that are farther away from the transmission grid are more vulnerable to disruption than homes in large metropolitan areas. Islands and microgrids that are disconnected from the larger electrical grid system depend on energy storage to ensure power stability, just like you depend on the batteries in your flashlight while camping.
+
+Current U.S. energy storage capacity
+
+The U.S. has about 23 gigawatts (GW) of storage capacity, approximately equal to the capacity of 38 typical coal plants [1].
+
+Pumped hydroelectric storage accounts for about 96 percent of this total storage capacity [2], most of which was built in the 1960s and 1970s to accompany the new fleet of nuclear power plants. Because nuclear power plants are not designed to ramp up or down, their generation is constant at all times of the day. When demand for electricity is low at night, pumped hydro facilities store the energy from nuclear plants for later use during peak demand. These pumped hydro plants have proven valuable for quickly adjusting to small changes in demand or supply.
+
+Seneca Pumped Hydro Generating Station in northwest Pennsylvania. Water is pumped to the reservoir in the upper left during periods of low electricity demand, then released to generate electricity during periods of higher demand. Photo: U.S. Army Corps of Engineers
+
+Emerging storage facilities will allow us to store energy generated from wind and solar resources on shorter time frames to smooth variability, and on longer cycles to replace ever more fossil fuel. By charging storage facilities with energy generated from renewable sources, we can reduce our greenhouse gas emissions and our dependence on fossil fuels.
+
+While the U.S. electric grid does not necessarily need more storage now, storage capacity will become more important as wind, solar, and other variable renewable energy resources expand in the power mix. Studies have shown that the existing grid can accommodate a sizeable increase in variable generation [3], but there are many exciting technologies in development that could help us store energy in the future and support an even greater amount of renewable energy on the grid.
+
+Energy storage technologies
+
+Different energy storage technologies contribute to electricity stability by working at various stages of the grid, from generation to consumer end-use.
+
+Thermal Storage
+
+Thermal storage is used for electricity generation by using power from the sun, even when the sun is not shining. Concentrating solar plants can capture heat from the sun and store the energy in water, molten salts, or other fluids. This stored energy is later used to generate electricity, enabling the use of solar energy even after sunset.
+
+Plants like these are currently operating or proposed in California, Arizona, and Nevada [4]. For example, the proposed Rice Solar Energy Project in Blythe, California will use a molten salt storage system with a concentrating solar tower to provide power for approximately 68,000 homes each year [5].
+
+Concentrating solar plants focus the sun's heat to store energy in water, molten salts, or other fluids, which can be utilized even after the sun has set. Photo: NASA
+
+Thermal storage technologies also exist for end-use energy storage. One method is freezing water at night using off-peak electricity, then releasing the stored cold energy from the ice to help with air conditioning during the day [6].
+
+For example, Ice Energy’s Ice Bear system creates a block of ice at night, and then uses the ice during the day to condense the air conditioning system’s refrigerant [7]. In this way, the Ice Bear system shifts the building’s electricity consumption from the daytime peak to off-peak times when the electricity is less expensive. Additionally, the Bonneville Power Administration is conducting a pilot program on storing excess wind generation in residential water heaters [8].
+
+Compressed Air
+
+Compressed Air Energy Storage (CAES) also works as a generation storage technology by using the elastic potential energy of compressed air to improve the efficiencies of conventional gas turbines.
+
+CAES systems compress air using electricity during off-peak times, and then store the air in underground caverns. During times of peak demand, the air is drawn from storage and fired with natural gas in a combustion turbine to generate electricity [9]. This method uses only a third of the natural gas used in conventional methods [10]. Because CAES plants require some sort of underground reservoir, they are limited by their locations. Two commercial CAES plants currently operate in Huntorf, Germany and MacIntosh, Alabama, though plants have been proposed in other parts of the United States.
+
+Hydrogen
+
+Hydrogen can be used as a zero-carbon fuel for generation. Excess electricity can be used to create hydrogen, which can be stored and used later in fuel cells, engines, or gas turbines to generate electricity without producing harmful emissions [11]. NREL has studied the potential for creating hydrogen from wind power and storing it in the wind turbine towers for electricity generation when the wind isn’t blowing [12].
+
+The Wind to Hydrogen Project at NREL studies the storage of wind energy as hydrogen. Photo: NREL
+
+Pumped Hydroelectric Storage
+
+Pumped hydroelectric storage offers a way to store energy at the grid’s transmission stage, by storing excess generation for later use.
+
+Many hydroelectric power plants include two reservoirs at different elevations. These plants store energy by pumping water into the upper reservoir when supply exceeds demand. When demand exceeds supply, the water is released into the lower reservoir by running downhill through turbines to generate electricity.
+
+With more than 22 GW of installed capacity in the United States, pumped hydro storage is the largest storage system operating today [13]. However, the long permitting process and high cost of pumped storage makes further projects unlikely.
+
+Flywheels
+
+Flywheels can provide a variety of benefits to the grid at either the transmission or distribution level, by storing electricity in the form of a spinning mass.
+
+The device is shaped liked a cylinder and contains a large rotor inside a vacuum. When the flywheel draws power from the grid, the rotor accelerates to very high speeds, storing the electricity as rotational energy. To discharge the stored energy, the rotor switches to generation mode, slows down, and runs on inertial energy, thus returning electricity to the grid [14].
+
+A flywheel rotor, pictured here, is spun at high speed to store electricity as rotational energy. Photo: Wikimedia Commons
+
+Flywheels typically have long lifetimes and require little maintenance. The devices also have high efficiencies and rapid response times. Because they can be placed almost anywhere, flywheels can be located close to the consumers and store electricity for distribution.
+
+While a single flywheel device has a typical capacity on the order of kilowatts, many flywheels can be connected in a “flywheel farm” to create a storage facility on the order of megawatts [15]. Beacon Power’s Stephentown Flywheel Energy Storage Plant in New York is the largest flywheel facility in the United States, with an operating capacity of 20 MW [16].
+
+Batteries
+
+Batteries, like those in a flashlight or cell phone, can also be used to store energy on a large scale.
+
+Like flywheels, batteries can be located anywhere so they are often seen as storage for distribution, when a battery facility is located near consumers to provide power stability; or end-use, like batteries in electric vehicles.
+
+Batteries can be located in communities to provide power stability for homes. Photo: Green Energy Futures/Flickr
+
+There are many different types of batteries that have large-scale energy storage potential, including sodium-sulfur, metal air, lithium ion, and lead-acid batteries. There are several battery installations at wind farms; including the Notrees Wind Storage Demonstration Project in Texas, which uses a 36 MW battery facility to help ensure stability of the power supply even when the wind isn’t blowing [17].
+
+Advancements in battery technologies have been made largely due to the expanding electric vehicle (EV) industry. As more developments are made with EVs, battery cost should continue to decline [18]. Electric vehicles could also have an impact on energy storage through vehicle-to-grid technologies, in which their batteries can be connected to the grid and discharge power for others to use.
+
+The future of energy storage
+
+As new energy storage technologies are researched and tested, some barriers are likely to slow the commercialization of these technologies.
+
+Energy storage is expensive, especially without policies that place a monetary value on the unique benefits of storage. Plus there is no current need for additional storage capacity to maintain electricity grid reliability. Without an operational need, it is difficult for storage to be cost-effective in the present [19]. Furthermore, storage lacks a robust track record of large commercial-scale projects (with the exception of pumped hydro), making it difficult to deploy new projects.
+
+Despite these potential barriers, certain programs and policies can help drive the development and deployment of storage technologies. The Department of Energy’s Energy Storage Program researches different storage technologies and works closely with industry on pilot storage programs [20].
+
+Research programs can help advance the deployment and commercialization of energy storage. Photo: Argonne National Laboratory/Flickr
+
+The deployment of storage technologies can also be advanced through renewable electricity standards (RES). Some states recognize storage technologies as acceptable renewable generation in their RES, and other states award Renewable Energy Credits (REC) to energy generation from storage devices that were charged by renewables [21].
+
+The Federal Energy Regulatory Commission (FERC), the agency that regulates the electricity grid, has created a pricing structure that pays storage technologies and other fast-ramping resources a higher price for their services. This pricing structure, called Pay-for-Performance, recognizes the value of rapid response in providing stability to the grid. Pay-for-Performance has the potential to make storage technologies more cost-effective on a commercial-scale. An investment tax credit (ITC) would also help accelerate the deployment of storage technologies.
+
+With the support of government and industry, energy storage technologies can continue to develop and expand, aid in the increasing deployment of variable renewable energy sources, and help store an ever-growing amount of clean, renewable energy in the future.
+
+Learn more:
+
+References:
+
+[1] Assumes typical coal plant capacity of 600 MW.
+
+[2] Electricity Advisory Committee. 2011. Energy storage activities in the United States electricity grid. Online at http://energy.gov/sites/prod/files/oeprod/DocumentsandMedia/FINAL_DOE_Report-Storage_Activities_5-1-11.pdf.
+
+[3] Denholm, P. et al. 2010. The role of energy storage with renewable electricity generation. National Renewable Electricity Laboratory. Online at http://www.nrel.gov/docs/fy10osti/47187.pdf.
+
+[4] Union of Concerned Scientists. 2013. Ramping up renewables: Energy you can count on. Online at http://www.ucsusa.org/assets/documents/clean_energy/Ramping-Up-Renewables-Energy-You-Can-Count-On.pdf.
+
+[5] SolarReserve. “Rice.” Online at http://www.solarreserve.com/what-we-do/csp-projects/rice-army-airfield/.
+
+[6] Denholm, P. et al. 2010. The role of energy storage with renewable electricity generation. National Renewable Electricity Laboratory. Online at http://www.nrel.gov/docs/fy10osti/47187.pdf.
+
+[7] Ice Energy. “Ice Bear Energy Storage System.” Online at http://www.ice-energy.com/ice-bear-energy-storage-system.
+
+[8] Union of Concerned Scientists. 2013. Ramping up renewables: Energy you can count on. Online at http://www.ucsusa.org/assets/documents/clean_energy/Ramping-Up-Renewables-Energy-You-Can-Count-On.pdf.
+
+[9] Ibid.
+
+[10] Electricity Storage Association. 2013. Online at: http://www.electricitystorage.org/
+
+[11] Union of Concerned Scientists. 2013. Ramping up renewables: Energy you can count on. Online at http://www.ucsusa.org/assets/documents/clean_energy/Ramping-Up-Renewables-Energy-You-Can-Count-On.pdf.
+
+[12] Kottenstette, R., and J. Cottrell. 2003. Hydrogen storage in wind turbine towers. NREL/TP-500-34656. Golden, CO: National Renewable Energy Laboratory. Online at http://www.nrel.gov/docs/fy03osti/34656.pdf.
+
+[13] Union of Concerned Scientists. 2013. Ramping up renewables: Energy you can count on. Online at http://www.ucsusa.org/assets/documents/clean_energy/Ramping-Up-Renewables-Energy-You-Can-Count-On.pdf.
+
+[14] Beacon Power. 2013. Online at: http://www.beaconpower.com/
+
+[15] Electricity Storage Association. 2013. Online at: http://www.electricitystorage.org/
+
+[16] Beacon Power. 2013. Online at: http://www.beaconpower.com/
+
+[17] Gyuk, Imre. 2013. Smoothing renewable wind energy in Texas. Department of Energy. Online at: http://energy.gov/articles/smoothing-renewable-wind-energy-texas
+
+[18] Electric Power Research Institute. 2010. Electric energy storage technology options: a primer on applications, costs & benefits. Online at: http://energystorage.org/resources/electricity-energy-storage-technology-options-primer-applications-costs-and-benefits-0
+
+[19] Denholm, P. et al. 2010. The role of energy storage with renewable electricity generation. National Renewable Electricity Laboratory. Online at http://www.nrel.gov/docs/fy10osti/47187.pdf.
+
+[20] http://energy.gov/oe/technology-development/energy-storage
+
+[21] DSIRE: Database of State Incentives for Renewables & Efficiency. 2013. Online at: http://www.dsireusa.org/

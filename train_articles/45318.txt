@@ -1,0 +1,52 @@
+New Study, Same Old . . . Tricks: Coal Industry Uses Bogus Accounting to Exaggerate Clean Power Plan Costs
+This post was written in collaboration with my colleagues, Kevin Steinberger and Amanda Levin.
+
+America's biggest polluters are behind another bogus study by NERA Economic Consulting that purports to show EPA's Clean Power Plan will be a costly economic disaster. In performing the study, titled, "Energy and Consumer Impacts of EPA's Clean Power Plan," for the American Coalition for Clean Coal Electricity (ACCCE), NERA reaches back into its old bag of tricks: ignoring the economic benefits of pollution reductions, overstating the costs of clean energy resources, and comparing cumulative costs to EPA's annualized costs. In addition, NERA commits a severe accounting error by inappropriately counting allowance costs. As we've seen in the past, once these errors are corrected, NERA's latest study only underscores that the costs of the Clean Power Plan are modest, and its benefits significantly outweigh the costs.
+
+We'll first examine the most egregious error in this report - NERA's faulty accounting for allowance costs - and then look at the further ways NERA biases its findings.
+
+NERA cooks the books with allowance costs
+
+NERA modeled three Clean Power Plan compliance cases: two mass-based cases and one rate-based case (for more on these compliance pathways see our explanation here). NERA claims that energy sector expenditures under the mass-based options would be $18 to $24 billion higher annually than without the standards ($220 billion to $292 billion cumulatively over 12 years).
+
+The NERA report grossly overstates those costs by erroneously including allowance costs in its calculation of energy sector expenditures. Allowance trading is just a form of efficiently reducing emissions - they represent a transfer payment within the electric system, not an additional resource cost. Including allowance costs in its total expenditures is just plain bad accounting and ignores basic economic and energy market principles. Under a mass-based program, electricity generators are required to hold an allowance for every ton of pollution emitted. Generators are required to include the cost of the allowances in their energy bids into the wholesale market. This ensures that the energy bids include both the private costs and a proxy for the social costs - such as public health and climate costs - of producing energy from dirty plants. Under different allocation options, either customers or clean energy providers then receive the value of the allowances - which offset the cost of allowances. NERA mistakenly adds the allowance costs to the energy sector expenditures - mixing up resource costs and transfer payments - resulting in dramatically inflated compliance costs.
+
+The Congressional Research Service (CRS) weighed in with one rationale explaining why allowance values should not be accounted for as added costs of a program by comparing costs under a command-and-control regulation where generators are required to directly reduce emissions to costs under a market-based approach (p.65):
+
+"If one believes that allowance value is really a cost like resources costs are (and not a means to encourage cost-effective compliance strategies), then one should oppose market-based solutions as being more "costly" than a traditional regulatory approach as any inefficiency introduced by the regulatory system would be more than offset by the allowance "cost" introduced by the market-based system."
+
+In other words, unless NERA actually wants to debate the merits of market-based systems over traditional regulatory approaches, it must concede that its accounting approach is flawed.
+
+If we exclude these costs from NERA's calculation in accordance with accepted accounting practices (see Table 1 below), total compliance costs for the Clean Power Plan drop to about $12 billion annually - or $141 billion on a cumulative basis in a mass-based scenario limited to intra-state trading. With regional trading costs would be even lower.
+
+Table 1. Correcting NERA's Allowance Cost Accounting Error
+
+Costs would be lower still if NERA had used more accurate and up-to-date costs for energy efficiency and renewable energy. (see more on this below).
+
+NERA also exaggerates costs by overstating the costs of clean energy
+
+NERA also used outdated cost figures for renewable energy and energy efficiency. These cost estimates are important because they drive the total costs of compliance, and so even small differences in renewable energy and energy efficiency costs can result in large differences in total compliance costs. NERA based its modeling on AEO2015 assumptions. As noted here and here, AEO2015 severely underestimates renewable growth and overestimates costs of new renewable generation. NERA also used the EPA's energy efficiency cost numbers from the final rule when modeling energy efficiency. In its analysis of the final rule, the EPA overstated the cost of energy efficiency by almost twice what has been demonstrated. The EPA acknowledges that its costs are "notably conservative (leading to higher costs) in comparison with most utility and state analysis." If NERA had used cost and performance assumptions for clean energy consistent with the latest industry and government data, it would have shown that compliance with the Clean Power Plan is even more cost effective. NERA conveniently chose to solely rely on the highest-cost tier of EPA's energy efficiency cost assumptions - meaning that NERA's cost assumptions are actually more than triple the cost estimates from LBNL's most recent report. Since the costs of efficiency are a line item in NERA's calculations, we can determine what the costs would have been had they used the most recent data from Lawrence Berkeley National Laboratory. EPA describes the LBNL study as a "uniquely comprehensive study of EE program costs." See Table 2.
+
+With this change, along with the correct approach to accounting for allowance costs, energy sector expenditures between 2022 and 2033would be $41 billion less with the Clean Power Plan than without. In the table below, we have recalculated NERA's total energy sector expenditures, correcting for both NERA's allowance value and energy efficiency cost accounting.
+
+Table 2. Using Updated Energy Efficiency Costs to Correct NERA's Calculations
+
+NERA conflates rates and bills - customers pay bills
+
+NERA also highlights supposed rate impacts while mostly ignoring the energy efficiency savings and large sum of allowance auction revenues being returned to customers. But customers pay bills, not rates, and cutting energy waste can help lower customers' bills. Using NERA's own cost estimates, electricity customer expenditures only increase by 1.7 to 2.0 percent over the 2022-2033 period - a far smaller increase than the large rate impacts in NERA's claims. And, simply by adjusting customers' energy efficiency expenditures as mentioned above, customers' expenditures actually decrease by 0.8 to 1.2 percent over the time period. And that's without adjusting NERA's inflated costs for renewable energy! Tables 3 and 4 walk through these adjustments line by line.
+
+Table 3. Estimating Customer Bills in NERA's Analysis (NRDC calculations)
+
+Table 4. Estimating Customer Bills in NERA's Analysis - Customers spend LESS (NRDC calculations)
+
+Does the promise of lower bills sound too good to be true? It's not - nine states in the Northeast and Mid-Atlantic are already demonstrating that carbon pollution reduction programs can bring along significant economic benefits. A comprehensive analysis of the first six years of the Regional Greenhouse Gas Initiative (RGGI) found that the region has reduced carbon pollution by one-third, while saving consumers $1.5 billion on their utility bills, creating over 22,000 additional jobs, and bringing $2.9 billion in additional economic benefit to the region.
+
+NERA ignores the value of health and climate change benefits
+
+As always, NERA failed to account for the health and climate change benefits from reducing carbon pollution. EPA has estimated that the Clean Power Plan limits would reduce the dangerous carbon pollution coming from America's coal-fired power plants by 32 percent below 2005 levels, resulting in an annual 1,500 to 3,600 avoided premature deaths and 90,000 asthma attacks in children, by 2030. Together, by EPA's estimates, the climate and health benefits of this rule amount to $34 billion to $54 billion per year in 2030.
+
+In NERA's modeling, the power sector would actually achieve greater reductions than the EPA estimates for the Clean Power Plan, reducing emissions by 36 to 37 percent below 2005 levels. The deeper reductions in NERA's modeling would lead to even greater benefits exceeding EPA's estimates. If NERA had shown the benefits side of the ledger, it would have found what many other studies have: the benefits of the Clean Power Plan vastly outweigh its modest costs.
+
+___________________________________
+
+Despite NERA's best efforts the Clean Power Plan still comes out as an economic and environmental boon for electricity customers and the entire U.S. With accurate accounting and cost estimates, even NERA can't hide the fact that achieving the standards set by the nation's first-ever power plant carbon pollution limits will drive huge savings along with health and climate benefits to protect our health and safeguard future generations from the worst effects of climate change.

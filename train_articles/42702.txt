@@ -1,0 +1,78 @@
+Explaining Health Care Reform: Medical Loss Ratio (MLR)
+The Affordable Care Act (ACA) includes several provisions that change the way private health insurance is regulated in an effort to provide better value to consumers and increase transparency. One such provision – the Medical Loss Ratio (or MLR) requirement – limits the portion of premium dollars health insurers may spend on administration, marketing, and profits. Under health care reform, health insurers must publicly report the portion of premium dollars spent on health care and quality improvement and other activities in each state they operate. Insurers failing to meet the applicable MLR standard must pay rebates to consumers beginning in 2012.
+
+MLR Standards under the ACA
+
+Health insurers collect premiums from policyholders and use these funds to pay for enrollees’ health care claims, as well as administer coverage, market products, and earn profits for investors. The Medical Loss Ratio provision of the ACA requires most insurance companies that cover individuals and small businesses to spend at least 80% of their premium income on health care claims and quality improvement, leaving the remaining 20% for administration, marketing, and profit., The MLR threshold is higher for large group plans, which must spend at least 85 percent of premium dollars on health care and quality improvement.
+
+An analysis by the Government Accountability Office (GAO) found that the majority of insurers with credible claims experience would have met or exceeded the ACA’s MLR rebate standard in 2010 if it had been in effect., However, MLR compliance varied substantially by market, with less than half of insurers in the individual market meeting the standard, compared to 70% in the small group market and 77% in the large group market.
+
+
+
+The MLR provision of the ACA applies to all types of licensed health insurers, including commercial health insurers, Blue Cross and Blue Shield plans and health maintenance organizations. The provisions apply to all of an insurer’s underwritten business (i.e. when risk is transferred to the insurer in exchange for premium), including plans that were grandfathered under the ACA. Health insurance provided by an insurer to an association or to members of an association is subject to the MLR provision.
+
+Self-funded plans (i.e. where the employer or other plan sponsor pays the cost of health benefits from its own assets) are not considered insurers and are therefore not subject to the MLR provision. The MLR standard does not apply even when an insurer administers the self-funded plan on behalf of an employer or other sponsor.
+
+Public Reporting of Financial Data and Rebate Information
+
+Beginning in 2011, all health insurers are required to publically report aggregated state-level financial data, including income from premiums and expenditures on health care claims, quality improvement, taxes, licensing, and regulatory fees. Under the ACA, insurers report their MLR based on state-level data, across all of their plans, in each market segment in which they operate (i.e., individual, small group, and large group).
+
+
+
+If an insurer fails to meet the MLR standard and is required to issue a refund, it must notify enrollees of any rebates they will receive and how the rebate will be administered. HHS is considering amending the MLR rule in such a way that would require all insurers — regardless of whether a rebate is issued — to notify enrollees of the insurer’s MLR each year and also include information on the prior year’s MLR.
+
+
+
+Calculating the Medical Loss Ratio
+
+Before the health reform law passed, many states had medical loss ratio and other reporting requirements in place, but these varied quite a bit from state to state. Traditionally, MLR is defined as the portion of premium income insurers pay out in the form of health care claims (claims divided by premiums). But under the ACA, insurers can make adjustments for quality improvement activities and expenditures on taxes, licensing and regulatory fees. The figure below illustrates the difference between traditional MLR calculations and the formula under health reform.
+
+Components of the ACA-MLR Equation
+
+Premiums: All premiums earned from policyholders, including those from state and federal high risk pool programs.
+
+Claims: Payments made by insurers for medical care and prescription drugs.
+
+Quality Improvement: To be included in this category, health improvement activities must lead to measurable improvements in patient outcomes or patient safety, prevent hospital readmissions, promote wellness, or enhance health information technology in a way that improves quality, transparency, or outcomes. Provider credentialing is also included as a health care improvement activity under the ACA. However, insurance broker and agent compensation is not considered an expense relating to health improvement under current law, and is therefore counted as an administrative expense in the ACA MLR. The same is true for fraud prevention activities.
+
+
+
+Taxes, Licensing and Regulatory Fees: Includes federal taxes and assessments, state and local taxes, and regulatory licenses and fees. Taxes on investment income and capital gains are not included. Not-for-profit insurers, which are subject to different tax requirements by state, may either deduct state premium taxes or community benefit expenditures (up to a maximum of the highest state premium tax in their state), whichever is greater.
+
+
+
+Credibility and Special Circumstances Adjustments
+
+Health insurers with relatively few policies in a market segment may have less predictable claims expenses. The ACA permits insurers with low enrollment to account for this variability by making “credibility” adjustments to their MLRs. MLR adjustments are also allowed for plans with certain special circumstances.
+
+Credibility Adjustments
+
+Credibility adjustments raise an insurer’s MLR, making it easier to meet the threshold. Credibility adjustments are determined by enrollment levels on a state-by-state basis in each market segment. Insurers are grouped into the following categories:
+
+Noncredible: Insurers with fewest enrollees (less than 1,000 life years) are called “noncredible” and are therefore presumed to be in compliance with ACA’s MLR requirements.
+
+Partially Credible: Insurers with moderately low enrollment (1,000 to less than 75,000 life years) are called “partially credible.” These insurers receive an adjustment that increases their MLR (by adding 1.2 to 8.3 percentage points to the reported MLR). Insurers with partially credible experience that have higher average deductibles receive further upward adjustments. This deductible factor adjusts the MLR by increasing the insurer’s credibility adjustment by a multiplier (ranging from 1.0 to 1.736).
+
+For example, an insurer with a reported enrollment of 1,000 life years and an MLR of 71.7% would receive a base credibility adjustment of 8.3 percentage points, bringing its MLR up to 80% (because 71.7% + 8.3% = 80%). If the same insurer had an average deductible of $2,500, its credibility adjustment would be increased by a factor of 1.164, bringing its MLR up to 81.36% (because 71.7% + 8.3% * 1.164 = 81.36%).
+
+Fully Credible: Insurers with 75,000 life years or more are considered “fully credible” and are held to the normal MLR standard (80% for the individual and small group market and 85% for the large group market).
+
+Adjustments for Special Circumstances
+
+Expatriate Plans: Insurance policies sold to Americans working abroad may have higher administrative expenses than other policies and therefore receive an adjustment (by multiplying the numerator of the MLR by 2.0). This means that an expatriate plan with a reported MLR of 40%, for example, would meet the 80% threshold in the small group or individual markets after the adjustment is applied (because 40% * 2 = 80%).
+
+“Mini-Med” Plans: Insurance plans with annual benefit limits of $250,000 or less – which typically have lower MLRs because medical claims are low relative to administrative costs – will receive temporary MLR adjustments for the years leading up to the opening of insurance exchanges in 2014. Mini-Med plans may use a multiplier of 1.75 in 2012, decreasing to 1.5 in the year 2013, and 1.25 in 2014. After 2014, these plans will no longer receive an adjustment as annual limits will no longer be allowed in most plans.
+
+Newer Plans: As new insurance plans tend to have fewer claims in their first year, applying the MLR standard to these plans could create a barrier to entry into the insurance market. The ACA therefore allows a one-year deferral for insurers with a high proportion of new plans (representing at least half of their business in a given state).
+
+State Adjustments to Individual Market MLR Standard
+
+The ACA permits adjustments to the MLR requirements in a state if it is determined by the federal government that the 80% MLR requirement could destabilize the state’s individual insurance market. At the time of this publication, HHS has approved MLR adjustments for seven states (Georgia, Iowa, Kentucky, Maine, Nevada, New Hampshire, and North Carolina) and denied requests from eleven states and territories. MLR adjustments in 2011 ranged from 65% to 75%, phasing up to 65% – 80% in 2012. By 2014, the individual market MLR standard in each state is expected to reach 80%.
+
+Note that under the ACA, states have the flexibility to set higher MLR standards than the federal threshold of 80% in the small group and individual markets or 85% in the large group market.
+
+Consumer Rebates
+
+Beginning in 2012, insurers failing to meet the applicable MLR standard for the prior year must issue rebates to consumers proportionate to the amount in premiums paid by each consumer. As medical loss ratios are calculated using aggregate data, rebates are not based on the experience of an individual enrollee or group. Instead, MLR rebates are based on an insurers’ overall compliance with applicable MLR standards in each state it operates. Over time, rebates will be based on cumulative data over three-year periods. All rebates must be issued to consumers by August 1st of the year following the applicable MLR reporting period (i.e., August 2012 for the 2011 reporting period).
+
+In the case of employer-sponsored insurance plans, the cost of coverage is often split between the employer and employees. Therefore, for many employer-sponsored plans, the handling of refunds to employers and employees may depend on the plan’s contract and the manner in which the policyholder and participants share premium costs. Insurers will be responsible for ensuring that rebates benefit consumers proportionally to the amount they contributed toward premiums. In some cases, rebates may be provided in the form of a discount on premiums instead of a cash rebate. If the amount of the rebate is exceptionally small ($5 for individual rebates and $20 for group rebates), insurers are not required to process the rebate, as it may not warrant the administrative burden required to do so.

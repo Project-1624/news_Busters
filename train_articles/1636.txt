@@ -1,0 +1,46 @@
+Avalere Health : 1.1M to 1.8M New Medicaid Enrollees as a Result of ACA
+These estimates are concentrated in states expanding Medicaid—with expansion states representing roughly three-fourths of total estimated new Medicaid sign ups.
+
+“The data illustrates early upticks in Medicaid enrollment, skewing towards expansion states, as we would expect,” said Caroline Pearson, Vice President of Avalere. “On average, we have seen a 12 percent increase in Medicaid applications compared to the typical rates before ACA, with a higher uptick of 19 percent among expansion states.”
+
+Reports from the Centers for Medicare & Medicaid Services have indicated that at least 6.3M individuals have been determined eligible for Medicaid between October and December 2013. These figures include a number of individuals who would have normally enrolled in Medicaid absent the ACA, including regular program churn and renewals. Avalere developed the estimates through comparing reported data on new enrollments from October through December 2013 to enrollment rates from the summer of 2013.
+
+“Unlike the exchanges, where enrollment is generally closed after March, Medicaid applications are accepted year-round, so enrollees have additional months to enter into the program if eligible,” said Matt Eyles, Executive Vice President at Avalere Health. “If the increased rate of enrollment continues, we could see Medicaid rolls grow substantially throughout 2014.”
+
+Methodology:
+
+For this analysis, Avalere Health utilized data from CMS Medicaid and CHIP enrollment reports and the ASPE exchange enrollment reports. Avalere Health compared the number of new Medicaid and CHIP applications from October through December to the average monthly number of applications submitted from July through September of 2013 (“the control”). We then applied this comparative rate to the total number of determinations, with two sets of assumptions for those assessed/determined by exchanges, which comprise our lower and upper bound estimates outlined below.
+
+For our lower bound estimate, we compared the number of new applications submitted to Medicaid and CHIP agencies from October through December plus assessments/determinations made by exchanges reported by ASPE over the same period to the control to develop the comparison rate (“lower bound comparison rate”). Then, we applied the control to the sum of total Medicaid and CHIP determinations and individuals assessed/determined eligible for Medicaid and CHIP by the marketplace, excluding state-based exchanges to avoid double counting. We applied the lower bound comparison rate to this figure to calculate new determinations.
+
+For our upper bound estimate, we compared the number of new applications submitted to Medicaid and CHIP agencies from October through December to the control to develop the comparison rate (“upper bound comparison rate”). We then removed determinations made by exchanges from the Medicaid and CHIP determinations reported in the CMS report and applied the upper bound comparison rate. Lastly, we added all assessments/determinations for Medicaid and CHIP by exchanges, effectively assuming all determinations made by healthcare.gov result in a determination for a newly-enrolled individual.
+
+Notes:
+
+While Avalere takes steps to remove double counting, it is possible that some double counting is present as exchanges assess eligibility and then refer such cases to state agencies where determinations are made. In addition, in a limited number of cases, states have reported households as opposed to individual applicants, and this is not adjusted for.
+
+For purposes of this analysis, Avalere treats ID as a federal exchange state given IT reliance on healthcare.gov. Further, we use the expansion versus non-expansion state designation in the CMS monthly enrollment report.
+
+The following states did not report control data for applications submitted; thus, we use the average expansion state rate as a proxy: DE, IL, NY, RI, and WA. UT also did not report control data so we use the average non-expansion state rate as a proxy.
+
+The following states do not report Medicaid and CHIP determinations made by exchanges separately as they are processed through the same portal: CO, HI, and MA. Thus, estimates in these states do not treat these populations separately.
+
+MA did not report Medicaid and CHIP determinations in any month. Thus, applications are used as a proxy, which may overstate the estimate for this state.
+
+PA did not report Medicaid and CHIP applications or determinations in the December CMS report. To adjust, Avalere used a 2-month rate calculation for applications and the average of October and November determinations for December.
+
+OH did not report Medicaid and CHIP determinations in the December CMS report. To adjust, Avalere used the average of October and November determinations for December.
+
+WI did not report Medicaid and CHIP determinations in any month. Thus, applications are used as a proxy, which may overstate the estimate for this state.
+
+To read CMS' October Medicaid and CHIP Monthly Applications and Eligibility Determinations Report, click here.
+
+To read CMS' November Medicaid and CHIP Monthly Applications and Eligibility Determinations Report, click here.
+
+To read CMS' December Medicaid and CHIP Monthly Applications and Eligibility Determinations Report, click here.
+
+To read ASPE's Health Insurance Marketplace: January Enrollment Report For the period: October 1, 2013 – December 28, 2013, click here.
+
+For more information about Medicaid enrollment and expansion, contact Jenna Stento at JStento@Avalere.com.
+
+View Avalere's full press release attached.

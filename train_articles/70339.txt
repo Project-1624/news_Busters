@@ -1,0 +1,22 @@
+Medical Expenditure Panel Survey (MEPS)
+Link to MEPS Web Site
+
+The most complete source of data on the cost and use of health care and health insurance coverage in the United States.
+
+MEPS is a set of large-scale surveys of families and individuals and their medical providers, and employers across the United States, conducted annually since 1996.
+
+The MEPS Household Component (MEPS-HC) survey collects information from families and individuals that provides timely, comprehensive information on the health status of Americans, health insurance coverage, and access, use, and cost of health services. Includes information on medical expenditures, conditions, and events; demographics (for example, age, ethnicity, and income); health insurance coverage; access to care; health status; and jobs held. Each surveyed household is interviewed five times over a two-year period.
+
+The MEPS Medical Provider Component (MEPS-MPC) survey collects information from providers of medical care that supplements the information collected from persons in the MEPS-HC sample in order to provide the most accurate cost data possible.
+
+The MEPS Insurance Component (MEPS-IC) survey collects information from employers in the private sector and state and local governments on the health insurance coverage offered to their employees. Includes information on the number and types of private health insurance plans offered, benefits associated with these plans, annual premiums and contributions to premiums by employers and employees, copayments and coinsurance, by various employer characteristics (for example, State, industry and firm size).
+
+Summary Data Tables – Summary estimates based on the data collected by the MEPS surveys. A series of tables are available based on the MEPS-HC survey (incorporating the supplementary MEPS-MPC data). Several of these tables can be customized on line. A separate set of tables is available for the MEPS-IC data.
+
+Publications Search – Search for MEPS publications available on the Web site and reference citations for external MEPS-related articles.
+
+MEPSnet: Interactive Statistical Tool Use the MEPSnet tools to search for or generate specific estimates of interest for either the MEPS-HC or MEPS-IC.
+
+Data Files – For analytical researchers, MEPS-HC data files are available for downloading. Analyzing these files requires the use of statistical software such as SAS, Stata, or R. Supplemental programming examples using MEPS data files are available at the MEPS repository on AHRQ's GitHub page: https://github.com/HHS-AHRQ/MEPS.
+
+Send Questions and Comments to: MEPSProjectDirector@ahrq.hhs.gov

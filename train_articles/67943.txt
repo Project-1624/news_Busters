@@ -1,0 +1,28 @@
+Why 6.5 Million Social Security Numbers Shouldn't Exist
+An audit of the Social Security Administration found that about 6.5 million Social Security numbers assigned to people who would be 112 years old (and are likely deceased) did not have a date of death on their records. Thousands of these numbers may have been used to commit identity theft or another form of fraud.
+
+The purpose of this audit from the Office of the Inspector General was to assess whether the Social Security Administration had an adequate system for adding death information to the SSA’s Numerical Identification System (aka Numident) for “numberholders who exceeded maximum reasonable life expectancies and were likely deceased,” the report reads. The answer: No, it does not.
+
+The Audit Details
+
+Here’s how the report outlined the problem: While the Social Security Administration may have information indicating a numberholder is deceased — like record of a death benefit having been claimed or a date of death in SSA payment records — the lack of a date of death in the Numident creates a significant information gap. Many federal agencies rely on the Death Master File to know whether a numberholder is dead, but if a numberholder’s date of death is not noted in Numident, it doesn’t appear on the Death Master File.
+
+Almost all of the 6.5 million records without a date of death were not receiving payments from the SSA at the time of the audit, indicating they were deceased. Of the 266 numberholders receiving payments, just 13 were actually 112 years or older, and various record discrepancies explain the remaining benefits payments.
+
+People use Social Security numbers for much more than receiving Social Security benefits. They are used to secure employment, apply for credit and file taxes, potentially claiming a tax refund. To look into potential abuse, the auditors compared the 6.5 million Social Security numbers against the SSA’s Earnings Suspense File (a database of earnings tax forms where the names don’t match the Social Security numbers) and the E-Verify System, which is used to validate whether a numberholder is authorized to work in the U.S.
+
+The result of those cross-checks was significant: SSA transferred $3.1 billion in wages from 66,920 of the numberholders to the Earnings Suspense File from tax years 2006 through 2011. Between fiscal years 2008 and 2011, “SSA received 4,024 E-Verify inquiries using the SSNs of 3,873 numberholders born before June 16, 1901,” the audit report says.
+
+What It Means
+
+The report indicates that, if death dates were systematically entered into Numident, therefore included on the Death Master File, tens of thousands of instances of Social Security number abuse or fraud could possibly be prevented.
+
+Auditors made four recommendations to the Social Security Administration, two of which the administration agreed to. SSA will explore options and ramifications of implementing an automated process to update Numident records on numberholders, and it has agreed to complete this analysis by the end of fiscal 2015 (Sept. 30). SSA disagreed with recommendations that it use old payment record information to update Numident, saying it could result in inaccurate death information in the Death Master File and would require too much time and resources.
+
+Identity theft after death is a legitimate concern for families of the deceased, particularly in the time immediately following a death, when accounts remain open and taxes have yet to be filed in the the person’s name. For this reason, it can be helpful to plan ahead and leave instructions in your will, listing your financial accounts and designating someone to handle them quickly following your death, minimizing the amount of time a potential identity thief has to misuse your information.
+
+If you’re worried about the theft or misuse of your own Social Security number, you should monitor your credit regularly for new-account fraud. You can get free annual credit reports from AnnualCreditReport.com and you can check two of your credit scores for free every month on Credit.com.
+
+More from Credit.com
+
+This article originally appeared on Credit.com.

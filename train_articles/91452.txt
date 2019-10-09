@@ -1,0 +1,68 @@
+The Strange Case of the NFL Coaches Who Don't Care about Winning
+Photo by Al Bello/Getty Images
+
+On Dec. 23, the 8-6 Dallas Cowboys trailed the New Orleans Saints 31-17 late in the fourth quarter. Dallas’ path to victory seemed obvious: score two quick touchdowns and kick two extra points, then win the game in overtime. The first half of the plan worked perfectly. The Cowboys scored a touchdown and added the PAT with 3:35 left, then got another TD and PAT with 15 seconds to go. In overtime, however, the Saints forced Tony Romo’s crew to punt, then drove for the winning field goal. That’s how it goes in the NFL—sometimes you do everything right and the luck doesn’t go your way.
+
+Well, that’s likely how the Cowboys saw it. But in reality, Dallas fouled up the end game, succumbing to a fallacy that statisticians have recognized for going on five decades but NFL coaches have yet to comprehend. In a game they were desperate to win, the playoff-hungry Cowboys bowed to gridiron conventional wisdom and played for a tie. When his team scored that late touchdown to cut the lead to eight, head coach Jason Garrett should’ve made a call that seems radical only because nobody’s smart enough to do it. He should have gone for two.
+
+
+
+I first learned about the wisdom of this strategy a few days ago, when a Slate reader named Walter Sun emailed me some calculations. Sun, a 38-year-old development manager from Seattle, assumed that—as per this article by Advanced NFL Stats’ Brian Burke—NFL teams have a 47.9 percent success rate on two-point conversions and make extra points 100 percent of the time. (It’s actually more like 98 or 99 percent in recent years, but Sun’s guesstimate simplifies the math and doesn’t change the ultimate result.)
+
+Advertisement
+
+
+
+If two-pointers are a 48 percent proposition, then the expected value of going for two is 0.48 * 2 = 0.96 points. That means that in the long run, the close-to-a-sure-thing extra point is the better percentage move.
+
+
+
+But as this chart shows, it’s sometimes smart to go for two. Many of these cases are intuitive. If you’re down eight with three seconds to go, you need a touchdown and a two-point conversion to tie the game. And if you’re trailing by 11 with a minute left, it’s wise to get a touchdown plus two to reduce the margin to a field goal.
+
+Going for two when you’re down by two touchdowns is less obvious but no less logical. Let’s stipulate that our hypothetical team—we’ll call them the Cowboys—does score the required touchdowns in the waning minutes while keeping the opposition off the scoreboard, because otherwise this exercise is pointless. In that case, the touchdown + extra point + touchdown + extra point approach will lead to a victory 50 percent of the time—the game will be tied at the end of regulation, and we’ll assume the Cowboys and their opponent have an equal chance of winning in overtime (and we’ll ignore the possibility of a rare-for-the-NFL tie game).
+
+
+
+The touchdown + two-point conversion approach plays out like this:
+
+Advertisement
+
+
+
+52.1 percent of the time, the Cowboys miss the two-point conversion. In that instance, they’re trailing by eight points. After the second touchdown, they’ll have a 47.9 percent chance of converting the two-pointer to force overtime, and will then win in OT half the time. The Cowboys’ win probability in this case: 0.521 * 0.479 * 0.5 = 12.5 percent.
+
+47.9 percent of the time, the Cowboys make the two-point conversion. In that case, they’ll trail by six. After the second touchdown, they kick the extra point and win the game. The win probability in this case: 0.479 * 1 = 47.9 percent.
+
+Add those two possible paths together, and the total win probability for the alternate-universe Cowboys is 12.5 + 47.9 = 60.4 percent.
+
+The difference between the win probability for the right decision (60.4 percent) and the wrong one (50 percent) is significant but not enormous. Kicking the extra point in this situation isn’t nearly as dumb, then, as Ron Rivera’s much-derided late-game punt in Week 4. But the choice is still clear: Going for two takes a 50-50 proposition and makes it a winning strategy.
+
+(For what it’s worth, touchdown + extra point + touchdown + two-point conversion is the worst route of all. That’s because it gives our Cowboys no path to an overtime-producing tie and no opportunity to recover from a botched two-pointer. The win probability here is the same as the probability of making a single two-point conversion: 47.9 percent.)
+
+Advertisement
+
+
+
+Walter Sun, it turns out, isn’t the first guy to figure out that football coaches are doing this wrong. University of Michigan economist Richard C. Porter knew it in 1967. In “Extra-Point Strategy in Football,” an article published in the American Statistician, Porter worked out that a football team need only have a 38 percent success rate on two-pointers to make going for two the right approach in a late-game, needs-two-touchdowns scenario. (Porter was writing about college football in the pre-overtime, regulation-tie era. The 38 percent finding was based on an assumption that “the utility of a tie” was 0.5 for the trailing team. That’s functionally equivalent to assuming that said team would win half the time in a theoretical overtime period.)
+
+In recent years, Rutgers statistician Harold Sackrowitz has continually pushed for a more enlightened approach to the two-point conversion. In the 2000 paper “Refining the Point(s)-After-Touchdown Decision,” he comes to the same conclusion as Porter: If the success rate when going for two is 38.2 percent or greater, you’ve gotta do it. Statistician David Annis of the site SportsQuant says the same thing. So does J. Denbigh Starkey, who assumes two-pointers succeed a mere 43 percent of the time (a dated estimate circa 2004) and that kickers make just 94 percent of extra-point attempts. The outcome using those figures: Going for two gives you a winning percentage of 54.0 compared to 45.5 for kicking the extra point. (If you’re wondering about college football, the 2012 NCAA record book reveals that college teams made 41 percent of two-pointers and 95 percent of PATs between 2000 and 2011. That means going for two makes sense for college teams, but it’s a much closer call.)
+
+Despite the unanimity of the quants, NFL coaches are unmoved. According to the fantastically useful Pro Football Reference Play Finder, there were 12 separate NFL games this season (including Cowboys-Saints) in which a team scored a touchdown with less than six minutes on the clock to reduce its deficit to eight points. None of those 12 teams dared to go for two.
+
+In fact, if the Play Finder is correct, there has been just one instance since 2000 in which an NFL team took the mathematically correct, go-for-two-when-down-14 approach. On Oct. 14, 2001, the Baltimore Ravens trailed the Green Bay Packers 31-10 late in the fourth quarter. The Ravens scored a touchdown with 2:56 left to close to 31-17, recovered an onside kick, then scored again with 38 seconds to go. This time, Baltimore coach Brian Billick eschewed the extra point. Randall Cunningham’s two-point pass fell incomplete, though, and the Ravens’ follow-up onside kick failed. The Packers held on to win 31-23.
+
+
+
+Advertisement
+
+
+
+In a Baltimore Sun story a few days later, Billick explained that he wanted to “let the next score give you a chance.” The implication: He made the unconventional go-for-two move because he believed his exhausted team would be worse than an even bet in overtime. In his 2000 paper, Sackrowitz cites a similar case from 1999 in which Detroit Lions coach Bobby Ross went for two with his team trailing 23-19 in the back half of the fourth quarter. “We didn't want to go into overtime—not with three games in 11 days and as banged-up on special teams as we were,” Ross explained. As in the Ravens-Packers game, this shows that a coach’s end-game calculus may change if he doesn’t believe (as we’ve been assuming) that overtime will be a 50-50 proposition.
+
+After that game in 2001, Billick didn’t get badgered by the press about his unsuccessful two-point maneuver. That’s most likely because the Ravens didn’t recover that final onside kick, making the whole thing moot. Ross, by contrast, was attacked mercilessly after the Lions missed their two-point conversion, then—down four instead of down three—were unable to kick a tying field goal on a subsequent, last-gasp drive. Even the neutral-to-a-fault AP got on Ross’ case: “Next time, maybe Detroit Lion Coach Bobby Ross should go for the sure one, not the risky two.” (Detroit Mayor Dennis Archer did have the coach’s back. "One thing I want you all to appreciate: risk-takers, people who make a difference," Archer said, adding that “you don't always win when you take risks; you get a lot of pats on the back when you're successful.”)
+
+The cases of Billick and Ross aren’t exactly parallel—taking the tying field goal out of play makes the down-by-four two-pointer the significantly worse percentage move. According to Football Commentary’s two-point conversion chart, it makes sense to go for two when trailing by four with six minutes left if you’re likely to make the two-pointer more than 59 percent of the time. (That’s a general figure that doesn’t take into account the strengths of one’s field-goal kicker and various other factors.)
+
+Even so, the huge disparity in the backlash to Billick and Ross reflects that football fans and football coaches confuse outcome with process. The PAT-kicking Cowboys should not be chided because they lost to the Saints in overtime. Rather, they deserve criticism for deploying a strategy that reduced their chances of winning. So, let me also censure Gary Kubiak and the Houston Texans for their behavior against the Jacksonville Jaguars on Nov. 18. In that game, the Texans pulled within 34-26 with 5:39 to go, kicked the extra point, tied the game on another TD and extra point with 1:34 remaining, then won the game in overtime. The Texans got the right outcome from the wrong process. Shame on you, Houston.
+
+If going for two when down eight is a winning strategy, why doesn’t anyone do it? Because—just as in the case of punting on a short fourth down—kicking the PAT minimizes the chance you’ll look dumb. As SportsQuant’s David Annis explains, the extra-point strategy decreases your chances of losing in regulation while increasing your overall chance of losing the game. As a consequence, Annis writes, it seems the typical football coach “really isn't trying to maximize his chances of winning. Rather he's attempting to prolong his defeat.”

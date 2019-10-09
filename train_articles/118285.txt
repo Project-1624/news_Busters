@@ -1,0 +1,15 @@
+Enhanced 9-1-1 - Wireless Services
+
+The FCC's wireless Enhanced 9-1-1 (E9-1-1) rules seek to improve the effectiveness and reliability of wireless 9-1-1 services by providing 9-1-1 dispatchers with additional information on wireless 9-1-1 calls. The FCC's wireless E9-1-1 rules apply to all wireless licensees, broadband Personal Communications Service (PCS) licensees, and certain Specialized Mobile Radio (SMR) licensees.
+
+The FCC has divided its wireless E9-1-1 program into two parts - Phase I and Phase II. Under Phase I, the FCC requires carriers, within six months of a valid request by a local Public Safety Answering Point (PSAP), to provide the PSAP with the telephone number of the originator of a wireless 9-1-1 call and the location of the cell site or base station transmitting the call.
+
+Under Phase II, the FCC requires wireless carriers, within six months of a valid request by a PSAP, to begin providing information that is more precise to PSAPs, specifically, the latitude and longitude of the caller. This information must meet FCC accuracy standards, generally to within 50 to 300 meters, depending on the type of technology used. The deployment of E9-1-1 requires the development of new technologies and upgrades to local 9-1-1 PSAPs, as well as coordination among public safety agencies, wireless carriers, technology vendors, equipment manufacturers, and local wireline carriers.
+
+PSAP Registry
+
+The FCC maintains a Master PSAP Registry with information on PSAP names and locations.
+
+Waivers and Reports
+
+In its orders, the FCC has addressed requests for waivers of the Phase II rules, granting some subject to certain conditions and reporting requirements. For information on the Phase II deployment by large and mid-size carriers, see the most recent quarterly report.

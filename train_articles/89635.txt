@@ -1,0 +1,26 @@
+Percentage of Bachelor’s degrees conferred to women, by major (1970-2012)
+One oft-cited problem with Computer Science is its glaring gender disparity: In a given Computer Science class, men will outnumber women as much as 8 to 2 (20% women). This stands in stark contrast to most other college majors, which have women outnumbering men 3 to 2 on average (60% women). This observation made me wonder: Are other STEM majors suffering the same gender disparity?
+
+To get at that question, I checked into the NCES 2013 Digest of Education Statistics and looked at the gender breakdown from 1970-2012 for every major they report on. I charted the data below to offer a bird’s eye view of the trends. You can download the cleaned data set here.
+
+Edit: For a perspective on the gender gap in female-dominated majors, please look here.
+
+Today’s trends
+
+The woman-dominated majors of today are unsurprising to anyone who has attended a large university in the U.S.:
+
+Health Professions (85% women): nursing assistant, veterinary assistant, dental assistant, etc. Public Administration (82%): social work, public policy, etc. Education (79%): pre-K, K-12, higher education, etc. Psychology (77%): cognitive psychology, clinical psychology, etc.
+
+Surprisingly to me, most of the STEM majors aren’t doing as bad gender disparity-wise as I expected. 40-45% of the degrees in Math, Statistics, and the Physical Sciences were conferred to women in 2012. Even better, a majority of Biology degrees in 2012 (58%) were earned by women. This data tells me that we don’t really have a STEM gender gap in the U.S.: we have an ET gender gap!
+
+This ET gender gap has severe consequences. Computer Science and Engineering majors have stagnated at less than 10% of all degrees conferred in the U.S. for the past decade, while the demand for employees with programming and engineering skills continue to outpace the supply every year. Compare this to more woman-dominated majors such as Business and Health Professions, which comprise 1/3 of all college degrees in 2012 when combined.
+
+Provided that far more women attend college than men, it seems the best way to meet the U.S.’s growing need for skilled programmers and engineers is to focus on recruiting more women — of any race or ethnicity — into Computer Science and Engineering majors. The big question, of course, is “How?” With the constant issues of subtle (and sometimes not-so-subtle) discrimination against women in these male-dominated majors, we have quite a tough task on our hands.
+
+Looking at the historical trends, maybe we have something to learn from Architecture and the Physical Sciences, given that they were in our position only 40 years ago.
+
+Historical trends
+
+Perhaps the more fascinating trend in the above graph is how the gender composition of these majors have changed in the past 40 years. Several majors, such as the Health Professions and Education, have been woman-dominated as far back as we have reliable data. But other majors, such as Psychology and Communications/Journalism, didn’t see their rise to preference until the late 1970s. Perhaps the most dramatic gender composition change occurred in Agriculture, which started as a gentleman’s club in 1970 (only 4% of degrees conferred to women) and grew to an even 50%-50% split by 2012.
+
+Going back to Computer Science, we see a rather sad story unfold. The computer scientists of today find themselves in the same disposition as the computer scientists of the 1970s: Only ~15% of the CS degrees were conferred to women. Then the late 1970s and early 1980s finally looked promising: With a peak at 37% of all CS degrees in 1983, it seemed as though Computer Science might join the rest of the majors with a more even gender distribution. But 1984 saw fewer women graduating with a CS degree, and the trend has followed a downward spiral ever since. What was it about the 1970s and early 1980s that made Computer Science more welcoming to women? And what changed?

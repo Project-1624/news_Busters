@@ -1,0 +1,18 @@
+Harvesting Teenagers
+Business is business, but some things are dishonest, and dishonest usually gets away scot-free on the Internet. You can learn a lot about what legitimate looking sites are capable of, and what ordinary users are willing to do when asked, from the example of Tagged
+
+Tagged is one in a flood of new social networking sites targeting teenagers. Theyre all MySpace wannabees, and perhaps some of them are harmless, but Im going to focus on Tagged. It first got my attention several weeks ago when I got about six e-mails in rapid succession from her. They were obviously auto-generated invites to join a site and said "[my friends name] has added you as a friend on Tagged," and "Please respond or [my friends name] may think you said no :(". I could tell right off something phony was going on, but I still had better things to do, so I passed, and my friend was apologetic about it. I wasnt the only one who got the e-mails.
+
+/zimages/7/28571.gif Web 2.0 represents multiple transitions in the manner of using the raw material of the ubiquitously connected public network. Click here to see a video about the business of Web 2.0.
+
+Then I read this blog entry from Symantec and it explained how my friend might have gotten hit: "...when a user signs up for Tagged, theyre practically forced to put in their Webmail credentials. Tagged then logs into your Webmail account as you, accesses your address book and prompts you to e-mail your contacts using your Webmail address as the reply-to." At this point, I have to figure the phenomenon is maybe bigger than I thought and decided to do some testing.
+
+First, its worth noting about the invitation e-mail that its sent with a From: and Reply-To: header of the members e-mail address, but its actually sent through the tagged.com mail server. They use an envelope-from address of bounce@tagged.com so that they pass SPF (sender policy framework) tests (a good example of the useful limits of SPF). In most mail clients, the message ends up looking like it came from your friend, so you dont want to block the address.
+
+I set up two Gmail accounts specifically for the testing and a number of e-mail aliases on domains I own to be my "friends." I put these aliases in the address books of the Gmail accounts. Signing up for Tagged (which, I admit, I did under an assumed name), was easy enough, although I did quickly run into what Symantec describes. I was prompted for my Gmail credentials. They already knew my Gmail user name since I had provided it as an e-mail address. There is no option here but to provide a password:
+
+Before too long the addresses in my Gmail address book received invites like the one I received. I later figured out that you can provide an incorrect password here, and it lets you proceed. Incidentally, they have similar functionality for AOL Mail, Hotmail, Yahoo mail and MSN mail.
+
+Before I actually signed up I decided to read their TOS (terms of service), something Im sure none of the teenagers they target have done. Its long and a genuine Nightmare on Elm Street for the abusive and, while were at it, misleading rules for privacy.
+
+Next page: The Terms of Service

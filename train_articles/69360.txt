@@ -1,0 +1,66 @@
+USA – WID – World Inequality Database
+What is WID.world?
+
+For more information on WID.world and its history, click here.
+
+For more information on the network of researchers, click here.
+
+For more information on methodology, click here.
+
+How to read WID.world graphs?
+
+Click here for help on how to navigate through WID.world menus and graphs.
+
+I encounter technical problems on WID.world, what should I do?
+
+First, accept our apologies. Second, you should delete the cache memory of your browser (generally under “settings/history/clear cache”), then close it, and try again. If this does not solve the problem, you may want to try with a different browser. And, finally, send us an email with the description of the issue, and the details of your operative system and browsers versions. Our contact mail is in the website footer, under the CONTACT US section.
+
+What distinguishes WID.world’s inequality data from the OECD, the World Bank, or other inequality data providers?
+
+Only few institutions provide inequality estimates and those who do so (e.g. the the OECD or the World Bank data portals) rely for the most part on household surveys. One key problem with surveys, however, is that they are based upon self-reporting and are well known to underestimate top incomes and top wealth shares. In addition, surveys only cover a limited time span and make it impossible to offer a long-term perspective on inequality trends.
+
+In contrast, WID.world combines national accounts and survey data with fiscal data sources. This allows us to release inequality estimates that are more reliable – from the bottom to the top of the distribution of income and wealth – and also that span over much longer periods.
+
+The data series provided in WID.world should however not be seen as perfect and definitive: existing series are continuously updated and improved by WID.world fellows, following new raw data releases or conceptual and methodological improvements. All the methodological followed to construct our series can be found in country-specific papers in our methodology library or in the DINA guidelines.
+
+Should you have further questions on the data, do not hesitate to contact us.
+
+What distinguishes WID.world’s national accounts data from the UN, the IMF, the World Bank, or other national accounts data providers?
+
+Estimates for national accounts (such as national income and national wealth) found on WID.world and on international statistical institutions databases are generally consistent, buy can vary for several reasons.
+
+First, we release detailed series for national wealth accounts, which usually cannot be found on other portals. Next, we include corrections for offshore wealth and offshore capital income, so that our series on foreign capital income inflows and outflows are consistent at the global level (e.g. they sum to zero), which is typically not the case in existing databases.
+
+Finally, reliable series for the consumption of fixed capital (capital depreciation) estimates are not readily available for a large number of countries, so we combine various sources and develop new methods to derive consistent global series.
+
+As a consequence, we are able to offer consistent global series on national income – i.e. GDP minus consumption of fixed capital, plus net foreign income – which do not exist elsewhere.
+
+WID.world uses 2011 Purchasing Power Parity round for international comparisons. It should also be noted that default monetary values for Eurozone countries are displayed in PPP Euros and are thus different from Market exchange rate Euros. A Eurozone country with high relative prices will have a lower PPP Euro average income values. Market exchange rates values can be obtained in our custom menus.
+
+All these methodological choices can explain slightly different values between WID.world and other data portals. They are described in the Metadata associated to each variable and in the associated methodological documents. See in particular the « World National Accounts Series Methodology » (here) and the « Distributional National Accounts Guidelines » (there).
+
+In addition, it should be noted that there are specific countries such as China where there is substantial controversy about price deflators and aggregate real growth. In such cases we review all existing series and attempt to combine them in the most sensible manner. This is fully explained in the country-specific papers.
+
+Should you have further questions on the data, do not hesitate to contact us.
+
+There are already many on line economic data portals, why using WID.world?
+
+Over the past decades, the increase in economic inequalities was largely driven by a rise in income and wealth accruing to the top of the distribution. However, household surveys, the data sources traditionally used to observe these dynamics, do not capture these evolution very well. They provide useful information and cover a lot of countries but do not inform adequately on income and wealth levels of the richest individuals.
+
+WID.world overcomes this limitation by combining different data sources: national accounts, survey data, fiscal data, and wealth rankings. By doing so, it becomes possible to track very precisely the evolution of all income or wealth levels, from the bottom to the top. The key novelty of the WID.world project is to use such data in a systematic manner, allowing comparisons between countries and over long time periods.
+
+For more information on what you will find (and will not find) on WID.world, click here.
+
+What is the meaning of the economic concepts used on WID.world?
+
+We try our best to use economic concepts which are consistent with national accounting (i.e. the system used for measuring the economic activity of a nation) and that can also make sense for the general public. On each graph, users can click on the “?” icon and will find the definition of the concepts at stake.
+
+Users can also use our quick-search glossary to find the definition they want.
+
+How is WID.world funded?
+
+WID.world is entirely funded by public, non-profit actors and personal donations.
+
+For more information on our funders, click here.
+
+If you wish to support us, please click on the DONATE button at the bottom of the funding page.

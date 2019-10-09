@@ -1,0 +1,84 @@
+Travel & Tour Information
+With a friendly smile from their award-winning crew, see how Virgin Australia is putting the joy back into flying.
+
+Discover the best of Australia
+
+See the movie magic
+
+See the movie magic
+
+See the movie magic
+
+See the movie magic
+
+See the movie magic
+
+See the movie magic
+
+See the movie magic
+
+Explore the set of Dundee
+
+Getting around
+
+Before you go
+
+Things to do in Australia
+
+Things to do in Australia
+
+Things to do in Australia
+
+Things to do in Australia
+
+Things to do in Australia
+
+Things to do in Australia
+
+Things to do in Australia
+
+Guide to the Great Ocean Road
+
+Guide to the Great Ocean Road
+
+Guide to the Great Ocean Road
+
+Guide to the Great Ocean Road
+
+Guide to the Red Centre
+
+Guide to the Red Centre
+
+Guide to the Red Centre
+
+Guide to the Red Centre
+
+Guide to the Great Barrier Reef
+
+Guide to the Great Barrier Reef
+
+Guide to the Great Barrier Reef
+
+Guide to the Great Barrier Reef
+
+{ "validationUrl": "/bin/ta/postauth", "validationFavouritesUrl": "/bin/australia/favourites/sanitycheck", "campaignIntegrationUrl": "/bin/create/recipient", "homePagePath": "/content/australia/en_us.html", "FYASignUpDtmConfig": { "event": "taCustEvent", "custEvent": "FYASignUp", "custAction": "event2" }, "taIdRetryLimit": 3 }
+
+{ "profileUpdate": { "screenSet": "Aus-ProfileUpdate", "startScreen": "gigya-update-profile-screen" }, "registration": { "screenSet": "Aus-RegistrationLogin", "startScreen": "gigya-register-screen" }, "login": { "screenSet": "Aus-RegistrationLogin", "startScreen": "gigya-login-screen" }, "resetPassword": { "screenSet": "Aus-RegistrationLogin", "startScreen": "gigya-reset-password-screen" } }
+
+{{#if isLite}}
+
+Welcome to Tourism Australia
+
+Your email has been verified.
+
+You can now close this dialogue.
+
+{{else}}
+
+Welcome to Tourism Australia {{firstName}} {{lastName}}
+
+Your email: {{email}} has been verified.
+
+You can now close this dialogue.
+
+{{/if}}

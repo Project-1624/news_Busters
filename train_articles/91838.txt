@@ -1,0 +1,20 @@
+Global Terrorism Database
+The GTD Data Rivers 2.0 application is an interactive visualization tool that allows users to explore patterns of terrorism in the Global Terrorism Database (GTD). The GTD Data Rivers aggregates information from the database and displays relative temporal trends as a stack chart .
+
+Periscopic , a data visualization firm that promotes information transparency and public awareness, has produced an innovative, interactive tool that allows users to explore the impact and dynamics of GTD perpetrator groups. A World of Terror examines the 25 perpetrators that were most active between 1970 and 2013, visualizing their attack patterns across multiple dimensions including life span, recency, casualties, and geographic spread.
+
+Global Terrorism in 2014 uses Odyssey.js (from CartoDB) to display an animation of the progression of terrorist attacks around the world in 2014, highlighting details of notable attacks in the GTD.
+
+The updated GTD WebGL Globe is an interactive geographic visualization, currently in beta, that plots the location and frequency of yearly terrorist attacks worldwide from 1970-2014. It was developed by START using the WebGL Globe open platform created by the Google Data Arts Team. Automated geocoding from the OpenCage Geocoder supplements the geocoding available in the public dataset.
+
+FEATURED
+
+Message from the Global Terrorism Database Manager For more than a decade, START has compiled and published the Global Terrorism Database (GTD) for use by scholars, analysts, journalists, security professionals, and policy makers. It has been our privilege to work closely with these user communities to continually improve the data and inform stakeholders. Since 2012, the majority of the costs of collecting the GTD have been funded by the U.S. State Department, for the past year almost exclusively. Our contract with the State Department ended in May 2018 and, although we received only positive feedback from the Bureau of Counterterrorism and our 2018 data collection was well underway, we recently learned that we were not awarded a follow-on contract for base data collection. At the moment, the loss of the State Department funding means two things: First, we do not currently have funding to complete collection of 2018 data, nor are we able to publish data beyond 2017. Continue Reading
+
+Data through 2017 Released New data through 2017 are now available. Global Terrorism in 2017, provides an overview of the new data in the GTD, including information on the 10,900 terrorist attacks in 2017 that killed more than 26,400 people worldwide. The numbers of terrorist attacks and deaths worldwide have declined for the third consecutive year, but remain high compared to historical trends. To do your own analysis, download the data. For more on the 2017 data release Global Terrorism in 2017
+
+Learn to navigate and analyze the GTD START has released the first in a series of training modules designed to equip GTD users with the knowledge and tools to best leverage the database. This training module provides a general overview of the GTD, including the data collection process, uses of the GTD, and patterns of global terrorism. Participants will learn basic data handling and how to generate summary statistics from the GTD using PivotTables in Microsoft Excel. More
+
+Additional START Datasets Now Available Utilizing the Dataverse Network Project, START has created its own repository of datasets and databases on terrorism, conflict, and preparedness. This collection includes research funded by START as well as research for which START has been given permission to release. Users can read over detailed information about each dataset regarding its time period, geographic coverage, and sampling procedure. Read more
+
+Follow START on Twitter For the latest developments in START research, general news about terrorism, and a "This Day in Terrorism" feature, follow the new START Twitter Feed. Twitter with us >>

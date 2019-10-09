@@ -1,0 +1,94 @@
+Retrospective Birth Dating of Cells in Humans
+The generation of cells in the human body has been difficult to study, and our understanding of cell turnover is limited. Testing of nuclear weapons resulted in a dramatic global increase in the levels of the isotope 14 C in the atmosphere, followed by an exponential decrease after 1963. We show that the level of 14 C in genomic DNA closely parallels atmospheric levels and can be used to establish the time point when the DNA was synthesized and cells were born. We use this strategy to determine the age of cells in the cortex of the adult human brain and show that whereas nonneuronal cells are exchanged, occipital neurons are as old as the individual, supporting the view that postnatal neurogenesis does not take place in this region. Retrospective birth dating is a generally applicable strategy that can be used to measure cell turnover in man under physiological and pathological conditions.
+
+Introduction
+
+Many cells have a shorter life span than the organism and are continuously replaced. Cells exposed to a harsh environment, such as in the skin or intestine, are often very short lived. In other tissues there may be less cell turnover under physiological conditions, but regeneration may be activated in response to injury. For many cell types, however, it is largely unknown whether they turn over at all once development is completed.
+
+3H-thymidine or BrdU allows prospective labeling of newborn cells and can reveal the generation and integration of mature cells in an organ. It is, however, difficult to detect rare events, and there are several technical caveats with a risk of both false positive and negative results, leaving room for controversy ( Nowakowski and Hayes, 2000 Nowakowski R.S.
+
+Hayes N.L. New neurons: extraordinary evidence or extraordinary conclusion?. Rakic, 2002a Rakic P. Adult neurogenesis in mammals: an identity crisis. Cell generation is often studied by analysis of molecular markers of proliferation. This provides a good view of the number of cells in cycle at a given time, but it does not provide insight into the number of mature cells that are generated or added to the tissue. Administration of labeled nucleotides such asH-thymidine or BrdU allows prospective labeling of newborn cells and can reveal the generation and integration of mature cells in an organ. It is, however, difficult to detect rare events, and there are several technical caveats with a risk of both false positive and negative results, leaving room for controversy (). Moreover, it is not possible to retrospectively determine cell turnover in collected material, and the toxicity of labeled nucleotides limits its use for studies in man.
+
+Much of our view on cell turnover in the adult human body is inferred from studies in rodents, which in most cases are only a few months old at the time of analysis. This may not be an ideal model for man, who can live for a century and can potentially have a greater need to replace cells over the life span. Although it may be easy to conceptualize that, for example, a neuron in the brain can live for months, is it possible for the same cell type to be maintained and function for many decades?
+
+Duman, 2004 Duman R.S. Depression: a case of neuronal life and death?. Santarelli et al., 2003 Santarelli L.
+
+Saxe M.
+
+Gross C.
+
+Surget A.
+
+Battaglia F.
+
+Dulawa S.
+
+Weisstaub N.
+
+Lee J.
+
+Duman R.
+
+Arancio O.
+
+et al. Requirement of hippocampal neurogenesis for the behavioral effects of antidepressants. Sheline et al., 1996 Sheline Y.I.
+
+Wang P.W.
+
+Gado M.H.
+
+Csernansky J.G.
+
+Vannier M.W. Hippocampal atrophy in recurrent major depression. Sussman and Anversa, 2004 Sussman M.A.
+
+Anversa P. Myocardial aging and senescence: where have the stem cells gone?. Whether a specific cell type is exchanged, and at what rate, is a fundamental question that may have important implications for how we view the human body under physiological and pathological conditions. Alterations in cell turnover are a key feature in several diseases, such as decreased erythrocyte production in aplastic anemia or increased keratinocyte turnover in psoriasis. Distorted cell turnover has been implicated in the pathogenesis of many diseases, for example decreased neurogenesis in depression () and impaired production of cardiomyocytes in heart failure (), but it has remained controversial and difficult to study.
+
+Richard and Schuster, 2002 Richard S.
+
+Schuster M.W. Stem cell transplantation and hematopoietic growth factors. Ding and Schultz, 2004 Ding S.
+
+Schultz P.G. A role for chemistry in stem cell biology. Lie et al., 2004 Lie D.C.
+
+Song H.
+
+Colamarino S.A.
+
+Ming G.L.
+
+Gage F.H. Neurogenesis in the adult brain: new strategies for central nervous system diseases. Lindvall et al., 2004 Lindvall O.
+
+Kokaia Z.
+
+Martinez-Serrano A. Stem cell therapy for human neurodegenerative disorders-how to make it work. Much of the impetus in stem cell research and regenerative medicine is fueled by the prospect of promoting cell replacement. Stimulating blood-cell production with erythropoietin or G-CSF are successful and established therapies (), and it has been suggested that similar pharmacological therapies may be developed to influence cell replacement in other organs (). Without knowing if a specific cell type is renewed in the healthy or pathological situation, it remains uncertain whether it may be realistic and rational to modulate this process.
+
+14C-dating in archeology, we sought to develop a way to retrospectively determine the age of cells without the need for delivering any chemical to the individual prior to the analysis. 14C levels on earth have remained relatively constant over long time periods, and the radioactive decay of the isotope is used to retrospectively date biological material in archeology. The resolution in modern time is poor due to a half-life of 5730 years. However, extensive above ground testing of nuclear weapons between the mid 1950s and early 1960s resulted in the generation of large quantities of 14C ( De Vries, 1958 De Vries H. Atomic bomb effect: variation of radiocarbon in plants, shells, and snails in the past 4 years. Nydal and Lovseth, 1965 Nydal R.
+
+Lovseth K. Distribution of radiocarbon from nuclear tests. 14C production ( Levin and Kromer, 2004 Levin I.
+
+Kromer B. The tropospheric 14CO 2 level in mid latitudes of the northern hemisphere (1959–2003). Levin and Kromer, 2004 Levin I.
+
+Kromer B. The tropospheric 14CO 2 level in mid latitudes of the northern hemisphere (1959–2003). Figure 1 14C Levels in the Biotope Show full caption 14C in the atmosphere have been stable over long time periods, with the exception of a large addition of 14C in 1955–1963 as a result of nuclear bomb tests ([A], data from Levin and Kromer, 2004 Levin I.
+
+Kromer B. The tropospheric 14CO 2 level in mid latitudes of the northern hemisphere (1959–2003). Stuiver et al., 1998 Stuiver M.
+
+Reimer P.J.
+
+Bard E.
+
+Beck J.W.
+
+Burr G.S.
+
+Hughen K.A.
+
+Kromer B.
+
+McCormac G.
+
+van der Plicht J.
+
+Spurk M. INTCAL98 radiocarbon age calibration, 24000–0 cal BP. 14C levels spanning the last decades in the geographical area of the study (Sweden) were measured in cellulose taken from annual growth rings of local pine trees (B), which were subjected to accelerator mass spectrometry, and were found to closely correspond to mid-latitude northern hemisphere 14C levels (C). Only a fraction of representative measurements are displayed. 14C levels from modern samples are by convention given in relation to a universal standard and corrected for radioactive decay, giving the Δ14C value ( Stuiver and Polach, 1977 Stuiver M.
+
+Polach H.A. Reporting of 14C data. The levels ofC in the atmosphere have been stable over long time periods, with the exception of a large addition ofC in 1955–1963 as a result of nuclear bomb tests ([A], data from).C levels spanning the last decades in the geographical area of the study (Sweden) were measured in cellulose taken from annual growth rings of local pine trees (B), which were subjected to accelerator mass spectrometry, and were found to closely correspond to mid-latitude northern hemisphereC levels (C). Only a fraction of representative measurements are displayed.C levels from modern samples are by convention given in relation to a universal standard and corrected for radioactive decay, giving the ΔC value (). The lack of methods to study cell turnover in man prompted us to develop a novel strategy to approach this issue. Inspired byC-dating in archeology, we sought to develop a way to retrospectively determine the age of cells without the need for delivering any chemical to the individual prior to the analysis.C levels on earth have remained relatively constant over long time periods, and the radioactive decay of the isotope is used to retrospectively date biological material in archeology. The resolution in modern time is poor due to a half-life of 5730 years. However, extensive above ground testing of nuclear weapons between the mid 1950s and early 1960s resulted in the generation of large quantities ofC ( Figure 1 A), which rapidly distributed evenly in the atmosphere around the globe (). Since the test ban treaty in 1963, there has been no high-yield, above-ground, nuclear detonation leading to significantC production (). Thus, the levels have dropped thereafter exponentially, not primarily because of radioactive decay, but due to diffusion and equilibration with the oceans and the biosphere ( Figure 1 A), resulting in a slope decreasing 50% approximately every 11 years after 1963 ().
+
+We have taken advantage of the drastically altered atmospheric 14C levels in modern times to develop a strategy to retrospectively birth date cells in the human body. We use this method to address whether cortical neurons are renewed in the adult human brain and find that these neurons are as old as the person, arguing against adult neurogenesis in this region. This is a generally applicable strategy that can be used to analyze cell turnover in man under physiological and pathological conditions.

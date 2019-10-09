@@ -1,0 +1,118 @@
+Search VAERS Database
+Use: FIELD = VALUE to compare for equality. When comparing with true/false fields such as OUTDIED, OUTTHREAT, OUTER, OUTHOSP, OUTXHOSP, OUTDIS, OUTREC, compare with "y" . When comparing with large fields (Symptoms, WRITEUP, PRIOR, MEDS, CURILL, or PRECON) any occurrence of the string in the field is considered to be a match.
+
+to compare for equality. When comparing with true/false fields such as OUTDIED, OUTTHREAT, OUTER, OUTHOSP, OUTXHOSP, OUTDIS, OUTREC, compare with . When comparing with large fields (Symptoms, WRITEUP, PRIOR, MEDS, CURILL, or PRECON) any occurrence of the string in the field is considered to be a match. Use: FIELD != VALUE to compare for non-equality.
+
+to compare for non-equality. Use: FIELD > VALUE to compare for greater-than (use '>=' for greater-than-or-equals).
+
+to compare for greater-than (use '>=' for greater-than-or-equals). Use: FIELD < VALUE to compare for less-than (use '<=' for less-than-or-equals).
+
+to compare for less-than (use '<=' for less-than-or-equals). Multiple expressions can be separated with AND or OR and can be wrapped in parentheses.
+
+or and can be wrapped in parentheses. VALUE fields can contain numeric expressions with '+', '-', '*' and '/'. When comparing with large fields, "_" matches any character.
+
+These are the field names that can be used: NUMVAX Number of vaccinations administered.
+
+Number of vaccinations administered. VAX Vaccines administered.
+
+Vaccines administered. MAN Vaccine manufacturers.
+
+Vaccine manufacturers. LOT Vaccine lot numbers.
+
+Vaccine lot numbers. DOSE Vaccine dosage.
+
+Vaccine dosage. ROUTE Vaccine administration route.
+
+Vaccine administration route. SITE Vaccine administration site.
+
+Vaccine administration site. NAME Vaccine brand name.
+
+Vaccine brand name. SYMPTOM Symptoms.
+
+Symptoms. SYMPTOMPT Symptoms (preferred term).
+
+Symptoms (preferred term). SYMPTOMHLT Symptoms (high-level term).
+
+Symptoms (high-level term). SYMPTOMHLGT Symptoms (high-level group term).
+
+Symptoms (high-level group term). SYMPTOMSOC Symptoms (system organ class).
+
+Symptoms (system organ class). SMQ Standard MedDRA Query name.
+
+Standard MedDRA Query name. OUTDIED Whether the patient died.
+
+Whether the patient died. OUTTHREAT Whether the event was life-threatening.
+
+Whether the event was life-threatening. OUTER Whether the patient visited an emergency room.
+
+Whether the patient visited an emergency room. OUTERED Whether the patient visited an emergency room or doctor.
+
+Whether the patient visited an emergency room or doctor. OUTHOSP Whether the patient was hospitalized.
+
+Whether the patient was hospitalized. OUTOFFICE Whether the patient visited a doctor.
+
+Whether the patient visited a doctor. HOSPDAYS Days spent in the hospital.
+
+Days spent in the hospital. OUTXHOSP Whether the patient had an extended hospital stay.
+
+Whether the patient had an extended hospital stay. OUTDIS Whether the patient was disabled.
+
+Whether the patient was disabled. OUTREC Whether the patient recovered.
+
+Whether the patient recovered. OUTBD Whether there was a birth defect.
+
+Whether there was a birth defect. ADMIN Agency that administered vaccine.
+
+Agency that administered vaccine. FUND Agency that funded vaccine. WRITEUP Write-up text.
+
+Write-up text. STATE State where patient lives.
+
+State where patient lives. SEX Sex of patient.
+
+Sex of patient. VERSION VAERS intake form version.
+
+VAERS intake form version. SPLIT CDC split type.
+
+CDC split type. AGE Age of patient in years.
+
+Age of patient in years. VACCINATED Date of vaccination.
+
+Date of vaccination. ONSET Date of onset.
+
+Date of onset. DIED Date of death.
+
+Date of death. REPORTED Date submitted to VAERS.
+
+Date submitted to VAERS. APPEARED Date appeared in VAERS.
+
+Date appeared in VAERS. VAX2ONSET Days from vaccination to onset.
+
+Days from vaccination to onset. VAX2DIED Days from vaccination to death.
+
+Days from vaccination to death. VAX2REPORT Days from vaccination to submission to VAERS.
+
+Days from vaccination to submission to VAERS. VAX2APPEAR Days from vaccination to appearance in VAERS.
+
+Days from vaccination to appearance in VAERS. ONSET2DIED Days from onset to death.
+
+Days from onset to death. ONSET2REPORT Days from onset to submission to VAERS.
+
+Days from onset to submission to VAERS. ONSET2APPEAR Days from onset to appearance in VAERS.
+
+Days from onset to appearance in VAERS. DIED2REPORT Days from death to submission to VAERS.
+
+Days from death to submission to VAERS. DIED2APPEAR Days from death to appearance in VAERS.
+
+Days from death to appearance in VAERS. REPORT2APPEAR Days from submission to appearance in VAERS.
+
+Days from submission to appearance in VAERS. PRIOR Previous vaccinations.
+
+Previous vaccinations. MEDS Other medications being given at time of vaccination.
+
+Other medications being given at time of vaccination. CURILL Illnesses at time of vaccination.
+
+Illnesses at time of vaccination. PRECON Preexisting conditions at time of vaccination.
+
+Preexisting conditions at time of vaccination. ALLERGIES Allergies at time of vaccination.
+
+Allergies at time of vaccination. LAB Diagnostic laboratory data.

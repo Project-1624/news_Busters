@@ -1,0 +1,93 @@
+Nitric acid is manufactured from ammonia and is a key chemical in the manufacture of fertilizers.
+
+Uses of nitric acid
+
+By far the principal use of nitric acid (80%) is in the manufacture of fertilizers. Of this 96% is used to make ammonium nitrate and calcium ammonium nitrate. A relatively small amount of ammonium nitrate is used to make explosives.
+
+Some nitric acid is used to make intermediates in the polymer industry, notably in the manufacture of hexanedioic acid (adipic acid) to make polyamides and TDI (toluene diisocyanate or methylbenzene diisocyanate) and dinitrobenzene two of a range of reagents used to make polyurethanes. Nitrobenzene is used to make aniline which is a key reagent for making dyes.
+
+Figure 1 Uses of nitric acid.
+
+Annual production of nitric acid
+
+World 55 million tonnes1
+
+1. 2014, Grand View Research, 2016
+
+
+
+Manufacture of nitric acid
+
+Nitric acid production involves two stages:
+
+a) oxidation of ammonia
+
+b) absorption of the resulting nitrogen oxides
+
+(a) Oxidation of ammonia
+
+This part of the process involves the oxidation of ammonia to nitrogen monoxide (nitric oxide):
+
+The conditions favouring the formation of the products at suitable reaction rates for the reaction are:
+
+high pressure
+
+excess air
+
+a catalyst
+
+as high a temperature as is consistent with practicable reaction rates, catalyst efficiency and operating pressure
+
+Most plants operate with:
+
+moderate pressures (10-13 atm)
+
+oxygen (air)
+
+an alloy of platinum and rhodium as catalyst
+
+temperatures at ca 1200 K
+
+The main advantage of the high pressure is that it substantially reduces the size of equipment and piping required, and hence leads to a reduced capital cost.
+
+Where possible, the ammonia is made on the same site. It is filtered to remove any impurities and then mixed with filtered compressed air to give a mixture containing approximately 10% ammonia and 90% air. The exact proportion of excess air depends on the operating pressure and temperature of the plant.
+
+The mixture is then passed through one or more converters in parallel, each containing a series of 90% platinum/10% rhodium catalyst gauzes in parallel at 975-1225 K - typically 1200 K in a fixed bed reactor. At least 96% conversion of the ammonia takes place.
+
+Figure 2 A gauze of a platinum-rhodium alloy installed in a converter.
+
+By kind permission of Johnson Matthey.
+
+Rhodium is added to the platinum to give the gauze strength and to reduce the loss of platinum, an important economic factor (0.4 g loss per 1000 kg nitric acid made). This is due to 'hot spots' occurring on the gauze.
+
+Recently, it has been found that knitted gauze increases the efficiency of conversion and prolongs the life of the catalyst.
+
+Figure 3 Platinum-rhodium wire is woven to produce a knitted gauze.
+
+By kind permission of Johnson Matthey.
+
+Care has to be taken to minimise oxidation of ammonia to nitrogen by the even more exothermic reaction, favoured by high pressure and an over-heated catalyst:
+
+The hot gases leaving the converters are used either to raise superheated steam or to heat the exhaust gas from the absorption tower(s). The steam may be used to generate power in a steam turbine which can then drive the air compressor(s).
+
+The hot gases leave the steam raising/heat exchange section at about 425 K.
+
+(b) Absorption of the nitrogen oxides
+
+The gases are further cooled, to below 315 K.
+
+Air is added and the gases compressed again (7-12 atm typically). The temperature rises to around 435 K and necessitates further cooling to about 310 K. The additional compression and the cooling aid the reactions, moving the following equilibria to the right:
+
+The gases are then passed through one or more towers to meet a stream of water, normally flowing in the opposite direction to the gas. Here, oxidation of the nitrogen monoxide continues and absorption occurs with the formation of nitric acid:
+
+Figure 4 Once the reaction between ammonia and oxygen (in the air) is proceeding on the catalytic gauze, the exothermicity of the reaction sustains the temperature and the metal alloy glows red.
+
+By kind permission of Johnson Matthey.
+
+In processes where significant NO X remains in the gaseous effluent, the effluent is passed through a catalyst (platinum or rhodium on a silicoaluminate, titanium or vanadium compounds) with a fuel, such as hydrogen or methane. The nitrogen oxides are reduced to nitrogen. For example:
+
+The temperature at which the reaction is most effective depends on the fuel. For hydrogen, it is ca 450 K. For methane, it is much higher, ca 750 K.
+
+The acid from the absorption towers contains typically 56-60% nitric acid by mass but can be manufactured up to ca 68% by mass. Some 99% acid is required for the manufacture of, for example, organic nitro-compounds for the explosives and dye industries. Nitric acid and water form an azeotropic mixture, with a maximum boiling point of 395 K, containing ca 68% nitric acid by mass; thus the concentrated acid cannot be obtained by distillation of the aqueous solution. Concentrated sulfuric acid is used to absorb the water content and then on distillation of this mixture, concentrated nitric acid is obtained. Pure nitric acid boils at 359 K.
+
+Date last amended: 9th December 2016

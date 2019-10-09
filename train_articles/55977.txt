@@ -1,0 +1,20 @@
+Firearm legislation and firearm mortality in the USA: a cross-sectional, state-level study
+Background
+
+In an effort to reduce firearm mortality rates in the USA, US states have enacted a range of firearm laws to either strengthen or deregulate the existing main federal gun control law, the Brady Law. We set out to determine the independent association of different firearm laws with overall firearm mortality, homicide firearm mortality, and suicide firearm mortality across all US states. We also projected the potential reduction of firearm mortality if the three most strongly associated firearm laws were enacted at the federal level.
+
+Methods
+
+We constructed a cross-sectional, state-level dataset from Nov 1, 2014, to May 15, 2015, using counts of firearm-related deaths in each US state for the years 2008–10 (stratified by intent [homicide and suicide]) from the US Centers for Disease Control and Prevention's Web-based Injury Statistics Query and Reporting System, data about 25 firearm state laws implemented in 2009, and state-specific characteristics such as firearm ownership for 2013, firearm export rates, and non-firearm homicide rates for 2009, and unemployment rates for 2010. Our primary outcome measure was overall firearm-related mortality per 100 000 people in the USA in 2010. We used Poisson regression with robust variances to derive incidence rate ratios (IRRs) and 95% CIs.
+
+Findings
+
+31 672 firearm-related deaths occurred in 2010 in the USA (10·1 per 100 000 people; mean state-specific count 631·5 [SD 629·1]). Of 25 firearm laws, nine were associated with reduced firearm mortality, nine were associated with increased firearm mortality, and seven had an inconclusive association. After adjustment for relevant covariates, the three state laws most strongly associated with reduced overall firearm mortality were universal background checks for firearm purchase (multivariable IRR 0·39 [95% CI 0·23–0·67]; p=0·001), ammunition background checks (0·18 [0·09–0·36]; p<0·0001), and identification requirement for firearms (0·16 [0·09–0·29]; p<0·0001). Projected federal-level implementation of universal background checks for firearm purchase could reduce national firearm mortality from 10·35 to 4·46 deaths per 100 000 people, background checks for ammunition purchase could reduce it to 1·99 per 100 000, and firearm identification to 1·81 per 100 000.
+
+Interpretation
+
+Very few of the existing state-specific firearm laws are associated with reduced firearm mortality, and this evidence underscores the importance of focusing on relevant and effective firearms legislation. Implementation of universal background checks for the purchase of firearms or ammunition, and firearm identification nationally could substantially reduce firearm mortality in the USA.
+
+Funding
+
+None.

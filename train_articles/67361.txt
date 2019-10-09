@@ -1,0 +1,34 @@
+On Gottlieb’s favorite Medicaid outcomes studies
+This post has been cited in the 17 March 2011 edition of Health Wonk Review.
+
+Yesterday Scott Gottlieb published a WSJ piece titled, “Medicaid Is Worse Than No Coverage at All.” Jon Cohn reacted to it, but I didn’t, not explicitly anyway. Now I will.
+
+The reason I didn’t respond is that, as I wrote, I like to stick to the evidence and the methods. So, I wanted to take the time to read the studies Gottlieb cited. That strikes me as the fairest way to evaluate someone’s claim: see if what they cite supports it. As best I can tell, the papers he referenced are these:
+
+The second entry in this list is the UVa surgical outcomes study, which I had already read and about which I’ve already written. I could write at length about the others, but it’d just be overkill. The conclusion is straightforward so I’ll cut right to it.
+
+In citing these studies, Gottlieb wrote,
+
+Dozens of recent medical studies show that Medicaid patients suffer for it. In some cases, they’d do just as well without health insurance. […] In all of these studies, the researchers controlled for the socioeconomic and cultural factors that can negatively influence the health of poorer patients on Medicaid.
+
+The implication is that Medicaid is the cause of the poor health outcomes revealed in “dozens of recent medical studies.” I agree with Gottlieb that there are many, many studies that show that Medicaid is associated with health outcomes that are worse than those experienced by the uninsured. “Dozens” might even be an understatement. He and others could cite a pile so high it would overwhelm you (and me). I could not possibly read every single one.
+
+But quantity is not quality, and association is not causation, even if one controls for a rich set of observable socioeconomic and cultural factors. The very fact that all those observable controls are relevant to the effect size suggests there are other, unobservable factors, that are as well. Even a seemingly large set of controls doesn’t address all the differences between compared groups. This is not controversial. The authors of the very studies Gottlieb cites accept it. How do I know this?
+
+I read the four studies Gottlieb explicitly cited (listed above) and guess what? In every single case the authors are careful to assert that they are investigating associations. They point to ways in which their study does not completely control for all the differences between Medicaid enrollees and the uninsured or other groups. They very clearly state that health insurance status is being used as a proxy for broader socio-economic status.
+
+Thus, one cannot conclude — and the study authors do not — that Medicaid is the cause of worse health. One can only say that there is something about Medicaid enrollees that is associated with worse health outcomes. Since changing only the Medicaid program without changing who is enrolled in it won’t address that something, it is unclear that these studies support any particular reform, though they all suggest that Medicaid patients could do with a bit more help. Just as one cannot conclude Medicaid harms health, one cannot conclude that Medicaid is perfect and not in need of some reform. I am not concluding that. For me, this is about methodology, not policy.
+
+You might think it unfair that I have not quoted the passages in the studies that support what I just said. I could do that. But, even better, you can look yourself. It’s all there. If you’re interested, read the studies, all of them, front to back. Pay attention to the stated limitations and the use of the word “association.” All the clues are there and in plain sight. Reading the abstract may not be enough.
+
+Now, as I and Gottlieb wrote, there are many more such studies. It would be easy for anyone to list a long set of them and claim that they show Medicaid harms health. Believe it if you want, but keep in mind it is easy to verify the claims. Just read the study. If there is no attempt to exploit a random cause of Medicaid enrollment, there is good reason to think the study cannot support causal inference. This is precisely why nearly all the physicians that I know only trust randomized controlled trials for causal inference and are fully aware that observational studies that control only for observable factors reveal correlations only.
+
+There is a middle ground. Natural random variation in Medicaid enrollment does occur due to state variation in program eligibility. That can be exploited to assess Medicaid’s causal effect on outcomes. Studies that do this show that the program improves health. I’ve written about them. So far nobody has suggested why those studies are invalid. Even if they were, it does not mean observables-based studies reveal causality.
+
+Sadly, causality seems to be the first casualty in policy debates. Unfortunately, it’s the thing that matters most.
+
+Share this...
+
+email
+
+Tweetable

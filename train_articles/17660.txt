@@ -1,0 +1,166 @@
+James D. Hamilton Home Page
+James D. Hamilton Professor of Economics
+
+CURRENT POSITION:
+
+Professor of Economics, UCSD
+
+phone: (858) 534-5986
+
+FAX: (858) 534-7040
+
+E-mail: jhamilton@ucsd.edu
+
+Address:
+
+Department of Economics, 0508
+
+University of California, San Diego
+
+9500 Gilman Drive
+
+La Jolla, CA 92093-0508
+
+Measuring Global Economic Activity. A number of economic studies have used a proxy for world real economic activity derived from shipping costs. The measure turns out to depend on a normalization that has substantive consequences of which users of the index have been unaware. This note describes alternative measures that avoid this and other problems with the commonly used proxy. Data and replication code. Presentation slides. Updated data on world industrial production index (Jan 1958 to Dec 2017).
+
+A Skeptical View of the Impact of the Fed's Balance Sheet, prepared for the 2018 U.S. Monetary Policy Forum, coauthored with David Greenlaw, Ethan Harris, and Kenneth West. We review the recent U.S. monetary policy experience with large scale asset purchases (LSAPs) and draw lessons for monetary policy going forward. Most previous studies have found that quantitative easing (QE) lowered long term yields, with a rough consensus that LSAP purchases reduced yields on 10-year Treasuries by about 100 basis points. We argue that the consensus overstates the effect of LSAPs on 10-year yields. We use a larger than usual population of possible events and exploit interpretations provided by the business press. We find that Fed actions and announcements were not a dominant determinant of 10-year yields and that whatever the initial impact of some Fed actions or announcements, the effects tended not to persist. In addition, although the Fed began the transition to a smaller balance sheet sooner than the market had expected, the announcements and implementation of the balance-sheet reduction do not seem to have affected rates much. These observations lead us to conclude that the effects of LSAP are likely more modest than generally claimed. Going forward, we expect the Federal Reserveís balance sheet to stay large. This calls for careful consideration of the maturity distribution of assets on the Fedís balance sheet. Our conclusion is that the most important and reliable instrument of monetary policy is the short term interest rate, and we discuss the implications of this finding for Fed policy going forward.
+
+Why You Should Never Use the Hodrick-Prescott Filter (forthcoming, Review of Economics and Statistics). Here's why. (1) The HP filter produces series with spurious dynamic relations that have no basis in the underlying data-generating process. (2) Filtered values at the end of the sample are very different from those in the middle, and are also characterized by spurious dynamics. (3) A statistical formalization of the problem typically produces values for the smoothing parameter vastly at odds with common practice, e.g., a value for λ far below 1600 for quarterly data. (4) There's a better alternative. A regression of the variable at date t+h on the four most recent values as of date t offers a robust approach to detrending that achieves all the objectives sought by users of the HP filter with none of its drawbacks. Summaries of the paper for a nontechnical audience can be found on Voxeu and Econbrowser. Data and code to replicate are available in Matlab, RATS, Stata, and R.
+
+Structural Interpretation of Vector Autoregressions with Incomplete Identification: Revisiting the Role of Oil Supply and Demand Shocks, coauthored with Christiane Baumeister. Traditional approaches to structural vector autoregressions can be viewed as special cases of Bayesian inference arising from very strong prior beliefs. These methods can be generalized with a less restrictive formulation that incorporates uncertainty about the identifying assumptions themselves. We use this approach to revisit the importance of shocks to oil supply and demand. Supply disruptions turn out to be a bigger factor in historical oil price movements and inventory accumulation a smaller factor than implied by earlier estimates. Supply shocks lead to a reduction in global economic activity after a significant lag, whereas shocks to oil demand do not. See Econbrowser for a short summary of the paper. Data and code to replicate: results from baseline model, results from Kilian (AER, 2009), and results from Kilian and Murphy (2012). Updated data on world industrial production index (Jan 1958 to Dec 2017).
+
+Inference in Structural Vector Autoregressions When the Identifying Assumptions are Not Fully Believed: Re-evaluating the Role of Monetary Policy in Economic Fluctuations (forthcoming, Journal of Monetary Economics), coauthored with Christiane Baumeister. Reporting credible sets or error bands for structural vector autoregressions that are only set identified is a very common practice. However, unless the researcher is persuaded on the basis of prior information that some parameter values are more plausible than others, this common practice has no formal justification. When the role and reliability of prior information is defended, Bayesian posterior probabilities can be used to form an inference that incorporates doubts about the identifying assumptions. We illustrate how prior information can be used about both structural coefficients and the impacts of shocks, and propose a new distribution, which we call the asymmetric t distribution, for incorporating prior beliefs about the signs of equilibrium impacts in a nondogmatic way. We apply these methods to a three-variable macroeconomic model and conclude that monetary policy shocks were not the major driver of output, inflation, or interest rates during the Great Moderation. Online appendix here and data and code to implement here.
+
+Heterogeneity and Unemployment Dynamics, coauthored with Hie Joo Ahn. This paper develops new estimates of flows into and out of unemployment that allow for unobserved heterogeneity across workers as well as direct effects of unemployment duration on unemployment-exit probabilities. Unlike any previous paper in this literature, we develop a complete dynamic statistical model that allows us to measure the contribution of different shocks to the short-run, medium-run, and long-run variance of unemployment as well as to specific historical episodes. We find that changes in the inflows of newly unemployed are the key driver of economic recessions and identify an increase in permanent job loss as the most important factor. A summary of the paper for general-interest readers is available on Econbrowser. See data and code to replicate.
+
+Robust Bond Risk Premia, Review of Financial Studies 31 (February 2018): 399-448. Coauthored with Michael Bauer. Working paper version here. Data and code to replicate here.
+
+Discussion of "Lower Bound Beliefs and Long-Term Interest Rates", International Journal of Central Banking 13 (September 2017): 203-212.
+
+The Equilibrium Real Funds Rate: Past, Present and Future, IMF Economic Review 64 (November 2016): 660-707. Coauthored with Ethan Harris, Jan Hatzius and Kenneth West. Working paper version here. See Econbrowser for a short summary of the paper.
+
+Comment on "Lower Oil Prices and the U.S. Economy: Is This Time Different?", Brookings Paper on Economic Activity, Fall 2016, 337-343.
+
+Macroeconomic Regimes and Regime Shifts, Handbook of Macroeconomics, Volume 2A, pp. 163-201, edited by Harald Uhlig and John Taylor, Amsterdam: Elsevier, 2016. Working paper version here.
+
+Sign Restrictions, Structural Vector Autoregressions, and Useful Prior Information, Econometrica, 83 (September 2015): 1963-1999. Coauthored with Christiane Baumeister. Working paper version here. Data and code to implement here. Video of a lecture presentation of the research here.
+
+Effects of index-fund investing on commodity futures prices, International Economic Review, 56 (February 2015): 187-205. Coauthored with Jing Cynthia Wu. Working paper version here.
+
+Off-Balance-Sheet Federal Liabilities, Cato Papers on Public Policy, 3 (2013-2014): 1-40. Working paper version here.
+
+Risk Premia in Crude Oil Futures Prices, Journal of International Money and Finance, 42 (April 2014): 9-37. Coauthored with Jing Cynthia Wu. Working paper version here, data and replication code here.
+
+Testable Implications of Affine-Term-Structure Models, Journal of Econometrics, 178, no. 2 (January 2014): 231-242. Coauthored with Jing Cynthia Wu. Working paper version here.
+
+Crunch Time: Fiscal Crises and the Role of Monetary Policy, in Proceedings of the U.S. Monetary Policy Forum 2013, pp. 3-58. Initiative on Global Markets, Chicago Booth. Coauthored with David Greenlaw, Peter Hooper, and Frederic Mishkin. Working paper version here, executive summary here.
+
+"Oil Prices, Exhaustible Resources, and Economic Growth," in Handbook of Energy and Climate Change, pp. 29-57, edited by Roger Fouquet. Cheltenham, United Kingdom: Edward Elgar Publishing, 2013. Working paper version here.
+
+"Historical Oil Shocks," in Routledge Handbook of Major Events in Economic History, pp. 239-265, edited by Randall E. Parker and Robert Whaples, New York: Routledge Taylor and Francis Group, 2013. Working paper version here.
+
+Comment on 'The French Gold Sink and the Great Deflation of 1929-32', Cato Papers on Public Policy, Volume 2, 2012-2013, pp. 49-56. Edited by Jeffrey Miron. Washington, DC: Cato Institute. Working paper version here.
+
+The Propagation of Regional Recessions Review of Economics and Statistics, 94, no. 4 (November 2012): 935-947. Coauthored with Michael T. Owyang. Working paper version here. Click here for software and data.
+
+Identification and Estimation of Gaussian Affine Term Structure Models, Journal of Econometrics, 168, no. 2 (June 2012): 315-331. Coauthored with Jing Cynthia Wu. Working paper version here. Click here for software to implement these procedures
+
+Commentary: Import Prices and Inflation, International Journal of Central Banking, March 2012, vol. 8, no. 1, pp. 271-279.
+
+The Effectiveness of Alternative Monetary Policy Tools in a Zero Lower Bound Environment, Journal of Money, Credit, and Banking, 44, no. 1 (Supplement, February 2012): 3-46. Coauthored with Jing Cynthia Wu. Working paper version here. Click here to access the database developed for this paper.
+
+"Nonlinearities and the Macroeconomic Effects of Oil Prices," Macroeconomic Dynamics, 2011, vol. 15, Supplement 3, pp. 364-378. Working paper version here.
+
+"Calling Recessions in Real Time," International Journal of Forecasting October-December 2011, vol. 27, no. 4, pp. 1006-1026. Winner of International Journal of Forecasting Best Paper Award for 2010-2011. Working paper version here. Click here for software to implement these procedures
+
+"Estimating the market-perceived monetary policy rule", American Economic Journal: Macroeconomics, July 2011, vol. 3, pp. 1-28. Co-authored with Seth Pruitt and Scott Borger. Working paper version here and a description of the paper written for a general audience can be found here.
+
+"Sources of Variation in Holding Returns for Fed Funds Futures Contracts", Journal of Futures Markets, 2011, vol. 31, No. 3, pp. 205-229. Co-authored with Tatsuyoshi Okimoto. Working paper version here.
+
+Macroeconomics and ARCH, in Festschrift in Honor of Robert F. Engle, pp. 79-96, edited by Tim Bollerslev, Jeffry R. Russell and Mark Watson, Oxford University Press, 2010. Description of the paper for a general audience here.
+
+Causes and Consequences of the Oil Shock of 2007-08, Brookings Papers on Economic Activity, Spring 2009: 215-259. Articles summarizing this paper for a more general audience: [1] (causes); [2] (consequences). Working paper version here. Also available are data and software to reproduce any of the results in this paper.
+
+Concerns about the Fed's New Balance Sheet, in The Road Ahead for the Fed, edited by John D. Ciorciari and John B. Taylor, Stanford: Hoover Institution Press, 2009. Working paper draft available here. Book can be ordered from Amazon here.
+
+Oil Prices and the Economic Downturn, testimony before the Joint Economic Committee of the United States Congress, May 20, 2009.
+
+Daily Changes in Fed Funds Futures Prices, Journal of Money, Credit, and Banking June 2009, vol. 41, no. 4, pp. 567-582. Working paper version here. An article summarizing this paper for a general audience is available at Econbrowser.
+
+Understanding Crude Oil Prices, Energy Journal 2009, vol 30, no. 2, pp. 179-206. Working paper version here, slides for talk available here.
+
+Daily Monetary Policy Shocks and New Home Sales, Journal of Monetary Economics 55 (2008), pp. 1171-1190. Articles summarizing this paper for a more general audience: [1], [2]. For an illustration of how these estimates relate to developments in January 2008, see this analysis.
+
+Oil and the Macroeconomy, in New Palgrave Dictionary of Economics, 2nd edition, edited by Steven Durlauf and Lawrence Blume, Palgrave McMillan Ltd., 2008.
+
+Regime-Switching Models, in New Palgrave Dictionary of Economics, 2nd edition, edited by Steven Durlauf and Lawrence Blume, Palgrave McMillan Ltd., 2008.
+
+Assessing Monetary Policy Effects Using Daily Federal Funds Futures Contracts, Federal Reserve Bank of St. Louis Review, July/August 2008, pp. 377-393.
+
+Inside the Economist's Mind: A Book Review, Macroeconomic Dynamics, 2008, vol. 12, pp. 112-116.
+
+Commentary: Housing and the Monetary Transmission Mechanism, in Housing, Housing Finance, and Monetary Policy, 2007, Federal Reserve Bank of Kansas City, pp. 415-422.
+
+Normalization in Econometrics, coauthored with Tao Zha and Dan Waggoner . Econometric Reviews, 2007, vol 26, no 2-4, pp. 221-252. Click here to download computer code used in the analysis.
+
+Dating Business Cycle Turning Points, co-authored with Marcelle Chauvet. In Nonlinear Time Series Analysis of Business Cycles, edited by Costas Milas, Philip Rothman, and Dick van Dijk, Elsevier, North Holland, 2006.
+
+Computing Power and the Power of Econometrics, Medium Econometrische Toepessingen, 2006, volume 14, number 2, pp. 32-38.
+
+"What's Real About the Business Cycle?" Federal Reserve Bank of St. Louis Review, July/August 2005, 87(4), pp. 435-452. Click here to download computer code and data sets used in the analysis.
+
+"Oil Shocks and Aggregate Macroeconomic Behavior: The Role of Monetary Policy," Journal of Money, Credit, and Banking, April 2004, vol. 36, pp. 265-286. Co-authored with Anna Maria Herrera. Click here to see a copy of the paper or to download data and programs.
+
+"Why Are Prices Sticky? The Dynamics of Wholesale Gasoline Prices," Journal of Money, Credit and Banking, February 2004, vol. 36, pp. 17-37. Co-authored with Michael Davis. Paper can be downloaded as can the data and software used in the study.
+
+What Is an Oil Shock? Journal of Econometrics, April 2003, vol. 113, pp. 363-398. A working paper version can be downloaded as can the data and software used in the study. "A Model for the Federal Funds Rate Target," Journal of Political Economy, October 2002, vol. 110, pp. 1135-1167. Co-authored with Oscar Jorda. A working paper version can be downloaded as can the data and software used in the study. "On the Interpretation of Cointegration in the Linear-Quadratic Inventory Model," Journal of Economic Dynamics and Control, October 2002, vol. 26, pp. 2037-2049. Working paper version can be downloaded. "A Re-Examination of the Predictability of the Yield Spread for Real Economic Activity," Journal of Money, Credit, and Banking, May 2002, vol. 34, pp. 340-360. Co-authored with Dong Heon Kim Working paper version can be downloaded as can the data and software used in the study. Advances in Markov-Switching Models, Co-edited with Baldev Raj. Physica-Verlag, 2002. "A Parametric Approach to Flexible Nonlinear Inference," Econometrica, May 2001, vol. 69. Working paper version can be downloaded, as can the data and software used in this study. "The Supply and Demand for Federal Reserve Deposits," Carnegie-Rochester Conference Series on Public Policy, December 1998, vol. 49. Working paper version (missing figures and some mathematical symbols) can be downloaded, as can the data and software used in the study. "The Augmented Solow Model and the Productivity Slowdown," Journal of Monetary Economics, Dec. 1998, vol. 42 (coauthored with Josefina Monteagudo). "Measuring the Liquidity Effect," American Economic Review, March 1997. Click here to download data and software "Stock Market Volatility and the Business Cycle," Journal of Applied Econometrics, Sept.-Oct. 1996, vol. 11, no. 5, (coauthored with Gang Lin). Click here to download data and software "This Is What Happened to the Oil Price/Macroeconomy Relation," Journal of Monetary Economics, , Oct. 1996 "The Daily Market for Federal Funds," Journal of Political Economy, Feb. 1996. Click here to download data and software "Specification Testing in Markov-Switching Time-Series Models", Journal of Econometrics, Jan. 1996. Click here to download data and software "What Do the Leading Indicators Lead?", Journal of Business, Jan. 1996 (coauthored with Gabriel Perez-Quiros). Click here to download data and software. "Rational Expectations and the Economic Consequences of Changes in Regime," pp. 325-344, in Macroeconometrics: Developments, Tensions, and Prospects, edited by Kevin D. Hoover, Boston: Kluwer Academic Publishers, 1995.
+
+Time Series Analysis, Princeton Univ. Press, 1994. Click here to order from amazon.com or click here to download data and programs to implement examples from the text. Here is a list of items that have updated or corrected from the earlier printings. If you have other suggestions to add to this list, please let me know. Click on pictures at right to order Japanese translation (two-volume set).
+
+"Autoregressive Conditional Heteroskedasticity and Changes in Regime," Journal of Econometrics, September/October 1994 (coathored with Raul Susmel). Click here to download data and software.
+
+"State-Space Models," Handbook of Econometrics, Volume 4, , edited by R. Engle and D. McFadden, North-Holland, 1994. Click here to download data and software.
+
+"Estimation, Inference, and Forecasting of Time Series Subject to Changes in Regime," Handbook of Statistics, Volume 11, edited by G. S. Maddala, C. R. Rao, and H. D. Vinod, North-Holland, 1993.
+
+"Was the Deflation During the Great Depression Anticipated? Evidence from the Commodity Futures Market," American Economic Review, March 1992. Click here to download data and software.
+
+"A Quasi-Bayesian Approach to Estimating Parameters for Mixtures of Normal Distributions," Journal of Business and Economic Statistics, Jan. 1991. Click here to download data and software.
+
+"Long Swings in the Dollar: Are They in the Data and Do Markets Know It?", American Economic Review, Sept. 1990 (coauthored with Charles Engel). Click here to download data and software.
+
+"Analysis of Time Series Subject to Changes in Regime," Journal of Econometrics, July/August 1990. Click here to download data and software.
+
+"A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle," Econometrica , March 1989. Click here to download data and software.
+
+"Rational Expectations Econometric Analysis of Changes in Regime: An Investigation of the Term Structure of Interest Rates," Journal of Economic Dynamics and Control, June/Sept. 1988
+
+"A Neoclassical Model of Unemployment and the Business Cycle," Journal of Political Economy, June 1988
+
+"The Role of the International Gold Standard in Propagating the Great Depression," Contemporary Policy Issues, April 1988
+
+"Monetary Factors in the Great Depression," Journal of Monetary Economics, March 1987
+
+"A Standard Error for the Estimated State Vector of a State-Space Model," Journal of Econometrics, Dec. 1986
+
+"On the Limitations of Government Borrowing: A Framework for Empirical Testing," American Economic Review, September 1986, pp. 808-819, (coauthored with Marjorie A. Flavin).
+
+"Kalman Filter Estimation of Unobserved Monthly Expectations of Inflation," Journal of Business and Economic Statistics, April 1986, pp. 147-160, (coauthored with Edwin Burmeister and Kent D. Wall).
+
+"Uncovering Financial Market Expectations of Inflation," Journal of Political Economy, December, 1985, pp. 1224-1241.
+
+"The Observable Implications of Self-Fulfilling Expectations," Journal of Monetary Economics, November 1985, pp. 353-373, (coauthored with Charles H. Whiteman).
+
+"Historical Causes of Postwar Oil Shocks and Recessions," Energy Journal, January 1985, pp. 97-116.
+
+"Oil and the Macroeconomy Since World War II," Journal of Political Economy, April 1983, pp. 228-248.
+
+"Dynamics of Terrorism," International Studies Quarterly, March 1983, pp. 39-54, (coauthored with Lawrence C. Hamilton).
+
+"Models of Social Contagion," Journal of Mathematical Sociology, June 1981, pp. 133-160, (coauthored with Lawrence C. Hamilton).
+
+Research support
+
+Some of the research described above is based upon work supported by the National Science Foundation under grants SBR-9707771, SES-0076072, and NSF-0215754. Any opinions, findings and conclusions or recomendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation (NSF).
+
+James D. Hamilton / Economics

@@ -1,0 +1,222 @@
+FBI — About UCR
+Download Printable Document
+
+This section provides updates to the crime data modernization efforts of the UCR Program and its new system as well as the new and revised submission criteria for participating law enforcement agencies. In addition, it outlines the history of the UCR Program and its subprograms.
+
+
+
+Recent developments
+
+
+
+Crime Data Modernization
+
+
+
+As Director James B. Comey and the staff of the national UCR Program work with UCR advisory groups and law enforcement agencies to improve the nation’s crime statistics, the FBI has expanded the scope of the effort to include making crime data more accessible. Updates to the five major initiatives to collect richer, more complete data follow:
+
+Fully implement the National Incident-Based Reporting System (NIBRS) as the exclusive crime data collection at the national level by January 2021. The FBI is committed to helping local, state, and tribal law enforcement agencies transition from the Summary Reporting System (SRS) to NIBRS. In addition to providing technical specifications and support, the FBI is offering training and funding. The funds will support the development of and enhancement to local agencies’ systems to capture NIBRS data and report the required extract from their systems to their state programs; they will also subsidize the establishment or expansion of automated state platforms capable of submitting NIBRS data to the FBI. The Bureau of Justice Statistics (BJS), which is managing the FBI’s funding for the overall transition, is also working with the FBI to transition 400 agencies through the National Crime Statistics Exchange (i.e., NCS-X). In response to the large number of states and law enforcement agencies transitioning to NIBRS over the next 5 years, the FBI will host five regional training conferences that will provide information relevant to each facet of this modernization effort.
+
+Collect use-of-force statistics on officer-involved incidents (fatal and nonfatal) at the local, state, tribal, and federal levels. In May 2016, the Use-of-Force Task Force, which is comprised of representatives of major law enforcement organizations, approved the content of the new collection and proposed publication format for use-of-force data. The focus of this data collection will be on instances where the use of force by law enforcement has resulted in a fatality, serious bodily injury to a person, or discharge of a firearm at or in the direction of a person. The national UCR Program is building a collection management system for these data separate from the criminal incident and offense information, and it is targeting January 2017 to begin the collection.
+
+Fulfill FBI participation in the UCR Program as a federal contributor in accordance with the Uniform Federal Crime Reporting Act (UFCRA) of 1988. After reporting 2014 arrest data from its field offices for human trafficking, hate crime, and criminal cyber intrusion, the FBI added arrest data for bank robbery, child exploitation, health care fraud, and securities fraud for Federal Crime Data, 2015. The FBI is working toward reporting all of its arrest data, ideally by 2017.
+
+Encourage the Department of Justice (DOJ) and other federal agencies to participate in the UCR Program. UCR Program staff are providing assessments of data reporting capabilities and offering assistance to all federal agencies that investigate crime to move them toward compliance with the UFCRA. Subsequently, the Bureau of Alcohol, Tobacco, Firearms and Explosives reported explosive-related arrests and arson-related arrests for Federal Crime Data, 2015. In addition, other federal agencies are in the process of developing plans to submit crime data to the UCR Program.
+
+Crime Data Explorer (CDE). The CDE will be an integral part of giving law enforcement and the public access to a wide range of crime data. With the initial deployment of the data tool (expected in the spring of 2017), CDE users will have the ability to search past and present NIBRS, SRS, and Law Enforcement Officers Killed and Assaulted (LEOKA) data from the UCR system.
+
+
+
+Update of the NIBRS Technical Manual
+
+
+
+Version 3.0 of the National Incident-Based Reporting System (NIBRS) Technical Specification was released September 1, 2016. Agencies developing systems to transition to NIBRS should use that manual or the NIBRS Information Exchange Package Documentation (IEPD) slated for release later this year.
+
+
+
+Addition of animal cruelty offenses, two new fraud offenses, and a new location type
+
+
+
+Beginning in 2016, NIBRS began collecting animal cruelty data as well as the two new fraud offenses of identity theft and hacking/computer invasion; cyberspace was also added as a location type. The FBI will begin publishing these data in 2017.
+
+
+
+Expanded criteria for LEOKA
+
+
+
+In February 2016, Director Comey approved expanding the criteria for participation in the national LEOKA Program to include military and civilian police and law enforcement officers of the Department of Defense (DoD) who are killed or assaulted while performing law enforcement functions and/or duties and who are not in a military combat or deployed-for-mission status. This includes DoD police and law enforcement officers who perform policing and criminal investigative functions while stationed (not deployed) on overseas bases, just as if they were based in the United States. The collection of these data begins immediately, and the FBI will begin publishing these data in 2017.
+
+
+
+Discontinue the collection of rape data using the legacy definition
+
+
+
+Beginning January 1, 2017, the UCR Program will discontinue collecting rape data via the SRS according to the historical, legacy definition. Only rape data submitted under the revised definition will be published for 2017 and subsequent years. This change will not affect agencies that submit rape data via NIBRS.
+
+
+
+Addition of domestic and family violence data
+
+
+
+Beginning January 1, 2018, the national UCR Program will begin collecting domestic and family violence data via NIBRS. The Criminal Justice Information Services (CJIS) Advisory Policy Board (APB) approved the definition of Domestic and Family Violence as:
+
+“The use, attempted use, or threatened use of physical force of a weapon; or the use of coercion or intimidation; or committing a crime against property by a current or former spouse, parent, or guardian of the victim; a person with whom the victim shares a child in common; a person who is or has been in a social relationship of a romantic or intimate nature with the victim; a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian; or by a person who is or has been similarly situated to a spouse, parent, or guardian of the victim.”
+
+The NIBRS User Manual will be updated in 2017 to reflect these changes. However, those agencies that submit crime data via the SRS will not be affected.
+
+
+
+New UCR Project
+
+
+
+Through the New UCR Project, national UCR Program staff have been steadily improving the efficiency and functionality of the program’s submission processes, quality control measures, and data maintenance. In August 2016, the new UCR system went online with the initial data submissions of seven state UCR Programs and has been subsequently incorporating the data of other states into the new system in five increments; the data of all UCR participants are expected to be included within the next year. Not only are the updated hardware and software providing greater efficiency in data collection, but they are also automating many manual processes and will offer specialized reporting as needed. In addition to flat file submissions, the system will also have the capability to receive submissions using Extensible Markup Language (i.e., XML). The FBI has developed an IEPD that conforms to the National Information Exchange Model and is tentatively scheduled for release later this year. These internal processing improvements will reduce the time it takes to analyze data and decrease the time needed to release and publish crime data. Ultimately, the new UCR system will improve customer service and dovetail with the modernization effort to provide more meaningful data.
+
+
+
+The role of UCR
+
+
+
+The FBI’s UCR Program is a nationwide, cooperative statistical effort of more than 18,000 city, university and college, county, state, tribal, and federal law enforcement agencies voluntarily reporting data on crimes brought to their attention. Since 1930, the FBI has administered the UCR Program and has continued to assess and monitor the nature and type of crime in the nation. The program’s primary objective is to generate reliable information for use in law enforcement administration, operation, and management; over the years, however, the data have become one of the country’s leading social indicators. Criminologists, sociologists, legislators, municipal planners, the media, and other students of criminal justice use the data for varied research and planning purposes.
+
+Currently, the UCR Program is comprised of four subprograms: the SRS, NIBRS, the LEOKA Program, and the Hate Crime Statistics Program. In addition to annual reports for these data collections, the UCR Program publishes a preliminary semiannual report of summary data each winter, as well as special compilations of data as available, e.g., cargo theft, human trafficking, and NIBRS topical studies.
+
+In 2015, law enforcement agencies active in the UCR Program represented nearly 314 million United States inhabitants (97.7 percent of the total population). The coverage amounted to 98.6 percent of the population in Metropolitan Statistical Areas, 91.6 percent of the population in cities outside metropolitan areas, and 92.6 percent of the population in nonmetropolitan counties.
+
+
+
+UCR advisory groups
+
+
+
+The Criminal Justice Information Systems Committees of the International Association of Chiefs of Police (IACP) and the National Sheriffs’ Association (NSA) provide vital links between local law enforcement and the FBI in the oversight of the UCR Program. The IACP, representing the thousands of police departments nationwide, and the NSA, serving sheriffs throughout the country, encourage agencies to participate fully in the program. Both committees fulfill advisory capacities concerning the UCR Program’s operation.
+
+In 1988, a Data Providers’ Advisory Policy Board was established to provide input for UCR matters. That board operated until 1993 when it combined with the National Crime Information Center Advisory Policy Board to form the CJIS APB to address all issues regarding the FBI’s criminal justice information services. The current APB ensures a continued emphasis on UCR-related issues. In addition, the Association of State UCR Programs (ASUCRP) focuses on UCR issues within individual state law enforcement associations and promotes interest in the UCR Program. These organizations foster widespread and responsible use of uniform crime statistics and lend assistance to data contributors when needed.
+
+
+
+Historical background of UCR
+
+
+
+Recognizing a need for national crime statistics, the IACP formed the Committee on Uniform Crime Records in the 1920s to develop a system of uniform crime statistics. After studying state criminal codes and making an evaluation of the recordkeeping practices in use, the committee completed a plan for crime reporting that became the foundation of the UCR Program in 1929. The plan included standardized offense definitions for seven main offense classifications known as Part I crimes to gauge fluctuations in the overall volume and rate of crime. Developers also instituted the Hierarchy Rule as the main reporting procedure for what is now known as the SRS of the UCR Program.
+
+The seven Part I offense classifications included the violent crimes of murder and nonnegligent manslaughter, rape, robbery, and aggravated assault as well as the property crimes of burglary, larceny-theft, and motor vehicle theft. By congressional mandate, arson was added as a Part I offense category in 1979, and human trafficking/commercial sex acts and human trafficking/involuntary servitude were added as Part I offenses in 2013.
+
+
+
+The FBI becomes clearinghouse for crime data
+
+
+
+In January 1930, 400 cities representing 20 million inhabitants in 43 states began participating in the UCR Program. That same year, Congress enacted Title 28, Section 534, of the United States Code authorizing the Attorney General to gather crime information. The Attorney General, in turn, designated the FBI to serve as the national clearinghouse for the crime data collected. Every year since, data based on uniform classifications and procedures for reporting offenses and arrests have been obtained from the nation’s law enforcement agencies.
+
+
+
+LEOKA Program emerges in UCR
+
+
+
+Beginning in 1937, the FBI’s UCR Program collected and published statistics on law enforcement officers killed in the line of duty in its annual publication, Crime in the United States. Statistics regarding assaults on officers were added in 1960. In June 1971, executives from the law enforcement conference, “Prevention of Police Killings,” called for an increase in the FBI’s involvement in preventing and investigating officers’ deaths. In response to this directive, the UCR Program expanded its collection of data to include more details about the incidents in which law enforcement officers were killed and assaulted.
+
+Using this comprehensive set of data, the FBI began in 1972 to produce two reports annually, the Law Enforcement Officers Killed Summary and the Analysis of Assaults on Federal Officers. These two reports were combined in 1982 to create the annual publication, Law Enforcement Officers Killed and Assaulted.
+
+
+
+Redesign of UCR
+
+
+
+Although the data collected and disseminated by the UCR Program remained virtually unchanged throughout the years, in the 1980s, a broad utility had evolved for UCR. Recognizing the need for improved statistics, law enforcement called for a thorough evaluative study to modernize the UCR Program. The FBI concurred with the need for an updated program and lent its complete support, formulating a comprehensive three-phase redesign effort. The first two phases of this effort, guided by input from representatives of the FBI, the BJS, the IACP, and the NSA, culminated with the release of a comprehensive report.
+
+The final report, the Blueprint for the Future of the Uniform Crime Reporting Program (Blueprint), was released in May 1985. It specifically outlined three areas of enhancement to help the UCR Program meet future informational needs. First, agencies would use an incident-based system to report offenses and arrests. Second, the national UCR Program would collect data on two levels (i.e., limited and full participation), and third, the national UCR Program would introduce a quality assurance program.
+
+In January 1986, the FBI began phase III of the redesign effort guided by the general recommendations set forth in the Blueprint. Contractors developed new data guidelines and system specifications while the FBI studied various state systems to select an experimental site to implement the redesigned program. Upon selecting the South Carolina Law Enforcement Division (SLED), which enlisted the cooperation of nine local law enforcement agencies, the FBI developed automated data capture specifications to adapt the SLED’s state system to the national UCR Program’s standards, and the BJS funded the revisions. The pilot demonstration ran March 1–September 30, 1987, and resulted in further refinement of the guidelines and specifications.
+
+March 1–3, 1988, the FBI held a National UCR Conference to present the new system to law enforcement and to obtain feedback on its acceptability. Attendees of the National UCR Conference passed three overall recommendations without dissent: first, that there be established a new, incident-based national crime reporting system; second, that the FBI manage this program; and third, that an APB composed of law enforcement executives be formed to assist in directing and implementing the new program. Furthermore, attendees recommended that the implementation of national incident-based reporting proceed at a pace commensurate with the resources and limitations of contributing law enforcement agencies.
+
+Establishing the NIBRS
+
+
+
+From March 1988 through January 1989, the FBI proceeded in developing and assuming management of the UCR Program’s NIBRS, and by April 1989, the national UCR Program received the first test submission of NIBRS data. Over the course of the next few years, the national UCR Program published information about the redesigned program in five documents. The handbook and its four associated volumes provided the definitions, policies, and procedures of NIBRS; the offense codes, reports, data elements, and data values used in the system; explanations of mandatory and optional data elements, data element edits, and error messages; data submission specifications; and approaches for implementing an incident-based system.
+
+More recently, the national UCR Program staff presented pertinent documentation in the National Incident-Based Reporting System (NIBRS) Technical Specification (Version 3.0 dated September 1, 2016) and the National Incident-Based Reporting System (NIBRS) User Manual (Version 1.0 dated January 17, 2013).
+
+Originally designed with 52 data elements, NIBRS currently captures up to 58 data elements via six types of data segments: administrative, offense, victim, property, offender, and arrestee. In the late 1980s, the FBI refrained from making any changes to NIBRS as data contributors implemented the system. However, modifications have become necessary over time. Accordingly, the system’s flexibility has allowed for the collection of additional information to be captured within an incident: bias-motivated offenses (1990), the presence of gang activity (1997), data for law enforcement officers killed and assaulted (2003), data on cargo theft (2005), and offender ethnicity (2013). It has also permitted the addition of new codes to further specify location types and property types (2010). Beginning in 2016, NIBRS began collecting animal cruelty data as well as the two new fraud offenses of identity theft and hacking/computer invasion; cyberspace was also added as a location type.
+
+The FBI began accepting NIBRS data from a handful of agencies in January 1989. As more contributing law enforcement agencies became educated about the rich data available through incident-based reporting and as resources permitted, more agencies implemented NIBRS. Based on 2015 data submissions, 16 states submit all their data via NIBRS, and 33 state UCR Programs are certified for NIBRS participation.
+
+For several years, the UCR Program has maintained its long-running time series of data via the submissions of both SRS and NIBRS contributors. Though the FBI continues to convert NIBRS data to provide equivalent summary statistics for the annual publication Crime in the United States, the FBI established an annual NIBRS publication beginning with the 2011 data. It has also published a number of monographs to demonstrate the utility of NIBRS data and has made available NIBRS master files for those interested in studying them.
+
+
+
+Hate Crime Statistics Program established
+
+
+
+On April 23, 1990, Congress passed the Hate Crime Statistics Act, 28 U.S.C. § 534, which required the Attorney General to collect data “about crimes that manifest evidence of prejudice based on race, religion, sexual orientation, or ethnicity.” The Attorney General delegated the responsibilities of developing the procedures for implementing, collecting, and managing hate crime data to the Director of the FBI, who, in turn, assigned the tasks to the UCR Program. Under the direction of the Attorney General and with the cooperation and assistance of many local and state law enforcement agencies, the UCR Program began collecting hate crime data to comply with the congressional mandate.
+
+The UCR Program’s first publication on the subject was Hate Crime Statistics, 1990: A Resource Book, which was a compilation of hate crime data reported by 11 states that had collected the information under state authority in 1990 and were willing to offer their data as a prototype. The UCR Program continued to work with agencies familiar with investigating hate crimes and collecting related information so that it could develop and implement a more uniform method of data collection on a nationwide scale. Hate Crime Statistics, 1992, presented the first published data reported by law enforcement agencies across the country that participated in the UCR Hate Crime Statistics Program.
+
+Years later, with a number of changes in the data collection due to subsequent legislation, the Hate Crime Statistics Program continues to report annually on the nature and frequency of crime motivated by offenders’ bias against race, gender, gender identity, religion, disability, sexual orientation, and ethnicity. Beginning in 2016, the FBI began collecting data for one ancestral bias type (Anti-Arab) and seven additional religious bias types (Anti-Mormon, Anti-Jehovah’s Witness, Anti-Eastern Orthodox [Russian, Greek, Other], Anti-Other Christian, Anti-Buddhist, Anti-Hindu, and Anti-Sikh). These additions were also made in NIBRS.
+
+
+
+Major Changes within the UCR Program
+
+
+
+Suspension of the Crime Index and Modified Crime Index in the SRS
+
+
+
+In June 2004, the CJIS APB approved discontinuing the use of the Crime Index in the UCR Program and its publications, and it directed the FBI to publish a violent crime total and a property crime total. The Crime Index, first published in Crime in the United States in 1960, was the title used for a simple aggregation of the seven main offense classifications (Part I offenses) in the SRS. The Modified Crime Index was the number of Crime Index offenses plus arson.
+
+For several years, the CJIS Division studied the appropriateness and usefulness of these indices and brought the matter before many advisory groups including the UCR Subcommittee of the CJIS APB, the ASUCRP, and a meeting of leading criminologists and sociologists hosted by the BJS. The prevailing opinion of the advisory groups was that the Crime Index and the Modified Crime Index were not true indicators of the degrees of criminality because they were always driven upward by the offense with the highest number, typically larceny-theft. The sheer volume of those offenses overshadowed more serious but less frequently committed offenses, creating a bias against a jurisdiction with a high number of larceny-thefts but a low number of other serious crimes such as murder and rape.
+
+
+
+Move to exclusively electronic publication
+
+
+
+Following decades of making hard copies of its annual reports available, the FBI began electronically publishing the main publications of its annual UCR series. As technology expanded and more data users accessed information online, the FBI discontinued the printed versions of Crime in the United States, Law Enforcement Officers Killed and Assaulted, and Hate Crime Statistics in 2006.
+
+
+
+Collection of Human Trafficking data
+
+
+
+In response to the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, the FBI began accepting data on human trafficking (commercial sex acts, involuntary servitude, and purchasing prostitution) in January 2013. The national UCR Program staff continues to refine its data collection methods and to encourage agencies to submit related data.
+
+
+
+Change to the definition of rape
+
+
+
+At the fall 2011 CJIS APB meeting, the APB recommended, and then-FBI Director Robert Mueller III approved, changing the definition of rape. Since 1929, in the SRS, forcible rape had been defined as “the carnal knowledge of a female forcibly and against her will,” (UCR Handbook, 2004, p. 19). Beginning with the 2013 data collection, the SRS definition for the violent crime of rape was modified to:
+
+“Penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent of the victim.”
+
+This definition can be found in the Summary Reporting System [SRS] User Manual, Version 1.0 dated June 20, 2013.
+
+The FBI developed reporting options for law enforcement agencies to meet this requirement which were built into the redeveloped data collection system.
+
+In addition to approving the new definition of rape for the SRS, the APB and then-Director Mueller approved removing the word “forcible” from the name of the offense and also replacing the phrase “against the person’s will” with “without the consent of the victim” in other sex-related offenses in the SRS, NIBRS, the Hate Crime Statistics Program, and Cargo Theft. The UCR Program currently converts the NIBRS offenses of rape, sodomy, and sexual assault with an object to the SRS revised definition of rape for publication and trending purposes in Crime in the United States. The program will continue to publish the sex offense data in the annual NIBRS report as submitted by law enforcement.
+
+
+
+Revision of Race and Ethnicity categories
+
+
+
+In response to a directive by the U.S. Government’s Office of Management and Budget, the national UCR Program has expanded its data collection categories for race from four (White, Black, American Indian or Alaska Native, and Asian or Other Pacific Islander) to five (White, Black or African American, American Indian or Alaska Native, Asian, and Native Hawaiian or Other Pacific Islander). Also, the ethnicity categories have changed from “Hispanic” and “Non-Hispanic” to “Hispanic or Latino” and “Not Hispanic or Latino.” These changes are reflected in data beginning in 2013.

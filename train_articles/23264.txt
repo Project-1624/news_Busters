@@ -1,0 +1,26 @@
+Methodology – Center for Effective Lawmaking
+Collecting Data
+
+To generate the Legislative Effectiveness Score and related metrics, we rely on computer code to collect all relevant information from the Library of Congress website, www.congress.gov, for every public house bill (H.R.) and senate bill (S.) that was introduced into the 93rd – 114th Congresses (1973-2016). For every bill, we identify the sponsor and every step in the legislative process as identified in the “All Actions” section of the bill summary, as well as all amendments that were proposed for the bill. After collecting this information, we code the dates and incidence of each major stage of each bill’s progression through the legislative life cycle, serving as the foundation for our metrics.
+
+Legislative Effectiveness Scores
+
+To calculate the Legislative Effectiveness Score for each member of the U.S. House and Senate, we draw on fifteen indicators that collectively capture the proven ability of a legislator to advance her agenda items through the legislative process and into law.
+
+More specifically, to calculate Legislative Effectiveness Scores for the House, we identify the number of bills that each member of the House of Representatives sponsored (BILL); and the number of those bills that received any action in committee (AIC), or action beyond committee (ABC) on the floor of the House. For those bills that received any action beyond committee, we also identify how many of those bills subsequently passed the House (PASS), and how many became law (LAW).
+
+We categorize all bills as being either commemorative (C), substantive (S), or substantive and significant (SS). Our categorization is based on the following coding protocol. A bill is deemed substantive and significant if it was introduced during the 93rd – 113th Congresses, and had been the subject of an end-of-the-year write-up in the Congressional Quarterly Almanac. For bills that were introduced into the 114th Congress, a bill is deemed substantive and significant if it was mentioned on two or more occasions in the stories published in Congressional Quarterly Weekly/CQ Magazine during that Congress. A bill was deemed commemorative if it satisfied any one of several criteria, such as providing for a renaming, commemoration, private relief of an individual, and the like. Finally, all other bills, and any erstwhile “commemorative” bills that were also the subject of a Congressional Quarterly write-up (as detailed above) were classified as substantive. For each of these three categories of bills we relied on our five important stages of the legislative process (above) to produce our final set of fifteen indicators.
+
+Having compiled fifteen indicators of effectiveness, we calculated a Legislative Effectiveness Score (LES), for each member i, in each Congress t, as follows:
+
+where the five large terms represent the member’s fraction of bills (1) introduced, (2) receiving action in committee, (3) receiving action beyond committee, (4) passing the House, and (5) becoming law, relative to all N legislators. Within each of these five terms, commemorative bills are weighted by α = 1, substantive bills by β = 5, and substantive and significant by γ = 10. The overall weighting of N/5 normalizes the average LES to take a value of 1 in each Congress.
+
+We employ an identical methodology to calculate a Legislative Effectiveness Score for each member of the U.S. Senate.
+
+Benchmark Scores
+
+A Representative’s Benchmark Score is established by the following two step procedure:
+
+First, for each Congress, we estimate an Ordinary Least Squares regression model where the dependent variable is Representative i’s LES, and the independent variables are Representative i’s Seniority, an indicator variable for whether she was a member of the majority party, and indicator variables for whether she held a committee and/or subcommittee chair. After estimating the regression coefficients that correspond to each of the independent variables, we generated linear predicted values for each Representative’s LES in the given Congress.
+
+The predicted value is denoted as the Representative’s “Benchmark Score” that we refer to on the pages of this website. Having identified a Representative’s Benchmark Score, we denote a Representative’s Legislative Effectiveness Score as being “Above Expectations” if the ratio of her Legislative Effectiveness Score to her Benchmark Score is greater than 1.50. We denote a Representative’s Legislative Effectiveness Score as being “Below Expectations” if the ratio of her Legislative Effectiveness Score to her Benchmark Score is less than .50. Finally, we denote a Representative’s Legislative Effectiveness Score as “Meets Expectations” if the ratio of her Legislative Effectiveness Score to her Benchmark Score is between .50 and 1.50. We employ an identical methodology to calculate a Senator’s benchmark score.

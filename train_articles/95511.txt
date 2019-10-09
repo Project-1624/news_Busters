@@ -1,0 +1,68 @@
+How John Podesta’s email got hacked, and how to not let it happen to you
+It took a village to get Hillary Clinton’s campaign chair John Podesta’s email hacked.
+
+It wasn’t technical; there wasn’t a big security breach on Google’s servers. In short, someone tricked Podesta into giving them his password, he didn’t have two-factor authentication set up as an additional check, and the campaign’s IT team led him astray. Thanks to WikiLeaks, we now know how it happened:
+
+On March 19, Podesta received an email from “no-reply@accounts.googlemail.com” — a user falsely posing as Google, notifying Podesta that his password had been compromised by someone in Ukraine. The email provided a bit.ly link to change the password.
+
+Seemingly skeptical (and rightfully so), Podesta forwarded the email to his chief of staff, who then passed along the email to the campaign’s IT team. This is where things go so painfully wrong: The campaign’s IT team incorrectly identified the email phishing for Podesta’s password as legitimate, instructing him to change his password.
+
+To the IT team’s credit, they did send along a legitimate Google link — not the original phishing email’s bit.ly link — to change Podesta’s password and instructed him to add two factor-authentication to his account for an added level of password security. But the legitimate Google link didn’t seem to make it to Podesta, and instead he must have used the “poisoned link,” giving his password to hackers and opening up his personal email to unwelcomed eyes.
+
+This wasn’t an elaborately technical hack. Rather, this kind of hacking is incredibly common and incredibly “easy,” Herb Lin, a cybersecurity expert at Stanford University, told me when Colin Powell’s emails were leaked earlier this summer.
+
+Hackers often try to trick email users with seemingly familiar addresses — for example, a trusted email address with one character different — and send “poisoned” links. Click on the link, and it can take you to a page that can steal more information, running malicious software.
+
+And, as Zinaida Benenson, a researcher from University of Erlangen Nuremberg, found, people are easily fooled by this kind of email phishing. PC magazine reported Benenson’s findings:
+
+Based on these results, Benenson concluded that just about anybody could be induced to click a dangerous link using one of several techniques. Addressing the victim by name, crafting the message to induce curiosity, spoofing a known sender, matching message content to the victim's recent experience—these are the tried and true techniques.
+
+The takeaway here is simple: There are a lot of easy, nontechnical ways to hack into your email login information. Ultimately, email technology is old and complicated, which opens it up to vulnerabilities.
+
+There are some common sense measures to protecting yourself from this kind of hacking
+
+This election year has proved to be the year of hacked emails.
+
+From Colin Powell’s emails to Hillary Clinton’s private server to the Democratic National Committee’s email leak to Donald Trump openly encouraging Russian hackers, it’s easy to see that even those with the tightest security measures, and upmost skepticism, are still victim to break-ins.
+
+Of course, your vulnerability on email as an individual varies. It would be inaccurate to say email is less secure than speaking on the phone. It just depends who you are.
+
+But for average email users, there are certain accessible and commonsense ways to make communication more secure.
+
+“When I send my credit number, I use two different channels,” Lin said. For example, he will send the first 12 digits over email and the phone in the last four.
+
+It’s the same idea as using two-factor authentication on your logins — where you not only have a username and password but also are sent a text with an addition code to plug in at login. Here is a video on how to works:
+
+Email servers are really complicated and prone to security flaws
+
+Behind every email address is an email server. That’s a computer located in a data center somewhere that receives email on your behalf and holds on to it until you’re ready to read it. The decentralized nature of email means that anyone, from big companies like Google to hobbyists in their basement, can set up and run an email server.
+
+This is what Hillary Clinton did — she set up a server in her home in Chappaqua, New York. By running her own server, Clinton may have made it easier for her to use her beloved BlackBerry, and she may have been trying to make it harder for third parties to gain access to her emails using subpoenas or Freedom of Information Act requests.
+
+But by choosing to run her own server, she opened herself up to some serious security risks.
+
+By nature, mail servers are really complicated technology — they are prone to flaws that can be exploitable, Justin Cappos, a computer science professor at NYU's Tandon School of Engineering, said.
+
+They are also incredibly difficult to set up. Ars Technica explains how to set up a private server, with a warning:
+
+If you screw up and your server is compromised or used as spam relay, your domain will almost certainly wind up on blacklists. Your ability to send and receive e-mail will be diminished or perhaps even eliminated altogether. And totally scrubbing yourself from the multitude of e-mail blacklists is about as difficult as trying to get off of the TSA's No Fly list. You have been warned.
+
+For average Americans, it’s usually safer to just go with the big mail providers like Gmail or Apple, both Cappos and Lin said. “Some mail servers are set up really poorly [and] because they are complicated, there are lots of issues,” Cappos said.
+
+“Gmail is pretty secure. Are they invulnerable? No,” Lin said. That’s a big takeaway —nothing is invulnerable. As the Ars Technica article notes, going with Google or Apple means that you don’t have control over who is overseeing the transfer of your emails between different mail servers or if your data has been compromised.
+
+Email is also a very old technology
+
+Email technology is old.
+
+“It's the oldest still-recognizable component of the Internet, with its modern incarnation having coalesced out of several different decades-old messaging technologies including ARPANET node-to-node messaging in the early 1970s,” Ars Technica senior editor Lee Hutchinson writes.
+
+And because it’s old, certain security developments haven’t caught up to it yet — most notably, encryption. When used correctly, encryption — which we see in iMessages or texts through apps like WhatsApp — scrambles messages in a way that prevents anyone but the intended recipient from unscrambling them. But when it comes to email, almost all mail servers operate in plain text.
+
+“It’s like if the mailman only delivered postcards instead of envelopes,” Cappos said. You could see how this could be a problem if you have a corrupt mailman or someone pretending to mailman who is really a malicious identity thief.
+
+There are some solutions to this, like using a GPG, which would encrypt your email before sending, requiring the recipient to be able to decrypt the message. But tools like this are hardly accessible, Cappos said.
+
+The good news is that there has been a big push toward encryption, Cappos said. As for now, however, the software is just “old and entrenched,” he said.
+
+For now, just be careful. Use two factor authentication.

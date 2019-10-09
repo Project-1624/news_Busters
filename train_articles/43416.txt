@@ -1,0 +1,60 @@
+Medicaid.gov
+Eligibility
+
+Medicaid is a joint federal and state program that, together with the Children’s Health Insurance Program (CHIP), provides health coverage to over 72.5 million Americans, including children, pregnant women, parents, seniors, and individuals with disabilities. Medicaid is the single largest source of health coverage in the United States.
+
+To participate in Medicaid, federal law requires states to cover certain groups of individuals. Low-income families, qualified pregnant women and children, and individuals receiving Supplemental Security Income (SSI) are examples of mandatory eligibility groups. States have additional options for coverage and may choose to cover other groups, such as individuals receiving home and community-based services and children in foster care who are not otherwise eligible.
+
+The Affordable Care Act of 2010 created the opportunity for states to expand Medicaid to cover nearly all low-income Americans under age 65. Eligibility for children was extended to at least 133% of the federal poverty level (FPL) in every state (most states cover children to higher income levels), and states were given the option to extend eligibility to adults with income at or below 133% of the FPL. Most states have chosen to expand coverage to adults, and those that have not yet expanded may choose to do so at any time. See if your state has expanded Medicaid coverage to low-income adults.
+
+Determining Eligibility for Medicaid
+
+Financial Eligibility
+
+The Affordable Care Act established a new methodology for determining income eligibility for Medicaid, which is based on Modified Adjusted Gross Income (MAGI). MAGI is used to determine financial eligibility for Medicaid, CHIP, and premium tax credits and cost sharing reductions available through the health insurance marketplace. By using one set of income counting rules and a single application across programs, the Affordable Care Act made it easier for people to apply and enroll in the appropriate program.
+
+MAGI is the basis for determining Medicaid income eligibility for most children, pregnant women, parents, and adults. The MAGI-based methodology considers taxable income and tax filing relationships to determine financial eligibility for Medicaid. MAGI replaced the former process for calculating Medicaid eligibility, which was based on the methodologies of the Aid to Families with Dependent Children program that ended in 1996. The MAGI-based methodology does not allow for income disregards that vary by state or by eligibility group and does not allow for an asset or resource test.
+
+Some individuals are exempt from the MAGI-based income counting rules, including those whose eligibility is based on blindness, disability, or age (65 and older). Medicaid eligibility for individuals 65 and older or who have blindness or a disability is generally determined using the income methodologies of the SSI program administered by the Social Security Administration (some states, known as 209(b) states, use certain more restrictive eligibility criteria than SSI, but still largely apply SSI methodologies). Eligibility for the Medicare Savings Programs, through which Medicaid pays Medicare premiums, deductibles, and/or coinsurance costs for beneficiaries eligible for both programs (often referred to as dual eligibles) is determined using SSI methodologies..
+
+Certain Medicaid eligibility groups do not require a determination of income by the Medicaid agency. This coverage may be based on enrollment in another program, such as SSI or the breast and cervical cancer treatment and prevention program. Children for whom an adoption assistance agreement is in effect under title IV-E of the Social Security Act are automatically eligible. Young adults who meet the requirements for eligibility as a former foster care recipient are also eligible at any income level.
+
+Non-Financial Eligibility
+
+To be eligible for Medicaid, individuals must also meet certain non-financial eligibility criteria. Medicaid beneficiaries generally must be residents of the state in which they are receiving Medicaid. They must be either citizens of the United States or certain qualified non-citizens, such as lawful permanent residents. In addition, some eligibility groups are limited by age, or by pregnancy or parenting status.
+
+Effective Date of Coverage
+
+Once an individual is determined eligible for Medicaid, coverage is effective either on the date of application or the first day of the month of application. Benefits also may be covered retroactively for up to three months prior to the month of application, if the individual would have been eligible during that period had he or she applied. Coverage generally stops at the end of the month in which a person no longer meets the requirements for eligibility.
+
+Medically Needy
+
+States have the option to establish a “medically needy program” for individuals with significant health needs whose income is too high to otherwise qualify for Medicaid under other eligibility groups. Medically needy individuals can still become eligible by “spending down” the amount of income that is above a state's medically needy income standard. Individuals spend down by incurring expenses for medical and remedial care for which they do not have health insurance. Once an individual’s incurred expenses exceed the difference between the individual’s income and the state’s medically needy income level (the “spenddown” amount), the person can be eligible for Medicaid. The Medicaid program then pays the cost of services that exceeds the expenses the individual had to incur to become eligible.
+
+In addition to states with medically needy programs, 209(b) states also must allow a spenddown to the income eligibility levels eligibility groups based on blindness, disability, or age (65 and older), even if the state also has a medically needy program. Thirty-six states and the District of Columbia use spenddown programs, either as medically needy programs or as 209(b) states.
+
+Appeals
+
+States must provide individuals the opportunity to request a fair hearing regarding a denial, an action taken by the state agency that he or she believes was erroneous, or if the state has not acted with reasonable promptness. States have options for how to structure their appeals processes. Appeals may be conducted by the Medicaid agency or delegated to the Exchange or Exchange Appeals Entity (for appeals of denials of eligibility for individuals whose income is determined based on MAGI). Appeals also may be delegated to another state agency, if a state obtains approval from CMS under the Intergovernmental Cooperation Act of 1968.
+
+CIB: Coordination Between HHS Appeals Entity and Medicaid and CHIP Agencies – Assessment States
+
+This Informational Bulletin discusses federal requirements and provides technical assistance related to coordination of appeals among insurance affordability programs in states that have elected for the Federally-Facilitated Exchange (FFE) to assess eligibility for Medicaid and CHIP (“assessment states”).
+
+Appendix 1: States treating decisions of HHS Appeals Entity as assessments of eligibility provides three scenarios to illustrate the specific steps that assessment states must take upon receiving an Electronic File Transfer from the Department of Health and Human Services (HHS) Appeals Entity if the state has opted to treat decisions of the HHS Appeals Entity as an assessment of Medicaid or CHIP eligibility. See operational flows for the scenarios:
+
+Appendix 2: States treating decisions of HHS Appeals Entity as determinations of eligibility provides three scenarios to illustrate the specific steps that assessment states must take upon receiving an Electronic File Transfer from the HHS Appeals Entity if the state has opted to accept decisions of the HHS Appeals Entity as a final determination of Medicaid or CHIP eligibility. See operational flows for the scenarios:
+
+Related Topics
+
+Spousal Impoverishment: Protects the spouse of a Medicaid applicant or beneficiary who needs coverage for long-term services and supports (LTSS), in either an institution or a home or other community-based setting, from becoming impoverished in order for the spouse in need of LTSS to attain Medicaid coverage for such services.
+
+Treatment of Trusts: When an individual, his or her spouse, or anyone acting on the individual's behalf establishes a trust using at least some of the individual's funds, that trust can be considered available to the individual for determining eligibility for Medicaid.
+
+Transfers of Assets for Less Than Fair Market Value: Medicaid beneficiaries who need LTSS will be denied LTSS coverage if they have transferred assets for less than fair market value during the five-year period preceding their Medicaid application. This rule applies when individuals (or their spouses) who need LTSS in a long-term care facility or wish to receive home and community-based waiver services have transferred, sold, or gifted assets for less than they are worth.
+
+Estate Recovery: State Medicaid programs must recover from a Medicaid enrollee's estate the cost of certain benefits paid on behalf of the enrollee, including nursing facility services, home and community-based services, and related hospital and prescription drug services. State Medicaid programs may recover for other Medicaid benefits, except for Medicare cost-sharing benefits paid on behalf of Medicare Savings Program beneficiaries.
+
+Third Party Liability: Third Party Liability refers to third parties who have a legal obligation to pay for part or all the cost of medical services provided to a Medicaid beneficiary. Examples are other programs such as Medicare, or other health insurance the individual may have that covers at least some of the cost of the medical service. If a third party has such an obligation, Medicaid will only pay for that portion.
+
+Waivers and Demonstrations: States can apply to CMS for waivers to provide Medicaid to populations beyond those traditionally covered under the state plan. Some states have additional state-only programs to provide medical assistance for certain low-income people who do not qualify for Medicaid. No federal funds are provided for state-only programs.

@@ -1,0 +1,40 @@
+FAQ for Press
+This FAQ is geared towards members of the press.
+
+What does BleachBit do?
+
+BleachBit achieves two related goals. First, BleachBit removes junk files to make more room. Second, BleachBit removes private information like a virtual shredder.
+
+BleachBit specializes in a "surgical" approach that deletes wanted information. While it does not delete software such as the operating system or web browsers, it deletes specific information produced by software. Contrasted with physical destruction of the storage device or whole-disk erasure, this method is more convenient because that other software can be used immediately without needing to be reinstalled.
+
+BleachBit is neither a chemical nor a physical device. BleachBit is an anti-forensics software application.
+
+The wiping process is permanent and not reversible.
+
+BleachBit allows non-technical users to clean their systems, while it is also convenient and useful for technical users. See also the features page.
+
+Who uses BleachBit?
+
+BleachBit is a tool that different kinds of people use for different purposes. BleachBit has legitimate uses such as recovering disk space on a cluttered drive, system optimization, and personal privacy.
+
+How did the BleachBit project start?
+
+Andrew Ziem released the first version of BleachBit in late 2008. BleachBit is a project and not a legal entity like a corporation. See also the FSF interview.
+
+Who is behind BleachBit project today?
+
+Andrew Ziem leads the project, and volunteers contribute code, technical support, and translations. Volunteers also contribute and maintain cleaners, which are add-ons to clean specific software programs. See also Contributors and Acknowledgments.
+
+How do you pronounced Ziem?
+
+Ziem rhymes with team.
+
+How much does it cost?
+
+BleachBit is not "very expensive software." Actually, it is completely free of charge for everyone in all situations such as personal use, commercial, and governmental use. Downloads require no registration and are anonymous. There are no official commercial services such as support, consulting, or enhancements.
+
+How many people use BleachBit?
+
+There are estimates of millions of downloads. It is difficult to track because third parties are allowed to redistribute it, and they often do. BleachBit is translated to 61 languages and is used worldwide.
+
+Prominent users include Bruce Schneier and Hillary Clinton's team.

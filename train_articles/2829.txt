@@ -1,0 +1,76 @@
+CAIT Paris Contributions Map â€“ Explore Intended Nationally Determined Contributions (INDCs)
+× FAQ
+
+What is the CAIT Paris Contributions Map and the CAIT Pre-2020 Pledges Map?
+
+Built on the robust CAIT 2.0 platform, the CAIT Paris Contributions Map enables users to visualize and assess the greenhouse gas mitigation plans in each country's Intended Nationally Determined Contribution (INDC). The tool structures INDC data according to a framework based on the Lima Decision, the Greenhouse Gas Protocol Mitigation Goal Standard, and the Greenhouse Gas Protocol Policy and Action Standard to help users better understand submitted INDCs. By highlighting the information provided by Parties (referred to as "countries" in this FAQ), and where that information is lacking, the Paris Contributions Map helps to enhance transparency.
+
+Users are able to map greenhouse gas reduction goals by type (e.g. base year emissions goal or base year intensity goal), included sectors, included greenhouse gases, or percentage of national emissions covered. By clicking directly on a country within the map, users can see a summary of relevant information related to that specific country's contribution.
+
+The CAIT Pre-2020 Pledges Map highlights pledges that were submitted by countries to the United Nations Framework Convention on Climate Change (UNFCCC) in 2009 and 2010, outlining actions countries would take by 2020.
+
+The two tools have the similar functionality, presenting information submitted by countries at different points of the negotiations.
+
+How do I use the map?
+
+A map view in the tool allows users to see all submitted country contributions at a glance. Users may select a specific indicator from the drop-down menu to examine what types of GHG reduction goals countries use and what sectors are covered, among other options. On the map, users can also click on a country to access a short summary of the mitigation-related information countries submitted to the UNFCCC.
+
+A complete, structured list of information can be accessed by clicking on "Detailed View" or by using the search box on the top right. This allow users to access complete list of mitigation-related information countries submitted to the UNFCCC and see indicators side by side for a maximum of 3 countries. This view does not imply a direct comparability of the contributions or pledges as a whole but allows users to see singe indicators side by side.
+
+The complete data on the site is available for direct download by clicking on "Download Data" on the top right menu.
+
+Can I download all data?
+
+Yes.
+
+The pre-2020 pledges data is available here.
+
+The paris contributions (INDCs) data is available here.
+
+Please note that portions of the content are in html format.
+
+What are INDCs and pre-2020 pledges?
+
+Under the U.N. Framework Convention on Climate Change (UNFCCC), countries committed to create a new international climate agreement by the conclusion of the Paris climate summit in December 2015. In order to help facilitate that goal, countries agreed to release public outlines of actions they intend to take. These commitments are known as Intended Nationally Determined Contributions, or INDCs.
+
+In their mitigation INDCs, countries propose the steps they intend to take to reduce their greenhouse gas emissions. Each country's proposal takes into account its specific national priorities, circumstances, and capabilities. Taken together, the individual INDCs are likely to form the basis for the global agreement.
+
+The Pre-2020 Pledges Map profiles country mitigation pledges made before and during climate talks in Copenhagen in 2009 and Cancun in 2010.
+
+Do you perform an assessment of the INDCs through the CAIT Paris Contributions Map?
+
+The CAIT Paris Contributions Map presents data submitted by countries to the UNFCCC and therefore does not include an assessment of the INDCs. The tool transcribes the mitigation component of the INDCs into a uniform format, making it easy for users to see what information countries have submitted.
+
+Does the map tell me anything about ambition of the contributions?
+
+The CAIT Paris Contributions Map does not evaluate ambition per se. Rather, the tool focuses on making INDCs transparent and accessible, aiming to facilitate others' assessments of ambition, equity, and other factors.
+
+Is this all the information submitted by countries to the UNFCCC? What about adaptation? What about finance?
+
+The CAIT Pre-2020 Pledges Map only incorporates climate change mitigation pledges and does not include pledges related to issues such as adaptation or finance.
+
+Likewise, the CAIT Paris Contributions Map focuses only on the mitigation component of countries' INDCs. Countries may include proposals in their INDCs related to adaptation, finance, capacity-building, and/or other issues, but the Paris Contributions Map does not focus on these other contribution types.
+
+The focus of these tools on mitigation stems from links to WRI's work on the GHG Protocol Mitigation Goal Standard and Policy and Action Standard, which apply specifically to GHG mitigation, and should not be read as a commentary on the proper scope of INDCs or on the role of adaptation or finance in the UNFCCC. Separately, WRI has worked on the role of adaptation in INDCs, and has tracked progress toward meeting finance commitments under the UNFCCC.
+
+What is the methodology behind the map?
+
+All assumptions and development decisions for the map are clearly documented in the "Documentation" link on the top right. This also includes the structure and the sources of information presented in the map. For some countries, information is not applicable or has not been provided.
+
+For the Pre-2020 Pledges Map, the data set includes 15 developed (Annex I) and 58 developing (non-Annex I) countries. Developed countries committed to quantified economy-wide emissions reduction targets and developing countries submitted a diverse range of nationally appropriate mitigation actions. The data is based on national government documents submitted to the United Nations Framework Convention on Climate Change (UNFCCC).
+
+Where can I provide feedback on the tools?
+
+Please contact us either via email at wcait@wri.org or through our feedback form. We will reply to you as soon as possible.
+
+What abbreviations are used?
+
+Please refer to the "Documentation" link on the top right to access the full documentation.
+
+CDM Clean Development Mechanism GHG Greenhouse Gases GWP Global Warming Potential INDCs Intended Nationally Determined Contributions LULUCF Land Use, Land-Use Change and Forestry
+
+Will you be expanding this map over time adding new features?
+
+We will continue to work to make the map more useful and user friendly. Please provide feedback if you have ideas or suggestions.
+
+Additionally, once more proposals are available we will add a dashboard providing a big picture view of the state and format of INDC submissions.

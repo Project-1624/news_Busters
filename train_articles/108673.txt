@@ -1,0 +1,56 @@
+The 227-Year-Old Statute Being Used to Order Apple to Endanger Your Privacy, Explained
+The FBI and Apple are fighting over modern technology using a very old law. A 227-year-old statute, created at the same time as the federal courts themselves, is now at the center of a showdown about privacy.
+
+
+
+The FBI wants Apple to write custom software that will help the FBI break into a seized phone. Apple doesn’t want to do that, because it would be creating a serious security flaw in its own privacy protections, a flaw that could be exploited to hurt its millions of customers. Depending on how the All Writs Act is interpreted by a judge, Apple may have to comply.
+
+Advertisement
+
+So what is the All Writs Act? “Writs” is just an old-timey word for “formal order.” It was part of the Judiciary Act of 1789, which created the federal court system. George Washington signed it into law. It’s Founding Fathers-level old.
+
+Old, but not long. This is the entirety of the statute giving Apple so much grief:
+
+(a) The Supreme Court and all courts established by Act of Congress may issue all writs necessary or appropriate in aid of their respective jurisdictions and agreeable to the usages and principles of law.
+
+(b) An alternative writ or rule nisi may be issued by a justice or judge of a court which has jurisdiction. (June 25, 1948, ch. 646, 62 Stat. 944; May 24, 1949, ch. 139, § 90, 63 Stat. 102.)
+
+Advertisement
+
+The All Writs Act gives courts power to issue orders that do not fall under a pre-existing law. It provides a sort of interstitial power,and serves as a procedural tool for courts dealing with odd and miscellaneous issues that haven’t been covered by other laws yet. (The legalese is casus omissus.)
+
+You can see how All Writs made sense to bust out when the justice system was new and full of holes. And you can see how it is ripe for misuse today. It’s law that, if interpreted broadly, gives judges the court-order version of a blank check.
+
+Advertisement
+
+This does not mean a court could use All Writs as justification to create an order that goes against the law or has nothing to do with it. A judge can’t issue an order for Tim Cook to execute Jony Ive or to move to a condo in Yonkers. It’s not that broad. A 1948 Supreme Court ruling, Price v. Johnston, explains how All Writs functions as a complement to the rest of the law, describing it as “a legislatively approved source of procedural instruments designed to achieve ‘the rational ends of law.’”
+
+Yet despite these limitations, it’s still a powerful tool. One of the turning points for All Writs came in 1977. The Supreme Court ruled in favor of the government when it used All Writs to compel a telecom company to help it conduct surveillance to make a racketeering sting. And once the Supreme Court permitted All Writs as a way to compel a pen register, lower courts used it in similar ways.
+
+Advertisement
+
+All Writs is not used frequently in modern courts. There have been some high-profile “uses” of All Writs in military courts in recent years, but the courts have argued that they did not have authority under All Writs. Here’s why Chelsea Manning trial couldn’t have public access, for instance, according to Just Security:
+
+In the Bradley Manning court martial proceedings, for example, the highest court in the military justice system – the Court of Appeals for the Armed Forces (CAAF) – held that it lacked the authority under the All Writs Act to grant extraordinary relief to protect the First Amendment right of public access to criminal trials identified by the Supreme Court in Richmond Newspapers and its progeny.
+
+Advertisement
+
+As Popular Mechanics notes, when All Writs is used in modern times, it is often to “effectuate” a search warrant. In this Apple/FBI situation, this is how it’s being used. The FBI wants to search a phone, and it’s using All Writs to make Apple help.
+
+All Writs has been used to compel tech companies to help the government decrypt devices, so this certainly isn’t a huge leap. All Writs has already been used to compel Apple to help law enforcement unlock iPhones. A United States Attorney recently said that the government used All Writs to compel Apple to unlock iPhones 70 times. In 2014, for instance, Judge Gabriel Gorenstein used All Writs to compel an unnamed tech company to unlock a phone, and cited that 1977 Supreme Court case while outlining why it made sense.
+
+Advertisement
+
+The bad news for Apple: Only one judge has questioned All Writs in these cases.
+
+In 2005, Judge James Orenstein dismissed the government when it tried to convince him he could use All Writs to authorize surveillance, saying that this sort of All Writs interpretation “invites an exercise of judicial activism that is breathtaking in its scope and fundamentally inconsistent with my understanding of the extent of my authority.” And in 2015, Orenstein even questioned whether All Writs was appropriate for compelling Apple. “The question becomes whether the government seeks to fill in a statutory gap that Congress has failed to consider or instead seeks to have the court give it authority that Congress chose not to confer,” he wrote.
+
+Advertisement
+
+(Getting our privacy potentially fucked isn’t funny, but it is excellent that these judges are named Orenstein and Gorenstein. Petition to get them a reality television program, like Judge Judy, only Judge Orenstein & Gorenstein, sort of a Siskel and Ebert type situation.)
+
+The judge who gave this week’s court order, US Magistrate Judge Sheri Pym, has given Apple five days to respond to the request. Now, remember that 1977 Supreme Court case that I described as a “turning point?” That case determined that third parties (like Apple) can assist the government, if certain conditions are met. If it is “unreasonably burdensome” for that third party, it doesn’t have to help. So Apple needs to persuade Pym that creating custom malware is an undue burden on Apple. If it does, there’s a chance she could decide that All Writs won’t fly in this case.
+
+Advertisement
+
+If she decides in favor of the government, however, this case will set a very serious precedent that will encourage agencies to pursue court orders to compel tech companies to cooperate, even if that cooperation means forcing companies to create security backdoors that undermine the purpose of the products they create.

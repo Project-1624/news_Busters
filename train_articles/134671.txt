@@ -1,0 +1,210 @@
+Real-time wideband cylindrical holographic surveillance system
+STATEMENT OF GOVERNMENT INTEREST
+
+This invention was made with Government support under Contract DE-AC06-76RLO 1830, awarded by the U.S. Department of Energy. The Government has certain rights in the invention.
+
+This application is a Continuation-In-Part of U.S. patent application Ser. No. 08/440,279 filed May 12, 1995, now U.S. Pat. No. 5,557,283, which is a Continuation-In-Part of U.S. patent application Ser. No. 08/212,432, filed Mar. 14, 1994, now U.S. Pat. No. 5,455,590 issued Oct. 3, 1995, which is a Continuation-In-Part of U.S. patent application Ser. No. 07/963,204, filed Nov. 23, 1992, now abandoned, which is a Continuation-In-Part of U.S. patent application Ser. No. 07/752,750, filed Aug. 30, 1991, now abandoned.
+
+FIELD OF THE INVENTION
+
+The present invention relates to a method and apparatus useful for inspection of concealed objects. More specifically, the present invention relates to forming a cylindrical image with millimeter wave signals that are transmitted and received by a holographic array and that are reconstructed using Fast Fourier Transform Analysis. The method and apparatus have particular utility for personnel inspection in mass transportation centers.
+
+BACKGROUND
+
+The need for a new and more versatile personnel inspection system in mass transportation centers has increased in recent years. Extensive description of traditional and holographic methods is provided in U.S. Pat. No. 5,455,590, hereby incorporated by reference.
+
+The holographic linear array of sequentially-switched millimeter-wave transmitter-receivers scanned quickly over a large aperture to actively illuminate the target as described in U.S. Pat. No. 5,455,590 uses a single frequency that is coherent, which means the phase of the returned signal is recorded as well as the amplitude. The holographic linear array described in U.S. patent application Ser. No. 08/440,279 improves image quality by using a wideband system.
+
+U.S. Pat. No. 5,170,170 to Soumekh show a two-dimensional reconstruction process. In his book entitled FOURIER ARRAY IMAGING, Englwood Cliffs, N.J., Prentice Hall, 1994, Soumekh derived a reconstruction process for a circular aperture resulting in a two-dimensional image.
+
+However, the previous systems lack the capability of scanning an individual from all sides quickly without inconveniencing the individual. Specifically, to fully inspect a person for concealed objects, it is necessary to image the person from many viewing angles. With a planar aperture, a person is required to pose at a number of predetermined positions while images are acquired. To obtain a sufficient number of images (8-128), total imaging time may be as high as several minutes, which is unacceptable for high throughput applications including airports.
+
+Thus, there is a need for a three-dimensional holographic imaging method and apparatus that can provide high resolution with fast scanning and fast image reconstruction.
+
+SUMMARY OF THE INVENTION
+
+The present invention disclosed herein involves a method and apparatus for achieving near real-time holographic imaging of concealed objects. A vertical linear antenna array is actuated over a circular path to obtain a 360° cylindrical scan of a covered target, for example a clothed individual. The data are in the form of unfocused or diverging millimeter wave illumination which is capable of penetrating a cover, for example clothing. The millimeter wave illumination must be mathematically focused or reconstructed into recognizable images. A completely new reconstruction algorithm is required to accept the wideband data gathered over a section of the 360° cylindrical aperture and form a fully focused three-dimensional image. Subsets of the 360° data may be used to form images of the target from any cylindrical viewing position or viewing angle. Complete inspection of the target is accomplished by a single scan of the vertical linear antenna array about the circumference of the cylinder in several seconds. Computer generated animation permits sequential viewing of images incremented by viewing angle. When the increments are small enough, the image will appear that the target is rotating slowly. An operator is then able to fully visually inspect the target for concealed objects.
+
+The present invention is an extension of the holographic imaging system from planar imaging operation viewing a single side to cylindrical imaging operation viewing multiple sides. Rather than forming an image of one side, for example a front view, the invention forms images from multiple sides. Wideband data are gathered over a two-dimensional cylindrical aperture. The use of a cylindrical aperture overcomes the single viewing angle limitation present in a planar aperture system. In this specification, the term wideband refers to integrated sending and receiving of at least two frequencies, as opposed to separate sending and receiving of at least two frequencies.
+
+The wideband or broadband parameters with respect to number of frequencies, and range of frequencies are described in the U.S. Pat. No. 5,557,283 hereby incorporated by reference. Moreover, U.S. Pat. No. 5,557,283 describes the antenna array and bi-static, heterodyne, in- phase transceiver preferred for cylindrical imaging, as well as alternative transceivers useful for cylindrical imaging.
+
+In this patent application, the cylindrical scanner and the reconstruction algorithms are described.
+
+It is an object of the present invention to provide a cylindrical wideband millimeter-wave imaging method and apparatus.
+
+It is a further object of the present invention that the method and apparatus have an expanded depth of field and providing views or images from multiple viewing angles or multiple sides to accomplish near real-time imaging that is needed for personnel surveillance.
+
+The subject matter of the present invention is particularly pointed out and distinctly claimed in the concluding portion of this specification. However, both the organization and method of operation, together with further advantages and objects thereof, may best be understood by reference to the following description taken in connection with accompanying drawings wherein like reference characters refer to like elements.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+FIG. 1 is a block diagram of a cylindrical wideband holographic system.
+
+FIG. 2 is a conceptual diagram of a cylindrical wideband holographic system.
+
+FIG. 3 is a schematic of a preferred bistatic, heterodyne, in-phase transceiver.
+
+FIG. 3a is a schematic of a bistatic, heterodyne, quadrature receiver.
+
+FIG. 4 is a coordinate definition diagram.
+
+FIG. 5 is a diagram quantifying resolution.
+
+FIG. 6 is an obverse image of a mannequin made with a planar scan.
+
+FIG. 7 is an obverse image of a mannequin made with a cylindrical scan.
+
+FIG. 8 is a reverse image of a mannequin made with a planar scan.
+
+FIG. 9 is a reverse image of a mannequin made with a cylindrical scan.
+
+FIG. 10 is an obverse image of a person made with an optical camera.
+
+FIG. 11 is an obverse image of a person made with a cylindrical scan.
+
+FIG. 12 is a series of images illustrating the computer animation.
+
+DETAILED DESCRIPTION OF THE INVENTION
+
+The following description begins with a description of a wideband cylindrical holographic imaging system followed by a derivation of a wideband cylindrical reconstruction algorithm. Operational Examples are then provided.
+
+WIDEBAND CYLINDRICAL HOLOGRAPHIC SYSTEM
+
+The wideband cylindrical holographic system (FIG. 1) is made up of an antenna array 10, transceiver 12, scanner 13, A/D converter 14, computer 16, and display 18. A system diagram (FIG. 2) shows a person 40 on a platform 41 within a scanner frame 42. The antenna array 10 is rotated about the person 40 to obtain the image(s).
+
+The person 40 to be scanned is directed to stand relatively still on the platform 41 of the scanner frame 42 while vertical linear antenna array 10 around the person 40 in a cylindrical manner. Millimeter-wave illumination from the antenna array 10 passes through clothing and is reflected from concealed objects. The reflected millimeter-wave signals are recorded by the imaging system and focused, or reconstructed, using a computer 16 into recognizable images of the subject revealing concealed objects.
+
+CYLINDRICAL SCANNER
+
+The cylindrical scanner's 43 function is simply to rotate the vertical antenna array(s) 10 about the target being scanned. For a person as a target, this requires a scanner approximately 2 meters in height. The radius of the scan should be in the range of 0.75 meters-1.25 meters. The radius must be large enough that a person can easily enter and exit the system and should be as small as possible to minimize the footprint, or floorspace, required of the scanner.
+
+LINEAR ANTENNA ARRAY
+
+The antenna array 10 spans the vertical length of the aperture, typically about 2 meters for personnel surveillance. The millimeter-wave source is switched to each antenna element in the array. The array can be configured to transmit and receive from the same antenna element, however, a preferred configuration uses separate transmit and receive arrays. Logic circuitry sequences the transmit and receive antennas to transmit from one antenna and receive the reflected wideband signal from each of the two neighboring antennas in the receive row. This places a virtual sampling point half-way between each transmit and receive antenna. The transmit row and receive row are preferably offset by half the antenna spacing, so the effective sample spacing is one- half of the single-row antenna spacing. This sequencing scheme cannot be used on the last antenna element, so the effective number of sample points is reduced by one. The sampling density needed for the arrays is determined by the millimeter-wave center-frequency and by the Nyquist sampling criterion. Generally, sampling on the order of one-half wavelength is optimal, with two- thirds wavelength providing acceptable results. For a 2 meter vertical array operating at 27-33 GHz, this would indicate that 300-400 antenna elements will be needed.
+
+For a wideband system, the antenna array 10 may be a single transmit/receive antenna element that is moved across a two-dimensional aperture. It is preferred, that the antenna 10 be an array of antenna elements that is at least a single row of a plurality of antenna elements. Alternatively, antenna elements may be arranged so that one row is a set of transmit antenna elements and a second row is a set of receive antenna elements. Separate transmit and receive antenna elements are preferred for a wideband system to avoid the need of a multi-frequency circulator.
+
+TRANSCEIVER SWITCHES
+
+Millimeter-wave switching is required in the cylindrical wideband holographic imaging system in order to provide high-speed sampling of the cylindrical aperture. Under high-speed electronic control, a single transmit antenna and a single receive antenna must be individually connected to the transceiver. It is possible to construct an array using commercially available single pole double throw (SPDT) pin-diode millimeter-wave waveguide switches, however, this array would be very bulky, and it would be difficult to arrange the outputs to have the desired spacing. To overcome this difficulty, a custom switch module, such as the single-pole 8- throw (SP8T) switch described in 08/440,279 hereby incorporated by reference, is desirable. Internally, the SP8T switch module uses a binary tree structure composed of three layers of SPDT switch elements for a total of 7 SPDT elements. Each SPDT element contains a duroid fin-line printed circuit junction which uses shunt pin-diodes to direct the millimeter-wave signal to the desired output waveguide. The pin-diodes are controlled by electronic driver circuitry mounted in a housing on top of a split-block (not shown). One of these SP8T modules may be connected to 8 other SP8T modules to form a 64 element switch sub-array. Several of these switch sub-arrays can then be connected to the vertical linear antenna array 10 with the required number of antenna elements.
+
+ANTENNA ELEMENTS
+
+The type of antenna element may be any type including but not limited to slot line, patch, endfire, waveguide, dipole, or any combination thereof. A preferred antenna element is a polyrod antenna element as described in 08/440,279 hereby further incorporated by reference.
+
+TRANSCEIVER
+
+For the cylindrical system, a bi-static heterodyne, in-phase only transceiver (FIG. 3) is preferred. In this transceiver, the RF VCO wideband signal is transmitted directly by the transmit antenna 50. The received signal is received by the receiver 51 mixed in a mixer 52 and amplified (amplifier 53 to down-convert the received signal to the intermediate frequency (IF). The LO VCO oscillator 54 is offset in frequency from the RF VCO oscillator 55 by the IF frequency. To maintain coherence, an IF REF signal is obtained by mixing the RF VCO and LO VCO signals with a second mixer 56. This mixed signal is amplified and filtered in the amplifier 57 to remove higher frequency mixing products. Mixing the IF and IF REF signals in the final mixer 58 and amplifying in the final amplifier 59 yields the in-phase signal (I) . Alternative transceivers may be used including but not limited to those in 08/440,279. More preferred is bi-static heterodyne in-phase and quadrature transceiver (FIG. 3a) because the in-phase only transceiver requires data from the entire scanned volume whereas using the in-phase and quadrature transceiver permits shifting the origin or reference position to the center of the scan thereby permitting digitizing of data in a reduced volume surrounding the target.
+
+A-D CONVERTER
+
+The wideband data is sampled vertically along the array and angularly over the 360° aperture and is digitized by an Analog to Digital converter (A/D) for subsequent storage in the computer.
+
+COMPUTER AND DISPLAY
+
+After digitizing, the reconstruction algorithm discussed below is applied to a segment of the 360° data to reconstruct a three-dimensional image of the target from a single viewing angle. The three-dimensional image is then collapsed into a fully-focused two-dimensional image of the target for display on the computer. A number of these viewing angles can then be integrated into a single computer animation showing a smooth rotation of the image of the target under surveillance.
+
+OTHER COMPONENTS
+
+The VCO DRIVERS board, ARRAY-CPU INTERFACE board, Analog to Digital converter (A/D) and other detailed components are set forth in 08/440,279 hereby further incorporated by reference.
+
+DERIVATION OF IMAGE RECONSTRUCTION ALGORITHM
+
+The image reconstruction algorithm derived in this section extends the work of Soumekh. Notation used is consistent with that used by Soumekh.
+
+The measurement configuration is shown in FIG. 4, where the primed coordinates represent the transceiver position 1, and the unprimed coordinates represent a single target point 2 in the target or image space 3. If the target 3 is characterized by a reflectivity function, f(x,y,z), then the response measured at the transceiver position 1 will be the superposition of the reflectivity function times the round trip phase to the target 4. The round-trip phase is ##EQU1## The response measured at the transceiver position (1) is ##EQU2## where k=ω/c is the wavenumber, and the amplitude decay with range is not considered since it will have little impact on focusing the image. If needed, amplitude decay with range may be compensated for in the raw data by applying a numerical gain to the data from the transceiver. The numerical gain increases with range.
+
+Alternatively, the data could be collected in the time domain, as is common with acoustic data. In this case, the data in Equation 2 will be obtained by Fourier Transforming the gathered data, which is the echoed data in the time domain.
+
+The exponential term in Equation 2 represents a spherical wave which is decomposed into plane wave components, ##EQU3## This decomposition indicates that the spherical wave can be decomposed into equal amplitude and phase plane wave components emanating from the target point at (x,y,z). The angle of each plane wave component in the x-y plane is φ which has limits of +/-π/2. For propagating plane waves, the limits of the z-component of the wavenumber will be k z , ε -2k,2k!. The dispersion relation for the plane wave components is
+
+k x 2 +k y 2 +k z 2 =(2k)2 (4)
+
+or defining k r to be the wavenumber component in the x-y plane ##EQU4## Using the plane-wave decomposition (5) in (2) the measured data can be expressed as ##EQU5## The term inside the { } represents a three-dimensional Fourier Transform of the target reflectivity sampled on a non-uniform grid. Defining a three dimensional Fourier Transform pair as
+
+f(x,y,z)⃡F(2k r cos φ,2k r sin φ,k z )(7)
+
+Yields, ##EQU6## The integral over k z , is an inverse Fourier Transform, so taking the Fourier Transform with respect to z of both sides and dropping the distinction between z and z' yields ##EQU7## Defining
+
+F p (φ,2k r ,k z ).tbd.F(2k r cos φ,2k r sin φ,k z ) (10)
+
+g(θ,k r ).tbd.ej2k.sbsp.rRcos φ (11)
+
+yields ##EQU8## which represents a convolution in the θ domain
+
+S(θ,ω,k z )=g(ω-φ,k r )*F p (φ,2k r ,k z ) (13)
+
+Taking the Fourier Transform with respect to θ and denoting the Fourier domain for θ by ξ, the convolution becomes a multiplication
+
+S(ξ,ω,k z )=F p (ξ2k r ,k z )G(ξ,k r )(14)
+
+or ##EQU9## Denoting Fourier Transformation or its inverse using a script ℑ yields ##EQU10## The term in the denominator of (16) can be computed numerically by performing the Fourier Transform using the FFT on an angularly sampled version of (11), or it may be determined analytically for ξ<<2k r R using a definition of the Hankel function of the first kind ξ order and its asymptotic form ##EQU11## This yields the simplest form of the inversion ##EQU12## in the spatial frequency domain. The data will be non-uniformly sampled in the spatial frequency domain and will therefore need to be interpolated onto a uniform (k x ,k y ,k z ) grid prior to computation of the final three-dimensional inverse Fourier Transform that yields the reconstructed image in rectangular coordinates ##EQU13## The discussion above shows how the gathered data can be inverted to obtain the target's reflectivity function or image. The steps that must be performed to reconstruct this image are summarized below.
+
+Image Reconstruction Algorithm The steps required to implement the reconstruction technique on a computer are outlined below. The data is discretized in (φ,ω,z) and the image is discretized in (x,y,z). Fourier Transforms will typically be done using the discrete Fast Fourier Transform algorithm.
+
+Reconstruction Algorithm
+
+1. Gather sampled data, s(φ,ω,z), from the transceiver over a cylindrical aperture. If the sampled data is available with only one or the other of the real component (I) or the imaginary component (Q), the remaining component may be derived from the sampled data using the Hibert Transform as discussed in D. Slater NEAR FIELD ANTENNA MEASUREMENTS, Artech House, Boston, Mass. 1991.
+
+2. Perform 2-D FFT of this data with respect to φ and z to obtain S(ξ,ω,k z ).
+
+3. Multiply by a phase-factor and perform 1-D inverse ##EQU14##
+
+4. Interpolate this data onto uniformly sampled (k x ,,k y ,k z ) grid from the uniformly sampled (φ,ω,k z ) data. ##EQU15##
+
+5. Perform the 3-D inverse FFT.
+
+f(x,y,z)=ℑ-1 (k x ,k y ,k z ) F(k x ,k y ,k z )! (22)
+
+6. Compute the magnitude of the image data.
+
+7. Render/display the image(s).
+
+This image reconstruction technique relies on formation of the image in the spatial frequency domain. The resolution obtained in the image can be determined by examining the extent or width of the coverage in the spatial frequency domain. For the cylindrical image reconstruction, the spatial frequency coverage is of a polar region shown in FIG. 5. Approximating the polar region as rectangular results in a horizontal cross range resolution of ##EQU16## where λ c is the wavelength at the center frequency. The vertical resolution will be determined by θ b , the lesser of the antenna full beamwidth or the angle subtended by the aperture in the z direction. The width of the spatial frequency coverage in the z direction is approximately 4k c sin (θ b /2). This results in a vertical cross-range resolution of ##EQU17## The spatial frequency width in the k y direction is 2(k 2 -k 1 ) where k 1 and k 2 are the wavenumbers at the low and high frequencies of the system. This width results in a range resolution of approximately ##EQU18## where c is the speed of light and B is the temporal frequency bandwidth of the system.
+
+COMPUTER INSTRUCTIONS
+
+The steps of the reconstruction algorithm reside on the digital computer as
+
+(I) a first set of instructions for receiving data from the A/D converter,
+
+(ii) a second set of instructions for computing a two-dimensional Fourier transform of the received data for each frequency,
+
+(iii) a third set of instructions for multiplying the two-dimensional Fourier transform by a phase factor and computing a one-dimensional inverse Fourier transform,
+
+(iv) a fourth set of instructions for interpolating the one-dimensional inverse Fourier transform onto a uniformly sampled grid and forming an interpolated product,
+
+(v) a fifth set of instructions for computing a three-dimensional inverse transform of the interpolated product and obtaining a complex cylindrical three-dimensional image,
+
+(vi) a sixth set of instructions for computing a magnitude of the complex cylindrical three-dimensional image and obtaining a cylindrical three-dimensional image, and
+
+(vii) a seventh set of instructions for displaying the cylindrical three-dimensional image.
+
+IMAGING
+
+Reconstructing a large number of frames, 8-128, preferably 32-128 frames, permits smooth transitions between images, making the results suitable for computer animation at a rate from about 4 to 32 frames per second. It is further preferred that the frames are obtained from overlapping arc segments of data to improve smooth transitions. By observing a full animation, the subject is viewed from all angles without requiring inspector examination of separate still images.
+
+The actual data processing of the above described seven steps produces a single image from a single viewing angle or arc segment of the 360° data. Overlapping arc segments permits viewing around corners, within depressions or other topographical perturbations of the target. For example, for imaging a clothed person, an imaging sequence may use 90° arc segments overlapped in 10° increments, or 0°-90°, 10-100°, . . . , 350°-80°, to form 36 images with illuminations centered at 10° increments. Each frame or arc segment reconstruction is computationally intensive. Therefore, high-speed image reconstruction is preferably achieved with high-speed parallel computer processors. To overcome difficulties of shared access to the data that is overlapped by a plurality of parallel computer processors, it is preferred that each arc segment reconstruction is accomplished by a single processor module. Each processor module receives its arc segment data from a digital multiplexer. Use of the multiplexer permits presenting data that is identical in an overlap to several of the processor modules simultaneously, permitting highly efficient video image reconstruction. Although efficient and fast because each processor module operates independently, more computer memory is needed for redundancy of data storage. Use of the multiplexer further permits near real time reconstruction of the image data. Reconstruction of the first arc segment may commence as soon as the first arc segment data are received. It is not necessary to wait until the scan has completed a full 360° rotation.
+
+EXAMPLE 1
+
+An experiment was performed to compare the image obtained with a planar aperture wideband holographic system to an image obtained with a cylindrical wideband holographic system according to the present invention.
+
+The reconstruction algorithm was fully implemented on a Sun workstation in the C programming language. A first system utilized a single channel millimeter wave transceiver mounted on an x-y scanner in cooperation with a rotating platform. The rotary platform was used to rotate the subject to be imaged by small angular increments between vertical scans. Although convenient, for laboratory imaging, the x-y scanner in cooperation with the rotating platform required up to 20 minutes to collect 360° of data.
+
+The imaging target was a mannequin torso having a concealed object. FIGS. 6-9 show the dramatic improvement in image quality that has been obtained by using a cylindrical aperture instead of a planar aperture. The images from both planar and cylindrical systems were taken at between 90 to 100 GHz frequencies. The planar aperture images FIGS. 6 and 8 exhibited more shadows because the planar aperture width of 40 cm and depth of 60 cm corresponds to only 37° of angular coverage whereas the cylindrical aperture exhibited fewer shadows using 120° of 360° data FIGS. 7 and 9.
+
+EXAMPLE 2
+
+An experiment was conducted to demonstrate the system with a person with a concealed object. In this example, a 128 element 27-33 GHz linear array was used in a vertical position in combination with a rotary platform. This system acquired 360° of data in less than several seconds, about 2.5 seconds.
+
+FIG. 10 shows a photograph of a man with a concealed object and FIG. 11 shows the cylindrical image revealing the object, a Glock-17 handgun.
+
+EXAMPLE 3
+
+An experiment was conducted to demonstrate reconstruction of sequential overlapping data. FIG. 12 shows a mannequin with a small handgun taped to its back and covered with a cotton T-shirt, imaged over a 360° aperture. Eight of 64 view angles are shown in FIG. 12. Computer animation of the 64 view angles resulted in smooth animation of the images at frame rates of 4-32 frames per second. By observing the full animation, the target is viewed from all angles without requiring separate examination of a plurality of still images. The animation further preserves the three-dimensional nature of the target with concealed objects appearing "off" the target in several frames of the animation.
+
+CLOSURE
+
+While the forms of the invention herein disclosed constitute presently preferred embodiments, many others are possible. It is not intended herein to mention all of the possible equivalent forms or ramifications of the invention. It is to be understood that the terms used herein are merely descriptive, rather than limiting, and that various changes may be made without departing from the spirit or scope of the invention.

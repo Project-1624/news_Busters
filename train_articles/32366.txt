@@ -1,0 +1,46 @@
+NOAA Climate.gov
+How We Use Models
+
+Models help us to work through complicated problems and understand complex systems. They also allow us to test theories and solutions. From models as simple as toy cars and kitchens to complex representations such as flight simulators and virtual globes, we use models throughout our lives to explore and understand how things work.
+
+Climate Models, and How They Work
+
+This image shows the concept used in climate models. Each of the thousands of 3-dimensional grid cells can be represented by mathematical equations that describe the materials in it and the way energy moves through it. The advanced equations are based on the fundamental laws of physics, fluid motion, and chemistry. To "run" a model, scientists specify the climate forcing (for instance, setting variables to represent the amount of greenhouse gases in the atmosphere) and have powerful computers solve the equations in each cell. Results from each grid cell are passed to neighboring cells, and the equations are solved again. Repeating the process through many time steps represents the passage of time. Image source: NOAA.
+
+Climate models are based on well-documented physical processes to simulate the transfer of energy and materials through the climate system. Climate models, also known as general circulation models or GCMs, use mathematical equations to characterize how energy and matter interact in different parts of the ocean, atmosphere, land. Building and running a climate model is complex process of identifying and quantifying Earth system processes, representing them with mathematical equations, setting variables to represent initial conditions and subsequent changes in climate forcing, and repeatedly solving the equations using powerful supercomputers.
+
+Check out The Very, Very Simple Climate Model »
+
+Climate Model Resolution
+
+Climate models separate Earth’s surface into a three-dimensional grid of cells. The results of processes modeled in each cell are passed to neighboring cells to model the exchange of matter and energy over time. Grid cell size defines the resolution of the model: the smaller the size of the grid cells, the higher the level of detail in the model. More detailed models have more grid cells, so they need more computing power.
+
+See an animation showing different grid sizes »
+
+Explore information about supercomputer systems used to run global climate models »
+
+Climate models also include the element of time, called a time step. Time steps can be in minutes, hours, days, or years. Like grid cell size, the smaller the time step, the more detailed the results will be. However, this higher temporal resolution requires additional computing power.
+
+How are Climate Models Tested?
+
+Once a climate model is set up, it can be tested via a process known as “hind-casting.” This process runs the model from the present time backwards into the past. The model results are then compared with observed climate and weather conditions to see how well they match. This testing allows scientists to check the accuracy of the models and, if needed, revise its equations. Science teams around the world test and compare their model outputs to observations and results from other models.
+
+Using Scenarios to Predict Future Climate
+
+Once a climate model can perform well in hind-casting tests, its results for simulating future climate are also assumed to be valid. To project climate into the future, the climate forcing is set to change according to a possible future scenario. Scenarios are possible stories about how quickly human population will grow, how land will be used, how economies will evolve, and the atmospheric conditions (and therefore, climate forcing) that would result for each storyline.
+
+In 2000, the Intergovernmental Panel on Climate Change (IPCC) issued its Special Report on Emissions Scenarios (SRES), describing four scenario families to describe a range of possible future conditions. Referred to by letter-number combinations such as A1, A2, B1, and B2, each scenario was based on a complex relationship between the socioeconomic forces driving greenhouse gas and aerosol emissions and the levels to which those emissions would climb during the 21st century. The SRES scenarios have been in use for more than a decade, so many climate model results describe their inputs using the letter-number combinations.
+
+In 2013, climate scientists agreed upon a new set of scenarios that focused on the level of greenhouse gases in the atmosphere in 2100. Collectively, these scenarios are known as Representative Concentration Pathways or RCPs. Each RCP indicates the amount of climate forcing, expressed in Watts per square meter, that would result from greenhouse gases in the atmosphere in 2100. The rate and trajectory of the forcing is the pathway. Like their predecessors, these values are used in setting up climate models.
+
+Learn more about RCPs »
+
+Results of Current Climate Models
+
+Around the world, different teams of scientists have built and run models to project future climate conditions under various scenarios for the next century. The model results project that global temperature will continue to increase, but show that human decisions and behavior we choose today will determine how dramatically climate will change in the future.
+
+How are Climate Models Different from Weather Prediction Models?
+
+Unlike weather forecasts, which describe a detailed picture of the expected daily sequence of conditions starting from the present, climate models are probabilistic, indicating areas with higher chances to be warmer or cooler and wetter or drier than usual. Climate models are based on global patterns in the ocean and atmosphere, and records of the types of weather that occurred under similar patterns in the past.
+
+View maps showing short-term climate forecasts »

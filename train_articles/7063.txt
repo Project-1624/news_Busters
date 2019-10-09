@@ -1,0 +1,143 @@
+Health Care Coverage, Access, and Affordability for Children and Parents: New Findings from March 2018
+
+Michael Karpman, Genevieve M. Kenney, and Dulce Gonzalez
+
+September 6, 2018
+
+Following the implementation of the Affordable Care Act (ACA), health insurance coverage rates rose sharply among nonelderly parents living with dependent children, and the share of children with coverage increased modestly (Alker and Chester 2015; Gates et al. 2016; Karpman, Gates, et al. 2016; Kenney et al. 2016). Studies have found that the ACA was a driving factor behind these coverage gains. For instance, according to prior research, the expansion of Medicaid eligibility increased coverage for low-income parents and had a “welcome mat” effect that led to increased enrollment of children who were already eligible for Medicaid, consistent with previous research finding evidence of spillover effects from earlier expansions (Aizer and Grogger 2003; Devoe et al. 2015; Dubay and Kenney 2003; Hudson and Moriya 2017; Kenney, Long, and Luque 2010; McMorrow et al. 2017). This increase in health insurance has improved parents’ ability to pay for their and their families’ health care (McMorrow et al. 2017).
+
+In recent years, however, political support for maintaining the ACA has been tenuous. Several bills to repeal the ACA and establish a per capita cap on federal funding for Medicaid were narrowly rejected in 2017, and reauthorization of the Children’s Health Insurance Program (CHIP) was delayed for nearly four months before members of Congress reached an agreement to extend funding for 10 years. Enrollment in private nongroup health insurance has declined as funding for Marketplace outreach and enrollment assistance has been cut and as premiums have risen, with further enrollment declines projected because of the repeal of the federal individual mandate penalty (Congressional Budget Office 2017).1 Some Medicaid expansion states are implementing policies that condition Medicaid eligibility on participation in work or work-related activities and payment of premiums, while other states are planning to expand Medicaid in the coming year.
+
+In this brief, we provide an update on changes in health insurance coverage and health care access and affordability for parents and their children between 2013 and 2018 using data from the Health Reform Monitoring Survey (HRMS). We then examine differences in coverage status among parents by income and state Medicaid expansion status and the reasons some parents remain uninsured. We also assess the confidence insured parents have in their ability to maintain their current coverage in the coming year.
+
+We find that the gains in coverage, access, and affordability for parents and children that occurred since 2013 have been sustained through March 2018, but significant gaps remain. More than one in five low-income parents are uninsured, with the highest levels of uninsurance found among low-income parents in states that have not expanded Medicaid.
+
+What We Did
+
+We used data from multiple rounds of the HRMS, drawing on questions from the HRMS and the HRMS child supplement (HRMS-Kids), to assess changes in coverage and health care access and affordability for parents ages 18 to 64 and children ages 17 and younger between June/September 2013 and March 2018.2 The HRMS-Kids was initially fielded in the second quarter of 2013 to collect information about a randomly selected child in respondents’ households, yielding data on 2,400 children for nearly each round fielded between 2013 and 2016 and more than 3,000 children in subsequent rounds that included the HRMS-Kids.
+
+Parents include all nonelderly adult parents and legal guardians living with a dependent child age 17 or younger. When analyzing data on children, we include responses from parents and guardians and from other relatives or nonrelatives reporting on behalf of a child in the household. We weight the HRMS and HRMS-Kids to produce nationally representative estimates for nonelderly parents and children, respectively.
+
+We focus on changes in coverage, access, and affordability between June/September 2013, just before the implementation of the ACA’s major coverage provisions, and March 2018, the most recent month for which we have data. We pool June and September 2013 data to increase the sample size and the precision of our mid-2013 estimates. Our analysis focuses on changes in coverage at the time of the survey and during the past year among children and parents. Health care access measures include having a usual source of care at the time of the survey and having had a routine checkup in the past 12 months. Affordability measures include problems paying family or children’s medical bills in the past year3 and unmet needs for care because of costs among parents in the past year.4 We also assess parents’ confidence that children could get medical care if they needed it, which likely reflects perceptions of both access and affordability of care for children.
+
+We then use March 2018 data to assess coverage status by annual family income as a share of the federal poverty level (FPL) and state Medicaid expansion status as of early 2018.5 We focus on adults with incomes at or below 138 percent of FPL, nearly all of whom would qualify for Medicaid if their state expanded eligibility under the ACA; adults with incomes between 138 and 400 percent of FPL, who might qualify for premium tax credits to purchase health plans through the health insurance Marketplaces; and adults with incomes of 400 percent of FPL or more, who do not qualify for financial assistance to obtain coverage. We also assess differences in access and affordability at the time of the survey and during the past year by coverage status at the time of the survey and provide estimates of the reported reasons for not having coverage among uninsured parents and confidence in the ability of insured parents to keep their coverage.6
+
+We use HRMS and HRMS-Kids survey weights and regression adjustment to control for differences in the demographic and socioeconomic characteristics of the respondents and their children across different rounds of the survey.7 This allows us to remove variation in coverage, access, and affordability caused by changes in the observable characteristics of people responding to the survey over time. But the basic patterns shown for the regression-adjusted measures are similar to those based solely on simple weighted estimates.8 We emphasize statistically significant changes in coverage and other outcomes over time, defined as differences that are significantly different from zero at the 5 percent level or lower. Though HRMS estimates capture changes in outcomes since June/September 2013, the estimates do not reflect the effects of some important ACA provisions (e.g., early state Medicaid expansions and the maintenance of eligibility provision for children) but do reflect changes beyond the effects of the ACA that might have affected coverage and affordability (e.g., changes related to labor market conditions).
+
+What We Found
+
+Health insurance coverage gains occurred between 2013 and 2018 for children and parents, following implementation of the Affordable Care Act’s key coverage provisions.
+
+Previous analyses of the HRMS and HRMS-Kids data found increases in coverage rates for both children and parents following implementation of the ACA’s major coverage provisions (Karpman, Gates, and Kenney 2016; Karpman, Kenney, et al. 2016; Kenney et al. 2014). We found that coverage gains for both groups were sustained through early 2018. Between June/September 2013 and March 2018, the share of parents with coverage at the time of the survey increased 5.9 percentage points, and the share of children with coverage increased 1.5 percentage points (figure 1). There were similar gains in the shares of parents and children who were insured for all 12 months before the survey. Both measures of coverage drawn from the HRMS and HRMS-Kids have remained fairly constant for parents and children since March 2015 (data not shown).
+
+These coverage gains have coincided with improvements in health care access and affordability.
+
+The share of parents with a usual source of care increased 3.1 percentage points between June/September 2013 and March 2018, and the share of parents and children who had a routine checkup in the past 12 months increased 3.5 and 2.3 percentage points, respectively (figures 2 and 3). Health care for parents and children was also more affordable in March 2018 than it was in June/September 2013. The share of parents who reported an unmet need for medical care because of costs in the past year fell 4.4 percentage points, and the share reporting problems paying family medical bills fell 5.5 percentage points. There has also been a decline in the share of adults reporting that they or someone in their family had problems paying children’s medical bills and an increase in the share of parents reporting that they are very or somewhat confident their child could get health care if needed.9
+
+Although parents experienced larger gains in coverage relative to children, parents were three times as likely as children to be uninsured in 2018, and nearly one-third of low-income parents in states that have not expanded Medicaid remain uninsured.
+
+About 1 in 10 parents (10.1 percent; figure 4) were uninsured in March 2018, compared with 3.4 percent of children (data not shown). More than 1 in 5 parents (21.8 percent) with incomes at or below 138 percent of FPL were uninsured (figure 4), and the uninsurance rate for parents in that income group was nearly 20 percentage points higher in states that have not expanded Medicaid relative to states that have expanded Medicaid (32.8 percent versus 13.2 percent; figure 5). This gap is likely driven in part by the low income thresholds used to determine eligibility for Medicaid for parents who are not pregnant and do not have a disability in many nonexpansion states. For instance, nondisabled, nonpregnant parents in Alabama and Texas can qualify for Medicaid only if their incomes are at or below 18 percent of FPL.10
+
+Uninsurance rates were also higher in nonexpansion states among parents with incomes between 138 and 400 percent of FPL, which is likely because of factors affecting enrollment in private coverage and differences in underlying economic and demographic characteristics independent of changes related to the ACA (Kenney et al. 2016) (figure 5). For instance, less funding for Marketplace outreach and enrollment assistance might be available in nonexpansion states, particularly after federal funding cuts that affected states relying on the federally facilitated Marketplace. The uninsurance rate for parents with incomes above 400 percent of FPL was 1.6 percent in both expansion and nonexpansion states.
+
+Uninsured parents are less likely than insured parents to have a usual source of care or a routine checkup and more likely to have unmet health care needs.
+
+Parents who were uninsured in March 2018 were less likely than insured parents to have a usual source of care (45.8 percent versus 79.4 percent) and to have had a routine checkup in the past 12 months (33.9 percent versus 67.3 percent; figure 6). They were more likely to have unmet needs for care because of costs in the past 12 months. These differences likely reflect differential access to care for the uninsured compared with the insured, but they might also be because of differences between the insured and the uninsured in health-seeking behavior and health care needs and because of geographic variation in the service delivery systems where they live.
+
+More than two-thirds (68.1 percent) of parents who were uninsured in March 2018 reported that they did not have coverage because the cost was too high or they could not afford it (figure 7). About 18.1 percent reported that they did not want insurance, and less than 5 percent of uninsured parents reported not knowing about or having trouble finding information on available options. Other data sources indicate that some uninsured parents are eligible for Medicaid or premium tax credits for Marketplace coverage (Blumberg et al. 2018; Haley et al. 2018). Some of these uninsured parents might not know that they qualify for this financial assistance.
+
+Among insured parents, 8.7 percent were not too confident or not at all confident in their ability to keep their current coverage in the coming year (figure 8). Parents with incomes at or below 138 percent of FPL were four times more likely than those with incomes at or above 400 percent of FPL to feel not confident about their ability to maintain their current coverage in the coming year (16.4 percent versus 4.0 percent). But we did not find differences in confidence in keeping coverage by state Medicaid expansion status (data not shown).
+
+:
+
+What It Means
+
+The HRMS finds improvements in health insurance coverage and health care access and affordability for parents and children between 2013 and early 2018. Recent analysis of large federal surveys such as the National Health Interview Survey and American Community Survey have found the declines in uninsurance among children slowing or even beginning to reverse in some places since 2015 (Haley et al. 2018, McMorrow and Kenney 2018), indicating the importance of continuing to monitor coverage, access, and affordability for children and parents.
+
+In early 2018, large differences remained in coverage among parents based on income and state of residence. Nearly one-third of low-income parents in states that have not expanded Medicaid were uninsured as of March 2018. Cost remains the major barrier to coverage for uninsured parents, and insured parents with low incomes are less certain than higher-income parents that they will be able to maintain their insurance.
+
+Parents’ ability to keep coverage will likely have important spillover effects on their children. Studies have found that parents’ coverage status is associated with children’s coverage status and health care access, including whether children receive recommended well-child visits (Davidoff et al. 2003; DeVoe, Tillotson, and Wallace 2009). In addition, the expansion of coverage under the ACA has been found to improve many financial outcomes (Caswell and Waidmann 2017; Hu et al. 2016), which might improve child health and well-being through pathways beyond their interactions with the health care system.
+
+Several pending policy changes could affect health insurance coverage for parents and their children going forward. Recent decisions to expand Medicaid in Virginia and Maine are expected to augment recent coverage gains, and upcoming ballot measures in Idaho, Nebraska, and Utah might result in the expansion of Medicaid in additional states.11 Other pending policy changes raise the risk that some of the increases in coverage among parents under the ACA might be reversed. These changes include new state waivers that condition Medicaid eligibility on work or participation in work-related activities and that charge higher premium payments to Medicaid enrollees. In addition, parents with incomes above 400 percent of FPL with unsubsidized private nongroup health insurance might find it increasingly difficult to afford health insurance for themselves and their children that meets the ACA’s minimum coverage and benefit standards, as associated premiums are projected to increase further because of the repeal of the ACA’s individual mandate penalty. At the same time, new regulations might expand access to health plans that are not required to meet all the ACA’s minimum coverage and benefit standards, although it is not clear how much those plans will appeal to families with children.
+
+References
+
+Aizer, Anna, and Jeffrey Grogger. 2003. Parental Medicaid Expansions and Health Insurance Coverage. Cambridge, MA: National Bureau of Economic Research.
+
+Alker, Joan, and Alisa Chester. 2015. Children’s Health Insurance Rates in 2014: ACA Results in Significant Improvements. Washington, DC: Georgetown University Health Policy Institute, Center for Children and Families.
+
+Blumberg, Linda J., John Holahan, Michael Karpman, and Caroline Elmendorf. 2018. Characteristics of the Remaining Uninsured: An Update. Washington, DC: Urban Institute.
+
+Caswell, Kyle J., and Timothy A. Waidmann. 2017. “The Affordable Care Act Medicaid Expansions and Personal Finance.” Medical Care Research and Review. doi: 10.1177/1077558717725164.
+
+Congressional Budget Office. 2017. “Repealing the Individual Health Insurance Mandate: An Updated Estimate.” Washington, DC: Congressional Budget Office.
+
+Davidoff, Amy, Lisa Dubay, Genevieve M. Kenney, and Alshadye Yemane. 2003. “The Effect of Parents’ Insurance Coverage on Access to Care for Low-Income Children.” Inquiry 40 (3): 254–68.
+
+DeVoe, Jennifer E., Miguel Marino, Heather Angier, Jean P. O’Malley, Courtney Crawford, Christine Nelson, Carrie J. Tillotson, et al. 2015. “Effect of Expanding Medicaid for Parents on Children’s Health Insurance Coverage: Lessons from the Oregon Experiment Randomized Trial.” JAMA Pediatrics 169 (1): e143145.
+
+DeVoe, Jennifer E., Carrie J. Tillotson, and Lorraine S. Wallace. 2009. “Children’s Receipt of Health Care Services and Family Health Insurance Patterns.” Annals of Family Medicine 7 (5): 406–13.
+
+Dubay, Lisa, and Genevieve M. Kenney. 2003. “Expanding Public Health Insurance to Parents: Effects on Children’s Coverage under Medicaid.” Health Services Research 38 (5): 1283–302.
+
+Gates, Jason, Michael Karpman, Genevieve M. Kenney, and Stacey McMorrow. 2016. “Uninsurance among Children, 1997–2015: Long-Term Trends and Recent Patterns.” Washington, DC: Urban Institute.
+
+Haley, Jennifer, Genevieve M. Kenney, Robin Wang, Victoria Lynch, and Matthew Buettgens. 2018. “Medicaid/CHIP Participation Rates Reached 93.7 Percent among Eligible Children in 2016.” Health Affairs 37 (8): 1194–99.
+
+Haley, Jennifer, Genevieve M. Kenney, Robin Wang, Clare Pan, Victoria Lynch, and Matthew Buettgens. 2018. “Uninsurance and Medicaid/CHIP Participation Among Children and Parents: Variation in 2016 and Recent Trends.” Washington, DC: Urban Institute.
+
+Hudson, Julie L., and Asako S. Moriya. 2017. “Medicaid Expansion for Adults Had Measurable ‘Welcome Mat’ Effects on their Children.” Health Affairs 36 (9): 1643–51.
+
+Hu, Luojia, Robert Kaestner, Bhashkar Mazumder, Sarah Miller, and Ashley Wong. 2016. The Effect of the Patient Protection and Affordable Care Act Medicaid Expansions on Financial Wellbeing. Cambridge, MA: National Bureau of Economic Research.
+
+Karpman, Michael, Jason Gates, Stacey McMorrow, and Genevieve M. Kenney. 2016. “Uninsurance among Parents, 1997–2014: Long-Term Trends and Recent Patterns.” Washington, DC: Urban Institute.
+
+Karpman, Michael, Genevieve M. Kenney, Stacey McMorrow, and Jason Gates. 2016. “Health Care Coverage, Access, and Affordability for Children and Parents: New Estimates from March 2016.” Washington, DC: Urban Institute.
+
+Karpman, Michael, Jason Gates, and Genevieve M. Kenney. 2016. “Time for a Checkup: Changes in Health Insurance Coverage, Health Care Access and Affordability, and Plan Satisfaction among Parents and Children between 2013 and 2015.” Washington, DC: Urban Institute.
+
+Kenney, Genevieve M., Nathaniel Anderson, Sharon K. Long, Lisa Dubay, Stacey McMorrow, Lisa Clemans-Cope, Michael Karpman, et al. 2014. “Taking Stock: Health Insurance Coverage for Parents under the ACA in 2014.” Washington, DC: Urban Institute.
+
+Kenney, Genevieve M., Jennifer M. Haley, Clare Wang Pan, Victoria Lynch, and Matthew Buettgens. 2016. “Children’s Coverage Climb Continues: Eligibility and Participation under the ACA.” Washington, DC: Urban Institute.
+
+Kenney, Genevieve M., Sharon K. Long, and Adela Luque. 2010. “Health Reform in Massachusetts Cut the Uninsurance Rate among Children in Half.” Health Affairs 29 (6): 1242–47.
+
+McMorrow, Stacey, Jason A. Gates, Sharon K. Long, and Genevieve M. Kenney. 2017. “Medicaid Expansion Increased Coverage, Improved Affordability, and Reduced Psychological Distress for Low-Income Parents.” Health Affairs 36 (5): 808–18.
+
+McMorrow, Stacey, and Genevieve M. Kenney. 2018. “Recent Trends in Uninsurance among Children from the National Health Interview Survey: Patterns by Medicaid Expansion Status, Age, and Race/Ethnicity.” Washington, DC: Urban Institute.
+
+State Health Access Data Assistance Center. 2013. “Comparing Federal Government Surveys That Count the Uninsured: 2015.” Minneapolis: State Health Access Data Assistance Center.
+
+About the Series
+
+This brief is part of a series drawing on the HRMS, a survey of the nonelderly population that explores the value of cutting-edge internet-based survey methods to monitor the ACA before data from federal government surveys are available. Funding for the core HRMS is provided by the Robert Wood Johnson Foundation and the Urban Institute. This brief was funded by the David and Lucile Packard Foundation. It draws on the HRMS-Kids, which was launched in partnership with the Center for Children and Families at Georgetown University and is currently funded by the David and Lucile Packard Foundation. The authors are grateful to Joan Alker, Nathaniel Anderson, Tricia Brooks, Lisa Clemans-Cope, Lisa Dubay, Sharon Long, Douglas Wissoker, and Liane Wong for their input on the HRMS-Kids.
+
+For more information on the HRMS and for other briefs in this series, visit www.urban.org/hrms.
+
+About the Authors
+
+Michael Karpman is a research associate, Genevieve M. Kenney is a senior fellow and codirector, and Dulce Gonzalez is a research analyst with the Urban Institute’s Health Policy Center. The authors gratefully acknowledge Stacey McMorrow for helpful suggestions and assistance on this brief.
+
+Notes
+
+1 See also “Year-End Trends in Health Insurance Enrollment and Segment Performance,” Mark Farrah Associates, April 27, 2018. ^
+
+2 We focus on estimated changes in coverage because estimates of the level of coverage often vary across surveys because of differences in survey design (State Health Access Data Assistance Center 2013). In some rounds of the survey, the interview month starts a few days before or lasts a few days after the target month. ^
+
+3 Estimates of the share of adults reporting problems paying a child’s medical bills include responses from adults who are not the child’s parent or guardian. ^
+
+4 We focus on whether parents did not get one of the following types of care in the past 12 months because they could not afford it: prescription drugs, medical care, general doctor care, specialist care, tests, treatment, follow-up care, or mental health care or counseling. ^
+
+5 States expanding Medicaid by March 2018 are AK, AZ, AR, CA, CO, CT, DE, DC, HI, IL, IN, IA, KY, LA, MD, MA, MI, MN, MT, NH, NV, NJ, NM, NY, ND, OH, OR, PA, RI, VT, WA, and WV. Several of those states, including CA, CT, DC, and MN, expanded Medicaid under the ACA before 2013. Among nonexpansion states, WI has used state funding to expand eligibility to nonelderly adults with incomes up to 100 percent of FPL. ^
+
+6 Though we focus on differences in several measures of health care access and affordability in the past year by coverage status at the time of the survey, we find similar patterns when assessing differences in these measures by coverage status over the past year.^
+
+7 We control for the variables used in poststratification of both the KnowledgePanel (the nationally representative internet panel maintained by GfK Custom Research from which HRMS samples are drawn) and the HRMS, including gender, age, race and ethnicity, language, education, marital status, presence of children in the household, household income, family income, homeownership status, internet access, urban or rural status, and region. We also control for citizenship status and participation in the previous quarter’s survey. For children, we include all the control variables for respondents and controls for the child’s gender, age, and race and ethnicity and for the number of children in the household.^
+
+8 In presenting the regression-adjusted estimates, we use the predicted rate of each measure in each quarter or set of pooled quarters for the same nationally representative population. For this analysis, we base the nationally representative sample on survey respondents for the four most recent rounds of the survey that included the HRMS-Kids. The nationally representative samples include parents and children from quarter 3 2015, quarter 1 2016, quarter 1 2017, and quarter 1 2018.^
+
+9 In March 2018, 95.8 percent of parents were very or somewhat confident that their child could get health care if the child needed it, up from 93.3 percent in June/September 2013.^
+
+10 “Medicaid Income Eligibility Limits for Parents, 2002–2018,” Kaiser Family Foundation, accessed July 27, 2018.^
+
+11 Fred Knapp, “Nebraska May Join Utah, Idaho in Putting Medicaid Expansion before Voters,” Shots, NPR, July 6, 2018.^

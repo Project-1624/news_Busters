@@ -1,0 +1,126 @@
+Labor Productivity and Costs (LPC)
+Frequently Asked Questions (FAQs)
+
+How is productivity defined?
+
+Productivity is a measure of economic efficiency which shows how effectively economic inputs are converted into output.
+
+Why is productivity measurement important?
+
+Advances in productivity, that is the ability to produce more with the same or less input, are a significant source of increased potential national income. The U.S. economy has been able to produce more goods and services over time, not by requiring a proportional increase of labor time, but by making production more efficient.
+
+How is productivity measured by BLS?
+
+Productivity is measured by comparing the amount of goods and services produced with the inputs which were used in production. Labor productivity is the ratio of the output of goods and services to the labor hours devoted to the production of that output.
+
+What is the most commonly used productivity measure?
+
+Output per hour of all persons—labor productivity—is the most commonly used productivity measure. Labor is an easily-identified input to virtually every production process. In the U.S. nonfarm business sector, labor cost represents more than sixty percent of the value of output produced. Output per hour in the nonfarm business sector is the productivity statistic most often cited by the press.
+
+What are "unit labor costs"?
+
+Unit labor costs are calculated by dividing total labor compensation by real output or—equivalently—by dividing hourly compensation by productivity.
+
+That is, unit labor costs = total labor compensation / real output ; or equivalently,
+
+unit labor cost = hourly compensation / productivity
+
+= [total labor compensation / hours] / [output / hours]
+
+Thus, increases in productivity lower unit labor costs while increases in hourly compensation raise them. If both series move equally, unit labor costs will be unchanged.
+
+Does outsourcing and offshoring of intermediate production inflate the productivity measures?
+
+Within the U.S. business sector, outsourcing of production or services from manufacturing industries to other domestic industries alters the distribution of production among firms. Since firms can differ in their productivity, domestic outsourcing can affect business sector productivity if the contracting firm differs in its productivity from the original firm. Similarly, outsourcing from U.S. manufacturers to businesses located abroad (or offshoring) can affect business sector productivity if the productivity of the production lost to offshoring differs from the productivity of remaining and any new U.S. business sector production. Any effect of outsourcing or offshoring on business sector productivity change is expected to be modest.
+
+Outsourcing and offshoring have the potential for greater effect on labor productivity measures for the manufacturing sector. BLS measures output for the manufacturing sector using the sectoral output concept: gross output less sales between establishments within the manufacturing sector. Unlike the value-added measure for the business sector, this output measure includes the value of intermediate inputs purchased from outside the manufacturing sector, whether purchased from domestic or foreign suppliers. As manufacturing firms outsource or offshore production of intermediate inputs the value of manufacturing output is unchanged, but the shift to U.S. nonmanufacturing or to imported intermediate inputs is accompanied by a reduction in labor hours and therefore an increase in the measure of labor productivity. It is estimated that the growth in imported intermediate inputs contributed 23 percent (0.92 percentage points) of the 3.96 percent average annual growth in labor productivity in the manufacturing sector from 1997-2006. Further discussion can be found in the June 2010 Monthly Labor Review article "Effects of Imported Intermediate Inputs on Productivity" (PDF).
+
+Why can't I find a productivity measure for the total economy?
+
+The broadest measure of productivity published by the Bureau of Labor Statistics is that for the U.S. business sector. Business sector output covered about 75 percent of the value of gross domestic product (GDP) in 2010. The business sector excludes many activities where it is difficult to draw inferences on productivity from GDP. These excluded activities are: General government, nonprofit institutions, paid employees of private households, and the rental value of owner-occupied dwellings.
+
+In the GDP, the output of general government, nonprofit institutions, and paid employees of private households are based largely on the incomes of input factors. In other words, the measure is constructed by making an implicit assumption of negligible productivity change. BLS also excludes the value of owner-occupied dwellings because this sector lacks a measure of the hours homeowners spend maintaining their home.
+
+How are labor hours calculated?
+
+The primary source of hours and employment data is the BLS Current Employment Statistics (CES) program, which provides data on total employment and average weekly hours of production and nonsupervisory workers in nonagricultural establishments.
+
+For the quarterly productivity measures, information from the National Compensation Survey (NCS) is used to convert the CES hours to hours at work by excluding all forms of paid leave. Average weekly hours for nonproduction and supervisory workers are estimated by using data from the Current Population Survey (CPS), the NCS and the CES. Because CES data include only nonagricultural wage and salary workers, data from the CPS are used for farm employment as well as for nonfarm proprietors and unpaid family workers. Government enterprise hours are developed from the National Income and Product Account estimates of employment combined with CPS data on average weekly hours.
+
+For the industry productivity measures, average weekly hours for nonproduction and supervisory workers are estimated using data from the CPS and the CES. The industry labor input measures also include estimates of the hours of proprietors and unpaid family workers from the CPS.
+
+What is included in compensation?
+
+Compensation is a measure of the cost to the employer of securing the services of labor. It includes wages and salaries, supplements (like shift differentials, all kinds of paid leave, bonus and incentive payments, and employee discounts), and employer contributions to employee-benefit plans (like medical and life insurance, workmen's compensation, and unemployment insurance).
+
+The measures of compensation published with the major sector productivity measures and most of the nonmanufacturing industry labor productivity measures include an imputation of the earnings of the self-employed. This is because the output of proprietorships is included in the output measures for these sectors and industries.
+
+How are changes in output measured for specific industries?
+
+Different products are aggregated into one output measure by weighting (multiplying) the relative change in the output of each product by its share in the total value of output. Thus, the products that require more resources to produce are given higher weight.
+
+Is output in your output per hour measure for the business sector equal to Gross Domestic Product (GDP)?
+
+Business sector output is based on GDP, but includes only a subset of the goods and services included in GDP. The business sector comprises about 75 percent of GDP since it must exclude those portions of the economy for which productivity measures cannot be constructed. General government, the output of the employees of nonprofit institutions and private households, and the rental value of owner-occupied real estate are excluded.
+
+What is an index series?
+
+An index series is simply a way of expressing, in percentage terms, the change in some variable from a given point in time to another point in time. For example, let's say that output increased by 10 percent from an initial year (1987) to a subsequent year (1988). The index for our arbitrarily chosen base year of 1987 would be 100.0 while the index for 1988 would be 110.0. Conversely, if output had declined in 1988 by 10 percent, the 1988 index value would be 90.0.
+
+Why don't we measure productivity for particular groups, such as white-collar workers?
+
+BLS productivity measures are based on aggregate national measures of outputs and inputs. These data sources do not provide the information BLS would need to construct occupational measures. There are also conceptual obstacles to disaggregating these national measures. For example, the output of a factory may require both white-collar and blue-collar inputs, and it is therefore unclear how to allocate the output to the two groups separately.
+
+When data are provided quarterly, is the percent change for the year equal to the average of the percent changes for the four quarters?
+
+The percent change for the year should closely approximate the average of that year's four quarterly percent changes from the corresponding quarter of the preceding year. Because the percent change values presented in the official data are rounded to one decimal point, and because of minor variations in the year-to-year values used for seasonal adjustment of the quarterly data, results of a calculation based on press release data will reflect a small difference between the percent change for the year and the average of the quarterly percent changes from the preceding quarter a year ago.
+
+The percent change for the year is NOT equal to the average of that year's four quarterly percent changes from the previous quarter of the same year. The quarterly percent changes calculated from the previous quarter of the same year do not capture information on the year-to-year movement of the index number.
+
+Why can't I duplicate the percent changes from the index numbers in your press release?
+
+The index numbers published in the Productivity and Costs news release by BLS are rounded to one decimal place. All percent changes in the press release and on the BLS website are calculated using index numbers to three decimal places. These index numbers are available at the BLS website, www.bls.gov/lpc/home.htm#data.
+
+Why does the BLS revise the measures?
+
+BLS measures of productivity and costs are based on underlying series from a variety of sources. These data sources are frequently revised as additional data become available. When any of these underlying series is updated or revised, the productivity and costs measures are revised to reflect the new information.
+
+What is the revision schedule for the quarterly labor productivity and costs measures?
+
+Generally, a recent quarter of data is revised two or three times after its initial release. Historical revisions occur when the source data used in their construction are revised. Because many of these sources are revised independently, the productivity measures undergo frequent revision. Revisions to source data include the following:
+
+Output and compensation data: A multi-year revision is generally incorporated into the August press release. This revision occurs when the Department of Commerce revises the National Income and Product Accounts.
+
+Employment and hours data: A five-year revision is generally incorporated into the March press release. This revision occurs when the Bureau of Labor Statistics benchmarks the national establishment employment data.
+
+Manufacturing output data: Revisions to manufacturing output affect a variable number of years and occur on a somewhat variable schedule. Revisions occur when the Board of Governors of the Federal Reserve Board revise their data and are usually incorporated into the December press release. Revisions also occur due to changes in data from the Census and Annual Surveys of Manufactures and to the input-output tables prepared by the Bureau of Economic Analysis.
+
+Are industry productivity measures available for separate regions, states, and cities in the United States?
+
+No. Productivity measures are only available at the national level. BLS productivity measures are based on aggregate national measures of outputs and inputs. These data sources do not provide the information BLS would need to construct regional, or state measures.
+
+For tangible products such as tons of steel, developing an output index series and ultimately a productivity series seems not to be too difficult. How are measures developed for those industries where data on quantities produced are not available? How do you, for example, measure the output of barbershops?
+
+If data were available on the number of haircuts, shaves, etc. performed, these data could be used just as we would have used data for tons of steel. We might weight haircuts and shaves differentially, but the concept is the same.
+
+Generally, data for the quantities of output produced or the number of times a service has been performed are not available. However, an alternate methodology is available. Barbershops may not know how many haircuts, etc. have been performed, however, they will know how much revenue they have received from these services. Changes in revenues reflect changes in both quantity of output and its price. Price changes are removed by dividing an index of revenue by a price index, the remainder being an index of quantity.
+
+What are the differences between the quarterly hourly compensation measures and the Employment Cost Index (ECI)?
+
+The ECI and the hourly compensation measures may differ because they are designed to measure two different things. There is no formal analysis of the differences between the ECI and those in the hourly compensation series, largely because most of the differences are not quantifiable.
+
+One quantifiable difference, however, is the presentation of percent changes between adjacent periods. Both series present their data as index numbers, one-quarter or 3-month percent change, and four-quarter or 12-month percent change. The index numbers and year-over-year comparisons are consistent; however the one-quarter or 3-month percent changes are presented differently. ECI presents these data as the actual change over the 3-month period while the hourly compensation measures are presented at a compound annual rate of change (i.e., as if the same percent change were to continue for four quarters).
+
+Some of the other differences between the ECI and hourly compensation for all persons in the nonfarm business economy include:
+
+Ownership —The ECI covers private industry and state and local government. Data are available separately or combined. Hourly compensation measures cover private industry plus federal, state and local government enterprises.
+
+—The ECI covers private industry and state and local government. Data are available separately or combined. Hourly compensation measures cover private industry plus federal, state and local government enterprises. Employment coverage —The ECI covers most private employees but excludes persons working for token wages as well as business owners and others who set their own wage (for example, corporate CEO's). The ECI also excludes family workers who do not earn a market wage. The hourly compensation measure excludes employees of nonprofit institutions serving individuals (about ten percent of private workers, most in education and medical care). However, the hourly compensation measures do include an estimate for the unincorporated self-employed because they are assumed to earn the same hourly compensation as other employees in the sector. Implicitly, unpaid family workers also are included in the hourly compensation measures with the assumption that their hourly compensation is zero.
+
+—The ECI covers most private employees but excludes persons working for token wages as well as business owners and others who set their own wage (for example, corporate CEO's). The ECI also excludes family workers who do not earn a market wage. The hourly compensation measure excludes employees of nonprofit institutions serving individuals (about ten percent of private workers, most in education and medical care). However, the hourly compensation measures do include an estimate for the unincorporated self-employed because they are assumed to earn the same hourly compensation as other employees in the sector. Implicitly, unpaid family workers also are included in the hourly compensation measures with the assumption that their hourly compensation is zero. Compensation coverage —The ECI includes wages and benefits that employers provide. The hourly compensation measures include wages and benefits that employees receive. Therefore, some types of compensation (such as tips received by employees) are included in the hourly compensation measures but not in the ECI. Also, the ECI does not include stock options as an employer-provided benefit. For the hourly compensation measures, the accrued employee income from stock options is incorporated into wages and salaries when the option is exercised.
+
+—The ECI includes wages and benefits that employers provide. The hourly compensation measures include wages and benefits that employees receive. Therefore, some types of compensation (such as tips received by employees) are included in the hourly compensation measures but not in the ECI. Also, the ECI does not include stock options as an employer-provided benefit. For the hourly compensation measures, the accrued employee income from stock options is incorporated into wages and salaries when the option is exercised. Weights —The ECI uses a fixed set of industry and occupational weights to obtain a measure of the change in labor cost that is not influenced by changes in the industrial and occupational structure of the economy. These weights are updated periodically. The hourly compensation measures are influenced by changes in employment distribution. That is, even if the wages for all jobs in the economy were unchanged, hourly compensation could change if the distribution of jobs in the economy changed. In addition, the ECI holds hours worked constant, unless there is a plan change. Benefit usage is also usually held constant in ECI. Hourly compensation measures will show changes due to changes in hours at work and overtime.
+
+—The ECI uses a fixed set of industry and occupational weights to obtain a measure of the change in labor cost that is not influenced by changes in the industrial and occupational structure of the economy. These weights are updated periodically. The hourly compensation measures are influenced by changes in employment distribution. That is, even if the wages for all jobs in the economy were unchanged, hourly compensation could change if the distribution of jobs in the economy changed. In addition, the ECI holds hours worked constant, unless there is a plan change. Benefit usage is also usually held constant in ECI. Hourly compensation measures will show changes due to changes in hours at work and overtime. Time period covered —The ECI collects data for specific months: March, June, September, and December. The hourly compensation measures are average compensation for the three months in the quarter.
+
+—The ECI collects data for specific months: March, June, September, and December. The hourly compensation measures are average compensation for the three months in the quarter. Framework—The ECI is a sample survey specifically designed for the measurement of changes in labor cost and is subject to the usual sampling and nonsampling errors. The hourly compensation measures are constructed using information from the national income and product accounts as well as the employment and hours of persons working in the business economy. Errors in these data may also come from sampling and nonsampling errors.

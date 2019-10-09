@@ -1,0 +1,50 @@
+No, Seriously, How Contagious Is Ebola?
+Public Health
+
+No, Seriously, How Contagious Is Ebola?
+
+Adam Cole/NPR
+
+Update on Oct. 8: The Ebola patient in Dallas, the first diagnosed with the virus in the U.S., has died.
+
+Holy moly! There's a case of Ebola in the U.S.!
+
+That first reaction was understandable. There's no question the disease is scary. The World Health Organization now estimates that the virus has killed about 70 percent of people infected in West Africa.
+
+The Ebola case in Dallas is the first one diagnosed outside Africa, the Centers for Disease Control and Prevention said Tuesday. And the health care system in Texas didn't quarantine the man right away. He was sick with Ebola — and contagious — for four days before he was admitted to the hospital.
+
+But when you look at health officials responding to the case in Dallas, they seem cool as cucumbers, despite the initial misstep.
+
+"I have no doubt that we will control this importation, or case, of Ebola so that it does not spread widely in this country," said the director of the CDC, Dr. Tom Frieden.
+
+Why is Frieden so sure this virus won't spread beyond a handful of cases?
+
+It boils down to something called "R0."
+
+The reproduction number, or "R nought," is a mathematical term that tells you how contagious an infectious disease is. Specifically, it's the number of people who catch the disease from one sick person, on average, in an outbreak.*
+
+Take, for example, measles. The virus is one of the most contagious diseases known to man. It's R0 sits around 18. That means each person with the measles spreads it to 18 people, on average, when nobody is vaccinated. (When everyone is vaccinated, the R0 drops to essentially zero for measles).
+
+At the other end of the spectrum are viruses like HIV and hepatitis C. Their R0s tend to fall somewhere between 2 and 4. They're still big problems, but they spread much more slowly than the measles.
+
+And that brings us back to Ebola. Despite its nasty reputation, the virus's R0 really isn't that impressive. It typically sits around 1.5 to 2.0.
+
+Even in the current epidemic in West Africa, where the virus has been out of control, each person who has gotten sick has spread Ebola to only about two others, on average.
+
+Why is that?
+
+Many factors contribute to the R0, such as how long you're infectious** and how many virus particles are needed to make another person sick.
+
+But in Ebola's case, the mode of transmission probably helps keep its R0 low. Ebola isn't spread through the air, like the measles or flu. It requires close contact with some bodily fluid, such as blood or vomit, containing the virus.
+
+Now at this point, you're probably thinking, "OK. But an R0 of 2 is nothing to brush off." You're right. R0 of 2 means one person infects two people, who then infect four people, then eight, 16, 32 — the numbers go up fast.
+
+But that isn't likely to happen in a place with a good public health system, like the U.S. Why? Because people with Ebola aren't contagious until they show symptoms.
+
+So to stop the chain of transmission, all health workers in Texas have to do is get the people possibly infected by the sick man into isolation before these people show signs of Ebola.
+
+Then R0 drops to zero. And Texas is free of Ebola.
+
+*We're talking the "basic" R0 here, for all you epidemiologists. So, the R0 that you get when everyone in the population is susceptible to the disease.
+
+**The R0 is integrated over the time that a person is infectious to others. For HIV, this could be years. But for Ebola, that time is only about a week. So even though they have similar R0s, Ebola's infections per unit of time is much higher than HIV's.

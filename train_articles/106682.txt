@@ -1,0 +1,48 @@
+Whither whistleblowing: Where have all the leaking sites gone?
+On February 3, 2013, Balkanleaks released the “Buddha dossier,” a massive trove of secret documents from the national police archive.
+
+The cache was the Bulgaria-based transparency site's most significant release so far this year. It underscored suspicions that the country’s prime minister, Boyko Borisov, had ties to organized crime.
+
+The biggest reveal was that Borisov was floated in the mid-1990s as a possible informant against his alleged and widely assumed contacts in the world of Bulgarian organized crime. On February 21—just 18 days after the Balkanleaks release—Borisov resigned in the face of widespread corruption allegations and rising energy prices.
+
+No matter the act's public good, publishing the “Buddha dossier” caused trouble for Bivol, the investigative journalism outlet behind Balkanleaks. On February 11, the site stated it had been subject to a “massive smearing campaign in the [Bulgarian] media and a recurring DDoS attack on the site.” As a result, its editors fought back via blog post. “Bivol is now releasing this insurance file. The key will leak automatically if something happens to our staff."
+
+(Only two members of the Bivol team and an unnamed contact at WikiLeaks have the key for this insurance file.)
+
+The "Buddha dossier" was not the first time Borisov had been linked to organized crime. Immediately following the collapse of Bulgaria’s communist regime in the mid-1990s, Borisov’s private security firm, Ipon, worked for Todor Zhivkov. Zhivkov was Bulgaria’s communist dictator from 1954 to 1989. Questions concerning Borisov’s alleged ties to organized crime came soon after.
+
+So Atanas Tchobanov, a Balkanleaks and Bivol co-founder, doesn't believe his website was directly responsible for the fall of the Borisov government.
+
+"This is a very uncertain [question]," he told Ars in an Internet chat. "You remember, some people said that WikiLeaks unleashed the Tunisian revolution. I don't believe this is the real cause. But it's a pleasure to see slogans on the protests [such as]: 'Buddha, we're not fools'"
+
+And thanks to a WikiLeaks-leaked US State Department cable from 2006 (three years before Borisov became prime minister), we now know the US Embassy in Sofia told Washington, DC about Borisov. He was “implicated in serious criminal activity and maintains close ties to LUKoil [Russia’s second-largest oil company] and the Russian embassy.”
+
+That cable concludes, ominously: “In other words, we should continue to push him in the right direction, but never forget who we're dealing with.”
+
+The few, the proud, the leaks
+
+WikiLeaks remains under a near financial blockade, its founder under effective house arrest after having been granted asylum in the Ecuadorian Embassy in London. The group has yet to release anything as substantial as last year’s “Detainee Policies”—Balkanleaks remains one of the few "leaking sites" still going strong. Its recent insurance-key move comes precisely out of the WikiLeaks playbook.
+
+More than two years ago, a flurry of new WikiLeaks clones sprung up around the world inspired by the world’s most famous transparency-driven organization. They had all kinds of names: QuebecLeaks, BaltiLeaks, EnviroLeaks, and more. PirateLeaks (based in the Czech Republic), BrusselsLeaks (Belgium) and RuLeaks (Russia) all did not respond to Ars’ requests for comments.
+
+HonestAppalachia's Jimmy Tobias wrote to Ars to say the group was "active indeed, and working on a variety of projects." To date, HonestAppalachia has yet to publish anything, despite receiving a $5,000 grant from the Sunlight Foundation nearly a year ago.
+
+Most of these clones never got very far and appear to have all but shut down. Balkanleaks seems to be just one of a handful still actively receiving and publishing new documents.
+
+“I think this points to the fact that what WikiLeaks did was fairly unique and probably a few
+
+years ahead of its time,” said Trevor Timm, co-founder of the Freedom of the Press Foundation.
+
+So how does Balkanleaks thrive where others haven’t?
+
+Tchobanov, the site’s co-founder, boils it down to one word: Tor. It's the open-source online anonymizing tool that’s become the de facto gold standard for hiding one’s tracks online. Balkanleaks provides instructions in Bulgarian, Serbian, Macedonian, and English, and the submission website is only available on its Tor-enabled server.
+
+“Tor is known and people trust Tor,” he added.
+
+On its face, what Balkanleaks has done should be easily duplicated anywhere. “It’s not hard,” Tchobanov said. “Who says it’s hard?” Balkanleaks set up a website, required leakers to use Tor, explained how and why to use Tor in local languages, and then received and published leaked documents.
+
+But more established media sites like Radio Sweden, Folha de São Paolo, Al Jazeera, and The Wall Street Journal haven’t had consistent success with their own online submission systems either. And some speculate that all the unsuccessful leaking sites may, in fact, be due to the consequences from WikiLeaks’ own experience.
+
+“It's not as easy as it looks to set up an anonymous site that's safe for its users,” Timm said. “We may have seen more WikiLeaks sites become successful if the crackdown against WikiLeaks wasn't so hard after the State Department cables. When WikiLeaks did what they did, despite not breaking any law, they were cut off from all sorts of finances and had a grand jury investigation opened against them. I think this created a chilling effect for other developers who would want to do the same thing.”
+
+Still—with Tor as a proven, secure, and verifiable technology—it seems clear these sites need more than technological tools. A successful operation needs willing leakers and an available brigade of journalists or activists who know how to digest and process such an influx of information, and that's what Bivol provides. Having a quick-and-dirty specialized site for a particular region, with journalists that the public trusts, is also a huge asset.

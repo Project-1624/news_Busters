@@ -1,0 +1,34 @@
+Another Excellent Inequality Study
+The Congressional Research Service (CRS) isn’t as well known in these parts as the CBO, but their reports are widely considered equally reliable and nonpartisan.
+
+So I took notice of their newly released study on income inequality. The CRS study is notable in numerous respects:
+
+–it uses high quality tax return data;
+
+–it provides useful breakdowns of income by source (wages, cap gains, etc.) and their impact on inequality;
+
+–it provides before- and after-tax analysis.
+
+Two drawbacks are the 1) data are for income tax filers only—including, however, low-income families that get tax refunds—and 2) the data years and 1996 and 2006, so the endpoint seems a bit outdated (it’s the last year of publicly available of this sort). However, as CRS convincingly states, these years are actually well-chosen:
+
+…both years were at approximately similar points of the business-cycle with moderate inflation (about 3%), a modest unemployment rate (about 5%), and moderate economic growth (3.7% in 1996 and 2.7% in 2006). Second, 2006 was the year before the August 2007 liquidity crunch and the onset of the severe 2007-2009 recession. Third, there were major tax policy changes between these two years. Fourth, both 1996 and 2006 were three years after the enactment of tax legislation that affected tax rates and are unlikely to be affected by short-run behavioral responses to these changes.
+
+Here are some of the findings that caught my eye:
+
+–The table and figure show the classic inequality pattern of increasing income growth as a function of income (after-tax income, in this case). Real GDP per capita grew at about the same rate as the overall average of after-tax income over these years…25%. But low-income families lost ground, middle-incomes grew slowly, less than half the pace as the overall average, and the top soared ahead. Income for those at the very top of the income scale—the top tenth of the top 1% (the top 0.1%; avg 2006 income: $5.7 mil) just about doubled.
+
+Source: CRS, see link above. Dollar values in table provided by CRS.
+
+–Like the earlier CBO report, the CRS also finds that the tax system grew less effective at reducing income inequality over this period, i.e., it become less progressive.
+
+–For example, the CRS data reveal that while the effective tax rate (federal taxes paid as a share of income) fell on average from about 23% to 20%, it fell much more than that for those in top 0.1%: from about 33% to 25%. Had the top share faced their 1996 effective rate in 2006, their tax liability would have been $600,000 higher.
+
+–As I’ve noted in many other posts on inequality, capital income, such as the gains from appreciated assets like stocks and bonds, plays a critical role in inequality trends. The CRS data unpack that insight in informative ways:
+
+–the share of income from dividends and capital gains grew from 10% to 14% among all tax filers and from 31% to 38% among the top 1%; since this type of income is much more concentrated at the top to begin with, its increasing share is one explanation for inequality’s growth.
+
+–the wage and salary share, on the other hand, fell sharply, and this too boosted inequality, since its distribution is much less skewed than capital incomes (though it too became more unequal over this period).
+
+–in fact, if capital and business income shares hadn’t grown—i.e., if one assigns the growth in their shares to the wage share—inequality would have grown slightly more than half as fast as it did.
+
+I think a lot of people sense that there’s something unsettling about this shift from labor income to capital incomes. It seems endemic of a society that devalues work while providing outsized rewards for speculation and asset accumulation. The CRS findings place that sensibility in the context of hard data.

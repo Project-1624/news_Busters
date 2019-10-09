@@ -1,0 +1,186 @@
+8 FAQs about EMV credit cards
+It’s been almost two years since the nationwide shift to EMV officially began.
+
+EMV — which stands for Europay, Mastercard and Visa — is a global standard for cards equipped with computer chips and the technology used to authenticate chip-card transactions. In the wake of numerous large-scale data breaches and increasing rates of counterfeit card fraud, U.S. card issuers have migrated to this new technology to protect consumers and reduce the costs of fraud.
+
+“These new and improved cards are being deployed to improve payment security, making it more difficult for fraudsters to successfully counterfeit cards,” says Julie Conroy, research director for retail banking at Aite Group, a financial industry research company. “It’s an important step forward.”
+
+For merchants and financial institutions, the switch to EMV means adding new in-store technology and internal processing systems, and complying with new liability rules. For consumers, it means learning a new payment processes.
+
+Want to know more about the ongoing transition and your EMV chip-equipped credit card? Here are eight frequently asked questions to help you understand the changes.
+
+1. Why are EMV cards more secure than traditional cards?
+
+It’s that small, metallic square you’ll see on new cards. That’s a computer chip, and it’s what sets it apart the new generation of cards.
+
+The magnetic stripes on traditional credit and debit cards store contain unchanging data. Whoever accesses that data gains the sensitive card and cardholder information necessary to make purchases. That makes traditional cards prime targets for counterfeiters, who convert stolen card data to cash.
+
+“If someone copies a mag stripe, they can easily replicate that data over and over again because it doesn’t change,” says Dave Witts, president of U.S. payment systems for Creditcall, a payment gateway and EMV software developer.
+
+Unlike magnetic-stripe cards, every time an EMV card is used for payment, the card chip creates a unique transaction code that cannot be used again.
+
+If a hacker stole the chip information from one specific point of sale, typical card duplication would never work “because the stolen transaction number created in that instance wouldn’t be usable again and the card would just get denied,” Witts says.
+
+EMV technology will not prevent data breaches from occurring, but it will make it much harder for criminals to successfully profit from what they steal.
+
+Experts hope it will help significantly reduce fraud in the U.S., which has doubled in the past seven years as criminals have shied away from countries that already have transitioned to EMV cards, Conroy says.
+
+“The introduction of dynamic data is what makes EMV cards so effective at bringing down counterfeit card rates in other countries,” she says.
+
+Counterfeit fraud rates have already decreased in the U.S. as a result of EMV adoption, according to Mastercard and Visa. In March 2017, chip-enabled merchants saw a 58 percent drop in counterfeit fraud compared to a year earlier, according to Visa. Mastercard noticed a difference even earlier: It recorded a 54 percent decrease in counterfeit fraud costs among its EMV-ready merchants from April 2015 to April 2016.
+
+How EMV chips are made Microcomputers on your credit cards A look behind the scenes at an ultra-secure credit card factory where small but complex smart card chips are made. See more
+
+2. How do I use an EMV card to make a purchase?
+
+Sign up for our newsletter Get the latest news, advice, articles and tips delivered to your inbox. It's FREE.
+
+Just like magnetic-stripe cards, EMV cards are processed for payment in two steps: card reading and transaction verification. However, with EMV cards you no longer have to master a quick, fluid card swipe in the right direction. Chip cards are read in a different way.
+
+“Instead of going to a register and swiping your card, you are going to do what is called ‘card dipping’ instead, which means inserting your card into a terminal slot and waiting for it to process,” Conroy says.
+
+When an EMV card is dipped, data flows between the card chip and the issuing financial institution to verify the card’s legitimacy and create the unique transaction data. This process isn’t as quick as a magnetic-stripe swipe.
+
+“It will take a tiny bit longer for that transmission of data to happen,” Witts says. “If a person just sticks the card in and pulls it out, the transaction will likely be denied. A little bit of patience will be involved.”
+
+While chip card transactions may take a bit longer than mag stripe transactions, total card processing time will vary between merchants and eventually speed up as the new payment environment is improved.
+
+“It will vary depending on the merchant, the equipment and the point-of-sale system,” Ferenczi said. “I think that time lag overtime will be reduced for those longer transactions.”
+
+For more information about current EMV transaction speeds, see “The big chip card switch: a year of living with EMV.”
+
+Wait, what’s the card called? The new EMV cards in the U.S. might be called any of the following terms: Smart card
+
+Chip card
+
+Smart-chip card
+
+Chip-enabled smart card
+
+Chip-and-choice card (PIN or signature)
+
+EMV smart card
+
+EMV card
+
+3. Is card dipping the only option?
+
+Not necessarily. EMV cards can also support contactless card reading, also known as near field communication. Instead of dipping or swiping, NFC-equipped cards are tapped against a terminal scanner that can pick up the card data from the embedded computer chip.
+
+“Contactless transactions are more consumer-friendly because you just have to tap,” said Martin Ferenczi, president of Oberthur Technologies, the leading global EMV product and service provider. “Around the world, there is a move to make EMV cards dual-interface, which means contact and contactless. However, in the U.S., most financial instructions are issuing contact cards.”
+
+Dual-interface cards and the equipment needed to scan them are expensive. Right now, the first step is to successfully integrate EMV cards into the U.S. shopping scene. Dual interface will arrive later, although they are in production and rolling out slowly now, according to Ferenczi.
+
+“Dual-interface cards, which in 2016 represented less than 5 percent of total EMV cards in the U.S., will have significant growth in 2017,” Ferenczi said. “Issuers want to offer their cardholders the added level of speed and convenience provided by tapping.”
+
+4. Will I still have to sign or enter a PIN for my card transaction?
+
+Yes and no. You will have to do one of those verification methods, but it depends on the verification method tied to your EMV card, not if your card is debit or credit. Chip-and-PIN cards operate just like the checking-account debit card you have been using for years.
+
+Entering a PIN connects the payment terminal to the payment processor for real-time transaction verification and approval. However, many payment processors are not equipped with the technology needed to handle EMV chip-and-PIN credit transactions. So it is not likely you will have to memorize new PINs anytime soon, according to Conroy.
+
+“There aren’t going to be many issuers requiring a PIN,” she says. “A vast majority will be issuing chip-and-signature cards, which aren’t all that different from how credit cards work now.”
+
+As with a magnetic-stripe credit card, you sign on the point-of-sale terminal to take responsibility for the payment when making a chip-and-signature card transaction.
+
+U.S. chip-and-PIN cards will be transitioned in slowly, according to Ferenczi.
+
+“The card production demand today is really based on chip-and-signature cards,” he says. “It will probably take two to three years to fully convert to chip-and-PIN.”
+
+Despite a slow transition overall, those who get chip-and-PIN cards will be able to use them right away.
+
+“If a terminal doesn’t have the ability to accept a PIN, it will then step down to accepting a signature,” says Randy Vanderhoof, executive director of the Smart Card Alliance. “There will always be a secondary option.”
+
+Chip cards, by the numbers The Numbers 855 million: Estimated number of chip cards issued to U.S. consumers so far, per U.S. Payments Forum estimates 85%: Estimated percentage of all U.S. credit cards issued with chips at the end of July 2017, per CPI Card Group 60%: Percentage of U.S. debit cards issued with chips by the end of July 2017, per CPI Card Group $2-$4: Approximately cost of issuing a new EMV card, per First Data 15 million: Estimated total number of point-of-sale terminals that have to be upgraded to accept chip cards, per Javelin Research & Strategy $6.75 billion: Estimated cost of replacing the 15 million POS terminals with chip card-compliant machines, per Javelin Research & Strategy 50-52%: Estimated percentage of merchant locations currently ready to process chip card payments, per Visa, U.S. Payments Forum and Strawhecker Group estimates 1.81-2.3 million: Estimated number of U.S. point-of-sale terminals enabled to accept chip card payments, per Mastercard and Visa estimates.
+
+5. If fraud occurs after EMV cards are issued, who will be liable for the costs?
+
+If an in-store transaction is conducted using a counterfeit, stolen or otherwise compromised card, consumer losses from that transaction fall back on the payment processor or issuing bank, depending on the card’s terms and conditions.
+
+Since the Oct. 1, 2015 deadline created by major U.S. credit card issuers Mastercard, Visa, Discover and American Express, the liability for card-present fraud has shifted to whichever party is the least EMV-compliant in a fraudulent transaction.
+
+Consider the example of a financial institution that issues a chip card used at a merchant that has not changed its system to accept chip technology. This allows a counterfeit card to be successfully used.
+
+“The cost of the fraud will fall back on the merchant,” Ferenczi says.
+
+The change is intended to help bring the entire payment industry on board with EMV by encouraging compliance to avoid liability costs.
+
+Today, any parties not EMV-ready could face much higher costs in the event of a large data breach.
+
+Until recently, automated fuel dispensers had until 2017 to make the shift to EMV. However, a December 2016 Visa and Mastercard agreement now gives pay-at-the-pump gas terminals until October 2020 to become EMV-compliant.
+
+“Given the migration challenges for implementing EMV in the petroleum environment, Visa’s and Mastercard’s modification of the liability shift dates will be beneficial to the retail petroleum industry and the U.S. chip migration,” Vanderhoof explained in an emailed statement.
+
+So for now, gas stations do not fall under the existing EMV fraud liability shift rules. ATMs still have two fraud liability shift dates: Mastercard’s that passed in October 2016 and Visa’s in October 2017. Until both dates pass, ATMs will follow existing fraud liability rulings.
+
+See ATMs changing to accept EMV chip cards for more ATM migration information.
+
+6. So since Oct. 1, 2015, is the transition to EMV technology complete?
+
+Not yet.
+
+Although the deadline was strong encouragement for all payment processing parties to become EMV-compliant as soon as possible, not everyone has made the transition yet.
+
+“Most countries that migrated to EMV have four or five banks that issue cards and a couple of acquirers that provide a service to merchants,” said Jason Oxman, chief executive officer of the Electronic Transactions Association. “We have 13,000 financial institutions in the U.S. that issue credit and debit cards, and we have 5 million merchant locations in the U.S. that accept debit and credit cards. So it’s a massive undertaking.”
+
+EMV debit cards have rolled out at a slower pace. Approximately 25 percent of U.S. debit cards were issued as EMV chip cards by the end of 2015, according to Mercator Advisory Group’s Sarah Grotta, director of Debit Advisory Service. That ratio rose to 33 percent by the end of June 2016, and today, approximately 60 percent of issuer’s debit cards are EMV chip-equipped, according to CPI Card Group estimates.
+
+EMV debit cards are slowly being issued because banks have to prep their software to accept those new cards as well, according to Ferenczi.
+
+The majority of chip cards in the hands of cardholders today have come from larger issuers auch as Bank of America and Chase, according to the Federal Reserve Bank of Chicago. The cost of this EMV transition is causing smaller banks to convert their cards more slowly.
+
+The EMV credit card rollout, however, is progressing steadily. More than 449 million Visa chip cards have been issued in the U.S. overall so far, as of June 2017. About 68 percent of Mastercard-branded credit and debit cards have been issued with chips so far, as of Oct. 1, 2016. For all U.S. credit cards, CPI Card Group estimates approximately 85 percent of cards now have chips on them. Overall, 70 percent of cards (debit and credit) have been converted to EMV, per CPI Card Group.
+
+If some of the cards in your wallet have yet to be issued with chips, don’t fret.
+
+“Different companies have different rollout strategies,” says Doug Johnson, vice president of risk management policy for the American Bankers Association. Some will base their actions on card expiration dates; others will work to get chip cards into the consumer’s hands as soon as possible.
+
+“I think the progress we are seeing today is promising,” said Chiro Aikat, senior vice president of product delivery (EMV) at Mastercard.
+
+What about mobile payment readers? EMV-compatible card readers for Android and iOS devices that can read contactless mobile payments and process dipped chip cards. Merchants can purchase the devices for $49.
+
+7. If I want to use my chip-card at a retailer that doesn’t support EMV technology yet, will it work?
+
+Yes. The first round of EMV cards — many of which are in consumers’ hands — will be equipped with both chip and magnetic-stripe functions so consumer spending is not disrupted and merchants can adjust.
+
+See Related 10 tips to improve your credit score in 2019 How to send, receive money using Venmo If you find yourself at a point-of-sale terminal and are not sure whether to dip or swipe your card, have no fear. The terminal will walk you through the process.
+
+“For example, if you enter a card into the chip reader slot but the reader isn’t activated yet, it will come up with an error and you’ll be prompted to swipe the card in order to use it,” Vanderhoof says.
+
+And vice-versa.
+
+“If a consumer tries to swipe a chip card instead of inserting it, an error will appear and they will be prompted to insert the card for chip processing instead,” Vanderhoof says.
+
+If chip-card readers are not in place at a merchant at all, your EMV card can be read with a swipe, just like a traditional magnetic-stripe card.
+
+“You can still conduct transactions, you just lose that extra level of chip security,” Johnson says.
+
+See Mag stripe begins its farewell tour for details about the move away from magnetic stripe cards.
+
+While many large retailers, such as Walmart, Target and Costco, have upgraded their POS terminals and have activated them for chip card acceptance, many U.S. retail locations are still not EMV-ready.
+
+Visa says 50 percent of U.S. stores (approximately 2.3 million merchant locations) now accept chip cards, as of June 2017. Mastercard has tallied 2.3 million chip-active merchant locations on its network, representing 38 percent of all U.S. merchants back in October 2016. Industry experts expect the merchant migration to slowly continue over the next few years, especially as the remaining liability shift dates get closer.
+
+“I expect to see a slow and gradual increase of merchant moving over, just like we’ve seen up until today, as each merchant makes an assessment if this expenditure makes sense for them and their particular business,” said Mallory Duncan, senior vice president and general counsel at the National Retail Federation.
+
+In July 2017, U.S. Payments Forum estimated 45 to 50 percent of U.S. credit and debit card transactions were chip-on-chip.
+
+See “7 merchant tips to understanding EMV fraud liability shift” for answers to additional liability shift questions.
+
+8. Will I be able to use my EMV card when I travel outside the country?
+
+Yes and no.
+
+The U.S. is the last major market still using the magnetic-stripe card system. Many European countries moved to EMV technology years ago to combat high fraud rates. That shift has left many U.S. consumers who have magnetic-stripe cards looking for other forms of payment when they travel.
+
+Since many foreign merchants are wary of magnetic-stripe cards, consumers who hold some type of chip card may run into fewer issues than those without one, according to Ferenczi.
+
+“Just the existence of the chip will likely make European merchants more willing to accept transactions that they wouldn’t have likely accepted if a customer presented a mag-stripe card,” he say, which is good news for traveling U.S. cardholders.
+
+However, chip-and-PIN cards are the norm in most other countries that support EMV technology. So consumers with chip-and-signature cards may find some merchants who are unwilling or unable to process their card, even though it does have an embedded chip.
+
+But despite any difficulties in the transition, Ferenczi says the change is a step in the right direction.
+
+“Nobody likes to think that his or her card is being secretly used for other purposes,” he says. “So I think regardless, there is a level of comfort knowing that it will be far more difficult to counterfeit EMV cards.”
+
+See related:EMV holdouts: Why merchants are slow to make chip-card switch?, Cardless cash ATMs aim to reduce fraud, The big chip card switch: a year of living with EMV

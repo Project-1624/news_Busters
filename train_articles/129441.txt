@@ -1,0 +1,80 @@
+WEO Model
+Since 1993, the IEA has provided medium to long-term energy projections using the World Energy Model (WEM) – a large-scale simulation model designed to replicate how energy markets function. The WEM is the principal tool used to generate detailed sector-by-sector and region-by-region projections for the WEO scenarios. Download the WEM Methodology document for an in depth description of the overall approach and features of the model.
+
+In this scenario, all energy-efficiency investments that are economically viable are made and all necessary policies to eliminate market barriers to energy efficiency are adopted.
+
+This report prepared by IIASA examines emissions of major air pollutants (SO 2 , NO x , PM 2.5 ) for India resulting from energy scenarios developed for the WEO 2015, which have been estimated using the IIASA GAINS model.
+
+This report, prepared by IISA, examines global emissions of major air pollutants (SO 2 , NO x , PM 2.5 ) resulting from energy scenarios developed for the WEO 2012, which have been estimated using the IIASA GAINS model. The Scenario labelled High Energy Efficiency Scenario corresponds to the Efficient World Scenario in WEO 2012.
+
+This scenario was developed with a view on short-term climate mitigation options until 2020. The short-term measures considered in this scenario go beyond policies already adopted and entail measures that require either significant further strengthening and wider adoption, or that are currently not high on the policy agenda, even though the measures required to implement the relevant policies are known and their adoption could make a significant additional difference.
+
+Featured in another WEO special report in 2015, this scenario put forward a bridging strategy, based on five specific energy sector measures, to achieve an early peak in energy-related CO 2 emissions.
+
+Introduced in a WEO special report in 2016, this scenario set out a cost-effective strategy, based on existing technologies and proven policies, to cut 2040 pollutant emissions by more than half compared with the NPS.
+
+In this scenario, policies are adopted that put the world on a pathway that is consistent with having around a 50% chance of limiting the global increase in average temperature to 2°C in the long term, compared with pre-industrial levels.
+
+Developed specifically for 2017, this case examines the achievement of modern energy for all against the backdrop of the NPS. It provides a point of comparison with the way that a similar goal is covered in the SDS.
+
+This case, considered in Chapter 4 of WEO 2017, looks at the conditions that would allow the oil price to remain "lower for longer". It updates the Low Oil Price Scenario presented in WEO 2015.
+
+This scenario, developed in 2017, plots an emissions pathway to "net zero" energy sector CO 2 emissions in 2060, resulting in lower emissions than the SDS in 2040.
+
+This is a scenario developed specifically for the WEO 2018 special focus on electrification. It starts from the conditions of the New Policies Scenario and explores key areas of uncertainty for future electricity demand. A range of electric technologies are widely taken up as soon as they become cost-competitive.
+
+This scenario only considers the impact of those policies and measures that are firmly enshrined in legislation as of mid-2018. It provides a cautious assessment of where momentum from existing policies might lead the energy sector in the absence of any other impetus from government.
+
+The NPS aims to provide a sense of where today's policy ambitions seem likely to take the energy sector. It incorporates not just the policies and measures that governments around the world have already put in place, but also the likely effects of announced policies, including the Nationally Determined Contributions made for the Paris Agreement.
+
+The WEO uses a scenario approach to examine future energy trends. It presents three scenarios: the New Policies Scenario, the Current Policies Scenario and the Sustainable Development Scenario. The formal base year for this year’s projections is 2016, as this is the last year for which a complete picture of energy demand and supply is in place, but we have used more recent data wherever available, and we include our 2017 estimates for energy production and demand in the annexes of the WEO and tables and discussion in the WEO typically refer to 2017 data. Some of the changes made to the WEM for the purposes of WEO 2018 are highlighted below (more listed in WEM Methodology)
+
+Power
+
+The value-adjusted Levelized Cost of Electricity (VALCOE) is a new metric for competitiveness for power generation technologies. It was developed for the WEO-2018, building on the capabilities of the World Energy Model (WEM) hourly power supply model. It is intended to complement the LCOE, which only captures relevant information on costs and does not reflect the differing value propositions of technologies. VALCOE enables comparisons that take account of both cost and value between variable renewables and dispatchable thermal technologies.
+
+The World Energy Model this year incorporates a new and fuller modelling of battery storage. In particular, two types of battery storage deployment have been included: utility- scale paired with variable renewables (utility-scale solar PV, wind onshore and offshore) and utility-scale stand-alone systems. Battery storage installations are determined based on the value-adjusted LCOE, taking into account not only the cost of the technology choice but also the value derived from energy, capacity and ancillary service markets.
+
+The World Energy Model was expanded and coupled with other tools to provide a detailed picture of the operations of the European Union power system for the analysis of the costs and benefits of the Energy Union. On the power generation side, while capacity expansion was derived from the World Energy Model, dispatch was simulated through WEM hourly model and was further complemented by country level projections using Artelys Crystal Super Grid model, simulating the operations of the European Union electricity market in 2030 at the hourly and country level, including an explicit representation of trade flows. Renewable power availability constraints were reflected through hourly production profiles for wind power, solar PV and hydropower for each country.
+
+For WEO-2018, hourly modelling of electricity demand by end-use was refined. The principal improvements include: 1) linking monthly heating and cooling demand profiles to population weighted, cooling degree day, relative humidity and heating degree day data, 2) update of hourly demand profiles for residential appliances based on historically observed profiles and academic literature.
+
+
+
+A smart charging optimiser was added within the hourly load model. This optimiser allows the World Energy Model to demonstrate the potential reductions in peak demand that can be achieved by optimising the charging profiles of electric vehicles.
+
+Transport
+
+An update of battery capacities per electric vehicle type was done using MoMo database and most recent literature.
+
+An EV battery material demand sub-module was developed. It is based on a thorough literature review, alongside the IEA’s workshop outcomes and experts’ consultation for identifying the material intensity factors, the dominant battery chemistries and the future battery technologies.
+
+For the purpose of the H2020 Energy Union project, the transport module was expanded and coupled with a bottom-up tool for projecting the future passenger car fleet and the new registrations for all EU28 countries, Switzerland and Norway. EVs deployment across these countries is driven by policy frameworks and national targets (i.e. CO2 standards and plans for phasing-out conventional cars).
+
+A LPG sub-module was added for assessing the competitiveness of LPG-powered vehicles. An analytical tool has been developed, incorporating capital costs (i.e. conversion kit costs), fuel costs, tax incentives, infrastructure developments, market maturity and vehicle characteristics (i.e. efficiency performance).
+
+WEO-2018 saw the development of a sub-module on recharging infrastructure investments. An analytical tool for estimating the future investments on EV recharging infrastructure has been developed. Historical data for the current deployment of recharging points per power classification were drawn from MoMo database. For the estimation of the trend of recharging point ratio per electric vehicle, geographical characteristics, urbanisation ratios, consumers preference and policy targets have been captured. The future cost of recharging points follows a declining trend and is benefitted by the economies of scale and learning by doing effects; a range of cost curves has been constructed for the main WEM regions.
+
+Improvements of EV projections were made beyond passenger cars, while taking into account consistency of the approach across regions and with the IEA Global Electric Vehicles Outlook 2018. Oil displacement calculation from alternative fuel vehicles, CO2 performance and indirect emissions of road transport were implemented into the WEM.
+
+Buildings
+
+The updated WEM Buildings module for WEO-2018 includes the possibility for hydrogen to be used directly to meet end-use energy demand in both residential and services buildings.
+
+Efficiency and investment cost input data for building equipment and appliances has been updated based on wide ranging market research and academic literature. The modelling of investment cost projections has been enhanced, notably for residential and commercial appliances. This update is based on observed and expected cost declines, linked to deployment levels, notably for the most efficient classes of appliances.
+
+Inputs to electricity demand projections to meet space cooling service needs were updated to link to the ETP Buildings Model (used to produce the Future of Cooling report in 2018). As a result, WEO-2018 benefits from increased precision in modelling changes to population weighted cooling degree days and relative humidity over time, due to changes in population and expected evolution of climatic conditions.
+
+Industry
+
+For WEO-2018, the updated WEM Industry module includes the possibility to use of hydrogen as direct fuel or as feedstock for ammonia production. For ammonia the used hydrogen does not appear in the balance, as it is only an intermediate product. Only the electricity consumed in the electrolysis, synthesis and in the air-separation processes appear in the balance.
+
+Chemical sector models have been updated as a result of work feeding into the Future of Petrochemicals report. Data sources for historic production of chemical products have been updated, along with the feedstock intensities. The sectoral boundaries for propylene and aromatics have been updated, moving refinery production out of the chemicals sector energy/feedstock demand and including better representation of energy demand for steam crackers.
+
+Energy Access
+
+For WEO-2018, the IEA newly incorporated more granular country-level data on cooking by fuel type, based on the World Health Organization’s database and developed with cross-checks against IEA energy balances.
+
+Gas Supply
+
+For WEO-2018, IEA developed a European gas infrastructure model, allowing us to examine trade flows and potential bottlenecks on a disaggregated country-by-country basis. The modelled countries include the EU-28, plus Switzerland and countries of southeast Europe that are contracting parties to the Energy Community Treaty.

@@ -1,0 +1,10 @@
+South Africa - Project for Statistics on Living Standards and Development 1993
+Contains four items of information for each variable in the data files.
+
+- Variable Name--Every variable has a name which can be up to eight characters in length.
+
+- Variable Label--Variable labels are up to 30 characters in length. They are more descriptive, but do not exist for all variables.
+
+- Label Name--Some variables are assigned labels to help interpret response codes. For instance, the variable named gender is assigned a label which matches the numeric responses to male or female.
+
+- Label Codes or Values--These are the code values for the label names.

@@ -1,0 +1,82 @@
+Tracking Solar Flares
+The Earth's Ionosphere
+
+
+
+Overview • Nighttime • Daytime • Sunrise and Sunset Effects •
+
+Solar Flare • Lightning • Sample Data
+
+
+
+Overview The ionosphere is defined as the layer of the Earth's atmosphere that is ionized by solar and cosmic radiation. It lies 75-1000 km (46-621 miles) above the Earth. (The Earth’s radius is 6370 km, so the thickness of the ionosphere is quite tiny compared with the size of Earth.) Because of the high energy from the Sun and from cosmic rays, the atoms in this area have been stripped of one or more of their electrons, or “ionized,” and are therefore positively charged. The ionized electrons behave as free particles. The Sun's upper atmosphere, the corona, is very hot and produces a constant stream of plasma and UV and X-rays that flow out from the Sun and affect, or ionize, the Earth's ionosphere. Only half the Earth’s ionosphere is being ionized by the Sun at any time. During the night, without interference from the Sun, cosmic rays ionize the ionosphere, though not nearly as strongly as the Sun. These high energy rays originate from sources throughout our own galaxy and the universe -- rotating neutron stars, supernovae, radio galaxies, quasars and black holes. Thus the ionosphere is much less charged at nighttime, which is why a lot of ionospheric effects are easier to spot at night – it takes a smaller change to notice them. The ionosphere has major importance to us because, among other functions, it influences radio propagation to distant places on the Earth, and between satellites and Earth. For the very low frequency (VLF) waves that the space weather monitors track, the ionosphere and the ground produce a “waveguide” through which radio signals can bounce and make their way around the curved Earth:
+
+The Earth’s ionosphere and ground form a “waveguide” through which
+
+VLF radio signals can propagate or “bounce” around the Earth.
+
+Image courtesy Morris Cohen, Stanford University The ionosphere is composed of three main parts, named for obscure historical reasons: the D, E, and F regions. The electron density is highest in the upper, or F region. The F region exists during both daytime and nighttime. During the day it is ionized by solar radiation, during the night by cosmic rays. The D region disappears during the night compared to the daytime, and the E region becomes weakened.
+
+The Earth’s atmosphere and ionosphere
+
+Back to top
+
+Nighttime
+
+During the night (image below, right side), the ionosphere has only the F and E layers. A VLF wave from a transmitter reflects off the ions in the E layer and bounces back.
+
+
+
+
+
+Back to top
+
+Daytime
+
+During the daytime (image above, left side), the Sun’s X-ray and UV light increase the ionization of the ionosphere, creating the D and enhancing the E layers, and splitting the F region into 2 layers. The D layer is normally not dense enough to reflect the radio waves. However, the E layer is, so the VLF signals go through the D layer, bounce off the E layer, and go back down through the D layer to the ground. The signals lose energy as they penetrate through the D layer and hence radios pick up weaker signals from the transmitter during the day. When a solar flare occurs, even the D layer becomes ionized, hence allowing signals to bounce off it.
+
+Back to top
+
+Sunrise and Sunset Effects
+
+The reflection height for VLF waves changes from about 70 km in the daytime to about 85 km at night (44-53 miles). During sunrise, sunlight strikes the ionosphere before the ground, and at sunset the light continues to strike the ionosphere after the Sun has set above the ground. The amount of time it takes for the Sun to ionize the ionosphere once it strikes it is virtually instantaneous.
+
+So at sunrise and sunset, the signal your SID monitor picks up is basically the effect of the VLF waves bouncing off the ionosphere along the entire path from transmitter to receiver, which could be several thousand miles. That is, the monitor picks up this process of change in conditions as sunlight sweeps over the path between transmitter and receiver. The length of the effect is dependent upon the longitudinal separation between the two sites (because the sunrise/sunset terminator takes longer to sweep over the path). Hence if you look at primarily north/south paths between transmitter and receiver, the data will show a well-defined “daytime” and a well-defined nighttime, with a pretty quick transition. For paths far apart in longitude, however, the sunrise/set effect lasts much longer and does not feature as rapid changes. Latitude contributes too, since the equatorial daytime is the same length, but the higher latitude daytimes are highly seasonal in length.
+
+Back to top
+
+Solar Flare
+
+Solar flares imaged by the TRACE satellite.
+
+Photo courtesy NASA.
+
+When a solar flare occurs, the flare’s X-ray energy increases the ionization of all the layers, including the D. Thus D now becomes strong enough to reflect the radio waves at a lower altitude. So during a solar flare, the waves travel less distance (bouncing off D instead of E or F). The signal strength usually increases because the waves don’t lose energy penetrating the D layer. However, the VLF wave strength during a flare can either increase or decrease. The signal strength could decrease because the lower the waves reflect, the more collisions, or interferences of waves, there will be because of the thicker atmosphere. These wave collisions can result in destructive interference, as seen in the diagram below:
+
+
+
+Image from New Worlds, http://newworlds.colorado.edu/starshade/
+
+In fact, collisions near the reflection height are the primary damping mechanism of the VLF waves. However there are other factors so not all disturbances result in a decrease. As soon as the X-rays end, the sudden ionospheric disturbance (SID) ends as the electrons in the D-region rapidly recombine and signal strengths return to normal.
+
+Back to top
+
+Lightning
+
+During the daytime, the Sun’s ionization generally overpowers any effects of lightning. However, during the nighttime, lightning storms can ionize the ionosphere and thus change where the radio waves bounce.
+
+
+
+Photo from the NOAA Photo Library.
+
+If you see a lot of “wiggles” in your data in the nighttime, the radio waves are probably responding to a lightning storm somewhere between your site and the transmitter. By checking the weather reports, and comparing your data with data from other locations, you can sometimes track down where these storms were!
+
+Stormy Night of SID Data
+
+Back to top
+
+Sample Data
+
+View SID monitor sample data from WSO in Palo Alto, California, USA. Monitoring the transmitter NAA at Cutler, Maine, USA
+
+Back to top

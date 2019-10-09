@@ -1,0 +1,148 @@
+UPC and EAN Bar Code Page
+This Visit Brought To You By
+
+All About UPC Barcode & EAN Barcode
+
+The Universal Product Code or UPC barcode was the first bar code symbology widely adopted. Its birth is usually set at April 3, 1973, when the grocery industry formally established UPC as the standard bar code symbology for product marking. Foreign interest in UPC led to the adoption of the EAN code format, similar to UPC, in December 1976.
+
+2005 Sunrise and the Global Trade Item Number initiatives from the UCC will begin on January 1, 2005. This is the "fourteen digit U.P.C." that everyone is talking about. There are quite a few misconceptions and considerable misinformation about the effect of this change. In a nutshell, if you are a manufacturer of a product that has an existing 8 or 12-digit UPC barcode, don't worry. You do not have to change anything. However, if you are a retailer or wholesaler with scanners, you potentially are affected. You will need to ensure that scanners are able to decode 8, 12, 13 and 14-digit barcodes (most scanners sold for the last 5 years can do this) and that database systems can handle the extra digits. Gregg London was kind enough to share an excellent white paper on the subject. Once January 1, 2005 comes, both EAN and UPC labels should scan properly worldwide.
+
+There are now five versions of UPC and two versions of EAN. The Japanese Article Numbering (JAN) code has a single version identical to one of the EAN versions with the flag characters set to ``49''.
+
+UPC and EAN symbols are fixed in length, can only encode numbers, and are continuous symbologies using four element widths.
+
+
+
+UPC version A symbols have 10 digits plus two overhead digits while EAN symbols have 12 digits and one overhead digit. The first overhead digit of a UPC version A symbol is a number related to the type of product while an EAN symbol uses the first two characters to designate the country of the EAN International organization issuing the number. UPC is in fact a subset of the more general EAN code. Scanners equipped to read EAN symbols can read UPC symbols as well. However, UPC scanners will not necessarily read EAN symbols.
+
+The UPC symbology was designed to make it ideal for coding products. UPC can be printed on packages using a variety of printing processes. The format allows the symbol to be scanned with any package orientation. Omnidirectional scanning allows any package orientation provided the symbol faces the scanner. The UPC format can be scanned by hand-held wands and can be printed by equipment in the store. Version A of the symbology has a First Pass Read Rate of 99% using a fixed laser scanner and has a substitution error rate of less than 1 error in 10,000 scanned symbols.
+
+Nominal X dimension is 13 mils. A magnification factor of 0.8 to 2.0 is allowed and, as a result, makes a printable range of X dimension values of 10.4 to 24 mils. In other words, the nominal size of a UPC symbol is 1.469" wide x 1.02" high. The minimum recommended size is 80% of the nominal size or 1.175" wide x .816" high. The maximum recommended size is 200% of the nominal size or 2.938" wide x 2.04" high. Larger UPC's scan better. Smaller UPC's do not scan as well or not at all.
+
+The UPC format can be printed using a variety of printing techniques because it allows for different ink spreading. The amount of ink spreading depends on printing press conditions, amount and viscosity of ink and other factors which are difficult to precisely control. The UPC symbol is decoded by measuring the distance from leading edges to leading edge of bars, trailing edge to trailing edge of bars and leading edge to leading edge of characters. Since relative distances are measured for decoding, uniform ink spread will not affect the symbol's readability. However, excessive ink spread will make the spaces very small to the point that the reader will be unable to resolve them. Since UPC is a continuous code with exacting tolerances, it is more difficult to print on any equipment except printing presses.
+
+How Do I Get A Bar Code Number For My Product?
+
+See the FAQ for the answer.
+
+How Do I Get A List Of All The Product Codes And Their Respective Manufacturers?
+
+See the FAQ for the answer.
+
+Do I Have To Pay To Use Barcodes For Internal Uses Like Inventory?
+
+See the FAQ for the answer.
+
+UPC Version A Barcode
+
+UPC version A is the basic version of UPC and is usually the version seen on grocery store items. The symbology is used to encode the 10 digit Universal Product Code. An eleventh digit indicates the type of product, and a twelfth digit is a modulo check digit. The symbol is divided into two halves, each containing 5 digits. The two six-digit patterns are surrounded by left, center and right guard patterns. The left six digits use odd parity encodation while the right six digits use even parity encodation.. The first digit is the UPC number system digit related to the type of product (0 for groceries, 3 for drugs, etc.). The next 5 digits are the UPC manufacturer's code. The first five digits of the right half are the product code. The final digit is the check digit. Although UPC A is continuous, the left and right halves of the symbol can be independently decoded.
+
+A digit is coded as a sequence of two bars and two spaces within a space 7 modules wide. Bar and space widths may be 12, 3, or 4 modules wide. This results in 20 possible bar-space combinations. Ten of these patterns are used for the left odd parity digits and ten are used for the right even parity digits. The left digits always start with a space, while the right digits always start with a bar.
+
+Left Digits
+
+Odd Parity
+
+S B S B Right Digit
+
+Even Parity
+
+B S B S 0 3 2 1 1 3 2 1 1 1 2 2 2 1 2 2 2 1 2 2 1 2 2 2 1 2 2 3 1 4 1 1 1 4 1 1 4 1 1 3 2 1 1 3 2 5 1 2 3 1 1 2 3 1 6 1 1 1 4 1 1 1 4 7 1 3 1 2 1 3 1 2 8 1 2 1 3 1 2 1 3 9 3 1 1 2 3 1 1 2
+
+A typical UPC Version A symbol has center guard bars in the center of the symbol which are longer than the other bars. This divides the symbol into a right and left half. This division allows the symbol to scan in any orientation. The moving beam laser bar code reader in grocery stores produces orthogonal scanning beams either in a cross, starburst, or figure-eight. At least one beam will then pass through each half of the symbol, since the symbol's height is at least equal to half of the length of the symbol.
+
+The height of the symbol should be at least half the length of the symbol. Sometimes the symbol's height is shortened to fit into the design of the package. This truncation of symbol height affects the ability to scan the symbol in any orientation, and will generally reduce the First Pass Read Rate.
+
+The Quiet Zone should be 9 modules on the left and right of the symbol.
+
+Version A may include either a 2 digit or a 5 digit supplemental encodation. These extra digits are primarily used on periodicals and books.
+
+More information about Version A is available here.
+
+UPC Version E Barcode
+
+UPC version E is the next most common version of UPC. It is a zero suppression version of UPC. It is intended to be used on packaging which would be otherwise too small to use one of the other versions. The code is smaller because it drops out zeros which would otherwise occur in a symbol. For example, the code 59300-00066 would be encoded as 593663. The last digit (3 in the example) indicates the type of compression. Guard bars precede and follow the data (no middle guard bars). The digits are coded following the parity pattern EVEN, EVEN, ODD, ODD, EVEN, ODD. The data is enclosed between two left-hand guard bars and three right-hand guard bars. The six digit number is always preceded by a 0 and followed by the check digit. The way the check digit is computed is by expanding the type E to a type A, then doing the regular check.
+
+More information about Version E along with a converter is available here.
+
+There is a good explanation of Zero Suppression at the Infinity Graphics site with a table that shows how a Version A number may be reduced to Version E if the Numbering System Character is "0".
+
+Other UPC Barcode Versions
+
+There are three other versions of UPC. These other versions are not in wide use.
+
+UPC version B is a special version originally developed to handle the National Drug Code and National Health Related Items Code. It allows for 11 digits plus one product type code. This version does not have any modulo check digit.
+
+UPC version C is a special code designed to promote industry-wide compatibility. The code is 12 digits long with a product type digit and a modulo check sum digit.
+
+UPC version D is a variable message length version of UPC. The symbol must contain at least 12 digits. The first digit is a product type code. This is followed by 10 information carrying digits. The twelfth digit is a modulo check sum, and this is followed by a variable number of digits.
+
+There is a good explanation of the UPC Shipping Container Symbol (SCS) at the Infinity Graphics site.
+
+EAN-13 Barcode and EAN-8 Barcode
+
+The EAN Article Numbering System (EAN),the Japanese Article Numbering (JAN) System and the International Article Numbering System (IAN) are identical to UPC except for the number of digits. The Japanese Article Numbering (JAN) System (JAN) codes are the same as the EAN codes, with the flag characters set to ``49''. There are two principal EAN versions.
+
+Standard EAN (sometimes called EAN-13 or DUN-13) has 10 numeric characters, 2 or 3 "flag" characters which are usually a code for the country of the EAN International organization issuing the number , and a check digit. In all other respects, it is identical to UPC version A. JAN is the same as EAN-13. For compatibility with UPC, flags 00, 01, 03, 04, and 06 through 13 are assigned to the United States.
+
+Lots of people have requested the codes. Here is a partial list. Remember, it indicates the country that issued the code, NOT THE COUNTRY OF ORIGIN OF THE PRODUCT. The abbreviation "MO" stands for Member Organization. The meaning of the prefixes ""020-029", "040-049" and "200-299" are set by the GS1 administration in a given country. GS1-US has defined these prefixes as for internal use in, for example, warehouses. The authoritative list is here.
+
+Prefix GS1 Country 000 - 019 GS1 United States 020 - 029 Restricted distribution (MO defined, usually for internal use) 030 - 039 GS1 United States 040 - 049 Restricted distribution (MO defined, usually for internal use) 050 - 059 Coupons 060 - 139 GS1 United States 200 - 299 Restricted distribution (MO defined, usually for internal use) 300 - 379 GS1 France 380 GS1 Bulgaria 383 GS1 Slovenia 385 GS1 Croatia 387 GS1 BIH (Bosnia-Herzegovina) 400 - 440 GS1 Germany 450 - 459 &
+
+490 - 499 GS1 Japan 460 - 469 GS1 Russia 470 GS1 Kurdistan 471 GS1 Taiwan 474 GS1 Estonia 475 GS1 Latvia 476 GS1 Azerbaijan 477 GS1 Lithuania 478 GS1 Uzbekistan 479 GS1 Sri Lanka 480 GS1 Philippines 481 GS1 Belarus 482 GS1 Ukraine 484 GS1 Moldova 485 GS1 Armenia 486 GS1 Georgia 487 GS1 Kazakhstan 489 GS1 Hong Kong 500 - 509 GS1 UK 520 GS1 Greece 528 GS1 Lebanon 529 GS1 Cyprus 530 GS1 Albania 531 GS1 MAC (FYR Macedonia) 535 GS1 Malta 539 GS1 Ireland 540 - 549 GS1 Belgium & Luxembourg 560 GS1 Portugal 569 GS1 Iceland 570 - 579 GS1 Denmark 590 GS1 Poland 594 GS1 Romania 599 GS1 Hungary 600 - 601 GS1 South Africa 603 GS1 Ghana 608 GS1 Bahrain 609 GS1 Mauritius 611 GS1 Morocco 613 GS1 Algeria 616 GS1 Kenya 618 GS1 Ivory Coast 619 GS1 Tunisia 621 GS1 Syria 622 GS1 Egypt 624 GS1 Libya 625 GS1 Jordan 626 GS1 Iran 627 GS1 Kuwait 628 GS1 Saudi Arabia 629 GS1 Emirates 640 - 649 GS1 Finland 690 - 695 GS1 China 700 - 709 GS1 Norway 729 GS1 Israel 730 - 739 GS1 Sweden 740 GS1 Guatemala 741 GS1 El Salvador 742 GS1 Honduras 743 GS1 Nicaragua 744 GS1 Costa Rica 745 GS1 Panama 746 GS1 Dominican Republic 750 GS1 Mexico 754 - 755 GS1 Canada 759 GS1 Venezuela 760 - 769 GS1 Switzerland 770 GS1 Colombia 773 GS1 Uruguay 775 GS1 Peru 777 GS1 Bolivia 779 GS1 Argentina 780 GS1 Chile 784 GS1 Paraguay 786 GS1 Ecuador 789 - 790 GS1 Brazil 800 - 839 GS1 Italy 840 - 849 GS1 Spain 850 GS1 Cuba 858 GS1 Slovakia 859 GS1 Czech 860 GS1 YU (Serbia & Montenegro) 865 GS1 Mongolia 867 GS1 North Korea 868 - 869 GS1 Turkey 870 - 879 GS1 Netherlands 880 GS1 South Korea 884 GS1 Cambodia 885 GS1 Thailand 888 GS1 Singapore 890 GS1 India 893 GS1 Vietnam 899 GS1 Indonesia 900 - 919 GS1 Austria 930 - 939 GS1 Australia 940 - 949 GS1 New Zealand 950 GS1 Global Office 955 GS1 Malaysia 958 GS1 Macau 977 Serial publications (ISSN) 978 - 979 Bookland (ISBN) 980 Refund receipts 981 - 982 Common Currency Coupons 990 - 999 Coupons
+
+More information about EAN-13 is available here.
+
+EAN-8 has a left-hand guard pattern, four odd parity digits, a center guard pattern, four even parity digits, and a right-hand guard pattern. An EAN-8 bar code has two flag digits, five data digits, and one check digit. There is additional information about EAN-8 here.
+
+Information about Bookland EAN and ISBN numbering of books can be found at BarCode 1's Bookland EAN and ISBN Page.
+
+There is a good explanation of Bookland EAN bar code symbols used by the publishing industry at the Infinity Graphics site. There is also a very good explanation about Bookland EAN Add-On Code, used for storing the price of a book or magazine.
+
+If you need to compute the check digit for UPC-A (UCC-12) in Excel, the following will work:
+
+Put the number you want to determine the check digit for in cell A1.
+
+Put the following formula in cell B1:
+
+=10-MOD(MID($A1,2,1)+MID($A1,4,1)+MID($A1,6,1)+MID($A1,8,1)+MID($A1,10,1)+(MID($A1,1,1)+MID($A1,3,1)+MID($A1,5,1)+MID($A1,7,1)+MID($A1,9,1)+MID($A1,11,1))*3,10)
+
+Put the following formula in cell C1:
+
+=if($B1=10,0,$B1)
+
+The value that appears in cell C1 is the check digit. If you want to add the check digit to the UPC to produce the full UPC-12 number, put the following formula in D1:
+
+=CONCATENATE(A1,C1)
+
+For EAN-13 (UCC-13) the formula in cell B1 should to changed to:
+
+=10-MOD(MID($A1,1,1)+MID($A1,3,1)+MID($A1,5,1)+MID($A1,7,1)+MID($A1,9,1)+MID($A1,11,1)+(MID($A1,2,1)+MID($A1,4,1)+MID($A1,6,1)+MID($A1,8,1)+MID($A1,10,1)+MID($A1,12,1))*3,10)
+
+For EAN-14/UCC-14 the formula in cell B1 should be changed to:
+
+=10-MOD(MID($A1,2,1)+MID($A1,4,1)+MID($A1,6,1)+MID($A1,8,1)+MID($A1,10,1)+MID($A1,12,1)+(MID($A1,1,1)+MID($A1,3,1)+MID($A1,5,1)+MID($A1,7,1)+MID($A1,9,1)+MID($A1,11,1)+MID($A1,13,1))*3,10)
+
+For EAN/UCC-8 the forumula in cell B1 should be changed to:
+
+=10-MOD(MID($A1,2,1)+MID($A1,4,1)+MID($A1,6,1)+(MID($A1,1,1)+MID($A1,3,1)+MID($A1,5,1)+MID($A1,7,1))*3,10)
+
+Other UPC And EAN Resources
+
+George J. Laurer is the developer of UPC in 1973 and EAN later. There is a history at his site.
+
+GS1-US (formally called Uniform Code Council) has a home page that provides a catalog of information they sell and an electronic version of their newsletter.
+
+There is also a step-by-step guide about how to join and get a manufacturer's code to produce barcodes here.
+
+GS1 (formarly called EAN International) is is the organization that manages the EAN system worldwide, currently there are national organizations in 92 countries on the 5 continents. (can be slow to access from North America). They also have a complete list of the addresses and phone numbers of the local EAN organizations by country. This list also has links to on-line sites of EAN organizations in some countries. There is much more very good information at the EAN site. The site is a must visit for information about EAN.
+
+There is another site which provides product descriptions. It's called the Internet UPC Database, an on-line database for Universal Product Codes (UPC).
+
+There is a new resource for searching EAN barcode numbers at www.ean-search.org. You can search for EAN codes or browse through the database of over 500.000 EANs.
+
+There is a good explanation for children about How UPC Bar Codes Work from Howstuffworks.com
+
+A very good explanation about UPC/EAN-128 Coupon Extended Code for cents-off coupons can be found at the Infinity Graphics site.
+
+There is also more information about coupon codes here and there is still more about coupon codes here.

@@ -1,0 +1,440 @@
+Ansolabehere, et al., Critique of Richman/Earnest Study
+Electoral Studies 40 (2015) 409e410
+
+Contents lists available at ScienceDirect
+
+Electoral Studies
+
+journal homepage: www.elsevier.com/locate/electstud
+
+The perils of cherry picking low frequency events in large sample
+
+surveys
+
+Stephen Ansolabehere a, Samantha Luks b, Brian F. Schaffner c, *
+
+a
+
+Harvard University, PI CCES, United States
+
+YouGov, United States
+
+c
+
+University of Massachusetts, Amherst, co-PI CCES, United States
+
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+
+Received 5 November 2014
+
+Accepted 13 July 2015
+
+Available online 17 July 2015
+
+The advent of large sample surveys, such as the Cooperative Congressional Election Study (CCES), has
+
+opened the possibility of measuring very low frequency events, characteristics, and behaviors in the
+
+population. This paper documents how low-level measurement error for survey questions generally
+
+agreed to be highly reliable can lead to large prediction errors in large sample surveys, such as the CCES.
+
+The example for this analysis is Richman et al. (2014), which presents a biased estimate of the rate at
+
+which non-citizens voted in recent elections. The results, we show, are completely accounted for by very
+
+low frequency measurement error; further, the likely percent of non-citizen voters in recent US elections
+
+is 0.
+
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+
+Surveys
+
+Turnout
+
+Measurement error
+
+The advent of large sample surveys, such as the Cooperative
+
+Congressional Election Study (CCES), has opened the possibility of
+
+measuring very low frequency events, characteristics, and behaviors in the population. This is certainly a worthy objective, but researchers must use caution when studying low probability events
+
+and behaviors, such as non-citizenship rates and voting. Even very
+
+low-level measurement error can lead to classiﬁcation and prediction errors and incorrect inferences in analyses.
+
+This article documents how low-level measurement error for
+
+survey questions generally agreed to be highly reliable can lead to
+
+large prediction errors in large sample surveys, such as the CCES.
+
+The example for this analysis is Richman et al. (2014), which presents a biased estimate of the rate at which non-citizens voted in
+
+recent elections. The results, we show, are completely accounted
+
+for by very low frequency measurement error; further, the likely
+
+percent of non-citizen voters in recent US elections is 0.
+
+We begin with an example. Suppose a survey question is asked of
+
+20,000 respondents, and that, of these persons, 19,500 have a given
+
+characteristic (e.g., are citizens) and 500 do not. Suppose that 99.9
+
+percent of the time the survey question identiﬁes correctly whether
+
+people have a given characteristic, and 0.1 percent of the time respondents who have a given characteristic incorrectly state that
+
+they do not have that characteristic. (That is, they check the wrong
+
+box by mistake.) That means, 99.9 percent of the time the question
+
+* Corresponding author.
+
+E-mail address: schaffne@polsci.umass.edu (B.F. Schaffner).
+
+http://dx.doi.org/10.1016/j.electstud.2015.07.002
+
+0261-3794/© 2015 Elsevier Ltd. All rights reserved.
+
+correctly classiﬁes an individual as having a characteristic e such as
+
+being a citizen of the United States eand 0.1 percent of the time it
+
+classiﬁes someone as not having a characteristic, when in fact they
+
+do. This rate of misclassiﬁcation or measurement error is extremely
+
+low and would be tolerated by any survey researcher. It implies,
+
+however, that one expects 19 people out of 20,000 to be incorrectly
+
+classiﬁed as not having a given characteristic, when in fact they do.
+
+Normally, this is not a problem. In the typical survey of
+
+1000e2000 persons, such a low level of measurement error would
+
+have no detectable effect on the sample. Even in very large sample
+
+surveys, survey practitioners expect a very low level of measurement error would have effects that wash out between two categories. The non-citizen voting example highlights a potential pitfall
+
+with very large databases in the study of low frequency categories.
+
+Continuing with the example of citizenship and voting, the problem is that the citizen group is very large compared to the noncitizen group in the survey. So even if the classiﬁcation is
+
+extremely reliable, a small classiﬁcation error rate will cause the
+
+bigger category to inﬂuence analysis of the low frequency category
+
+is substantial ways. Misclassiﬁcation of 0.1 percent of 19,500 respondents leads us to expect that 19 respondents who are citizens
+
+will be classiﬁed as non-citizens and 1 non-citizen will be classiﬁed
+
+as a citizen. (This is a statistical expectationethe actual numbers
+
+will vary slightly.) The one non-citizen classiﬁed as a citizen will
+
+have trivial effects on any analyses of the overall pool of people
+
+categorized as citizens, as that individual will be 1 of 19,481 respondents. However, the 19 citizens incorrectly classiﬁed as non-
+
+410
+
+S. Ansolabehere et al. / Electoral Studies 40 (2015) 409e410
+
+citizens can have signiﬁcant effects on analyses, as they are 3.7
+
+percent (19 of 519) of respondents who said they are non-citizens.
+
+Such misclassiﬁcations can explain completely the observed low
+
+rate of a behavior, such as voting, among a relatively rare or lowfrequency group, such as non-citizens. Suppose that 70 percent of
+
+those with a given characteristic (e.g., citizens) engage in a behavior
+
+(e.g., voting). Suppose, further, that none of the people without the
+
+characteristic (e.g., non-citizens) are allowed to engage in the
+
+behavior in question (e.g., vote in federal elections). Based on these
+
+suppositions, of the 19 misclassiﬁed people, we expect 13 (70%) to
+
+be incorrectly determined to be non-citizen voters while 0 correctly
+
+classiﬁed non-citizens would be voters. Hence, a 0.1 percent rate of
+
+misclassiﬁcation e a very low level of measurement error e would
+
+lead researchers to expect to observe that 13 of 519 (2.8 percent)
+
+people classiﬁed as non citizens voted in the election, when those
+
+results are due entirely to measurement error, and no non-citizens
+
+actually voted.
+
+This example parallels the reliability and vote rates in the CCES
+
+2010e2012 panel survey. From this we conclude that measurement
+
+error almost certainly explains the observed voting rate among
+
+self-identiﬁed non-citizens in the CCES e as reported by Richman
+
+and his colleagues. We develop this in three steps.
+
+First, the citizenship classiﬁcation in the CCES has a reliability
+
+rate of 99.9 percent. The citizenship question was asked in the 2010
+
+and 2012 waves of a panel study conducted by CCES. Of those who
+
+stated that they were citizens in 2010, 99.9 percent stated that they
+
+were citizens in 2012, but 0.1 percent indicated on the 2012 survey
+
+form that they were non-citizen immigrants. This is a very high
+
+reliability rate and very low misclassiﬁcation rate for selfidentiﬁcation questions. See Table 1.
+
+Second, the validated voting rate among citizens in the CCES
+
+panel is 70 percent. In May 2011, following the 2010 election, the
+
+CCES data were matched to Catalist data on voter registration and
+
+vote history. May is the date for validation as that is when most
+
+states ﬁle their registration data with vote history for the previous
+
+year's election. In the CCES panel, 90 percent of the respondents
+
+were successfully matched to the Catalist database in 2010. Of those
+
+matched, 91 percent were registered voters and 78 percent had cast
+
+a vote in 2010. However, if you include respondents who were
+
+unmatched to Catalist, 70 percent of the CCES panel were classiﬁed
+
+as validated voters in 2010.
+
+Third, the panel shows clear evidence that the respondents who
+
+were identiﬁed as non-citizen voters by Richman et al. were misclassiﬁed. Clearly misclassiﬁed observations are the 20 respondents
+
+who reported being citizens in 2010 and non-citizens in 2012. Of
+
+those 20 respondents, a total of 3 respondents are classiﬁed by
+
+Catalist as having voted in 2010. Additionally, exactly 1 person is
+
+estimated to have voted in 2010, having been a non-citizen in 2010
+
+and a citizen in 2012. (Note: This might not be an error as the
+
+person could have legally become a citizen in the intervening two
+
+years.) Both of these categories might include some citizens who
+
+are incorrectly classiﬁed as non-citizens in one of the waves
+
+(Table 2).
+
+Importantly, the group with the lowest likelihood of classiﬁcation errors consists of those who reported being non-citizens in
+
+both 2010 and 2012. In this set, 0 percent of respondents cast valid
+
+votes. That is, among the 85 respondents who reported being nonTable 1
+
+Response to citizenship question across two-waves of CCES panel.
+
+Response in 2010
+
+Response in 2012
+
+Number of respondents
+
+Percentage
+
+Citizen
+
+Citizen
+
+Non-Citizen
+
+Non-Citizen
+
+Citizen
+
+Non-Citizen
+
+Citizen
+
+Non-Citizen
+
+18,737
+
+20
+
+36
+
+85
+
+99.25
+
+0.11
+
+0.19
+
+0.45
+
+Table 2
+
+Number and percent of validated votes in 2010 among self-identiﬁed citizens and
+
+non-citizens in the 2010e2012 CCES panel study.
+
+2012
+
+2010
+
+Citizen
+
+Non-citizen
+
+Total
+
+Citizen
+
+Non-Citizen
+
+Total
+
+13,350/18,737 (71.2%)
+
+1/36 (2.8%)
+
+13,351/18,773 (71.1%)
+
+3/20 (15.0%)
+
+0/85 (0.0%)
+
+3/105 (2.9%)
+
+13,353/18,757 (71.2%)
+
+1/121 (0.8%)
+
+13,229/18,878 (70.1%)
+
+citizens in 2010 and non-citizens in 2012, there are 0 valid voters
+
+for 2010.1
+
+Fourth, the probability that the observed voters in the non-voter
+
+category are in fact citizens who have been misclassiﬁed is nearly 1.
+
+The expected number of citizens who are identiﬁed as non-citizens
+
+is 19 (0.1 percent times 18,878). The sample contains 105 persons
+
+who are identiﬁed as non-citizens in 2012. Assuming that the vote
+
+rate among citizens is 0.7, then the expected number of citizen voters
+
+who are classiﬁed as non-citizens is 13. Hence, we expect in a sample
+
+of 105 non-citizen persons that there would be 13 people who are in
+
+fact citizen voters but misclassiﬁed as non-citizens. The actual
+
+number of observed is only 4 (3 in 2010 and 1 in 2012). This is much
+
+lower than the expected number. Hence the probability that these 4
+
+cases are in fact citizens identiﬁed as non-citizens is nearly 1.2
+
+Richman and colleagues offer interpretations of their results based
+
+on predicted vote rates of non-citizens and the share of that group of
+
+all voters. Their calculations incorrectly assume that the validated
+
+vote of those who reported being non-citizens each year is an unbiased estimate of actual non-citizen voting rates. Our analysis indicates
+
+that all of those cases are nearly certainly citizen voters who are
+
+misclassiﬁed as being non-citizens. Hence, their predicted vote rates
+
+of non-citizens in fact reﬂect the behavior of citizens.
+
+This problem arises because the survey was not designed to
+
+sample non-citizens, and the non-citizen category in the citizenship
+
+question is included for completeness and to identify those respondents who might be non-citizens. We expect that most of that
+
+group are in fact non-citizens (85 of 105), but the very low level of
+
+misclassiﬁcation of citizens, who comprise 97.4 percent of the sample, means that we expect that 19 “non-citizen” respondents (16.5
+
+percent of all reported non-citizens) are citizens who are misclassiﬁed. And, those misclassiﬁed people can readily account for the
+
+observed vote among those who reported that they are non-citizens.
+
+Stepping back from the immediate question of whether the
+
+CCES in fact shows a low rate of voting among non-citizens, our
+
+analysis carries a much broader lesson and caution about the
+
+analysis of big databases to study low frequency characteristics and
+
+behaviors. Very low levels of measurement error are easily tolerated in samples of 1000e2000 persons. But in very large sample
+
+surveys, classiﬁcation errors in a high-frequency category can
+
+readily contaminate a low-frequency category, such as noncitizens. As a result, researchers may draw incorrect inferences
+
+concerning the behavior of relatively rare individuals in a population when there is even a very low level of misclassiﬁcation.
+
+References
+
+Jesse, T., Richman, Gulshan, A., Chattha, David, C., 2014. Earnest. Do non-citizens
+
+vote in US elections? Elect. Stud. 36, 149e157.
+
+1
+
+For the 2012 election, there is one validated voter among the 85 respondents
+
+who answered non-citizen in both waves. However, this appears to be the result of
+
+a false positive match with Catalist. Indeed, the individual stated in both the 2010
+
+and 2012 survey that she was not registered to vote.
+
+2
+
+Here we use a normal approximation to the underlying binomial distribution. The
+
+probability calculation is the probability of observing at least 3 citizens voters who are
+
+classiﬁed as non-citizen voters is 1 F((0.029e0.113)/0.016) ¼ 1 F(5.5) ¼ 1.

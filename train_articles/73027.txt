@@ -1,0 +1,282 @@
+Zika Virus Infection in Mice Causes Panuveitis with Shedding of Virus in Tears
+Zika virus (ZIKV) is an emerging flavivirus that causes congenital abnormalities and Guillain-Barré syndrome. ZIKV infection also results in severe eye disease characterized by optic neuritis, chorioretinal atrophy, and blindness in newborns and conjunctivitis and uveitis in adults. We evaluated ZIKV infection of the eye by using recently developed mouse models of pathogenesis. ZIKV-inoculated mice developed conjunctivitis, panuveitis, and infection of the cornea, iris, optic nerve, and ganglion and bipolar cells in the retina. This phenotype was independent of the entry receptors Axl or Mertk, given that Axl −/− , Mertk −/− , and Axl −/− Mertk −/− double knockout mice sustained levels of infection similar to those of control animals. We also detected abundant viral RNA in tears, suggesting that virus might be secreted from lacrimal glands or shed from the cornea. This model provides a foundation for studying ZIKV-induced ocular disease, defining mechanisms of viral persistence, and developing therapeutic approaches for viral infections of the eye.
+
+Here, we evaluated whether ZIKV infects and injures the eyes of mice. Although we did not detect eye pathology in congenitally infected mice, ZIKV infected the iris, retina, and optic nerve of adult mice and caused conjunctivitis, panuveitis, and neuroretinitis without global photoreceptor abnormalities. Acute uveitis was associated with high levels of ZIKV RNA and infectious virus in the eye and detectable viral RNA in the tears and lacrimal glands. ZIKV RNA persisted within the eye through the convalescent stage, while infectious virus was cleared within 28 days. Although Axl and Mertk are expressed in eye tissues (), infection studies in Axland Mertkmice revealed no difference in ocular or brain infection, suggesting that these TAM receptors lack an essential entry or signaling role in these tissues. Our experiments establish that ZIKV infects specific target cells in different regions of the eye and provide a model for the development and testing of treatments for acute and persistent viral infections in the eye.
+
+Some flaviviruses are thought to attach to or enter target cells by interacting with TAM receptors (Tyro3, Axl, or Mertk) via their ligands, Gas6 and protein S, which bind to phosphatidylserine displayed on the surface of the virion. In vitro studies have suggested that TAM receptors can facilitate infection with WNV, DENV, and ZIKV either by promoting binding () or by activating TAM receptors (), which negatively regulate signaling through Ifnar1, resulting in a more permissive environment for replication. Recent focus has been placed on ZIKV infection and Axl, because it is expressed highly on neuroprogenitor cells () and subtypes of trophoblasts (), which are key cellular targets of ZIKV.
+
+ZIKV does not replicate efficiently in adult wild-type (WT) mice; this phenotype might be explained by the ability of ZIKV to antagonize human but not mouse STAT2, which is activated by signaling through the type I and type III interferon (IFN) receptors (). Accordingly, we and others have recently described models of ZIKV pathogenesis after congenital and adult infection in mice deficient in signaling through the type I IFN receptor (). Mice lacking the type I IFN receptor (Ifnar1mice) developed neuroinvasive disease after ZIKV infection, which caused death in younger animals, although a fraction of older adult mice survived infection. Infection of Ifnar1females with a French Polynesian strain of ZIKV resulted in fetal demise and intrauterine growth restriction in Ifnar1fetuses (), but ocular pathology was not assessed.
+
+Viral infection in the eye can cause inflammation of uveal tissues (retina, choroid, iris, and ciliary body), also termed uveitis, which can lead to permanent vision loss if untreated (). In 2014, an Ebola virus (EBOV)-infected patient in the convalescent phase presented with uveitis. The aqueous humor of this patient’s eye contained persistent EBOV RNA well after clearance of the virus in non-immune-privileged sites (). A subsequent study identified 57 EBOV survivors with uveitis, suggesting that infectious virus or viral RNA in the eye might have triggered this complication (). Other animal models have suggested that some DNA viruses (e.g., ectromelia virus) might persist in the eye and recrudesce after immunosuppression (). ZIKV causes conjunctivitis in 10% to 15% of infected adults, and uveitis occurred in a patient several weeks after initial infection. Fluid sampled from the anterior chamber of this patient’s eye contained viral RNA (), suggesting that ZIKV can replicate within the eye at some stage of its clinical syndrome.
+
+ZIKV is a mosquito-transmitted flavivirus that is closely related to Dengue (DENV), West Nile (WNV), and yellow fever (YFV) viruses. Beyond the clinical syndromes of microcephaly, intrauterine growth restriction, and fetal demise, several clinical studies have observed eye malformations and pathology in neonates born to mothers infected with ZIKV during pregnancy (). Manifestations of eye disease in newborns with ZIKV include chorioretinal atrophy, optic neuritis, bilateral iris colobomas, intraretinal hemorrhages, lens subluxation, and blindness ().
+
+(B and C) RNA ISH with a ZIKV-specific probe to stain eye sections of mock- (B) or ZIKV-infected (C) Ifnar1 −/− mice. Red boxes indicate regions shown at higher magnification in adjacent panels. High-magnification views in (B) indicate regions of the cornea (right panel) and retina (bottom panel). High-magnification views in (C) show regions of the retina (right panel), optic nerve (middle panel), and cornea (lower panel). ISH data are representative of two independent experiments with at least two animals per group. Scale bar represents 200 μm.
+
+(A) Viral burden in the microdissected cornea, iris, lens, retina, retinal pigment epithelium/choroid, and optic nerve on day 7 after infection. Symbols are derived from individual animals and pooled from two independent experiments. Bars indicate the mean of 8 to 14 mice per group. Dotted lines represent the limit of sensitivity of the assay. Data were analyzed by Kruskal-Wallis one-way ANOVA with a Dunn’s multiple comparison test (p > 0.05 only for samples from optic nerve compared to RPE/choroid complex).
+
+4-to-8-week-old Ifnar1 −/− mice were inoculated subcutaneously with 10 3 FFUs of ZIKV Paraíba 2015. Eyes were harvested for microdissection and quantitation of ZIKV RNA by qRT-PCR (day 7) or for ZIKV RNA detection by ISH (day 6 or 8).
+
+We evaluated the cellular tropism of ZIKV in the eye. Initially, we performed microdissection and measured ZIKV RNA levels in different compartments of the eye on day 7 after infection ( Figure 6 A). We included analysis of the anterior (cornea, iris, and lens) and posterior (neurosensory retina, retinal pigment epithelium/choroid complex, and optic nerve) chambers (see Figure 3 B). ZIKV RNA was detected in all eye regions, with ∼100-fold higher levels in the retinal pigment epithelium/choroid complex than in the optic nerve (p < 0.05, Figure 6 A). To confirm these findings, eyes were collected at 6 to 8 days after inoculation and assessed for viral RNA by in situ hybridization (ISH). Mock-infected animals stained for ZIKV RNA and infected animals stained with a negative control probe against a bacterial gene had no staining in the cornea, optic nerve, or retina ( Figure 6 B and data not shown). In comparison, abundant ZIKV RNA was apparent in the bipolar and ganglion cell neurons of the neurosensory retina ( Figure 6 C, upper panel), the optic nerve ( Figure 6 C, middle panel), and the cornea of infected animals ( Figure 6 C, lower panel).
+
+To determine whether ZIKV infection of the eye caused functional deficits, we performed ex vivo electroretinography (ERG), which measures the transmission of light by photoreceptor cells. ERG testing of dissected eyes from Ifnar1mice on day 7 after ZIKV infection revealed no apparent defects in photoreceptor function ( Figures S3 A– S3D). Similar results were obtained on days 7, 14, and 28 in ZIKV-infected WT mice treated with anti-Ifnar1 mAb ( Figures S3 E–S3H and data not shown). Thus, ZIKV infection and persistence in the eye does not cause global photoreceptor dysfunction. This ERG evaluation, however, does not rule out mild or focal defects in photoreceptor function or whether neuronal dysfunction of the inner retina and damage to the optic nerve, optic tract, or visual cortex occurs, any of which could result in blindness or selective visual field defects.
+
+The data and images are representative of two independent experiments with two to four animals per group. See also Figures S2 and S3
+
+(C) H&E-stained eye sections from mock- (left panels) and ZIKV-infected animals on day 8 (right panels). Regions shown in higher magnification are indicated by a box and displayed in the upper and lower panels. Black arrowheads indicate inflammatory cell infiltrates in the anterior (upper panels) and posterior (lower panels) chambers of the eye. Scale bars represent 250 μm (middle panels) and 25 μm (upper and lower panels).
+
+(B) TUNEL staining of the neurosensory retina of a mock (upper panel) or ZIKV-infected animal on day 6 (lower panel). Regions shown in higher magnification are indicated by a yellow box and arrow. Scale bars represent 100 μm.
+
+Anatomically, the eye is divided into the anterior (cornea, iris, ciliary body, and lens) and posterior (vitreous, retina, retinal pigment epithelium, choroid, and optic nerve) compartments, each with specialized cells and functions ( Figure 5 A). We evaluated the extent of eye injury in Ifnar1or anti-Ifnar1 mAb-treated adult animals infected with ZIKV. Histopathological analysis revealed TUNEL-positive cells in the neurosensory retina ( Figure 5 B, white punctate staining). H&E staining showed anterior uveitis with infiltration of inflammatory cells in the anterior chamber ( Figure 5 C, upper right panel). The posterior eye also exhibited evidence of uveitis with inflammatory cell infiltration, exudate, and debris in the vitreous humor ( Figure 5 C, lower right panel). We next assessed the fundus of the eye for gross structural damage by using biomicroscopic and fundoscopic examination; no differences were observed between mock- and ZIKV-infected Ifnar1or anti-Ifnar1 mAb-treated mice on day 7 ( Figure S2 and data not shown). These experiments suggest that ZIKV infection does not induce significant pan-retinal abnormalities. Fluorescein angiography in ZIKV-infected Ifnar1mice also revealed no evidence of vascular leakage or intra-retinal hemorrhages ( Figure S2 ). Thus, ZIKV infection in adult mice causes panuveitis without major structural damage or effects on vascular permeability.
+
+Because we observed delayed clearance of ZIKV from the eyes of adult mice (see Figure 1 C), we tested for viral persistence in the eyes of congenitally infected pups on postnatal day 8. After testing five different experimental conditions, including infection of anti-Ifnar1 mAb-treated pregnant WT mice at different gestational dates with ZIKV H/PF/2013 or Paraíba 2015, we detected viral RNA in eyes of only 2 of 41 congenitally infected animals ( Figure 4 E). These results suggest that ZIKV might not infect the eyes of fetuses efficiently in this model of in utero infection, even though it crosses the placenta (). In contrast, postnatal infection of WT mice with ZIKV on day 8 after birth caused a subset of animals to become moribund, and ZIKV RNA was detected readily in the spleen, brain, and eyes 8 days later ( Figure 4 F). These data establish that ZIKV infection of the eye occurs in young mice even with intact type I IFN signaling. Examination of the brains of these postnatally infected animals revealed apoptosis (as detected by activated caspase-3 staining) in several CNS regions, including the optic tract, lateral geniculate nucleus, and the visual cortex, all components of the visual processing pathway ( Figures 4 G and 4H).
+
+Results are from at least two or three independent experiments with 7 to 16 animals for viral burden analysis and 2 to 4 mice for histological analysis. Scale bars represent 25 μm for (B), 60 μm for (D), 500 μm for (G), and 1 mm for (H). Dotted lines represent the limit of sensitivity of the assay.
+
+(G) Activated caspase-3 staining of mock- (left panel) and ZIKV-infected (right panel) WT pup brains, including the visual pathway (optic chiasm, optic tract, and lateral geniculate nucleus [LGN]). The image was generated by combining images of several coronal sections in the same animal into a single merged figure.
+
+(E) Viral burden in the eyes of WT pups on postnatal day 8 after in utero ZIKV infection of anti-Ifnar1 mAb-treated WT pregnant dams at the indicated gestational date with the indicated strain.
+
+(D) Representative H&E-stained eye sections from mock- and ZIKV-infected Ifnar1 +/− fetuses on E18.5. The retinal detachment in the mock-infected sample is a commonly seen artifact of sectioning.
+
+(A) Viral burden was assessed by qRT-PCR on E13.5 in WT fetuses or E18.5 in Ifnar1 +/− fetuses after E6.5 and E12.5 infection, respectively.
+
+(A–E) Pregnant WT mice treated with 2 mg of an anti-Ifnar1 mAb or Ifnar1 −/− mice were infected subcutaneously with 10 3 FFUs of ZIKV Paraíba 2015 WT, except where the French Polynesian strain is indicated in (E).
+
+Congenital ZIKV infection in humans causes ocular pathology including optic neuritis, retinal mottling, and chorioretinal atrophy (). This could be a consequence of direct eye infection or it might be due to secondary brain defects that disrupt eye development. To test whether ocular pathology occurs in mice infected with ZIKV in utero, we modified a previously described congenital infection model with Ifnar1dams and Ifnar1sires such that Ifnar1fetuses develop intrauterine growth restriction and brain injury but not isolated microcephaly (). After infection with ZIKV Paraíba 2015 at embryonic day (E) 6.5 or E12.5 (equivalent to the late first and second trimesters, respectively), we confirmed the presence of ZIKV RNA in the heads of infected Ifnar1fetuses 6 to 7 days later (E13.5 and E18.5) by qRT-PCR ( Figure 4 A). As reported previously (), substantive demise of Ifnar1fetuses was observed by E13.5 after ZIKV infection of Ifnar1dams at E6.5, which precluded analysis of fetal ocular tissues. However, fetuses treated with an anti-Ifnar1 mAb survived ZIKV infection on E6.5 but did not show ocular abnormalities by histological analysis ( Figure 4 B). When Ifnar1dams were inoculated later in gestation (E12.5), intrauterine growth restriction occurred without fetal demise ( Figure 4 C). Again, no histologically apparent pathology or developmental abnormality was observed at E18.5 in the eyes of Ifnar1fetuses ( Figure 4 D).
+
+Symbols are derived from individual animals and pooled from two independent experiments. Bars indicate the mean of 8 to 14 mice per group. Dotted lines represent the limit of sensitivity of the assay. Data were analyzed by Kruskal-Wallis one-way ANOVA with a Dunn’s multiple comparison test (p > 0.1 for comparison of all genotypes to the WT in all tissues).
+
+4-to-6-week-old WT, Axl −/− , Mertk −/− , or Axl −/− Mertk −/− DKO mice were treated with 2 mg of anti-Ifnar1 mAb 1 day prior to subcutaneous infection with 10 3 FFUs of ZIKV Paraíba 2015. On day 6 after infection, viral burden was measured by qRT-PCR in the eye (A), brain (B), serum (C), and spleen (D).
+
+The TAM receptors (Tyro3, Axl, and Mertk) are a family of receptor tyrosine kinases whose ligands, Gas6 and protein S, bind to phosphatidylserine on the surface of apoptotic cells and enveloped viruses (). Because prior studies have suggested that Axl might act as an attachment or entry receptor for ZIKV () and TAM receptors are expressed in multiple cell types in the eye (), we hypothesized Axl or its related TAM receptor, Mertk, might be required for efficient ZIKV replication in ocular tissues. Unexpectedly, Axl, Mertk, and AxlMertkdouble knockout (DKO) mice that were treated with anti-Ifnar1 mAb exhibited similar levels of ZIKV RNA in the serum, spleen, brain, and eyes on day 6 after infection as compared to similarly treated WT control animals ( Figures 3 A–3D). Thus, in mice deficient in IFN signaling, Axl and Mertk are not required for ZIKV infection in several tissues, including the eyes.
+
+Axl and Mertk Are Not Required for ZIKV Infection of the Eye and Brain In Vivo
+
+Nonetheless, we observed similar titers in the spleen, brain, and eyes of AG129 mice inoculated with either parental or eye-derived virus ( Figure 2 D). We considered whether the severe pathology seen with the eye-derived virus might be due to a virus adaptation that enhances ocular tropism or injury. To evaluate this hypothesis, we performed next-generation sequencing of eye-, spleen-, and brain-derived virus from ZIKV-infected Ifnar1animals ( Figure S1 and Table S1 ). Although we did not identify any substitutions that were absent in the inoculating virus, we observed a large increase in the frequency of a single NS2A nucleotide mutation (C→T at genome position 3,895, from ∼10% to ∼80% in all biological replicates and in all tissues tested) that resulted in an alanine to valine change.
+
+Symbols are derived from individual animals and pooled from two or three independent experiments. Bars indicate the mean of two to five mice per group. Dotted lines represent the limit of sensitivity of the assay. See also Figure S1
+
+(D) Viral burden assessed by qRT-PCR assay in the spleen, brain, and eyes of AG129 mice inoculated with 10 4 FFUs of parental ZIKV Paraíba 2015 or eye-derived virus obtained from Ifnar1 −/− mice.
+
+(C) Representative H&E-stained eye sections from AG129 mice infected with parental and eye-derived ZIKV. Black arrowheads indicate inflammatory cell infiltrates in the posterior region of the eye. Scale bars represent 100 μm for upper panels and 75 μm for lower panels.
+
+(A) Kaplan-Meier survival curve in mice inoculated with day 7 or day 28 eye homogenates from Ifnar1 −/− mice or 10 μL of tears obtained 7 days after ZIKV infection of Ifnar1 −/− mice.
+
+To determine whether ZIKV RNA in eyes (day 7 and day 28) and tears (day 7) was infectious, we inoculated AG129 mice via an intraperitoneal route with ocular homogenates or tear fluid; these mice were utilized because they lack receptors for both type I and II IFN signaling and are highly vulnerable to ZIKV infection even after inoculation with 1 plaque forming unit (PFU) (), which we confirmed (data not shown). Inoculation with eye homogenates obtained from Ifnar1mice infected with Paraíba 2015 at day 7 resulted in death of AG129 mice, which occurred uniformly by day 10 ( Figure 2 A). In contrast, mice inoculated with eye homogenates from day 28 or tears from day 7 did not develop signs of ZIKV infection ( Figure 2 A and data not shown). These data suggest that infectious virus was not produced in the eye after the acute phase of infection. We observed conjunctivitis in Ifnar1mice infected with ZIKV Paraíba 2015, although this occurred in some but not all animals ( Figure 2 B and data not shown). In the AG129 mice inoculated with day 7 eye homogenates, we observed greater ocular pathology, including severe conjunctivitis with extraocular exudate in all animals, compared to milder disease in mice receiving a similar dose of the parental ZIKV Paraíba 2015 ( Figures 2 B and 2C).
+
+Given the data on persistence of eye infection in humans after infection with EBOV and ZIKV (), we assessed infection in mice 28 days after inoculation. Notably, ZIKV RNA persisted in several tissues, including the eyes, brain, spleen, and other organs, long after the virus was cleared from serum ( Figure 1 C and data not shown). During the 2015 EBOV epidemic, there was concern for person-to-person spread through ocular secretions, including tears (). As such, we next tested whether ZIKV RNA was present in tear fluid after eye lavage of infected animals with 10 μl of PBS. We detected ZIKV RNA in tear fluid (∼3 × 10focus-forming units [FFUs] equivalents per mL) and in the lacrimal gland (∼2.4 × 10FFU equivalents per mL) on day 7 after infection ( Figures 1 D and 1E), suggesting that infectious virus, viral RNA, or ZIKV-infected cellular debris were present in ocular secretions.
+
+Symbols are derived from individual animals and pooled from two or three independent experiments. Bars indicate the mean of 5 to 13 mice per group. Dotted lines represent the limit of sensitivity of the assay.
+
+(C) Viral burden in the eyes and brain of Ifnar1 −/− mice on day 28 after infection with ZIKV Paraíba 2015.
+
+(A) Viral burden in the eyes of WT mice on days 2 and 6 after infection with ZIKV Paraíba 2015 or H/PF/2013. Mice were treated with 2 mg of an anti-Ifnar1 or control mAb 1 day prior to infection.
+
+ZIKV does not replicate efficiently in WT C57BL/6 mice, in part because ZIKV NS5 antagonizes human but not mouse STAT2 (), which transmits signals downstream of Ifnar1, a component of the type I IFN receptor. To overcome this limitation, we treated mice with an anti-Ifnar1 blocking antibody () and subcutaneously inoculated them with low-passage ZIKV contemporary clinical isolates, including strains from French Polynesia (H/PF/2013) and Brazil (Paraíba 2015). WT adult mice treated with anti-Ifnar1 monoclonal antibody (mAb) and inoculated with these ZIKV isolates do not develop clinically apparent disease, although viremia and infection of multiple organs occurs, including in immune-privileged sites such as the testes (). In comparison, Ifnar1mice develop neuroinvasive infection, causing some of these animals to succumb to infection (). In anti-Ifnar1 mAb-treated animals, we detected RNA of ZIKV H/PF/2013 or Paraíba 2015 in the eye at day 2 after infection, which increased at day 6 ( Figure 1 A). Similar results were obtained after infection of Ifnar1mice with Paraíba 2015, with high intraocular levels of ZIKV RNA accumulating by day 7 ( Figure 1 B).
+
+Discussion
+
+Furtado et al., 2016 Furtado J.M.
+
+Espósito D.L.
+
+Klein T.M.
+
+Teixeira-Pinto T.
+
+da Fonseca B.A. Uveitis associated with zika virus infection. Hershberger et al., 2003 Hershberger V.S.
+
+Augsburger J.J.
+
+Hutchins R.K.
+
+Miller S.A.
+
+Horwitz J.A.
+
+Bergmann M. Chorioretinal lesions in nonfatal cases of West Nile virus infection. Kaiser et al., 2003 Kaiser P.K.
+
+Lee M.S.
+
+Martin D.A. Occlusive vasculitis in a patient with concomitant West Nile virus infection. Kuchtey et al., 2003 Kuchtey R.W.
+
+Kosmorsky G.S.
+
+Martin D.
+
+Lee M.S. Uveitis associated with West Nile virus infection. The most common form of ZIKV-induced ocular disease is conjunctivitis, which occurs in 10% to 15% of patients, but whether conjunctivitis is a direct consequence of ZIKV infection of the eye is not known. In contrast, ZIKV-induced uveitis is less common, although it has been described in humans (). How ZIKV triggers uveitis remains uncertain, although inflammatory cell recruitment might contribute to this, according to our histological findings. Direct infection of the eye might cause inflammation as a consequence of virus-induced cell death, cytokine production, and/or leukocyte recruitment. Alternatively, intracellular or extracellular viral RNA can act as a pathogen-associated molecular pattern (PAMP) and activate inflammatory responses via stimulating pattern recognition receptors (e.g., Toll-like or Rig-I-like receptors), even in the absence of infectious virus. In humans with EBOV- and ZIKV-induced uveitis, viral RNA was detectable within the intraocular fluid. We found that mice infected with ZIKV had no infectious virus in the eye by day 28, even though high levels of ZIKV RNA were present. Consistent with this observation, there is extensive literature describing WNV-induced ocular disease in humans, including uveitis, chorioretinitis, and retinal artery occlusion (). Neurotropic flaviviruses might first invade the brain, then infect the optic tract, and later transit in a retrograde direction into the eye along the optic nerve. Alternatively, ocular infection might result from hematogenous spread of virus across the blood-retinal barrier. Additional studies are needed to define the precise mechanisms of ocular invasion by ZIKV.
+
+Lazear et al., 2016 Lazear H.M.
+
+Govero J.
+
+Smith A.M.
+
+Platt D.J.
+
+Fernandez E.
+
+Miner J.J.
+
+Diamond M.S. A Mouse Model of Zika Virus Pathogenesis. Musso et al., 2015 Musso D.
+
+Roche C.
+
+Robin E.
+
+Nhan T.
+
+Teissier A.
+
+Cao-Lormeau V.M. Potential sexual transmission of Zika virus. Lee et al., 2001 Lee H.M.
+
+Naor J.
+
+Alhindi R.
+
+Chinfook T.
+
+Krajden M.
+
+Mazzulli T.
+
+Rootman D.S. Detection of hepatitis C virus in the corneas of seropositive donors. Tugwell et al., 2005 Tugwell B.D.
+
+Patel P.R.
+
+Williams I.T.
+
+Hedberg K.
+
+Chai F.
+
+Nainan O.V.
+
+Thomas A.R.
+
+Woll J.E.
+
+Bell B.P.
+
+Cieslak P.R. Transmission of hepatitis C virus to several organ and tissue recipients from an antibody-negative donor. ZIKV infects both the eyes and testes in humans and in animal models (), suggesting that immune-privileged organs might support replication even weeks after resolution of viremia and clinical symptoms. Hepatitis C virus, a related Flaviviridae family member, can infect the human cornea () and is transmitted by corneal transplantation (). Given that ZIKV has capacity to infect the cornea of mice, human studies might be needed to confirm whether ZIKV analogously infects the human cornea. If corneal infection by ZIKV were established in humans, then widespread ocular infection during epidemics could necessitate testing by eye banks to ensure that ZIKV is not present in the corneas of infected donors.
+
+Derbent et al., 2004 Derbent M.
+
+Agras P.I.
+
+Gedik S.
+
+Oto S.
+
+Alehan F.
+
+Saatçi U. Congenital cataract, microphthalmia, hypoplasia of corpus callosum and hypogenitalism: report and review of Micro syndrome. Cugola et al., 2016 Cugola F.R.
+
+Fernandes I.R.
+
+Russo F.B.
+
+Freitas B.C.
+
+Dias J.L.M.
+
+Guimarães K.P.
+
+Benazzato C.
+
+Almeida N.
+
+Pignatari G.C.
+
+Romero S.
+
+et al. The Brazilian Zika virus strain causes birth defects in experimental models. +/− fetuses from C57BL/6 Ifnar1−/− dams. Studies with other mouse and non-human primate models are needed to clarify the requirements and basis for ZIKV-induced congenital ocular disease. Congenital ocular disease caused by ZIKV might be due to direct targeting of cells in the fetal eye. Alternatively, it could occur as part of a neurodevelopmental defect, which is seen in microcephaly cases even in the absence of an infectious cause (). Although a recent study suggested ocular pathology was present in SJL mouse pups that were infected with ZIKV in utero, histological characterization of their eyes was not demonstrated (). We did not observe histological abnormalities of the eyes of congenitally infected Ifnar1fetuses from C57BL/6 Ifnar1dams. Studies with other mouse and non-human primate models are needed to clarify the requirements and basis for ZIKV-induced congenital ocular disease.
+
+Hamel et al., 2015 Hamel R.
+
+Dejarnac O.
+
+Wichit S.
+
+Ekchariyawat P.
+
+Neyret A.
+
+Luplertlop N.
+
+Perera-Lecoin M.
+
+Surasombatpattana P.
+
+Talignani L.
+
+Thomas F.
+
+et al. Biology of zika virus infection in human skin cells. Meertens et al., 2012 Meertens L.
+
+Carnec X.
+
+Lecoin M.P.
+
+Ramdasi R.
+
+Guivel-Benhassine F.
+
+Lew E.
+
+Lemke G.
+
+Schwartz O.
+
+Amara A. The TIM and TAM families of phosphatidylserine receptors mediate dengue virus entry. Savidis et al., 2016 Savidis G.
+
+McDougall W.M.
+
+Meraner P.
+
+Perreira J.M.
+
+Portmann J.M.
+
+Trincucci G.
+
+John S.P.
+
+Aker A.M.
+
+Renzette N.
+
+Robbins D.R.
+
+et al. Identification of Zika virus and Dengue virus dependency factors using functional genomics. Nowakowski et al., 2016 Nowakowski T.J.
+
+Pollen A.A.
+
+Di Lullo E.
+
+Sandoval-Espinosa C.
+
+Bershteyn M.
+
+Kriegstein A.R. Expression analysis highlights AXL as a candidate Zika virus entry receptor in neural stem cells. −/−, Mertk−/−, and Axl−/−Mertk−/− mice revealed no effect of a loss of expression of these TAM receptors on ZIKV replication, suggesting that Axl and Mertk are not required for CNS or ocular infection in mice. These results are analogous to prior studies with WNV, in which an absence of Axl and/or Mertk paradoxically resulted in enhanced infection in the brain, which was due in part to alterations in the permeability of endothelial cells lining the blood-brain barrier ( Miner et al., 2015 Miner J.J.
+
+Daniels B.P.
+
+Shrestha B.
+
+Proenca-Modena J.L.
+
+Lew E.D.
+
+Lazear H.M.
+
+Gorman M.J.
+
+Lemke G.
+
+Klein R.S.
+
+Diamond M.S. The TAM receptor Mertk protects against neuroinvasive viral infection by maintaining blood-brain barrier integrity. TAM receptors might enhance attachment and entry of flaviviruses, including ZIKV (). This hypothesis has been strengthened by a correlation between levels of Axl expression and vulnerability of certain neuronal subtypes to ZIKV infection (). However, our studies in Axl, Mertk, and AxlMertkmice revealed no effect of a loss of expression of these TAM receptors on ZIKV replication, suggesting that Axl and Mertk are not required for CNS or ocular infection in mice. These results are analogous to prior studies with WNV, in which an absence of Axl and/or Mertk paradoxically resulted in enhanced infection in the brain, which was due in part to alterations in the permeability of endothelial cells lining the blood-brain barrier (). Our data do not exclude the possibility that Axl might still act as an entry factor for ZIKV in specific cells in other tissue compartments (e.g., trophoblasts in the placenta or subsets of neurons in the CNS).
+
+In summary, we have described a mouse model of ocular disease that demonstrates ZIKV tropism in specific regions of the eye, panuveitis, shedding of viral RNA into tears, and persistence in immunodeficient adult mice. We have also confirmed that ZIKV infects the eye of immunocompetent neonatal WT mice. Studies are planned to define the cellular mechanisms by which ZIKV invades and infects the eye and results in inflammation. Further analysis of the host and virus factors that facilitate ocular infection and mechanisms of immune-mediated clearance could lead to interventions that enhance elimination of viruses from immune-privileged sites, including the eye.

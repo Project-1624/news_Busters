@@ -1,0 +1,72 @@
+The MacArthur Amendment Language, Race In The Federal Exchange, And Risk Adjustment Coefficients
+Timothy Jost
+
+April 25, 2017
+
+For a number of days negotiations have apparently been underway with respect to an amendment to the Republican American Health Care Act (AHCA) that has been proposed by Congressman Tom MacArthur (R-NJ). A summary of this amendment became available on April 20, 2017 and was analyzed here. On the evening of April 25, the actual language of the amendment became available.
+
+As described in the summary, the amendment would repeal the enigmatic language included in a March 23, 2017 amendment to the AHCA that would have allowed states, beginning in 2018, to define the essential health benefits for purposes of determining premium tax credits (but not for other purposes). In its place the amendment would allow states to apply for waivers to “encourage fair health insurance premiums.”
+
+The Types Of Waivers Available
+
+States could apply for three different kinds of waivers. First, states could apply, for plan years beginning on or after January 1, 2018, waivers to set an age ratio “higher” than the 5 to 1 ratio established by the AHCA—or maybe the 3 to 1 ratio established by the Affordable Care Act. These higher rates would apply in the individual and small group markets. Presumably the section referenced in the MacArthur amendment is the provision of the ACA as amended by the AHCA, but the summary of the amendment released earlier said states could not set the ratio above 5 to 1. Unless “higher” means more favorable to older consumers, this amendment does not seem in accord with the summary. Moreover, although there has been a lot of discussion about whether 3 to 1 or 5 to 1, or something in between, is the appropriate age ratio, I do not recall arguments that it should be set above 5 to 1. This is pretty mysterious. (Update: A subsequently released summary of the amendment clarified that the intention of the amendment is indeed to allow states to request waivers to increase age rating ratios above 5 to 1.)
+
+There is nothing mysterious about the second type of waiver. States would be able, after January 1, 2020, to specify their own set of essential health benefits for all purposes in the individual and small group markets. As noted earlier, this does not only mean that states would be able to define what categories of benefits would have to be covered by insurers, but also the benefits—for example the kinds of drugs—that would have to be covered within each category. Since the ACA’s prohibitions of lifetime and annual limits and cap on out-of-pocket expenditures also only apply to essential health benefits, states granted a waiver would be able to define these protections as well. The changes to the lifetime and annual limits and to the out-of-pocket caps could potentially apply as well to large group and self-insured employer plans.
+
+The third type of waiver would allow states to permit insurers to engage in health status underwriting, but only under certain conditions. First, to obtain a waiver the state would have to operate a program under the AHCA’s patient and state stability fund to
+
+provide financial assistance to help high-risk individuals get coverage in the individual market,
+
+“provide incentives to appropriate entities to enter into arrangements with the state to help stabilize premiums” in the individual market (a reinsurance program), or
+
+participate in the recently added federal invisible high risk sharing program, which also essentially reinsures high cost cases.
+
+A state that implements one of these programs would be allowed, for any year beginning with plan year 2019 (or special enrollment periods beginning with plan year 2018) to permit insurers to impose health status underwriting on individuals who do not maintain continuous coverage (have a gap of at least 63 days in coverage in the preceding year), in lieu of the 30 percent of premium penalty provided by the AHCA. They could only do so for the duration of the enforcement period, which is generally of 12 months duration, not permanently.
+
+The provision does not actually require states to offer a high-risk pool through which individuals who are effectively excluded from coverage by very high health status underwriting could get coverage. A reinsurance program (which would be available in all states that do not apply to use their stability funds in some other way) or high-risk sharing program might incentivize insurers not to risk underwrite, but they do not obviously do anything to help individuals whom insurers do charge higher premiums because of their health status. Moreover, the amendment later provides: “nothing in this Act shall be construed as permitting insurers to limit access to health coverage for individuals with preexisting conditions,” but that is precisely what health status underwriting does. Health status underwriting could effectively make coverage completely unaffordable to people with preexisting conditions.
+
+Waiver Requirements
+
+Waivers would be automatically approved by HHS unless they were disapproved within 60 days for noncompliance with the requirements of the statute. These requirements are that the application:
+
+Be submitted in the time and manner required by HHS;
+
+Describe how the waiver would: Reduce average premiums for health insurance coverage in the state; Increase insurance enrollment; Stabilize the market for insurance coverage; Stabilize premiums for people with preexisting coverage; or Increase the choice of health plans in the state;
+
+Specify the period for which the waiver would be effective (which could not be more than 10 years unless an extension were granted by HHS);
+
+Specify the higher age ratio that the state intends to allow;
+
+Specify the essential health benefits the state intends to require; and
+
+If the state allows health status underwriting for people who fail to maintain continuous coverage, demonstrate that it has a program in place that meets the requirements described above, which must remain in place for the duration of the waiver.
+
+Essentially, any state that wanted a waiver would get one.
+
+The waivers would not apply to CO-OPs or multi-state plans or to the Basic Health program, 1332 state innovation waivers, the section of the ACA that allows sale of insurance across state lines through interstate compacts, or the provision that requires members of Congress to purchase coverage through the exchanges. Members of Congress are not going to lose essential health benefits or be subject to health status underwriting.
+
+Finally, the amendment would prohibit gender underwriting and, as noted above, exclusion of individuals with preexisting conditions.
+
+It is unclear at this point whether this amendment will garner enough votes to pass the House. The blanket waiver of essential health benefits at least should be of concern to some moderate Republicans. If the bill as amended passes the House, however, it is hard to imagine how this provision will be approved by the Senate. None of this has anything to do with the revenues or outlays or the United States government, so it would appear it could be blocked by the Byrd Rule which applies in reconciliation bills.
+
+Race And Ethnicity In The Federal Marketplace
+
+On April 25, 2017, the Centers for Medicare and Medicaid Services released a report on race, ethnicity, and language preference for HealthCare.gov enrollees during the 2017 open enrolment period. The report only covers the 39 states covered by HealthCare.gov, but these states contain over three quarters of the Black population of the United States, almost 60 percent of the Hispanic population, and nearly half of the Asian population. The statistics reported are for consumers aged 18 to 64 in the individual exchange, not the SHOP exchange.
+
+During the 2017 open enrollment period, only 73 percent of enrollees specified a racial identity. Of these, 76 percent identified as white, 11.8 percent as Black, 10 percent as Asian, and 0.14 percent as Native Hawaiian or other Pacific islander. Over 10 percent listed their ethnic identity as Hispanic. The report breaks down these racial and ethnic categories further. Almost one quarter of Asians identified as Asian Indian and over one quarter identified as Vietnamese, while almost half of Hispanics identified as Mexicans.
+
+Almost 90 percent identified their preferred spoken language as English, while 8.36 percent identified Spanish. Chinese was the third most commonly preferred spoken language, identified by 0.46 percent of enrollees. Over 90 percent identified English as their preferred written language, with 8.23 percent identifying Spanish.
+
+The report identifies the top three states for spoken and written language preferences for each of 17 languages. Florida had the highest percentage of consumers preferring communication in 8 languages, while Texas had the highest number preferring communication in 5 languages.
+
+Final Risk Adjustment Model Coefficients For 2018
+
+On April 18, 2017, the Centers for Medicare and Medicaid Services released the Final HHS risk Adjustment Model Coefficients for 2018. These are the factors that will be used to calculate risk adjustment scores for enrollees of plans in the individual and small group market; these in turn will be applied through the risk adjustment model to transfer funds from non-grandfathered plans in the individual or small group markets that cover lower-cost enrollees to non-grandfathered plans that cover higher-cost enrollees. The goal of the risk adjustment program is to remove incentives for insurers to risk select.
+
+In prior years the risk adjustment model coefficients were published with the final benefit and payment parameters rule in the early spring of the year before they went into effect, but the 2018 payment rule was published in late December of 2016 without the coefficients. This delay was in part due to CMS’s decision to use more current MarketScan data to calibrate the coefficients for 2018.
+
+The model coefficients carry out the program changes promised in the payment rule. They include for the first time, for example, enrollment duration factors (responding to insurers’ claims that short term enrollees cost more than enrollees who remain covered for an entire year), as well as a number of prescription drug factors, which can impute diagnoses otherwise not coded or indicate the severity of conditions otherwise indicated by medical coding.
+
+The release contains seven tables. Table 1 contains factors for each adult model, including diagnosis and prescription drug interactions. Table 2 identifies the hierarchical condition categories in the severity illness indicator variable. Table 3 contains the factors for each child model, Table 4 the infant model factors. Tables 5 and 6 include the hierarchical condition categories included in the infant model maturity and severity categories. Table 7 includes the R-squared statistics for each model for 2013, 2014, and 2015.
+
+In general, the risk factor coefficients are reduced from 2017. The coefficient for an age 60-64 age male in a silver plan is 0.422, compared to 0.502 for 2017. The coefficient for a diagnosis of metastatic cancer, silver plan, is 21.417 compared to 23.578 for 2017. The coefficient for an extremely immature, severity level 5, infant, silver plan, is 287.667 compared to 376.491 for 2017. Lower coefficients would generally mean that plans with higher-cost cases will receive less in transfer funds and plans with lower-cost cases will pay less, reducing deterrents against risk selection. But the introduction of enrollment duration and prescription drug factors, a new payment transfer model that takes into account some administrative costs, and a new program for effectively reinsuring very high-cost cases makes the combined effect of all changes difficult for the lay person to predict.

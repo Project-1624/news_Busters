@@ -1,0 +1,30 @@
+Not Gerrymandering, but Districting: More Evidence on How Democrats Won the Popular Vote but Lost the Congress — The Monkey Cage
+Not Gerrymandering, but Districting: More Evidence on How Democrats Won the Popular Vote but Lost the Congress
+
+This is a guest post by political scientist Nicholas Goedert, who is a Postdoctoral Fellow at Washington University.
+
+*****
+
+Expanding on recent posts by Dan Hopkins and Eric McGhee, there appears to be evidence at a state-by-state level that the disparity between the popular vote in the House and the distribution of seats is not just due to Republican gerrymanders, but due to a skewed geographic distribution of population putting the Democrats at an inherent disadvantage, along the lines of Chen and Rodden’s recent work. That is, the Democrats’ loss in the House was caused largely not by gerrymandering, but districting itself.
+
+McGhee’s post compares the results of the 2012 elections to what the election might have looked like using the 2002-2010 maps, and finds that the most recent round of redistricting had relatively minimal effects. An alternate way of measure districting effects is to compare the 2012 results with historical patterns from recent congressional elections for seats won for a given popular vote share. Using this technique, I find slightly greater effects of partisan gerrymandering, but also a persistent bias in favor of the Republicans.
+
+To measure the distortion caused by districting, I calculated each party’s mean vote share in 2012 across each state’s congressional districts, then estimated the share of seats a party could normally expect to win given this vote share under a historically average seats/votes probit curve; for example, over the past 40 years, winning 55% of the popular vote has generally led to winning about 60% of seats. I then compared this to the actual share of seats won. The tables below depict the results for all states with at least seven districts, excluding a few Deep South states (where districting is dominated by Voting Rights Act considerations) and Washington (where only about 80% of the vote had been counted at the time of writing).
+
+Table 1 shows nine states with maps drawn by Republicans:
+
+In every state districted by Republicans, Democrats won fewer seats than their historical expectation, and in six cases they underperformed by 20% or more (as a percentage of total seats up for election). So it appears that Republicans gained benefits across the board from controlling the redistricting process.
+
+By contrast, Democrats exceeded their expected seat share only slightly in the three states where they controlled the process. As shown in Table 2, Democrats gained just a fractional seat above expectation in each such state. For instance, Illinois Democrats won a smaller majority in their delegation than Pennsylvania or Ohio Republicans won in theirs, despite winning a much larger vote share.
+
+But partisan control of redistricting cannot completely explain each party’s performance relative to the hypothetical unbiased map. Instead, we still observe bias even where we should expect none in the redistricting process. Table 3 shows that Democrats also fell short in several states with bipartisan or court-drawn maps, winning on average 7% fewer seats than expected.
+
+So how many seats did this underlying disadvantage cost the Democrats? If we were to imagine that these bipartisan or court maps were unbiased, and Democrats received the same benefit from their own maps that Republicans received from theirs (let’s say a 13% advantage as an average), this would have yielded 14 additional seats, likely getting the Democrats within 3 or 4 seats of the majority.
+
+If there is any area of the country where the geographic distribution of partisans has not led to an underrepresentation of, we might expect to observe it where Democratic voting strength does not hue as closely to the black/white or urban/rural divide. In particular, we find this pattern interrupted in areas with very strong Hispanic populations. Table 4 shows the three large states with the highest proportion of Hispanics, revealing that Democrats won a seat share very similar to their expected share in each of these states, despite not controlling the process in any of them. It is possible that nonpartisan commissions may have contributed to greater fairness, but the ease of drawing geographically large, majority Hispanic districts in these states, (e.g. AZ-2, CA-16, CA-51, and TX-23) might have also mitigated the natural advantage Republicans have in other regions in the distribution of the their vote.
+
+In direct support of the Chen and Rodden argument, states that are heavily urbanized (such as New Jersey and Pennsylvania) are more distorted against Democrats than more rural states (such as Minnesota and Wisconsin). Indeed, urbanization has a negative and significant effect on the difference between seats won by Democrats and expected seats, even after controlling for the party in control of redistricting.
+
+Of course, this analysis does not imply that Democrats are doomed to the minority for the foreseeable future, or even the next decade. The Pennsylvania map includes five Republican seats won by Obama in 2008, suggesting that a wave of sufficient strength could reverse the delegation’s majority. But because of unequal concentrations of vote share in most states, not just those with Republican gerrymanders, a Democratic majority will be more difficult than it should be. And this difficulty persists even when both parties agree to the maps.
+
+Changing our redistricting institutions alone will not assure national proportionality.

@@ -1,0 +1,64 @@
+Federal consumer bureau data-mining hundreds of millions of consumer credit card accounts, mortgages
+Officials at the Consumer Financial Protection Bureau are conducting a massive, NSA-esque data-mining project collecting account information on an estimated 991 million American credit card accounts.
+
+It was also learned at a Congressional hearing Tuesday that CFPB officials are working with the Federal Housing Finance Agency on a second data-mining effort, this one focused on the 53 million residential mortgages taken out by Americans since 1998.
+
+“ The NSA does not ask Americans' permission to collect their phone records and emails and texts. The CFPB does not ask permission to collect information on America's financial consumers. ”
+
+The mortgage information is being compiled in a database that can be "reversed engineered" by hackers seeking information for identify theft, according to an expert cited during the hearing.
+
+The revelations came in a hearing of the House Financial Services Committee, during which CFPB Director Richard Cordray was repeatedly pressed about federal officials rummaging around in the private financial affairs of millions of Americans.
+
+"We're collecting aggregated information," Cordray told the committee while defending the bureau's data-mining efforts.
+
+"Can you, Mr. Cordray, personally guarantee that the consumer information is 100 percent secure?" asked Rep. Randy Neugebauer, R-Texas.
+
+Cordray said he could not, but added that the bureau "attempt[s] to safeguard any information we have about the American public."
+
+Later in the hearing, Neugebauer remarked that CFPB "and NSA are in a contest of who can collect the most information."
+
+"I fundamentally disagree with that characterization," Cordray shot back.
+
+Congress' powers to oversee the CFPB are limited. The federal Dodd-Frank Act that created the bureau requires that the Senate confirm its directors, such as Cordray, and that the director testify before Congress twice a year, but Congress' authority stops there. The bureau is part of the Federal Reserve, for which Congress similarly confirms top officers but has no direct oversight. Cordray's nomination to the CFPB director's post was confirmed by the Senate last year.
+
+According to Steven Antonakes, the bureau's deputy director, CFPB's program mines credit card accounts maintained by 18 of the largest card issuers in the United States.
+
+CFPB has signed a four-year, $2.9 million contract with Argus Information and Advisory Services to obtain credit card data from nine of the issuers, according to documents made available by the committee.
+
+The contract is to end March 2017, according to USAspending.gov, a government database that tracks federal spending.
+
+A memorandum of understanding signed with the Office of the Comptroller of the Currency permits Argus to obtain data from nine other credit card issuers.
+
+In previous testimony before Rep. Jeb Hensarling's panel, Antonakes said “the combined data represents approximately 85-90 percent of outstanding card balances.”
+
+The Argus contract specifies that the company must collect 96 “data points” from each of the participating card issuers for each credit card account on a monthly basis.
+
+The 96 data points include a unique card-account identification reference number, ZIP code, monthly ending balance, borrower’s income, FICO score, credit limit, monthly payment amount, and days past due.
+
+"Would you object to getting permission from consumers, those people who you work for, before you collect and monitor their information?" Rep. Sean Duffy, R-Wis., asked Cordray.
+
+"That would make it impossible to get the data," Cordray replied.
+
+"You can't even opt out," Duffy said. "The NSA does not ask Americans' permission to collect their phone records and emails and texts. The CFPB does not ask permission to collect information on America's financial consumers."
+
+A committee aide estimated that over the life of the Argus contract, the company will collect about 51 terabytes of data, or the equivalent of all the text in all the books in 50 large libraries.
+
+Neugebauer pressed Cordray on the possibility of reverse-engineering of the mortgage database. "Can this data be reverse-engineered?" he asked.
+
+"We're concerned about making sure that does not happen as much as possible," Cordray answered. "I don't need that headache."
+
+But Bob Avery, project director for the national mortgage database at the FHFA, admitted during an Urban Institute meeting last year that the mortgage data is vulnerable to reverse engineering by hackers.
+
+“There are major challenges to this,” Avery said in a video of the Nov. 11, 2013, meeting that has been posted on YouTube.
+
+“Privacy is number one,” Avery said. “It is easy to reverse engineer and identify the people in our database. We have the date the mortgage was taken out, the size of the mortgage and we have the Census tract [of the mortgage holder]. Ninety-five percent of these are unique.”
+
+Avery also said on the video that the mortgage database would be accessible to all federal employees, not just those at FHFA.
+
+Cordray was also questioned on whether CFPB needs to collect so much consumer data.
+
+"The CFPB is collecting far more data than is necessary. It is a expensive and it is risky," said Rep. Scott Garrett, R-N.J.
+
+Garrett cited Thomas Stratmann, a George Mason University law school professor, who said CFPB officials need sample no more than 1.4 million credit card accounts from card issuers in order to provide useful information about card holders' market behavior.
+
+CORRECTION: The statements in Tuesday's hearing by Rep. Randy Neugebauer were incorrectly attributed earlier to Rep. Spencer Bachus. The Washington Examiner regrets the error.

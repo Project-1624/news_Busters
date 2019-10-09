@@ -1,0 +1,32 @@
+Advanced Individual Search
+You're visiting a page from the old FEC.gov design. | Please Visit the new FEC.gov
+
+Advanced Transaction Query By Individual Contributor
+
+What's Included
+
+The Individual Contributor Search includes contributions made by individuals, Native American tribes, partnerships, sole proprietorships, limited liability companies (LLCs) and contributions by the candidate to all political committees including Independent Expenditure-Only Political Committees (Super PACs) and Political Committees with Non-Contribution Accounts (Hybrid PACs). The Search results include refunds to these contributors, as well.
+
+Important Note
+
+The data provided includes financial activity reported to the Commission from 1997 through the most recent filing period for which processed data is available. Complete entry of all committee transactions after each reporting period takes approximately 30 days . It is important to be cautious when drawing conclusions from this data as some transactions may not have completed processing for entry. Processed transactions are added daily.
+
+Below is a breakdown of what is included in each section including transaction codes. The corresponding transaction names interpreting these codes are available here.
+
+Contributions to Super PACs, Hybrid PACs and Historical Soft Money Party Accounts
+
+This section includes contributions made by persons (individual, partnership, limited liability company, corporation, labor organization, or any other organization or group of persons) to Super PACs and Hybrid PACs and contributions to the National Party committees’ non-federal accounts. (The latter pertains only to contributions made before the Bipartisan Campaign Finance Reform Act of 2002 (BCRA)). Look for contribution type "10" here.
+
+Contributions to All Other Political Committees Except Joint Fundraising Committees
+
+This section includes contributions made by individuals, Native American tribes, partnerships, sole proprietorships, and limited liability companies (LLCs) and contributions made by the candidate. Refunds to these contributors are included, as well. Look for contribution types "11," "15," "15C," "15E," "20Y," "'21Y," "22Y," "30," "31," "32," "30T," "31T," "32T," "40T," "41T," "42T," "40Y," "41Y" and "42Y" here.
+
+Joint Fundraising Contributions
+
+This section includes contributions made by individuals, Native American tribes, partnerships, sole proprietorships and limited liability companies (LLCs) to joint fundraising committees. Look for contribution types "10," "11," "15," "30," "31," "32," "30T," "31T" and "32T" here.
+
+Recipient of Joint Fundraiser Contributions
+
+This section includes contributions made by individuals, Native American tribes, partnerships, sole proprietorships and limited liability companies (LLCs) to joint fundraising participant committees. Look for contribution types "10J," "11J," "15J," "30J," "31J" and "32J" here.
+
+Search From the Following Criteria:

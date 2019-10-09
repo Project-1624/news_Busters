@@ -1,0 +1,90 @@
+Why Warren's New Bankruptcy Study is So Bad
+« Elizabeth Warren and the Terrible, Horrible, No Good, Very Bad, Utterly Misleading Bankruptcy Study | Main | Will GM Rewards Points Survive Bankruptcy? » Why Warren's New Bankruptcy Study is So Bad
+
+
+
+Er, no. The world is full of studies that do this. I get mad at only a minority of their authors. I am mad, first of all, because Elizabeth Warren is not a third-year statistically illiterate policy analyst at a health care advocacy group. She's a professor at Harvard, and the head of the Congressional TARP oversight panel. This conveys a certain responsibility to present data in the most illuminating way, not in the way that will induce journalists to say things that aren't true.
+
+
+
+And they have done just that. Read a sampling of the stories about this study on Google News. It's clear that none of the authors of the stories I've read understand that we're talking about a smaller absolute number of medical bankruptcies, representing a larger proportion of a much smaller overall number: that this increase in the proportion could at least as easily have been driven by less need for non-medical bankruptcy, than by bigger, scarier medical bills. Indeed, many of the stories indicate that medical bankruptcies have risen since 2001, which is not true even according to Warren's figures.
+
+
+
+I submit that the study is designed to get that result from journalists. Readers have responded that my criticism is out of line, because after all, they only talk about the proportion, so who am I to say they're misleading the readers?
+
+
+
+Yes, but why do they only talk about the proportion? In general, economics papers talk about absolute numbers whenever they can, and use proportions only when things like changes in income and inflation make comparisons between years too difficult. I submit that we want to know, not whether medical bankruptcies are a bigger or smaller proportion of overall bankruptcies, but whether more people are being pushed into bankruptcy by their medical bills. To take the extreme absurd case, if only one person had declared bankruptcy in 2007, but that one person had had huge medical bills, would this be a sign that we need national health care?
+
+
+
+We can measure the absolute number of medical bankruptcies, and the changes in income, GDP, and population between 2005 and 2007 were too small to much affect these. Therefore, the appropriate measure was the absolute number. The proportion would have been an interesting inclusion. And it would have been the basis for a different, fascinating study: the relative "stickiness" of medical bankruptcies. But it was not the obvious choice if you are going to use one or the other. That is, unless you are determined to give the impression that rising medical bills are pushing ever-more people into bankruptcy.
+
+
+
+Warren's defenders in my comments seem to think that this is simply libertarian bluster--after all, what we're concerned about is whether medical bills are driving the post 2005 increase. But, as Warren surely knows, it is very unlikely that medical bills are driving either the post-2005 increase in bankruptcies, or a post 2005 increase in medical bankruptcies.
+
+
+
+Let's review the history. In 2005, Congress passed a law changing the bankruptcy rules. There were a number of different changes to the code, but for our purposes, the relevant changes* are these:
+
+
+
+It became more difficult to do rapid serial filings
+
+Debtors were required to enter debt counseling before they filed
+
+Attorneys had to sign off on the debtor's claims
+
+Debtors had to provide pay stubs and tax returns
+
+Debtors whose income, after allowable expenses, was higher than the median for their area, had to file Chapter 13 instead of Chapter 7. This means they'd be forced into a five-year repayment plan. In practice, these modestly increased the barriers to filing bankruptcy, and I was against them at the time. (Still am.) But overall, the barriers were not particularly costly. The requirement for high-income filers to enter Chapter 13 is theoretically the most onerous, but in practice, it affects almost no one. In 2005, it was widely estimated that 80% of filers were below their state's median income, and the allowable expenses are pretty generous. To return to an earlier story, Patty Barreiro, who I wrote about the other week, filed bankruptcy despite a household income above $150,000.
+
+
+
+But the hype about the bankruptcy barriers was formidable. This seems to be why so many people rushed to file in 2005--basically, everyone who thought they might end up in bankruptcy hurried to complete their filing before the law took effect in October 2005. And afterwards, filings stayed low, much to the puzzlement of bankruptcy experts. Everyone had expected some fall simply because 2006 and 2007 bankruptcies had been shifted forward into 2005, and a slight decrease due to the small percentage of filers who were really abusive or fraudulent. But the sustained decrease puzzled everyone. It simply hadn't gotten that much harder to file bankruptcy.
+
+
+
+The dominant theory I heard is simply that people had become irrationally afraid of bankruptcy. The consumer groups who had hyped this "draconian" change to the bankruptcy law had done their PR job too well, and now people who thought that it was impossible to get a discharge weren't even bothering to contact an attorney.
+
+
+
+This is what the filing pattern looks like through 2008:
+
+
+
+
+
+
+
+
+
+The post 2005 increase in bankruptcies isn't being driven by medical bankruptcies. It's simply rebounding from what every single analyst at the time, including Elizabeth Warren, agreed was an unsustainable drop.
+
+
+
+Nor can we say, as some of my readers have argued, that the post-2005 increase in medical bankruptcies is likely being driven by medical bills. Here's why: there is no post-2005 increase in medical bankruptcies. Or at least, not one we know of. All we know about is the post 2001 fall in medical bankruptcies. You may think that there was a rise in bankruptcies after 2005, but the number of medical bankruptcies in 2007 (ca. 550,000) is smaller than the total number of bankruptcies in 2006. For all we know, both the proportion and number of medical bankruptcies fell between 2005 and 2007.
+
+
+
+Now, I find Warren, et. al's results fairly implausible. Bankruptcy, as they themselves note, is an incredibly delicate topic, and the refusal rate on surveys is high. I would not be surprised to find that they'd gotten a sample heavily weighted towards people who had problems with medical bills, because people with more personal and possibly less sympathetic problems, like divorce and addiction, would presumably be less willing to chat about those.
+
+
+
+But even assuming that their sample was valid, given what bankruptcy experts (including Warren) know, it seems likely that they uncovered an interesting statistical artifact. Most bankruptcy filings are at least partly strategic--Warren herself urges troubles consumers to run up credit card bills rather than missing a mortgage payment. (This is very good advice). The people with the least room for strategic behavior are presumably people who can't work at all, and/or must run up large bills: i.e., very sick people. Those people did not shift their bankruptcies forward to 2005, because they had no warning that they were going to get sick. Nor could they alter their behavior, as people who were running up less urgent debts may have.
+
+
+
+Now, Warren et. al. may disagree that this is the most likely explanation of the data, though I will happily debate any of them who care to defend their interpretation. But I do not think you can get around the fact that they had to mention it. The post-2005 fall in bankruptcies, then the steady subsequent rise back towards the pre-2005 mean, is the central fact about US bankruptcy in the last ten years. It's like doing a study on bank capital without reference to the financial crisis.
+
+
+
+Yet they not only fail to mention it, but include a lot of window dressing about the proportion of the uninsured, healthcare bills, and their 2001 study, which are designed to leave the reader with the followng impression: medical bills are a growing problem in our society, driving people into bankruptcy in ever higher numbers. Sure, they don't actually say this. But it's not a scientist's job to mislead only by omission. Had they simply included this fairly obvious statistic, it would have substantially altered the conclusion that readers drew. That makes it a material omission, and I think that Warren, of all people, ought to hold herself to a higher standard.
+
+
+
+* Things like KERP treatement in corporate Chapter 13, modifications to the homestead exemption provisions to make it harder to evade legal judgements, and changes in the relative seniority of reaffirmed auto debt are actually quite important, but it's not likely they've noticeably altered the national propensity to file for consumer bankruptcy protection.
+
+So why am I so angry about Elizabeth Warren's study? Aren't I just miffed because, as one commenter put it, she has "failed to present her results in the way most congenial to libertarian ideology?"Er, no. The world is full of studies that do this. I get mad at only a minority of their authors. I am mad, first of all, because Elizabeth Warren is not a third-year statistically illiterate policy analyst at a health care advocacy group. She's a professor at Harvard, and the head of the Congressional TARP oversight panel. This conveys a certain responsibility to present data in the most illuminating way, not in the way that will induce journalists to say things that aren't true.And they have done just that. Read a sampling of the stories about this study on Google News. It's clear that none of the authors of the stories I've read understand that we're talking about a smaller absolute number of medical bankruptcies, representing a larger proportion of a much smaller overall number: that this increase in the proportion couldhave been driven by less need for non-medical bankruptcy, than by bigger, scarier medical bills. Indeed, many of the stories indicate that medical bankruptcies have risen since 2001, which is not true even according to Warren's figures.I submit that the study is designed to get that result from journalists. Readers have responded that my criticism is out of line, because after all, they only talk about the proportion, so who am I to say they're misleading the readers?Yes, but? In general, economics papers talk about absolute numbers whenever they can, and use proportions only when things like changes in income and inflation make comparisons between years too difficult. I submit that we want to know, not whether medical bankruptcies are a bigger or smaller proportion of overall bankruptcies, but. To take the extreme absurd case, if only one person had declared bankruptcy in 2007, but that one person had had huge medical bills, would this be a sign that we need national health care?We can measure the absolute number of medical bankruptcies, and the changes in income, GDP, and population between 2005 and 2007 were too small to much affect these. Therefore, the appropriate measure was the absolute number. The proportion would have been an interesting inclusion. And it would have been the basis for a different, fascinating study: the relative "stickiness" of medical bankruptcies. But it was not the obvious choice if you are going to use one or the other. That is, unless you are determined to give the impression that rising medical bills are pushing ever-more people into bankruptcy.Warren's defenders in my comments seem to think that this is simply libertarian bluster--after all, what we're concerned about is whether medical bills are driving the post 2005 increase. But, as Warren surely knows, it is very unlikely that medical bills are driving either the post-2005 increase in bankruptcies, or a post 2005 increase in medical bankruptcies.Let's review the history. In 2005, Congress passed a law changing the bankruptcy rules. There were a number of different changes to the code, but for our purposes, the relevant changes* are these:In practice, these modestly increased the barriers to filing bankruptcy, and I was against them at the time. (Still am.) But overall, the barriers were not particularly costly. The requirement for high-income filers to enter Chapter 13 is theoretically the most onerous, but in practice, it affects almost no one. In 2005, it was widely estimated that 80% of filers were below their state's median income, and the allowable expenses are pretty generous. To return to an earlier story, Patty Barreiro, who I wrote about the other week, filed bankruptcy despite a household income above $150,000.But the hype about the bankruptcy barriers was formidable. This seems to be why so many people rushed to file in 2005--basically, everyone who thought they might end up in bankruptcy hurried to complete their filing before the law took effect in October 2005. And afterwards, filings stayed low, much to the puzzlement of bankruptcy experts. Everyone had expected some fall simply because 2006 and 2007 bankruptcies had been shifted forward into 2005, and a slight decrease due to the small percentage of filers who were really abusive or fraudulent. But the sustained decrease puzzled everyone. It simply hadn't gotten that much harder to file bankruptcy.The dominant theory I heard is simply that people had become irrationally afraid of bankruptcy. The consumer groups who had hyped this "draconian" change to the bankruptcy law had done their PR job too well, and now people who thought that it was impossible to get a discharge weren't even bothering to contact an attorney.This is what the filing pattern looks like through 2008:The post 2005 increase in bankruptcies isn't being driven by medical bankruptcies. It's simply rebounding from what every single analyst at the time, including Elizabeth Warren, agreed was an unsustainable drop.Nor can we say, as some of my readers have argued, that the post-2005 increaseis likely being driven by medical bills. Here's why:. Or at least, not one we know of. All we know about is the post 2001in medical bankruptcies. You maythat there was a rise in bankruptcies after 2005, but the number of medical bankruptcies in 2007 (ca. 550,000) is smaller than the total number of bankruptcies in 2006. For all we know, both the proportion and number of medical bankruptcies fell between 2005 and 2007.Now, I find Warren, et. al's results fairly implausible. Bankruptcy, as they themselves note, is an incredibly delicate topic, and the refusal rate on surveys is high. I would not be surprised to find that they'd gotten a sample heavily weighted towards people who had problems with medical bills, because people with more personal and possibly less sympathetic problems, like divorce and addiction, would presumably be less willing to chat about those.But even assuming that their sample was valid, given what bankruptcy experts (including Warren) know, it seems likely that they uncovered an interesting statistical artifact. Most bankruptcy filings are at least partly strategic--Warren herself urges troubles consumers to run up credit card bills rather than missing a mortgage payment. (This is very good advice). The people with the least room for strategic behavior are presumably people who can't work at all, and/or must run up large bills: i.e., very sick people. Those people did not shift their bankruptcies forward to 2005, because they had no warning that they were going to get sick. Nor could they alter their behavior, as people who were running up less urgent debts may have.Now, Warren et. al. may disagree that this is the most likely explanation of the data, though I will happily debate any of them who care to defend their interpretation. But I do not think you can get around the fact that they had to mention it. The post-2005 fall in bankruptcies, then the steady subsequent rise back towards the pre-2005 mean, iscentral fact about US bankruptcy in the last ten years. It's like doing a study on bank capital without reference to the financial crisis.Yet they not only fail to mention it, but include a lot of window dressing about the proportion of the uninsured, healthcare bills, and their 2001 study, which are designed to leave the reader with the followng impression: medical bills are a growing problem in our society, driving people into bankruptcy in ever higher numbers. Sure, they don't actually say this. But it's not a scientist's job to mislead. Had they simply included this fairly obvious statistic, it would have substantially altered the conclusion that readers drew. That makes it a material omission, and I think that Warren, of all people, ought to hold herself to a higher standard.

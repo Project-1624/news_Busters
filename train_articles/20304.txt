@@ -1,0 +1,35 @@
+How a Tax Cut Turns Into a Tax Increase
+
+David Kamin Blocked Unblock Follow Following Nov 2, 2017
+
+(This post has been updated with small changes — see below for description.)
+
+House Republicans have put forward a plan to fundamentally revamp the tax code and provide large tax breaks to the highest income Americans through rate cuts on business income and repeal of the estate tax. However, House Republicans have also claimed that the plan provides significant tax breaks to middle-income families. It turns out, though, that those tax breaks for the middle are small as compared to what’s offered to the top, and disappearing.
+
+In rolling out their plan, House Republicans focused on an example family — a married couple making $59,000 per year and with two kids. They said that family would get a tax cut of over $1,182 in 2018 (compared to what they paid in 2017). But, what they didn’t say is that a family making $59,000 would face a tax increase by 2024 relative to current law, with the tax increase potentially rising to nearly $500 by 2027. This is even as tax cuts for those at the top are maintained.
+
+The figure below shows the tax change under the House plan by year relative to current law. It starts with a tax cut of $1,106 in 2018. (This is a bit less than the figure advertised by the House Republicans since this compares apples to apples: their 2018 plan as compared to 2018 current law, as opposed to comparing the plan in 2018 to 2017 liability like the House Republicans did.) But, that tax cut dissipates over time and finally reverses.
+
+The pattern of a tax cut turning into a tax hike is the result of several factors:
+
+· First, the plan’s “Family Flexibility Credit” ($300 each for the tax filer and spouse) expires after 2022.
+
+· Second, the plan repeals personal exemptions which, under current law, would allow a $4,150 write off per person in a household as of 2018. The personal exemption in the plan is, in part, replaced by an expansion of the Child Tax Credit (of $600 per child) and the Family Flexibility Credit. However, the personal exemption is indexed to inflation under current law, and those replacements are not. Further, the Family Flexibility Credit expires.
+
+· Third, the plan indexes the tax system to a measure of inflation that would provide somewhat lower cost of living adjustments each year on average. This results in a slowly growing tax increase over time.
+
+The net effect of this is to transform the advertised tax cut into a tax increase over time. Of course, Republicans may adjust the plan to eliminate such a tax increase at least within the next ten years. But, as has been the case in each iteration of this proposal, they can’t change the basic dynamic that the middle-class tax cuts, if they exist, are paltry as compared to what those at the top are getting. And, even if they don’t explicitly increase taxes on some middle-class families — as this plan now does over time — it is likely to result in those middle-class families losing out down the line when the deficit-financed tax cuts for the top are eventually paid for.
+
+Update on 11/3: I have updated the graph and tables in this post for the Chairman’s Mark updating the draft legislation (released on 11/3) and also correcting a small calculation error in 2027 (with hat tip to Emily Horton of CBPP for pointing it out!). The one change from the Chairman’s mark affecting my calculations is to make the chained CPI immediately effective with the 2019 tax year (instead of waiting until 2023). This results in somewhat smaller tax cuts from 2019–2022 as compared to my previous calculations. The correction in 2027 reduces the tax increase for the family in that year from just over $502 to $457 — and I have changed the language in the text to reflect (a tax increase of almost $500).
+
+Appendix 1: More Details on the Calculations
+
+The tables below show the year-by-year calculations of tax liability for the family making $59,000. Appendix Table 1 shows current law and Appendix Table 2 shows the proposal. (Note: the eagle-eyed among you might notice that the standard deduction under the House proposal is constant at $24,400 from 2018 to 2019 and doesn’t rise with inflation in that one period. That’s because the House proposal only indexes the new standard deduction to inflation after 2019.)
+
+Appendix 2: Assumptions/Other Considerations
+
+To project tax parameters under both current law and the proposal, I use the inflation assumptions in CBO’s latest report. To calculate the effects of switching to the chained CPI, I assume the chained CPI will each year be 0.25% below the CPI-U now used to adjust most tax parameters, consistent with CBO’s assumption in estimating the effects of the chained CPI.
+
+I have also assumed that the chained CPI applies to the EITC. Right now, the legislation appears to contain a drafting error with regard to the EITC and its inflation adjustment. The inflation adjustment cross-referenced in the EITC section of the code (26 USC 32 for those looking) no longer exists in their revised code. For other provisions with inflation adjustments, the bill fixes this by correcting the cross-reference so that those provisions correctly reference the new chained CPI adjustment. There is no such fix for the EITC as far as I can tell. If any drafters are reading this, FYI — think you’ve got to fix the EITC to cross-reference something in your new code (and still seems to be a problem in the Chairman’s Mark)! I have assumed they meant to cross-reference the chained CPI.
+
+Finally, I have given these figures for a family in each year making $59,000. An alternative approach would have been to assume that the example family’s income grows with inflation. If that were to occur and the family’s income grew to about $73,000 by 2027, the tax cut would dissipate but not entirely disappear. By 2027, the family would have a tax cut of a bit over $200 — still down considerably from the figures being touted. To be clear, the calculations here would still accurately illustrate how a middle class family of four— one making $59,000 in the given year — faces a tax increase starting in 2024.

@@ -1,0 +1,18 @@
+Influenza Vaccination Modifies Disease Severity Among Community-dwelling Adults Hospitalized With Influenza.
+Background:
+
+We investigated the effect of influenza vaccination on disease severity in adults hospitalized with laboratory-confirmed influenza during 2013-14, a season in which vaccine viruses were antigenically similar to those circulating.
+
+Methods:
+
+We analyzed data from the 2013-14 influenza season and used propensity score matching to account for the probability of vaccination within age strata (18-49, 50-64, and ≥65 years). Death, intensive care unit (ICU) admission, and hospital and ICU lengths of stay (LOS) were outcome measures for severity. Multivariable logistic regression and competing risk models were used to compare disease severity between vaccinated and unvaccinated patients, adjusting for timing of antiviral treatment and time from illness onset to hospitalization.
+
+Results:
+
+Influenza vaccination was associated with a reduction in the odds of in-hospital death among patients aged 18-49 years (adjusted odds ratios [aOR] = 0.21; 95% confidence interval [CI], 0.05 to 0.97), 50-64 years (aOR = 0.48; 95% CI, 0.24 to 0.97), and ≥65 years (aOR = 0.39; 95% CI, 0.17 to 0.66). Vaccination also reduced ICU admission among patients aged 18-49 years (aOR = 0.63; 95% CI, 0.42 to 0.93) and ≥65 years (aOR = 0.63; 95% CI, 0.48 to 0.81), and shortened ICU LOS among those 50-64 years (adjusted relative hazards [aRH] = 1.36; 95% CI, 1.06 to 1.74) and ≥65 years (aRH = 1.34; 95% CI, 1.06 to 1.73), and hospital LOS among 50-64 years (aRH = 1.13; 95% CI, 1.02 to 1.26) and ≥65 years (aRH = 1.24; 95% CI, 1.13 to 1.37).
+
+Conclusions:
+
+Influenza vaccination during 2013-14 influenza season attenuated adverse outcome among adults that were hospitalized with laboratory-confirmed influenza.
+
+Published by Oxford University Press for the Infectious Diseases Society of America 2017. This work is written by (a) US Government employee(s) and is in the public domain in the US.

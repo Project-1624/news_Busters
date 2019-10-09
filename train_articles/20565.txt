@@ -1,0 +1,50 @@
+Fourth National Climate Assessment
+Scenarios are coherent, internally consistent, and plausible descriptions of possible future states of the world. Scenarios may be quantitative, qualitative, or both. The components of a scenario are often linked by an overarching logic, such as a qualitative narrative of how the future may evolve.
+
+Overview
+
+The USGCRP is mandated to “assist the Nation and the world to understand, assess, predict, and respond to human-induced and natural processes of global change.” To fulfill this mandate, the NCA evaluates risks that climate and global change pose to the United States. This entails addressing specific questions about what is at risk in a particular region or sector and how it might be affected in different potential futures. Scenarios that span a range of plausible future changes in key environmental parameters, such as weather and climate extremes, sea level, population, and land use, can help carry this out. USGCRP has therefore coordinated the development of a set of scenario products, accessible at https://scenarios.globalchange.gov/, to support NCA4 development. Specifically, NCA4 authors have been provided with a suite of high-resolution (downscaled) scenario products for the United States, covering (at least) the entire 21st century, to support chapter development.
+
+Selection of Representative Concentration Pathways
+
+NCA4 authors have grounded their assessment in an analysis of the widely-used scenarios termed “Representative Concentration Pathways,” or RCPs, that form the foundation for the majority of recent coordinated global climate model experiments. (RCPs are also discussed in this report’s Front Matter.) Consistent with previous NCAs, NCA4 relies in part on climate scenarios and modeling efforts generated for the Intergovernmental Panel on Climate Change (IPCC) assessments. In May 2015, USGCRP released a memo outlining the decisions regarding climate-related scenarios and the rationale around them.2 Specifically, USGCRP decided to use the RCPs3,4 and associated model results from the Climate Model Intercomparison Project Phase 5 (CMIP5)5 that underpinned the IPCC 5th Assessment Report (AR5), completed in 2013–2014.
+
+The CMIP model results, as driven by the RCP scenarios, have similarly become standard reference inputs for virtually all work in the United States and internationally concerning climate change science, impacts, vulnerability, adaptation, and mitigation. It is, therefore, reasonable, practical, and in line with the expectations of the research community for NCA4 to use the most recently available model outputs from CMIP5, associated with the RCPs. CMIP5 climate data were widely available during the development of NCA4; products from the next phase of the CMIP project (CMIP6) were not available in time to support NCA4.
+
+USGCRP further decided that NCA4 would focus primarily on RCP8.5 and RCP4.5 for framing purposes, while also considering other scenario information where appropriate (for example, RCP2.6). These RCPs capture a range of plausible atmospheric concentration futures that drive climate models. RCP8.5 is the high-end scenario (high emissions, high concentrations, large temperature increase) in the IPCC’s AR5; it likewise serves as the high-end scenario for NCA4, similar to the use of IPCC’s 4th Assessment Report (AR4) Special Report on Emissions Scenarios (SRES) A2 scenario in NCA3.6 RCP4.5 is not the lowest scenario in AR5, but it is similar to the AR4 SRES low-end B1 scenario that was used in NCA3. RCP2.6 represents the low end of the range considered by AR5, but it also assumes significantly greater emissions reductions, even for current and near-term emissions, than previous low-end scenarios used by the IPCC. The range represented by RCP8.5 and RCP4.5, therefore, provides the most continuity and consistency with the IPCC scenarios used for framing purposes by the previous NCA3.
+
+As simulated in CMIP5, all of the RCPs result in similar global temperature and sea level rise outcomes for the next few decades. However, by mid-century and beyond, differences between RCPs have a substantial effect on the climate and impact outcomes (see Ch. 2: Climate, Figure 2.2). The choice to focus on RCP8.5 and RCP4.5 for impacts, adaptation, and vulnerability analyses allows for an evaluation of near-term concerns for the nation, as well as a robust and wide range of longer-term outcomes relative to the present.
+
+Because RCPs intentionally focus on the outputs that are in turn fed into climate models (namely atmospheric concentrations), a wide range of future assumptions about underlying socioeconomic conditions, both at the global and national scale (for example, population growth, technological innovation, and carbon intensity of the energy mix), could plausibly be consistent with each of the RCPs used in NCA4. For this reason, further guidance on U.S. population and land-use assumptions was provided to authors, as discussed in the Products section of this chapter. Nevertheless, each RCP was developed by a separate modeling team;4 for illustration, some of the assumptions in those modeling runs include
+
+The range of future global population projections within the RCPs falls within the range of the low and high United Nations population projections from 2003.
+
+The range of global gross domestic product (GDP) projections within the RCPs falls within the range of the 90th-percentile range of GDP scenarios found in the literature available prior to publication of the RCPs.
+
+RCP2.6, RCP4.5, and RCP6.0 represent intermediate scenarios from the literature, resulting in primary energy use of 750 to 900 EJ (exajoules) in 2100 or about double recent levels; RCP8.5 is a much more energy-intensive scenario.
+
+Because of assumptions about future viability of carbon capture and storage (CCS) technologies, all scenarios use greater amounts of coal and/or natural gas than in the year 2000.
+
+An important element of RCP2.6 is the use of bio-energy in combination with CCS, resulting in negative emissions by the end of century.
+
+All RCPs assume increasingly stringent air pollution control policies.
+
+Comparing outcomes under RCP8.5 with those of RCP4.5 (and RCP2.6 in some cases) not only captures a range of uncertainties and plausible futures but also provides information about the potential benefits of mitigation. Comparing outcomes under the two pathways shows the degree to which significant emissions mitigation at the global scale can avoid some impacts and inform adaptation choices to the risks that are present even at the low-end scenario. The scenario range allows for an assessment of impacts at a variety of temperature thresholds.
+
+Products
+
+Overview
+
+As noted earlier, NCA4 authors were provided with a suite of high-resolution (downscaled) scenario products for the United States, covering at least the entire 21st century, to assist them in the development of their chapters (hosted at https://scenarios.globalchange.gov). These included
+
+changes in the averages and extremes of key climate variables (for example, temperature and precipitation),
+
+relative sea level rise along the entire U.S. coastline,
+
+population change as a function of demographic shifts and migration, and
+
+changes in developed land use driven by these population changes.
+
+Authors were encouraged to use the provided scenario products to help ensure consistency in underlying assumptions and to improve the ability to compare and synthesize across chapters. Authors used these scenario products to frame uncertainty in future climate as it related to the regional and sectoral risks that were the focus of their chapters—both uncertainty as a result of considering multiple RCPs and uncertainty due to limitations in our understanding of key climate system processes or our ability to fully represent these processes in earth system models.
+
+To better assist the author teams in meeting their needs, and to reduce the potentially large volume of underlying scenario products from which the authors could potentially draw, NCA4 authors were encouraged to think of the scenario products as being grouped into the following three USGCRP scenarios: “Lower,” “Higher,” and “Upper Bound” departures from current conditions (Table A3.1).

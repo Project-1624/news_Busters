@@ -1,0 +1,4 @@
+Printer Tracking Dots Back in the News
+Several journalists and experts have recently focused on the fact that a scanned document published by The Intercept contained tiny yellow dots produced by a Xerox DocuColor printer. Those dots allow the document's origin and date of printing to be ascertained, which could have played a role in the arrest of Reality Leigh Winner, accused of leaking the document. EFF has previously researched this tracking technology at some length; our work on it has helped bring it to public attention, including in a somewhat hilarious video.
+
+One of the experts, Rob Graham, used a tool that we created to decode the dots. Whenever someone's liberty is at stake, we are extra careful in our public statements, but we offer the following thoughts on the situation:

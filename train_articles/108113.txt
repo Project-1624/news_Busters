@@ -1,0 +1,19 @@
+Cellular frequencies are the sets of frequency ranges within the ultra high frequency band that have been assigned for cellular-compatible mobile devices, such as mobile phones, to connect to cellular networks.[1] Most mobile networks worldwide use portions of the radio frequency spectrum, allocated to the mobile service, for the transmission and reception of their signals. The particular bands may also be shared with other radiocommunication services, e.g. broadcasting service, and fixed service operation.
+
+Overview [ edit ]
+
+Radio frequencies used for cellular networks differ in ITU Regions (Americas, Europe, Africa and Asia). The first commercial standard for mobile connection in the United States was AMPS, which was in the 800 MHz frequency band. In Nordic countries of Europe, the first widespread automatic mobile network was based on the NMT-450 standard, which was in the 450 MHz band. As mobile phones became more popular and affordable, mobile providers encountered a problem because they couldn't provide service to the increasing number of customers. They had to develop their existing networks and eventually introduce new standards, often based on other frequencies. Some European countries (and Japan) adopted TACS operating in 900 MHz. The GSM standard, which appeared in Europe to replace NMT-450 and other standards, initially used the 900 MHz band too. As demand grew, carriers acquired licenses in the 1,800 MHz band. (Generally speaking, lower frequencies allow carriers to provide coverage over a larger area, while higher frequencies allow carriers to provide service to more customers in a smaller area.)
+
+In the U.S., the analog AMPS standard that used the cellular band (800 MHz) was replaced by a number of digital systems. Initially, systems based upon the AMPS mobile phone model were popular, including IS-95 (often known as "CDMA", the air interface technology it uses) and IS-136 (often known as D-AMPS, Digital AMPS, or "TDMA", the air interface technology it uses). Eventually, IS-136 on these frequencies was replaced by most operators with GSM. GSM had already been running for some time on US PCS (1,900 MHz) frequencies.
+
+And, some NMT-450 analog networks have been replaced with digital networks using the same frequency. In Russia and some other countries, local carriers received licenses for 450 MHz frequency to provide CDMA mobile coverage area.
+
+Many GSM phones support three bands (900/1,800/1,900 MHz or 850/1,800/1,900 MHz) or four bands (850/900/1,800/1,900 MHz), and are usually referred to as tri-band and quad-band phones, or world phones; with such a phone one can travel internationally and use the same handset. This portability is not as extensive with IS-95 phones, however, as IS-95 networks do not exist in most of Europe.
+
+Mobile networks based on different standards may use the same frequency range; for example, AMPS, D-AMPS, N-AMPS and IS-95 all use the 800 MHz frequency band. Moreover, one can find both AMPS and IS-95 networks in use on the same frequency in the same area that do not interfere with each other. This is achieved by the use of different channels to carry data. The actual frequency used by a particular phone can vary from place to place, depending on the settings of the carrier's base station.
+
+See also [ edit ]
+
+Other articles:
+
+References [ edit ]

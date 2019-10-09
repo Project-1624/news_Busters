@@ -1,0 +1,46 @@
+Removing Coordinated Inauthentic Behavior from Russia
+By Nathaniel Gleicher, Head of Cybersecurity Policy
+
+Today we removed multiple Pages, groups and accounts that engaged in coordinated inauthentic behavior on Facebook and Instagram. The two operations we found originated in Russia, and one was active in a variety of countries while the other was specific to Ukraine. We didn’t find any links between these operations, but they used similar tactics by creating networks of accounts to mislead others about who they were and what they were doing.
+
+We are constantly working to detect and stop this type of activity because we don’t want our services to be used to manipulate people. We’re taking down these Pages and accounts based on their behavior, not the content they post. In these cases, the people behind this activity coordinated with one another and used fake accounts to misrepresent themselves, and that was the basis for our action.
+
+While we are making progress rooting out this abuse, as we’ve said before, it’s an ongoing challenge because the people responsible are determined and well funded. We constantly have to improve to stay ahead. That means building better technology, hiring more people and working more closely with law enforcement, security experts and other companies. Their collaboration was critical to these investigations.
+
+We’ll update this post with more details when we have them, or if the facts change.
+
+January 17, 2019
+
+What We’ve Found So Far
+
+By Nathaniel Gleicher, Head of Cybersecurity Policy
+
+Today we removed 364 Facebook Pages and accounts for engaging in coordinated inauthentic behavior as part of a network that originated in Russia and operated in the Baltics, Central Asia, the Caucasus, and Central and Eastern European countries. The Page administrators and account owners primarily represented themselves as independent news Pages or general interest Pages on topics like weather, travel, sports, economics, or politicians in Romania, Latvia, Estonia, Lithuania, Armenia, Azerbaijan, Georgia, Tajikistan, Uzbekistan, Kazakhstan, Moldova, Russia, and Kyrgyzstan. Despite their misrepresentations of their identities, we found that these Pages and accounts were linked to employees of Sputnik, a news agency based in Moscow, and that some of the Pages frequently posted about topics like anti-NATO sentiment, protest movements, and anti-corruption.
+
+Presence on Facebook: 289 Pages and 75 Facebook accounts. We did not find associated accounts on Instagram.
+
+289 Pages and 75 Facebook accounts. We did not find associated accounts on Instagram. Followers: About 790,000 accounts followed one or more of these Pages.
+
+About 790,000 accounts followed one or more of these Pages. Advertising: Around $135,000 in spending for ads on Facebook paid for in euros, rubles, and US dollars. The first ad ran in October 2013, and the most recent ad ran in January 2019. We have not completed a review of the organic content coming from these accounts.
+
+Around $135,000 in spending for ads on Facebook paid for in euros, rubles, and US dollars. The first ad ran in October 2013, and the most recent ad ran in January 2019. We have not completed a review of the organic content coming from these accounts. Events: Around 190 events were hosted by these Pages. The first was scheduled for August 2015, and the most recent was scheduled for January 2019. Up to 1,200 people expressed interest in at least one of these events. We cannot confirm whether any of these events actually occurred.
+
+Our analysis benefited from open source reporting and work by our partners who investigate this kind of activity. We have also shared information about our investigation with US law enforcement, the US Congress, other technology companies, and policymakers in impacted countries.
+
+Below is a sample of the content posted by some of these Pages:
+
+Separately, based on an initial tip from US law enforcement, we also removed 107 Facebook Pages, Groups, and accounts, as well as 41 Instagram accounts, for engaging in coordinated inauthentic behavior as part of a network that originated in Russia and operated in Ukraine. The individuals behind these accounts primarily represented themselves as Ukrainian, and they operated a variety of fake accounts while sharing local Ukrainian news stories on a variety of topics, such as weather, protests, NATO, and health conditions at schools. We identified some technical overlap with Russia-based activity we saw prior to the US midterm elections, including behavior that shared characteristics with previous Internet Research Agency (IRA) activity.
+
+Presence on Facebook and Instagram: 26 Pages, 77 Facebook accounts, and 4 Groups, as well as 41 Instagram accounts.
+
+26 Pages, 77 Facebook accounts, and 4 Groups, as well as 41 Instagram accounts. Followers: About 180,000 Facebook accounts followed one or more of these Pages, and more than 55,000 accounts followed one or more of these Instagram accounts.
+
+About 180,000 Facebook accounts followed one or more of these Pages, and more than 55,000 accounts followed one or more of these Instagram accounts. Advertising: Around $25,000 in spending for ads on Facebook and Instagram paid for in rubles. The first ad ran in January 2018, and the most recent ad ran in December 2018. We have not completed a review of the organic content coming from these accounts.
+
+Around $25,000 in spending for ads on Facebook and Instagram paid for in rubles. The first ad ran in January 2018, and the most recent ad ran in December 2018. We have not completed a review of the organic content coming from these accounts. Events: No events were hosted by these Pages.
+
+Below is a sample of the content posted by some of these Pages:
+
+Our security efforts are ongoing to help us stay a step ahead and uncover this kind of abuse, particularly in light of important political moments and elections in Europe this year. We are committed to making improvements and building stronger partnerships around the world to more effectively detect and stop this activity.
+
+Read more about our investigations into cyber threats and information operations.

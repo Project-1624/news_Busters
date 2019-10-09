@@ -1,0 +1,241 @@
+Recombinant methods for expressing a functional sweet (T1R2/T1R3) taste receptor 7344859 Recombinant methods for expressing a functional sweet (T1R2/T1R3) taste receptor Patent Drawings: « ‹ 1 2 › » (16 images)
+
+Inventor: Zoller, et al. Date Issued: March 18, 2008 Application: 10/725,472 Filed: December 3, 2003 Inventors: Zoller; Mark (San Diego, CA)
+
+Li; Xiaodong (San Diego, CA)
+
+Staszewski; Lena (San Diego, CA)
+
+O'Connell; Shawn (Encinitas, CA)
+
+Zozulya; Sergey (San Diego, CA)
+
+Adler; Jon Elliot (San Diego, CA)
+
+Xu; Hong (San Diego, CA)
+
+Echeverri; Fernando (Chula Vista, CA)
+
+Assignee: Senomyx, Inc. (San Diego, CA) Primary Examiner: Landsman; Robert S. Assistant Examiner: Attorney Or Agent: Hunton & Williams LLP U.S. Class: 435/69.1; 435/252.3; 435/471 Field Of Search: International Class: C12P 21/06; C12N 1/20; C12N 15/74 U.S Patent Documents: Foreign Patent Documents: WO 00/06592; WO 00/06593; WO 01/64882; WO 01/66563; WO 01/83749; WO 03/025137; WO 02/064631; WO 03/001876; WO 2005/015158 Other References: Wolfgang Bonigk, et al., "The Native Rat Olfactory Cyclic Nucleotide-Gated Channel is Composed of Three Distinct Subunits", The Journal ofNeuroscience, vol. 19, No. 136, p. 5332-5347, Jul. 1, 1999. cited by other.
+
+Jean-Pierre Montmayeur, et al., "A Candidate Taste Receptor Gene Near a Sweet Taste Locus", Nature Neuroscience, vol. 4, No. 5, May 2001. cited by other.
+
+Michinori Kitagawa, et al., "Molecular Genetic Identification of a Candidate Receptor Gene for Sweet Taste", Biochemical and Biophysical Research Communications, vol. 283, p. 236-242, 2001. cited by other.
+
+Marianna Max, et al., "Tas1r3, encoding a new candidate taste receptor, is allelic to the sweet responsiveness locus Sac", Nature Genetics, vol. 28, p. 58-63, May 2001. cited by other.
+
+Eduardo Sainz, et al., "Identification of a Novel Member of the T1R family of putative taste receptors", Journal of Neurochemistry, vol. 77, p. 896-903, 2001. cited by other.
+
+Claire Johnson, et al., "The Effect of the Sweetness Inhibitor 2(-4-methoxyphenoxy) propanoic acid (sodium salt) (Na-PMP) on the taste of bitter-sweet stimuli", Chemical Senses, vol. 19, No. 4, p. 349-358, 1994. cited by other.
+
+Sue C. Kinnamon and Thomas A. Cummings, "Chemosensory Transduction Mechanisms in Taste", Annu. Rev. Physoil., vol. 54, p. 715-731, 1992. cited by other.
+
+Xiadong Li, et al., "Human Receptors for Sweet and umami taste", Proceeding of the National Academy of Science, vol. 99, No. 7, p. 4692-4696, Apr. 2, 2002. cited by other.
+
+Database EMBL 'Online?, embl heidelberg: Acc#: Ac062024, Jun. 21, 2000. cited by other.
+
+E. Adler, et al., "A Novel Family of Mammalian Taste Receptors", Cell, vol. 100, No. 6, p. 693-702, Mar. 17, 2000. cited by other.
+
+Guo, et al., "Protein Tolerance to Random Amino Acid change", PNAS, vol. 101, No. 25, p. 9205-9210, Jun. 22, 2004. cited by other.
+
+Nelson, et al., "Mammalian Sweet Taste Receptors", Cell, vol. 106, p. 381-380, Aug. 10, 2001. cited by other.
+
+Nelson,et al., "An Amino-acid Taste Receptor", Nature, vol. 416, p. 199-202, Mar. 14, 2002. cited by other.
+
+Alexander, et al., "Altering the Antigenicity of proteins", Proc. Natl. Acad. Sci. USA, vol. 89, p. 3352-3356, Apr. 1992. cited by other.
+
+Bowie, et al., "Deciphering the Message in Protein Sequences: Tolerance to Amino Acid Substitutions", Science, vol. 247, p. 13061310, Mar. 16, 1990. cited by other.
+
+Krautwurst, et al., "Identification of Ligands for Olfactory Receptors by Functional Expression of a Receptor Library", Cell, vol. 95, p. 917-926, Dec. 23, 1998. cited by other.
+
+GenBank Accession No. AL139287, clone RP5-89003, Feb. 13, 2000. cited by other.
+
+GenBank Accession No. AA907022, May 19, 1998. cited by other.
+
+Hoon, et al., "Putative Mammalian Taste Receptors: A Class of Taste-Specific GPCRs with Distinct Topographic Selectivity", Cell, vol. 96, p. 541-551, Feb. 19, 1999. cited by other.
+
+Lindemann, "A Taste for Umami", Nature Neuroscience,vol. 3, No. 2, p. 99-100, Feb. 2000. cited by other.
+
+Perruccio, et al., "Possible Role for gustducin in Taste Transduction in Hirudo Medicinalis", Society for Neuroscience Abstracts, vol. 26, No. 1-2, Abstract No. 66.15, 2000. cited by other.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract: Methods for expressing a functional heteromeric taste receptor that responds to sweet taste stimuli are provided. These methods comprise the co-expression of T1R2 and T1R3 nucleic acid sequences in a host cell that desirably further expresses a G protein that couples therewith, e.g., G.sub..alpha.15, G.sub..alpha.16 or gustducin. In preferred embodiments, the host cells will be mammalian cells or Xenopus oocytes. These nucleic acid sequences are expressed constitutively or under inducible conditions. In preferred embodiments the expression methods will use HEK-293 cells that also stably express G.sub..alpha.15. These methods give rise to heteromeric receptors and compositions containing that are useful in assays for identifying novel sweeteners and sweetness modulators. Claim: What is claimed:
+
+
+
+1. A method of producing a heteromeric taste receptor comprising: expressing at least one T1R2 nucleic acid sequence and at least one T1R3 nucleic acid sequence in a recombinanthost cell under conditions which result in a heteromeric taste receptor comprising at least one T1R2 and T1R3 polypeptide, wherein said T1R2 polypeptide is (i) encoded by a nucleic acid sequence comprising SEQ. ID. NO: 10, (ii) encoded by a nucleicacid sequence comprising a nucleic acid that hybridizes to SEQ. ID. NO: 10 under stringent hybridization conditions which are conducting the hybridization reaction at 42.degree. C. in a solution comprising 50% formamide, 5.times.SSC, and 1% SDS andwashing at 65.degree. C. in a solution comprising 0.2.times.SSC and 0.1% SDS, or (iii) a T1R2 polypeptide possessing at least 90% sequence identity to the T1R2 polypeptide of SEQ. ID. NO: 6; and wherein said T1R3 polypeptide is (i) encoded by anucleic acid sequence comprising SEQ. ID. NO: 9; (ii) encoded by a nucleic acid sequence that hybridizes to SEQ. ID. NO: 9 under stringent hybridization conditions which are conducting the hybridization reaction at 42.degree. C. in a solutioncomprising 50% formamide, 5.times.SSC, 10% SDS; and washing at 65.degree. C. in a solution comprising 0.2.times.SCC and 0.1% SDS, or (iii) a T1R3 polypeptide possessing at least 90% sequence identity to the T1R3 polypeptide of SEQ. ID. NO: 7.
+
+
+
+2. The method of claim 1, wherein said T1R2 and T1R3 are of the same species origin.
+
+
+
+3. The method of claim 1, wherein said T1R2 polypeptide is a human T1R2 polypeptide comprising the amino acid sequence of SEQ. ID. NO: 6.
+
+
+
+4. The method of claim 1, wherein said T1R2 polypeptide is a human T1R2 polypeptide that exhibits at least 90% sequence identity to the polypeptide of SEQ. ID. NO: 6.
+
+
+
+5. The method of claim 1, wherein said T1R2 polypeptide is a human T1R2 polypeptide that exhibits at least 95% sequence identity to the polypeptide of SEQ. ID. NO: 6.
+
+
+
+6. The method of claim 1, wherein said T1R2 polypeptide is a human T1R2 polypeptide that exhibits at least 96% sequence identity to the polypeptide of SEQ. ID. NO: 6.
+
+
+
+7. The method of claim 1, wherein said T1R2 polypeptide is a human T1R2 polypeptide that exhibits at least 97% sequence identity to the polypeptide of SEQ. ID. NO: 6.
+
+
+
+8. The method of claim 1, wherein said T1R2 polypeptide is a human T1R2 polypeptide that exhibits at least 98% sequence identity to the polypeptide of SEQ. ID. NO: 6.
+
+
+
+9. The method of claim 1, wherein said T1R2 polypeptide is a human T1R2 polypeptide that exhibits at least 99% sequence identity to the polypeptide of SEQ. ID. NO: 6.
+
+
+
+10. The method of claim 1, wherein said T1R2 polypeptide is encoded by the nucleic acid sequence of SEQ. ID. NO: 10.
+
+
+
+11. The method of claim 1, wherein said T1R2 polypeptide is encoded by a nucleic acid sequence that hybridizes to SEQ. ID. NO: 10 under stringent hybridization conditions which are conducting the hybridization reaction at 42.degree. C. in asolution comprising 50% formamide, 5.times.SSC, and 1% SDS and washing at 65.degree. C. in a solution comprising 0.2.times.SSC and 0.1% SDS.
+
+
+
+12. The method of claim 1, wherein said T1R3 polypeptide is a human T1R3 polypeptide comprising the amino acid sequence of SEQ. ID. NO: 7.
+
+
+
+13. The method of claim 1, wherein said T1R3 polypeptide is a human T1R3 polypeptide that possesses at least 90% sequence identity to the polypeptide of SEQ. ID. NO: 7.
+
+
+
+14. The method of claim 1, wherein said T1R3 polypeptide is a human T1R3 polypeptide that possesses at least 95% sequence identity to the polypeptide of SEQ. ID. NO: 7.
+
+
+
+15. The method of claim 1, wherein said T1R3 polypeptide is a human T1R3 polypeptide that possesses at least 96% sequence identity to the polypeptide of SEQ. ID. NO: 7.
+
+
+
+16. The method of claim 1, wherein said T1R3 polypeptide is a human T1R3 polypeptide that possesses at least 97% sequence identity to the polypeptide of SEQ. ID. NO: 7.
+
+
+
+17. The method of claim 1, wherein said T1R3 polypeptide is a human T1R3 polypeptide that possesses at least 98% sequence identity to the polypeptide of SEQ. ID. NO: 7.
+
+
+
+18. The method of claim 1, wherein said T1R3 polypeptide is a human T1R3 polypeptide that possesses at least 99% sequence identity to the polypeptide of SEQ. ID. NO: 7.
+
+
+
+19. The method of claim 1, wherein said T1R3 polypeptide is encoded by a nucleic acid sequence of SEQ. ID. NO: 9.
+
+
+
+20. The method of claim 1, wherein said T1R3 polypeptide is encoded by a nucleic acid sequence that hybridizes to SEQ. ID. NO: 9 or SEQ. ID. NO: 11 under stringent hybridization conditions which are conducting the hybridization reaction at42.degree. C. in a solution comprising 50% formamide, 5.times.SSC, and 1% SDS and washing at 65.degree. C. in a solution comprising 0.2.times.SSC and 0.1% SDS.
+
+
+
+21. The method of claim 1, wherein said T1R2 and said T1R3 nucleic acid sequences are each operably linked to a constitutive promoter.
+
+
+
+22. The method of claim 1, wherein said T1R2 and said T1R3 nucleic acid sequences are each operably linked to an inducible promoter.
+
+
+
+23. The method of claim 1, wherein said T1R2 and T1R3 nucleic acid sequences are expressed in a prokaryotic cell.
+
+
+
+24. The method of claim 1, wherein said T1R2 and T1R3 nucleic acid sequences are expressed in a eukaryotic cell.
+
+
+
+25. The method of claim 24, wherein said cell is a mammalian, yeast, insect or amphibian cell.
+
+
+
+26. The method of claim 24, wherein said cell is a HEK-293 cell, COS cell, CHO cell, or Xenopus ooctye.
+
+
+
+27. The method of claim 26, wherein the cell is a HEK-293 cell.
+
+
+
+28. The method of claim 1, wherein said cell expresses a G protein.
+
+
+
+29. The method of claim 28, wherein said G protein is a promiscuous G protein.
+
+
+
+30. The method of claim 28, wherein said G protein is G.sub..alpha.15, G.sub..alpha.16 or gustducin.
+
+
+
+31. The method of claim 1, wherein said T1R2 and T1R3 polypeptides are expressed on the surface of said cell.
+
+
+
+32. The method of claim 1, wherein either of said T1R2 and T1R3 nucleic acid sequences are contained in a nucleic acid construct that comprises a nucleic acid sequence that encodes a detectable label.
+
+
+
+33. The method of claims 1, wherein said cell stably expresses said T1R2 and T1R3 nucleic acid sequences.
+
+
+
+34. The method of claim 1, wherein said cell transiently expresses said T1R2 and T1R3 nucleic acid sequences.
+
+
+
+35. The method of claim 1, wherein said cell stably or transiently expresses a T1R2 sequence comprising the amino acid sequence of SEQ ID NO: 6 and a T1R3 sequence comprising the amino acid sequence of SEQ ID NO: 7.
+
+
+
+36. The method of claim 34 wherein said cell is further expresses G.sub..alpha.15, G.sub..alpha.16 or gustducin.
+
+
+
+37. The method of claim 33 wherein said cell is a HEK-293 cell.
+
+
+
+38. The method of claim 1, wherein said T1R2 and T1R3 nucleic acid sequences are expressed in an endogenous taste cell.
+
+
+
+39. The method of claim 38, wherein the cell is a taste cell present in foliate, circumvallate or fungiform papillae.
+
+
+
+40. The method of claim 38, wherein the cell is a taste cell present in geschmackstreifen, oral cavity, gastrointestinal epithelium or epiglottis.
+
+
+
+41. The method of claim 40, wherein the cell is a taste cell present in gastrointestinal epithelium. Description:

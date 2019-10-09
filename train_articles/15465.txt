@@ -1,0 +1,67 @@
+0915 kerrpftexas
+
+Emails, Beverly Kerr, vice president, Research, Austin Chamber of Commerce, Sept. 8 and 10, 2015
+
+8:16 p.m.
+
+Regarding the OES data that Zimmerman’s office provided:
+
+This is not the best dataset to use to compare the changes in wages overtime. On this page, go to
+
+F. Other important information about OES data
+
+1. Can OES data be used to compare changes in employment or wages over time?
+
+Brian’s use of QCEW is reasonable, as is the series of “Average Hourly Earnings, Private Industry” from the Current Employment Statistics (CES) program (which I already had on hand). It looks like Brian pulled total (private and public), but there is the option to use just private industry wages from QCEW. Or you could use the CES series I’ve attached.
+
+I think I understood from you that Zimmerman would object to, say, a 3% increase for city workers because he believes other area workers have not been seeing 3% annual increases in recent years. Zimmerman links to a response from COA Financial Services showing base wage increases for COA staff over the last several years.
+
+I think adjusting for inflation is a needless complication for the fact-check (though it wouldn’t hurt to mention parenthetically that a 3.8% nominal gain in 2014 translates to 2.1% real gain due to inflation). The annual changes in the COA wage are presumably based on nominal wage (not inflation-adj. wages), so I think it’s best to talk about private industry wage increases in the same terms.
+
+So, the BLS CES private industry wage data for the Austin MSA is available since 2007, giving us annual percent change for 2008-2014. Over those 7 years, annual increases range from 1.3% to 4.8%, averaging 2.2% annually. Over the same period, COA annual increases ranged from 0.0% to 3.5%, averaging 2.2% annually. (Since we only have the COA percent change and not the average wage, seems like averaging percent change over one period of years or another is all we can do.)
+
+Based on the first 7 months of 2015, we can wonder what the 2014-2015 percent change will be for private industry when the year is completed. Compared to the first 7 months of 2014, 2015 is thus fare a dime (0.4%) lower.
+
+Now, if you want to complicate things, you could do similar with the QCEW data that Brian introduced. I’ve put that data in a second sheet. You can decide if you want to use total or private and metro or Travis County to compare to COA. It makes a big difference what period of time you want to compare. For example, if you use the whole period of overlap, 2007-2014, COA has 2.4% annual average increase, which is higher than any of the comparisons. But if you compare a shorter span, say 2011-2014, then COA’s annual average increase (1.5%) is lower than the comparisons.
+
+Brian pulled QCEW annual average salary from the BLS site. I pulled QCEW average weekly wage from TWC. I just personally navigate the TWC QCEW interface quicker. Should make no difference to the annual percent change.
+
+Brian mentioned annual wage growth varying by industry. I’m not sure how you’d pick the ones most competitive with city jobs from a job seeker’s perspective. Yet an other avenue of comparison could be firm size. Maybe a very large employer like COA should be compared to other large employers? There’s data for that in the 3rd tab in the attached.
+
+Beverly Kerr | Vice President, Research
+
+Austin Chamber of Commerce
+
+From: Selby, Gardner (CMG-Austin) [mailto:wgselby@statesman.com]
+
+Sent: Thursday, September 10, 2015 4:07 PM
+
+To: Beverly Kerr
+
+Subject: RE: Backup offered by Councilmember Zimmerman
+
+This, belatedly, seems quite on point. I’ll need to review it in more detail and you can count on a follow-up or two.
+
+I already have one: If my focus is on wage changes for non-city employees within the city limits, what’s the very best gauge for the past few years and why?
+
+g.
+
+5:58 p.m.
+
+Sept. 10, 2015
+
+Zimmerman’s office was using Austin MSA data for average wage, so I’d think you have the option to do the same.
+
+But, if you like, you can use Travis County instead as a proxy for City of Austin. But then your data choice is limited to QCEW or QWI data (that’s the one under the third tab in the Excel file I sent before). The CES data is only available for the metro. Travis County accounts for 74% of the Austin MSA’s total jobs and private jobs . . . If that helps support using the metro wage data from the CES program.
+
+Your only option for City of Austin would be an earnings measure from the Census Bureau’s American Community Survey. The latest year is currently 2013, but 2014 is due to be released next Thursday. There’s a margin of error factor with ACS estimates than will make relying on percent change estimates unadvisable.
+
+I don’t have a basis for recommending QCEW over QWI, but I’d say that QCEW has been around forever (used to be called “ES 202”) and would be more familiar to more people. I think I can say that QWI and QCEW estimates more or less start from the same employer payroll records, but if you’ll look at the Travis County data for private industry wages in the two datasets, annual percent change data can be quite different from year to year (I added the data to the Excel file attached). I don’t know what kind of reading I’d have to do to come up with a way to account for this and I don’t think I have the bandwidth this week or next try.
+
+Since QCEW is based on employer records, data is by place of work. So the wages would be referred to as that paid by employers in the county (not as wages of employed residents of the county).
+
+Beverly Kerr | Vice President, Research
+
+...............................................................................
+
+Austin Chamber of Commerce

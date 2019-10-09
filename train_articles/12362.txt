@@ -1,0 +1,908 @@
+Methods and Practices for Setting Speed Limits: An Informational Report - Safety
+Methods and Practices for Setting Speed Limits: An Informational Report
+
+Download Version
+
+PDF [7.27 MB]
+
+(Note: This document has been converted from the original publication to 508-compliant HTML . The formatting has been adjusted for 508 compliance, but all the original text content is included, plus additional text descriptions for the images, photos and/or diagrams have been provided below.)
+
+(Extended Text Description: Cover artwork for the publication "Methods and Practices for Setting Speed Limits: An Informational Report." The cover includes photos in the center of the design, depicting various speed limit signs in different environments. The first photo (on the left, center, and larger than the other photos) has a speed limit sign that reads "Speed Limit 30", next to a two-lane road running through a forest in the fall. The second photo shows a "Speed Limit 45" sign with a blue sky and a few clouds behind it. The third photo shows "Speed Limit 25" next to a road in a suburban area with green trees and grass. Under the photos is the text "FHWA Safety Program." At the bottom of the cover design are three logos, from left to right: The US Department of Transportation - Federal Highway Administration logo, the ITE - Institute of Transportation Engineers logo, and the Safe Roads for a Safer Future - Investment in roadway safety saves lives logo. In the bottom left corner is the text "FHWA-SA-12-004" and in the bottom right corer is the website link http://safety.fhwa.dot.gov.)
+
+Disclaimer
+
+The contents of this handbook reflect the views of the authors, who are responsible for the facts and the accuracy of the data published herein. The contents do not necessarily reflect the official view or policies of the Federal Highway Administration (FHWA). This handbook does not constitute a standard, specification, or regulation. It is not intended for construction, bidding, or permit purposes.
+
+Notice
+
+The United States Government does not endorse products or manufacturers. Trade or manufacturers' names appear herein solely because they are considered essential to the object of this handbook.
+
+Acknowledgments
+
+Gerald J. Forbes (F) served as the ITE Project Consultant and the overall technical editor for this report. He was responsible for the technical content and developing the case studies.
+
+This report was based on a draft report, Best Practices for Setting Rational Speed Limits, prepared by Vanasse Hangen Brustlin, Inc. for the Federal Highway Administration, Office of Safety in May, 2009. Westat and Raghavan Srinivasan assisted in the development of the FHWA draft report.
+
+ITE would like to acknowledge the following individuals who supplied information or provided comments in the development of this informational report:
+
+Tony S. Abbo (M)
+
+Richard F. Beaubien (F)
+
+Leanna M. Belluz (M)
+
+Robert Bucholc
+
+Harry A. Campbell (F)
+
+Tom Carmody
+
+Christopher J. Dack (F)
+
+Chris C. Day (M)
+
+Andrew W. Edgar (M)
+
+James W. Ellison (F)
+
+John E. Fisher (F)
+
+Kay Fitzpatrick (F)
+
+Jenny L. Grote (F)
+
+Abdullah J. Habibzai
+
+Lawrence T. Hagen (F)
+
+Wen Hu (M)
+
+Kenton R. Jones
+
+Arash Khoshghalb (M)
+
+Chris King
+
+Ryan C. Kump (M)
+
+Greg M. Laragan (F)
+
+Matthew P. Lawrie (M)
+
+Mark A. Madden (M)
+
+Sean P. Merrell (M)
+
+Rock E. Miller (F)
+
+Craig S. Neustaedter (F)
+
+Michael D. Nichols (M)
+
+Kwabena Ofosu (M)
+
+Martin R. Parker Jr. (M)
+
+Veronica Pelkey
+
+Eduardo A. Petil (M)
+
+William B. Raffensperger (M)
+
+Lawrence E. Sefcik
+
+Douglas A. Skowronek (M)
+
+Harry W. Thompson (F)
+
+Blair Turner
+
+Elia Twigg
+
+David C. Woodin (F)
+
+Peter J. Yauch (F)
+
+Erik H. Zandvliet (M)
+
+ITE would like to acknowledge the ITE Traffic Engineering Council technical committee members who reviewed and provided comments on this report:
+
+Gerald J. Forbes (F), Chair
+
+Geni B. Bahar (M)
+
+Marcus A. Brewer (M)
+
+Wen Cheng (M)
+
+John A. Davis (F)
+
+Melisa D. Finley (M)
+
+Paul Mackey (M)
+
+Richard J. Porter (M)
+
+Keith B. Rohling (M)
+
+Kelly I. Schmid (M)
+
+Rick J. Staigle (M)
+
+James E. Tobaben (F)
+
+John W. Van Winkle (M)
+
+
+
+ITE would also like to acknowledge the Federal Highway Administration staff that reviewed and provided comments on this report:
+
+Guan Xu (M), FHWA Project Manager
+
+Craig Allred
+
+James E. (Eric) Ferron (M)
+
+Michael S. Griffith (M)
+
+Note: Letters in parentheses indicate ITE member grade: M—Member, F—Fellow.
+
+Technical Report Documentation Page
+
+1. Report No. FHWA-SA-12-004 2. Government Accession No. 3. Recipient's Catalog No. 4. Title and Subtitle Methods and Practices for Setting Speed Limits: An Informational Report 5. Report Date April 2012 6. Performing Organization Code 7. Authors Gerald J. Forbes, P.Eng.
+
+Teresa Gardner, P.E.
+
+Hugh McGee, P.E., Ph.D.
+
+Raghavan Srinivasan, Ph.D. 8. Performing Organization Report No. 9. Performing Organization Name and Address Institute of Transportation Engineers
+
+1627 Eye Street, NW, Suite 600
+
+Washington, DC 20006 10. Work Unit No. (TRAIS) 11. Contract or Grant No. 12. Sponsoring Agency Name and Address Federal Highway Administration
+
+Office of Safety
+
+1200 New Jersey Ave., SE
+
+Washington, DC 20590 13. Type of Report and Period Covered April 2011-April 2012 14. Sponsoring Agency Code 15. Supplementary Notes FHWA Project Manager: Guan Xu
+
+FHWA Technical Panel: Craig Allred, Eric Ferron, Michael Griffith
+
+ITE Project Manager: Lisa Fontana Tierney 16. Abstract This informational report describes four primary practices and methodologies that are used in establishing speed limits (engineering approach, expert systems, optimization, and injury minimization). It also reviews the basic legalities of speed limits and presents several case studies for setting speed limits on a variety of roads. Despite the general acceptance and wide-spread use of speed limits throughout the world, there has been no consensus among practitioners concerning the methods and techniques that should be used to select the most appropriate speed limit for a particular facility. At the current time, it appears unlikely that any consensus will be achieved in the near future. This leaves practitioners without definitive guidance on this important issue, and in search of information to assist them. This report provides the information necessary for practitioners to make informed decisions in selecting a method for setting speed limits in their jurisdiction. This report presents the procedures that highway agencies can and do use to set speed limits. As an informational report it provides a broad overview of the different speed limit setting methods that are available for use, but it makes no specific policy recommendations or suggestions. Special situations, such as advisory, school zone, and work zone speeds are discussed. Speed limit enforcement and reevaluation of speed limits are discussed briefly. The design speed for the roadway will not be discussed, except as it may relate to the setting of speed limits. This is because design speed is a characteristic of the roadway that is essentially "built-in" to the road, and is not easily modified. 17. Key Words Speed Limits, Traffic Control Devices, Speed Signs, Speed Measurement, Speed Study Data Collection, Speed Limit Enforcement, Statutory Speed 18. Distribution Statement No restrictions. 19. Security Classif. (of this report) Unclassified 20. Security Classif. (of this page) Unclassified 21. No of Pages 22. Price 107 N/A
+
+Form DOT F 1700.7 (8-72) Reproduction of completed page authorized.
+
+SI* (Modern Metric) Conversion Factors
+
+Approximate Conversions to SI Units Symbol When You Know Multiply By To Find Symbol Length in inches 25.4 millimeters mm ft feet 0.305 meters m yd yards 0.914 meters m mi miles 1.61 kilometers km Area in2 square inches 645.2 square millimeters mm2 ft2 square feet 0.093 square meters m2 yd2 square yard 0.836 square meters m2 ac acres 0.405 hectares ha mi2 square miles 2.59 square kilometers km2 Volume fl oz fluid ounces 29.57 milliliters mL gal gallons 3.785 liters L ft3 cubic feet 0.028 cubic meters m3 yd3 cubic yards 0.765 cubic meters m3 NOTE: volumes greater than 1000 L shall be shown in m3 Mass oz ounces 28.35 grams g lb pounds 0.454 kilograms kg T short tons (2000 lb) 0.907 megagrams (or "metric ton") Mg (or "t") Temperature (exact degrees) oF Fahrenheit 5 (F-32)/9 or (F-32)/1.8 Celsius oC Illumination fc foot-candles 10.76 lux lx fl foot-Lamberts 3.426 candela/m2 cd/m2 Force and Pressure or Stress lbf pound force 4.45 Newtons N lbf/in2 pound force per square inch 6.89 kilopascals kPa
+
+*SI is the symbol for the International System of Units. Appropriate rounding should be made to comply with Section 4 of ASTM E380.
+
+(Revised March 2003)
+
+Approximate Conversions from SI Units Symbol When You Know Multiply By To Find Symbol Length mm millimeters 0.039 inches in m meters 3.28 feet ft m meters 1.09 yards yd km kilometers 0.621 miles mi Area mm2 square millimeters 0.0016 square inches in2 m2 square meters 10.764 square feet ft2 m2 square meters 1.195 square yards yd2 ha hectares 2.47 acres ac km2 square kilometers 0.386 square miles mi2 Volume mL milliliters 0.034 fluid ounces fl oz L liters 0.264 gallons gal m3 cubic meters 35.314 cubic feet ft3 m3 cubic meters 1.307 cubic yards yd3 Mass g grams 0.035 ounces oz kg kilograms 2.202 pounds lb Mg (or "t") megagrams (or "metric ton") 1.103 short tons (2000 lb) T Temperature (exact degrees) oC Celsius 1.8C+32 Fahrenheit oF Illumination lx lux 0.0929 foot-candles fc cd/m2 candela/m2 0.2919 foot-Lamberts fl Force and Pressure or Stress N Newtons 0.225 pound force lbf kPa kilopascals 0.145 pound force per square inch lbf/in2
+
+*SI is the symbol for the International System of Units. Appropriate rounding should be made to comply with Section 4 of ASTM E380.
+
+(Revised March 2003)
+
+TABLE OF CONTENTS
+
+BACKGROUND - 1
+
+PURPOSE AND SCOPE - 2
+
+REPORT ORGANIZATION - 3
+
+THE SAFETY OF SPEED - 4
+
+SPEED LIMIT BASICS - 6
+
+Types of Speed Limits - 6
+
+Statutory Speed Limits - 6 Speed Zones - 8
+
+SETTING SPEED LIMITS - 9
+
+Methods of Setting Speed Limits - 10
+
+Engineering Approach - 11 Operating Speed Method - 12 Road Risk Method - 15 Expert System—USLIMITS2 - 16 Overview of the Decision Rules and Data Requirements of USLIMITS2 - 17 Optimal Speeds - 21 Injury Minimization - 22
+
+Minimum Length of Speed Zones - 25
+
+Special Situations - 27
+
+Advisory Speeds - 27 Nighttime Speed Limits - 28 School Zone Speed Limits - 28 Work Zone Regulatory Speeds - 30 Truck Speed Limits - 30 Minimum Speed Limits - 30 Variable Speed Limits - 30 Transition Zone Speed Limits - 31 Seasonal or Holiday Speed Limits - 31
+
+Reevaluation - 32
+
+SPEED LIMIT SIGN DESIGN AND PLACEMENT - 33
+
+Speed Feedback Signs - 35
+
+SPEED STUDY DATA COLLECTION - 37
+
+Data Collection Planning and Coordination - 37
+
+Study Area - 39
+
+Speed Data Collection - 42
+
+Vehicle Speeds - 42 Speed Test Runs - 48
+
+Data Analysis - 49
+
+85th Percentile Speed - 49 10 mph (16 km/h) Pace - 50 Crash Data - 50
+
+SPEED LIMIT ENFORCEMENT - 52
+
+CASE STUDIES - 53
+
+CASE STUDY 1: Urban Collector Road - 54
+
+Engineering Method Using Operating Speed - 55
+
+Using the Illinois DOT Method - 55 Using the Northwestern Speed Zoning Technique - 57
+
+Expert Systems Approach Using USLIMITS2 - 58
+
+Optimal Speed Limit - 60 Safe Systems Approach - 64
+
+CASE STUDY 2: Rural Arterial Road - 65
+
+Engineering Method Using Operating Speed - 67
+
+Using the Illinois DOT Method - 67 Using the Northwestern Speed Zoning Technique - 69
+
+Expert System (USLIMITS2) - 71
+
+Optimal Speed Limit - 71
+
+Safe Systems Approach - 74
+
+SUMMARY OF RESULTS - 75
+
+REFERENCES - 76
+
+APPENDIX A: GLOSSARY - 79
+
+APPENDIX B: EXAMPLE TRAFFIC CONTROL ORDER - 81
+
+APPENDIX C: ILLINOIS POLICY ON SETTING SPEED LIMITS - 82
+
+APPENDIX D: NORTHWESTERN SPEED ZONING TECHNIQUE - 84
+
+APPENDIX E: SPEED LIMITS NEW ZEALAND (ROAD RISK METHODOLOGY) - 92
+
+APPENDIX F: EXAMPLE CASE STUDY USING USLIMITS2 - 99
+
+APPENDIX G: EXAMPLE SPEED STUDY FORMS - 104
+
+APPENDIX H: SAMPLE 85th PERCENTILE SPEED CALCULATION - 106
+
+TABLES
+
+Table 1. Examples of Speed Limit Statutes - 7 Table 2. Base Speed for the Classification and Land Use Combination - 15 Table 3. USLIMITS2 Data Inputs for Road Types - 18 Table 4. Speed Limits for Injury Minimization - 23 Table 5. Approaches to Setting Speed Limits - 24 Table 6. Minimum Lengths of Speed Zones in New Zealand - 26 Table 7. Minimum Length of Road for a Speed Limit - 27 Table 8. Maximum Speeds to Trigger a Speed Feedback Sign - 36 Table 9. Information to Show on Strip Map - 41 Table 10. Advantages and Disadvantages of Speed Collection Devices - 43 Table 11. Example Calculation of Sample Size for Study to Determine 85th Percentile Speed - 44 Table 12. Sample Sizes and Data Collection Periods Used by Three States - 45 Table 13. Speed Check Stations for Three States - 47 Table 14. Example of Using Speed Test Runs to Confirm 85th Percentile Speeds - 49 Table 15. Recommended Speed Limits for the Eldron Boulevard Case Study - 64 Table 16. Recommended Speed Limits for the State Route 67 Case Study - 74 Table 17. Recommended Speed Limits for the Case Studies - 75 Table 18. Speed Limit Justified by Speed Data - 85 Table 19. Speed Limit Based on Road Parameters - 86 Table 20. Adjustment Factors for Access Density - 87 Table 21. Adjustment Factors for Lane Width - 87 Table 22. Adjustment Factors for Functional Classification - 87 Table 23. Adjustment Factors for Median Type - 88 Table 24. Adjustment Factors for Shoulder Type and Width - 88 Table 25. Adjustment Factors for Pedestrian Activity - 88 Table 26. Adjustment Factors for Parking Activity - 89 Table 27. Adjustment Factors for Roadway Alignment - 89 Table 28. Adjustment Factors for Crash Rate - 89 Table E1. Development Rating - 93 Table E2. Side Road Development Rating - 94 Table E3. Pedestrians - 95 Table E4. Cyclists - 95 Table E5. Parking - 95 Table E6. Road Geometry - 96 Table E7. Traffic Control - 96 Table E8. Development - 96 Table 29. Example Frequency Distribution Table - 106
+
+FIGURES
+
+Figure 1. Speed Limit Study Process for Engineering and Expert Systems Methods - 11 Figure 2. Optimal Speed Limit Process - 22 Figure 3. International Speed Limit Signs - 33 Figure 4. Example Regulatory Speed Zone Application Showing Spacing of Signs Transitioning from Rural District to Urban District and Within the Urban District - 34 Figure 5. Speed Feedback Sign - 35 Figure 6. An Example of a Strip Map of a Study Area Showing Existing Conditions - 40 Figure 7. Radar Setup - 46 Figure 8. Portable Traffic Analyzer - 46 Figure SLNZ1. Determining Speed Limit - 97 Figure SLNZ2. Speed Limit Flow Chart—Rural - 97 Figure SLNZ3. Speed Limit Flow Chart—In-Between - 98 Figure SLNZ4. Speed Limit Flow Chart—Urban - 98
+
+BACKGROUND
+
+In 1885, Karl Friedrich Benz revealed the first gasoline-powered automobile on the public street system.1 The fastest his car could go was about 13 mph (21 km/h). Since that time, advances in science and technology have brought faster vehicles and better roads, both of which have served to increase travel speeds for automotive travel. Today, attainable speeds are far higher than the maximum speeds that society generally accepts as reasonable for motorized travel on public streets, yet the speedometers on most motor vehicles display maximum speeds that far exceed the maximum legal speed limits on most roads.
+
+Speeding, commonly defined as exceeding the posted speed limit or driving too fast for conditions, is a primary crash causation factor across the globe. Based on a survey of road safety performance, speeding is the number one road safety problem in many countries, often contributing to as many as one-third of fatal crashes and serving as an aggravating factor in most crashes.2 According to the National Highway Traffic Safety Administration (NHTSA), speeding-related crashes account for over 13,000 fatalities per year in the United States, making speeding one of the most often-cited contributing factors for fatal crashes.3
+
+One of the most frequently used methods of managing travel speeds is the posted speed limit. The setting of speed limits predates the automobile by some 200 years, when Newport, Rhode Island, prohibited the horses galloping on major thoroughfares to prevent pedestrian deaths. Similarly, Boston, Massachusetts, limited horse-drawn carriages to "foot pace" on Sundays to protect church-goers.
+
+The English Parliament is credited with setting the world's first speed limit for mechanically-propelled vehicles in 1861.* At that time, the Locomotive Act (automobiles were considered "light locomotives") limited the speed of all "locomotives" on public highways to 10 mph (16 km/h)-5 mph (8 km/h) through any City, town, or village.4 The Act was later amended to set speed limits of 4 mph (6 km/h) outside of towns and 2 mph (3 km/h) within them. These new operating speeds also required three operators for each vehicle—two traveling in the vehicle and one walking ahead and carrying a red flag to warn pedestrians and equestrians.5
+
+Selecting an appropriate speed limit for a facility can be a polarizing issue for a community. Residents and vulnerable road users generally seek lower speeds to promote quality of life for the community and increased security for pedestrians and cyclists; motorists seek higher speeds that minimize travel time. Despite the controversy surrounding maximum speed limits, it is clear that the overall goal of setting the speed limit is almost always to increase safety within the context of retaining reasonable mobility.
+
+The principal exception to the safety objective of speed limits was the oil crisis in the early 1970s, when speed limits were lowered as a means of conserving fuel. This rationale for lower speed limits was revived in Spain in early 2011, where the government lowered the maximum speed limit of 75 mph (120 km/h) to 70 mph (110 km/h) in an attempt to curb fuel consumption in the face of rising oil prices.6 However, the measure lasted only four months before the top speed limit was returned to the former 75 mph (120 km/h).
+
+Maximum speed limits are laws; therefore, speed limits are set for the protection of the public and the regulation of unreasonable behavior on the part of individuals.
+
+* This still predates the gasoline-powered automobile and was enacted for steam-powered vehicles.
+
+PURPOSE AND SCOPE
+
+Despite the wide-spread acceptance and use of speed limits throughout the world, there has been no consensus among practitioners concerning the methods and techniques that should be used to select the most appropriate speed limit for a particular facility. Currently, it appears unlikely that consensus will be achieved in the near future. This leaves practitioners without definitive guidance on this important issue, and in search of information that may assist them. This report provides the information necessary for practitioners to make informed decisions concerning the method that is selected for setting speed limits in their jurisdiction.
+
+This report presents the various procedures that highway agencies can and do use to set speed limits. It is an informational report and provides a broad overview of the different speed limit setting methods that are available, but makes no specific recommendations or suggestions.
+
+Special situations, such as advisory, school zone, and work zone speeds are discussed. Speed limit enforcement and periodic reevaluation of speed limits are discussed briefly. The design speed for the roadway will not be discussed, except as it relates to the setting of speed limits. This is because design speed is a characteristic of the roadway that is essentially "built-in" to the road, and is not easily modified.
+
+Technical terms are defined in Appendix A.
+
+REPORT ORGANIZATION
+
+The remainder of this report is organized into eight sections as follows:
+
+THE SAFETY OF SPEED: As speed limits are first and foremost a road safety measure, a discussion on the effects of speed on crash risk is provided for the information of the user.
+
+SPEED LIMIT BASICS: An introduction to the broad categories and types of speed limits, including statutory speed limits, prima facie speed limits, and speed zoning.
+
+SETTING SPEED LIMITS: A detailed description of the various methods that are available for setting speed limits, a brief discussion of special types of speed limits (i.e., nighttime speed limits, school zone speed limits, truck speed limits, etc.), and information on minimum lengths of speed zones.
+
+SPEED LIMIT SIGN DESIGN AND PLACEMENT: Criteria that are used in selecting sign types and in the placement of the signs for speed zones and speed transitions. Also included is some information on Speed Feedback signs.
+
+SPEED STUDY DATA COLLECTION: An outline of the data required for determining a posted speed limit with emphasis on spot speed data collection and analysis.
+
+SPEED LIMIT ENFORCEMENT: A brief discussion on the role of engineering practitioners in assisting with the enforcement of speed limits.
+
+CASE STUDIES: Two case studies that demonstrate the use of several available methods for setting speed limits.
+
+REFERENCES AND APPENDICES: Supporting information and additional details for the reader.
+
+THE SAFETY OF SPEED
+
+It is important to understand how speed impacts safety, because setting speed limits is primarily a road safety measure. While the laws of physics make it very clear that speed and crash severity are inextricably linked (i.e., severity increases geometrically as speed increases), there has been a good deal of controversy over the impact of speed on crash occurrence. This is primarily because the variety of road design and operating characteristics can obscure the precise relationship between speed and crash occurence. Numerous studies and research efforts on this topic that have presented conflicting results on this important relationship. However, the most recent and statistically robust research on speed and crash occurrence fairly definitively indicates that, all other factors being equal, increased speeds increase crash occurrence.7 The magnitude of the increase is dependent on the specifics of each case, with urban areas having the most pronounced relationship and controlled-access facilities the weakest.
+
+One of the most statistically robust efforts to uncover the relationship between speed and safety was a meta-analysis conducted by the Norwegian Institute of Transport Economics.7 The information and conclusions from the meta-analysis form the basis for the statements made in this section.
+
+For a given roadway type, there is a strong statistical relationship between speed and crash risk for speeds in the range of 15 mph to 75 mph (25 km/h to 120 km/h). When the mean speed of traffic is
+
+educed, the number of crashes and the severity of injuries will almost always go down. When the mean speed of traffic increases, the number of crashes and the severity of injuries will usually increase. The relationship between mean travel speed and crash risk can be adequately described in terms of the following model:
+
+(Extended Text Description: Equation: CMF = (V a / V b ) ^ X )
+
+CMF = Crash modification factor
+
+V a = Mean speed in the after condition
+
+V b = Mean speed in the before condition
+
+X = 3.6 for fatal crash frequency
+
+2.0 for injury crash frequency
+
+1.0 for property-damage-only crash frequency
+
+4.5 for fatalities
+
+2.7 for personal injuries
+
+The relationship between speed and crash risk can be modified to some extent by road environment, vehicle-related factors, and driver behavior. But, the effects of speed on crash risk are remarkably consistent across different contexts.
+
+The above relationship between speed and crash risk is significantly different from the traditional U-shaped relationship that has defined much of the current North American thinking on speed limits and speed management. The U-shaped relationship (Solomon curve) between speed and crash risk can be questioned for two reasons:
+
+1. The U-shape is generally expected to be an artifact of errors in the measurement of speed8,9; and 2. There is a strong correlation between mean speed and speed variance, so it is difficult to separate the effects of mean speed and speed variance on crash risk.10
+
+This discussion describes the relationship between travel speed and crash risk, but it does not necessarily reflect the relationship between speed limits and crash risk.
+
+A change in the speed limit almost always changes the mean speed of traffic. However, the changes are not always proportional. For the most part, the change in the mean speed of traffic created by a change in speed limit is around 25 percent of the change in the speed limit.7 In other words, a speed limit increase or reduction of 6 mph (10 km/h) yields about a 1.5 mph (2.5 km/h) raising or lowering of the mean speed, respectively. When this statistic is combined with the power formula equating change in mean speed to crash risk, it is evident that lowering the speed limit will reduce crash risk, and raising the speed limit will increase crash risk.
+
+Whether the safety gains/losses associated with the change in the speed limit is worthwhile must be examined in the context of maintaining reasonable mobility, and other system objectives. In addition, the policy context must be considered because the relationship between travel speed and speed limits indicates that the percentage of violators increases when speed limits are lowered and decreases when speed limits are increased.
+
+SPEED LIMIT BASICS
+
+Setting speed limits in the United States has always been a responsibility of State and local governments. The unrestricted freedom to exercise that authority was interrupted by the Federal Government during World War II, and more recently with the National Maximum Speed Limit of 55 mph (90 km/h). The National Maximum Speed Limit was repealed in 1995.
+
+Every State has a basic speed statute requiring drivers to operate their vehicles at a speed that is reasonable and prudent for conditions. This basic rule is contained in the Uniform Vehicle Code (UVC), which provides a model set of motor vehicle laws to encourage uniformity in State traffic regulation. State statutes authorize maximum speed limits that may vary by highway type (e.g., interstate highways) or location (e.g., urban district).11
+
+The UVC is a set of model traffic laws that was originally developed by the National Committee on Uniform Traffic Laws and Ordinances (NCUTLO), a now defunct, private, non-profit organization. The NCUTLO's members were mainly State governments and some related organizations. The extent to which the code is used varies by State. The UVC and most State motor vehicle laws include a basic speed law with wording similar to the following: No person shall drive a vehicle at a speed greater than is reasonable and prudent under the conditions and having regard for the weather, visibility, traffic, and the surface and width of the roadway.11
+
+Section 11-803 of the UVC recommends States establish speed zones upon the basis of an engineering and traffic investigation. Section 11-804 outlines recommended practices on how local authorities may alter maximum limits.12
+
+Article VIII—Speed Restrictions 11-801—Basic rule No person shall drive a vehicle at a speed greater than is reasonable and prudent under the conditions and having regard to the actual and potential hazards then existing. Consistent with the foregoing, every person shall drive at a safe and appropriate speed when approaching and crossing an intersection or railroad grade crossing, when approaching and going around a curve, when approaching a hill crest, when traveling upon any narrow or winding roadway, and when special hazards exist with respect to pedestrians or other traffic or by reason of weather or highway conditions. (Revised, 1968) Uniform Vehicle Code and Model Traffic Ordinance, 2000, National Committee on Uniform Traffic Laws and Ordinances, Evanston, Illinois.
+
+Types of Speed Limits
+
+Speed limits may be classified as default/statutory regulations, or speed zoning regulations established on the basis of engineering studies. In all cases, a speed limit must be legislated (i.e., established by legislative authority).
+
+Statutory Speed Limits
+
+Statutory limits are based on the concept that uniform categories of highways can operate safely at certain maximum speeds under ideal conditions. State motor vehicle laws specify speed limits on specific categories of streets and highways. For example, a vehicle code might limit speeds to 25 mph (40 km/h) in residential areas, 30 mph (50 km/h) in business districts, and 55 mph (90 km/h) on all other roads. Generally, statutory limits apply throughout a political jurisdiction.11 Table 1 contains examples of statutory limits for three States and for the Uniform Vehicle Code.
+
+Table 1. Examples of Speed Limit Statutes
+
+Jurisdiction Speed Limit Statute Uniform Vehicle Code 55 mph (90 km/h) in locations other than urban districts 35 mph (60 km/h) in urban districts Delaware Where no special hazard exists, the following speeds shall be lawful, but any speed in excess of such limits shall be absolute evidence that the speed is not reasonable or prudent and that it is unlawful: All types of vehicles: 25 mph (40 km/h) in any business district 25 mph (40 km/h) in any residential district 20 mph (30 km/h) at all school zones where 20 mph (30 km/h) regulatory signs are in effect during specific periods 50 mph (80 km/h) on 2-lane roadways 55 mph (90 km/h) on 4-lane roadways and on divided roadways Minnesota 10 mph (15 km/h) in alleys 30 mph (50 km/h) on streets in urban districts 70 mph (110 km/h) on rural interstate highways 65 mph (105 km/h) on urban interstate highways 65 mph (105 km/h) on expressways 55 mph (90 km/h) on other roads Oregon 15 mph (25 km/h) - alleys; narrow residential roadways 20 mph (30 km/h) - business districts, school zones 25 mph (40 km/h) - residential districts, public parks, ocean shores 55 mph (90 km/h) - open rural highways, trucks on interstate highways 65 mph (105 km/h) - passenger vehicles, light trucks, motor homes, and light duty commercial vehicles on interstate highways.
+
+Statutory speed limits allow for speed limits to be in effect even when it is not practical to post them.
+
+There are two types of statutory speed limits: (a) absolute limits and (b) prima facie limits. The principle difference between the two types is whether someone who is charged with driving over the speed limit can defend her/his actions. An absolute speed limit is a limit above which it is unlawful to drive regardless of roadway conditions, the amount of traffic, or other influencing factors. There is no recourse to contend a charge. A prima facie speed limit is one above which drivers are presumed to be driving unlawfully but, if charged with a violation, they may contend that their speed was safe for conditions existing on the roadway at that time. And, therefore, that they are not guilty of a speed limit violation.
+
+Prima facie limits provide greater flexibility to drivers to determine an appropriate speed for conditions and place a greater burden of proof on the enforcement community that a violation has occurred.
+
+Approximately two-thirds of the States have absolute speed limits.11
+
+Speed Zones
+
+Where statutory limits do not fit specific road, traffic, or land uses conditions, most road authorities have the power to establish speed zones to reflect the safe maximum reasonable speed. These alternative speed limits may be higher or lower than those prescribed by the UVC or the statutory limits of the jurisdiction. Alternative maximum legal speed limits are established by legislating the speed zone, typically founded on the basis of an engineering study, and becoming effective when the limits are posted and properly recorded.11 Agencies process resolutions, traffic control orders, or other formal documents to properly record the legal speed limit. An example of a Traffic Control Order is shown in Appendix B.
+
+To encourage compliance and effectively manage risk, many agencies set speed limits to reflect the "reasonable and prudent" behavior of the majority of motorists acting in an appropriate manner. This encourages drivers to obey the posted speed limit and travel at a reasonable speed. It also targets limited enforcement resources at the occasional violator who disproportionately contributes to crash risk. The concept of a rational speed limit involves a formal engineering review, during which drivers' free-flowing speeds are observed. The assumption is that by reflecting actual driver speeds, most people will consider the speed limit appropriate. Such speed limits are desirable because they encourage public compliance, reduce speed differences among drivers, and offer a defensible enforcement tool.
+
+SETTING SPEED LIMITS
+
+This section describes the main objectives and guiding principles of setting speed limits and provides a detailed description of the principal available methods.
+
+Speed limits are set to inform motorists of appropriate driving speeds under favorable conditions. Drivers are expected to reduce speeds under certain conditions (e.g., poor visibility, adverse weather, congestion, warning signs, or presence of bicyclists and pedestrians). Legislation and statutes generally reflect this requirement. All speed control regulations provide the legal basis for adjudication and sanctions for violations of the law. Road authorities may also post advisory speed signs, which do not have the force of law but warn motorists of suggested safe speeds for specific conditions at a particular location (e.g., a turn or an intersection approach).11 Having stated the above, however, a motorist exceeding an advisory speed could still be cited under the basic speed rule (i.e., driving too fast for the prevailing conditions).
+
+The primary purpose of the speed limit is to advise drivers of the maximum reasonable and safe operating speed under favorable conditions. It provides a basis for enforcement and ought to be fair in the context of traffic law.
+
+Methodologies for setting speed limits typically are designed to result in recommended speed limits that:
+
+Are related to crash risk;
+
+Provide a reasonable basis for enforcement;
+
+Are fair in the context of traffic law; and
+
+Are accepted as reasonable by a majority of road users.
+
+The selected methodology is generally applicable on all road types and capable of being implemented with existing resources.
+
+Factors that affect safe speeds along roadways, and also influence the speed selected by motorists, include:
+
+A vehicle's mechanical condition and characteristics;
+
+Driving ability/capabilities;
+
+Traffic volume: vehicles, pedestrians, and bicycles;
+
+Weather and visibility;
+
+Roadway design elements, including: Road function/purpose; Lane and shoulder width; Horizontal and vertical curves; Available sight distances; Driveways with restricted visibility and other roadside developments; High driveway density; Rural residential or developed areas; and Paved or improved shoulders.
+
+Pavement conditions; and
+
+Crash frequency and severity.
+
+All of these factors should be considered when designing appropriate speed limits at locations where the speed limits need to be varied from the statutory limits. Special situations also exist that necessitate nighttime, school zone, work zone, minimum and variable speed limits or advisory speeds.
+
+The above-mentioned factors to be considered in selecting a speed limit are also heavily influenced by geometric design features of the road and roadside development/activity. This is largely because drivers tend to select operating speeds based on the visual scene presented to them. Therefore, the speed limit and design of the road must work in concert if desired operating speeds are to be achieved.
+
+Due to the lack of specific guidance and procedures from the Manual on Uniform Traffic Control Devices (MUTCD) and other documents, engineers often rely on their experience and judgment when considering factors that affect decisions about setting appropriate speed limits. The use of subjective procedures by decision-makers with various levels of experience, and the use of different procedures across jurisdictions, may lead to inconsistencies in how speed limits are set in different jurisdictions.
+
+Methods of Setting Speed Limits
+
+Within the traffic engineering community, there are four general approaches to setting speed limits:
+
+Engineering approach: A two-step process where a base speed limit is set according to the 85th percentile speed, the design speed for the road, or other criterion. This base speed limit is adjusted according to traffic and infrastructure conditions such as pedestrian use, median presence, etc. Within the engineering approach there are two approaches; 1) Operating Speed Method and 2) Road Risk Method.
+
+A two-step process where a base speed limit is set according to the 85th percentile speed, the design speed for the road, or other criterion. This base speed limit is adjusted according to traffic and infrastructure conditions such as pedestrian use, median presence, etc. Within the engineering approach there are two approaches; 1) Operating Speed Method and 2) Road Risk Method. Expert system approach: Speed limits are set by a computer program that uses knowledge and inference procedures that simulate the judgment and behavior of speed limit experts. Typically, this system contains a knowledge base containing accumulated knowledge and experience (knowledge base), and a set of rules for applying the knowledge to each particular situation (the inference procedure).
+
+Speed limits are set by a computer program that uses knowledge and inference procedures that simulate the judgment and behavior of speed limit experts. Typically, this system contains a knowledge base containing accumulated knowledge and experience (knowledge base), and a set of rules for applying the knowledge to each particular situation (the inference procedure). Optimization: Setting speed limits to minimize the total societal costs of transport. Travel time, vehicle operating costs, road crashes, traffic noise, and air pollution are considered in the determination of optimal speed limits.
+
+Setting speed limits to minimize the total societal costs of transport. Travel time, vehicle operating costs, road crashes, traffic noise, and air pollution are considered in the determination of optimal speed limits. Injury minimization or safe system approach: Speed limits are set according to the crash types that are likely to occur, the impact forces that result, and the human body's tolerance to withstand these forces.
+
+Engineering and expert system approaches are widely used in North America, injury minimization methods are gaining wide-spread use in countries that are at the forefront of global road safety (i.e., Sweden, Australia, etc.). The concept of setting optimal speed limits has been studied by some jurisdictions, but is not known to have been adopted by any road authority. However, the optimal speed limits approach seems applicable within the context of providing context sensitive solutions (CSS)—an approach that considers the total context within which a facility will exist—and has been considered for application on some New Jersey roads.13
+
+(Extended Text Description: Figure 1. Speed Limit Study Process for Engineering and Expert Systems Methods. The figure has four purple-colored text boxes with diagonal sloping tops and bottoms that point in the direction of the adjacent box to the right. Each box to the right is slightly lighter in color tone than the box on the left. The boxes contain the following text, from left to right: The first box has the following text: "Select Study Methodology • Determine issue at hand. • Does the study require a small or large sample? • Select the method for collecting speed data." The second box has the following text: "Select Location • Select the proper location. • Plan the data collection preparations. • Select a day (Tuesday, Wednesday, or Thursday). • Complete the pre-study documentation." The third box has the following text: "Complete Study • Collect the data. • Evaluate the data. • Calculate the speed percentiles. • Develop the limits of the zone. • Develop sign locations." The fourth box has the following text: "Document • Finalize the report. • File the report. • Communicate the results.")
+
+Figure 1. Speed Limit Study Process for Engineering and Expert Systems Methods.
+
+Speed limits set by either an engineering method or an expert system use similar basic tenets. The engineering method is often limited to a basic study, while the expert system approach employs a more structured set of decision and judgment rules. For both methods, the speed limit is determined by considering the existing speed, roadway, and crash information. Figure 1 shows the steps that lead to producing the final report for either an engineering or an expert systems type of speed study.
+
+Speed limit studies are most often undertaken in response to a request for a lower speed limit than currently posted. In some instances, however, the road authority finds itself in the position of recommending a higher speed limit than the one currently posted. In these latter instances, some jurisdictions require a road safety audit be conducted prior to a higher speed limit being approved.14
+
+The following sections detail the steps to setting speed limits using the four methods.
+
+Engineering Approach
+
+The steps in the engineering approach to setting speed limits include planning, coordination, data collection and analysis, and finally, determination of the speed limits. A traffic engineering study is the observation and analysis of road and traffic characteristics to guide the application of traffic engineering principles. The study of speed limits includes the following:
+
+Review of the road's environment, features, and condition and traffic characteristics.
+
+Observation and measurement of vehicle speeds at one or more representative spots along the road in ideal weather and under free-flowing traffic conditions.
+
+Analysis of vehicle speeds to determine 85th percentile speed and other characteristics.
+
+Review of the road's crash history.
+
+Review of any unusual conditions not readily apparent.
+
+Setting speed limits is complex and often controversial. The engineering approach requires the use of engineering judgment based on the engineering and traffic investigation. Quality data and good documentation provides support for the judgments that are made.
+
+Within the engineering approach to setting speed limits there are two basic methods: the operating speed method and the road risk method. Each of these is detailed below.
+
+Operating Speed Method
+
+Most engineering approaches to speed limit setting are based on the 85th percentile speed—the speed at which 85 percent of free-flowing traffic is traveling at or below. The typical procedure is to set the speed limit at or near the 85th percentile speed of free-flow traffic. Adjustments to either increase or decrease the speed limits may be made depending on infrastructure and traffic conditions.
+
+Setting a speed limit based on the 85th percentile speed was originally based on safety. Specifically, research at the time had shown that traveling at or around one standard deviation above the mean operating speed (which is approximately the 85th percentile speed) yields the lowest crash risk for drivers. Furthermore, crash risk increases rapidly for drivers traveling two standard deviations or more above or below the mean operating speed. Therefore, the 85th percentile speed separates acceptable speed behavior from unsafe speed behavior that disproportionately contributes to crash risk.*
+
+The 85th percentile speed method is also attractive because it reflects the collective judgment of the vast majority of drivers as to a reasonable speed for given traffic and roadway conditions. This is aligned with the general policy sentiment that laws (i.e., speed limits) should not make people acting reasonably into law-breakers. Setting a speed limit even 5 mph (8 km/h) below the 85th percentile speed can make almost half the drivers illegal; setting a speed limit 5 mph (8 km/h) above the 85th percentile speed will likely make few additional drivers legal.
+
+Under the operating speed method of setting speed limits, the first approximation of the speed limit is to set the speed limit at the 85th percentile speed. The MUTCD recommends that the speed limit be within 5 mph (8 km/h) of the 85th percentile speed of free-flowing traffic. The posted speed limit shall be in multiples of 5 mph15, or 10 km/h for jurisdictions that employ metric.22
+
+While the MUTCD recommends setting the posted speed limits near the 85th percentile speed, and traffic engineers say that agencies are using the 85th percentile speed to set speed limits, in reality the speed limit is often set much lower. At these locations, the 85th percentile operating speeds exceed the posted speed limits; and, in many cases, the 50th percentile operating speed is either near or exceeds that posted speed limit as well.16 Many agencies deviate from their agency's written guidelines and instead post lower speed limits. According to an ITE Engineering Council Technical Committee survey, these reduced speed limits are often the result of political pressures.17 However, it is important to note that setting speed limits lower than 85th percentile speed does not encourage compliance with the posted speed limit. 6
+
+* The original research between speed and safety which purported that the safest travel speed is the 85th percentile speed is dated research and may not be valid under scrutiny. See the section titled "The Safety of Speed" for a synopsis of current thinking on the relationship between speed and safety.
+
+The 85th percentile speed can be adjusted on the basis of engineering and traffic investigation. The following are typical adjustments made by several States:
+
+Adjustments made for roadway factors and/or crash data may be lower than the 85th percentile speed, but normally no more than 7 mph (11 km/h) lower. 18
+
+Adjustments for roadway factors may reduce the 85th percentile speed by as much as 10 mph (16 km/h) below the 85th percentile speed based on sound and generally accepted engineering judgment that includes consideration of the following factors: Narrow roadway pavement widths (20 feet (6 m) or less, for example). Horizontal and vertical curves (possible limited sight distance). Driveways with restricted visibility and other developments (possible limited sight distance). High driveway density (the higher the number of driveways, the higher the potential for encountering entering and turning vehicles). Rural residential or developed areas (higher potential for pedestrian and bicycle traffic). Narrow shoulder widths (constricted lateral movement).
+
+If the crash rate for a two-year period is much higher than the average for other highways of similar classifications, adjustments are considered. 18
+
+Adjustments can be made based on crash data when enforcement agencies will assure a degree of enforcement that will make the speed zone effective. 19
+
+A 12 mph (20 km/h) reduction for locations where roadway factors and crash rates are higher than the statewide average.19
+
+After the 85th percentile speeds and zone lengths have been selected, some jurisdictions recommend that several test runs be made through the area in both directions driving at the selected speeds. This should show any irregularities in the zoning that need correction before the speed zone is implemented.19
+
+The last step in the analysis process for the operating speed method is to draw conclusions based on the observed data and to prepare a report. The report can be elaborate or very basic depending on why the study was performed and how the results will be used.
+
+The use of the 85th percentile speed as the primary criterion for selecting a suitable speed limit is founded on the following fundamental concepts deeply rooted in government and law:
+
+Driving behavior is an extension of social attitude, and the majority of drivers respond in a safe and reasonable manner as demonstrated by their consistently favorable driving records.
+
+The normally careful and competent actions of a reasonable person should be considered legal.
+
+Laws are established for the protection of the public and the regulation of unreasonable behavior on the part of individuals.
+
+Laws cannot be effectively enforced without the consent and voluntary compliance of the public majority.20
+
+The operating speed method has the added advantage that a properly set speed limit will provide residents, businesses, and pedestrians with a realistic expectation of actual vehicular speeds on the street.
+
+Criticisms of the operating speed method of setting speed limits are largely targeted at the use of the 85th percentile speed as the starting point for establishing the speed limit. They include:
+
+This criterion assumes that motorists are aware of and select the safest speed.
+
+Drivers are generally bad at accounting for the externalities of their driving.
+
+A further criticism that has been leveled against the 85th percentile speed as a primary determinant of the speed limit is that this practice may lead to an upward drift or creep in average operating speeds over time.52
+
+The engineering approach to setting speed limits has manifested itself in North America as the setting of "rational" speed limits. The premise is that speed limits based on a formal, analytical review of traffic flow, roadway design, local development, and historical crash data will result in a high percentage of drivers complying with the speed limit and traveling at about the same speed.
+
+Despite wide-spread use of the operating speed method for setting speed limits in North America, there are few jurisdictions that have quantitative criteria for the adjustments to the 85th percentile speed. For example, how much should a speed limit be reduced if there is a high volume of pedestrian traffic on the street? For the most part, the analyst is to use "engineering judgment" to make such valuations. Two notable exceptions to the qualitative procedures are the Policy on Establishing and Posting Speed Limits on the State Highway System by the Illinois Department of Transportation (DOT)21, and the Northwestern Speed Zoning Technique (which is a procedure used by several municipalities).
+
+The Illinois procedure considers access, pedestrian traffic, curbside parking, and safety performance, in addition to existing speed profile to establish the recommended speed limit. Specific numerical adjustments are specified in the procedure for each of the above criterion. The Illinois procedure is described in Appendix C.
+
+The Northwestern Speed Zoning Technique is similar to the Illinois DOT procedure mentioned above, but it considers a wider range of traffic and infrastructure factors including presence of a median, lane width, vertical alignment, etc. Again, numerical direction is provided concerning the adjustments that are required for different road features, making the process repeatable and reliable. The Northwestern Speed Zoning Technique is detailed in Appendix D.
+
+Road Risk Method
+
+Another method of setting speed limits using an engineering approach is the road risk method in which the speed limit is determined by the risks associated with the physical design of the road and the expected traffic conditions. This method has numerous guises, but the core methodology is to set the speed limit according to the function or classification of the road (which also tends to dictate the design of the road), and then to adjust the speed limit based on the relative risk introduced by various road and roadside design features. This method is currently employed by Canada and New Zealand.
+
+The road risk method is the same as the operating speed method in that a selected base speed limit is adjusted by various factors to determine the recommended speed limit. The main difference between the two engineering methods is that the operating speed method uses the 85th percentile speed as the base speed limit, and the road risk method uses a base speed limit that is predicated on the functional classification of the road and its setting.
+
+Under the road risk method to setting speed limits the level of roadside development and the function of a road are the primary determinants of the appropriate speed limit.14 Although road geometry is also a factor in determining a speed limit, it is secondary to roadside development. In situations where the road design encourages users to travel at a higher speed than the speed limit determined by roadside development, engineering techniques should be used to lower vehicle speeds. When a road in a built-up area primarily serves through traffic, engineering and access control techniques should be used to provide safety at the higher speeds that will prevail.14
+
+Table 2 provides the base speed limits for different land use and road classifications as used in the road risk methodology used in Canada.22
+
+Table 2. Base Speed for the Classification and Land Use Combination
+
+Land Use Rural Urban Undivided Divided Undivided Divided 1 lane per direction 2+ lanes per direction 1 lane per direction 2+ lanes per direction 1 lane per direction 2+ lanes per direction 1 lane per direction 2+ lanes per direction Classification Arterial Major 55 mph 60 mph 60 mph 70 mph 50 mph 55 mph (90 km/h) (100 km/h) (100 km/h) (110 km/h) (80 km/h) (90 km/h) Minor 50 mph 55 mph 55 mph 60 mph 45 mph 50 mph (80 km/h) (90 km/h) (90 km/h) (100 km/h) (70 km/h) (80 km/h) Collector Major 45 mph 50 mph 50 mph 55 mph 45 mph 50 mph (70 km/h) (80 km/h) (80 km/h) (90 km/h) (70 km/h) (80 km/h) Minor 35 mph 45 mph 45 mph 50 mph 35 mph 45 mph (60 km/h) (70 km/h) (70 km/h) (80 km/h) (60 km/h) (70 km/h) Local 35 mph 30 mph (60 km/h) (50 km/h)
+
+Lane = through lane
+
+Divided = a median that separates travel lanes of traffic in opposing directions, which may be flush with, raised above, or depressed below adjacent travel lanes
+
+By using the land use and functional classification of the road as the primary determinants of the desirable speed limit, road authorities that use the road risk method are attempting to reconcile the legislated speed of the road with the function of the road.
+
+The road risk method used in New Zealand sets out the method for calculating the speed limit for a section of road from the following information:
+
+The existing speed limit;
+
+The character of the surrounding land environment (e.g., rural, fringe of city, fully developed);
+
+The function of a road (i.e., arterial, collector, or local);
+
+Detailed roadside development data (e.g., number of houses, shops, schools, etc.);
+
+The number and nature of side roads;
+
+Roadway characteristics (e.g., median divided, lane width and number of lanes, road geometry, street lighting, sidewalks, cycle lanes, parking, setback of fence line from the road);
+
+Vehicle, cycle, and pedestrian activity;
+
+Crash data; and
+
+Speed survey data.
+
+The road risk method employed in New Zealand is detailed in Appendix E and includes a working example.
+
+Despite the fact that the road risk method downplays operating speed as a factor in developing the speed limit, it is noted that the road risk method should recommend speed limits that are consistent with operating speeds.
+
+Expert System—USLIMITS2:
+
+An expert system is one approach that can be used to identify the appropriate speed limit for a speed zone. Transportation Research Board's (TRB) Special Report 254 argues that the expert system approach deserves consideration because it provides a systematic and consistent method of examining and weighing factors other than vehicle operating speeds in determining an appropriate speed limit.11
+
+Expert systems aim to mimic the expert's thought process in solving complex problems.
+
+The original expert system for setting speed limits was developed by the Australian Road Research Board and was based on site studies at over 60 locations. The field data were reviewed by a panel of experts who used this information to come up with decision rules for appropriate speed limits for different types of roads and traffic conditions. This information was coded into a computer program which prompts users to respond to a series of questions, which the system uses to recommend a speed limit. It is important to note that the Australian expert system logic is hard coded, and this system does not learn from previous experience, as some other "smart" expert systems do.
+
+Federal Highway Administration (FHWA) developed a knowledge-based expert system for recommending speed limits in speed zones that are considered to be credible and enforceable. The
+
+expert system (known as USLIMITS2) was developed based on results from previous research, responses from practitioners to hypothetical case studies as part of two web-based surveys, input from experts from three panel meetings, and lessons learned from the first generation expert system developed by the Australian Road Research Board for FHWA.
+
+USLIMITS2 is designed to determine speed limits in speed zones on all types of roadways, from rural two-lane segments to urban freeway segments. Speed limits not addressed by the system include statutory limits (such as maximum limits set by State legislatures for interstates and other roadways), temporary or part-time speed limits (such as limits posted in work zones and school zones), and variable speed limits that are raised or lowered based on traffic, weather, and other conditions.
+
+Based on input from the user, USLIMITS2 employs a decision algorithm to advise the user of the speed limit for the specific road section. Appropriate warnings are also provided in a summary report that may suggest that additional information and/or action is necessary to address areas of concern. The system is meant to assist the user in making the speed limit decision for a road segment, but will not make the decision for him or her.
+
+Overview of the Decision Rules and Data Requirements of USLIMITS2
+
+A brief overview of the logic flow and decision rules that are used in the expert system is described in the following section, along with the data requirements. For brevity, flow charts describing the decision rules are not provided here, they are available in the National Cooperative Highway Research Program's (NCHRP) Research Results Digest 318.23 The user is first asked to enter information about the location of the project and then indicate whether the road is a limited access freeway, road section in an undeveloped area, or a road section in a developed area (photographs illustrating the roadway types and definitions are provided in the User Guide, which can be downloaded from http://safety.fhwa.dot.gov/USLIMITS). The following are the roadway types:
+
+Limited access freeway
+
+Road section in undeveloped areas
+
+Road section in developed areas Residential subdivision/neighborhood street Residential collector street Commercial street Street serving large complexes
+
+
+
+After users select the roadway type, they are taken to a window where they are asked to enter the site characteristics. Table 3 shows the site characteristics users are prompted to enter for each road type.
+
+Table 3. USLIMITS2 Data Inputs for Road Types
+
+Road Type Site Characteristics Limited access freeway Operating Speed: 85th percentile speed and 50th percentile speed. Presence/absence of adverse alignment. Is this section transitioning to a non-limited access highway? Section length. Current statutory limit for this type of road. Terrain. Annual average daily traffic. Number of interchanges within this section. Crash statistics (if available). Road sections in undeveloped areas Operating speed: 85th percentile speed and 50th percentile speed. Presence/absence of adverse alignment. Current statutory limit for this type of road. Annual average daily traffic. Roadside hazard rating. Number of lanes and presence/type of median. Crash statistics (if available). Road sections in developed areas Operating speed: 85th percentile speed and 50th percentile speed. Current statutory limit for this type of road. Annual average daily traffic. Presence/absence of adverse alignment. Area type. Number of driveways in the section. Number of traffic signals within the section. Presence/usage of on-street parking. Extent of pedestrian/bike activity. Crash statistics (if available).
+
+For each roadway type, the program calculates a speed limit using one of two approaches:
+
+Approach 1—Based on operating speeds and results from the crash module.
+
+In the crash module, the user is asked to enter the total number of crashes and total number of injury crashes. In addition, the user is asked to enter the average crash rate and the average rate of injury and fatal crashes for similar sections in the same jurisdiction. If data on average rates are not available, the program makes use of average rates calculated with data from eight States that are part of the Highway Safety Information System (HSIS) (http://www.hsisinfo.org). Using the average crash rate and the average rate of injury and fatal crashes, the program calculates the critical crash rate and critical injury rate at a 95 percent level of confidence. If the crash or injury rate is higher than the corresponding critical rates, or at least 30 percent higher than the corresponding average rates, the user is asked to indicate if traffic and geometric measures can reduce the crash and/or injury rate in this section. If the user answers "Yes" to this question, the recommended speed limit from this module is the 5 mph (8 km/h) multiple closest to the 85th percentile speed. If the user answers "No" or "Unknown," the recommended speed limit from this module is the 5 mph (8 km/h) increment obtained by rounding down the 85th percentile speed (if crash or injury rate is at least 30 percent higher than the average rate) or closest to the 50th percentile speed (if the crash or injury rate is higher than the critical rate).
+
+Approach 2—Based on operating speeds and other site characteristics (also called safety surrogates).
+
+The surrogates were chosen based on input from the Expert Panel and evidence (based on previous research) of a relationship between these surrogates and crash statistics. For freeways, safety surrogates include interchange spacing and annual average daily traffic (AADT). Based on the research team's judgment in interpreting the results of the work of Bared et al.,24 recommended speed limits are the following:
+
+If AADT is higher than 180,000 and the average interchange spacing is between 0.5 and 1 mile (0.80 and 1.6 kms), the recommended speed limit from this approach will be the 5 mph (8 km/h) multiple obtained by rounding down the 85th percentile speed.
+
+If AADT is higher than 180,000 and the average interchange spacing is less than 0.5 mile (0.8 kms), the recommended speed limit is the 5 mph (8 km/h) multiple closest to the 50th percentile speed.
+
+For other situations in freeways, the recommended speed limit from this approach will be the 5 mph (8 km/h) multiple closest to the 85th percentile speed.
+
+For road sections in undeveloped areas, the roadside hazard rating25 was selected as the safety surrogate. The recommended speed limits are the following:
+
+For roadside hazard ratings of 1, 2, or 3, the recommended speed limit is the 5 mph (8 km/h) multiple closest to the 85th percentile speed.
+
+For roadside hazard ratings of 4 or 5, the recommended speed limit is the 5 mph (8 km/h) multiple obtained by rounding down the 85th percentile speed.
+
+For roadside hazard ratings of 6 or 7, the speed limit is the 5 mph (8 km/h) multiple closest to the 50th percentile speed.
+
+For road sections in developed areas, extent of pedestrian/bicycle activity, presence/usage of on-street parking, number of traffic signals, and the number of driveways and unsignalized access points were selected as surrogates. Based on the FHWA-sponsored work on the Benefits of Access Management,26 and the opinions of the Expert Panel, the following rules are used to calculate the recommended speed limit for road sections in developed areas:
+
+If at least one of the following is true, the speed limit is the 5 mph (8 km/h) multiple closest to the 50th percentile speed:
+
+Signals per mile > 4.
+
+Pedestrian/bike activity is High (definitions are available in the USLIMITS2 User Guide).*
+
+Parking activity is High (definitions are available in the USLIMITS2 User Guide).*
+
+Driveways per mile > 60.
+
+If Driveways per mile > 40 and <60, and Signals per mile > 3, and Area Type is (commercial or residential-collector) then the speed limit is the 5 mph (8 km/h) multiple obtained by rounding down the 85th.
+
+For all other conditions, the speed limit is the 5 mph (8 km/h) multiple closest to the 85th percentile speed.
+
+The lower value of the speed limit from Approaches 1 and 2 is reported as the recommended speed limit in the output window. The expert system does not recommend speed limits higher than the 5 mph (8 km/h) increment closest to the 85th percentile speed; it also does not recommend speed limits lower than the 5 mph (8 km/h) increment closest to the 50th percentile speed. The system also provides warnings if the 85th percentile speed is unusually low or high for a particular road type.
+
+In the output window, the program provides the recommended speed limit and some additional warnings depending on the site characteristics that were entered by the user. For example, warnings are provided if the following conditions occur:
+
+The length of the section is shorter than the minimum section length for the recommended speed limit.
+
+The final recommended speed limit is higher than the statutory limit for that type of road.
+
+There is adverse alignment in the section.
+
+The crash rate is higher than the critical crash rate or at least 30 percent higher than the average crash rate.
+
+The rate of injury and fatal crashes is higher than the critical injury rate or at least 30 percent higher than the average injury rate.
+
+*Available at http://Onlinepubs.trb.org/onlinepubs/trbnet/acl/NCHRP 0367_FinalReport.pdf.
+
+Appendix F is a sample case study that outlines the data inputs and shows the applicable screens. USLIMITS2 can be accessed through the Internet at http://safety.fhwa.dot.gov/USLIMITS.
+
+Optimal Speeds
+
+The concept of optimal speed limits is one that suggests speed limits that are optimized from a societal perspective considering the impacts that operating speeds have on the various societal objectives. It is recognized that individual drivers, in most instances, do not consider the risks imposed on others by their choice of driving speeds, or on the cumulative effects of their speed choice on the environment (i.e., fuel consumption, emissions, noise, etc.). The optimal speed for an individual driver may be different from the optimal speed for a community.27
+
+Determining socially optimal speed limits is more complicated than calculating speed limits that have been optimized for the individual driver. However, this method is congruent with and considers overall transportation objectives and is thus appealing from a context sensitive solutions (CSS) perspective.
+
+The optimum speed limit is the speed limit that yields the minimum total societal cost, which includes vehicle operation costs, crash costs, travel time costs, and other social costs. This method of setting speed limits is rarely used due to the difficulty of quantifying key variables.
+
+As with any complex topic, whether a system is truly optimal is dependent on the perspective of the analyst. The road user, the taxpayer, the local community, and society all have differing views and values affecting the output of any optimization process. For example, the societal cost of noise caused by motor vehicle operation does not have a fixed price, but has a monetary value that is mainly established by means of stated preference. Motorists would likely place a lower value on noise than a local resident, perhaps leading to different optimal speeds for the same road.
+
+In optimal speed limit setting, a total cost model is developed to express cost per mile of travel as a function of the posted speed limit. The total cost includes crash cost, travel time cost, fuel consumption cost, and vehicle emissions cost. Each of these costs varies with the posted speed limit, and cost curves are obtained based on the relationship between costs and speeds. The optimal speed limit is then determined as the minimum point on the total cost curve. This minimum total cost indicates the minimum social cost of transportation based on a particular set of conditions.
+
+In general, the road user perspective and the taxpayer perspective result in higher speed limits, while the residential perspective results in the lowest. In some cases, particularly for motorways (freeways), variation in the total costs of travel is found to be very small for speeds in the range of 45 to 70 mph (70 to 110 km/h), making the choice of an optimal speed limit in this range almost an individual agency preference.
+
+Optimal speed limits have been explored for use on shared-use roadways in New Jersey.13 This method of setting speed limits seems particularly useful in situations where pedestrians, cyclists, and motorized traffic share the road, and motorists may not be fully aware of the externalities of their speed on other road users—in particular, the harm borne by pedestrians and cyclists when struck by a motor vehicle moving at a rapid speed. The Yang model for calculating the optimal speed limit is shown in Figure 2.
+
+(Extended Text Description: Figure 2. Optimal Speed Limit Process. This figure represents a flow chart with the following structure and text, starting from the top left working down to the bottom: The first box on the top left, "Injury Severity Model for Veh.-Ped./Bic.*" points to a box underneath it, "Injury Severity for Veh.-Ped./Bic." The second box on the top, "Crash Frequency Model for Veh.-Ped./Bic." points to the box underneath it, "Crash Frequency for Veh.-Ped./Bic." The third box on the top, "Injury Severity Model for Veh.-Veh." points to the box underneath it, "Injury Severity for Veh.-Veh." The fourth box on the top, "Crash Frequency Model for Veh.-Veh." points to the box underneath it, "Crash Frequency for Veh.-Veh." The boxes labeled "Injury Severity for Veh.-Ped./Bic." and "Crash Frequency for Veh.-Ped./Bic." both point to the box "Crash Cost for Veh.-Ped./Bic." directly underneath them. The boxes labeled "Injury Severity for Veh.-Veh." and "Crash Frequency for Veh.-Veh." both point to the box "Crash Cost for Veh.-Veh." directly underneath them. The boxes labeled "Crash Cost for Veh.-Ped./Bic." and "Crash Cost for Veh.-Veh." both point to the box "Total Crash Cost" directly underneath them. On the right side of the flow chart another branch of the flow chart begins with "CORSIM Simulation", which points to boxes underneath, from top to bottom, left to right: "Vehicle Travel Time" points to "Travel Time Cost", "Fuel Consumption" points to "Fuel Cost", "Vehicle Emissions" points to "Emissions Cost". Finally, the four boxes, "Total Crash Cost", "Travel Time Cost", "Fuel Cost", and "Emissions Cost" all point to the box "Total Cost" underneath, which then points to the final box on the bottom: "Optimal Speed Limit".)
+
+Figure 2. Optimal Speed Limit Process.13
+
+*Vehicle-Pedestrian/Bicycle
+
+In addition to the difficulty of achieving consensus on the costs, another characteristic of the optimal speed methodology is that proposed speed limits may not be immediately apparent to road users, they may not be congruent with the design of the road, and ultimately may result in an inordinate percentage of drivers exceeding the speed limit.
+
+The optimal speed limit methodology has also been considered as an appropriate method of setting seasonal speed limits in jurisdictions with snow. The calculation showed that it is possible to apply the optimal speed limits to all road and traffic conditions, except for urban expressways for which the optimal speed limit obtained was too low to be viable.
+
+Injury Minimization
+
+The cornerstone of the injury minimization approach to setting speed limits is the tolerance of the human body to injury during a crash. It is based solely on a road safety platform and takes the position that it is unethical to create a situation where fatalities are a likely outcome of a crash in order to reduce delay, fuel consumption, or other societal objectives.
+
+The principal challenge in an injury minimization approach to speed limits is to manage crash energy so that no user is exposed to impact forces capable of causing death or serious injury. Thus vehicles cannot legally travel at speeds where, in the event of a crash, the release of kinetic energy can produce a serious or fatal injury.28 Under the current road system and vehicle fleet, this would limit speeds to those shown in Table 4.
+
+Table 4. Speed Limits for Injury Minimization (Adapted from Reference 28)
+
+Road type Speed Limit, mph (km/h) Roads with a mix of motorized and unprotected road users (i.e., pedestrians and cyclists) 20 (30) Roads with uncontrolled access where side impact crashes can result 30 (50) Undivided roads where head-on crashes can result 45 (70) Controlled access facilities with a physical median separation, where at-grade access and non-motorized road users are prohibited >60 (>100)
+
+A safe system strategy does not imply that crashes are caused solely (or even mainly) by speed and it recognizes that any given crash event is likely to be the result of an interplay of many factors. Accordingly, a safe system approach requires that all aspects of the system work together for the safest possible outcome, with speed representing but one component, albeit a critical one.28
+
+The injury minimization approach to speed limit setting results in speed limits that are lower than those traditionally used in North America (which are generally set by engineering and expert system methods). Thus implementing an injury minimization approach to speed limits would be problematic. The road authority cannot simply lower the speed limit and expect immediate or substantial compliance. Drivers are unlikely to fully respond except in the face of almost constant enforcement.
+
+As mentioned throughout this report, speed limits need to be credible—they must generally reflect driver expectancies regarding travel speed. So while obtaining safe travel speeds is the prime objective of the injury minimization approach (as well as the major challenge), it should be noted that many jurisdictions need to understand they are starting from a point where driver expectancies result in operating speeds that are higher than the target speeds of an injury minimization approach.
+
+In order to achieve safe speeds and make the associated speed limits credible for the driving population, road authorities need to:
+
+Make the road and its environment more "self-explaining" through traffic control devices, publicity and education campaigns, and reconstruction where required; and
+
+Build a case over time for a new paradigm as to what is regarded and legislated as a safe speed limit for the street network.
+
+A summary of each method for setting speed limits and the advantages and disadvantages of each are shown in Table 5.
+
+Table 5. Approaches to Setting Speed Limits
+
+Approach Jurisdictions Basic Premise Data Required Advantages Disadvantages Engineering (Operating Speed) United States The speed limit is based on the 85th percentile speed, and may be slightly adjusted based on road and traffic conditions and crash history. The existing speed profile as well as data on accesses, pedestrian/bicycle traffic, curbside parking, safety performance, etc. Using the 85th percentile speed ensures that the speed limit does not place an undue burden on enforcement, and provides residents and businesses with a valid indication of actual travel speeds. Drivers may not be adequate judges of the externalities of their actions, and may not be able to self-select the most appropriate travel speed. Speed limits are often set lower than the 85th percentile speed. Engineering (Road Risk) Canada, New Zealand The speed limit is based on the function of the road and/or the adjacent land use and then adjusted based on road and traffic conditions and crash history. Functional classification of the road, setting (urban/ rural), surrounding land uses, access, design features of the road. The speed limit and the function of the road are aligned. The function of the road also dictates many of the design elements of the road, so this method aligns the speed limits with the design of the road. The road risk methods may result in speed limits that are well below the 85th percentile speeds, resulting in an increased burden on enforcement if remedial measures are not employed (i.e., traffic calming, etc.). Expert System United States, Australia Speed limits are set by a computer program that uses knowledge and inference procedures that simulate the judgment and behavior of speed limit experts. Data needs depend on the system, but generally expert systems require the same data as used in the engineering approaches. A systematic and consistent method of examining and weighing factors other than vehicle operating speeds in determining an appropriate speed limit. It is reproducible and provides consistency in setting speed limits within a jurisdiction. Practitioners may need to rely on output from the expert system without applying a critical review of the results. Optimal Speed Limits -- The selected speed limit minimizes the total societal costs of transport when considering travel time, vehicle operating costs, road crashes, traffic noise, air pollution, etc. Cost models and input data to account for air pollution, crashes, delay, etc. Provides a balanced approach to setting speed limits that is considerate of many (if not all) of the impacts that speed has on society. Allows for the consideration of pedestrian and cyclist traffic in setting speed limits. May be particularly useful in a context sensitive situation. Data collection and prediction models may be difficult to develop and are subject to controversy among professionals. Resulting speed limits may not be immediately obvious to the user. Injury Minimization/ Safe System Sweden, Netherlands Speed limits are set according to the crash types that are likely to occur, the impact forces that result, and the tolerance of the human body to withstand these forces. Crash types and patterns for different road types, and survivability rates for different operating speeds. There is a sound scientific link between speed limits and serious crash prevention. Places a high priority on road safety. This method is based solely on a road safety premise and may not be accepted as appropriate in some jurisdictions.
+
+Minimum Length of Speed Zones
+
+The length of any section or zone set for a particular speed is typically as long as possible and still consistent with the underlying methodology. Applying minimum road lengths aims to prevent having frequent changes in speed limit along a road with varying characteristics. This section discusses the approaches several jurisdictions take in determining speed zone length.
+
+Massachusetts and Ohio both recommend that the minimum length of a new zone, not contiguous to an existing speed zone, be greater than or equal to 0.5 miles (0.8 kms) in length.18,29 Extensions of existing warranted zones may be shorter. In rural areas of Massachusetts, each zone in a series of graduated speed zones normally is at least 0.2 miles (0.3 kms) in length, and, if the speed limit is reduced from one zone to the next by 15 mph (25 km/h) or greater, a REDUCED SPEED AHEAD sign is erected in advance of the lower limit in order to inform motorists to adjust their speeds accordingly.18
+
+The State of Florida has no required minimum length for any speed zone, rather it is suggested that engineering judgment be applied. With respect to graduated speed limits, the Florida guidelines indicate that the buffer speed zones should not be so short that they require a driver to apply his/her brakes to comply with the posted speed limit.30
+
+Graduated or buffer zones may be used on approaches to cities and towns to accomplish a gradual reduction of highway speeds to the speed posted at the city limits. The change in speed between two adjacent zones should not normally be greater than 15 mph (24 km/h), because the change in speed would be too abrupt for driver observance. If adjacent 85th percentile speeds show an abrupt change of more than 15 mph (24 km/h), Texas requires graduated zones, and recommends that a transition zone of approximately 0.2 miles (0.3 kms) or more in length should be used.19
+
+States may specify the minimum incremental length of a speed zone. For example, Massachusetts requires all zones to be computed to the nearest tenth of a mile (0.16 kms).18
+
+In Texas, school zones are exceptions and may be as short as reasonable in urban areas, depending on approach speeds. School zones in urban areas where speeds are 30 mph (50 km/h) or less may have school zones as short as 200 to 300 feet (60 to 90 meters).19
+
+Alaska's general rule for speed zone length is that the minimum length of a speed zone is the distance traveled in 25 seconds at the posted limit. While speed limit changes in Alaska are permitted in increments of 5, 10, or 15 mph (8, 16, or 24 km/h), it is preferable to use 10 or 15 mph (16 or 24 km/h) changes with relatively long zones rather than multiple short zones with 5 mph (8 km/h) increments. When multiple speed studies made on a continuous segment of road result in 85th percentile speeds within 5 mph (8 km/h) of each other, the results are typically averaged to minimize the number of speed limit changes. It may be helpful to plot a speed profile along a road using the 85th percentile speeds from the spot speed checks. Different combinations of speed zone lengths and speed limit change increments may then be compared to see which combination minimizes the number of speed limit changes while still conforming as closely as practical to spot speeds.31
+
+The Canadian guidelines for setting speed limits recommend a minimum length of speed zone of 0.6 miles (one kilometer) where the speed limit is 45 mph (70 km/h) or higher. Shorter lengths may be used at slower speeds, but speed zone lengths of less than one-third of a mile (500 meters) should be avoided.22
+
+Practice in Australia and New Zealand is to vary the minimum length of a speed zone with the proposed speed limit. To provide reasonable consistency while avoiding excessive variations in speed limits, a balance needs to be achieved between:
+
+Roadside development;
+
+Road environment; and
+
+The number of changes of speed limit.
+
+The desirable minimum typical lengths, shown in Table 6, have been developed with these needs in mind.32
+
+Table 6. Minimum Lengths of Speed Zones in New Zealand
+
+Speed Limit, mph (km/h) Minimum Length of Zone, miles (km) 25 (40) 0.1 (0.2) 30 (50)* Not applicable** 30, 35 (50, 60) 0.3 (0.5) 45, 50, 55 (70, 80, 90) 1.25 (2.0) 60 (100) 2.0 (3.0) 70 (110) 6.0 (10.0)
+
+*This is the urban default limit.
+
+**If urban default limit is used the minimum length of the zone is not used in this procedure.
+
+The level of development should be reasonably consistent along the entire length of a speed limit, especially in areas with sparse development. For example, it is not appropriate to install a 0.3 mile (500 m long), 45 mph (70 km/h) speed restriction in a rural area if the only development is located in a 300-foot (100 m) section of road in the middle of the proposed speed limit. In these circumstances, road users see no reason for the change in speed limit, compliance will be poor, variations in operating speeds will increase, and judgments of speed and distance become more difficult for all road users. Such conditions will usually contribute to a reduction in safety, especially for pedestrians and cyclists.14
+
+Table 7. Minimum Length of Road for a Speed Limit14
+
+Speed Limit, mph (km/h) Nature of Road and Adjacent Speed Limits Minimum Length, miles (kms) 30 (50) Urban street, adjacent speed limits 45 mph (70 km/h) or less. Urban fringe, adjacent speed limits greater than 45 mph (70 km/h). 0.3 (0.5) 0.6 (1.0) 35 (60) Urban arterial route, adjacent speed limits 50 mph (80 km/h) or less. Other situations. 0.6 (1.0) 0.3 (0.5) 45 (70) Partly built-up, adjacent speed limits 50 mph (80 km/h) or less. Other situations. 0.6 (1.0) 0.3 (0.5) 50 (80) Arterial route, adjacent speed limits 45 mph (70 km/h) or less. Other situations. 0.6 (1.0) 0.5 (0.8) 60 (100) All situations. 1.2 (2.0)
+
+All boundary points between speed limits must be at, or close to, a point of significant change in the roadside development or the road environment to emphasize the change in speed limit. Appropriate locations include a marked change in the level or type of roadside development, a change in the road geometry, a bridge, a threshold or other feature that affects speed (e.g., a roundabout or a curve). A threshold treatment may be necessary to reinforce a change in the speed limit where there is no obvious change in the road environment.
+
+Special Situations
+
+Several situations not covered earlier in this document are covered in this section. Certain geometric conditions, school zones, and work zones are examples of situations that may require considerations in addition to the concepts already presented.
+
+Advisory Speeds
+
+Advisory speeds are used on short sections of road where the physical conditions of the roadway restrict safe operating speed to something lower than the maximum legal speed (e.g., a horizontal curve). Advisory speeds are typically used because the feature that dictates the lower speed is isolated, and it is not feasible or desirable to adjust the legal speed for a short section of road. The posted regulatory speed limit is not lowered to conform to the advisory speed. Similarly, an advisory speed within a regulatory speed zone is not posted if the advisory speed is higher than the posted speed limit.
+
+In erecting advisory speed signs, care should be taken not to install a regulatory speed limit sign so near the advisory speed sign that drivers may become confused by two different speed values. More importantly, regulatory speed signs should not be located between an advisory speed sign and the location to which the advisory speed applies.19 The separation between signs should be in accordance with the MUTCD.
+
+The most common use of advisory speeds is on horizontal curves. More information on advisory speeds can be found in the ITE Informational Report Methodologies for the Determination of Advisory Speeds and the FHWA handbook Procedures for Setting Advisory Speeds on Curves.38, 49
+
+Nighttime Speed Limits
+
+Speeds are normally posted on the basis of daylight speed values determined under good weather conditions. It is permissible, however, for different day and night speeds to be posted for speed zones where it can be shown to be necessary by an engineering study.
+
+Nighttime speed limits generally begin 30 minutes after sunset and end 30 minutes before sunrise, although this may vary by jurisdiction. Nighttime speed limits are generally established on roads where safety problems require a speed lower than what is prescribed by the daytime limit, and the operating speed that is self-selected by drivers. Examples of roads that might require nighttime speed limits are non-illuminated roads with relatively high operating speeds and an overrepresentation of crashes during "dark" environmental conditions, or roads crossing the routes and movement patterns of large-sized, nocturnal wildlife.
+
+Where different speed limits are prescribed for day and night, both limits shall be posted. A Night Speed Limit sign (R2-3)* may be combined with or installed below the standard Speed Limit (R2-1) sign.15
+
+School Zone Speed Limits
+
+Reduced speed limits should be considered for school zones during the hours when children are going to and from school. Usually such school speed zones are only considered for schools located adjacent to highways or visible from highways. However, school-age pedestrian activity should be the primary basis for implementing reduced school zone speed limits. This includes irregular traffic and pedestrian movements that may result from children being dropped off and picked up from school.19
+
+A review of U.S. State school zone speed limits showed that most States use a school zone speed limit of 15 to 25 mph (25 to 40 km/h) in urban and suburban areas, with 20 mph (30 km/h) being the most common.39 VicRoads Australia proposes the following:
+
+Outside schools on 30 mph (50 km/h) roads: A permanent 25 mph (40 km/h) speed limit. In some special cases, such as on high traffic volume streets, a time-based 25 mph (40 km/h) limit may be applied.
+
+Outside schools on 35 and 45 mph (60 and 70 km/h) roads: A time-based 25 mph (40 km/h) speed limit that is in effect during school entry and exit times on school days.
+
+Outside schools on 50, 55 and 60 mph (80, 90 and 100 km/h) roads: A time-based 35 mph (60 km/h) speed limit that is in effect during school entry and exit times on school days.40
+
+Since school zone speed limits are active only for certain times of the day, it is desirable that the school zone speed limit be no more than 12 mph (20 km/h) below the speed limit on the approaches. This removes the requirement for a MAXIMUM SPEED AHEAD sign (which would only be valid when the SCHOOL ZONE MAXIMUM SPEED sign is activated).41
+
+*Numbers in parentheses refer to the corresponding sign number in the MUTCD.
+
+Ultimately, school zone speed limits, like other speed limits, ought to be based on an engineering study and traffic investigation to determine whether they are warranted, as well as an appropriate reduced speed limit for the study area. The investigation normally considers factors such as existing traffic control, whether school crosswalks are present, the type and volume of vehicular traffic, the ages and volume of school children likely to be present, and the location of children in relation to motorized traffic. The most common factors considered in the engineering study are:
+
+Children walking along or crossing the roadway;
+
+Fencing around school property;
+
+Number and size of gaps in traffic for school-age pedestrians to cross the street;
+
+Presence of crossing guards;
+
+Average pedestrian demand per appropriate gap;
+
+Student enrollment at the school;
+
+Location of school property (i.e., abutting the road allowance or visible from street); and
+
+Presence of sidewalks.
+
+A School Speed Limit assembly or a School Speed Limit (S5-1) sign shall be used to indicate the speed limit where a reduced speed zone for a school area has been established (in accordance with law based upon an engineering study) or where a speed limit is specified for such areas by statute.15 The School Speed Limit assembly or School Speed Limit sign shall be placed at, or as near as practical, the point where the reduced speed zone begins. According to the MUTCD, the reduced speed zone should begin either at a point 200 ft (120 m) in advance of the school grounds, a school crossing, or other school-related activities. This distance should be increased if the reduced school speed limit is 30 mph (50 km/h) or more below the speed limit on the approach.15 Local regulations may provide more stringent guidance, requiring greater distances than specified above.
+
+The School Speed Limit assembly shall be either a fixed-message sign assembly or a changeable message sign. The fixed-message School Speed Limit assembly shall consist of a top plaque (S4-3P) with the legend SCHOOL, a Speed Limit (R2-1) sign, and a bottom plaque (S4-1P, S4-2P, S4-4P, or S4-6P) indicating the specific periods of the day and/or days of the week that the school speed limit is in effect.15
+
+A Reduced School Speed Limit Ahead (S4-5, S4-5a) sign is normally used to inform road users of a school zone speed limit where the speed limit is 10 mph (15 km/h) or more below the speed limit on the approach road, or where engineering judgment indicates that advance notice is appropriate. If used, the advance warning assembly is typically installed not less than 150 ft (45 m) nor more than 700 ft (210 m) in advance of the school grounds or school crossings.
+
+The end of an authorized and posted school speed zone shall be marked with an End School Speed Limit (S5-3) sign and may be marked with a standard Speed Limit sign showing the speed limit for the section of highway that follows.15
+
+Work Zone Regulatory Speeds
+
+Traffic control in work sites is designed on the assumption that drivers will only reduce their speeds if they clearly perceive a need to do so; therefore, reduced speed zoning ought to be avoided as much as practicable. Speed Limit signs are erected only for the limits of the section of roadway where speed reduction is necessary for the safe operation of traffic and protection of construction personnel. The reduced speed limits are effective only within the limits where signs are erected. If reduced speed limits are not necessary for the safe operation of traffic during certain construction operations or those days and hours when the contractor is not working, the regulatory construction Speed Limit signs are typically made inoperative. In selecting the speeds to be posted, consideration is given to safe stopping sight distances, construction equipment crossings, the nature of the construction project, and any other factors which affect the safety of the traveling public and construction workers.
+
+The regulatory Speed Limit sign (R2-1) shall be used.19
+
+Truck Speed Limits
+
+Speeds are normally posted on the basis of all motorized traffic. It is permissible, and in some cases desirable, for trucks and other heavy commercial vehicles to have different (i.e., lower) maximum speeds than passenger cars. The need for a lower speed limit for trucks is primarily demonstrated as necessary by an engineering study considering factors such as magnitude and length of roadway grades, horizontal curvature, etc. Where different speed limits are prescribed for trucks and passenger cars, both limits shall be posted. A Truck Speed Limit sign (R2-2) may be combined with or installed below the standard Speed Limit (R2-1) sign.15
+
+The safety effectiveness of differential speed limits for trucks is inconclusive.
+
+Minimum Speed Limits
+
+Minimum speed limits are generally justified when studies show that slow-moving vehicles on any part of a highway consistently impede the normal and reasonable movement of traffic to such an extent that they contribute to unnecessary lane changing or passing maneuvers. The maximum speed limits and the need for minimum speed limits must be determined from the same speed check data. Whenever minimum speed zones are used, the minimum posted speed should be within 5 mph (8 km/h) of the 15th percentile value.19 The Minimum Speed Limit (R2-4) sign may be installed below a Speed Limit (R2-1) sign to indicate the minimum legal speed. If desired, these two signs may be combined on one sign panel (R2-4a).15
+
+Variable Speed Limits
+
+Variable speed limits are speed limits that change, using dynamic sign messages, based on road, traffic, and weather conditions. Variable speed limits offer considerable promise in restoring the credibility of speed limits and improving safety by restricting speeds during adverse conditions. Variable speed limit systems may use sensors to monitor prevailing traffic and/or weather conditions, and input from transportation professionals and law enforcement in posting appropriate enforceable speed limits on dynamic message signs.
+
+The most common conditions that warrant variable speed limits are traffic congestion, road construction, incident management, fog, snow, ice, and other weather-related situations.
+
+Variable speed limits are being successfully used in Europe, and are used or are being tested by several State departments of transportation such as Colorado, New Jersey, Utah, Washington, and Wyoming. The speed limit that is to be posted depends on the purpose for installing the variable speed limit. In cases where congestion or post-incident management are the impetus for use, the recommended speed limit for the condition is generally a function of the average speed of traffic, and an attempt to minimize speed differentials in the traffic stream. Weather-related variable speed limits often are determined by an algorithm that uses data gathered from road weather monitoring stations.
+
+Transition Zone Speed Limits
+
+Transition zone speed limits are generally considered when there is a speed reduction of more than 25 mph (40 km/h) between adjacent zones, and may be considered at other locations if a field assessment has determined that a transition zone speed limit may improve safety or traffic operations. The following factors may be considered in determining the need for a transition zone speed limit:
+
+Roadway operating speeds in advance of speed reduction.
+
+Existing operational/safety issues (i.e., due to speed differential between vehicles, speed exceeding that which is considered suitable for the roadway environment).
+
+History of overly aggressive braking at the entrance to the reduced speed limit area.
+
+Low speed limit compliance in the lower speed limit area.
+
+Expected compliance with a transition speed zone (i.e., will motorists perceive it to be justified by the surrounding roadway environment?).
+
+In situations where rural roads approach and continue through urban areas and villages, there is a need for a commensurate reduction in the speed limit that reflects the change in the roadway and the roadside character. In many instances these speed transitions can be sizable, and the road authority needs to post an intermediate or transition zone speed limit to assist drivers in slowing down.
+
+Transition zone speed limits are typically set to divide the overall speed reduction approximately in half. For instance, a speed limit decrease from 60 mph (100 km/h) to 30 mph (50 km/h) might use a transition speed limit of 45 mph (70 km/h) or 50 mph (80 km/h).
+
+The minimum transition speed zone length usually allows for the placement of REDUCED SPEED AHEAD signs and a sufficient speed zone length to achieve compliance.
+
+An excellent source of information on high-to-low speed transition zones that includes speed limits and other measures is available from the National Cooperative Highway Research Program.50
+
+Seasonal or Holiday Speed Limits
+
+A seasonal or holiday speed limit applies for a specified period or periods during a year, generally at locations with significantly different levels of roadside activity at different times—for example, a beach resort that is popular in summer, but only sparsely populated for the remainder of the year. Typically, when the level of activity is at its highest, a relatively low speed limit would be appropriate, while the level of activity would justify the relatively high speed limit otherwise.
+
+Reevaluation
+
+After a speed limit is established, changes in the roadway geometry, land uses, or other circumstances could prompt a need for further study to determine if the limit needs to be raised or lowered. The MUTCD recommends that engineering studies be conducted to reevaluate non-statutory speed limits on roads that have undergone significant changes since the last review, such as the addition or elimination of parking or driveways, changes in the number of travel lanes, changes in the configuration of bicycle lanes, changes in traffic

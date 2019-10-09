@@ -1,0 +1,62 @@
+Explained: Fugitive methane emissions from natural gas production
+For half a decade, researchers have tried to answer the question of how much methane escapes from natural gas wells into the atmosphere. The recent emergence of fracking and shale gas has brought the issue to the fore. But studies continue to present varying results.
+
+Natural gas is mainly methane, some of which escapes during the drilling, extraction, and transportation process. Such outbreaks are known as fugitive emissions.
+
+They’re a problem because methane is a potent greenhouse gas – approximately 25 times more powerful than carbon dioxide over a 100 year timescale. The issue has been thrown into sharp relief because gas production has undergone a boom in recent years.
+
+The discovery of large amounts of gas locked in shale rock means the US’s production has increased by about 25 per cent in recent years. That’s helped push energy prices down and reduce the US’s emissions. Many other countries are now also keen to explore shale gas’s potential, citing the US as an example.
+
+Gas emits about half the carbon dioxide of coal when it’s burned, leading some to tout it as a relatively “clean” fuel. But if fugitive emissions are too high, it makes gas a less attractive fuel for policymakers and industries interested in reducing greenhouse gas emissions. And so the question of just how big fugitive emissions are is a pressing one.
+
+Contested evidence
+
+The data is contested. Some people – often advocates of decarbonisation – suggest the fuel is nowhere near as “clean” as some companies declare. Others – often industry voices – accuse campaigners of cherry-picking evidence.
+
+There’s certainly a wide range of estimates on the extent of the problem.
+
+Estimates of gas production leakage rates are expressed as a percentage of total production. When we looked at this question in 2012, they ranged from 0.6 to four per cent.
+
+Over the past two years, the upper end of this range has increased. Some studies now suggest the amount of gas leaking from wells could be as high as nine per cent.
+
+We’ve put some of the key estimates in the chart below:
+
+Source: Various, see this Google Doc for details. Graph by Carbon Brief. Note: ^ means value is for unconventional – i.e. shale – gas wells only, * means the value in the graph is the mid-estimate or mean of a range where a ‘best estimate’ is not given.
+
+So why is there such a range of results?
+
+Although they’re all trying to answer the same question, the estimates above are calculated in different ways, using methods examining different parts of the gas system.
+
+Broadly speaking, there are two approaches to measuring fugitive emissions: bottom up and top down.
+
+Bottom up methods examine methane emissions at the source – whether that’s at the gas well, along the pipeline transporting the fuel, or at the house it leads to. That provides a snapshot of emissions from a particular point in the process. But since researchers only gather data on the section they’re measuring, they only get a partial picture of the process’ emissions.
+
+That means researchers could miss a big leak in a pipeline somewhere, making their estimates too low. Or they could happen to be measuring a series of particularly leaky wells, pushing up their estimate.
+
+Top down approaches get around this problem by measuring the amount of methane in the atmosphere from a height sufficient to capture a whole area’s emissions. That can be done from a plane or the top of a tall building.
+
+The problem with the top down approach is that it’s hard to trace the emissions back to a particular source. Top down methods allow researchers to estimate how much methane has been emitted in an area without identifying where it came from. And there are plenty of sources unrelated to natural gas extraction that also emit methane, such as wetlands or landfills.
+
+It’s perhaps unsurprising, then, that top down approaches – the grey bars on our chart above – tend to result in higher estimates than bottom up approaches.
+
+Repeat offenders
+
+Given the difficulties of estimating the amount of methane seeping out, researchers have developed new ways to identify fugitive emissions.
+
+For instance, instead of looking at how much methane is emitted, one new study uses a probability model to look at how likely it is that leaks will occur at different wells.
+
+The researchers looked at cases where a well-casing, usually made from cement, was reported to have fractured – potentially leading to leakages. The study concludes that such failures are 1.57 times more likely in unconventional gas wells drilled after 2009 – used to extract shale gas – than conventional wells of around the same age. That suggests methane emissions from unconventional production may also be higher, the researchers say.
+
+Unsurprisingly, the shale gas industry doesn’t like the approach. A spokesperson for industry interest group the Marcellus Shale Coalition told Associated Press the study played “fast and loose with the facts”, as it couldn’t prove the fractures resulted in methane escaping.
+
+Climate impacts
+
+Without accurate fugitive emissions estimates, policymakers trying to curb emissions can’t make informed choices about whether to ramp up natural gas production. And there’s currently a big debate going about natural gas’s role in helping countries decarbonise their energy sectors, and whether countries should use it as a “transition” fuel.
+
+One study calculates that burning natural gas is only better for the climate than coal if fugitive emission levels stay below 3.2 per cent. Four of the papers we surveyed found leakage rates above that level; such findings raise questions about gas’s claim to be a relatively clean fossil fuel.
+
+But gas enthusiasts point to the leakage rates at the lower end of the range, and to the US government’s decision to revise downward its fugitive emissions estimates in 2012 and 2013, as evidence that the climate impacts of fracking have been overstated.
+
+The argument is significant because the US’s shale gas boom has contributed significantly to the its recent emissions reductions, encouraging other countries to explore their own resources.
+
+But if a “dash for gas” comes with lots of fugitive emissions, the argument that fracking is a positive move for the climate no longer works. So as politicians race to develop domestic gas, identifying the resource’s full impact on the climate becomes ever more urgent.

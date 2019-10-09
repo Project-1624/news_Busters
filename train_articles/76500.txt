@@ -1,0 +1,24 @@
+High and Low Temperatures
+Record-setting daily temperatures, heat waves, and cold spells are a natural part of day-to-day variation in weather. However, as the Earth’s climate warms overall, heat waves are expected to become more frequent, longer, and more intense. 1 , 2 Higher heat index values (which combine temperature and humidity to describe perceived temperature) are expected to increase discomfort and aggravate health issues. Conversely, cold spells are expected to decrease. In most locations, scientists expect daily minimum temperatures—which typically occur at night—to become warmer at a faster rate than daily maximum temperatures. 3 This change will provide less opportunity to cool off and recover from daytime heat.
+
+Unusually hot or cold temperatures can result in prolonged extreme weather events like summer heat waves or winter cold spells. Heat waves can lead to illness and death, particularly among older adults, the very young, and other vulnerable groups (see the Heat-Related Deaths indicator). People can also die from exposure to extreme cold (hypothermia). In addition, prolonged exposure to excessive heat and cold can damage crops and injure or kill livestock. Extreme heat can lead to power outages as heavy demands for air conditioning strain the power grid, while extremely cold weather increases the need for heating fuel.
+
+This indicator examines trends in unusual temperatures from several perspectives:
+
+The size and frequency of prolonged heat wave events (Figure 1).
+
+Unusually hot summer temperatures and cold winter temperatures nationwide (Figures 2 and 3).
+
+The change in the number of days with unusually hot and cold temperatures at individual weather stations (Figures 4 and 5).
+
+Changes in record high and low temperatures (Figure 6).
+
+The data come from thousands of weather stations across the United States. National patterns can be determined by dividing the country into a grid and examining the data for one station in each cell of the grid. This method ensures that the results are not biased toward regions that happen to have many stations close together.
+
+Figure 1 shows the U.S. Annual Heat Wave Index, which tracks the occurrence of heat wave conditions across the contiguous 48 states from 1895 to 2014. While there is no universal definition of a heat wave, this index defines a heat wave as a period lasting at least four days with an average temperature that would only be expected to occur once every 10 years, based on the historical record. The index value for a given year depends on how often heat waves occur and how widespread they are.
+
+Figures 2 and 3 show trends in the percentage of the country’s area experiencing unusually hot temperatures in the summer and unusually cold temperatures in the winter. These graphs are based on daily maximum temperatures, which usually occur during the day, and daily minimum temperatures, which usually occur at night. At each station, the recorded highs and lows are compared with the full set of historical records. After averaging over a particular month or season of interest, the coldest 10 percent of years are considered “unusually cold” and the warmest 10 percent are “unusually hot.” For example, if last year’s summer highs were the 10th warmest on record for a particular location with more than 100 years of data, that year’s summer highs would be considered unusually warm. Data are available from 1910 to 2014 for summer (June through August) and from 1911 to 2015 for winter (December of the previous year through February).
+
+Figures 4 and 5 show how trends in unusually hot and cold daily temperatures throughout the year vary by location. These maps cover 1,115 weather stations that have operated since 1948. Figure 4 was created by reviewing all daily maximum temperatures from 1948 to 2014 and identifying the 95th percentile temperature (a temperature that one would only expect to exceed in five days out of every 100) at each station. Next, for each year, the total number of days with maximum temperatures higher than the 95th percentile (that is, unusually hot days) was determined. The map shows how the total number of unusually hot days per year at each station has changed over time. Figure 5 is similar except that it looks at unusually cold days, based on the 5th percentile of daily minimum temperatures.
+
+Many people are familiar with record daily high and low temperatures, which are frequently mentioned in weather reports. Figure 6 depicts trends in these records by comparing the number of record-setting highs with the number of record-setting lows by decade. These data come from a set of weather stations that have collected data consistently since 1950.

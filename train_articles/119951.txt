@@ -1,0 +1,22 @@
+No, Apple Music is not deleting tracks off your hard drive — unless you tell it to
+On Wednesday, I saw a post widely shared about an unfortunate individual who lost half of their local library and was blaming Apple Music for automatically deleting their local files.
+
+I sympathize, and I'm very glad this person had a backup of their music, but I want to dispel some FUD here: Apple Music has definite problems and its matching algorithms aren't great, but this is simply not how the service works. Apple Music should never automatically delete files off your primary Mac's hard drive unless you specifically delete them first.
+
+How Apple Music on your primary Mac works
+
+When you enable Apple Music on your original Mac, the service scans your music library and matches any tracks you own to its streaming library. This is so, when you're on a secondary device — like an iPhone, iPad, or other Mac — you can stream those tracks at their highest quality without having to download local files. These referenced files become part of your iCloud Music Library.
+
+If you have tracks that aren't in Apple Music's library — say, personal recordings, for instance — they will be uploaded as-is to your iCloud Music Library, though songs encoded in ALAC, WAV, or AIFF will be uploaded as AAC 256kbps files for easier storage.
+
+Once this matching and uploading process is complete, you have two libraries: your locally-stored library on your original Mac with all your old files, and an iCloud-stored library that you can access from other devices.
+
+Where it gets confusing
+
+On your original Mac, Apple Music will never delete songs without your knowledge. Your original library is scanned into iCloud, but your songs are yours, and Apple will not automatically delete them, or replace them with its own proprietary copies.
+
+On an iPhone, iPad, or secondary Mac, this process is different: Any songs you play on those devices are sourced directly from your iCloud Music Library, and even if you download them locally, they can be removed from your device if your iPhone's storage space dips too low.
+
+You can, however, download iCloud Music Library-sourced tracks on your Mac if you delete your original copies — and this is what I suspect may have happened to Vellum Atlanta author James Pinkstone's original library, possibly unknowingly.
+
+When you press delete on a song in your iTunes Library with Apple Music or iTunes Match enabled, you'll see the following dialog:

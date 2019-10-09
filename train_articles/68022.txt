@@ -1,0 +1,72 @@
+Energy Information Administration
+2 ) is produced when different fuels are burned? Question: How much carbon dioxide (CO) is produced when different fuels are burned? Different fuels emit different amounts of carbon dioxide in relation to the energy they produce. To compare emissions across fuels you must compare the amount of CO 2 emitted per unit of energy output or heat content. Pounds of CO 2 emitted per million Btu of energy for various fuels: Coal (anthracite) 227 Coal (bituminous) 205 Coal (lignite) 215 Coal (subbituminous) 213 Diesel fuel & heating oil 161 Gasoline 156 Propane 139 Natural gas 117 The amount of CO 2 produced when a fuel is burned is a function of the carbon content of the fuel. The heat content or amount of energy produced when a fuel is burned is a function of primarily the carbon (C) and hydrogen (H) content of the fuel. Heat is produced when C and H combine with oxygen (O) during combustion. Because natural gas is primarily methane, or CH 4 , it has a relatively high energy content relative to other fuels, and thus a relatively low CO 2 to energy content. Water and various elements such as sulfur and non-combustible elements in some fuels reduce their heating values and increase their CO 2 to heat contents. Carbon dioxide emissions per physical unit and million Btu for numerous fuels
+
+2 ) is produced per kilowatt-hour when generating electricity with fossil fuels? Question: How much carbon dioxide (CO) is produced per kilowatt-hour when generating electricity with fossil fuels? You can calculate the amount of CO 2 produced per kWh for specific fuels and specific types of generators by multiplying the CO 2 emissions factor for the fuel (in pounds of CO 2 per million Btu) by the heat rate of a generator (in millions of Btu per kWh generated). For example, here are the number of pounds of CO2 produced by a steam-electric generator for different fuels using that formula and the average heat rates for steam-electric generators in 2009: Fuel Lbs of CO 2 /Million Btu Heat Rate (10^6 Btu/kWh) Lbs CO 2 /kWh Coal Bituminous 205.30 0.01014 2.08 Sub-bituminous 212.70 0.01014 2.16 Lignite 215.40 0.01014 2.18 Natural gas 117.80 0.01039 1.22 Distillate Oil (No. 2) 161.39 0.01036 1.67 Residual Oil (No. 6) 173.91 0.01036 1.80
+
+Question: How much of U.S. greenhouse gas emissions are associated with electricity generation? Total U.S. electricity-related emissions of greenhouse gases in 2008 were 2,499.8 million metric tons (MMT) of carbon dioxide equivalent (CO 2 e), or about 35% of total U.S. greenhouse gas emissions. Total electricity-related emissions include: 2,477.2 MMT of CO 2 emissions from conventional power and combined-heat-and-power plants, which was about 42% of total CO 2 emissions and 43% of energy-related CO 2 emissions, and includes:
+
+emissions from conventional power and combined-heat-and-power plants, which was about 42% of total CO emissions and 43% of energy-related CO emissions, and includes: 2,359.1 MMT of CO 2 from the electric power sector, which includes power plants operated primarily for the generation and sale of electricity,
+
+from the electric power sector, which includes power plants operated primarily for the generation and sale of electricity,
+
+118.1 MMT of CO 2 from the industrial and commercial sectors, which includes industrial, commercial, and institutional facilities with generators (usually combined heat and power plants) primarily for the direct use of the electricity by the facilities
+
+from the industrial and commercial sectors, which includes industrial, commercial, and institutional facilities with generators (usually combined heat and power plants) primarily for the direct use of the electricity by the facilities 0.8 MMT CO 2 e of methane (CH4), 0.1% of total CH4 emissions
+
+e of methane (CH4), 0.1% of total CH4 emissions 9.7 MMT CO 2 e of nitrous oxide (N 2 O), 3.2% of total N 2 O emissions 1
+
+e of nitrous oxide (N O), 3.2% of total N O emissions 12.1 MMT CO 2 e of sulfur hexafluoride from leaking electricity transmission equipment where sulfur hexafluoride is used for insulation.
+
+Emissions of Greenhouse Gases in the United States contains EIA’s detailed annual estimates of emissions for all reported greenhouse gases. Electric Power Annual contains historical data on CO 2 emissions from all electricity generation (conventional power plants and combined-heat-and-power plants). Monthly Energy Review (Table 12.6) contains most recent estimates of CO 2 emissions by the electric power sector. 1N 2 O, a byproduct of fuel combustion, should not to be confused with nitrogen oxides, or NOx, which are also byproducts of fuel combustion that are regulated by the U.S. Environmental Protection Agency but are not direct greenhouse gases.
+
+2 does the United States emit? Is it more than other countries? Question: How much COdoes the United States emit? Is it more than other countries? There are various ways to compare carbon dioxide emissions across countries including: total carbon dioxide emissions, carbon dioxide emissions per capita, and carbon dioxide intensity. The data below are for energy-related carbon dioxide emissions as EIA does not have comparative data for carbon dioxide emissions from industrial processes for all countries. Energy-related carbon dioxide emissions — In 2008, the United States emitted 5,833 million metric tons of carbon dioxide from the consumption of fossil fuels. Million metric tons of carbon dioxide emitted in 2008: United States 5,833 (19% of world total) China 6,534 (22% of the world total) Europe 4,662 (15% of world total) World Total 30,577
+
+Carbon dioxide emissions per capita — In 2008, the per capita carbon dioxide emissions in the United States were about 19 metric tons. Per capita carbon dioxide emissions in the United States have not varied much over time, because the rate of growth of carbon dioxide emissions has been about the same as the growth in population.
+
+Metric tons of carbon dioxide emitted per capita in 2008: United States — 19.2
+
+China — 4.9
+
+Europe — 7.8
+
+
+
+World Average — 4.5 Carbon dioxide intensity — A nation’s carbon dioxide intensity is typically expressed as metric tons carbon dioxide (MTCO 2 ) per unit of economic activity. In 2008, U.S. carbon dioxide intensity was 443 MTCO 2 per million dollars of Gross Domestic Product (GDP), based on the value of the U.S. dollar in 2005. Carbon dioxide intensity in 2008 expressed as MTCO 2 /$ million GDP (calculated using Purchasing Power Parity in 2005 dollars), for selected region and the world: United States — 443
+
+China — 880
+
+Europe — 298
+
+World Average — 464
+
+The International Energy Statistics portal has historical emissions estimates for all countries. International Energy Outlook 2010, Chapter 8 has tables with historical data and forecasts, for regions and selected countries and by fuel types.
+
+Question: What are the largest sources of total greenhouse gas emissions by sector for the United States? Greenhouse gas emissions by sector in 2008 for the United States (Million Metric Tons of Carbon Dioxide Equivalent) Residential Sector Commercial Sector Transportation Sector Industrial Sector Carbon dioxide 1,261 1,098 1,902 1,760 Other GHGs1 14 269 127 804 Total GHG emissions 1,244 1,353 2,036 2,610 Share of total 18% 19% 28% 36%
+
+1 Methane, nitrous oxide, and high global warming potential gases. Emissions of Greenhouse Gases in the United States, 2008 reports EIA’s latest annual emissions data.
+
+
+
+Most recent data on carbon dioxide emissions.
+
+Question: How much of U.S. greenhouse gas emissions are associated with electricity generation? Total U.S. electricity-related emissions of greenhouse gases in 2008 were 2,499.8 million metric tons (MMT) of carbon dioxide equivalent (CO 2 e), or about 35% of total U.S. greenhouse gas emissions. Total electricity-related emissions include: 2,477.2 MMT of CO 2 emissions from conventional power and combined-heat-and-power plants, which was about 42% of total CO 2 emissions and 43% of energy-related CO 2 emissions, and includes:
+
+emissions from conventional power and combined-heat-and-power plants, which was about 42% of total CO emissions and 43% of energy-related CO emissions, and includes: 2,359.1 MMT of CO 2 from the electric power sector, which includes power plants operated primarily for the generation and sale of electricity,
+
+from the electric power sector, which includes power plants operated primarily for the generation and sale of electricity,
+
+118.1 MMT of CO 2 from the industrial and commercial sectors, which includes industrial, commercial, and institutional facilities with generators (usually combined heat and power plants) primarily for the direct use of the electricity by the facilities
+
+from the industrial and commercial sectors, which includes industrial, commercial, and institutional facilities with generators (usually combined heat and power plants) primarily for the direct use of the electricity by the facilities 0.8 MMT CO 2 e of methane (CH4), 0.1% of total CH4 emissions
+
+e of methane (CH4), 0.1% of total CH4 emissions 9.7 MMT CO 2 e of nitrous oxide (N 2 O), 3.2% of total N 2 O emissions 1
+
+e of nitrous oxide (N O), 3.2% of total N O emissions 12.1 MMT CO 2 e of sulfur hexafluoride from leaking electricity transmission equipment where sulfur hexafluoride is used for insulation.
+
+Emissions of Greenhouse Gases in the United States contains EIA’s detailed annual estimates of emissions for all reported greenhouse gases. Electric Power Annual contains historical data on CO 2 emissions from all electricity generation (conventional power plants and combined-heat-and-power plants). Monthly Energy Review (Table 12.6) contains most recent estimates of CO 2 emissions by the electric power sector. 1N 2 O, a byproduct of fuel combustion, should not to be confused with nitrogen oxides, or NOx, which are also byproducts of fuel combustion that are regulated by the U.S. Environmental Protection Agency but are not direct greenhouse gases.
+
+Question: What are the largest sources of energy-related carbon dioxide emissions by fuel? Energy-related carbon dioxide emissions from fossil fuels, 2008 (Million Metric Tons) United States World Amount Share of Total Amount Share of Total Total From Fossil Fuels 5,833 30,377 Coal 2,125 36% 12,898 42% Natural Gas1 1,272 22% 6,249 21% Petroleum 2,436 42% 11,231 37% 1Includes combustion and flaring of natural gas.
+
+International statistics on energy-related carbon dioxide emissions.
+
+Question: What are greenhouse gases and how do they affect the climate?

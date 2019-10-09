@@ -1,0 +1,86 @@
+Is Russia Building an Internet Iron Curtain?
+On Tuesday, February 21, the State Duma, the lower house of Russia’s parliament, gave preliminary approval to the Digital Economy National Program draft bill, which is ostensibly aimed at ensuring the continued operation of the Russian internet (RUnet) if the country is cut off from the global internet.
+
+An explanatory note to the bill said it was drafted in response to the “aggressive nature” of last September’s U.S. National Cyber Strategy, which, the note claimed, “declared the principle of maintaining peace by force” and, “without evidence,” accused Russia, Iran and North Korea of carrying out “irresponsible cyber-attacks.”
+
+The bill was submitted to the State Duma in December by Federation Council Senators Andrei Klishas and Lyudmila Bokova, and State Duma deputy Andrei Lugovoi, who British authorities believe helped murder former Russian secret service officer Alexander Litvinenko in London in November 2006, poisoning him with a “polonium tea.”​
+
+Lugovoi also authored an internet extremism bill allowing authorities to block websites containing illegal information, including calls for unsanctioned protests and “extremist” activity, the Moscow Times reported.
+
+Klishas and Bokova, for their part, previously authored bills that would prohibit insults against state officials and ban the publication of fake news.
+
+State Duma Chairman Vyacheslav Volodin called for finalizing the bill, saying its goal was “not to close, not to cut off, but to ensure the security of the Internet in the Russian Federation.”
+
+Lugovoi likewise said the law is "not about turning off the internet, but about allowing our citizens to continue to use the internet in case of aggressive actions."
+
+Reports surfaced on Monday, February 11, that Russia intends to temporarily disconnect RUnet from the global internet in the coming months to test out Russia's autonomous internet.
+
+But is Volodin correct in saying the bill is not intended to cut off Russia from the World Wide Web?
+
+Here’s what we know so far based on the vaguely worded bill:
+
+Data will be passed between internet service providers (ISPs) via “traffic exchange points” with their own “autonomous system number,” making them readily identifiable. All outbound internet traffic will be filtered through these points.
+
+ISPs will be required to install “technical means of countering threats” that will be provided free of charge by Roskomnadzor, Russia's state communications regulator. Those technical means will allow the operator to know the source of web traffic and block materials that are banned in Russia (as opposed to operators doing it themselves, thus releasing them from liability). When threats to the system arise, Roskomnadzor will be able to intervene in the management of the network. The operators of “communication rendering services” will be required to provide all relevant information, controls and supervisory powers to the executive authority within three days of the “technical means” being installed.
+
+Operators must notify the authorities of cross-border communication channels.
+
+A national domain name system (DNS) registry will be created for greater autonomy, allowing the controlling body to enact centralized management of communication networks in the event there are threats to the integrity of RUnet.
+
+Telecom operators must correct the routes of the passage of messages, only using traffic exchange points which are in a special register, while also providing authorities with data on how their networks are arranged and what DNS servers they use.
+
+See that exercises are conducted so that authorities are not caught off guard.
+
+The creation of this so-called sovereign internet will, in short, allow Russia to sequester RUnet from the internet, giving them far more power to monitor and control web traffic within Russia.
+
+As noted by the Moscow Times, Fang Binxing, the creator of “The Great Firewall of China,” put forward the concept of establishing a sovereign internet in 2011.
+
+Beijing and Moscow have both viewed internet sovereignty as an extension of national sovereignty.
+
+But the sovereign internet bill in Russia has been opposed on numerous grounds.
+
+Russia’s Audit Chamber, a parliamentary financial watchdog agency, says the project, whose initial cost has been estimated at 25 billion rubles (approx. $38 million), will require additional funding.
+
+Some experts have put ancillary costs at 125 billion rubles (approx. $190 million) annually, the news portal AVA.MD reported.
+
+The Audit Chamber likewise believes the sovereign internet project will raise the costs of goods and services in Russia.
+
+The president of the Russian Union of Industrialists and Entrepreneurs warned Volodin that the sovereign RUnet could result in the “catastrophic failure” of the country’s communications networks.
+
+It further said disconnecting Russia from foreign root servers was an unnecessary step, as Russia already has 11 root servers to rely on.
+
+Likewise, Sergei Ivanov, a Duma deputy from the Liberal Democratic Party of Russia (LDPR), to which Lugovoi also belongs, said Russia was technically not in a position to sustain such a system on its own.
+
+"Russia does not produce any IT hardware, only cables, which some people better hang themselves on."
+
+Audit Chamber head Aleksei Kudrin, a former Russian finance minister, tweeted that the bill had been adopted in its first reading "too hurriedly and without open dialogue with IT and the industrial community."
+
+Experts told Russia’s RBC news agency that the draft law in its current form is impractical, as it would require operators to continuously transmit the totality of their network scheme and traffic routing to Roskomnadzor, which they say is impossible as "the network is constantly expanding and updating."
+
+But some have put the need for the system in starker terms.
+
+"This is very serious. This is a path towards isolating Russia as a whole...from the Internet," Radio Free Europe quoted Russian security analyst Andrei Soldatov as telling AFP.
+
+The Guardian cited Filipp Kulin, a Russian internet expert, as telling the BBC’s Russian language service: “The disconnection of Russia from the global web would mean that we are already at war with everyone. In this situation we should be thinking how to grow potatoes in a nuclear winter, and not about the internet.”
+
+Russia is also no stranger to politically motivated censorship.
+
+In March 2014, the government blocked the LiveJournal blogs of Alexei Navalny, Kasparov.ru and Grani.ru on the pretext that they had made “calls for unlawful activity” during Russia’s annexation of the Crimean peninsula.
+
+Amnesty International that year found that the right to freedom of expression, freedom of association and freedom of assembly in Russia had long been only partial and often involved risks for critics of the government.
+
+Roskomnadzor was also behind failed efforts to block the Telegram messaging app in April 2018 for refusing to give Russian security services access to users’ encrypted messages. That ban, ironically, has been flouted by Putin’s press secretary Dmitry Peskov and RT editor in Chief Margarita Simonyan.
+
+Critics have also noted that the same individuals behind efforts to further tighten state control of the internet and ban “insults” against state officials are now behind the effort to bring the internet under the Kremlin’s control.
+
+“Among the authors: Andrey Klishas and Andrey Lugovoi. The thief and the killer will ban us from the Internet. Class,” tweeted Ruslan Shaveddinov, the host of Navalny’s YouTube channel, who himself has ended up behind bars for retweeting calls to protest.
+
+While accusations aga inst Lugovoi are well-publicized, Navalny has accused Klishas of owning an undeclared 8.4 thousand square meter property in Moscow’s prestigious Rublyovka residential area, as well as a $174,000 Maybach that had racked up over 100 traffic citations.
+
+Volodin is likely correct in his assertion that the bill’s intention is not to entirely cut Russia off form the World Wide Web. However, the law gives the Russian government unlimited control over internet access as well as content.
+
+The point of a sovereign RUnet was not just to send a message to those who are allegedly trying to “steer” Russia’s information space from abroad, but Russians themselves who are generally accustomed to internet freedom “by global standards,” Anton Fortunatov, head of the Department of Electronic Media, Institute of Philology and Journalism at Nizhny Novgorod State University, told the Davidov Index blog.
+
+And, in a country where it is illegal to distribute images of Russian President Vladimir Putin wearing makeup, Google risks being suspended for identifying Crimea as Ukrainian territory and promulgating memes can lead to criminal prosecution, the risk that the RUnet project will result in an even smaller space for free expression online in Russia remains very real.
+
+Polygraph.info therefore finds Volodin's claim it is important for Russia not to "close" the interent misleading.

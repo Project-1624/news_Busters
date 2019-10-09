@@ -1,0 +1,874 @@
+MMPI
+Back to articles MMPI Cheryl L. Karp, Ph.D.
+
+Leonard Karp, J.D.
+
+INTRODUCTION:
+
+
+
+The MMPI is the most frequently used clinical test. Therefore, it is employed quite often in court cases to provide personality information on defendants or litigants in which psychological adjustment factors are pertinent to resolution of the case. It is easy to administer and provides an objective measure of personality. Since it is such a well-researched and highly reliable instrument, it is often used in custody evaluations. It provides clear, valid descriptions of people's problems, symptoms, and characteristics in broadly accepted clinical language. The profiles are easy to explain in court and appear to be relatively easy for people to understand. However, with any psychological instrument, it is important to acquaint yourself with the background of the test and to acquaint yourself with the assets and liabilities of any test used to assess your client.
+
+
+
+
+
+BACKGROUND INFORMATION:
+
+
+
+The Minnesota Multiphasic Personality Inventory, or MMPI, was developed in the late 1930s by a psychologist and a psychiatrist at the University of Minnesota. It was originally intended for use with an adult population, but was then extended to include teenagers, mostly for teens in the middle years, about 15 and 16. It required at least a sixthgrade reading level, so it was definitely not applicable for average children below the age of about 13 or for retarded persons. The MMPI was sometimes given to bright children of 11 or 12 years, but then great caution was exercised in the interpretation of the results. When the MMPI was completely revised in 1989 (see MMPI-2, next section), adolescent norms were not developed. The new instrument was not intended to be used for adolescents. Therefore, the Minnesota Multiphasic Personality Inventory-Adolescent (MMPI-A) was developed. Although the MMPI has undergone a complete revision, resulting in the MMPI-2, the MMPI is discussed here since many psychologists still report results from the MMPI and it forms the basis for the MMPI-2.
+
+
+
+The MMPI has ten clinical scales and three validity scales plus a host of supplementary scales. The clinical scales were originally intended to distinguish "pure" groups with psychiatric disorders. Therefore, the actual names of the scales assert bold and, sometimes, exoticsounding psychiatric labels. For example, Scale 1 is referred to as the hypochondriasis scale, Scale 8 is labeled the schizophrenia scale, Scale 9 is labeled the hypomania scale, Scale 4 is the psychopathic deviate scale, and Scale 7 is the psychasthenia scale. Other scales reflect more understandable symptoms such as Scale 2, depression; Scale 3, hysteria; Scale 5, masculinity-femininity; Scale 6, paranoia; and Scale 0, social introversion.
+
+
+
+Researchers quickly found out that the scales were not able to be "pure" measures of the psychiatric diagnostic groups (in part this is due to the overlap in symptoms in some of the disorders). Thus, an elevation on Scale 8 did not mean that the client was definitely schizophrenic. As a result, the numbers of the subscales quickly replace the psychiatric labels in common usage. Thus, instead of talking about the hypochondriasis scale, the clinician will talk about Scale 1.
+
+
+
+Researchers also found out that it was common for people to score high on more than one scale at the same time and that interpretations using two or more scales tended to be more sophisticated or refined, more useful, and more accurate. Therefore, patterns of elevations were distinguished, and the numbers were used as a shorthand to describe the elevations. Thus, a 24 meant that there were elevations above the "normal" range on scales 2 and 4, and 2 was the higher elevation. When the elevations are noted (either as done here or when presented as a graph), the result is called a "profile." Researchers literally went out and gathered data on the personality characteristics of those who scored high on the 24 or any other combination (sometimes relevant clustering involving three scales, such as a 468). The amount of research is impressive.
+
+
+
+As mentioned earlier, the MMPI is vulnerable to faking because of the transparency of some of the items. The three validity scales are designed to help the psychologist identify abnormal response sets that might suggest "faking good" or "faking bad." In spite of these special scales, it is easier for the client to slant answers to give a favorable or unfavorable impression with the MMPI than with the Rorschach, for example. On the other hand, it is much more difficult to consistently bias the MMPI than an instrument of less complexity and more transparency, such as the Thematic Apperception Test (the TAT).
+
+
+
+The nature of the instrument, with true and false answers and patterns readily identifiable, has prompted the development of books to supply interpretations of the results. The information is given in the form of descriptive statements that tend to be true of clients whose scores yield certain profiles. These books tend to be called "cookbooks" by psychologists. Thus, if the result shows a 24 profile, one can look in any number of "cookbooks" to find the personality descriptors attached to elevations on 2 and 4 alone and then as a combined pattern.
+
+
+
+In the hands of a skilled and experienced psychologist, the MMPI is a powerful instrument and allows for powerful presentation in court. However, the MMPI must be interpreted in light of the biographical and other information about the client. "Blind interpretations," where nothing is known of the client except perhaps gender, may be useful for testing a psychologist's memory about the descriptive statements attached to certain individual scale elevations or certain profiles. They are not useful, and may be dangerous, in interpreting MMPI results for forensic work or any other professional psychology work. For example, an elevation on Scale 8 (schizophrenia) may have a different interpretation if the client is in a psychiatric hospital than if the person is a respected professor at a university, with no history of psychiatric disorder, who is interested in yoga or some other occult or esoteric study.
+
+
+
+The psychologist administering and interpreting the MMPI must pay attention to all relevant factors, including age, sex, education, social class, religious background, place of residence, and other historical data. This information must be integrated correctly with research data, such as is found in the "cookbooks," in order for the interpretation to be valid.
+
+
+
+Computer use has brought other problems to the area of MMPI interpretation. Computer programs have been developed to allow computers to score the raw data (anywhere from 399 true and false answers for the "abbreviated" MMPI form to almost 600 answers for the full MMPI form), produce the files in printed graph form, and do the work of fetching interpretative information from "cookbooks." Undeniably, the computers save valuable time for psychologists. Yet, their use with the MMPI has opened the way for some serious problems.
+
+
+
+This advanced technology lends an image of "truth" or "accuracy" to the printout results that may mislead even psychologists. Also, this technology is more readily available to nonpsychologists than is wise. Persons with no or minimal training in psychology and psychological testing may use a computer report to make statements about a person's personality functioning that sound definitive or are presented as such. Even generally competent and respectable practitioners in fields normally thought to be "allied to" psychology, such as psychiatry or clinical social work, can make the grievous error of believing that they have acted responsibly or done a good job when they make conclusions about a client based solely or predominantly on the MMPI, using a computer to produce scores and interpretations. The MMPI needs to be interpreted in light of many factors often not considered by the computer programs. Computer programs frequently require only information about the client's sex, age, and achieved education level, not other factors such as current life stressors or other life experiences or environmental factors.
+
+
+
+Furthermore, when used as part of a testing battery, the MMPI results must be integrated with all the testing and historical data and finally interpreted in light of all of the psychologist's psychological knowledge. Doing this may alter the psychologist's original interpretation of the MMPI, as will be discussed below in the section on the interpretation of the Rorschach. Nonpsychologists should not and usually cannot administer a whole test battery and interpret it appropriately.
+
+
+
+Secondly, many computer reports focus mainly on giving statements about the elevation of each individual scale, with perhaps cursory statements about the highest two scales considered together. Unfortunately, there is not a statement at the beginning of the computer printout explaining whether the statements are from research with a normal or abnormal population. For example, an elevation on Scale 4 (the psychopathic deviate scale) may yield statements about interesting personality qualities such as "independence" or "anger." (one psychologist working with a codependency program was heard repeatedly calling Scale 4 the "anger" scale, an interesting oversimplification.) Such singlescale interpretative statements may be of help describing a normal person who is an independent thinker, who follows society's mores and laws, but reserves the right to make his or her own moral judgments and may lawfully and appropriately challenge authority. It does not begin to do justice to the "independence" from society's norms seen in a person with a history of seriously breaking society's mores and rules, such as the person expelled a number of times from school for various offenses or the person with a long history of violence or trouble with the law.
+
+
+
+Thus, one can have the undesirable result that a psychologist may erroneously (and incompetently) use single statements from a computer to present someone accused of molestation in a rather favorable light, ignoring the fact that the overall pattern of the 49, combined with a history of violence against others and minor legal charges and convictions, demands a more serious and less favorable view of the client. On the other hand, you can have a parent with an elevation on Scale 4 labeled a probable antisocial personality (formerly known as psychopath or sociopath), while the elevation really suggests less sinister characteristics.
+
+
+
+Antisocial persons and persons recently traumatized in some manner in interpersonal interactions (e.g., a rape victim or a man or woman recently divorced) may superficially share some characteristics reflected in an elevation on Scale 4, which can confuse interpretation of MMPI results. An elevated Scale 4 may suggest that the client does not allow himself or herself to become significantly close to others emotionally, has a lot of anger, and may be likely to misrepresent or lie about circumstances. A closer look at this is warranted.
+
+
+
+A person with an antisocial personality disorder typically shows interpersonal distancing, that is, does not allow himself or herself to become significantly close to others. The person recently traumatized may likewise keep people from getting close. However, the similarity may end on the surface, because the antisocial personality may be charming in person but unable to bond. The traumatized person may be less charming in person and may be quite able to bond but fearful of doing so because of the trauma. Likewise, persons with antisocial personality disorders usually have a more or less disguised well of anger, typically feeling mistreated by society and entitled to act out against individuals or institutions. It is easy to see that a rape victim might have a well of anger, sometimes directed against the perpetrator and sometimes directed inwardly.
+
+
+
+Persons with antisocial personality disorders typically lack guilt about their exploits; they simply hate being caught. Rape victims typically experience inappropriate guilt and hate what has happened and what they have "become." A convicted felon may have a 24 elevation, suggesting significant depression (the 2 is the "depression" scale), while sitting in a county jail on murder 1 charges or charges of domestic violence. Persons with personality disorders often develop real and significant depressions when caught and suffering the consequences of their misbehaving or criminal acts. Yet, a victim of domestic violence might just as easily have a 24 elevation, but the interpretation of the two profiles would or could be very different.
+
+
+
+When it comes to the characteristic of lying and breaking society's mores and laws, the superficial similarities are likely to end. Persons with antisocial personalities may, indeed, lie about the legal charges confronting them and, for that matter, about many things. Like the antisocial personality, the rape victim may be putting emotional distance between herself and others and also may have a lot of anger. However, it does not follow, therefore, that, like the antisocial personality, the rape victim is also likely to lie and misrepresent circumstances and is also likely to have broken society's laws in the past or likely to break them in the future.
+
+
+
+The best and most significant computer programs are extremely complicated and sophisticated. The good programs integrate the elevations from all the scales to eliminate contradictions that one can find looking only at individual scales (one scale may suggest that the person is depressed, while another scale may suggest that the person is optimistic). The most commonly used computer services are probably the ones from Minnesota (from the National Computer Service, with James Butcher, one of the experts in MMPI work as developer and advisor) and the one from Los Angeles (developed by Alexander Caldwell, another giant in the field of the MMPI).
+
+
+
+The importance of having a skilled and competent psychologist to interpret testing results, including the computerized MMPI, cannot be stressed enough. Here are some things to watch for in evaluating whether a psychologist is adequately handling the MMPI:
+
+
+
+1. Most psychologists trained in clinical psychology refer to the MMPI scale evaluations by numbers (24 or 468). If the psychologist mainly uses the scales' official names or stresses these official names, look further; the psychologist's primary training may not have been in the field of clinical psychology.
+
+
+
+2. If the psychologist does not readily integrate the MMPI scale information, but is content with mainly singlescale descriptors, take care in using the psychologist. Not only may the psychologist be ineptly interpreting the MMPI, but the psychologist's testimony would be very vulnerable to attack by a skillful cross examination or on rebuttal by a competent psychologist.
+
+
+
+3. If the psychologist does not integrate the MMPI data with historical information and other testing data, and account for anomalies, then the work is not adequate.
+
+
+
+4. To be most helpful, your psychologist consultant should be acquainted with the major developments in MMPI interpretation. The psychologist should be acquainted with the work of the Minnesota group and the Caldwell group and those associated with the work of those two groups. Caldwell has developed an alternative way of looking at and interpreting the scales that helps one understand that the 24 of the rape victim is different from the 24 of the convicted felon and helps one understand why that is so.
+
+
+
+Custody evaluations or domestic violence litigation would be simpler and easier if there were MMPI patterns or profiles reliably correlated with the "perfect parent" or conviction for domestic violence or, better yet, highly correlated with admission of guilt in domestic violence cases. There are no such "molester" or "domestic abuser" profiles identified yet, but there may be in the future.
+
+
+
+There has been research seeking to identify profiles of molesters. The populations studied have mainly been men in custody who are nonfamily molesters or are a mixed group of nonfamily molesters and incest molesters. This population may be very different from the general population of domestic violence abusers, molesters, or physical abusers of spouses or children. Furthermore, the number of people in the group studied have been too small for much weight to be given to the conclusions in terms of generalizing to other groups or the population at large. Some of the elevations seen on the profiles of the convicted offenders are not surprising; for example, an elevation on Scale 4 is common. One would never be surprised to see someone convicted (often of multiple offenses) scoring high on Scale 4 of the MMPI, but that would be common for anyone in penal custody.
+
+
+
+
+
+THE ADVENT OF THE MMPI-2:
+
+
+
+The Minnesota Multiphasic Personality Inventory (MMPI), described above, has been in use now for over 50 years. In that time, no revisions in item content or wording were made. Over the last 10 years, there have been increasing complaints that some of the items were out of date, sexist, awkward, or ambiguous. In addition, two items which contained religious content specific to Christianity were found to be offensive to other religious sectors.
+
+
+
+According to James Butcher, one of the researchers responsible for the revision of the MMPI, the MMPI-2 is a valid revision and expansion of the original MMPI. He asserts that continuity with the previous empirical literature has been assured. The original validity and clinical scales have been kept virtually intact in the MMPI-2. According to Butcher, however, new norms based on nationally representative samples provide a sounder comparative base. Therefore, the information on the MMPI covered above is still accurate.
+
+
+
+In addition to the original validity scales (LFK), there have been three new validity scales included in the MMPI-2: FB, VRIN, and TRIN. FB refers to the F scale, only for the back side or the second half of the test. VRIN is the variable response inconsistency scale which attempts to indicate a random response pattern or an inconsistent pattern of responses. The TRIN refers to the true response inconsistencies scale and indicates invalid profiles due to a true set or a false set. A true set is when a person answers true to two inconsistent items such as most of the time I feel blue and I am happy most of the time. A false set would be answering false to both items. The validity scales are extremely important in the interpretation of the entire test since it indicates the degree to which a clinical profile is a valid picture of the person being evaluated.
+
+
+
+In the past, one of the complaints of the MMPI was the lack of uniformity in the T-score distributions of the clinical scales, therefore, making it difficult to compare relative T-scores. During the restandardization, this problem was corrected so that the 8 clinical scales (omitting scales 5 and 0) and the 15 new content scales have uniform T-scores making it much easier to compare clinical and content scales. Scale 5 (masculinity/femininity scale) and Scale 0 (introversion scale) were not included since they are not comparable measures of psychopathology and these scales differ in their distribution.
+
+
+
+With the uniform T-scores, a T-score of 65 is at the 92nd percentile across the clinical scales and a T-score of 70 is equal to a percentile rank of 96. A T-score of 65 has proven to be the best cutoff for critical items. In general, it is hoped that the MMPI-2 will answer the problems raised with the original MMPI. Many researchers are dubious of these new findings and still prefer the original version. However, the MMPI-2 is the preferred test at the present time, although many computer test interpretations will include both profiles.
+
+
+
+
+
+OVERVIEW OF THE MMPI-2 SCALES:
+
+
+
+The MMPI-2 contains seven validity scales and ten clinical scales that are nearly identical to the original MMPI. Following is a description of the validity scales as well as the clinical scales for the MMPI-2.
+
+
+
+Validity Scales :
+
+
+
+The "Cannot Say" Scale ("? scale") - The "?" scale is simply the number of omitted items (including items answered both true and false). The MMPI-2 manual suggests that protocols with 30 or more omitted items should be considered invalid and not interpreted. Other experts suggest interpreting with great caution protocols with more than 10 omitted items and not to interpret at all those with more than 30 omitted items.
+
+
+
+L Scale - The L scale originally was constructed to detect a deliberate and rather unsophisticated attempt on the part of the respondent to present him/herself in a favorable light. People who present high L scale scores are not willing to admit even minor shortcomings, and are deliberately trying to present themselves in a very favorable way. Better educated, brighter, more sophisticated people from higher social classes tend to score lower on the L scale.
+
+
+
+F Scale - The F Scale originally was developed to detect deviant or atypical ways of responding to test items. Several of the F Scale items were deleted from the MMPI-2 because of objectionable content, leaving the F Scale with 60 of the original 64 items in the revised instrument. The F Scale serves three important functions:
+
+
+
+1. It is an index of test-taking attitude and is useful in detecting deviant response sets (i.e. faking good or faking bad).
+
+
+
+2. If one can rule out profile invalidity, the F Scale is a good indicator of degree of psychopathology, with higher scores suggesting greater psychopathology.
+
+
+
+3. Scores on the F Scale can be used to generate inferences about other extratest characteristics and behaviors.
+
+
+
+K Scale - Compared to the L Scale, the K Scale was developed as a more subtle and more effective index of attempts by examiners to deny psychopathology and to present themselves in a favorable light or, conversely, to exaggerate psychopathology and to try to appear in a very unfavorable light. Some people refer to this scale as the "defensiveness" indicator, as high scores on the K Scale are thought to be associated with a defensive approach to the test, while low scores are thought to be indicative of an unusually frank and self-critical approach.
+
+
+
+Subsequent research on the K Scale has indicated that the K Scale is not only related to defensiveness, but is also related to educational level and socioeconomic status, with better-educated and higher socioeconomic-level subjects scoring higher on the scale. It is not unusual for college-educated persons who are not being defensive to obtain T-scores on the K Scale in a range of 55 to 60, and persons with even more formal education to obtain T-scores in a range of 60 to 70. Moderate elevations on the K Scale sometimes reflect ego strength and psychological resources.
+
+
+
+Back F (Fb) Scale - The Fb scale consists of 40 items on the MMPI-2 that no more than 10 percent of the MMPI-2 normative sample answered in the deviant direction. It is analogous to the standard F scale except that the items are placed in the last half of the test. An elevated Fb scale score could indicate that the respondent stopped paying attention to the test items that occurred later in the booklet and shifted to an essentially random pattern of responding.
+
+
+
+VRIN Scale (Variable Response Inconsistency) - The VRIN scale was developed for the MMPI-2 as an additional validity indicator. It provides an indication of the respondents' tendencies to respond inconsistently to MMPI-2 items, and whose resulting protocols therefore should not be interpreted. It consists of 67 pairs of items with either similar or opposite content. Each time a person answers items in a pair inconsistently, one raw score point is added to the score ont he VRIN scale. It is suggested that a raw score equal to or greater than 13 indicates inconsistent responding that probably invalidates the resulting protocol, although this scale is still experimental.
+
+
+
+TRIN Scale (True Response Inconsistency) - The TRIN scale was developed to identify persons who respond inconsistently to items by giving true responses to items indiscriminately or by giving false responses to items indiscriminately. The TRIN scale consists of 23 pairs of items that are opposite in content. Two true responses to some item pairs or two false responses to other item pairs would indicate inconsistent responding. The MMPI-2 manual suggests that as rough guidelines TRIN raw scores of 13 or more or of 5 or less may be suggestive of indiscriminate responding that might invalidate the protocol, however, this scale is still considered experimental.
+
+
+
+Clinical Scales :
+
+
+
+Scale 1: Hypochondriasis (Hs) - This scale was originally developed to identify patients who manifested a pattern of symptoms associated with the label of hypochondriasis. A wide variety of vague and nonspecific complaints about bodily functioning are tapped by the 32 items. All the items on this scale deal with somatic concerns or with general physical competence. Scale 1 is designed to assess a neurotic concern over bodily functioning. A person who is actually physically ill will obtain only a moderate elevation on Scale 1. These people will endorse their legitimate physical complaints, but will not endorse the entire gamut of vague physical complaints tapped by this scale. All but one of the original items were retained on the MMPI-2.
+
+
+
+Scale 2: Depression (D) - This scale was originally developed to assess symptomatic depression. The primary characteristics of symptomatic depression are poor morale, lack of hope in the future, and a general dissatisfaction with one's own life situation. Very elevated scores on this scale may suggest clinical depression, while more moderate scores tend to indicate a general attitude or life-style characterized by poor morale and lack of involvement. Of the original 60 items, 57 have been retained in MMPI-2.
+
+
+
+Scale 3: Hysteria (Hy) - This scale was developed to identify patients who demonstrated hysterical reactions to stress situations. All 60 original items have been retained in the MMPI-2. Items in Scale 3 consist of two general types: items reflecting specific somatic complaints and items that show that the client considers himself or herself well socialized and adjusted. Such people generally maintain a facade of superior adjustment and only when they are under stress does their proneness to develop conversion-type symptoms as a means of resolving conflict and avoiding responsibility appear. Scale 3 scores are related to intellectual ability, educational background, and social class. Brighter, better-educated persons of a higher social class tend to score higher on the scale. In addition, high scores are much more common among women than among men in both normal and psychiatric populations.
+
+
+
+Scale 4: Psychopathic Deviate (Pd) - This scale was originally developed to identify patients diagnosed as psychopathic personality, asocial or amoral type. General social maladjustment and the absence of strongly pleasant experiences are assessed by the 50 items included in Scale 4. Scores on Scale 4 tend to be related to age, with adolescents and college students often scoring in a T-score range of 55 to 60. Black respondents have also been reported to score higher than white persons on Scale 4. Scale 4 can be thought of as a measure of rebelliousness, with higher scores indicating rebellion and lower scores indicating an acceptance of authority and the status quo. High scorers are very likely to be diagnosed as having some form of personality disorder, but are unlikely to receive a psychotic diagnosis. Low scorers are generally described as conventional, conforming, and submissive. All 50 items in the original scale have been retained in the MMPI-2.
+
+
+
+Scale 5: Masculinity-Femininity (Mf) - Scale 5 was originally developed by Hathaway and McKinley to identify homosexual invert males. The test authors identified only a very small number of items that differentiated homosexual from heterosexual males. Scores on this scale are related to intelligence, education, and socioeconomic status. It is not uncommon for male college students and other college-educated males to obtain T-scores in the 60 to 65 range. Scores that are markedly higher than expected for males, based on the persons' intelligence, education, and social class should suggest the possibility of sexual concerns and problems. High scores are very uncommon among females. When they are encountered, they generally indicate rejection of the traditional female role. Of the 60 items in the original scale 5, 56 have been maintained in the MMPI-2.
+
+
+
+Scale 6: Paranoia (Pa) - This scale was originally developed to identify patients who were judged to have paranoid symptoms such as ideas of reference, feelings of persecution, grandiose self-concepts, suspiciousness, excessive sensitivity, and rigid opinions and attitudes. Persons who score high on this scale usually have paranoid symptoms. All 40 items in the original scale have been maintained in the MMPI-2.
+
+
+
+Scale 7: Psychasthenia (Pt) - This scale was originally developed to measure the general symptomatic pattern labeled psychasthenia. This diagnostic label is not commonly used today. Among currently popular diagnostic categories, the obsessive-compulsive disorder probably is closest to the original psychasthenia label. Psychasthenia was originally characterized by excessive doubts, compulsions, obsessions, and unreasonable fears. The person suffering from psychasthenia had an inability to resist specific actions or thoughts regardless of their maladaptive nature. In addition to obsessive-compulsive features, this scale taps abnormal fears, self-criticism, difficulties in concentration, and guilt feelings. The anxiety assessed by this scale is of a long-term nature or trait anxiety, although the scale is somewhat responsive to situational stress as well. All 48 items from the original scale have been maintained in the MMPI-2.
+
+
+
+Scale 8: Schizophrenia (Sc) - This scale was originally developed to identify patients diagnosed as schizophrenic. All 78 items in the original scale have been maintained in the MMPI-2. The items in this scale assess a wide variety of content areas, including bizarre thought processes and peculiar perceptions, social alienation, poor familial relationships, difficulties in concentration and impulse control, lack of deep interests, disturbing questions of self-worth and self-identity, and sexual difficulties. Misinterpretations of reality, delusions, and hallucinations may be present. Ambivalent or constricted emotional responsiveness is common. Behavior may be withdrawn, aggressive, or bizarre. Scale 8 is probably the single most difficult scale to interpret in isolation because of the variety of factors that can result in an elevated score. Scores on this scale are related to age and to race. Adolescents and college students often obtain T-scores in a range of 50 to 60, perhaps reflecting the turmoil associated with that period in life. Black subjects, particularly males, tend to score higher than white subjects, perhaps suggesting the alienation and social estrangement felt by many blacks.
+
+
+
+Scale 9: Hypomania (Ma) - This scale was originally developed to identify psychiatric patients manifesting hypomanic symptoms. Hypomania is characterized by elevated mood, accelerated speech and motor activity, irritability, flight of ideas, and brief periods of depression. Some of the 46 items deal specifically with features of hypomanic disturbance, while others cover topics such as family relationships, moral values and attitudes, and physical or bodily concerns. Scores on this scale are clearly related to age and to race, with adolescents and college students typically obtaining scores in a T-score range of 55 to 60, while elderly persons often achieve scores below a T-score of 50. Black persons typically score higher than white persons on the scale, often scoring in a T-score range of 55 to 65. All 46 items in the original scale have been maintained in the MMPI-2.
+
+
+
+Scale 0: Social Introversion (Si) - Scale ) was developed later than the other clinical scales, but it has come to be treated as a standard clinical scale. This scale was originally designed to assess a person's tendency to withdraw from social contacts and responsibilities. All but one of the 70 items in the original scale have been maintained in the MMPI-2. The items on this scale are of two general types. One group of items deals with social participation, while the other group deals with general neurotic maladjustment and self-depreciation. High scorers are generally seen as socially introverted, while low scorers tend to be sociable and extroverted. High scorers are very insecure and uncomfortable in social situations. They tend to be shy, reserved, timid, and retiring, while low scorers tend to be outgoing, gregarious, friendly, and talkative.
+
+
+
+
+
+THE MMPI/MMPI-2 IN DOMESTIC RELATIONS CASES:
+
+
+
+In a State Bar of Texas advanced Family Law course, David McClure made an interesting comment that psychological testing in custody disputes date back to the Old Testament, when King Solomon attempted to resolve a custody dispute of an infant. We are all familiar with his declaration that he would satisfy each woman by splitting the child in half, giving one-half to each of the women. He granted custody of the child to the woman who put the child's safety and welfare before her own needs. In today's world, King Solomon would have appointed a psychologist to conduct a full psychological evaluation to determine which mother had better parenting skills and perhaps which mother was determined to be the "psychological parent."
+
+
+
+The MMPI/MMPI-2 has been cited extensively in appellate cases involving custody evaluations as well as in cases where one party is attempting to limit parental rights for the sake of the children's welfare. Since the general goal in custody evaluations is to establish custody and visitation arrangements that are in the best interests of the children involved, courts often turn to psychological assessment to help determine which parent is best suited to be the primary custodial parent. MMPI-based assessment of parents can provide valuable information in identifying not only psychological and behavioral problems that might argue against a grant of custody but also characteristics that may suggest mature parenting abilities.
+
+
+
+In providing expertise in forensic evaluations, psychologists are often asked to provide expert opinions about the emotional health of the parents as well as assessing any possible developmental or adjustment problems related to the child. The MMPI/MMPI-2 is the most frequently administered psychological test in assessing parents. Personality assessments of parents entangled in custody disputes are among the most difficult that psychologists face. In fact, most licensing boards and professional insurance companies will tell you that those psychologists that embark on this specialty, have the most complaints and lawsuits filed against them.
+
+
+
+One of the problems that face the psychologist completing a custody evaluation is that men and women in custody disputes tend to be very self-protective and assert their lack of problems, while at the same time tending to provide extremely negative and acrimonious information about their spouse. It is important not to just accept these self-protective responses and claims about others without carefully exploring and evaluating the charges.
+
+
+
+As stated earlier, it would be nice to have a clean assessment that allows the attorneys to clearly see which client is better fit to be the "perfect" parent and which client may be guilty of abusive behavior. It isn't so simple, although some research does suggest that some MMPI/MMPI-2 scale scores are statistically associated with higher risk for child abuse. Other research studies have focused on how abuse (e.g., incest) affects the personality and development of the victim/survivor. The MMPI can also be used to help assess the credibility of a parent's self-report, possible psychopathology, problems with alcohol or drugs, and characteristics that seem to be associated with safe, appropriate, and effective parenting.
+
+
+
+
+
+REPORTED CASES INVOLVING THE MMPI IN DOMESTIC RELATIONS CASES:
+
+
+
+The MMPI has been cited in a large number of cases involving the issues of custody evaluation, limitations and termination of parental rights and adoption. Generally, the goal in custody evaluations is to establish the arrangements that are in the children's best interests. Litigation often involves acrimonious dissolution proceedings where allegations of neglect, abuse and molestation are alleged against one or both parents. MMPI-based assessment of parents is invaluable in identifying psychological and behavioral problems which often provide the basis of an order which provides or denies custody to one parent or the other.
+
+
+
+The MMPI is the most widely used standardized test of personality and is likely the most widely cited personality assessment instrument in litigation. Federal courts have affirmed the MMPI as a scientifically valid and accepted procedure for personality assessment. Regents of the University of Minnesota v. Applied Innovations, Inc. , 685 F Supp 698 (DC Minn 1987) and Applied Innovations, Inc. v. Regents of the University of Minnesota , 876 F2d 626 (8th Cir 1989).
+
+
+
+Examples of reported cases where the MMPI was admitted to support a custody evaluation include D.J. v. State Department of Human Resources , 578 So2d 1351 (Ala Civ App 1991) (the MMPI was accepted as evidence of a mother's mental state); In Re Rodrigo S., San Francisco Department of Social Services v. Joan R. , 225 Cal App3d 1179, 276 Cal Rptr 183 (Cal App 1 dist 1990) (the MMPI was accepted in a father's evaluation); Gootee v. Lightner , 224 Cal App3d 587, 274 Cal Rptr 697 (Cal App 4 Dist 1990) (MMPI-based testing was appropriately used to evaluate the family in the custody dispute); and Utz v. Keinzle , 574 So2d 1288 (La App 3 Cir 1991) (the MMPI was used in a custody dispute to evaluate two sets of parents).
+
+
+
+MMPI testing was also used to determine whether parental rights should be terminated in State ex rel. LEAS in Interest of O'Neal . 303 NW2d 414 (Iowa 1981) and to decide when parental rights should be given to potential adoptive parents in Commonwealth v. Jarboe , 464 SW2d 287 (Ky 1971).
+
+
+
+
+
+
+
+PREPARATION BY THE ATTORNEY:
+
+
+
+The fundamental principal for attorneys in preparing and confronting expert testimony using MMPI results is adequate preparation. It requires a commitment to the integrity of the case at issue. They attorney must prepare in such a way that he understands the evidence and arguments to be asserted on behalf of the client but also anticipates the opposition's assumptions, approach and documentation.
+
+
+
+Preparation starts with extensive background research and discovery. After carefully obtaining the client's version of events and supporting documentation, the attorney needs to make sure that he is adequately familiar with the MMPI as a standardized psychological test, with its legal history and context and with fundamental technical knowledge about evaluating, administering, scoring and interpreting psychological tests.
+
+
+
+The attorney must be familiar with the MMPI items as well as the rationale behind the test, and its nature, reliability an limitations. Most competent psychologists believe that taken alone and out of context of the test (e.g., the MMPI scales), a response to a single MMPI item may be of questionable validity. The response to the item remains to the attorney, however, a statement by the individual who took the MMPI. That statement may support or contradict other testimony given at deposition or trial.
+
+
+
+The lawyer, or his expert, should conduct a review of the literature to locate MMPI articles relevant to the case at hand. Retaining the right expert early in the case should make the task of background research much easier. Expert testimony often significantly influences the outcome of closely contested custody and domestic violence cases.
+
+
+
+Once the expert is retained to evaluate MMPI results, the attorney should not automatically assume that the expert should be called to testify. Fundamental queries need to be made, including the following:
+
+
+
+1. Will the MMPI results help the trier of fact understand facts or theories at issue in the case?
+
+
+
+2. Are the MMPI results consistent with the attorney's theory of the case?
+
+
+
+3. If the MMPI results are inconsistent, is there a reason for the inconsistency?
+
+
+
+4. Will the MMPI results confuse the trier of fact?
+
+
+
+Once the attorney has a fundamental understanding of the client's version of events, all supportive documentation that the client is able to supply, the nature and function of the MMPI as it is relevant to the case, the relevant diagnostic frameworks and categories and the expert's opinions and role, all remaining available information concerning the case that is the subject of the litigation should be obtained.
+
+
+
+The attorney must then obtain all documents in any way related to the adverse expert's evaluation in which the MMPI was used. The subpoena duces tecum should include all, but not be limited to, the following specifically enumerated materials:
+
+
+
+A. The expert's entire original file pertaining to the psychological exam or evaluation and any psychological testing, including but not limited to, testing materials and results of the MMPI or any version of the MMPI.
+
+
+
+
+
+2. All notes of conversations with any person, including the client or any person consulted in connection with this case or the exam or evaluation of the client and any psychological testing, including but not limited to, the MMPI or any version of the MMPI.
+
+
+
+3. All scorings, computerized scorings, and hand scorings of any and all psychological tests or assessment instruments, including but not limited to, the MMPI or any version of the MMPI.
+
+
+
+4. All psychological testing documents, including the original completed examinations (the actual answer form), score sheets, and notes written by the client or anyone else in connection with the testing.
+
+
+
+5. All MMPI testing documents for the client including the original completed examination, score sheets and notes.
+
+
+
+6. All documents that were reviewed in connection with the expert's exam or evaluation of the client or any aspect of the case entitled Doe v. Doe .
+
+
+
+7. All reports and drafts of reports prepared in connection with the expert's exam or evaluation of the client or your evaluation of the case entitled Doe v. Doe .
+
+
+
+8. All documents, including computer-scored or computer-generated information, that you reviewed or wrote or that you discussed with any person in connection with you exam or evaluation of the client or the evaluation of her MMPI testing, regardless of whether these documents are still in the expert's possession.
+
+
+
+9. The original file folders in which any information regarding the client is or has been stored.
+
+
+
+10. All calendars that refer to appointments with the client or any person with whom the expert discussed the evaluation of the case Doe v. Doe .
+
+
+
+11. All billing statements and payment records.
+
+
+
+12. All correspondence with any person in any way relating to the case Doe v. Doe .
+
+
+
+13. All video and audio tape recordings of or pertaining to the client.
+
+
+
+14. The expert's curriculum vitae, including a list of all articles, papers, chapters, books or other documents he has written or published, a list of all articles, papers, chapters, books or other documents, materials, or sources of information that he relied on in forming expert opinions regarding the matters at issue; transcripts from all institutions of higher learning attended by the expert; a list of all legal cases in which the expert has been endorsed in the last 5 years; a list of all attorneys and their addresses for each case in which the expert has been endorsed; and in some cases, a copy of the expert's dissertation or thesis.
+
+
+
+15. The originals of all correspondence, notes of conversations and documents between and among the expert witness, attorneys (who retained the expert), representatives and consultants of the attorneys in any way related to the case.
+
+
+
+The original file and folder is requested because short scribbled notes or notes on the reverse sides of documents can provide a wealth of information that might be missed when copies are requested.
+
+
+
+Needless to say, it is essential that the adverse witness who will be testifying concerning the MMPI be deposed. The objective is threefold: (1) to learn from the expert so that the attorney can better understand his own client and case; (2) to assess whether the opposing expert's testimony might be beneficial to one's own case; and (3) to determine how, if possible, the attorney can damage or destroy the credibility of the opponent's expert witness. It is a very rare occasion that the expert witness should be questioned for the first time in the courtroom during trial. Pretrial depositions of opposing experts should be the standard operating procedure.
+
+
+
+
+
+DIRECT EXAMINATION:
+
+
+
+Witnesses should be called and testimony elicited in such a way that adds support, clarity, detail, significance and immediacy to the basic story that the lawyer is attempting to communicate to the trier of fact. Providing testimony in narrative style by the experienced mental health witness is one way of making the story more vivid. In fact, research has indicated that there is generally a great difference in the way testimony in narrative style is received as opposed to fragmented style . If those hearing testimony believe that its style is determined by the lawyer, they may believe that use of a narrative style indicates the lawyer's faith in the witness' competence. Similarly, when witness uses a fragmented style, presumable under the direction of the lawyer, the lawyer may be thought to consider the witness incompetent.
+
+
+
+The attorney may want to address the following points for presenting the MMPI-2 in court in direct examination:
+
+
+
+1. Describe the MMPI in terms of being an objective, paper and pencil personality scale that has been widely researched and validated.
+
+
+
+
+
+2. Describe how widely used the MMPI is in clinical assessment, and cite references to support its broad use.
+
+
+
+3. Provide a rationale for the original development of the MMPI as an objective means of classifying psychological problems.
+
+
+
+4. Explain the empirical scale construction approach.
+
+
+
+5. Describe and illustrate how the MMPI was validated, and explain the correlate base for the clinical scales.
+
+
+
+6. Illustrate how the MMPI is used in personality description and clinical assessment.
+
+
+
+7. If pertinent to the case, describe the MMPI revision (and MMPI-2/MMPI-A).
+
+
+
+8. Describe and illustrate how the clinical scales of the revised versions (MMPI-2/MMPI-A) are composed of the same items and possess the same psychometric properties as the original version of the scales. Traditional scale reliabilities and validities have been assured in the revised version.
+
+
+
+9. Describe how the credibility and validity of a particular MMPI profile can be determined?
+
+
+
+10. Describe what the MMPI/MMPI-2/MMPI-A measures for the particular client?
+
+
+
+11. Establish that the results of the MMPI were only one factor that the clinician used in coming to a conclusion about the client. The MMPI is only a tool and the results should rarely, if ever, be used as the sole reason for arriving at an opinion or conclusion.
+
+
+
+12. Establish that the MMPI does not focus on cultural differentiations, and simply seeks an assessment of a test taker's personality.
+
+
+
+13. Establish how the MMPI-2 illustrates how the test taker meshes with the demographics of the national norm.
+
+
+
+14. Describe how the test was scored (by computer, by hand, by some third party, etc.).
+
+
+
+15. Establish the expert's observation and opinion about the test taker's behavior and actions derived from the test taker's T scores.
+
+
+
+
+
+
+
+CROSS EXAMINATION:
+
+
+
+Few aspects of legal proceedings require more extensive, detailed preparation for the attorney than discovery through deposition and subsequent cross examination. Although on occasion it is strategically useful to jump from one topic to another (in order to determine how different aspects of the testimony fit together) and to return to a topic repeatedly (to assess the degree to which an expert's testimony on a specific topic is consistent during the long course of deposition and cross examination), it is crucial that the attorney have a well-organized outline to ensure that all relevant questions are asked.
+
+
+
+The major difference between questions asked during the trial of your own witness on direct examination and that asked in cross examination of the opposing expert is the manner in which the questions are asked. Direct examination questions are usually phrased in an open-ended manner, whereas cross-examination questions during the trial are generally closed-ended, requiring a short, specific answer, often a "yes" or "no" to which the examiner knows the answer. The examiner must be prepared to impeach or contradict the expert if the answer is anything other than what is anticipated.
+
+
+
+There is no special or best style of cross examination, but the attorney must be organized and prepared to take the expert in the direction that careful preparation lets the attorney know he can accomplish.
+
+
+
+One of the most difficult tasks facing the attorney in a case involving the MMPI is deposing and cross examining the expert witness. The attorney himself must attempt to become as knowledgeable as the expert witness about the MMPI as an instrument, about its use in the case at hand, and about the complex and detailed framework or psychological theory, research and practice with which the MMPI results and other evidence in the case will be understood. Questions put to the adverse expert (at deposition and if pertinent at trial) testifying in a case involving the MMPI fall into twelve basic categories. They are as follows:
+
+
+
+1. Compliance with the subpoena .
+
+
+
+
+
+a. Determine whether any of the documents were altered, recopied, erased, written over, enhanced, edited or added to since originally created.
+
+
+
+b. Determine whether any documents are missing--such as the computer printout which was copied over and substituted by a hand-copied replica.
+
+
+
+c. Determine whether any of the documents been lost, stolen, misplaced, destroyed or thrown away?
+
+
+
+d. Determine whether the expert has any policies for keeping or eliminating documents, the rationale for such policies and how monitored and implemented.
+
+
+
+2. Education and Training .
+
+
+
+a. Does the expert meet the criteria or recognized formal training for the title they refer to themselves? The "expert" may have a psychological degree but lack a doctorate in psychology--possessing a doctoral degree in some unrelated field as Dr. Laura does on national radio.
+
+
+
+b. Which of the degrees or internships is relevant to the expertise and testimony which is being provided?
+
+
+
+c. Which of the training programs and internships were fully accredited the full time the expert was in attendance?
+
+
+
+d. What is the name, title and other vital information of the directors of each graduate training program and internship?
+
+
+
+e. Did the expert fail to successfully complete a doctoral degree, clinical practicum, field placement, internship or similar program?
+
+
+
+f. What specific courses and training in psychological testing and assessment did the expert take and successfully pass?
+
+
+
+g. How many hours in each course, workshop or training program were devoted specifically to the MMPI?
+
+
+
+3. Illegal, unethical or unprofessional behavior .
+
+
+
+a. Has anyone ever filed a complaint against the expert with a licensing board in any jurisdiction and the details of such complaints?
+
+
+
+b. What complaints were filed against the expert with any ethics committee, professional standards review committee, peer review board or other organization?
+
+
+
+c. Has there ever been a malpractice or criminal action filed against the expert?
+
+
+
+4. Occupational history .
+
+
+
+a. What professional positions has the expert had since graduate school?
+
+
+
+b. Are there positions omitted from the curriculum vitae but mentioned in the deposition which might be because the expert was fired for cause or otherwise found to have committed acts that might cast doubt on credibility or expertise.
+
+
+
+c. Are there gaps when the expert moved from one level to a seemingly lower level (e.g., from full-time, untenured professor at a major university to full-time, untenured position at an unaccredited university within the same city)?
+
+
+
+d. Which of the positions involved the administering, scoring or interpreting the MMPI?
+
+
+
+5. Research and publication history .
+
+
+
+a. Has the expert conducted any research or published any books, chapters, articles or other documents that involved the MMPI?
+
+
+
+b. Is the expert's testimony in the current case consistent with what the expert has previously written?
+
+
+
+c. Was the publisher of an authored document reputable?
+
+
+
+6. Forensic history .
+
+
+
+a. Has the expert previously testified as an expert witness regarding the MMPI in any proceeding or setting?
+
+
+
+b. Is the prior testimony consistent with the testimony offered by the adverse expert witness in this case?
+
+
+
+c. Does the expert's prior testimony suggest a bias or prejudice?
+
+
+
+7. Knowledge of general issues of tests and psychometrics .
+
+
+
+a. Does the expert have genuine expertise and understand the nature of testing as opposed to following a "cookbook" method of test use or improvising opinions?
+
+
+
+b. Was the standardized MMPI tests conducted under generally standardized conditions, i.e., in all essential respects that might significantly affect test performance?
+
+
+
+c. Is the expert aware of characteristics of the individual taking the test or the testing circumstances which may significantly influence test results and interpretations?
+
+
+
+d. Did the expert follow the standard procedures for administering the test and were special individual characteristics or testing circumstances adequately taken into account and discussed in the forensic report?
+
+
+
+e. Is the expert able to distinguish retrospective accuracy from predictive accuracy? In other words, is the expert confusing the directionality of the inference (e.g., the likelihood that those who score positive on a hypothetical predictor variable will fall into a specific group versus the likelihood that those in a specific group will score positive on the predictor variable). Cross examination must carefully explore the degree to which testimony may be based on such misunderstandings.
+
+
+
+f. How consistent or reliable are the test results? See if the test taker took the test on more than one occasion and whether the results were identical. MMPI test results might be different because of the time or conditions under which the test was administered.
+
+
+
+g. What types of scales were involved in the various tests and methods of assessment that the expert considered in selecting the instruments and diagnostic frameworks that the expert used in the case at hand?
+
+
+
+h. What is a T score, and what are its psychometric properties? Understanding the T score is essential to understanding the MMPI.
+
+
+
+8. Knowledge of the MMPI .
+
+
+
+a. Ask the expert to describe the normative group for the original MMPI and for the MMPI-2.
+
+
+
+b. Inquiry whether the normative group for the MMPI-2 scored about half of one standard deviation above the mean on the clinical scales of the original MMPI and whether that doesn't illustrate that the group was not therefore not really normal? Knowledgable experts should be able to explain that the difference seems largely the result of differences in instructional sets and unanswered questions.
+
+
+
+c. A series of questions can be asked if the expert's previous responses do not show a basic familiarity with the MMPI. The quetions include the level a clinical score must be to be considered significant, what scales indicate the degree to which a specific test protocol is valid and what reading level is required for the MMPI-2.
+
+
+
+
+
+9. Administration and scoring .
+
+
+
+a. Who was responsible for administering the test?
+
+
+
+b. Was the test administered in a setting close to that employed in normative studies?
+
+
+
+c. What instructions were given to the test taker? The purpose of this question is to determine whether the conditions adequately met the criteria for a standardized test. Did for example, the person who administered the test include instructions regarding attempting to answer all items which can affect the validity of the test.
+
+
+
+d. How was the test taker's reading level assessed?
+
+
+
+e. Was the test administration directly monitored? What degree did the test taker relied on other sources or written material for filling out the test? To administer the MMPI without adequate monitoring violates the published opinion of the APA's Committee on Professional Standards.
+
+
+
+f. Was any phase of the assessment audiotaped, videotaped or otherwise recorded?
+
+
+
+g. What conditions of test administration did the expert consider as potentially affecting the validity of the MMPI?
+
+
+
+h. Has anyone but the expert had access to the original completed response form?
+
+
+
+i. Has the original completed response form been altered in any way by anyone? Did anyone except the test taker make marks on, erase or change the original form in any way?
+
+
+
+j. Were any test data discarded, destroyed, recopied or lost? Are all of the documents involved in the administration and taking of the test present in their original form?
+
+
+
+k. Who scored the test? Was it hand scored or done by machine or computer?
+
+
+
+l. Did the scoring differ in any way whatsoever from the scoring method set forth in the MMPI manual? To the degree that the standardized methods for scoring are altered the test is no longer standardized. The reliability, validity and interpretations that are associated with the standardized test do not automatically transfer to methods of scoring that deviate from those specified in the manual and the research literature.
+
+
+
+m. What steps has the expert taken to ensure that the scoring of this test is accurate and free from error?
+
+
+
+n. Were there any changes made in the test format, mode of administration, instructions, language or content?
+
+
+
+10. Interpretation .
+
+
+
+a. By what method were these interpretative statements derived from the MMPI scores and profiles?
+
+
+
+b. Did the expert have any reservations or qualifications regarding the validity of the interpretations that he is presenting?
+
+
+
+c. What other documents or sources of information does the expert consider important or relevant to interpreting this MMPI profile?
+
+
+
+11. The unexpected: Testimony regarding specific claims and issues .
+
+
+
+a. No matter how thoroughly an attorney has prepared his side of the case and no matter how favorable the opinions formed by the expert witness whom he has designated, the attorney is likely, at least occasionally, to encounter one or more surprises from opposing experts.
+
+
+
+b. There is no easy or magical way for an attorney to simply be sure whether such claims are exceptionally well founded, entirely bogus or somewhere in between. Theories that have the ring of authority, common sense and inevitability may be ludicrously fallaciious. Concepts that seem bazarre, counterintuitive and just downright silly may, in fact, be valid.
+
+
+
+c. To help attorneys untangle and examine overwhelmingly complex and intertwined issues comprehensively, Pope, Butcher and Seelen, recommend using a systematic set of 16 fundamental questions about each relevant issue. The list of areas of inquiry that follow can be used both as a "road map" to the extensive discussion and analysis that follows in the book and also as an outline for deposition or cross-examination questioning:
+
+
+
+1) the adequacy with which the expert portrays the studies, information or publications;
+
+
+
+2) relevance;
+
+
+
+3) internal consistency;
+
+
+
+4) research foundation;
+
+
+
+5) definition and consistent application of evaluative criteria;
+
+
+
+6) number of investigations;
+
+
+
+7) sample size;
+
+
+
+8) criteria for "success";
+
+
+
+9) duration of study;
+
+
+
+10) questionable applications;
+
+
+
+11) level of effectiveness;
+
+
+
+12) reliability and validity;
+
+
+
+13) independent verification;
+
+
+
+14) ethically questionable research practices;
+
+
+
+15) publication in peer-reviewed academic, scientific or professional journals; and
+
+
+
+16) accounting for the base rate.
+
+
+
+12. Options and alternatives .
+
+
+
+a. In arriving at his diagnosis or other conclusions, what alternatives did the expert consider? In some cases, the attorney may want to list possible alternatives and ask the expert to explain why he did not arrive at each alternative diagnosis.
+
+
+
+b. Is there any other source of information that the expert did not take into consideration (e.g., because it was not available or because the expert chose not to administer a particular test) that might be relevant or that might change his opinion? If the expert acknowledges such an alternative conclusion, the attorney might want to ask the questions that follow.
+
+
+
+c. How such a source of information might alter the expert's opinion?
+
+
+
+d. Whether the expert is less certain of his opinion in the absence of this information?
+
+
+
+e. Why the information was not obtained? In some instances, the attorney may discover that the opposing attorney who retained the expert had possession of (or access to) such records or information but did not make them available to the expert; if so, this situation and its implications should be carefully explored.
+
+
+
+The list of questions set forth above is in no way intended to be exhaustive. It is merely an outline of categories and types of questions that might lead to helpful testimony and evidence that will aid in the attorney's attempt to discredit, damage or destroy the adverse expert's testimony and the weight of his opinions and conclusions. The professional work that has been most useful to these authors in preparing this paper is the book written by Pope, Butcher and Seelen entitled The MMPI, MMPI-2, & MMPI-A in Court: A Practical Guide for Expert Witnesses and Attorneys . This book is geared not only for seasoned attorneys and expert witnesses but also for psychologists who have never set foot in a courtroom and attorneys who have never heard of the MMPI.

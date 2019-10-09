@@ -1,0 +1,54 @@
+The NSA’s Phone Database Makes Sense. But It Needs Transparent Safeguards.
+Photo by Kevin Lamarque/Reuters
+
+You can also listen to William Saletan read this piece.
+
+William Saletan Will Saletan writes about politics, science, technology, and other stuff for Slate. He’s the author of Bearing Right.
+
+
+
+It sounds as though NSA goblins have been studying everyone’s phone calls. But that isn’t how the program works. It’s a two-stage process. The first stage—collection—is massive and indiscriminate. The second stage—examination of particular records—is restricted. We can argue over whether this two-tiered policy is too intrusive. But either way, our debate about it has focused on the wrong stage. The problem isn’t the data collection. It’s how the data are used.
+
+Advertisement
+
+
+
+The first document published by the Guardian, an order from the Foreign Intelligence Surveillance Court, instructs Verizon to “produce” to the NSA electronic copies of “all call detail records” related to phone calls within, to, or from the United States. Although the order pertains only to the date, length, and phone numbers involved in each call—not to what was said—it’s still a colossal demand. But what happens to the data once the NSA gets it? James Clapper, the director of national intelligence, gives this account:
+
+“The collection is broad in scope because more narrow collection would limit our ability to screen for and identify terrorism-related communications. Acquiring this information allows us to make connections related to terrorist activities over time. … By order of the FISC, the Government is prohibited from indiscriminately sifting through the telephony metadata acquired under the program. … The court only allows the data to be queried when there is a reasonable suspicion, based on specific facts, that the particular basis for the query is associated with a foreign terrorist organization. … Only a very small fraction of the records are ever reviewed because the vast majority of the data is not responsive to any terrorism-related query.”
+
+In other words, the rules that most of us would apply at the collection stage—reasonable suspicion, specific facts, court approval—are applied instead at the query stage. Michael Hayden, the former head of the NSA, CIA, and national intelligence office under President Bush (no, he didn’t hold all three of those jobs at once), describes how the program operates. “The government acquires records … from the telecom providers, but then doesn't go into that database without an arguable reason connected to terrorism to ask that database a question,” Hayden explained on Fox News Sunday. For instance, “You roll up something in Waziristan. You get a cell phone. It's the first time you've ever had that cell phone number. You know it's related to terrorism because of the pocket litter you've gotten in that operation. Here's how it works: You simply ask that database, ‘Hey, any of you phone numbers in there ever talked to this phone number in Waziristan?’ ”
+
+Note the indefinite past tense. The analyst asks whether any of the numbers in the database has ever talked to the number in Waziristan. That’s why the database is colossal: Its aspiration is to capture and preserve records of every call so that no potential lead is missed. Big Brother isn’t watching you. But he does want your records in the database so that if any number you called later surfaces in a plot, he can look back through history, spot the connection, and check you out.
+
+Advertisement
+
+
+
+The magnitude of this project—a permanent, comprehensive library of which phones called which other phones, when, and for how long—means that no record is deleted. Chris Wallace asked Hayden, “What do you do with all the records, the billions of records that you have on all of us law-abiding citizens?” Hayden replied: “Nothing. … You get the cell phone with that [Waziristan] number six months from now. You want to know the history of that number. … So you do retain the information so that you can ask questions of it in the future.”
+
+In some ways, this process resembles traditional law-enforcement analysis of phone calls to and from a suspect. But there’s a big difference. On Face the Nation, Rep. Mike McCaul, R-Texas, the chairman of the House Homeland Security Committee, observed:
+
+“When I was a counterterrorism federal prosecutor, we could take the number and run them through the phone companies, through a national security letter or subpoena. Now what has happened is they have literally taken all these phone records and maintained them, taken them out of the private sector and maintained them in the public sector within the NSA. … It's the warehousing of all the phone records from all the major carriers within the federal government …”
+
+Why would the NSA do this? Why not wait till we snag that phone in Waziristan and then order Verizon to turn over records of the calls going in and out? On This Week, Rep. Mike Rogers, R-Mich., chairman of the House Intelligence Committee, offered this explanation:
+
+Advertisement
+
+
+
+“After 9/11, we realized there was a big hole in our ability to fully identify all of the players in that terrorist plot. And [part] of it was by the fact that these business records, the phone billing information, is destroyed by these companies. They can't—expense-wise, it's really difficult for them to hold them. So this is what happened: The [FISA] court said, 'Put all of that information in a box, and hold that information. And when you want to access that information, you have to use this very specific court-ordered approval process.'”
+
+That’s the concept: Collect the companies’ records so they’re never lost. Later, when we have a suspicious phone number, we can scan the universe of records to find every number connected to that number. Your records are never purged from the database, because being in the database doesn’t mean you’re under suspicion. It’s simply the default.
+
+The catch is that your records are now in the government’s hands. Civil libertarians are right to worry about that. The reason this is still a free country, 237 years later, isn’t that our public servants are such wonderful people. The reason is that we constantly improvise systems to block or catch them when they try to abuse power.
+
+Clapper, President Obama, and the heads of the congressional intelligence committees swear that the NSA has safeguards to prevent abuse of the phone data. They point to congressional oversight and judicial veto power through the FISC. I’m sympathetic to that defense. But they can’t just assert that these safeguards exist. They have to tell us more about them. Why should we trust a secret court that rarely turns down the government’s demands? Why should we rely on senators who don’t even attend briefings on surveillance programs?
+
+Advertisement
+
+
+
+If we don’t get satisfactory answers to these questions, we don’t have to reject the NSA’s database. We just have to build in sensible, visible restrictions. One strategy is to divide the information—which numbers you’ve called, on which dates, and through which cell towers—so that no individual analyst can know everything about your calls. That’s how we protect your privacy in naked airport scanning: The officer who sees your body can’t see your face or your name. The NSA query system could be set up so that numbers don’t even appear on the analyst’s screen unless they’re triggered, through a connection in the database, by the manual input of a number from a court-approved list. The FISC could be monitored by a public advocate or inspector general whose reports go immediately to the intelligence committees and are later declassified so the public can evaluate the oversight.
+
+For all we know, the NSA is already doing some of these things. What’s absurd is that we don’t know, because the government won’t tell us. That’s bad for civil liberties and for security. It breeds suspicion and overreaction. If we can’t trust the government to manage surveillance data through publicly understood procedures that inhibit abuse, we won’t let it have the data to begin with.

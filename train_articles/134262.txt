@@ -1,0 +1,32 @@
+Restaurant App Zomato Says Your Stolen Password Is Fine. But Is It?
+On Thursday, Zomato, a company that makes an app to help find restaurants, announced hackers had stolen 17 million account user details.
+
+In its statement, Zomato tried to reassure affected users by saying that around 60 percent of its customers actually login via other services, such as Google and Facebook, so Zomato didn't posses those users' passwords in the first place. The company also said that because of the way it stores login details, hackers cannot easily convert the stolen hashes into plaintext passwords.
+
+But, that doesn't appear to be true. According to a sample of alleged Zomato data posted on the dark web, and additional samples the alleged hacker gave to Motherboard, Zomato used an outdated algorithm to hash its customer's passwords, and only took other, minimal protections.
+
+"We hash passwords with a one-way hashing algorithm, with multiple hashing iterations and individual salt per password. This means your password cannot be easily converted back to plain text," Zomato's statement reads.
+
+In short, hashing is taking a piece of data—say, a password—and making a cryptographic representation of it, which, theoretically, can not be reversed. Companies can just store the hash of the user's password, rather than the password itself. And so in the event of a data breach, users' real passwords aren't just floating around the internet.
+
+Some hashing algorithms produce more robust results than others. For example, MD5 is notoriously weak, and hackers can often crack MD5 hashes to obtain passwords. Bcrypt, on the other hand, is pretty robust. Companies may also add a "salt"—a random series of characters—to a user's password to make the hash a bit stronger too.
+
+It looks like Zomato used MD5, with a very short salt.
+
+The vendor selling the alleged Zomato data on the dark web marketplace Hansa also posted a sample of around 50 accounts with their listing. Each includes a username, an MD5 hash, and then a salt comprising of two characters. (Motherboard confirmed that the data likely relates to Zomato by attempting to create new accounts with the dumped email addresses; in all cases this was not possible because a connected account already existed).
+
+Motherboard pasted the sample into an online hash checker, which compares the data to a list of already cracked hashes. The service successfully returned just over half of the users' alleged passwords. Some of these were predictable, such as "password," but others were seemingly random strings of letters and digits.
+
+Andrew Mabbitt from Fidus Information Security was also able to crack a similar percentage of the passwords hashes himself in a couple of minutes on a laptop, he told Motherboard.
+
+"Whilst a salt was appended to the hashes, it was only 2 characters long and provided virtually no benefit. Along with this, the MD5 hashing algorithm is outdated and has been superseded by more cryptographically secure hashing algorithms," he told Motherboard in an online chat. For-profit breach notification site LeakBase, which says it received some Zomato data, also told Motherboard the hashes they obtained appear to be created with MD5.
+
+Zomato did not respond to multiple requests for comment.
+
+According to the hacker selling the alleged Zomato data, they found a vulnerability in the company's infrastructure around a year ago. The hacker told Motherboard that they reported it, but did not receive a reply.
+
+"It does not justify the pain I caused to them, but it is a reason," they told Motherboard.
+
+In a strange twist, Zomato published an updated blog post on Thursday, claiming the hacker had agreed to remove the advertisement from the dark web and destroy any copies of the data itself. Zomato also said it will soon launch a bug bounty program.
+
+Update: After the publication of this article, Zomato published an updated blog post. We have updated the article to reflect that.

@@ -1,0 +1,26 @@
+Elephant Database
+This website contains data from surveys that were conducted on or before December 31, 2013, as well as expert opinion for that time. In the interest of making this data available sooner rather than later, the Data Review Working Group of the African Elephant Specialist Group is continuing to conduct a detailed review of these webpages. Though there may be some minor errors and discrepancies, and corrections are listed here, the Data Review Working Group believes the overall continental, sub-regional, and national summaries are reflective of the submitted data.
+
+(Any comments regarding potential errors can be submitted to afesg@iucn.org. Questions about interpretation are also welcome.)
+
+This update should be viewed in the context of the following key points:
+
+1. Since the African Elephant Status Report 2007 there has been a reduction in the number of ‘Definite’ elephants. This decline appears to be a genuine reduction in a number of populations counted using consistent techniques, particularly in Tanzania, Chad, Zambia and Zimbabwe.
+
+2. Botswana has the largest elephant population of any country in Africa, but recent surveys have provided inconsistent results.
+
+3. Although major declines are believed to have taken place in a number of elephant populations in Central Africa, these declines are not apparent in the database because a number of populations were surveyed for the first time after the African Elephant Status Report 2007 was published, and the additional elephants enumerated in these surveys have compensated for the reductions elsewhere.
+
+4. There has been an increase in the number of elephants recorded in the Definite,’ ‘Probable,’ and ‘Possible’ categories in South Sudan, but this is due to recent survey work and is not indicative of a genuine increase in elephants.
+
+5. Some areas which have not been surveyed recently may have lost elephants since the surveys were carried out. This applies particularly to areas with ‘Speculative’ elephants, which may have been surveyed more than 10 years ago. There are some surveys from five to ten years ago, for example, that are still treated as current (with ‘Definite,’ ‘Probable’ and ‘Possible’ elephants). 6. Elephant populations appear to have increased in South Africa, Namibia and Uganda since the African Elephant Status Report 2007.
+
+Introduction
+
+This is an update on the status of the African elephant produced under the aegis of the African Elephant Specialist Group (AfESG) of the IUCN Species Survival Commission (SSC). It is based on data from the African Elephant Database (AED), the official database on the conservation status of the African elephant. Since 2009, the AfESG has been working on a major shift in the infrastructure of the AED. The AED is now housed in a ‘global’ elephant database, the African and Asian Elephant Database (AAED), available through a web interface. At present, Asian elephant range is available, and the IUCN/SSC Asian Elephant Specialist Group is working to integrate population data. This is an open source project and the code is available for use and modification by other Specialist Groups or the general public. The new system provides a number of advantages, not least of which is the near immediate publication of survey results as we receive them, rather than waiting for the publication of an updated set of pooled estimates.
+
+There has been no change in the system for categorization of different data types. As such the elaboration on pages 6-19 of the AESR 2007 is a useful resource in interpreting the current update. The only change is a slight change in coding for Informed and Other Guesses. Informed guesses are noted as O (data reliability D) and other guesses are noted as O (data reliability E).
+
+Acknowledgements
+
+The AfESG is very grateful to all data providers, including AfESG members, range State wildlife agencies, NGOs and individual researchers. The provision of up-to-date data helps to ensure that the most recent available data are included in the database. Particular thanks are due to the Data Review Working Group of the AfESG, Julian Blanc, Colin Craig, Holly Dublin, Chris Thouless, Iain Douglas-Hamilton, John Hart, and Howard Frederick, and reviewers Fiona Maisels and Philippe Bouché. A number of donors and partners have assisted in the development of the AAED, and in the preparation of this update: CITES, CITES MIKE, Solertium, U.S. Fish & Wildlife Service, the European Commission, Tusk Trust, Save the Elephants, WWF, and DEFRA.

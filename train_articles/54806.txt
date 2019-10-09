@@ -1,0 +1,54 @@
+Use of Non-U.S. Citizen Data obtained from the Department of Public Safety
+Election Advisory No. 2019-02
+
+To: Voter Registrars/Elections Administrators From: Keith Ingram, Director of Elections
+
+Date: January 25, 2019 RE: Use of Non-U.S. Citizen Data obtained from the Department of Public Safety
+
+Pursuant to Section 730.005, Transportation Code, personal information obtained by the Department of Public Safety (DPS) in connection with a motor vehicle record shall be disclosed and used for any matter of voter registration or the administration of elections by the secretary of state. The secretary of state has been working with DPS to obtain and use information regarding individuals who provided documentation to DPS showing that the person is not a citizen of the United States during the process of obtaining or acquiring a Texas Driver License or Personal Identification Card from DPS. The initial set of information provided by DPS is being compared to the voter registration rolls, and we are providing information relating to matches out to counties beginning tomorrow.
+
+Background: Beginning in early March 2018, our office began working with DPS to review and refine the data able to be provided by DPS for use in this list maintenance process. The goal was to produce actionable information voter registrars could use to assist in their list maintenance responsibilities. In keeping with general guidelines set out under Section 18.0681, Election Code, our office sought to create the strongest matching criteria that produces the least possible impact on eligible Texas voters while fulfilling the responsibility to manage the voter rolls. To that end, our office and DPS spent time evaluating the data and refining the query to limit the information being provided to us for use in this list maintenance exercise to individuals who provided valid documents indicating the person is not a citizen of the United States at the time the person obtained a Driver License or Personal Identification Card. It is important to note that we are not using information self-reported by the person regarding their citizenship status; rather, we are using documents provided by the person to show they are lawfully present in the United States. As part of the processing for issuing a card, these documents would have been validated by DPS against the Systematic Alien Verification for Entitlements (SAVE) Database, which is administered by the U.S. Citizenship and Immigration Services, a component of the Department of Homeland Security. Once a person’s document is validated through SAVE and a card is issued, then the individual’s information will be provided to our office in the next data file to be supplied. Our office has obtained the preliminary data file for all current (unexpired) Driver License and Personal Identification cards that meet this criteria, and we will run that set of information tomorrow evening. After that initial data set has been run, DPS will provide information to our office on a monthly basis of individuals obtaining a Driver License of Personal Identification card since the last data file has been provided. We will run those as they are received by our office.
+
+There is likely to be a law enforcement interest in the data that we are providing to you. If you receive any requests from the public for the information, please contact your local prosecutor and the attorney general, who have jurisdiction over such matters.
+
+Impact of Data being obtained: It should be noted that the additional source of data being obtained from DPS does not change or modify the voter registrar’s rights or responsibilities under Section 16.033, Election Code. The voter registrar has the right to use any lawful means to investigate whether a registered voter is currently eligible for registration in the county. This section does not authorize an investigation of eligibility that is based solely on residence. If the registrar has reason to believe that a voter is no longer eligible for registration, the registrar shall deliver written notice to the voter indicating that the voter’s registration status is being investigated by the registrar. The notice shall be delivered by forwardable mail to the mailing address on the voter’s registration application and to any new address of the voter known to the registrar. If the secretary of state has adopted or recommended a form for a written notice, the registrar must use that form. The obtaining of information from DPS and providing matching data to the voter registrar merely expands the resources available to the registrar for use in list maintenance. The registrar, ultimately, is responsible for determining whether or not the information provides the registrar with reason to believe the person is no longer eligible for registration. If the registrar determines this standard has been met, the registrar should send a Notice of Examination for Citizenship (Proof of Citizenship) (PDF) Letter.
+
+Matching Information: This DPS non-U.S. Citizen data is matched against the TEAM system, and information will be provided to counties if/when a match is identified between the DPS data and a registered voter in the county. Records are identified as Possible Non U.S. Citizens when one of the following combinations matches between a voter record and the DPS data:
+
+Last Name (including Former Last Name on the Voter Record), First Name, and Full Social Security Number (SSN) (9 digits);
+
+Last Name (including Former Last Name on the Voter Record), First Name, and Texas Department of Public Safety (DPS)-Issued Driver License, Personal Identification Card, or Election Identification Certificate Number; or
+
+Last Name (including Former Last Name on the Voter Record), First Name, Last Four Digits of the SSN, and Date of Birth.
+
+These are some of the strongest possible matching criteria used in TEAM and are the current matching criteria used when determining whether or not to transfer a voter to an Offline County when the Offline County submits a new registration application. A match to a new voter registration application submitted by an Offline County to an existing voter using the above listed criteria will result in the transfer of the voter record. The point of this is to emphasize that our goal was to produce actionable information for voter registrars while producing the least possible impact on eligible voters, meaning we believe the data we are providing can be acted on in nearly all circumstances.
+
+All records submitted through this process will need to be treated as WEAK matches, meaning that the county may choose to investigate the voter, pursuant to Section 16.033, Election Code, or take no action on the voter record if the voter registrar determines that there is no reason to believe the voter is ineligible. The county may not cancel a voter based on the information provided without first sending a Notice of Examination (Proof of Citizenship Letter) (PDF) and following the process outlined in the letter. In order to help counties make a determination regarding whether or not to send a Notice of Examination or close the task without taking further action, information provided by DPS will be provided to each county for further review and comparison against the voter record.
+
+Workflow for Possible Non-U.S. Citizen Investigation: Again, counties are not permitted, under current Texas law, to immediately cancel the voter as a result of any non-U.S. Citizen matching information provided. This is applicable to notifications received from jury summons responses, as well as the dataset discussed in this advisory: possible non-U.S. Citizen notifications coming from DPS.
+
+For matching notifications coming from Jury Summons response devices, the county must send the voter a Proof of Citizenship Letter (Notice of Examination).
+
+send the voter a Proof of Citizenship Letter (Notice of Examination). For the matching notifications originating from DPS data, the county user has the choice to either:
+
+Send a Proof of Citizenship Letter (Notice of Examination) to the voter; thereby starting the 30-day countdown clock before cancellation, or Take no action on the voter record and simply close the task as RESOLVED.
+
+A voter may only be cancelled based on possible non-U.S. Citizen matching information if a Proof of Citizenship Letter (Notice of Examination) (PDF) was sent to the voter and:
+
+The voter responded to the Notice in under 30 days indicating the voter is not in fact a U.S. Citizen (you would cancel for not being a citizen – Cancel Reason: Non U.S. Citizen); The voter failed to respond to the Notice within 30 days and is being cancelled for failure to respond to the notice (Cancel Reason: Failure to respond to Notice of Investigation); or The notice was mailed and returned as undeliverable to the registrar with no forwarding information available (Cancel Reason: Failure to respond to Notice of Investigation).
+
+To aid in this process, new Dashboard options will be available within the Possible Non U.S. Citizen Dashboard task and a new Event Type has been developed for Offline counties. We are not able to leverage the current Non U.S. Citizen Notification task, which is currently created when a match identifies a voter having responded to a jury summons that he/she is not a United States citizen. We cannot use the current Dashboard line item task/event type because counties are required (by current law) to investigate those records identified as a response to the jury summons response device under the current process. Counties are not, however, required (by current law) to investigate the new DPS data matches if they do not believe that a voter is ineligible to vote. However, our office will provide the data obtained from DPS in order to allow counties all the information necessary to make the determination regarding whether or not to investigate the voter.
+
+Response needed from the voter: Once a Notice of Examination for Citizenship (Proof of Citizenship) Letter (PDF) has been issued to a voter, the voter is required to provide proof of citizenship as outlined under Section 16.0332, Election Code. This includes:
+
+A certified copy of the voter's birth certificate,
+
+United States passport, or
+
+Certificate of naturalization
+
+A copy of one of these documents (including a copy of the passport) being returned to the registrar is sufficient to meet the proof requirement. The registrar is required to retain a copy of the notice mailed and any proof of citizenship received by the voter. If the voter comes in person and provides proof, then the registrar should make a copy of the document provided and retain it, along with a copy of the notice that was mailed, with the application file for the voter.
+
+For more information, please contact the Elections Division at 1-800-252-VOTE(8683).
+
+KI:BS

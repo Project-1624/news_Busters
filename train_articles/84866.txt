@@ -1,0 +1,26 @@
+How Is the Stimulus Money Allocated?
+Unemployment isn’t a factor, but politics is. Your stimulus dollars at work.
+
+Using recipient report data from Recovery.gov, as well as economic and political data from the Bureau of Labor Statistics, the Census Bureau, GovTrack.us, and others, I have compiled a series of facts about stimulus spending. The complete dataset used for this report is available for download at Mercatus.org — it covers the fourth quarter of the calendar-year 2009 Recovery Act contracts and grants only — but here are the main facts.
+
+First: The idea behind the $787 billion stimulus bill is that, if the government spends money where it is the most needed, it will create jobs and trigger economic growth. Hence, we should expect the government to invest more money in districts with higher unemployment rates.
+
+Controlling for the percentage of the district employed in the construction industry, a proxy for the vulnerability to recession of a district, I find no statistical correlation for all relevant unemployment indicators and the allocation of funds. This suggests that unemployment is not the factor leading the awards. Also, I found no correlation between other economic indicators, such as income, and stimulus funding.
+
+Second: On average, Democratic districts received one-and-a-half times as many awards as Republican ones. Democratic districts also received two-and-a-half times more stimulus dollars than Republican districts ($122,127,186,509 vs. $46,139,592,268). Republican districts also received smaller awards on average. (The average dollars awarded per Republican district is $260,675,663, while the average dollars awarded per Democratic district is $471,533,539.)
+
+Of course, there are more Democratic districts than Republican districts in the Congress. So I checked for the correlation between political indicators and stimulus funding. I found that with the exception of the district’s party affiliation (whether the district’s representation was Republican or Democratic), political variables had no effect on stimulus funds allocation.
+
+So how much did party affiliation matter? Well, while the effect was significant, because of the specifications of the model more confidence should be placed in the relationship between the two variables than on the quantification of that relationship. In other words, while we know that whether the district is represented by R or D mattered for funding, I can’t tell you how much this factor mattered compare to other factors.
+
+Third: In this second quarter for which Recovery.gov reports are available, over 65,000 contracts and grants were awarded. The total spending topped $170 billion.
+
+Fourth: The total number of jobs claimed as created or saved overall by the stimulus actually declined from last quarter, shrinking from about 634,000 to a little over 597,000.
+
+This job shrinkage could be the result from changes made by the White House to its method for counting jobs. However, I doubt it. The new job count considers that every job paid for with stimulus dollars is a job created. This logic applies to pay raises.
+
+Five: I found that an average cost of $286,000 was awarded per job created, a 16.3 percent increase over the previous period.
+
+To sum it up: It’s a lot of money for jobs that are disappearing, and the money isn’t going to high-unemployment districts, probably because politics gets in the way.
+
+You can watch my testimony on the issue here. The whole report is here.

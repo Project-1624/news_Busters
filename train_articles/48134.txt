@@ -1,0 +1,20 @@
+Rep. Rodney Davis - Illinois District 13
+Donor Demographics 2017 - 2018
+
+Select cycle: 2018 2016 2014
+
+Overview
+
+Percent of Funds Number of Contributors Total Amount Female 15.3% 178 $141,082 Male 84.7% 787 $779,190
+
+Contribution Details
+
+{:chart=>{:is3D=>0, :animation=>1, :xAxisName=>"Contribution Amount", :xNumberPrefix=>"$", :yAxisName=>"# of Individual Contributors", :showlabels=>1, :showborder=>0, :bgcolor=>"ffffff", :divlinedashed=>1, :showCanvasBorder=>0, :plotGradientColor=>"", :showplotborder=>0, :showAlternateHGridColor=>0, :legendBorderColor=>"ffffff", :legendShadow=>0, :plotTooltext=>"$name: $yvalue", :reverseLegend=>1, :labeldisplay=>"rotate", :slantlabels=>1}, :categories=>[{:category=>[{:label=>"$299-$499", :x=>"250", :showverticalline=>"1"}, {:label=>"$500-$999", :x=>"750", :showverticalline=>"1"}, {:label=>"$1,000-$2,700", :x=>"1650", :showverticalline=>"1"}, {:label=>"$2,700+", :x=>"2700", :showverticalline=>"1"}, {:label=>"$5,400+", :x=>"5400", :showverticalline=>"1"}]}], :dataset=>[{:seriesname=>"Male", :color=>"#CCCCCC", :data=>[{:label=>"Male", :x=>"250", :y=>220, :z=>61571, :name=>"# of $200-$499 Contributions from Men"}, {:label=>"Male", :x=>"750", :y=>208, :z=>115105, :name=>"# of $500-$999 Contributions from Men"}, {:label=>"Male", :x=>"1650", :y=>193, :z=>281304, :name=>"# of $1,000-$2,700 Contributions from Men"}, {:label=>"Male", :x=>"2770", :y=>87, :z=>312825, :name=>"# of $2,700+ Contributions from Men"}, {:label=>"Male", :x=>"5400", :y=>15, :z=>81000, :name=>"# of $5,400+ Contributions from Men"}]}, {:seriesname=>"Female", :color=>"#FFD27F", :data=>[{:label=>"Female", :x=>"250", :y=>51, :z=>13792, :name=>"# of $200-$499 Contributions from Women"}, {:label=>"Female", :x=>"750", :y=>43, :z=>23525, :name=>"# of $500-$999 Contributions from Women"}, {:label=>"Female", :x=>"1650", :y=>40, :z=>53848, :name=>"# of $1,000-$2,700 Contributions from Women"}, {:label=>"Female", :x=>"2700", :y=>14, :z=>48500, :name=>"# of $2,700+ Contributions from Women"}, {:label=>"Female", :x=>"5400", :y=>3, :z=>16200, :name=>"# of $5,400+ Contributions from Women"}]}]}
+
+Female Donors Male Donors $200-$499 # Donors 51 220 Total $13,792 $61,571 Percentage 18.3% 81.7% $500-$999 # Donors 43 208 Total $23,525 $115,105 Percentage 17.0% 83.0% $1000-$2700 # Donors 40 193 Total $53,848 $281,304 Percentage 16.1% 83.9% $2700+ # Donors 14 87 Total $48,500 $312,825 Percentage 13.4% 86.6% $5400+ # Donors 3 15 Total $16,200 $81,000 Percentage 16.7% 83.3%
+
+METHODOLOGY: The numbers on this page are calculated from itemized contributions as reported to the Federal Election Commission, which are donations itemized once someone donates over $200 to a campaign. Individual donations under $200 may be itemized if they are part of an aggregated total of more than $200. PAC dollars are not included.
+
+NOTE: Federal-level numbers are for the 2017 - 2018 election cycle and based on Federal Election Commission data released electronically on 03/06/19.
+
+Feel free to distribute or cite this material, but please credit the Center for Responsive Politics. For permission to reprint for commercial uses, such as textbooks, contact the Center: info[at]crp.org

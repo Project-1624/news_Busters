@@ -1,0 +1,16 @@
+10-22-13 City Of Providence Employees' Retirement System - Current Investment Position And Performance Estimate
+This view is currently private. You can preview it, but you will need to make it public before people will be able to see it.
+
+Comments for row , column
+
+To start accessing this dataset programmatically, use the API endpoint provided below. For more information and examples on how to use the Socrata Open Data API, reference our Developer Documentation .
+
+The Socrata Open Data API (SODA) allows software developers to access data hosted in Socrata data sites programmatically. Developers can create applications that use the SODA APIs to visualize and “mash-up” Socrata datasets in new and exciting ways. Create an iPhone application that visualizes government spending in your area, a web application that allows citizens to look up potential government benefits they'd overlooked, or a service that automatically emails you when new earmarks are added to bills that you wish to track.
+
+Using a digitally signed dataset, it is possible to prove using cryptographically secure methods that a particular copy of a Socrata dataset has not been tampered with. This is useful if, for instance, you are looking to publish findings based on this data, and you want to be able to prove its integrity.
+
+To obtain a signed version of this dataset, simply click on the link below to generate a key and begin the download. The key and downloaded data are specific to the current version of this dataset; if the owner updates the dataset in the future, you will have to restart the process to get the new data. Publish the downloaded data along with the key that you receive, and using the instructions found within the downloaded package, third parties will be able to confirm that your data is legitimate.
+
+To generate a signed version of this dataset, simply click on the link below to generate a key. Note that if you update this dataset in the future, you will have to return and regenerate the key in order for consumers to again have access to it. Also note that this process involves operations on the entirety of the data, so it may take some time if your dataset is very large, or contains large attachments.
+
+Only dataset owners may generate signed keys.

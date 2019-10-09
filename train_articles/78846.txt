@@ -1,0 +1,21 @@
+Congressional District Compactness, Gerrymandering By State
+
+Azavea, a geospatial software firm, conducted a study to examine how redistricting reshaped the geography of U.S. congressional districts. The report assesses the compactness of each district, identifying ones with unusual shapes and twisting boundary lines.
+
+Every 10 years, state legislatures, legislative commissions or separate bodies are tasked with drawing new boundary lines after the decennial census. Courts also occasionally intervene, but typically only in civil rights cases.
+
+The Azavea analysis evaluates geographic compactness of each district using four different formulas. The Polsby-Popper ratio, generally the most widely cited metric, and Schwartzberg ratio measure the perimeter and indentation of a district. These measures essentially compare how closely an area resembles a circle to determine compactness. The two other metrics Azavea used – the Convex Hull and Reock ratios – assess how well dispersed districts are.
+
+It's the less compact districts that are often deemed to be gerrymandered.
+
+The firm noted, though, that a state's geography and coastal boundaries also affect compactness. Azavea tried to control for this, but acknowledged natural geographic boundaries do play a role in districts' compactness. In addition, states with only a few congressional districts also tend to have lower average compactness scores.
+
+The table below shows Azavea's average district compactness for all states having more than one district, with lower ratios (multiplied by 100) representing the least compact districts:
+
+State Districts Polsby-Popper Schwartzberg Convex Hull Reock Alabama 7 18.43 42.41 69.20 37.70 Arkansas 4 19.89 43.98 68.49 38.87 Arizona 9 30.05 53.30 74.82 45.21 California 53 22.58 46.86 72.64 38.47 Colorado 7 24.60 48.00 69.77 39.12 Connecticut 5 26.61 50.94 71.85 42.19 Florida 27 24.61 48.18 69.24 36.93 Georgia 14 25.83 50.46 75.50 44.07 Hawaii 2 8.56 29.10 67.58 36.85 Iowa 4 39.97 62.92 78.02 44.13 Idaho 2 25.01 49.51 77.41 37.69 Illinois 18 16.64 39.91 61.03 31.07 Indiana 9 41.03 63.59 81.73 44.07 Kansas 4 40.52 62.92 83.05 41.10 Kentucky 6 19.21 42.81 68.82 37.16 Louisiana 6 11.10 32.14 59.53 32.14 Massachusetts 9 18.45 41.74 63.19 35.85 Maryland 8 8.08 27.67 49.63 24.68 Maine 2 14.04 37.04 72.83 36.62 Michigan 14 26.03 49.38 69.73 35.10 Minnesota 8 33.03 56.85 76.80 40.88 Missouri 8 27.08 51.49 75.25 44.60 Mississippi 4 23.33 47.58 76.84 38.08 North Carolina 13 11.51 32.17 59.62 29.46 Nebraska 3 39.27 62.54 83.73 46.54 New Hampshire 2 16.45 40.53 67.53 23.81 New Jersey 12 18.96 42.92 63.71 38.92 New Mexico 3 35.17 59.07 78.36 44.36 Nevada 4 52.44 72.22 89.20 48.12 New York 27 31.81 55.24 73.53 40.35 Ohio 16 17.22 39.91 63.74 33.79 Oklahoma 5 24.98 49.91 68.58 36.00 Oregon 5 31.15 56.06 75.28 42.43 Pennsylvania 18 17.14 39.52 62.42 34.15 Rhode Island 2 20.14 42.35 62.42 26.38 South Carolina 7 20.50 43.85 72.91 37.42 Tennessee 9 20.48 44.68 70.48 40.20 Texas 36 19.17 42.09 67.35 36.12 Utah 4 27.65 52.28 69.17 34.18 Virginia 11 14.42 37.28 67.58 27.89 Washington 10 21.19 44.74 71.39 34.00 Wisconsin 8 21.85 47.58 75.64 44.43 West Virginia 3 13.65 36.66 54.76 32.29
+
+
+
+
+
+The report also identified the 10 least compact congressional districts, shown in the following map: NC-12, FL-5, MD-3, OH-9, TX-35, NC-4, LA-2, FL-22, MD-6 and NY-10.

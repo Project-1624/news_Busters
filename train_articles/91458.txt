@@ -1,0 +1,34 @@
+Is the New Obamacare Website Really a “Hacker’s Dream?”
+On Tuesday, HealthCare.gov goes live. Whether it stays up and running—and, more importantly, whether the various state-level health insurance marketplace websites will function properly and keep people’s data secure—is something that both the Obama administration and its critics will be watching very closely.
+
+As the public face of Obamacare on the Web, the Healthcare.gov site theoretically represents a juicy target for politically motivated hackers to try to deface or even take down. Conservatives have tried just about everything else to stop the Affordable Care Act, including shutting down the government. Who’s to say that some activists wouldn’t resort to a denial-of-service attack or a Syrian Electronic Army-style takeover—especially on a day when the federal government itself grinds to a halt?
+
+Advertisement
+
+
+
+No one. The good news, however, is that there isn’t a whole lot of damage that can be done to that site per se, aside from inflicting some embarrassment on the bureaucrats in charge of it. In fact, far from being constructed as a walled fortress to keep attackers out, the site is notable for the openness of its design, as Alex Howard pointed out in a well-researched blog post earlier this summer. That’s because HealthCare.gov is mainly just there to provide people with information and direct them to the proper place, not to collect any sensitive data.
+
+Will Oremus Will Oremus is Slate’s senior technology writer. Email him at will.oremus@slate.com or follow him on Twitter.
+
+That responsibility will fall instead to the various state-level portals that constitute what’s called the Health Insurance Marketplace, along with a federal portal set up for those states that declined to set up their own. Those sites are where people will fill out their applications for coverage under the Affordable Care Act, which can involve entering sensitive information like name, date of birth, social security number, and income. The marketplaces will also be set up to check and confirm people’s eligibility for various programs, which can mean accessing information from federal agencies like the Social Security Administration and the IRS. All of that information will travel through a new “data services hub” set up by the Centers for Medicare and Medicaid Services, part of the Department of Health and Human Services.
+
+That has some people concerned, and critics on the right have gone so far as to call the hub “a hacker’s dream.” So, just how vulnerable is it?
+
+It’s hard to say for sure, but “hacker’s dream” is surely an overstatement. A hacker’s dream, one imagines, would involve a single, centralized database of loosely guarded, sensitive information. The data hub, in contrast, was built expressly to avoid retaining or storing people’s data, as the Centers for Medicare and Medicaid Services explained in a fact sheet earlier this month. Instead, the hub is meant to function more like a switchboard or routing tool, shuttling information securely between the marketplace sites and the federal agencies. The point is to avoid having to connect each state marketplace separately to the federal databases, which would be, if not a hacker’s dream, certainly an IT security person’s nightmare.
+
+Advertisement
+
+
+
+Christopher Rasmussen, a policy analyst for the nonprofit Center for Democracy and Technology, compares the data hub to a traffic circle, with information coming in from various spokes and leaving through others, but not lingering in a central location. “It’s not like a parking lot,” he says. “It’s just a pass-through.”
+
+That doesn’t mean it’s unhackable. But the federal officials in charge say they’ve rigorously tested it, and found that it meets federal security standards. An August report by the Office of the Inspector General raised some concern about a possible delay in the final security certification, which had some observers nervous. As it turned out, though, the system was certified as secure on Sept. 6, in plenty of time for the rollout of the marketplaces. Officials won’t get into details about its security mechanisms, but the fact sheet makes it clear the system will be closely monitored:
+
+The Hub and its associated systems have several layers of protection in place to mitigate information security risk. For example, Marketplace systems will employ a continuous monitoring model that will utilize sensors and active event monitoring to quickly identify and take action against irregular behavior and unauthorized system changes that could indicate a potential incident.
+
+If a security incident occurs, an Incident Response capability would be activated, which allows for the tracking, investigation, and reporting of incidents. This allows CMS and the Department of Health and Human Services (HHS) to quickly identify security incidents and ensure that the relevant law enforcement authorities, such as the HHS Office of Inspector General Cyber Crimes Unit, are notified for purposes of possible criminal investigation.
+
+If there’s a weak point in the system, there’s a chance it could be found in one of the 17 state-level marketplaces, or possibly one of the federally facilitated marketplaces set up by the federal government for states that opted not to set up their own. “My sense is that people are very nervous” about potential glitches on one or more of those sites, says Howard, not to mention the real possibility of some sort of politically motivated attack. For what it’s worth, the Centers for Medicare and Medicaid Services say they have mechanisms in place to ensure that the various state marketplaces protect users’ personal information, including privacy-training programs. That doesn’t sound like ironclad security, exactly. Then again, states have been managing similarly data on behalf of their residents for years as part of existing programs like Medicaid, so the level of trust that Obamacare requires isn’t unprecedented.
+
+It’s quite possible that something, somewhere will go wrong on Tuesday, or in the first few weeks that the system is up and running. But a massive, nationwide data breach appears to be, thankfully, unlikely.

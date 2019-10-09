@@ -1,0 +1,195 @@
+Underwater Acoustics
+
+The following is a very brief overview of the basic principles of underwater acoustics.
+
+A propagating sound wave consists of alternating compressions and rarefaction's which are detected by a receiver as changes in pressure. Structures in our ears, and also most man-made receptors, are sensitive to these changes in sound pressure (Richardson et al.1995, Gordon and Moscrop 1996).
+
+The basic components of a sound wave are amplitude, wavelength, and frequency:
+
+The amplitude of a sound wave is proportional to the maximum distance a vibrating particle is displaced from rest. Small variations in amplitude produce weak or quiet sounds, while large variations produce strong or loud sounds. The wavelength of a wave is the distance between two successive compressions or the distance the wave travels in one cycle of vibration. The frequency of a sound wave is the rate of oscillation or vibration of the wave particles (i.e. the rate amplitude cycles from high to low to high, etc.). Frequency is measured in cycles/sec or Hertz (Hz). To the human ear, an increase in frequency is perceived as a higher pitched sound, while an increase in amplitude is perceived as a louder sound. Below are examples of sound waves that vary in frequency and amplitude.
+
+These two waves have the same frequency but different amplitudes. These two waves have the same amplitude but different frequencies.
+
+Note that increasing the frequency of a sound in equal steps will lead to perceived increases in pitch that seem to grow smaller with each step. For example, click on the sound frequencies below, and you'll see a more noticeable difference between 200 Hz and 225 Hz than 400 Hz and 425 Hz.
+
+
+
+200Hz 225Hz 250Hz 275Hz 300Hz 325Hz 350Hz 375Hz 400Hz 425Hz 450Hz 475Hz
+
+Entire Series
+
+Humans generally hear sound waves whose frequencies are between 20 and 20,000 Hz. Below 20 Hz, sounds are referred to as infrasonic, and above 20,000 Hz as ultrasonic.
+
+infrasonic (about 20 Hz) < human hearing < ultrasonic (about 20,000 Hz)
+
+If the amplitude of a sound is increased in a series of equal steps, the loudness of the sound will increase in steps which are perceived as successively smaller. Sound intensity is generally described using logarithmic units called decibels (dB). On the decibel scale, everything refers to power, which is (amplitude) 2 ; 0.0 dB corresponds to about the normal threshold of hearing and 130 dB to the point where sound becomes painful to humans.
+
+common sounds dB in air threshold of hearing 0 dB whisper at 1 meter 20 dB normal conversation 60 dB jet engine 140 dB painful to human 130 dB
+
+Warning: noise levels cited in air do not equal underwater levels for reasons that will be described in the following sections.
+
+Why use the decibel scale? Because sound "loudness" varies exponentially, we'd have to deal with a lot of zeros when doing computations involving the parameters of sound, and we'd have to multiply numbers rather than simply add and subtract them. By using the decibel scale, calculations are simplified and relative values relate more closely to perception.
+
+A fourth property of sound, its phase, is less directly related to perceived sound intensity. Phase is important in describing how complex sounds can be constructed from the simple sinusoidal waves. Below is an example of two sound waves with the same frequency and amplitude - only their alignment with respect to time differs. By specifying amplitude, wavelength, and phase, any sinusoid can be exactly described. By describing these parameters for all frequency components, any complex signal can be described exactly.
+
+The speed of a wave is the rate at which vibrations propagate through the medium. Wavelength and frequency are related by:
+
+l = c/f
+
+where lambda = wavelength, c = speed of sound in the medium, and f = frequency. The speed of sound in water is approximately 1500 m/s while the speed of sound in air is approximately 340 m/s. Therefore, a 20 Hz sound in the water is 75m long whereas a 20 Hz sound in air is 17m long.
+
+Sound pressure is sound force per unit area, and is usually cited in micropascals (�Pa), where 1 Pa is the pressure resulting from a force of one Newton exerted over an area of one square meter. The instantaneous pressure p(t) that a vibrating object exerts on an area is directly proportional to the vibrating object's velocity and acoustic impedance (
+
+r
+
+c
+
+):
+
+p(t) = r c u
+
+where r = density
+
+c = sound speed
+
+u = particle velocity
+
+Pressure can also be defined in terms of force:
+
+p = F/A
+
+where p = pressure, F = force, and A = area
+
+A sounds acoustic intensity is defined as the acoustical power per unit area in the direction of propagation:
+
+Sound Intensity (I) (W/m2) = p e / ( r c) = r c u
+
+where p e or the "effective pressure" is equal to p/ � 2
+
+r is the density of water
+
+and c is the speed of sound
+
+[NOTE: r c is referred to as acoustic impedance;
+
+r c in water is 1.5 x 105 (Pa � s)/m ;
+
+r c in dry 20�C air is 415 (Pa � s)/m]
+
+Sound levels extend over many orders of magnitude and, for this reason, it is convenient to use a logarithmic scale when measuring sound. Both Sound Pressure Level (SPL) and Sound Intensity Level (SIL) are measured in decibels (dB) and are usually expressed as ratios of a measured and a reference level:
+
+Sound Pressure Level (dB) = 20 log (p/p ref ) where p ref is the reference pressure
+
+Sound Intensity Level (dB) = 10 log (I/I ref ) where I ref is the reference intensity
+
+In other words, the decibel is 10 times the log of the ratio of two intensities, and 20 times the log of the ratio of two pressures. The units for both SPL and SIL are dB relative to the reference intensity (often abbreviated as dB re 1�Pa or dB//1�Pa). Whenever "level" is added to the terms sound intensity or sound pressure, it usually implies that the measurement is in dBs. Because decibels implies a ratio of two values (and therefore a dimensionless measurement), SPL and SIL are equivalent when measured in dB.
+
+Because the dB scale is relative, reference levels must be included with dB values if they are to be meaningful. The reference levels for SPL and SIL are equivalent but are reported in different units. The commonly used reference pressure level in underwater acoustics is 1 �Pa while 20 �Pa (which is roughly the human hearing threshold at 1000 Hz) is used as the reference level in air. The reference intensity in water is
+
+I ref = p2 ref / (D water c water ) = 6.7 x 10-19 W/m2
+
+where reference pressure in water (p ref ) is 1�Pa rms,
+
+and the density of water (D water ) is about 1000kg/m3,
+
+and the speed of sound in water (c water ) is about 1500 m/s.
+
+Historically, the reference intensity in air was the sound intensity barely audible to humans, 1 10-12watts/m2 or 1 pW/m2. (A painful (airborne) sound to humans = 10 watts/m2).
+
+In addition to the reference level, the distance from the source for that reference level must also be cited; typically the units of SIL are dB relative to the reference intensity at 1 meter (e.g. 20 dB re 1�Pa @ 1m) (i.e. how intense the sound would be were it measured only 1m from the source). In practice, one can rarely measure source level at the standard 1m reference, so that source levels are usually estimated by measuring SPL at some known range from the source (assumed to be a single point), and the attenuation effects predicted and subtracted from the measured value to estimate the level at the reference range.
+
+Ideally, it is Sound Intensity Levels that wed like to measure. However, its easier to measure sound pressure than sound intensity, so we measure pressure, and from that infer intensity. Within the same medium, sound intensity or power is proportional to the average of the squared pressure:
+
+I � p2
+
+therefore
+
+SIL(dB) = 10 log (I/I r) = 10 log (p2 water / p2 ref-water ) = 20 log (p water /1�Pa)
+
+In other words, once we start using the decibel scale, SIL and SPL are pretty much the same thing.
+
+Based on the above discussion, it should now be obvious that 120 dB in air is not the same as 120 dB in water, primarily because of the differences in reference measurements. How do we make meaningful comparisons between a ship's engine underwater and a jet engine? In air, the sound pressure level is referenced to 20 �Pa, while in water the sound pressure level is referenced to 1 �Pa. Given the above equation for dB's, the conversion factor for dB air � water
+
+dB = 20 log (p water /1�Pa) = 20 log (20) = + 26 dB
+
+Therefore a pressure comparison between air and water differs by 26 dB.
+
+The characteristic impedance of water is about 3600 times that of air; the conversion factor for a sound intensity in air vs water is 63 dB.
+
+10 log (3600) = 36 dB
+
+36+26 = 62 dB
+
+A simplified example....
+
+If a jet engine is 140 dB re 20�Pa @ 1m, then underwater this would be equivalent to
+
+SIL water = SIL air + 62 = 202 dB re1�Pa
+
+To convert from water to air, simply subtract the 62 dB from the SL in water. A supertanker generating a 190 dB sound level would be roughly equivalent to a 127 dB sound in air. (Note that these are gross generalizations because the source level often changes with the frequency component of the sound.)
+
+Natural and human-made source noise comparisons. Nosie Source Maxiumum Source Level Remarks Reference Undersea Earthquake 272 dB Magnitude 4.0 on Richter scale (energy integrated over 50 Hz bandwidth) Wenz, 1962. Seafloor Volcano Eruption 255+ dB Massive steam explosions Deitz and Sheehy, 1954; Kibblewhite, 1965; Northrop, 1974; Shepard and Robson, 1967; Nishimura, NRL-DC, pers. comm., 1995. Airgun Array (Seismic) 255 dB Compressed air discharged into piston assembly Johnston and Cain, 1981; Barger and Hamblen, 1980; Kramer et al., 1968. Lightning Stike on Water Surface 250 dB Random events during storms at sea Hill, 1985; Nishimura, NRL-DC, pers. com., 1995. Seismic Exploration Devices 212-230 dB Includes vibroseis, sparker, gas sleeve, exploder, water gun and boomer seismic profiling methods. Johnston and Cain, 1981; Holiday et al., 1984. Container Ship 198 dB Length 274 meters; Speed 23 knots Buck and Chalfant, 1972; Ross, 1976; Brown, 1982b; Thiele and Ødegaard, 1983. Supertanker 190 dB Length 340 meters; Speed 20 knots Buck and Chalfant, 1972; Ross, 1976; Brown, 1982b; Thiele and Ødegaard, 1983. Blue Whale 190 dB (avg. 145-172) Vocalizations: Low frequency moans Cummings and Thompson, 1971a; Edds, 1982. Fin Whale 188 dB (avg. 155-186) Vocalizations: Pulses, moans Watkins, 1981b; Cummings et al., 1986; Edds, 1988. Offshore Drill Rig 185 dB Motor Vessel KULLUK; oil/gas exploration Greene, 1987b. Offshore Dredge 185 dB Motor Vessel AQUARIUS Greene, 1987b. Humpback Whale 180 dB (avg. 175-180) Fluke and flipper slaps Thompson et al., 1986. Bowhead Whale 180 dB (avg. 152-180) Vocalizations: Songs Cummings and Holiday, 1987. Right Whale 175 dB (avg. 172-175) Vocalizations: Pulsive signal Cummings et al., 1972; Clark 1983. Gray Whale 175 dB (avg. 175) Vocalizations: moans Cummings et al., 1968; Fish et al., 1974; Swartz and Cummings, 1978. Open Ocean Ambient Noise 74-100 dB (71-97 dB in deep sound channel) Estimate for offshore central Calif. sea state 3-5; expected to be higher (= or > 120 dB) when vessels present. Urick, 1983, 1986. Note: Except where noted, all the above are nominal total broadband power levels in 20-1000 Hz band. These are the levels that would be measured by a single hydrophone (reference 1 µPa @ 1 m) in the water. SOURCE: Ocean Acoustic Observatories Alternate Source Test (AST)
+
+One of the more popular models used to describe the propagation of sound through water or air is the "source, path, receiver" model (Richardson 1995). The basic parameters (there are many we will not discuss) in this model are:
+
+source: source level (SL)
+
+path or medium: transmission loss (TL), ambient noise level (NL)
+
+receiver: signal to noise ratio (SNR), sound intensity level (SIL), detection threshold (DT)
+
+A simple model of sound propagation is:
+
+SIL = SL - TL
+
+where TL = 10 log (Intensity at 1 meter/Intensity at r 2 meters away from the source)
+
+Transmission loss can also be estimated by adding the effects of geometrical spreading, absorption and scattering. For our purposes we'll deal only with spreading (TL g ) and absorption loss (TL a ):
+
+TL = TL g + TL a
+
+where
+
+TL g = 20 log r 2
+
+(for geometrical spherical spreading; r 2 is in meters)
+
+TL a = a r 2 x 10-3 (units are dB/km)
+
+where a is the attenuation coefficient and a function of frequency, r 2 is in meters, and 10-3 is a conversion factor for m to km
+
+Note: The rate at which sound is absorbed by water is related to the square of frequency ( a � f 2); lower frequency sounds have low absorption coefficients and therefore propagate long distances. If you know the frequency of the sound you're dealing with, the attenuation coefficient ( a ) can be looked up in the appropriate table or graph in any acoustics textbook.
+
+An example.....
+
+What is a humpback whale's sound intensity level at 1 km in deep water (assume spherical spreading)?
+
+source level = 150 dB re 1�Pa @ 1 meter, frequency = 120 Hz therefore a ~ .003
+
+transmission loss = TL g + TL a = 20 log (1 km) + .003(50) = 60 +.15 = 60.15 dB re 1�Pa @ 1 meter.
+
+SIL = SL - TL
+
+SIL = 150 - 60.15
+
+SIL @ 90 dB
+
+Finally, whether or not a particular acoustic signal can be detected in the ocean is a factor of the level of the signal of interest relative to the background noise level of the ocean, or ambient noise. This is normally expressed as a "signal to noise ratio" (SNR), where any value greater than 1 implies that the signal is detectable above the noise, while a number below 1 implies that the signal is "buried" in the noise. For rough, "back of the envelope" calculations of SNR, ambient noise level (NL) is subtracted from the sound intensity level:
+
+SNR = SIL - NL
+
+A number greater than 0 dB implies we could detect the signal from background noise, while a number less than 0 dB would imply we could not hear the signal. In the above example of the vocalizing humpback, could we hear this animal above background noise at this distance ? (assume NL at 120 Hz is about 70 dB)
+
+SNR = 90 - 70
+
+SNR = 20 dB
+
+This whale vocalization is about 20 dB above ambient noise level, and we are likely to hear it!
+
+In practice, this basic concept becomes much more complicated. First, the ambient noise field of the ocean is quite variable with respect to time, location, and frequency. Effects can be seasonal, for example the presence of absence of a storm track that introduces loud wave noise, or hourly, such as the passing of a ship. Also, the propagation properties of the water column vary widely with location, depending on the physical oceanographic properties, local bathymetry, and bottom properties. Sophisticated numerical models have been developed over the last several decades to provide improved prediction of acoustic environmental properties. Finally, natural sound sources such as marine mammals and earthquakes, may have significant variability in their source level making the calculation of signal-to-noise ratio even more difficult.
+
+FREQUENTLY USED UNITS
+
+quantity unit symbol relation length meter m mass kilogram kg time second s frequency hertz Hz force newton N kg x m/s2 pressure pascal Pa N/m2 energy joule J N x m power watt W J/s intensity W/m2 density kg/m3 speed m/s
+
+Sources and Resources

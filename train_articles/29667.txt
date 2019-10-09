@@ -1,0 +1,50 @@
+Federal Funds for Election Security: Will They Cover the Costs of Voter Marked Paper Ballots?
+[Download a PDF of this analysis by the Brennan Center and Verified Voting here.]
+
+Under the terms of the omnibus spending bill voted on by the House, states will receive $380 million within months to start to strengthen the security of our nation’s election infrastructure. This near-term funding is the product of tireless work by members of both parties, and a critical acknowledgment from Congress that protecting our elections is a matter of national security. States can use the funding immediately to begin deploying paper ballots, post-election audits, and other essential cybersecurity improvements. However, the new funding is only a first step, as many in Congress have acknowledged, and further Congressional action will be necessary in order to ensure that future elections are secure.
+
+Most significantly, the omnibus funding as allocated to the states under the Help America Vote Act (HAVA) will not be enough for some states to replace their insecure voting machines. Because paperless electronic voting systems are highly vulnerable to cyberattacks, it is urgent that those systems be replaced as soon as possible, as the Senate Select Committee on Intelligence (SSCI) recommended earlier this week. Until this is done, it will be impossible to ensure that election results as reported by the voting system have not been corrupted by a cyberattack.
+
+Thirteen states, including key swing states like Pennsylvania, continue to use paperless voting today. One of the main reasons is cost: cash-strapped states simply can’t afford to replace this aging equipment. Unfortunately, our analysis shows that under the new federal funding, seven of the 13 states with paperless machines will receive less than 25 percent of the money they may need to replace them. Moreover, most states will also need to use some of the new funding to pay for improved auditing and other security measures, leaving even less for crucial technology upgrades.
+
+Expected New Funding
+
+The new federal funds will be distributed to states according to a formula from HAVA, taking into account the voting age population of each state. We estimate that states will receive the following amounts:
+
+
+
+
+
+All dollars in millions.
+
+* These numbers have been updated since the morning of March 23 after consultation with the Election Assistance Commission as to how they will apply the HAVA formula.
+
+Replacing Paperless DREs
+
+Thirteen states still use paperless Direct Recording Electronic voting machines (DREs) – voting machines that directly record, in electronic form, the voters’ selections – as their primary polling place equipment in at least some precincts: Arkansas, Delaware, Georgia, Indiana, Kansas, Kentucky, Louisiana, Mississippi, New Jersey, Pennsylvania, South Carolina, Tennessee and Texas. Five of these states still use paperless systems statewide.
+
+Below are estimates[1] by the Brennan Center and Verified Voting for what it would cost each state to replace paperless equipment that is the primary polling place equipment with optical scan voting systems. Optical scan systems read and tabulate voter-marked paper ballots, marked by hand or by an accessible ballot marking device, and retain those paper ballots for recounts or audits. We also estimate the percentage of each state’s costs that the new federal money would cover.[2] Our estimates include the purchase of voting equipment, like scanners, ballot marking devices, and other peripheral elements of voting systems. The estimates do not include long-term costs associated with the maintenance of voting systems or ongoing, election specific costs.
+
+All dollars in millions.
+
+* These numbers have been updated since the morning of March 23 after consultation with the Election Assistance Commission as to how they will apply the HAVA formula.
+
+Allocated in this way, $380 million will not be enough to replace all paperless voting systems. In smaller states like Delaware, or in states like Texas and Arkansas – where a relatively small percentage of machines are still paperless – the federal money could go a long way toward replacing such equipment. But in some larger states that are almost or fully paperless, like Pennsylvania, New Jersey, and Georgia, this money might not even cover 20 percent of the cost of new hardware.
+
+Replacing All DREs used as primary polling place equipment
+
+While much of the recent public discussion about election system security has centered on paperless systems, security experts have also expressed serious concerns about DREs that have voter-verified paper audit trails (VVPAT).
+
+Like paperless DREs, DREs with VVPAT record voters’ choices directly onto computer memory in electronic form, but they also produce a paper record of each vote that may be reviewed by the voter. Studies have shown that many voters fail to notice errors in the VVPAT record, which means a hacked machine could falsify both the electronic and paper records without being detected. Moreover, VVPAT records can be fragile and cumbersome to audit, as the paper trail typically takes the form of a hundred-foot long roll of cash register tape. Like paperless DREs, DREs with VVPAT are susceptible to hacking, including attempts to sabotage the machines and cause them break down on election day. For all these reasons, experts and advocates have long called for these machines to be replaced with optical scan paper ballots.
+
+Twenty states make widespread use DREs either with or without VVPAT. Below, we estimate the cost of replacing all primary polling place DREs, and the percentage of money states would receive from the omnibus budget to cover this cost. Nine of the 20 states are likely to receive less than 25 percent of the funding they need to replace this equipment.
+
+All dollars in millions.
+
+* These numbers have been updated since the morning of March 23 after consultation with the Election Assistance Commission as to how they will apply the HAVA formula.
+
+Urgent Next Steps for States and Congress
+
+With the growing threat of international cyberattacks, states need to take urgent measures to secure their election infrastructures in time for voting in 2018 and 2020. Cybersecurity experts agree about what needs to be done: securing voter registration systems, replacing paperless machines, and implementing robust post-election audits to verify that the reported electronic results are accurate. The omnibus, though insufficient to make all of these needed improvements, will help states get started and buy Congress time to pass a more comprehensive election cybersecurity measure. Further Congressional action is required to provide the guidelines, resources, and incentives that states need to fully implement these essential safeguards.
+
+To do so, Congress should complete its work on the Secure Elections Act (SEA), a bipartisan bill that has been gaining momentum in the Senate. The SEA would establish cybersecurity guidelines, facilitate crucial information sharing, provide grants for states to fully replace DREs with paper ballots, and encourage states to implement robust statistical auditing. By prioritizing funding to states with obsolete equipment and mandating sensible cost sharing, the SEA is designed to accomplish these within a budget barely greater than the immediate omnibus funds.

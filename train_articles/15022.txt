@@ -1,0 +1,50 @@
+Data.GISS: GISS Surface Temperature Analysis (v4): Analysis Graphs and Plots
+GISS Surface Temperature Analysis (v4)
+
+Analysis Graphs and Plots
+
+This page is updated each month by an automatic procedure. Additional figures based on the GISTEMP analysis which require manual effort to create are available from Columbia University web pages maintained by Dr. Makiko Sato; see page 1 and page 2.
+
+Instructions:
+
+Click on the section titles below to hide or expose the respective graphs.
+
+At the bottom left corner of every graph are 3 icons to “reset”, “move”, and “zoom” the image.
+
+Hovering over a data point will display the year and data value.
+
+The annual mean graphs are paired with a lowess smooth, i.e. a non-parametric regression analysis that relies on a k-nearest-neighbor model. In order to evaluate the function, we use a fraction of data corresponding to a ten year window of data, giving an effective smoothing of approximately five years.
+
+For the option to select the strength of the smoothing and for seeing additional graphs click HERE.
+
+▼
+
+▶
+
+Land-ocean temperature index, 1880 to present, with base period 1951-1980. The solid black line is the global annual mean and the solid red line is the five-year lowess smooth. The gray shading represents the total (LSAT and SST) annual uncertainty at a 95% confidence interval. [More information on the updated uncertainty model can be found here: Lenssen et al. (2019).] Figure also available as a PNG, PDF, HTML, plain text, CSV, or Generate PNG of the visualization's current state.
+
+▶
+
+' Annual (thin lines) and five-year lowess smooth (thick lines) for the temperature anomalies averaged over the Earth’s land area and sea surface temperature anomalies averaged over the part of the ocean that is free of ice at all times (open ocean). Figure also available as a PNG, PDF, HTML, plain text, CSV, or Generate PNG of the visualization's current state.
+
+▶
+
+' Annual and five-year lowess smoothed temperature changes, with the base period 1951-1980, for three latitude bands that cover 30%, 40% and 30% of the global area. Uncertainty bars (95% confidence limits) for the annual (outer) and five-year smooth (inner) are based on a spatial sampling analysis. These estimates use land and ocean data. [This is an update of Figure 5 in Hansen et al. (1999).] Figure also available as a PNG, PDF, HTML, plain text and CSV (data columns 4-6), or Generate PNG of the visualization's current state.
+
+▶
+
+' Annual and five-year lowess smooth anomalies (vs. 1951-1980) separately for the Northern and Southern Hemispheres based on land and ocean data. Figure also available as a PNG, PDF, HTML, plain text and CSV (data columns 2, 3), or Generate PNG of the visualization's current state.
+
+▶
+
+' Monthly mean global surface temperature anomalies vs. 1951-1980. The red line shows estimates that use meteorological station data and ocean temperature data from ships and buoys. [This is an update of Figure 8 in Hansen et al. (1999).] Figure also available as a PNG, PDF, HTML, plain text, CSV, or Generate PNG of the visualization's current state.
+
+▶
+
+' Annual and five-year lowess smooth surface air temperature averaged over the contiguous 48 United States (1.6% of the Earth's surface) relative to the 1951-1980 mean. [This is an update of Plate 6(a) in Hansen et al. (2001). The corresponding graph in Hansen et al. (1999) shows a smaller trend, since it is based on data that were not yet corrected for station moves and time-of-observation changes, see this FAQ.] Figure also available as a PNG, PDF, HTML, plain text, CSV, or Generate PNG of the visualization's current state.
+
+▶
+
+' Surface temperature index change vs. 1951-1980 since 1950 at seasonal resolution, for the globe and for low latitudes (add 1 to get the actual low latitude anomaly). [This is an update of Figure 7 in Hansen et al. (1999).] Black triangles mark large volcanos. These eruptions occurred on March 1963, April 1982, and Jun 1991. SST at Nino 3.4 are the seasonal means. Figure also available as a PNG, PDF, HTML, plain text, CSV, or Generate PNG of the visualization's current state. El Nino figure also available as a PNG, PDF, HTML, or Generate PNG of the visualization's current state. Nino data were taken from this table provided by NOAA's NCEP. However, we are displaying the anomalies with respect to the 1951-1980 means.
+
++ Return to GISTEMP homepage

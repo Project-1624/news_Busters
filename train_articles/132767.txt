@@ -1,0 +1,86 @@
+Was the Blood Type Diet Debunked?
+The PLOS / 'Blood Type Diet' Study: A Look at the Core Data
+
+Peter D'Adamo
+
+
+
+A study recently released in PLOS (1) examined whether there were any demonstrable differences in cardiometabolic markers between individuals following the 'Blood Type Diet' (BTD). The study concluded that there was no difference between individuals who were following the specific diet for their ABO blood type with high compliance, as outlined in the book 'Eat Right For Your Type,' (2) and those who were not. A subsequent press release from the University of Toronto, claimed that the Blood Type Diet theory has 'been effectively debunked.' (3)
+
+
+
+The methodology used in the PLOS article to determine compliance was a simple system, giving one positive point for each beneficial consumed, and one negative point for each 'avoid' food consumed. The inherent limitations of this grading system are discussed elsewhere and are not the focus of this article. (5)
+
+
+
+Instead, I chose to focus on the inclusion/exclusion criteria of the specific foods and whether these criteria resulted in an effective model of the BTD. The study's authors provided tabular information in an appendix to their article where they list the foods and their values that were included in their determination of what constituted 'compliance' with the appropriate ABO diets. (4) My analysis was performed on two tables comparing the relative values of the foods as listed in Eat Right For Your Type (ERFYT) and in the Appendix of the PLOS study. Table 1 compares the available food values in ERFYT with the the supplied values listed in the PLOS Appendix, when available. Despite the fact that ERFYT contains additional specific values for 'Beverages,' 'Spices' and 'Herbs' these categories were excluded from our analysis. Table 2 compares foods which are included in the PLOS Appendix, but for which no exact equivalent exists in ERFYT.
+
+
+
+Methods
+
+
+
+To produce the tables, food values from ERFYT and the PLOS Appendix were entered into an Excel spreadhseet. To insure accuracy, the data was checked by four different individuals. The spreadsheets were then exported as flat text files and a small program was written in Perl to perform basic counting functions and conditional formatting.
+
+
+
+Analysis
+
+
+
+A large number of foods containing values in ERFYT are missing values in the PLOS Appendix. Out of a total of 540 food values available in ERFYT (excluding 'Herbs', 'Beverages' and 'Teas'), only 74 (13.7%) show equivalent values in the PLOS Appendix.
+
+
+
+There are a considerable number (822) of instances of foods containing specific values (being rated as either 'beneficial' or 'avoid') in ERFYT having no equivalent values in the PLOS Appendix. In these occurrences, subjects consuming these foods would not have had their effects represented in the PLOS study.
+
+
+
+In addition, there is no equivalent values in the PLOS Appendix for a large number of the foods (281) for which ERFYT supplies at least two blood type specific values.
+
+
+
+Finally, there are a sizable number (77) of foods for which there are values in ERFYT that differ by blood type (i.e being a 'beneficial' for one blood type and and 'avoid' for another) that were not included in the PLOS Appendix. This number is especially pertinent, because a considerable number of foods where variation by blood type might have been expected were not included in the PLOS study. When the non-ERFYT equivalent foods are excluded (See Table 2) the number of foods missing from the PLOS Appendix containing values that vary by blood type is actually greater than the total number of foods included in the PLOS Appendix (74).
+
+
+
+The PLOS Study was a retrospective study using inclusion criteria from a pre-existing food categorization scheme (the Toronto-modified Willet 196-item semi-quantitative food frequency questionnaire). It appears that if a food existed in both the ERFYT and the TMW it was included in the study. Analysis showed that when a direct match could be made the PLOS Appendix values do accurately reflect the BTD values in ERFYT. However, as can be easily seen from the following pie chart, the total number of foods for which a correlation exists between the values in ERFYT and the PLOS Appendix is quite low (77/540; 13.7%).
+
+
+
+
+
+
+
+Chart 1. Percentage of the BTD food values reflected in PLOS/BTD study (purple)
+
+as a percentage of the total number of possible food values available in ERFYT (green).
+
+
+
+Perhaps more concerning are the foods for which no equivalent value exists in ERFYT yet manage to have assigned values in the PLOS Appendix. In these circumstances, it appears that the PLOS authors chose to stick with the TMW food descriptions and shoe-horn the BTD values into the TMW. This yields a variety of questionable assertions, such as whether a category simplified into 'beans' can be given any sort of BTD value at all. In virtually all the instances of the 'food-lumping' seen in Table 2, when the TMW 'food' is actually split into BTD values the process yields erroneous conclusions. The PLOS Study does not provide any insight into the process used to determine the BTD rating for foods such as 'mixed vegetables', 'grains, other' etc. but the grading system appears arbitrary.
+
+
+
+Discussion
+
+
+
+It is well-worth wondering how a study with such basic flaws in its design could have survived peer-review. I assume that the reviewers spent adequate time surveying the basic statistical functions used in the study, but I seriously wonder if any of the reviewers took the time to look at just how closely the PLOS study modeled the BTD; it seems improbable that any of them spent time with a copy of Eat Right For Your Type on their laps, cross-referencing its values with the PLOS Appendix. Yet this is perhaps the most basic question to ask of this study: Did it comprehensively model the BTD before reaching its conclusions? A look at the cross-comparision tabular data below clearly indicates that it did not. Because of this very basic design flaw, all subsequent analysis and conclusions are moot; they derive from an improper, innacurate, model of the subject.
+
+
+
+That the BTD theory is currently unproven by rigorous scientific study is not argued. Hopefully in time this can be rectified by studies which accurately and comprehensively prove or disprove the hypothesis. Despite the rejoicing in certain circles (7) the Blood Type Diet/PLOS study by El-Sohemy, et al. is not that study. I call upon the editors of PLOS ONE to consider retracting this study unless they can justify the scientific basis of the concerns specified in this article. In addition, Dr. El-Sohemy's concurrent financial interests in a commercial genetic test that provides dietary advice never appeared to raise conflict-of-interest concerns about a during the article's review process, constituting evidence of either an institutional bias on the part of the publication, or at the very least, a very sloppy scientific review process.
+
+
+
+Repeated calls on PLOS to officially retract this study, but have never received a reply. This is unfortunate, considering that PLOS is an online journal that appears to have one of the highest retraction rates in academia, perhaps in no small part a reflection of the shortcomings of its peer-review process. In the words of one watchdog, "PLoS ONE is becoming a major retraction engine."(8)
+
+
+
+
+
+
+
+So exactly what conclusions can be derived from this study? Unfortunately, not much, other than if young, healthy research subjects eat potato chips, sandwiches, pizza, ÔÇśbeans,ÔÇÖ mac-and-cheese, French Fries and processed meat products, all the while doing 13.7% of the Blood Type Diet for six weeks, their final cardiometabolic markers will probably not vary much by blood type. If the authors were in search of an outcome (i.e their goal from the onset was to disprove/ debunk the Blood Type Diets) they certainly did not suceed.

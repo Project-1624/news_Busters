@@ -1,0 +1,56 @@
+Teen cannabis IQ impact questioned – experts respond
+Heavy cannabis use during the teenage years may not be directly responsible for lower IQ, says a researcher questioning the findings of a highly-publicised New Zealand study. However, the authors of the original study remain confident in their findings.
+
+Research based on the internationally-renowned Dunedin longitudinal study drew a causal link last year between adolescent cannabis use and a drop in IQ. The results were reported widely around the globe.
+
+Now, a new analysis of the study claims that the link between IQ loss and cannabis – if it exists – can be explained by confounding socio-economic factors, rather than a neurotoxic effect of the drug. The analysis, by Norwegian researcher Dr Ole Rogeberg, is published today in PNAS.
+
+The authors of the original Dunedin study have published a response on the science commentary website The Conversation and referred to further analyses clarifying the nature of the effect (summarised here). They conclude:
+
+“The paper published today by Rogeberg has raised a seemingly plausible alternative explanation for the finding of an IQ decline in early and heavy cannabis users – but analyses of the Dunedin study data do not support it. The most plausible explanation for the data remains that using cannabis from adolescence and into young adulthood contributes to a decline in cognitive ability, as indicated by performance on IQ tests.”
+
+The Science Media Centre collected the following commentary on the research. Feel free to use these quotes in your reporting, or contact us to follow up further with experts.
+
+Prof Richie Poulton, Director of the, Dunedin Multidisciplinary Health and Development Research Unit, University of Otago, and co-authour of the original research, comments:
+
+“Rogeberg’s challenge is based on simulations, but we used actual data on 1000 people to carry out the analyses he suggested. Rogeberg’s claim is that low-SES (socio-economic status) children’s IQ’s are temporarily boosted by schooling, but that when they leave school and become adults their IQ’s rebound down to their former low baseline. If many cannabis users were former low-SES children, Rogeberg says this coincidence could create the false impression that cannabis was responsible for their adult IQ drop.
+
+“Our data show that:
+
+1. Looking at only children from middle-class homes, our findings of IQ decline in adolescent-onset cannabis users remain unaltered. To repeat the research within the middle-class group, we restricted our analysis to individuals in middle-class families (whose primary breadwinner had occupations such as building inspector, plumber, or aircraft mechanic). We excluded low-SES families (whose breadwinners had low-skills occupations such as food packer) and we also excluded high-SES families (whose breadwinners had professional occupations such as dentist).
+
+“In addition:
+
+2. Many of the adolescent cannabis users in the Dunedin Study were from slightly lower SES homes, though not all.
+
+3. However, their IQ’s were not boosted by schooling, because their IQ scores are the same from the time they began school to adolescence.
+
+4. In a critical test, low SES is statistically unrelated to IQ decline from adolescence to adulthood. Therefore, statistical control for SES does not alter the findings we reported in our paper.
+
+5. We add that there is no pattern of cannabis use predicting greater decline on the sections of the IQ test that are known to be most susceptible to alteration by education or social environment. We reported decline across many different kinds of mental functions.”
+
+Our colleagues at the Australian SMC gathered the following expert commentary:
+
+Prof Annette Dobson, Director, Centre for Longitudinal Lifecourse Research, School of Population Health, University of Queensland, comments:
+
+“The approaches differ between these two papers, reflecting the authors’ backgrounds.
+
+“The original paper is led by authors specialising in psychology and psychiatry. They do not consider variables such as socioeconomic status (SES), and their statistical analyses rely heavily on strong and untested assumptions. For example, they assume a simple linear relationship between the duration of marijuana smoking and the change in IQ, and their results do not show clearly how confident we can be in the magnitude of the results.
+
+“In contrast, Rogeberg, an economist who authored the more recent study, takes SES into account, and has a more thorough approach to the statistical methods he applies. He is also clearer about the uncertainty of his results, using simulations to explore the potential effects of different assumptions.
+
+“My perspective as a biostatistician accustomed to working in epidemiological settings is different again.
+
+“Firstly, there is the issue of statistical power. The Dunedin study is not large with only 874 participants in the original analysis by Meier et al., of whom just 153 ever met the criteria for cannabis dependence and 124 used cannabis regularly at one or more of the five surveys conducted. I suspect that the small sample size limited the extent to which the authors were able to take possible confounding factors, such as SES, into account, and led them to make assumptions such as the linear relationship mentioned above, and assumed parallel effects for different SES groups, genders, etc.
+
+“Secondly, as Rogeberg points out, the data do not support the assumption that a response pattern across different cannabis exposure categories is the same across educational groups. Similarly there are no data shown to support the assumption that the pattern is the same for men and women.
+
+“So are the original results by Meier et al. correct? I don’t believe we can say whether they are or not. In my opinion, their methods of analysis are inadequate as Rogeberg argues. Even if confounding by SES is not substantial, what about gender?*** Meier et al. show that proportionately more males than females are cannabis users, especially heavy users.
+
+“Even if a more careful, critical analysis were conducted comparing patterns across all the potentially confounding variables (such as SES and gender), it is also important to check the robustness of any assumptions made about the relationship between levels of smoking and effects. In the end it is possible that there would not be sufficient statistical power to detect clinically meaningful differences among groups, even if they exist. Only larger longitudinal studies can answer the question.”
+
+*** Responding to this particular criticism Prof Richie Poulton notes:
+
+“We clearly state in the last paragraph of the Method section in our paper that all analyses were adjusted for gender. Whilst it is true that due to relatively small numbers in some groups, we did not report formal tests for sex interactions, we understood that ‘undetected’ sex differences would exert a conservative effect on the association (i.e hypothesis) that we were testing.
+
+“That said, formal testing for sex differences in the reported associations reveals no significant differences – not even close, a conclusion confirmed by visual inspection of the group means. To be clear, there are no sex differences in the persistent cannabis use-IQ association reported in our study. Unfortunately I think Professor Dobson made a common error, that is, equating sex differences in rates of cannabis use, with sex differences in associations between between cannabis use and correlates, in this case cognitive abilities.”

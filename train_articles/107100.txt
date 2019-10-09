@@ -1,0 +1,36 @@
+Untangling the Syrian Refugee Crisis with Open Data
+Refugees, asylum seekers, migrants and the internally displaced. For Syrians and journalists, these are the buzzwords of the moment, but I’ve been curious: are there data that can help to understand the issue better? Since I work in the department in the World Bank responsible for leading the Open Data Initiative, I thought I’d see whether there are open data resources that can help with that.
+
+Each of the terms above describes a different way in which humans move, and all are difficult to measure. In Syria, as a result of the internal conflict, all are in evidence. Refugees need to move in order to preserve their lives or political freedom. Asylum seekers have applied for official refugee status, but haven’t received it yet. International migrants move from one country to another - generally for economic opportunity, but also if they are refugees. The internally displaced are people who have fled their homes but still reside within the borders of their original country.
+
+A key data source for refugees is the UN High Commission for Refugees (UNHCR): this page has quick estimates on Syria. Syrian refugees now number in the millions, according to the UNHCR. In 2010, eighty percent of the global refugee population resided in developing countries. With today’s influx of displaced Syrians, that figure may be even higher.
+
+The UNHCR shows refugee data by country of origin and country of asylum. Syria—due to its proximity to other conflict zones--has changed from being a country with a large number of asylum seekers to a country with a large number of originating refugees. At the start of 2011, foreign refugees housed in Syria outnumbered displaced Syrians by more than ten-fold. A year later, and the ratio has flipped around: refugees registered with the UNHCR rose by more than 30 times, and the number of refugees living in Syria dropped by more than half. The more than two million Syrian refugees are dispersed throughout the world, but most are concentrated among neighboring countries in the Middle East. Jordan—home to the world’s second largest refugee camp, Za’atari—has taken in over 500,000. Lebanon holds over 750,000 displaced Syrians, which makes up quite a large chunk of the small country of only four million. Check out this regional map of Syrian refugee populations.
+
+Children under 18 years of age make up a third of the total refugee population. In some camps, such as Za’atari, children are even more prevalent. The camp’s demographic breakdown has also been measured by the UNHCR and others, for example:
+
+Za’atari holds over 120,000 refugees—enough to make it Jordan’s fourth-largest city.
+
+The majority of its inhabitants are children under 18 years of age.
+
+On average, ten babies are born in the camp each day.
+
+Half of the refugees live in the camp in canvas tents.
+
+About 100 refugees leave Jordan each week to return to Syria, on average.
+
+The UNHCR’s Syrian Refugee Response Inter-Agency Information Sharing Portal provides more demographic data.
+
+The current refugee crisis turns many a historical trend on its head. Firstly, the demographic makeup of Syrian migrants has reversed. The World Bank’s Global Bilateral Migration Database shows us that in 2000, two-thirds of all Syrian migrants were men. Today, it’s women and young children who flee the country in much larger numbers. Fifty percent of Syrian refugees are women, and a third are children, according to UNHCR data. The reasons for leaving have evolved, as well. In the past, migrants typically moved for economic opportunities in Europe, North America, and the oil-rich Gulf countries. Displacement as a result of conflict appears to have changed this typical migration pattern since many of the countries which previously hosted the most Syrian migrants—among them Saudi Arabia, Kuwait, the United States, and Germany—are not the top asylum destinations for refugees. You can find more historical data on migration patterns in the Global Bilateral Migration Database and historical data on refugee flows at this great UNHCR data visualization here.
+
+It’s worth remembering that refugee data are difficult to collect and are often incomplete. Data are usually collected from official registrations, and unregistered refugees (many may not be aware of the need to register or choose not to do so) may not be counted; or numbers have to be estimated using modeling techniques. Further, asylum seekers and internally displaced people are not included in official UNHCR data, which only includes refugees.
+
+Comprehensive statistics on refugees are available from UNCHR at unhcr.org/pages/49c3646c4d6.html; two indicators on refugees using data from the UNCHR are also available here: refugee population by country or territory of origin and refugee population by country or territory of asylum.
+
+
+
+Related links:
+
+
+
+UNHCR Data Visualization at hdata.unhcr.org/dataviz

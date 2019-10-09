@@ -1,0 +1,85 @@
+CFSAN Adverse Event Reporting System (CAERS)
+
+The CFSAN Adverse Event Reporting System (CAERS) is a database that contains information on adverse event and product complaint reports submitted to FDA for foods, dietary supplements, and cosmetics. The database is designed to support CFSAN's safety surveillance program. Adverse events are coded to terms in the Medical Dictionary for Regulatory Activities (MedDRA) terminology.
+
+CAERS Data Files
+
+FDA provides raw data extracted from the CAERS database to the extent permitted by law and FDA regulations. The data files, which are available in ASCII format, may include:
+
+demographic and administrative information and the CAERS report ID number;
+
+product information from the case reports;
+
+symptom information from the reports;
+
+patient outcome information from the reports.
+
+The data files contain data reported by consumers and health care practitioners, data voluntarily reported by industry, and data from mandatory reports from dietary supplement industry from January 2004 forward. Subsequent data files will contain raw data extracted quarterly and will be posted when available.
+
+PLEASE OPEN AND REVIEW THE READ ME FILE PRIOR TO DOWNLOADING ANY DATA FILES. This document describes the information in the data files, including the data fields and limitations associated with the data.
+
+The presence of an adverse event report in CAERS does not mean the FDA has determined that the product listed was the cause of the event. Information from the reports is included in its original form and reports not always contain sufficient information for FDA to determine whether there is a correlation between the reported event and use of the product.
+
+READ ME FILE
+
+Download
+
+CAERS ASCII
+
+January 2004 - December 2013
+
+(CSV - 9.5 MB)
+
+Download
+
+CAERS ASCII
+
+January 2014 - June 2018
+
+(CSV - 10.8 MB)
+
+For assistance, please email the FDA/CFSAN CAERS team: CAERS@fda.hhs.gov.
+
+Frequently Asked Questions
+
+How Does FDA Use the Information in CAERS?
+
+CAERS is a useful tool for FDA for activities such as looking for new safety concerns that might be related to a marketed product, evaluating a manufacturer's compliance to reporting requirements and responding to outside requests for information. The reports in CAERS are evaluated by clinical reviewers in the Center for Food Safety and Applied Nutrition (CFSAN) to monitor the safety of consumer products. If a potential safety concern is identified in CAERS, further evaluation is performed. Based on an evaluation of the potential safety concern, FDA may take regulatory action(s) to improve product safety and protect the public health, communicate new safety information to the public, or, in rare cases, remove a product from the market.
+
+Who Reports to CAERS?
+
+Reporting of adverse events and product complaints by healthcare professionals and consumers is voluntary in the United States. FDA receives some adverse event and product complaint reports directly from healthcare professionals (such as physicians, pharmacists, nurses and others) and consumers (such as patients, family members, lawyers and others). Healthcare professionals and consumers may also report adverse events to the products’ manufacturers. If a manufacturer receives a serious adverse event report related to a dietary supplement, the manufacturer is required to send the report to FDA as specified by law. The reports received voluntarily by consumers, health professionals, and manufacturers, and the mandatory reports from dietary supplement manufacturers are entered into CAERS.
+
+What types of adverse events are included in CAERS?
+
+CAERS captures any adverse events or complaints related to foods, dietary supplements, or cosmetics. These can include minor to major medical events, but also complaints about off-taste or color of a product, defective packaging, and other non-medical issues.
+
+How Can I Report an Adverse Event related to foods, dietary supplements, and cosmetics to FDA?
+
+Please see How to Report a Problem with Food for information on how to report adverse events.
+
+Does CAERS Data Have Limitations?
+
+CAERS data does have limitations.
+
+The adverse event reports about a product and the total number of adverse event reports for that product in CAERS only reflect information AS REPORTED and do not represent any conclusion by FDA about whether the product actually caused the adverse events. For any given report, there is no certainty that a suspected product caused a reaction. Healthcare practitioners, firms, agencies, consumers, and others are encouraged to report suspected reactions; however, the event may have been related to a concurrent underlying condition or activity or to co-consumption of another product, or it may have simply occurred by chance at that time.
+
+The reports submitted to FDA vary in the quality and reliability of the information provided. Some reports to FDA do not necessarily include all relevant data, such as whether an individual also suffered from other medical conditions or used other products or medications at the same time. Reports may not include accurate or complete contact information for FDA to seek further information about the event, or complainants may choose not to participate in a follow-up investigation. When important information is missing from a report, it is difficult for FDA to fully evaluate whether the product caused the adverse event or simply coincided with it.
+
+Submission of an adverse event report does not constitute an admission that a product caused or contributed to an event. The information in these reports has not been scientifically or otherwise verified as to a cause and effect relationship and cannot be used to estimate incidence (occurrence rate) or to estimate risk.
+
+Does the FDA edit the entries or do any other quality control on the information contained in CAERS?
+
+The FDA removes duplicate reports when we detect them. For example, if a consumer files a report and then their physician also files a report, we remove one of the reports. However, the FDA does not necessarily investigate the reports before releasing them to the public. Therefore, it is not safe to assume that the product listed in a report actually caused the adverse event. Adverse events reported in CAERS may have actually been caused by something other than the product listed in the report. Even if the product did cause the adverse event, the reporter may have left out relevant information such as whether they had any underlying medical conditions and whether they used the product according to directions.
+
+Are CAERS Data Available to the Public?
+
+CAERS data are available to the public, to the extent permitted by law and FDA regulations, in the following ways:
+
+CAERS Data Files: provides raw data consisting of individual case safety reports extracted from the CAERS database.
+
+openFDA: provides an API for automated querying of the adverse event reports.
+
+Information from the CAERS database can also be obtained by sending a Freedom of Information (FOI) request to FDA.
+
+Where Else Can I Find Safety Information?

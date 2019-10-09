@@ -1,0 +1,44 @@
+Reaching Undocumented Asian Americans and Pacific Islanders in the United States
+Introduction
+
+This white paper identifies areas of need when it comes to outreach targeted at undocumented Asian American and Pacific Islanders (AAPIs). Using an innovative method developed by Warren (2014) to estimate the characteristics of the undocumented population, this paper provides a national overview of the undocumented AAPI population, a state-by-state comparison of aggregate estimates, and a state-by-state comparison by national origin group, focusing on China, India, the Philippines, Vietnam, and Korea. This paper also uses factor analysis to identify 50 areas of need where the undocumented AAPI population in a place is characterized by low English language use, high poverty rates, and low educational attainment. I note here that this white paper is part of a larger collaborative project on the undocumented AAPI population. The results of this larger project are expected by the end of summer 2015.
+
+Defining AAPI
+
+Individuals self-identify their race and ethnicity on Census questionnaires. For example, individuals can self-identify as Asian with respect to race and non-Hispanic with respect to ethnicity. Whereas much focus has been paid to the “Asian alone” category, this paper uses a broader definition of AAPI which combines “Asian alone,” “Pacific Islander alone,” Asian and Pacific Islanders who also identify as Hispanic (e.g., a person of Japanese ancestry born in Peru), and multi-race AAPIs.
+
+Data
+
+The data used in this paper are the 2013 American Community Survey (ACS) Public Use Microdata Sample (PUMS) 1-year estimates. These data, which include over 3 million weighted individual observations, include “likely unauthorized flags per the Warren (2014) estimation method. The PUMS data combined with unauthorized flags permit the identification of areas of need at the Public Use Microdata Area (PUMA) level. A PUMA is a geographic area containing about 100,000 people. For example, while it is helpful to know how many undocumented immigrants live in Los Angeles County, because Los Angeles County is home to roughly 10 million people and covers just over 4,000 square miles, it is perhaps more helpful for outreach purposes to know how many undocumented immigrants live in Koreatown or in Rosemead. PUMA-level analyses provide this level of detail.
+
+National
+
+Nationally, there are an estimated 1,532,304 undocumented AAPIs. This represents 13.9% of the total undocumented population. Figure 1 shows the distribution of undocumented AAPIs across all PUMAs in the U.S. (states with less than 1,000 undocumented AAPIs are omitted).
+
+An estimated 462,376 undocumented AAPIs are potentially eligible for DAPA. This represents 11.9% of the total estimated DAPA population.
+
+An estimated 168,670 undocumented AAPIs are potentially eligible for DACA (original and expanded). This represents 11.1% of the total estimated DACA population.
+
+Notes to figure 1: The dark blue areas represent PUMAs with more than 500 undocumented AAPIs. The light blue areas represent PUMAs with between 250 and 499 undocumented AAPIs. The dark grey areas represent PUMAs with between 100 and 249 undocumented AAPIs. The light grey areas represent PUMAs with less than 100 undocumented AAPIs.
+
+State
+
+The top 5 states when it comes to undocumented AAPIs are the immigrant gateway destinations of California, New York, Texas, New Jersey, and Illinois. However, as Table 1 shows, a diverse set of states ranging from the Northwest (Washington) to the South (Georgia) round out the top 10.
+
+Moreover, as Figure 2 shows, large estimated undocumented AAPI populations are highly correlated with the number of undocumented AAPIs that are potentially eligible for DAPA. In other words, states with large undocumented AAPI populations with minor variations are also states with large DAPA populations. The same trend holds true when looking at the relationship between the size of the undocumented AAPI population in a state and potential DACA eligibility. This provides some evidence to support state-level outreach strategies related to the President’s executive actions on immigration that use population size as a main determinant. However, we now have the ability to drill down more precisely within states and large counties.
+
+Notes to figure 2: r = .991. California omitted for data visualization purposes. r = .995 for DACA.
+
+National Origin
+
+China, India, the Philippines, Vietnam, and Korea (in order) currently represent the top 5 countries of origin when it comes to immigration to the U.S. from Asia. They also represent the top 5 countries of origin for the undocumented AAPI population. As Table 2 shows, India represents the largest national origin group among the undocumented APPI population, followed by China, the Philippines, Korea, and Vietnam. These countries combine to account for 81.9% of the total estimated undocumented AAPI population. Note: state-by-state and PUMA level breakdowns are available by national origin group.
+
+Areas of Need
+
+Recently released PUMA-level data provides important new insights about the size and the characteristics of the undocumented population. Using these data, I identify areas of need at the PUMA level, wherein the undocumented AAPI population is characterized by low English language use, high poverty rates, and low educational attainment. Whereas outreach to undocumented AAPIs can be a simple function of population size, these characteristics may be indicative of undocumented AAPI communities wherein targeted outreach related to administrative relief can be most impactful. I note here that different models can identify areas of need for the undocumented AAPI population more generally (e.g., exclude the number potentially eligible for administrative relief from the analysis). Moreover, additional models can be run that identify different sets of needs (e.g., include the number of undocumented AAPIs that do not have health insurance in the analysis). This analysis is intended to identify places that may not be the “usual suspects” in terms of outreach to undocumented AAPIs. Because this analysis relies on population estimates at small geographies, it should be seen as a complement to outreach strategies that use population size as a main determinant. Benchmarking the results of this analysis with local knowledge on the ground is, perhaps, the most effective way to utilize these data.
+
+The following begins by estimating the undocumented AAPI population by PUMA for all PUMAs in the U.S., including their potential eligibility for administrative relief, the number of undocumented AAPIs that do not speak English well, the number of undocumented AAPIs that live at or below the poverty line, and the number of undocumented AAPIs that do not have a high-school degree or equivalent. Factor analysis is used to weight these characteristics and then index all PUMAs to a single score.
+
+The top 50 areas of need are in 12 different states. California leads the way with 16, followed by New York with 11, and then Pennsylvania with 4. Moreover, the top 50 areas of need represent 19.0% of the total undocumented AAPI population, 20.4% of the undocumented AAPI population that is potentially eligible for administrative relief, 33.6% of undocumented AAPIs with language needs, 25.7% of undocumented AAPIs that are estimated to live at or below the poverty line, and 25.6% of undocumented AAPIs that are estimated to not have a high-school degree or equivalent.
+
+A list of all 50 areas of need is available here and by request to tomkwong@ucsd.edu.

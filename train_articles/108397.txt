@@ -1,0 +1,50 @@
+Donald Trump Is The World’s Greatest Troll
+“A troll,” according to one definition, “is a person who sows discord … by starting arguments or upsetting people … with the deliberate intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion.”
+
+The goal of the troll is to provoke a reaction by any means necessary. Trolls thrive in communities that are open and democratic (they wouldn’t be invited into a discussion otherwise) and which operate in presumed good faith (there need to be some standards of decorum to offend). Presidential nomination contests are highly susceptible to trolling, therefore. Access is fairly open: There’s no longer much of a filter between the campaigns, the media and the public. And it’s comically easy to provoke a reaction. How many times between now and next November will we hear that a candidate’s statement is “offensive,” whether or not it really is?
+
+Trolls operate on the principle that negative attention is better than none. In fact, the troll may feed off the negative attention, claiming it makes him a victim and proves that everyone is out to get him.
+
+Sound like any presidential candidates you know?
+
+There’s a notion that Donald Trump’s recent rise in Republican polls is a media-driven creation. That explanation isn’t entirely wrong, but it’s incomplete. It skims over the complex interactions between the media, the public and the candidates, which can produce booms and busts of attention. And it ignores how skilled trolls like Trump can exploit the process to their benefit.
+
+Let’s look at some data. In the chart below, I’ve tracked how media coverage has been divided among the Republican candidates over roughly the past month (the data covers June 14 through July 12), according to article counts on Google News. In turn, I’ve shown the share of Google searches for each candidate over the same period. The data was provided to FiveThirtyEight by Google but should closely match what you’ll get by searching on Google Trends or Google News yourself.
+
+Even before his imbecilic comments about Sen. John McCain this weekend, which came too recently to be included in this data, Trump was receiving far more media attention than any other Republican. Based on Google News, 46 percent of the media coverage of the GOP campaign over the past month was directed toward Trump, more than for Jeb Bush (13 percent), Chris Christie (9 percent), Scott Walker (8 percent), Bobby Jindal (6 percent), Ted Cruz (4 percent) and Marco Rubio (4 percent) combined.
+
+And yet, the public is perhaps even more obsessed with Trump. Among the GOP candidates, he represented 62 percent of the Google search traffic over the past month, having been searched for more than six times as often as second-place Bush.
+
+So if the press were going purely by public demand, there might be even more Trump coverage. Instead, the amount of press coverage that each candidate has received has been modulated by the media’s perception of how likely each is to win the nomination.
+
+The chart I showed you above contained data on each GOP candidate’s chances of winning the nomination, according to the prediction market Betfair. Candidates who are perceived as having a credible chance to win the nomination — like Bush, Walker and Rubio — receive proportionally more media attention than public attention. The reverse is true for candidates who are seen by the press as long shots, such as Rand Paul and Ben Carson.
+
+As is usually the case, however, life gets more complicated when we go from identifying correlations to trying to understand their causes. As we’ve seen, press coverage is highly correlated with the level of public interest in a candidate and the candidate’s perceived chances of winning the nomination. It could be, however, that public attention to a candidate is triggered by media coverage rather than the other way around. Likewise, while the media might be fairly sophisticated at identifying which candidates are more likely to win and provide correspondingly more coverage of them, the media can also produce a self-fulfilling prophecy. Being ignored by the media or labeled as a loser can make it hard for a candidate to attract money, endorsements and other resources that might allow them to make a comeback.
+
+We can aspire to determine causality by comparing the timing of Google News and Google search hits for a candidate. If the press drives public interest in the candidates, spikes in Google News should precede spikes in Google searches. If instead the press is reacting to the public, Google News hits will lag search.
+
+Unfortunately, this isn’t so easy to determine. Shifts in public and media attention tend to occur at about the same time — as you can see, for example, in the graphic below, which compares Trump’s Google News and Google search traffic from week to week.
+
+But a regression analysis — you can read the gory details in the footnotes — suggests that press attention both leads and lags public attention to the candidates. This makes a lot of sense. The public can take cues from the media about which candidates to pay attention to. But the media also gets a lot of feedback from the public. Or to put it more cynically: If Trump-related stories are piling up lots of pageviews and Trump-related TV segments get good ratings, then guess what? You’re probably going to see more of them.
+
+This creates the possibility of a feedback loop. Some event sparks a news story about a candidate, which triggers more public attention, which encourages yet more media attention — and so on. It may help to explain why we’ve repeatedly seen the so-called “discovery, scrutiny and decline” cycle in the past two primary campaigns for candidates like Trump, Newt Gingrich and Herman Cain — bursts of attention that coincide with spikes in the polls but then fade or even burst after several weeks.
+
+These “bounces” aren’t entirely new. Presidential candidates usually get a temporary bounce in support following their party’s convention, for example. But the polls in the 2012 Republican campaign were far more volatile than those in any previous nomination race. We’re really just getting started in 2016, but it’s been pretty wild as well. Bounces that might have happened once in a cycle now seem to occur all the time.
+
+So if these spikes are media-driven, they seem to be driven by some particularly modern features of the media landscape. Social media allows candidates to make news without the filter of the press. It may also encourage groupthink among and between reporters and readers, however. And access to real-time traffic statistics can mean that everyone is writing the same “takes” and chasing the same eyeballs at once. Is the tyranny of the Twitter mob better or worse than the “Boys on the Bus” model of a group of (mostly white, male, upper-middle-class, left-of-center) reporters deigning to determine what’s news and what isn’t? I don’t know, but it’s certainly different. And it seems to be producing a higher velocity of movement in the polls and in the tenor of media coverage.
+
+Trolls are skilled at taking advantage of this landscape and making the news cycle feed on its own tail, accelerating the feedback loop and producing particularly large bounces and busts in the polls. In 2012, Gingrich’s whole strategy seemed to involve trolling the media, and he went through a couple of boom-and-bust cycles in polls. In 2008, Sarah Palin, though beloved by Republicans, was brilliant at trolling Democrats and the media. She was extremely popular at first, although her popularity was ultimately short-lived.
+
+Trump has taken trolling to the next level by being willing to offend members of his own party. Ordinarily, this would be a counterproductive strategy. In a 16-candidate field, however, you can be in first place with 15 or 20 percent of the vote — even if the other 80 or 85 percent of voters hate your guts.
+
+In the long run — as our experience with past trolls shows — Trump’s support will probably fade. Or at least, given his high unfavorable ratings, it will plateau, and other candidates will surpass him as the rest of the field consolidates.
+
+It’s much harder to say what will happen to Trump’s polling in the near term, however. That’s in part because it’s hard to say exactly what was driving his support in the first place. Trump wasn’t doing especially well with tea party voters or with any other identifiable group of Republicans. My guess is that his support reflected a combination of (i) low-information voters who recognized his name and (ii) voters who share Trump’s disdain for the trappings of the political establishment and (iii) voters who were treating him as an inside joke or a protest vote, making him vaguely like an American equivalent of Beppe Grillo. None of them will necessarily be deterred from declaring their support for him because of his comments about McCain. Some of them might even be encouraged.
+
+But what if you want Trump to go away now?
+
+The media isn’t going to stop paying attention to Trump. Nor should it, really: His candidacy is a political story and not just “entertainment.”
+
+Republicans are another matter, however. They might rightly be concerned that Trump is tarnishing their brand image or at least meddling with their already-challenging task of choosing a candidate. Other Republicans should resist the temptation to extend the news cycle by firing back at him, however — even when what he says is genuinely offensive.
+
+After 12 years of writing on the Internet, I’ve learned that the old adage is true. Don’t feed the troll. The only way to kill a troll like Trump is to deprive him of attention.

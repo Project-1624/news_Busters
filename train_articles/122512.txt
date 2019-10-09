@@ -1,0 +1,43 @@
+3 Equifax Executives Sold Stock Days After Hack That Wasn't Disclosed For A Month
+
+Three executives of the credit-reporting agency Equifax sold nearly $2 million worth of company stock within days of a massive data breach potentially affecting 143 million Americans — one that wasn't publicly disclosed until more than a month later.
+
+In a statement, Equifax says the executives "had no knowledge that an intrusion had occurred at the time they sold their shares."
+
+Equifax revealed the security breach late Thursday. On Friday, its stock price went sliding by double digits as millions of Americans struggled to get answers from the company about whether they were affected and what to do next. New York Attorney General Eric Schneiderman has opened an investigation into the hack.
+
+The credit reporting company has said that it discovered "unauthorized access" to its systems on July 29. The intrusion potentially jeopardized sensitive details including names, birthdates, Social Security and driver's license numbers. The hackers also stole credit card numbers for 209,000 consumers.
+
+Regulatory filings show the three Equifax executives — Chief Financial Officer John Gamble, U.S. Information Solutions President Joseph Loughran and Workforce Solutions President Rodolfo Ploder — completed stock sales on Aug. 1 and 2.
+
+Enlarge this image toggle caption Bloomberg via Getty Images Bloomberg via Getty Images
+
+Bloomberg, which first located the filings, reports that "none of the filings lists the transactions as being part of 10b5-1 scheduled trading plans."
+
+The statement from Equifax notes that the executives sold "a small percentage of their Equifax shares" before they knew of the cybersecurity breach — and that the company "acted immediately to stop the intrusion" after discovering it.
+
+Meanwhile, many consumers trying to figure out the fate of their own personal information are left puzzled by the company's sputtering response so far.
+
+Equifax has set up a website (www.equifaxsecurity2017.com) and a call center (866-447-7559) to offer help. As is common with data breaches, consumers are offered a free credit-monitoring service. Equifax is offering its own program, TrustedID Premier, for a year.
+
+The large volume of inquiries has caused glitchy performance from the site and the phone line. In some cases, people were told nobody was available to answer their calls. In other instances, as detailed by cybersecurity reporter Brian Krebs, the website delivered a "system unavailable" message.
+
+In order to learn whether a specific user's information is breached, the website asks people to type in a name and the last six digits of a Social Security number — "the kind of information they're often warned not to reveal online," as Bloomberg notes.
+
+Once users get through, the website doesn't automatically enroll them in TrustedID credit monitoring — instead, the site issues a date, about a week in the future, when the user would have to return to complete the enrollment.
+
+Equifax also drew fire for the several restrictive clauses it included in the legal terms that applied to its customer-help website and the free credit-monitoring service.
+
+Users and experts had started pointing out that the company was imposing a so-called arbitration clause on the users, which essentially restricted their right to sue the company or be part of a class action in the future.
+
+Ira Rheingold, executive director of the National Association of Consumer Advocates, said specifically that such legal restrictions had appeared to apply to people taking advantage of the TrustedID Premier service that Equifax was offering as a courtesy.
+
+After pressure from consumer advocates and New York's attorney general, Equifax on Friday afternoon added a new line to its FAQ section:
+
+"The arbitration clause and class action wavier included in the TrustedID Premier Terms of Use applies to the free credit file monitoring and identity theft protection products, and not the cybersecurity incident."
+
+On its face, this line might suggest that Equifax would not restrict people's ability to hold the company legally accountable for potential damages specifically from the data breach.
+
+"But when rubber meets the road," Rheingold says, "we'll see."
+
+NPR's Sarah Knight, Les Cook, Steve Mullis and Chris Arnold contributed to this report.

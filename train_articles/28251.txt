@@ -1,0 +1,210 @@
+The Green New Deal: Scope, Scale, and Implications
+Research
+
+Douglas Holtz-Eakin, Dan Bosch, Ben Gitis, Dan Goldbeck, Philip Rossetti
+
+Executive Summary
+
+The Green New Deal (GND) is a sweeping policy plan setting out ambitious objectives for energy and economic policy. The breadth of its proposals makes it daunting to assess the GND using the standard tools of policy analysis. Nevertheless, this short paper is an initial foray. We have three broad conclusions:
+
+The GND’s proposed goals, “mobilization,” and specific policy projects encompass social and institutional changes far exceeding the narrow policy goals, but these changes are impossible to quantify at this point;
+
+Many of the policies proposed in the GND are redundant with other aspects in it, which also complicates a precise analysis, as the interactions are difficult to predict; and
+
+The GND will be very expensive – our initial estimates for the tractable aspects (best thought of as estimating the order of magnitude) are summarized below.
+
+Summary Table (2020-2029) Goal Estimated Cost Estimated Cost Per Household Low-carbon Electricity Grid $5.4 trillion $39,000 Net Zero Emissions Transportation System $1.3 trillion to $2.7 trillion $9,000 to $20,000 Guaranteed Jobs $6.8 trillion to $44.6 trillion $49,000 to $322,000 Universal Health Care $36 trillion $260,000 Guaranteed Green Housing $1.6 trillion to $4.2 trillion $12,000 to $30,000 Food Security $1.5 billion $10
+
+1. Introduction
+
+The Green New Deal (GND) is a set of sweeping policy proposals that has received widespread attention. As the name suggests, the heart of the GND is an effort to curb carbon emissions and thus to slow climate change, but the package contains a wide set of other policy proposals that are not directly linked to climate policy: a job guarantee, food and housing security, and a variety of social justice initiatives.
+
+Given the attention the GND has received, it is worth assessing its proposals, yet its breadth makes it daunting to apply the standard tools of policy analysis. Nevertheless, our task in this short paper is to begin this undertaking by providing broad analyses of some of the tractable parts of the GND.
+
+The next section reviews the GND (with the appendix providing excerpts of the GND’s exact language). Section 3 contains the meat of our analysis, while Section 4 is a summary and conclusions. We find that the GND would be very expensive. Its social impact, however, would likely exceed its enormous price tag because of its expansive re-engineering of social norms, policy processes, and key institutions.
+
+2. What is the GND?
+
+The GND contains a lengthy elaboration of goals, aspects of “mobilization,” and projects. In short, the goals are a pristine environment, quality infrastructure, a strong economy, and justice. To achieve these goals, the GND envisions a “mobilization,” yet it is difficult to understand exactly the role of mobilization, which lies between the goals and actual government projects. Clearly it is intended to put some meat on the aspirational goals, identify areas of focus, and generate enthusiasm.
+
+The rubber meets the road, however, with the policy details. For purposes of this paper, we distill this set of concrete projects into proposals for:
+
+A 10-year transition to an exclusively low-carbon energy electricity grid; Enough high-speed rail transit available that air travel becomes unnecessary; Guaranteeing union jobs with a family-sustaining wage, adequate family and medical leave, paid vacations, and retirement security to all people of the United States; Universal health care; Guaranteed housing for every American; and Food security for every person in the United States.
+
+For more details and key excerpts from the GND’s goals, “mobilization,” and projects, see the appendix.
+
+3. Analyzing the GND
+
+Several issues immediately arise in thinking about the six policy proposals. The first is that the breadth of the proposals suggests that there will be large spillovers among them, as well as macroeconomic impacts. This would imply that an ideal analysis would be to consider them simultaneously; below we restrict ourselves to policy-by-policy analyses for our initial evaluation. The sheer scope of these proposals would presumably reduce or eliminate existing federal spending in certain areas, perhaps beyond what we have estimated here. Obviously, this leaves room to improve on the estimated impacts.
+
+Simultaneously, the GND is curiously redundant. For example, a costly retrofitting of every structure in the United States seems considerably less environmentally beneficial once the electricity grid is completely transformed to use 100 percent clean energy than it would be if undertaken with today’s energy mix. Such a retrofit would have no impact on emissions. Similarly, the GND promises to ensure that every person has a guaranteed job, a family-sustaining rate of pay, and benefits such as paid leave and paid vacations. If everyone has good pay with good benefits, why is it simultaneously necessary to provide targeted programs for food, housing, and health care? Some of these objectives appear to be redundant. Nevertheless, we incorporate them into our analysis in an effort to reflect the GND’s intent.
+
+A. Clean Energy
+
+We estimate that to transition to a power sector that has net zero emissions of greenhouse gases in 10 years would require a capital investment of $5.4 trillion by 2029. In addition, the annual operation, maintenance, and capital-recovery costs would be $387 billion.[1] We consider this estimate to be conservative in two respects. First, we assume that a low-carbon electricity grid is feasible with only 4 hours of storage available for renewable resources; academic estimates have said a reliable grid requires 12 hours.[2] Second, we assume no new construction of transmission assets is required, even though efficiently siting new renewable assets will require significant transmission infrastructure.
+
+To reach this bottom line, we assume that states without nuclear moratoriums build approximately 50 percent of their needed capacity with nuclear power, and cover the remaining 50 percent with wind, solar, hydro, geothermal electricity, and battery storage. States with nuclear moratoriums are assumed to replace fossil fuels with wind, solar, and storage. This approach raises issues in dispatching electricity, because one needs to cover the difference between available nuclear and peak capacity with both solar and wind resources. Most renewable resources are non-dispatchable, and must be supplemented by storage and other available assets. (For example, if one has 500 megawatts (MW) of nuclear and needs 1000MW total, the solution is to use 500MW nuclear and 500MW solar for part of the day, 500MW nuclear and 500MW wind for a second part, and 500MW nuclear and 500MW storage for the remainder). The estimate incorporates full construction of all available hydro assets, and business-as-usual geothermal construction. The figure also assumes only 4 hours of storage would be available.
+
+To put these costs in perspective, total retail revenue in the electric power sector was $390 billion in 2017.[3] Generation costs were 59 percent of that, and would go from $230 billion to $387 billion each year in the above scenario, about a $157 billion difference, though if $70.5 billion of annual fuel costs are avoided by 2029 the net annual difference falls to $86.5 billion.[4] That increase (accounting for avoided fuel costs) would drive up total electricity costs by 22 percent. With an average monthly electric bill in 2017 of $111, the average household could expect around $295 of increased annual expenditures on electricity. This scenario is likely optimistic, as it assumes no increased costs for electricity generation and storage assets resulting from dramatically increased demand, nor does it consider any growth in transmission assets. Alternatively, the estimated costs could fall if storage assets could be deployed efficiently, but total costs would certainly be in the multiples of trillions of dollars range.
+
+B. High-Speed Rail
+
+The GND envisions enough high-speed rail to make air travel unnecessary. We conclude that the rail itself would cost between $1.1 and $2.5 trillion. This estimate adopts the state of California’s 2018 reported capital cost per mile of system, and multiplies it by the Bureau of Transportation Statistics’ (BTS) reported route miles for modes of transportation.[5], [6] The low figure multiplies track-mile costs by the difference between air and rail; the high figure assumes replacing all air route miles without using existing track. We consider both figures to be conservative estimates because it is not feasible to lay track between points of origin and arrival as the crow flies, which is the way aircraft travel works. The high figure assumes 19,453 miles of track.
+
+In addition to track, the high-speed rail system (HSR) will require its own rolling stock. Assuming that one train replaces three airplanes and that each train costs $71.2 million (roughly what California was intending to spend per train for 16 trains), the total comes to $166.9 billion.[7]
+
+As a matter of perspective, total 2017 revenue in the airline industry was $175.3 billion, with expenses of $153.9 billion.[8] Fuel expenses were $26.3 billion. It would take decades to pay off the capital investment required for HSR, and the fuel savings that would presumably be the most important cost difference would only be a fraction of the total investment required.
+
+C. Guaranteed Jobs
+
+We present four separate cost estimates of the guaranteed employment aspect of the GND, each based on the program outlined by Paul, Darity, and Hamilton in their 2018 paper for the Center on Budget and Policy Priorities (CBPP).[9] We use the same average cost per job figure, $56,000, as employed in their analysis. The table below summarizes the results.
+
+Guaranteed Jobs Summary ($ billions) Method 2019 2020 2020-2029 1. U-6 $547 $569 $6,762 2. U-6+LFPR $598 $622 $7,396 3. U-6+LFPR+Workers earning under 473 per week $2,570 $2,672 $31,777 4. U-6+LFPR+Workers earning under 625 per week $3,608 $3,750 $44,605
+
+The estimate in the first row follows the same method as in the CBPP report, but uses January 2019 data. It assumes that the U-6 measure of unemployment would be reduced to 1.5 percent. The cost is roughly $547 billion in 2019 and $6.8 trillion from 2020 to 2029.
+
+The second estimate adds to the decline in the U-6 the assumption that, at higher pay, the prime-age labor force participation rate would return to its peak in January 2007 (83.4 percent) and that all of those additional workers would have a government job. That increases the cost to $598 billion in 2019 and $7.4 trillion from 2020 to 2029.
+
+The third row contains an estimate that includes the features of rows one and two, but adds to the cost an assumption that all workers who are currently employed and earn less than $437 per week – the minimum pay proposed by the CBPP report – would switch to the government jobs. That increases the cost to $2.6 trillion in 2019 and $31.8 trillion between 2020 and 2029.
+
+Finally, the bottom row includes workers employed and earning less than $625 per week – the average pay provided by the program according to the CBPP report. That would increase the cost to $3.8 trillion in 2019, $44.6 trillion between 2020 and 2029.[10]
+
+D. Universal Health Care
+
+To analyze the GND promise for universal health care, we build on the estimate by the Center for Health and Economy (H&E) of the Medicare for All proposal by 2016 presidential candidate Bernie Sanders. In particular, we make several assumptions.
+
+There is Limited Plan Choice. A single-payer system would eliminate consumer choice relative to how insurance is currently administered. Thus there would be no plan choices outside of an actuarial value range that is comparable to the current actuarial value of Medicare.
+
+Actuarial Values of Plans. Current Medicare beneficiaries receive insurance with an actuarial value in the 70 to 80 percent range. We assume that these are the most bare-bones options and permit the equivalent of current individual market health insurance plans with Gold metal levels.
+
+Administrative Savings: We adopt the H&E estimate of the decrease in administrative costs.
+
+Total Government Spending. All costs to the consumer are eliminated by converting all health insurance-related costs into federal spending.
+
+Under these assumptions the universal coverage will cost roughly $36 trillion between 2020 and 2029. In addition to the tax cost and diminished choice, one would expect decreased access to providers, particularly among those who currently have health coverage.
+
+E. Guaranteed Housing
+
+The GND touches upon housing in two notable ways: first, a goal of providing all Americans “affordable, safe, and adequate housing,” and second, an overarching drive to build or retrofit housing to maximize energy efficiency. Regarding the primary idea of a “housing guarantee,” the homeless are the primary focus. Per Department of Housing and Urban Development (HUD) data,[11] nearly 554,000 people experienced homelessness in 2017. Since one-third of those were the part of a family unit, it would take approximately 427,000 units to house this population. The average monthly HUD expenditure per unit[12] of subsidized housing comes out to $693, or $8,316 annually. Simply funding the subsidized housing of this population would cost $3.5 billion annually.
+
+This figure, however, assumes there is available housing across these programs to take in such households. HUD currently estimates that 92 percent of its subsidized housing stock is “occupied.” The 8 percent unoccupied share yields nearly 402,000 units – a shortfall of 25,000 households. What would filling that shortfall look like? A recent Government Accountability Office study[13] examined the costs for Low-Income Housing Tax Credit projects. Applying the median California per-unit construction costs (a reasonable proxy considering California’s level of environmental standards) of $360,000 yields a price tag of $8.2 billion. These are, of course, the broadest, most approximate estimates of merely getting a guaranteed roof over a head.
+
+Turning to the greening of housing initiative, the potential costs continue to rise. While each situation is different depending upon the age of the building, existing features, etc., and the exact costs will largely depend upon whatever hard standards a fully realized GND establishes, there are some illustrative estimates available. A 2012 HUD study[14] evaluated the costs involved in having affordable housing meet the “National Green Building Standard.” The results varied across a series of case studies and efficiency levels. Assuming the highest level (“Emerald”) is a reasonable proxy for a GND rubric, upfront improvement costs ranged from $13,257 to $34,422 per unit. Applying such costs to simply the 5 million currently available HUD-subsidized housing units yields a cost range of between $66.5 billion to $172.8 billion. Applying such costs to all housing units[15] – since the resolution calls for upgrading “all existing buildings” – yields a potential cost of $1.6 trillion to nearly $4.2 trillion.
+
+F. Food Security
+
+There is no comparable program to the GND food security guarantee. One federal response to food access issues is the Healthy Food Financing Initiative (HFFI), which is a public-private partnership designed to drive investment in grocery stores and other fresh food facilities to areas that need them. It provides loans and grants to develop stores and provide employee training. It is based on an initiative in Pennsylvania (the Fresh Foods Financing Initiative [FFFI]) that leveraged $30 million in taxpayer seed money to “improve” access to fresh food for 400,000 Pennsylvania residents. Assuming that this constitutes providing access, it implies a taxpayer cost of about $75 per person.
+
+According to a 2009 federal estimate, there were about 23.5 million people in America in need of improved food access. Assuming the HFFI is as efficient as the FFFI (which seems like the conservative estimate) would put the federal cost at $1.76 billion. The program has been around since fiscal year 2011 and received about $245 million in taxpayer funds. The remainder needed is about $1.5 billion in taxpayer money. This increased access to fresh food, in conjunction with the income guarantees provided elsewhere in the GND, should meet the plan’s goal of food security for all Americans.
+
+4. Summary and Conclusions
+
+The Green New Deal is clearly very expensive. Its further expansion of the federal government’s role in some of the most basic decisions of daily life, however, would likely have a more lasting and damaging impact than its enormous price tag.
+
+Appendix: Key Excerpts from the Green New Deal
+
+To begin, the GND sets out goals. Specifically, it is “the duty of the Federal Government to create a Green New Deal:
+
+To achieve net-zero greenhouse gas emissions through a fair and just transition for all communities and workers;
+
+to create millions of good, high-wage jobs and ensure prosperity and economic security for all people of the United States;
+
+to invest in the infrastructure and industry of the United States to sustainably meet the challenges of the 21st century;
+
+to secure for all people of the United States for generations to come – clean air and water; climate and community resiliency; healthy food; access to nature; and a sustainable environment; and
+
+to promote justice and equity by stopping current, preventing future, and repairing historic oppression of indigenous peoples, communities of color, migrant communities, deindustrialized communities, depopulated rural communities, the poor, low-income workers, women, the elderly, the unhoused, people with disabilities, and youth (referred to in this resolution as ‘frontline and vulnerable communities’).”
+
+The GND then lays out a “10-year national mobilization (referred to in this resolution as the ‘Green New Deal mobilization’) that will require the following goals and projects:
+
+building resiliency against climate change-related disasters, such as extreme weather, including by leveraging funding and providing investments for community-defined projects and strategies;
+
+repairing and upgrading the infrastructure in the United States, including – by eliminating pollution and greenhouse gas emissions as much as technologically feasible; by guaranteeing universal access to clean water; by reducing the risks posed by climate impacts; and by ensuring that any infrastructure bill considered by Congress addresses climate change;
+
+meeting 100 percent of the power demand in the United States through clean, renewable, and zero-emission energy sources, including – by dramatically expanding and upgrading renewable power sources; and by deploying new capacity;
+
+building or upgrading to energy-efficient, distributed, and ‘smart’ power grids, and ensuring affordable access to electricity;
+
+upgrading all existing buildings in the United States and building new buildings to achieve maximum energy efficiency, water efficiency, safety, affordability, comfort, and durability, including through electrification;
+
+spurring massive growth in clean manufacturing in the United States and removing pollution and greenhouse gas emissions from manufacturing and industry as much as is technologically feasible, including by expanding renewable energy manufacturing and investing in existing manufacturing and industry;
+
+working collaboratively with farmers and ranchers in the United States to remove pollution and greenhouse gas emissions from the agricultural sector as much as is technologically feasible, including – by supporting family farming; by investing in sustainable farming and land use practices that increase soil health; and by building a more sustainable food system that ensures universal access to healthy food;
+
+overhauling transportation systems in the United States to remove pollution and greenhouse gas emissions from the transportation sector as much as is technologically feasible, including through investment in – zero-emission vehicle infrastructure and manufacturing; clean, affordable, and accessible public transit; and high-speed rail;
+
+mitigating and managing the long-term adverse health, economic, and other effects of pollution and climate change, including by providing funding for community-defined projects and strategies;
+
+removing greenhouse gases from the atmosphere and reducing pollution by restoring natural ecosystems through proven low-tech solutions that increase soil carbon storage, such as land preservation and afforestation;
+
+restoring and protecting threatened, endangered, and fragile ecosystems through locally appropriate and science-based projects that enhance biodiversity and support climate resiliency;
+
+cleaning up existing hazardous waste and abandoned sites, ensuring economic development and sustainability on those sites;
+
+identifying other emission and pollution sources and creating solutions to remove them; and
+
+promoting the international exchange of technology, expertise, products, funding, and services, with the aim of making the United States the international leader on climate action, and to help other countries achieve a Green New Deal.”
+
+The GND then moves into specific projects. Specifically: “To achieve the Green New Deal goals and mobilization, a Green New Deal will require the following goals and projects:
+
+providing and leveraging, in a way that ensures that the public receives appropriate ownership stakes and returns on investment, adequate capital (including through community grants, public banks, and other public financing), technical expertise, supporting policies, and other forms of assistance to communities, organizations, Federal, State, and local government agencies, and businesses working on the Green New Deal mobilization;
+
+ensuring that the Federal Government takes into account the complete environmental and social costs and impacts of emissions through – existing laws; new policies and programs; and ensuring that frontline and vulnerable communities shall not be adversely affected;
+
+providing resources, training, and high-quality education, including higher education, to all people of the United States, with a focus on frontline and vulnerable communities, so that all people of the United States may be full and equal participants in the Green New Deal mobilization;
+
+making public investments in the research and development of new clean and renewable energy technologies and industries;
+
+directing investments to spur economic development, deepen and diversify industry and business in local and regional economies, and build wealth and community ownership, while prioritizing high-quality job creation and economic, social, and environmental benefits in frontline and vulnerable communities, and deindustrialized communities, that may otherwise struggle with the transition away from greenhouse gas intensive industries;
+
+ensuring the use of democratic and participatory processes that are inclusive of and led by frontline and vulnerable communities and workers to plan, implement, and administer the Green New Deal mobilization at the local level;
+
+ensuring that the Green New Deal mobilization creates high-quality union jobs that pay prevailing wages, hires local workers, offers training and advancement opportunities, and guarantees wage and benefit parity for worker affected by the transition;
+
+guaranteeing a job with a family-sustaining wage, adequate family and medical leave, paid vacations, and retirement security to all people of the United States;
+
+strengthening and protecting the right of all workers to organize, unionize, and collectively bargain free of coercion, intimidation, and harassment;
+
+strengthening and enforcing labor, workplace health and safety, antidiscrimination, and wage and hour standards across all employers, industries, and sectors;
+
+enacting and enforcing trade rules, procurement standards, and border adjustments with strong labor and environmental protections – to stop the transfer of jobs and pollution overseas; and to grow domestic manufacturing in the United States;
+
+ensuring that public lands, waters, and oceans are protected and that eminent domain is not abused;
+
+obtaining the free, prior, and informed consent of indigenous peoples for all decision that affect indigenous peoples and their traditional territories, honoring all treaties and agreements with indigenous peoples, and protecting and enforcing the sovereignty and land rights of indigenous peoples;
+
+ensuring a commercial environment where every businessperson is free from unfair competition and domination by domestic or international monopolies; and
+
+providing all people of the United States with – high-quality health care; affordable, safe, and adequate housing; economic security; and clean water, clean air, healthy and affordable food, and access to nature.”
+
+
+
+[1] This assumes that capital costs are recovered over 20 years.
+
+[2] Energy & Environmental Science, “Geophysical constraints on the reliability of solar and wind power in the United States” https://pubs.rsc.org/en/content/articlelanding/2018/ee/c7ee03029k#!divAbstract
+
+[3] https://www.eia.gov/electricity/sales_revenue_price/pdf/table3.pdf
+
+[4] Energy Information Administration, Annual Energy Outlook 2018, Table 8 https://www.eia.gov/energyexplained/images/charts/major_comp_average_elec_price-large.jpg
+
+[5] California High Speed Rail 2018 Business Plan, page 114, http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf
+
+[6] Bureau of Transportation Statistics, Passenger Transportation Infrastructure: 2000, 2010, and 2013, https://www.bts.gov/archive/publications/passenger_travel_2015/chapter3/table3_1
+
+[7] California High Speed Rail 2018 Business Plan, page 44, http://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf
+
+[8] Bureau of Transportation Statistics, 2017 Annual U.S. Airline Financial Data, https://www.bts.gov/newsroom/2017-annual-and-4th-quarter-us-airline-financial-data
+
+[9] https://www.cbpp.org/research/full-employment/the-federal-job-guarantee-a-policy-to-achieve-permanent-full-employment
+
+[10] The CBPP report proposed that guaranteed jobs pay a minimum rate of $24,600 per year, or $473 per week, and an average rate of $32,500 per year, or $625 per week. AAF calculated the number of workers who currently earn under $473 per week and $625 per week using the Current Population Survey’s March 2018 Annual Social and Economic Supplement.
+
+[11] https://www.hudexchange.info/resources/documents/2017-AHAR-Part-1.pdf
+
+[12] https://www.huduser.gov/portal/datasets/assthsg.html; Query: “2017 Based on 2010 Census”
+
+[13] https://www.gao.gov/assets/700/694541.pdf
+
+[14] https://www.huduser.gov/publications/pdf/evaluation_of_affordablehousing.pdf
+
+[15] https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html; Query: National, 2017, “General Housing”

@@ -1,0 +1,36 @@
+Changing water levels
+Great Lakes water levels fluctuate within a normal range of variation, and these fluctuations are essential for maintaining habitat diversity and critical ecological functions. Normal ranges of variation tend to cycle over daily, seasonal, and longer (multiyear) periods of time.
+
+Short-term fluctuations, lasting under one hour to several days, are caused by sustained winds resulting from differences in barometric pressure. These fluctuations are also a result of daily changes in the direction of winds caused by differences in the rates at which land and water heat during the day and cool at night.
+
+Seasonal fluctuations 0.3-0.45 m (12-18 inches) are common due to annual variation in evaporation, precipitation, and runoff.
+
+Longer-term fluctuations lasting years, decades, or longer, are visible in the historic record.
+
+Lake levels reflect a balance between water inputs from precipitation and watershed runoff, and losses due to evaporation. Great Lakes water levels have been relatively stable over the past 150 years, with only a 2 meter difference between the recorded maximum monthly mean and the minimum monthly mean.1 However, the Lakes have experienced considerable water level fluctuations in the past three decades within that 2-m range. Lake levels were near the high end of the range in the 1970s-1990s but declined to the lower end of the range in 1997 and 2000. Currently, water levels are near their recorded low.
+
+Expected impacts of climate-related changes in water levels
+
+Several different climate models for the Great Lakes region all predict that lake levels will decline over the next century, although the predicted magnitude of decrease varies from model to model.1, 2 Parameters, including the specific climate models and emissions scenarios used in each study influence the magnitude of projected water level changes.
+
+Some current models predict increases in precipitation around the lakes, whereas others predict decreases; and it is unclear which outcome will result. While precipitation trends are unclear, they will affect the degree of lake level changes – less precipitation would cause lower water levels, while more precipitation would cause higher lake levels. Nonetheless, evaporation rather than precipitation is the primary driver of lake level change, as warmer air and water temperatures and a shorter duration of ice cover favor increased rates of evaporation. Most current models predict future declines in water levels due to decreased runoff and increased evapotranspiration as a result of higher temperatures.1
+
+Lower water levels are expected to have serious implications for the distribution of aquatic life and to result in high economic costs for human communities.
+
+Shallow, near-shore regions of the lakes, including wetlands and river mouths, are particularly vulnerable to declines in water levels, which may result in increased demand for dredging.
+
+Although short-term lake level fluctuations can be beneficial to wetland biodiversity, 3 prolonged change is likely to cause zonation shifts, 4.5 the consequences of which will depend in part on lake bathymetry.
+
+prolonged change is likely to cause zonation shifts, the consequences of which will depend in part on lake bathymetry. Lower lake levels adversely impact the shipping industry by limiting the amount of cargo vessels can carry.
+
+Mapping changing water levels as a Great Lakes stressor
+
+We assessed potential reduction in water level as a stressor to the Great Lakes using the 3-m bathymetric contour. Although future changes may be less than 3 m, these shallow areas are expected to be most affected.
+
+Data sets from individual lakes were combined for the entire Great Lakes basin and re-sampled to conform to the project 1 km 2 grid.
+
+grid. Where data gaps occurred near the shoreline, pixel values were estimated by spatial extrapolation of kriged data.
+
+Bathymetry pixels with depths <3 m are considered sensitive to climate change.
+
+Spatial distribution of changing water levels as a stressor in the Laurentian Great Lakes (Inset: Saginaw Bay, Lake Huron).

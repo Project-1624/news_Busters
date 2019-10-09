@@ -1,0 +1,22 @@
+The Latest Chat App for iPhone Needs No Internet Connection
+Mobile app stores are stuffed with messaging apps from WhatsApp to Tango and their many imitators. But FireChat, released last week for the iPhone, stands out. It’s the only one that can be used without cell-phone reception.
+
+Just between us: Peer-to-peer schemes like FireChat’s send information without involving distant servers or wireless carriers.
+
+FireChat makes use of a feature Apple introduced in the latest version of its iOS mobile software, iOS7, called multipeer connectivity. This feature allows phones to connect to one another directly using Bluetooth or Wi-Fi as an alternative to the Internet. If you’re using FireChat, its “nearby” chat room lets you exchange messages with other users within 100 feet without sending data via your cellular provider.
+
+Micha Benoliel, CEO and cofounder of startup Open Garden, which made FireChat, says the app shows how smartphones can be set free from cellular networks. He hopes to enable many more Internet-optional apps with the upcoming release of software tools that will help developers build FireChat-style apps for iPhone, or for Android, Mac, and Windows devices. “This approach is very interesting for multiplayer gaming and all kinds of communication apps,” says Benoliel.
+
+Anthony DiPasquale, a developer with consultancy Thoughtbot, says FireChat is the only app he’s aware of that’s been built to make use of multipeer connectivity, perhaps because the feature remains unfamiliar to most Apple developers. “I hope more people start to use it soon,” he says. “It’s an awesome framework with a lot of potential. There is probably a great use for multipeer connectivity in every situation where there are people grouped together wanting to share some sort of information.” DiPasquale has dabbled in using multipeer connectivity himself, creating an experimental app that streams music from one device to several others nearby.
+
+The new feature of iOS7 currently only supports data moving directly from one device to another, and from one device to several others. However, Open Garden’s forthcoming software will extend the feature so that data can hop between two iPhones out of range of one another via intermediary devices. That approach, known as mesh networking, is at the heart of several existing projects to create disaster-proof or community-controlled communications networks (see “Build Your Own Internet with Mobile Mesh Networking”).
+
+Apps built to exploit such device-to-device schemes can offer security and privacy benefits over those that rely on the Internet. For example, messages sent using FireChat to nearby devices don’t pass through any systems operated by either Open Garden or a wireless carrier (although they are broadcast to all FireChat users nearby).
+
+That means the content of a message and metadata could not be harvested from a central communications hub by an attacker or government agency. “This method of communication is immune to firewalls like the ones installed in China and North Korea,” says Mattt Thompson, a software engineer who writes the iOS and Mac development blog NSHipster. Recent revelations about large-scale surveillance of online services and the constant litany of data breaches make this a good time for apps that don’t rely on central servers, he says. “As users become more mindful of the security and privacy implications of technologies they rely on, moving in the direction of local, ad-hoc networking makes a lot of sense.”
+
+However, peer-to-peer and mesh networking apps also come with their own risks, since an eavesdropper could gain access to local traffic just by using a device within range.
+
+Open Garden’s main product is an app that allows Android devices to share their Internet connections (see “Could You Spare Some Internet Access?”). However, Benoliel says that won’t be coming to the iPhone anytime soon because the feature that FireChat relies on cannot be used to share data connectivity.
+
+Peer-to-peer mobile communications and mesh networks could prove especially important in countries with minimal communications infrastructure. “You can see Google spending billions on fiber and balloons, but this is not going to solve the problem of ubiquitous mobile connectivity,” Benoliel says. He argues that the spread of cheap Android phones across the world will make mesh networking feasible. “We need to create small Internets that can function on their own and [then] connect them to the big Internet.”

@@ -1,0 +1,11 @@
+Seasonally Adjusted Metropolitan Area Estimates
+
+Effective with the release of metropolitan area data for May 2011, the Local Area Unemployment Statistics (LAUS) program began to publish seasonally-adjusted civilian labor force and unemployment estimates for all metropolitan areas and metropolitan divisions. These data are updated via the downloadable files below on the day of each Metropolitan Area Employment and Unemployment news release. (See www.bls.gov/schedule/news_release/metro.htm for a schedule of upcoming release dates.) The files contain estimates from January 1990 forward. The statistical technique used to adjust estimates is SEATS, or Signal Extraction in ARIMA (Auto Regressive Integrated Moving Average) Time Series. For each area and division, separate SEATS specifications are used to seasonally adjust employment and unemployment levels, from which civilian labor force levels and unemployment rates are then derived. The SEATS specifications also vary by decade (1990-99 and 2000 forward), to minimize performance problems stemming from decennial discontinuities in the not-seasonally-adjusted input data.
+
+For the sake of completeness, data for model-based areas and divisions are included in the files below. These are the Cleveland-Elyria and Detroit-Warren-Dearborn metropolitan areas and the Chicago-Naperville-Arlington Heights, Los Angeles-Long Beach-Glendale, Miami-Miami Beach-Kendall, and Seattle-Bellevue-Everett metropolitan divisions. Data for these model-based areas and divisions first are seasonally adjusted using an X-11 type of filter then are smoothed using a Reproducing Kernel Hilbert Space (RKHS) filter, as are the model-based data for states.
+
+Downloadable Data Files
+
+Table 1. Civilian labor force and unemployment by metropolitan area, seasonally adjusted (TXT 21.6M) (ZIP 8.2M)
+
+Table 2. Civilian labor force and unemployment by selected metropolitan area and metropolitan division, seasonally adjusted (TXT 2.8M) (ZIP 1.0M)

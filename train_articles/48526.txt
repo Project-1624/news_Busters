@@ -1,0 +1,56 @@
+How the PayScale Index Differs from Other Economic Indicators
+While the PayScale Index is often compared to the Employment Cost Index, they are not tracking the same thing, but both measures are important signals.
+
+We recently released the Q2 numbers for the PayScale Index, which tracks changes in wages for full-time private industry workers over time, and found national wages only increased slightly year over year (1.1%) and actually fell from Q1 (-0.9%).
+
+For those of you following other macroeconomic indicators, you might be thinking, “Well that doesn’t jibe with our incredibly low unemployment rate and the growth rate of wages as reported by the BLS.” However, I think it is important to further understand the underlying methodology of the PayScale Index to understand how this data fits into the broader economic landscape.
+
+What is the PayScale Index?
+
+The PayScale Index is a wage index (base year = 2006) that tracks the quarterly changes in total cash compensation for full-time private industry workers. It is calculated leveraging PayScale’s database of more than 54 million crowdsourced employee profiles.
+
+Do You Know What You're Worth? GET A FREE PAY REPORT
+
+Through our comprehensive online, ongoing compensation survey, we have collected detailed data for individual workers (e.g., years of experience, location of work, required skillsets, educational levels, organizational characteristics, detailed pay information etc.). Utilizing these details, as well as our proprietary compensation model, we can determine how the value of a particular set of characteristics changes over time. In other words, how much more or less does a worker with a defined set of characteristics at a particular point in time (e.g., Q4 2016) earn than a similar worker at another point in time (e.g., Q1 2018)? Additionally, we’re able to look at these numbers after factoring in inflation, which we call “real wage” growth vs. nominal wage growth. If wage growth isn’t keeping pace with inflation, then spending power may actually decrease for workers even if the number on their paycheck is larger.
+
+Since PayScale does not have a fixed panel of employees that report pay each month, leveraging our model removes variations in the composition of our dataset from month to month, thus eliminating systematic shifts. This is done by looking for differences in actual pay from that predicted by the model at a particular point in time for each employee profile. We then determine the median of these differences in a given quarter and baseline them to the differences observed in 2006 (our base year). And voila, we have the U.S. national PayScale Index.
+
+PayScale Index vs. Employment Cost Index
+
+When PayScale Index numbers are released, the most frequent comparison people make is to the Employment Cost Index (ECI) reported by the Bureau of Labor Statistics (BLS). However, comparing the PayScale Index to the ECI is comparing apples to pears. Yes, they are both fruit and share similar characteristics, but each is quite different. The key difference between the PayScale Index and the ECI is the ECI tracks employment costs within organizations, while the PayScale Index tracks workers’ wages across organizations. This means the PayScale Index will capture how workers’ wages change as they switch companies, while the ECI does not.
+
+There is value to both the ECI and the PayScale Index. We are fortunate to live in a data-centric world where access to sources of wage trend data is plentiful. The important thing to remember is each measure has its own underlying methodology that can make comparisons across them difficult or even inaccurate.
+
+Differences between the PayScale Index and the Employment Cost Index include:
+
+The ECI utilizes a fixed set of jobs in a rolling 5-year period. This means if new jobs entered or existing jobs left the market in the last year, they would not be represented in the wage trends even though they affect aggregate wages in the economy.
+
+The ECI generally has a bias towards successful companies when looking at wage changes due to their fixed sample. If an organization within a cohort drops out of the sample, they are not replaced and instead the other similar companies are re-weighted.
+
+In terms of cash compensation, the ECI includes base wages, production bonuses, incentive earnings, and cost-of-living adjustments, but does not include overtime, shift differentials, or nonproduction bonuses (e.g., referral, or year-end, etc.), which are included in the PayScale Index (in addition to profit sharing and tips, when applicable).
+
+Given the ECI captures the cost of labor to employers, it also includes the cost of benefits (e.g., paid leave, insurance benefits, retirement plans, etc.) which have been steadily increasing since mid-2017 (Table 12). The PayScale index does not include the cost of benefits and only includes the aforementioned cash compensation components.
+
+The ECI is measured as a change in hourly compensation, while the PayScale Index measures the change in annualized compensation.
+
+The ECI is seasonally adjusted, while the PayScale Index is not.
+
+The ECI disproportionately represents larger companies, larger geographic areas, and more common jobs due to the selection methodology, while PayScale skews slightly towards smaller organizations and has a broad coverage of geos and job families. It is important to note that all data sets have biases and to truly leverage a data set, you must understand what those biases are and how they impact results.
+
+The ECI is calculated using fixed employment weights as defined by the BLS Occupational Employment Survey (OES), whereas the PayScale Index is not weighted. At this point it is also important to note inherent biases we have to our underlying dataset: we skew towards professional white-collar workers who have easy access to a computer and typically under-represent minimum wage and/or blue-collar jobs. Further, we skew slightly younger in the aggregate (median age of 38 compared to the median age of the working population as reported by the BLS being 43).
+
+All of these differences boil down to two important things:
+
+The PayScale Index will be inherently more volatile than the ECI. The PayScale Index will capture how cash compensation changes as individuals move in, out and around organizations. This matters as the impact of negative economic shocks will be muted in the ECI. For example, during the Great Recession, the PayScale Index showed a drop in wages, while the ECI showed wages continued to grow, albeit more slowly.
+
+Back to that quarterly drop – what’s the deal?
+
+As any economist will tell you, one quarter tells a story, two or more quarters builds a narrative. Macroeconomic measures are subject to change upon learning new information. However, in all our years of calculating the PayScale Index, I have never observed a complete reversal in a finding.
+
+Therefore, it is worth speculating what may be causing the recent observed drop in wages and I have several theories:
+
+The unemployment numbers may be painting a rosier picture compared to the reality for many workers. There are still a segment of workers who haven’t re-entered the labor force since the Great Recession. Although the Labor Force Participation Rate has slightly improved as of late, it still remains far below pre-recession levels (62.9% vs. 66%). Highly paid workers are being swapped out for low paid workers for two reasons. First, as the Baby Boomers increasingly retire they are replaced by Gen Z and Gen Y workers, who have less experience and less accumulated years of salary growth. Secondly, many workers are shifting from involuntary part-time work to full-time work, but much of this full-time work is in lower wage jobs. People who previously took a break from the labor force are re-entering as the labor market tightens. However, research shows an extended break from the labor force carries with it a wage penalty. For those who have been out of the labor force for 12 months or more, we observe a 7 percent pay penalty relative to other workers with similar characteristics who haven’t left the labor force. Instead of increasing base pay, businesses are leaning on spot and retention bonuses as they don’t exist in perpetuity. Further, with a high degree of uncertainty in the market, businesses are likely to opt for a temporary solution versus a permanent one. This coincides with findings from our annual compensation best practices report, which surveys more than 7,000 organizations on their compensation plans. Although we collect bonus information, due to the rolling nature of our data collection, respondents who have not yet received a bonus for the year cannot report it.
+
+That all being said, it remains to be seen whether the data point we observed in Q2 will be a trend in Q3. Additional macroeconomic metrics, which will help further paint a picture, are scheduled to be released on July 27th (Q2 GDP) and on July 31st (June ECI numbers).
+
+Therefore, I’ll leave you with this. Be careful of spurious comparisons of distinct measures and be sure to understand the underlying methodology of any metric you bring into your data arsenal. If you have further questions or comments, feel free to send me a tweet @EconomistKatie.

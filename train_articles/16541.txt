@@ -1,0 +1,61 @@
+0118 utinfopftexas
+
+Email, Cassie Alvarado, director of development and alumni relations, School of Information, University of Texas at Austin, providing replies to PolitiFact Texas from Lance Hayden, adjunct assistant professor, School of Information, University of Texas at Austin, Jan. 30, 2018
+
+On Jan 29, 2018, at 3:42 PM, Selby, Gardner (CMG-Austin) wrote:
+
+Cassie:
+
+Thanks for phoning me back. As mentioned, we’re fact-checking a claim about the Texas Department of Agriculture and a malware incident. To be specific, Trey Blocker said in a January 2018 commentary that in October 2017, a TDA “employee’s laptop was attacked by ransomware, releasing critical personal information for over 700 Texas students and their families. The hack,” Blocker wrote, “resulted in a loss of the most personal of information — names, social security numbers, birth dates, home addresses, and more — for Texas students and their families in almost 40 school districts. For reasons unknown, TDA did not notify the families affected until November 22, 2017 — 32 days after the breach.”
+
+Blocker went on to question the “unnecessary delay in notification.”
+
+We are fact-checking this: That the TDA didn’t notify over 700 Texas students about a computer hack harvesting personal information including social security numbers until 32 days after the breach.
+
+We’re told by TDA that the described notification occurred 27 days after the computer attack.
+
+At your end, I am turning to the UT Center for Identity seeking expert comment on the typical time lag that applies in situations like the one I describe between recognizing a ransomware attack and notifying possibly affected parties. Is 27 days a long lag or not? Why or why not?
+
+I’d be happy to interview someone by phone or email. We rely on attributable on-the-record information for all our stories. I am trying to complete our review by midday Tuesday.
+
+Thanks,
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+6:41 a.m.
+
+Jan. 30, 2018
+
+I was able to get in touch with my colleague Dr. Lance Hayden last night.
+
+Dr. Hayden is an adjunct associate professor in the iSchool, as all with UT’s Center for Identity. He is a security and privacy expert and a cybersecurity executive with over 25 years of experience.
+
+...
+
+Please see his reply below:
+
+There are a few issues at play here: what does the law say about notification times, what “feels right” for the time it should take to notify, and what’s typical?
+
+From a legal perspective, Texas actually has laws governing notification in the event of a data breach. http://www.statutes.legis.state.tx.us/Docs/BC/htm/BC.521.htm#521.053 describes the requirements, but essentially it says notification must be made “as quickly as possible” and lists several mitigating factors that may impact how long it takes to notify. So there is no pre-determined acceptable period between a breach discovery and notifying affected parties or the public. Interestingly enough, the new EU General Data Protection Regulation (GDPR) specifies notification periods not more than 72 hours, which is a very specific and very demanding requirement.
+
+In defense of companies that wait to notify or disclose a breach, it can be very difficult and time consuming to investigate a security breach, and organizations may take days or weeks to understand just what the breach entailed. One can argue that notifying people that their data has been compromised before an organization actually confirms whether it has or not is also problematic. Of course, it can feel like an organization is dragging its feet if it waits weeks to notify about an incident, but this is subjective.
+
+According to data/analysis from the International Association of Privacy Professionals, the average time from an organization discovering a breach to when they report it runs at about 30 days. Using that metric, the TDA’s notification at 27-32 days would be very typical of this sort of incident. Of course, if you’ve been the victim of a data breach a month seems like an awfully long time. And some, like the EU, are attempting to mandate notification times an order of magnitude more quickly. But others would argue that expecting a security incident to be discovered/remediated, fully investigated, and then reported to stakeholders inside of 3 days is not only unreasonable but irresponsible.
+
+Only the TDA knows the particulars of their own internal investigation that led up to the decision to notify. But between the mandate to notify “as quickly as possible” and the available data from organizations like the IAPP, TDA’s notification delay would not seem to be outside the norm, although it definitely didn’t happen as fast as some, like the EU and anyone affected, would want.
+
+lance
+
+CASSIE ALVARADO Director of Development and Alumni Relations
+
+The University of Texas at Austin | School of Information

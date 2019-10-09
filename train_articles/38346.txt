@@ -1,0 +1,104 @@
+How Potent Is Methane?
+Two federal agencies this month took steps that would allow the oil and gas industry to release more methane, a greenhouse gas, into the environment. Critics warned that methane is more potent than carbon dioxide at trapping the Earth’s heat, but some gave wildly divergent figures to describe how much more potent.
+
+Sen. Bernie Sanders said methane is 86 times more potent than carbon dioxide, while others, including New Jersey Rep. Frank Pallone, said it was 25 times as potent. So, which is it — 86 or 25 times?
+
+Perhaps surprisingly, both numbers are accurate. The amounts greatly vary, though, because they correspond to different time frames — a detail that often goes unmentioned when these statistics are given.
+
+The values used by Sanders and Pallone are what climatologists refer to as global warming potentials, or GWPs, which is one metric scientists use to compare greenhouse gas potencies. Since these numbers are often given without much explanation of what they actually mean, we’ll dive into some of the details to show the science behind them and the types of assumptions that are baked in.
+
+Sanders and Pallone were responding to the Environmental Protection Agency’s Sept. 11 announcement that it plans to relax regulations designed to limit methane emissions from the oil and gas industry. The public will have 60 days to comment once the proposed rule is published in the Federal Register.
+
+If the EPA’s change goes through, companies wouldn’t have to monitor for “fugitive emissions,�? or leaks, of methane as frequently, and would also have more time to stop leaks before facing penalties. The agency says the amended rules would save the industry about $484 million in regulatory costs between 2019 and 2025, but would also lead to 380,000 more tons of methane being released over the same period.
+
+A week later, the Department of the Interior announced it had finalized a similar rule regarding methane emissions on federal and tribal lands, which the government leases to companies for oil and gas exploration and development. The rule largely repeals a set of regulations slated to go into effect that were created to prevent methane loss at drilling sites. The Bureau of Land Management previously estimated that those regulations would prevent 175,000 to 180,000 tons of methane emissions every year, the equivalent of about 4.4 to 4.5 million metric tons of carbon dioxide.
+
+Global Warming Potentials, Explained
+
+The idea behind GWP is to compare how much warming a newly emitted gas will cause, relative to the same mass of carbon dioxide, or CO 2 , over a set period of time. These are often used to calculate CO 2 equivalents, as in the Bureau of Land Management’s calculation above, and can be used to tally up emissions from all the different greenhouse gases. Warming here goes by a fancy term called radiative forcing, which can be thought of as an index of the Earth’s energy budget. As we’ll explain later, this is a bit different from a temperature increase, which is captured in a different metric.
+
+Different factors can therefore influence this value, including:
+
+The gas’s inherent ability to warm : Some gases trap heat better than others, and some also produce chemical reactions that can lead to the production of other greenhouse gases, among other effects. Methane, for example, is a better heat-trapper than CO 2 , and also can increase lower-atmospheric ozone, which indirectly adds to methane’s warming ability. Various versions of GWP include or exclude different indirect effects.
+
+Lifetime of the gas : Different gases persist in the atmosphere for different periods of time. Some, such as methane, break down rather quickly, while others can last hundreds or thousands of years, still contributing to warming.
+
+An extra wrinkle when accounting for a gas’s warming ability is that the radiative forcing for many greenhouse gases changes depending on how much of the gas is already in the atmosphere. The primary way gases warm is by absorbing infrared radiation, or heat. But because gases only absorb specific wavelengths, there is a kind of saturation effect once a lot of a particular gas is around.
+
+“If a gas has absorbed all the infrared radiation it can, then doubling the concentration of the gas won’t change that absorption,�? explains Keith Shine, a climate scientist at the University of Reading in the U.K., over email. Shine has been heavily involved in developing comparative metrics for greenhouse gases.
+
+Shine notes that things are a bit more complicated in reality because gases can both absorb and emit radiation, but the general principle holds — and it’s key to understanding the relative impact of methane.
+
+“Probably the dominant driver of the difference between CO 2 and methane is that there is already much more CO 2 in the atmosphere than methane,�? says Shine. “This acts to mute the effect of adding more CO 2 .�?
+
+That doesn’t mean CO 2 isn’t doing anything or isn’t important — its emissions are so much greater than other greenhouse gases that it remains the largest contributor to climate change — but it does reduce the relative impact of the gas. Shine adds that this is a well-known phenomenon that climate scientists have factored into their modeling calculations for more than 50 years, and has been included in all of the Intergovernmental Panel on Climate Change, or IPCC, assessments.
+
+The Importance of Time
+
+One of the crucial variables for GWP is the selected time window. As the Sanders and Pallone tweets indicate, the values can change quite significantly depending on how far out one looks. If one considers a long time frame, then the longer-lived gases will appear stronger, and vice-versa if one considers a short time frame.
+
+This is why the values for methane appear to be all over the map. Methane sticks around for only about a dozen years, so it does its warming early on. Carbon dioxide, in contrast, can persist for thousands of years, steadily warming that whole time. As a result, methane’s potency is much higher if evaluated over 20 years rather than 100.
+
+The potencies of other greenhouse gases can fluctuate in the other direction, with longer-lived gases such as tetrafluoromethane getting even stronger when evaluated on a century-long scale.
+
+Lifetime (years) GWP 20 (over 20 years) GWP 100 (over 100 years) Carbon dioxide (CO 2 ) Varies (can be thousands) 1 1 Methane (CH 4 ) 12.4 84 28 Nitrous oxide (N 2 O) 121.0 264 265 Tetrafluoromethane (CF 4 ) 50,000.0 4880 6630
+
+Table 1: GWP for select greenhouse gases, adapted from Table 8.7 from the Working Group I’s contribution to the IPCC’s Fifth Assessment Report (2013). Does not include climate-carbon feedbacks.
+
+The 100-year metric has become a default standard. But this is really just a snapshot, since a longer view will under-report the damage a short-lived gas such as methane is doing today, and a shorter view will completely miss the ongoing warming that will come from a longer-lived gas in the future. Built-in to these numbers is a certain perspective.
+
+This is something the IPCC is very upfront about, as its latest report states, “There is no scientific argument for selecting 100 years compared with other choices. The choice of time horizon is a value judgement because it depends on the relative weight assigned to effects at different times.�?
+
+Shine says that the use of the 100-year time frame came about more or less by accident. “The use of GWP 100 is now quite firmly entrenched in policymaking and so is regarded as many policymakers as the metric of choice,�? he says. “But really it was the result of a number of somewhat arbitrary decisions.�?
+
+Other Metrics
+
+While GWP is the most common metric, others exist, and scientists are still trying to improve upon them.
+
+For example, Global Temperature Potential, or GTP, compares greenhouse gases to CO 2 in their ability to change global mean surface temperatures. In many ways this metric is similar to GWP — it, too, is pegged to a certain time — but it goes one step further to translate the relative warming into a temperature multiplier. In other words, methane’s GTP 100 of 4 means that methane released today will cause a temperature change in 100 years that is quadruple that due to the same mass of CO 2 emitted today.
+
+This translation process depends more on climate models and scientists’ understanding of how everything in the system interacts to produce a temperature change, including how quickly the climate will respond, so there is more uncertainty in the value. Perhaps because of this, and because it is newer — it debuted in 2005 — GTP tends to be used less, and is not usually the number politicians or journalists cite when comparing the potencies of greenhouse gases. But it can be useful to policymakers because it’s more directly related to temperature change, which is often what climate treaties are organized around.
+
+Some climate scientists have also suggested slightly different metrics that try to get around some of the drawbacks of GWP. In particular, Shine and colleagues have proposed a new variant called GWP* specifically designed to resolve GWP’s shortcomings with methane and other short-lived gases. Shine says that this metric may be better to use in the future because it focuses on changes in methane emissions, rather than total emissions. By only considering increases to methane emissions as added warming, this helps account for methane’s short lifetime. If methane emissions are flat or falling, as is expected in coming years, it may better reflect what methane is doing to the climate.
+
+But, he adds, GWP* hasn’t been assessed by the IPCC yet, and it’s still preliminary. “This would be quite a radical change, and it will take time to see if our idea takes root,�? he says.
+
+Continual Updates
+
+Adding to the general confusion about methane is the fact that as scientists have learned more about its warming effects, there has been a steady revision upward for its relative potency. In some cases, however, the latest revisions to GWP aren’t widely disseminated, in part because it makes sense for policymakers to stick with the older, lower GWPs used in past agreements, such as the Kyoto Protocol.
+
+In the 1990s, for example, the first two IPCC assessments listed methane’s GWP 100 as 21. By 2013, with the release of the fifth IPCC report, the GWP 100 for methane was 28, rising as high as 34 if including climate-carbon feedbacks. But in many of that report’s materials, additional calculations were done using the earlier GWP 100 figures. The oft-cited statistic of 25 times, meanwhile, stems from the IPCC’s fourth report in 2007.
+
+Much of the updating of methane’s potency has to do with reassessing the indirect effects of methane on ozone. When methane is broken down in the lower part of the atmosphere called the troposphere, for instance, that encourages ozone formation. This ozone contributes to smog and to warming; it’s not considered the “good” type of ozone located higher up in the stratosphere, which plays a protective role in blocking out ultraviolet rays.
+
+Since the last update, climatologists have made additional discoveries. Shine and colleagues, for example, reported in Geophysical Research Letters in 2016 that methane could contribute to warming by absorbing solar radiation — a feature that hadn’t been previously recognized or included in GWP estimates.
+
+Scientists are also always learning more about CO 2 , and because GWP is by definition in reference to CO 2 , any changes to its parameters also will affect the end values for the other greenhouse gases.
+
+Shine says that if work from his group and others holds up, it’s possible the IPCC’s sixth report could revise methane’s GWP 100 upward to 35 or higher. That number, like all the others before it, will be in flux as climatologists learn more and make refinements. It’s also likely to include a fair amount of uncertainty. GWP values for methane typically come with uncertainties between 30 percent and 40 percent, according to the IPCC.
+
+“We’ve made a lot of progress in the past 10 years,�? Shine says, “so I hope within another 10, we will have brought those uncertainties down.�?
+
+How Fossil Fuel Methane Is Different
+
+In the case of methane, there’s yet another factor to consider when talking about potency. GWP values don’t usually differentiate based on the source of the gas. But with methane, fossil fuel sources, such as those from the oil and gas industry, pack a slightly higher punch than others.
+
+The difference relates to the fact that when a methane is oxidized, or broken down, in the atmosphere, some CO 2 is produced in that chemical reaction. GWP doesn’t normally factor this in, but that’s okay because for many sources of methane, the extra CO 2 is already accounted for. If the methane came from a cow or rice paddy, for instance, the carbon is simply being recycled. The plant already removed a molecule of CO 2 during photosynthesis, so that offsets the molecule of CO 2 that forms when methane is broken down.
+
+Fossil fuel methane technically also has this offset because oil and natural gas started off as dead organic matter. But the associated CO 2 was pulled out of the atmosphere millions of years ago, so to include the offset now underestimates what that methane will do to the climate.
+
+In the end, this means that for fossil fuel methane, one has to increase the GWP 20 by 1, raising it to 85 (or 87, including feedbacks), and increase the GWP 100 by 2, raising it to 30 (or 36, including feedbacks).
+
+Because not all methane comes from this source, though, the IPCC opted in its last report to use the lower values for methane in its main tables, so one is likely to see those most often.
+
+According to the EPA, in the U.S., 31 percent of methane emissions due to human activity come from the oil and gas industry; 26 percent come from livestock, such as cows; and another 16 percent come from landfills. Methane also has many natural sources, including wetlands and termites.
+
+Metrics Are Only Tools
+
+The fact that methane’s potency can vary so much — Shine says it can range from 1 to 100, depending on the metric and the time frame — is an inevitable feature of how scientists put together these comparisons, which is why it’s helpful to understand some of the underlying assumptions.
+
+The IPCC even warns in its latest report, “Metrics do not define goals and policy — they are tools that enable evaluation and implementation of multi-component policies,�? adding that “the most appropriate metric will depend on which aspects of climate change are most important to a particular application.�?
+
+For all this focus on methane’s potency, though, it’s useful to remember that methane is still a smaller overall contributor to climate change than CO 2 . As we’ve written before, CO 2 is the main driver. Other gases, such as methane, are important, but they’re far less abundant.
+
+According to the IPCC, “carbon dioxide is the largest single contributor to radiative forcing over 1750–2011 and its trend since 1970.�? By itself, CO 2 accounted for 76 percent of all human-made greenhouse gases in 2010.

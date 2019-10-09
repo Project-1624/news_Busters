@@ -1,0 +1,48 @@
+Radiation Emergency Medical Management
+The biological effect of an exposure on an organ depends on the energy transmitted by radiation to the organ and the harmfulness of the type of radiation involved. Absorbed dose is used to measure the energy delivered to the tissue (the unit used is the gray: Gy). Equivalent dose is used to quantify the biological damage to the organ (the unit used is the sievert: Sv). Absorbed dose: The absorbed dose, measured in gray (Gy), represents the energy transmitted by radiation to living tissue. One gray corresponds to the energy of 1 joule (J) transmitted to 1 kilogramme (kg) of living tissue.
+
+
+
+Replay animation
+
+Equivalent dose: For a given organ, the equivalent dose H (in Sv) is equal to the absorbed dose D (in Gy) multiplied by the radiation weighting factor WR. WR expresses the harmfulness of the radiation, which depends on the density of the ionisation produced along the particle's trajectory.
+
+
+
+Replay animation
+
+To measure the risk of biological damage, regardless of the type of radiation (alpha, beta, gamma or neutron) or exposure (internal or external, partial or total) involved, the effective dose, often called 'dose' and expressed in sieverts, is used. It is an overall indicator enabling all types of exposure to be measured on the same scale. Effective dose: The effective dose E (in sieverts), often erroneously called 'whole body dose' or simply 'dose', is equal to the absorbed dose D (in grays) multiplied by the radiation weighting factor WR and the tissue weighting factor WT. WT indicates the radiosensitivity of each organ.
+
+
+
+Replay animation
+
+Orders of magnitude: The sievert is a relatively 'large' unit and there is a wide range of exposure levels. Consequently a submultiple, the millisievert, is often used (1 mSv = 0.001 Sv).
+
+
+
+The sievert has replaced the rem since 1975 (1 sievert = 100 rems).
+
+
+
+Replay animation
+
+Individual dose: Individual exposure occurs only while the body is actually being subjected to radiation. The total individual dose received is the product of the dose rate (dose delivered per unit of time) multiplied by the exposure time.
+
+
+
+Replay animation
+
+Collective dose: The collective dose, expressed in man-sieverts, gives a measure of the extent to which a group of people or a population has been exposed. It is equal to the sum of the individual doses.
+
+
+
+Example: A collective dose of 1 man-sievert corresponds to 1000 persons who have each received 1mSv or to 10 persons who have each received 100 mSv.
+
+
+
+Replay animation
+
+
+
+Adapted from Dosimetry, Measuring radiological risks (Radior, IAEA, European Commission, CEPN)

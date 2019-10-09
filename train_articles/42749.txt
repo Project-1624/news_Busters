@@ -1,0 +1,24 @@
+Premiums and Tax Credits Under the Affordable Care Act vs. the American Health Care Act: Interactive Maps
+Related Analysis: Premiums and Tax Credits under the Affordable Care Act vs. the Senate Better Care Reconciliation Act: Interactive Maps
+
+These maps compare county-level estimates of premiums and tax credits under the Affordable Care Act (ACA) in 2020 with what they’d receive under the House-passed American Health Care Act (AHCA) as unveiled March 6 by Republican leaders in Congress.
+
+The maps were updated on March 21, 2017 to show estimates of how much a person buying their own insurance would have to pay under both the ACA and the House replacement bill. The maps include premium tax credit estimates by county for current ACA marketplace enrollees at age 27, 40, or 60 with an annual income of $20,000, $30,000, $40,000, $50,000, $75,000, or $100,000.
+
+Note: As of May 4, 2017, the AHCA would allow states to waive certain consumer protections, including essential health benefits, community rating and age rating. If a state takes up such a waiver, the premium amounts for that state in this interactive would no longer be applicable. For example, enrollee costs could depend on their health status, with healthy people paying less and sicker people or those with pre-existing conditions paying more. The map also does not include cost-sharing assistance under the ACA that lowers deductibles and copayments for low-income marketplace enrollees. For example, in 2016, people making between 100 – 150% of poverty enrolled in a silver plan on healthcare.gov received cost-sharing assistance worth $1,440; those with incomes between 150 – 200% of poverty received $1,068 on average; and those with incomes between 200 – 250% of poverty received $144 on average.
+
+Generally, people who are older, lower-income, or live in high-premium areas (like Alaska and Arizona) receive less financial assistance under the AHCA. Additionally, older people would have higher starting premiums under the AHCA and would therefore pay higher premiums. Because younger people with higher-incomes and living in lower cost areas would receive more financial assistance and would have lower starting premiums on average, they would pay lower premiums on average.
+
+Most current Healthcare.gov enrollees have lower incomes:
+
+About 66% of have incomes at or below 250% of poverty (approximately $31,250 for a single individual in 2020), with the bulk (44% of all enrollees) having incomes at or below 150% of poverty (approximately $18,750 in 2020).
+
+About 36% of enrollees are under age 35, 37% are age 35 to 54, and 27% are 55 or older.
+
+Both the ACA and the American Health Care Act include tax credits in their approach. However, the law and the proposal calculate credit amounts differently: the ACA takes family income, local cost of insurance, and age into account, while the replacement proposal bases tax credits only on age, with a phase out for individuals with incomes above $75,000.
+
+For more on the subject, go to How Affordable Care Act Repeal and Replace Plans Might Shift Health Insurance Tax Credits.
+
+Our method of estimating premiums before tax credits under the AHCA is based on Congressional Budget Office (CBO) projections, which suggest that the premium for a 40-year-old under the AHCA would be similar to the premium for a 40-year-old under the ACA, before accounting for tax credits and for the same level of coverage. We therefore assume that the premium before tax credits for the second-lowest cost silver plan under the ACA is equal to the premium for a similar plan (with 70% actuarial value) under the AHCA for a 40-year-old. To arrive at the 60-year-old and 27-year-old premium under the AHCA, we use a 5:1 age curve, since the AHCA would change age rating from 3:1 to 5:1. We assume that states that have set their own age curves with ratios smaller than 3:1 (i.e. New York, Vermont, Massachusetts, and the District of Columbia) would maintain their state-specific age curves under the AHCA.
+
+A second interactive map below displays the same information as in the first map, but with a focus on the share of one’s income that would be spent on a silver plan premium under both the ACA and the AHCA. Like the map above, it does not include cost-sharing assistance available for lower-income enrollees in the ACA, nor does it account for changes that may be made to increase the amount of financial assistance available to older enrollees in the AHCA.

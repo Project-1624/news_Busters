@@ -1,0 +1,101 @@
+0416 rwilkinsonpftexas
+
+Email, Rachelle Wilkinson, adjunct professor of Statistics, Austin Community College, April 14, 2016
+
+On Thu, Apr 14, 2016 at 10:42 AM, Selby, Gardner (CMG-Austin) wrote:
+
+Good morning. I just left a voice mail because I seek your analysis, by phone or email, for a PolitiFact Texas fact check. Specifically, we are reviewing a claim by Austin City Council Member Ellen Troxclair, who recently said statistics show "you are about nine times more likely to be assaulted by a taxi driver" in Austin than a driver for a ride-hailing service.
+
+Her office tells us her basis for this claim was the attached document indicating complaints lodged in connection with taxi cabs or ride-hailed rides since 2014.
+
+Michael Searle, her chief of staff, told us: “If the estimate is that there are 15,000 TNC” ride-hailed “drivers, subject to name-based background checks, and there are 913 cab permits, subject to fingerprint background check, then you are 9 times more likely to be assaulted by a cab driver than a TNC driver in Austin.”
+
+Thoughts for our story?
+
+I would be happy to hear back by email or phone. I am trying to complete our review today.
+
+THANKS.
+
+g.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+1:53 p.m.
+
+The claim made is not accurate or fair. I assume that they took the number of sexual assault reports and divided it by the total number of drivers to make their claim. If you look just at 2015/2016 data, there were 23 reports for ride-hailing services and 6 reports for taxi cabs. I don't really think it is fair to include 2014 numbers in the analysis because Uber and Lyft hadn't really made a strong appearance then, and they certainly didn't have 15000 drivers in 2014. Leaving out 2014, the ratio of sexual assault reports to drivers would be:
+
+Taxis: 6/913 = 0.006572
+
+Ride-hailing: 23/15000 = 0.001533
+
+The taxi number is about 4 times larger than the ride-hailing number. If you include 2014, the taxi numbers look like this:
+
+Taxis: 14/913 = 0.0153340
+
+This number is about 10 times larger than the Ride-hailing number, so it is closer to what Ms Troxclair reports.
+
+However---neither of these number comparisons are a valid way to compare the incidence of sexual assault. They are comparing apples to oranges (number of sexual assault reports to number of drivers).
+
+A much more valid way to look at the data would be to compare the sexual assault reports to the number of rides given---NOT the number of drivers. Taxi drivers tend to drive as their profession or job whereas ride-hailing drivers often do it on the side. This would mean that the NUMBER OF RIDES given by taxi drivers is likely much higher (per driver) than the number of rides given by ride-hailing drivers (per driver). Since the number of taxi and ride-hailing rides is not given in this report, I can not calculate those numbers, but I suspect that they do NOT show that riding in a taxi is as dangerous as Ms. Troxclair wants to claim it is.
+
+Hope this helps! If you would like to speak over the phone, feel free call me on my cell phone: 480-369-5510. (It's a good idea to text me first so that I recognize your number!)
+
+Rachelle Wilkinson
+
+Adjunct Professor of Statistics
+
+Austin Community College
+
+On Thu, Apr 14, 2016 at 2:06 PM, Selby, Gardner (CMG-Austin) wrote:
+
+In the meantime, we fielded a fresh response from Troxclair’s office, some of which I am pasting below. Any additional thoughts? Her chief of staff was questioning the critique of UT statistics lecturer Matthew Hersh.
+
+Thanks again.
+
+PASTE
+
+I want to make sure to point out a couple things. First, she qualified her statement. She said, “when you look at the number of taxi drivers and the number of TNC drivers and the number of complaints that APD has received over that time, you are about nine times more likely to be assaulted by a taxi driver." She appropriately identified the data points she was referencing in making her statement. The responses you have shared from the two statisticians aren’t responsive to that context.
+
+CM Troxclair’s quote was a response to the claims about fingerprinting, as it relates to public safety and sexual assault. In other words, you could say “there is a 9 times higher prevalence of sexual assault amongst fingerprint background checked taxi drivers than name-based background checked TNC drivers.” The variable at play is the background check, not the number of rides or drivers.
+
+Response to Dr. Hersh below…
+
+First of all, in comparing the number of assaults in TNCs to taxis, Councilmember Troxclair cites data including all of the 2014 event though TNCs only started operating halfway through 2014 (from “Uber says drunk-driving crashes down in Austin since advent of ride-sharing services” Politfact).
+
+· Ridesharing began operating during SxSW of 2013.
+
+She also claims that there are 15,000 TNC drivers but many TNC drivers only work as a TNC driver for a very short period of time. There has never been a point where there were 15,000 people working as TNC drivers at the same time.
+
+· From the data we have about number of drivers from Uber and Lyft, there are at least 15,000 active TNC drivers in Austin. I assume you will call them and confirm those numbers. Of course, they are not all on the road at the same time just as all 913 taxi drivers are not on the road at the same time. All 15,000 drivers have been subject to a background check that does not include a fingerprint. The safety claim by the proponents is NOT that, “the more drivers that are on the road at the same time, the less safe riders are from sexual assaults.” But rather the claim is, fingerprint background checks as opposed to name-based checks, provide a safety benefit by screening out potential drivers who commit sexual assaults. To check the validity of that claim, you must compare the number of assaults to the number of background checks.
+
+…
+
+In order to really compare the probability, what one needs to know is when someone steps into a taxi or TNC, what is the probability of an assault. That probability is far more complicated than simply the number of assaults divided by the number of drivers. What needs to be looked at is the number of assaults divided by total hours driven. Or the number of assaults divided by trips.
+
+The TNCs have not shared this data so a thorough analysis cannot be provided and there really is no justification for Councilmember Troxclair’s statement. However, I have been able to find some estimated data that a basic comparison can be conducted on. This data was put together by Julio Gonzalez Altamirano and can be found on his blog keepaustinwonky.com. The TNC trip data is based on the television ads run by Ridesharing Works for Austin and the assumption of an average of 1.5 passengers per trip.
+
+From this data, there are 1,600,000 TNC trips per year and 2,825,412 taxi trips per year in Austin. Using data provide by Councilmember Troxclair from 2015 when both TNCs and taxis operated in Austin, there were 20 reported assaults in TNCs and 5 reported assaults in taxis. The rate of reported assaults per trip for TNCs is then 20/1,600,000= .0000125. The rate of reported assaults per trip for taxis is then 5/2,825,412 =.000001769653. Based on that, if someone were to step into a TNC the estimated probability of an assault is about 7 times greater than if someone steps into a taxi. Again, this is an estimate but a far cry from the statement Councilmember Troxclair provided.
+
+· As has been pointed out, this data is not available, so we used the data that we had access to, and qualified it appropriately. And again, in the context of the discussion about fingerprints being a safer screening process, this comparison is not relevant to that discussion. But if you insist on using this comparison, this is how we would quickly calculate it:
+
+(First, the assault data that he is provided is wrong. And the ride data is not known but unsure where he came up with that number. There is a report by Uber that says in their first year of operation they gave 3.5 million rides. If the assumption is that Uber is approximately 50% of the rideshare market, then we can assume there are at least 7 million rides given in a year (or more realistically, even more since the service has most likely grown since their arrival to Austin). The taxi data is available and that statistic is correct.. Given the document APD provided, which spans about 2 years, citing the 23 cases involving TNC drivers for the 14 million rides (0.00000164) versus the 14 cases involving cab drivers for the approximately 6 million rides (0.00000233). According to those statistics, based on # of rides given a person is 1.43x more likely to assaulted by a cab driver.)
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+(RW) 8:44 p.m.
+
+Sounds like Professor Hersh and I had similar thoughts. My opinion is that even if she (Ms Troxclair) clarified her response, the general feel of her message is that it is more unsafe to ride in a Taxi. That is simply not true based on the data that is provided. Her statement, to me, seems like it is purposely trying to lead the audience down the wrong path to the conclusion that she wishes to make, but that conclusion isn't based on truth. In addition, I think it is important to make clear to the audience that the probability of getting sexually assaulted, whether riding in a taxi or riding with someone from Uber (or similar) is really, really, really small. If there are 20 million rides given annually, and 27 of those rides result in sexual assault, then the probability is 27/20,000,000 or less than 1 in 740,000.
+
+Rachelle

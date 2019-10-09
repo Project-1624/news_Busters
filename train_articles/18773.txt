@@ -1,0 +1,18 @@
+Population, Total for United States
+NOTES
+
+Source: World Bank
+
+Release: World Development Indicators
+
+Units: Persons, Not Seasonally Adjusted
+
+Frequency: Annual
+
+Notes:
+
+Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. The values shown are midyear estimates.
+
+
+
+Source Code: SP.POP.TOTL

@@ -1,0 +1,36 @@
+Six types of ATM attacks and fraud
+ATM attacks and fraud continue to make headlines, despite the fact that the technology running ATM networks is becoming more secure and consumers are perhaps more vigilant than ever.
+
+But what do we mean exactly when we talk about ATM fraud? Far from being a simple smash-and-grab problem, ATM owners have to be vigilant against different types of threats to ensure they are protecting themselves and their customers.
+
+Card Skimming
+
+Remains the number one threat globally but one that is on the wane thanks to deployment of anti-skimming solutions, EMV technology and contactless ATM functionality. Essentially, skimming refers to the stealing of the electronic card data, enabling the criminal to counterfeit the card. Consumers experience a normal ATM transaction and are usually unable to notice a problem until their account is defrauded.
+
+Card Trapping
+
+Trapping is the stealing of the physical card itself through a device fixed to the ATM. In a pre-EMV or chip-and-signature environment, the PIN does not need to be compromised. Again, contactless capability can help. For example, NCR helped launch the world’s first tap and pin ATM with ANZ using SelfServ 23 and EMV contactless technology.
+
+Transaction Reversal Fraud
+
+TRF involves the creation of an error that makes it appear as though the cash had not been dispensed. The account is re-credited the amount ‘withdrawn’ but the criminal pockets the money. It could be a physical grab (similar to cash trapping) or a corruption of the transaction message.
+
+Cash Trapping
+
+Normally relatively low value, the fraudster will use a device to physically trap the cash that is dispensed and come to collect once the customer has left the ATM location.
+
+Physical Attacks:
+
+This category is related to any attempt to rob the ATM of the cash in the safe. Methods of physical attacks include solid and gas explosives, as well as removing the ATM from the site and then using other methods to gain access to the safe.
+
+Logical Attacks
+
+Logical attacks are becoming a major and growing attack vector, and one that has the potential to cause large amounts of losses. In this type of attack, external electronic devices, or malicious software in used in the crime. The tools are used to allow the criminal to take physical control of the ATM dispenser to withdraw money, which is often called “cash-out” or “jackpotting,” as the machine starts spitting out bills like a casino gaming machine.
+
+The other version of malware attack on ATMs sees criminals using software to intercept the card and PIN data as customers use the machine. They can then use this to clone cards and commit fraud at point of sale terminals, ATMs and in ‘card-not-present’ scenarios.
+
+Criminals are always looking for ways to get their hands on card data or actual cash, however modern ATMs are designed to prevent attacks occurring, and the ATM industry constantly updates and evolves technology to thwart fraudsters at every possible step.
+
+The good news is that there are solutions and practices that ATM deployers can and should do to protect the ATMs and the consumer who use them.
+
+Learn more about NCR Secure at NCR Financial Services.

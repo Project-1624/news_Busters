@@ -1,0 +1,246 @@
+Monthly Employment Situation Report: Quick Guide to Methods and Measurement Issues : U.S. Bureau of Labor Statistics
+On this page, you can quickly locate BLS documentation about the methods underlying the numbers that appear each month in the Employment Situation news release. This page also provides links to related information pertaining to measurement issues; this includes information on various topics such as the birth/death model used by the payroll survey, the population controls used by the household survey, and comparisons between the two surveys. Also see Frequently Asked Questions about Employment and Unemployment Estimates.
+
+Payroll survey (methods and measurement issues) | Household survey (methods and measurement issues) |
+
+Comparing payroll and household survey employment
+
+
+
+
+
+Payroll Survey — Methods and Measurement Issues
+
+The Current Employment Statistics (CES) program, also known as the payroll survey or the establishment survey, is a monthly survey of approximately 142,000 businesses and government agencies representing approximately 689,000 worksites throughout the United States. From the sample, CES produces and publishes employment, hours, and earnings estimates for the nation, states, and metropolitan areas at detailed industry levels.
+
+Series covering all employees hours and earnings were officially added by CES on February 5, 2010, with estimates beginning in March 2006. Historically, CES hours and earnings series covered only production and nonsupervisory employees.
+
+Concepts
+
+The CES employment series are estimates of nonfarm wage and salary jobs, not an estimate of employed persons; an individual with two jobs is counted twice by the payroll survey. The CES employment series excludes employees in agriculture, private households, and the self-employed.
+
+For more information, see the Concepts section of Chapter 2 of the BLS Handbook of Methods at www.bls.gov/opub/hom/pdf/homch2.pdf; this section includes definitions of the types of data available from the survey. More information is also available under Available Data in the CES Technical Notes at www.bls.gov/web/empsit/cestn.htm#section3.
+
+Uses
+
+A wide array of public and private policy makers use CES data because it is one of the earliest indicators of economic conditions each month. Major users of CES data include many government agencies and entities, financial markets in the United States and around the world, and business and academic analysts, researchers, and forecasters.
+
+For more information, see the Uses section of Chapter 2 of the BLS Handbook of Methods at www.bls.gov/opub/hom/pdf/homch2.pdf.
+
+Sample Design
+
+The current CES sample design has been in place since 2003 and follows state-of-the-art design principles for an establishment survey; it was developed in consultation with experts in survey design from universities and other leading statistical agencies. The entire sample is redrawn annually, and a supplemental sample of new business births is selected midway through the year. About one-third of the sample is rotated out each year and replaced with newly selected businesses.
+
+For more information, see the Sample Design section of Chapter 2 of the BLS Handbook of Methods at www.bls.gov/opub/hom/pdf/homch2.pdf. More information is also available under The Sample in the CES Technical Notes at www.bls.gov/web/empsit/cestn.htm#section1.
+
+Data Collection
+
+All new samples are solicited by computer-assisted telephone interview (CATI), and data are collected for the first 5 months via this mode. After the initiation period, many sample units are transferred to one of several less costly reporting methods that are self-initiated by the respondent. The CES offers responding businesses a choice of reporting modes in an effort to maximize response rates within the program budget. Respondents can report via Fax, Web, Touchtone Data Entry (TDE), Electronic Data Interchange (EDI), or CATI.
+
+For more information, see the Sample Data section of Chapter 2 of the BLS Handbook of Methods at www.bls.gov/opub/hom/pdf/homch2.pdf. More information is also available under Data Collection in the CES Technical Notes at www.bls.gov/web/empsit/cestn.htm#section4. Also, the latest CES revisions and sample collection rates are available in the CES employment revisions and sample collection rates, detailed tables, and technical information at www.bls.gov/ces/cesrevinfo.htm.
+
+Estimation Methodology
+
+CES monthly employment estimates are made using a two-part estimator. The sample reports are used to estimate month-to-month employment change from continuing businesses, and a birth/death model is used to account for new firm births that otherwise would not be sampled in a timely fashion.
+
+Sample-based estimator. CES uses a matched sample concept and weighted link relative estimator to produce employment, hours, and earnings estimates. For more information on these methods and the CES sample-based estimator, see the Estimation Methods section of the CES technical notes at www.bls.gov/web/empsit/cestn.htm#section6.
+
+Birth/death model. The sample alone is not sufficient to estimate a total employment level because each month new firm births generate employment growth, and there is an unavoidable lag between an establishment opening for business, appearance on the sample frame, and availability for inclusion. To account for these components of total employment, CES uses a net business birth/death model.
+
+Technical information on the estimation methods used to account for employment in business births and deaths is available under Birth/Death section in the CES Technical Notes at www.bls.gov/web/empsit/cestn.htm#section6c. For the most recent monthly total nonfarm birth/death adjustments, see CES Net Birth/Death Model. For historical birth/death adjustments, see Historical Net Birth/Death Adjustments available at www.bls.gov/web/empsit/cesbdhst.htm. For additional information, see CES Birth/Death Model Frequently Asked Questions at www.bls.gov/web/empsit/cesbdqa.htm.
+
+Estimate review. CES uses automated edit and screening techniques to identify potentially erroneous sample data; respondents are re-contacted as needed to validate or correct their reported information. After the microdata edit process is complete, monthly estimates are calculated. Automated edits of the estimates are supplemented by analysts who look for errors and outliers and provide final validation of the series before publication.
+
+
+
+More information can be found in the Estimating Procedures section of Chapter 2 of the BLS Handbook of Methods at www.bls.gov/opub/opub/hom/pdf/homch2.pdf.
+
+Seasonal Adjustment
+
+The seasonal adjustment process removes from the series the effects of normal variation from recurring events within a year, such as holidays and weather changes, and helps reveal underlying economic trends. CES uses a concurrent seasonal adjustment methodology, meaning that it incorporates estimates up through and including the current month's data to achieve the best possible series.
+
+Technical details and related research on the CES implementation of concurrent seasonal adjustment, including input files used during the latest production run, can be found in Seasonal Adjustment Files and Documentation available at www.bls.gov/web/empsit/cesseasadj.htm.
+
+Monthly Revisions
+
+CES first preliminary estimates of employment, hours, and earnings are published each month approximately three weeks after the reference period. Estimates are then revised twice before being held constant until the annual benchmarking process. Second preliminary estimates for a given month are published the month following the initial release, and final sample-based estimates are published two months after the initial release.
+
+For more details on revision, see the Revisions section of the CES Technical Notes available at www.bls.gov/web/empsit/cestn.htm#section7. See www.bls.gov/web/empsit/cesnaicsrev.htm for a table of revisions to seasonally adjusted total nonfarm over-the-month changes from January 1979 forward.
+
+Sampling Errors (Variances)
+
+The establishment survey, like other sample surveys, is subject to two types of error, sampling and nonsampling error. The magnitude of sampling error, or variance, is directly related to the size of the sample and the percentage of universe coverage achieved by the sample. The establishment survey sample covers over one-third of total universe employment; this yields a relatively small variance on the total nonfarm estimates.
+
+For more information, see the Reliability of Estimates section of Chapter 2 of the BLS Handbook of Methods at www.bls.gov/opub/hom/pdf/homch2.pdf. Also, for the most recent information on error and relative standard error, please see the Reliability section of the CES technical notes www.bls.gov/web/empsit/cestn.htm#section1c.
+
+Benchmarking
+
+Unlike most sample surveys that publish sampling error as their only measure of error, CES can derive an annual approximation of total error, on a lagged basis, because of the availability of the independently derived universe data. On an annual basis BLS recalculates nearly two years of not seasonally adjusted estimates in a process known as benchmarking. The benchmark process helps correct for sampling and modeling error in the CES estimates. Historically, benchmark revisions have been very small for total nonfarm employment.
+
+The benchmark process re-anchors sample-based estimates to a nearly complete count of employment based primarily on Unemployment Insurance (UI) tax records for March of each year. For example, when BLS published the March 2009 benchmark revision with the Employment Situation news release in February 2010, the employment series was revised from April 2008 through December 2009 on a not seasonally adjusted basis. Five years of seasonally adjusted data are re-calculated and replaced with each benchmark revision.
+
+For more information, see the Benchmark Data section of Chapter 2 of the BLS Handbook of Methods at www.bls.gov/opub/hom/pdf/homch2.pdf. More information is also available under Benchmarks in the CES Technical Notes at www.bls.gov/web/empsit/cestn.htm#section7b. Details on the most recent CES benchmarks and corresponding detailed data tables may be found in the annual CES Benchmark Article available at www.bls.gov/web/empsit/cesbmart.htm.
+
+
+
+
+
+Household Survey — Methods and Measurement Issues
+
+The Current Population Survey (CPS), also referred to as the household survey, is a monthly sample survey of 60,000 eligible households.
+
+The household survey sample is designed to reflect the civilian noninstitutional population. This population excludes people serving in the Armed Forces, and people living in institutions such as residential nursing and care facilities and correctional institutions.
+
+Based on responses to survey questions about work and job search activities, each person age 16 and over in the sample is classified as employed, unemployed, or not in the labor force (definitions below).
+
+The household survey labor force measures are available by many demographic characteristics, including age, sex, race, Hispanic or Latino ethnicity, and educational attainment. Labor force characteristics such as usual full- and part-time status, multiple jobholding, duration, and reason for unemployment are also available.
+
+
+
+
+
+Concepts
+
+The household survey employment measure is an estimate of employed people, not an estimate of jobs. People who have more than one job (multiple jobholders) are counted once in the household survey employment measure.
+
+Employed people are those who worked as paid employees; were self employed in their own business, profession, or farm; worked without pay for at least 15 hours in a family business or farm; or were temporarily absent from their jobs.
+
+The household survey - employment measure includes categories of workers that are not covered by the payroll survey:
+
+the self-employed
+
+workers in private households
+
+agricultural workers
+
+unpaid workers in family businesses
+
+workers on leave without pay during the reference period
+
+Unemployed people are those who had no employment (as defined above) during the reference week; were available for work at that time; and had made specific efforts to find employment in the prior 4 weeks. People laid off from a job and expecting to be recalled are included among the unemployed but unlike the other unemployed, they need not have been looking for employment.
+
+The labor force is the sum of the employed and unemployed. The unemployment rate is the unemployed as a percentage of the labor force.
+
+Not in the labor force includes all people in the civilian noninstitutional population who do not meet the above definitions of employed or unemployed.
+
+For those not in the labor force, the household survey gathers information on whether they want and are available for work. Those who want a job are asked when they last searched for employment, and, if they are available, why they are not currently looking. Based on responses to these questions, BLS estimates the number of discouraged workers, defined as people who want and are available for work, and have searched for a job in the past 12 months, but are not currently looking because they believe no jobs are available.
+
+For non-technical documentation on the household survey and its employment, unemployment, and labor force concepts, see How the Government Measures Unemployment.
+
+For technical and more comprehensive information, see the household survey technical documentation page on the BLS website.
+
+
+
+
+
+Uses
+
+The household survey is the primary and most timely source of information on the labor force characteristics of the U.S. population.
+
+Data from the household survey, in particular the national unemployment rate, serve as important economic indicators. Policymakers and analysts use household survey data to formulate and evaluate economic policy. Businesses, news media, students, academics, and the general public also use information from the household survey.
+
+
+
+
+
+Sample Design
+
+The CPS sample is a multi-stage probability sample of housing units designed to produce labor force characteristics of the civilian noninstitutional population age 16 and over.
+
+The sample consists of independent samples in each of the 50 states and the District of Columbia, each specifically tailored to the demographic and labor market conditions that prevail in that particular state.
+
+The household survey sample is made up of addresses, not the names of people or families at those addresses. The sample comes from lists of addresses obtained from the Decennial Census of Population and Housing. The sample is updated continuously for new housing built.
+
+For further information, see Chapters 3 and 4 of Current Population Survey Design and Methodology, Technical Paper 66, on the Census Bureau website.
+
+
+
+
+
+Data Collection
+
+The U.S. Census Bureau conducts the household survey for the Bureau of Labor Statistics.
+
+Census Bureau interviewers contact households by telephone and in person and ask questions regarding the labor market activity of household members during the previous calendar week.
+
+Households are contacted for four consecutive months, out of sample for the next eight months, back in sample for the following four months, and then retired from the sample. In any single month, one-eighth of the sample housing units are new; another eighth are participating for the second time; and so forth. This sample rotation pattern reduces the burden on the household respondents, at the same time reducing the variance of the estimates (see the Variances section below) that would occur if the entire sample was new each month.
+
+For the first month in which the household is in the sample, Census Bureau interviewers usually make a personal visit to the home with a laptop computer. At this first visit, interviewers prepare a roster of all the household members, entering their demographic characteristics along with their responses to all survey questions.
+
+In subsequent months, interviewers generally contact the household by telephone to conduct the survey. The household roster is checked for accuracy and brought up to date in each interview. About 10 percent of households are interviewed via computer-assisted telephone interviewing (CATI) by staff in three centralized calling centers. Other telephone interviews are done by field representatives. A personal visit is generally attempted for the fifth interview, which occurs after the household has been out of sample for 8 months.
+
+At the end of each day's interviewing, interviewers transmit the data over secure telecommunications lines to the Census Bureau's central computer in Washington, D.C.
+
+For further information, see Chapters 6, 7 and 8 of Current Population Survey Design and Methodology, Technical Paper 66, on the Census Bureau website.
+
+
+
+
+
+Estimation Methodology
+
+The household survey estimating methods make all survey results for a given month available simultaneously, and reflect information from all respondents.
+
+The estimation procedure involves several steps. The first is weighting the data from each sample person by the inverse of the probability of the person being in the sample. This gives a rough measure of the number of people that the sample person represents.
+
+In the next step, the weights are adjusted to account for survey nonresponse.
+
+Then, a two-stage ratio estimation process brings the sample population distribution as closely into agreement as possible with the known distribution of the entire population.
+
+The final step is a composite weighting procedure designed to reduce sampling error beyond what is achieved in the prior steps.
+
+For a detailed description of these estimation procedures, see Chapter 10 of Current Population Survey Design and Methodology, Technical Paper 66, on the Census Bureau website.
+
+
+
+
+
+Seasonal Adjustment
+
+The process of seasonal adjustment removes the effects of normal seasonal variations resulting from events such as holidays, school openings and closings, and weather from data series. Seasonal adjustment makes it easier to observe fundamental changes in the levels of the series, particularly those associated with general economic expansions and contractions.
+
+The household survey uses the X‑13ARIMA‑SEATS (X‑13) seasonal adjustment procedure, which is based on moving averages, or filters, that successively average a shifting time span of data, providing estimates of seasonal factors that change smoothly from one year to the next year.
+
+Household survey seasonal adjustment is done concurrently, that is, new seasonal factors are calculated each month using all relevant data, up to and including the data for the current month. These factors are applied to the current month's data immediately, but earlier months are not revised until year's end, when the most recent five years of data are subject to revision with the latest seasonal factors.
+
+For further information, see the Seasonal adjustment of CPS estimates section of the household survey technical documentation webpage.
+
+
+
+
+
+Sampling Errors (Variances)
+
+When a sample, rather than the entire population, is surveyed, there is a chance that the sample estimates may differ from the true population values they represent. The component of this difference that occurs because samples differ by chance is known as sampling error, and its variability is measured by the standard error of the estimate.
+
+There is about a 90-percent chance, or level of confidence, that an estimate based on a sample will differ by no more than 1.6 standard errors from the true population value because of sampling error. This does not mean that the sample results are off by this magnitude, rather that there is about a 90-percent chance that the true value lies within this interval.
+
+For detailed information on the estimation of variance in the household survey, see Chapter 14 of Current Population Survey Design and Methodology, Technical Paper 66, on the Census Bureau website.
+
+For the latest statistical significance ranges for key data series from the household survey, see Changes in selected labor force indicators with a statistical significance test at a 90% confidence level.
+
+
+
+
+
+Population Controls
+
+Population controls are independent estimates of population used to weight the household survey sample results.
+
+The U.S. Census Bureau produces the household survey population controls, using decennial census data as well as administrative data such as birth and death statistics, and estimates of net international migration. The Census Bureau reviews and adjusts the population controls every year.
+
+BLS introduces the annual adjustments to the population controls with the January estimates. The adjustments may increase or decrease population levels, depending on whether the latest information indicates the population estimates have trended high or low. Conceptually, the population control adjustments represent any over- or under-estimation of the population since the last decennial census point.
+
+BLS typically does not revise historical data to incorporate the adjustments to the population controls because of the extensive effort needed to revise and verify the many time series produced from the household survey, and because the revisions would be negligible for most series.
+
+For specific information about the effects of recent population control adjustments, see the Population control adjustments to the CPS section of the household survey technical documentation webpage.
+
+
+
+
+
+
+
+Comparing Payroll and Household Survey Employment
+
+For a detailed discussion of the differences between the employment measures from the payroll and household surveys, see Comparing employment from the BLS household and payroll surveys. It includes the following:

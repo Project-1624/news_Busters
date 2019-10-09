@@ -1,0 +1,61 @@
+Federal court in Illinois rules biometric privacy lawsuit against Google can proceed
+
+The U.S. District Court for the Northern District of Illinois has held that face templates created from photographs uploaded to Google Photos are covered under Illinois’ Biometric Information Privacy Act.
+
+A federal district court has thrown up another roadblock for companies seeking to dismiss lawsuits under Illinois’ Biometric Privacy Information Act, or BIPA, which makes it illegal for companies to gather fingerprints, facial measurements or other biometric information without written consent.
+
+On Feb. 27, a federal district court in Chicago rejected Google Inc.’s motion to dismiss a putative class-action lawsuit by two Illinois residents over Google’s creation of face templates from photographs of the plaintiffs, according to a National Law Review article. The court held that information about people’s physical traits gleaned from photographs is covered under the BIPA, just as information derived from an in-person facial scan would be. The court’s ruling, which follows similar cases, is the latest to block a potential litigation escape route for companies using facial-recognition technology. This could make it likelier that more people will file BIPA lawsuits based on photograph-derived information, and possibly lead to the suppression of helpful technology-based advances and job creation.
+
+Biologically derived technology prompts privacy concerns
+
+Over the last decade, biometric technology has increasingly come into use. Apple Inc.’s iPhone, for example, allows users to employ fingerprint technology to unlock phones, and some financial institutions now enable customers to conduct transactions online or at ATMs through such technology.
+
+Facebook’s photo “tag suggestions” program and Snapchat’s Lenses feature use technology based on people’s facial geometry. And the possibility now exists for retail stores to use facial-recognition technology to spot known shoplifters, as well as to identify and greet repeat customers with special deals, according to an article in the Washington Post.
+
+On the health care front, developments include injectable, vision-correcting artificial lenses, which can collect and store information from the wearer and transmit that data to outside devices.
+
+Notwithstanding the promise of this biotechnology to enhance many aspects of life, serious concerns about privacy, security, government monitoring, and the sale of people’s personal, biological data abound. As the Illinois General Assembly noted, although a person can change her Social Security number if it is stolen, she cannot easily alter her distinct facial geometry once that identifier falls into the wrong hands.
+
+Against this backdrop, the Illinois General Assembly passed the BIPA in 2008, making Illinois the first state to regulate how private entities can collect, use and store biometric information.
+
+How Illinois’ Biometric Information Privacy Act works
+
+The BIPA includes as “biometric information ” data derived from a “biometric identifier” such as “a retina or iris scan, fingerprint, voiceprint, or scan of hand or face geometry.”
+
+Illinois’ BIPA makes it illegal for a private entity to obtain a person’s biometric identifier or information, unless the entity first informs the person in writing and discloses the specific purpose and length of time for which the data are being collected, stored or used. The entity must then obtain written consent from the person to use or store the biometric information.
+
+The act further requires the party in possession of the data to protect the security of the information.
+
+Under the BIPA, Illinoisans “aggrieved” by violations of the act have the right to sue private parties for violations and to collect the greater of $1,000 or actual damages for each violation negligently committed, and the greater of $5,000 or actual damages for each violation recklessly or intentionally committed.
+
+Interestingly, Illinois’ BIPA expressly excludes state agency or local government personnel from the prohibitions contained in the act.
+
+The case against Google
+
+Photographs of the plaintiffs had been uploaded to Google Photos, a cloud-based photo sharing and photo-storage service. Google then created face templates of the plaintiffs from the photos using plaintiffs’ unique facial geometry.
+
+The plaintiffs argued that Google violated the BIPA by collecting their biometric information without their consent and failing to publish a data retention or destruction schedule.
+
+Google argued that the face templates did not count as “biometric information” under the BIPA because Google had created them from photographs, not in-person facial scans. Along with courts in similar cases against Facebook and photo sharing service Shutterfly, the federal district court in Chicago determined that the BIPA covers face templates created from photographs. The court said, “For each face template, Google is creating a set of biology-based measurements (‘biometric’) that is used to identify a person (‘identifier’).” Furthermore, “a face template is one of the specified biometric identifiers in the Privacy Act, … a ‘scan of … face geometry.’” The court noted that the BIPA does not specify “how the biometric measurements must be obtained” and that there is thus no statutory basis for excluding photograph-sourced measurements from the requirements of the BIPA.
+
+Although the court did not determine that Google had violated the BIPA, the court said that information taken from photographs is subject to the protections of the BIPA, and that the putative class-action lawsuit alleging BIPA violations can proceed.
+
+2016 bill to amend BIPA was shelved
+
+The Google case could prompt the Illinois General Assembly to revisit a 2016 bill to exclude biometric information taken from photographs from the protections of the BIPA.
+
+On May 5, 2016, a federal district court decided a class-action BIPA lawsuit against Facebook based on the company’s use of facial-recognition technology in its photo “tag suggestions” program could proceed. The Facebook case, along with other similar cases, alerted Illinois lawmakers that the state’s privacy law could have a damaging effect on tech companies. And on May 26, 2016, state Sen. Terry Link, D-Vernon Hills, who authored the BIPA in 2008, proposed an amendment that would have specifically exempted physical and digital photographs and biometric information derived from them from the privacy protections of the act.
+
+Link’s proposal could have affected the status of technology used not only by Facebook, but also by Shutterfly, Google and Snapchat, all of which had been hit with similar lawsuits brought under the BIPA. But on May 31, 2016, after privacy advocates and the Illinois attorney general raised concerns about the proposed amendment, the measure was put on hold.
+
+‘Actual injury’ requirement may still be high bar for BIPA plaintiffs
+
+While the court’s decision to let the case against Google proceed means facial-recognition technology is still fair game for plaintiffs under the BIPA, the ultimate fate of such cases could hinge on whether plaintiffs can prove actual, specific injuries from companies’ use of this technology.
+
+The January 2017 dismissal of a BIPA case against video game maker Take-Two Interactive Software Inc. and the August 2016 dismissal of a BIPA case against storage locker concessionaire Smarte Carte Inc. show the burden of proving a specific, concrete injury could make it hard for plaintiffs to succeed in lawsuits alleging BIPA violations.
+
+In both the case against Take-Two and the case against Smarte Carte, the courts based their dismissals on the Spokeo v. Robins case, a May 16, 2016, decision in which the U.S. Supreme Court set the precedent requiring evidence of a “concrete and particularized injury” – as opposed to an allegation of a mere statutory violation. The courts held in both the case against Take-Two and the case against Smarte Carte that even if the plaintiffs had shown the defendants had violated the BIPA, the plaintiffs failed to prove they were harmed by the violations.
+
+Facebook’s requested dismissal of the case against it has stalled pending the decision of the 9th U.S. Circuit Court of Appeals on the Spokeo v. Robins case, which the U.S. Supreme Court sent back for further proceedings to determine whether the “concrete and particularized injury” standard had been met. Whether the court in the case against Facebook ultimately determines that the plaintiffs have suffered concrete and particularized injuries through Facebook’s tag suggestions program and its data collection and storage procedures could influence other courts, such as the one presiding over the Google case.
+
+Illinois’ biometric privacy law is less than 10 years old, and many uncertainties attend these cases. But one thing is sure: The use of biometric information is an increasingly common facet of everyday life. Lawmakers, government agencies, businesses and consumers need to arrive at ways to protect this data; however, a statute that enables the filing of potentially billions of dollars in claims against tech companies might have other effects, such as the suppression of helpful technological advances and job creation, that should give Illinoisans pause.

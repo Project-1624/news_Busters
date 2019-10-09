@@ -1,0 +1,131 @@
+Comparative Anatomy Topic 4: Form and Function
+
+Introduction
+
+In order to understand the workings of animals, we have to think a little bit about the physics of those animals. We don't live in a place where the laws of physics don't apply. Animals have to respond to all manner of physical laws from gravity to thermodynamics. The area of study that attempts to determine how form and function work together is called biomechanics. This is meant as a short primer on biomechanics as it will be affecting us over the weeks we talk about comparative anatomy.
+
+TOP
+
+
+
+Size
+
+Size is the most important factor in biomechanics. Think about the ranges in size of adult animals. Fishes range from about 8 mm to the 20 m whale shark. Mammals range from shrews just a few centimeters long to the blue whale at about 30 m long. Certainly what affects a small animal is different than what effects a large one. To an ant, gravity is inconsequential. There used to be a saying that you can drop an ant from a ten story building and it would be fine. You could drop a mouse from the same height and it might be slightly hurt. A human would be dead. A horse would explode. Clearly the effects of gravity are different relative to mass and the body has to change in order to accommodate different sizes.
+
+TOP
+
+
+
+Square-cube Law
+
+Bodies change in size by what is called the square-cube law. That is, imagine a cube that is 1 X 1 X 1 (see below). Now double it. What you will see is that the surface area of a cube is the number of sides (6) times the area of each square, so in the first case, the surface area is 1 X 1 X 6 or 6 cm2. The volume is the length of each side muliplied together or 1X1X1 = 1 cm3. Now, lets double the cube. The surface area now is 6X2X2=24 cm2, and the volume is 2X2X2 = 8 cm2. What you can see is that the second cube has a surface area 4 times greater than the first, this is because surface area increases as the square of the increase in linear dimensions. However, if you look at volume, the volume is 8 times larger which is the cube of the increase of the linear dimensions. So, if you double the size of an organism, you increase the surface area only four times and you increase the volume it holds 8 times.
+
+What does that mean for us? What it means is that if we double the size of the animal, the mass of the animal is going to be eight times greater, it will weigh more in other words, and the surface area is relatively smaller leaving less space for transport. This may be good in that an animal in the arctic could keep heat inside of it longer, or bad because an animal in the desert can't lose heat fast enough.
+
+It also means a lot when looking at systems. Basically, as the famed evolutionist J.B.S. Haldane once said, "Comparative anatomy is the story of the struggle to increase surface area in proportion to volume". This is a difficult task. How is it done? The intestine is not one big vat, it is a long, narrow tube with a complex surface area to maximize surface area in a given volume. The lung is not a sac, it is a convoluted set of smaller and smaller tubes. Both of these things pack as much tissue into a given volume in order to better absorb materials.
+
+This also has an effect on metabolism (below). A shrew takes in only a few grams of food per day while an elephant may take in hundreds of pounds. However, the shrew takes in a proportion that is relatively larger and is greater than the mass of the animal. This is because its metabolism has to be much greater in order to operate. Metabolism slows with size. In mammals, this partially has to do with the need to keep warm. If a shrew had a human metabolism, it would need an insulation of fur 25 cm thick to keep active, in other words it would just be a fur ball.
+
+How does the square-cube law pertain to size? Well, where it comes into play is that with an increase in size of an animal, there has to be a relatively greater in crease in size of its supporting structures. If we look at the leg bones of a mouse, a human, and an elephant and scale them so the lengths are the same, they might look something like this. Note that the elephant leg bone is considerably thicker than the humans and the humans is thicker than the mouse. What this means is that a Liliputian could not exist. A human shrunk down to the size of a mouse would have limbs that the human could not move. They would be too heavy. Giants like Paul Bunyan that stand 20 ft. high would also be impossible because their form would have to be so drastically changed in order to accommodate the increase in size that the person would no longer look human.
+
+
+
+
+
+TOP
+
+
+
+Allometry
+
+Shape often changes as an organism grows and this shape change is called allometry. All parts of the body are not growing at the same size. If you look at a baby, they have really huge heads in proportion to the rest of their bodies. As a child grows, the head grows at a different rate than the torso and limbs (the torso and limbs grow more quickly). Another example is a bird called a Godwit. Godwits start out with a small beak, but it grows quickly. Meanwhile the head does not grow as quickly.
+
+TOP
+
+
+
+Isometry
+
+Isometry is the opposite of allometry. It is where there is proportional growth between all structures. A good example is in salamanders of the genus Desmognathus. All the species, no matter what size the maximum is, have about the same proportions.
+
+TOP
+
+
+
+Transformational Grids
+
+D'Arcy Thompson was a comparative anatomist in the early 20th century who wrote one of the fundamental texts of comparative anatomy, "On Growth and Form" and it is said to be one of the best written scientific texts of the 20th century. He popularized a series of transformation grids that can explain changes in shape. These are used to describe differences between species and to determine allometric growth. Thompson was under the impression that mathematic formulas could determine the differences between species. Basically what he is doing here is that he makes several measurements on an animal. This sets up a truss network that he plots on rectangular coordinates. Then, he makes the same measurements in a related organism or a different stage in development of the same organism and sees what happens to the grid system. In the case of this marine hatchet fish, there is a slight slant.
+
+In the wrasse (left) and angelfish (right), the relationships describe an oval. In the humans, chimp, and babboon it is a little more complex with the human demonstrating a relatively shorter snout and larger braincase.
+
+This method of analyzing species differences has resurfaced recently in the form of a more statistically rigorous test called partial warp analysis that we use to figure out species.
+
+TOP
+
+
+
+Vectors
+
+Vector analysis is very useful in biology. This is what we did in class: "To demonstrate vectors I need three volunteers. I have this rope. Attached to it is another rope with a piece of flagging tape on it. I need one person to hole the rope with the tape and the other two to hold the other ends of the rope. The two people on these ropes should pull slowly and evenly with one another, and the person with the flag should hold the rope taut, but feed it out as the others pull." What happened is below.
+
+It should come as no surprise to anyone that the flag moves forward. But how does it move forward when the force being applied is not in that direction. Lets look at what is happening. We have a force at an angle to the rope here which would tend to pull the flag this way. But, we have an equal force at and equal angle here. What we can do is break up each of these forces into components that are at right angles to one another in order to simplify the problem (below). What we see is that these two forces at right angles to movement cancel one another out, and all we are left with is the force that moves in the direction of motion. Some muscles are built upon this principle as we will be seeing and we will also be talking about vectors when we talk about how vertebrae work.
+
+TOP
+
+
+
+Levers
+
+Motion in animals typically involve levers. To demonstrate levers, lets think of a sea-saw. Lets put the point of rotation towards one side. The point of rotation is called the fulcrum. What we need to think of in terms of forces is the output lever arm (lo) and the input lever arm (li). The example you book gives is a circus performer jumping off a structure to shoot another upwards. In this case, you are looking for speed. The strength doesn't matter, it is speed you are trying to optimize, so with the fulcrum to one side, you would maximize the speed. When li is small speed is optimized.
+
+However, say you want to open a can of paint with a screwdriver. Here, you don't want the lid to come off fast, that would spread paint all over the place, what you want is strength. So, you want to move the fulcrum over so that li is large, When li is large, strength is optimized. Well how does this work in life?
+
+This is the leg of a deer. The gluteus medius and the semimembranosus here both move the leg in the same way, they flex it. But, the muscles are much different in length. In both, the leg is going to be pivoting around the head of the femur, and the li is going to be perpendicular to the movement of the muscle. lo on the other hand reaches from the head of the femur to the toe. So, the li of the semimembranosus is larger than the li of the gluteus medius. What this means is that the gluteus medius is optimized for speed, its lo / li ratio is 44, while the semimembranosus is optimized for strength (lo / li = 11). We can think of these as high and low gear muscles. Both are active in movement, but the semimembranosus is most useful in starting the animal (low gear) and the gluteus medius is most useful in sustaining motion (high gear). See figure 4.26, pg. 143.
+
+TOP
+
+
+
+Life on Land
+
+On land the main force that we have to deal with is gravity. Our systems have to be strong enough to withstand the effects of gravity and keep from falling apart. We all know a lot about the effects of gravity on our bodies and I just want to make a couple of points. In a quadrupedal animal, weight is distributed unequally on the four legs. The back legs support the most of the weight while the front legs support very little. The main thing we have to remember about gravity is that although all structures with mass are effected in the same way by gravity, the smaller an animal is, the less important gravity is. The reason for this is that other factors come into play like friction and surface tension. A small lizard can climb up a tree with ease because it has enough friction to counteract gravity. A large lizard could never have a structure with enough friction to counteract gravity, and large climbing lizards have to use much more strength to climb.
+
+TOP
+
+
+
+Life in Fluids
+
+Both water and air are fluids and the rules that apply to a fish in water are much the same as a bird in the air. The main force acting against animals in fluids is not gravity, but drag. Drag is caused by the need to push the fluid aside or pressure drag, and the friction of the fluid against the animal or friction drag. Animals desire flow around the body to be in smooth sheets, so-called laminar or sheet-like flow, each of these sheets being called streamlines (below). You have all probably seen this visualized on television by sending a colored gas in a stream over a car or model airplane to see what the effects are. These sheets are called stream lines and animals require the streamlines to meet back up behind them. If we look at a simple structure like a sphere, we can visualize the stream lines around it. Under slow speeds, the stream lines merge back together nicely (below, top); however, under fast flow, the streamlines create turbulent flow (below, middle). This turbulent flow increases the drag on the animal, and the animal would have to work harder to move its body. This is the reason why no flying or swimming animals are spherical. The shape they take on instead is like a wedge. This is called a fusiform shape and it allows the streamlines to come back together easily by filling in the area that would have the turbulent flow (below, bottom). The faster an animal is, the more streamlined it needs to be.
+
+TOP
+
+
+
+Strength of Materials
+
+The body is designed to resist forces. If it didn't we would collapse under our own weight. Lets look at one thing we have already talked about and that is splayed vs. pendulous limbs. What do you think is easier, to hold your body up in a push-up position with the arms out to the sides or the arms directly below the body? You would fatigue more quickly if you held the arms out to the sides. In order to become very active animals, the archosaurs and the synapsids both evolved pillar-like limbs so that they could support the weight of their bodies for a longer period of time. Large lizards with their legs splayed had to spend a lot of time resting and could never be as active as a dinosaur or a horse. The way you could think of this is to think of a table. Imagine a normal table and a table with the legs at an angle. Then imagine adding weight to the top of the table. In which will the legs buckle first. With the ones at an angle. Again, think of vectors. The weight is going straight down, but the legs are at an angle to that weight, so the legs cannot absorb all of the force of the legs. However, there is a cost to having the limbs like pillars. It is a very unstable system. Imagine the push-up positions again. Do you think it would be easier to be pushed over with your arms splayed or like pillars? By having the arms splayed, one is much more stable.
+
+TOP
+
+
+
+Response of Bone
+
+We often think of bone as a static structure, but it is not, it is quite alive.
+
+Atrophy and hypertrophy. Bones can change their mass depending on the strength applied to them. If, say, you become paraplegic and can no longer walk, what will happen to the bones? Well, with no force acting on them, they will begin to lose calcium phosphate, this is called atrophy. The bone releases calcium phosphate into the blood and the calcium is excreted and the bones weaken. This also happens to astronauts on prolonged space missions. The body senses that there is no need for strength, so mass is lost. The opposite can happen if a bone begins to receive a persistent stress. If you do something to stress the bone, the bone will gradually add new bone at the point of stress, this is called hypertrophy.
+
+Internal design. Long bones are made from two types of bone, spongy and compact. Spongy is a misnomer because it really is hard, but it is laid down in what looks like a sponge (below). But why do we have this spongy bone inside of our long bones? Well, the way the story goes is that a biologist was contemplating a bone when an engineer friend came over for dinner. He looked at the bone and exclaimed, "That's my crane!" He had been designing a crane and the way he was building the supports was to build a metal lattice along the lines of stress. Bone was doing the exact same thing, spongy bone was laid down over the lines of stress that the bone experiences. This makes the bone stronger with less mass used overall. Indeed, the stress an organism experiences differs depending on lifestyle. A couch potato experiences different stresses on his bones than a weight-lifter. When you begin lifting weights, part of your lack of strength is due to weak muscles, but part is due to the fact that your bones can't handle the stress, they have to remodel themselves in order to accommodate the new stress.
+
+TOP
+
+
+
+Diffusion
+
+One aspect that is very important to us in comparative anatomy is the difference between countercurrent, concurrent, and crosscurrent exchange. Concurrent exchange is the most simple. That is where a fluid like blood in two different vessels move in the same direction. Countercurrent exchange is where blood in the two vessels move in opposite directions. Imagine a wading bird that has its feet in cold water. If it had concurrent exchange, what would happen is that blood coming from the feet say starting at 10°C would meet up with blood going to the feet at 30°C (below, left). The hot blood would then give off its heat to the cold blood and they would eventually equilibrate at 20°C. That 20° blood would move into the body and cool the animal down and it would eventually suffer hypothermia and die. But, lets look at a situation where the blood flows in opposite directions. Blood from the feet goes up and blood from the body goes down (below, right). The blood from the body is going to slowly step down its temperature while the blood from the feet is going to slowly step up. Lets say the blood from the body will eventually reach 12°. What we see is that 12° is warmer than 10°, so it will warm the blood from the feet a little. Up a little, the blood from the body is a little warmer, 16°, it will thus warm the blood a little more. We can follow this all the way up so that the blood from the feet eventually reaches something like 28°. In other words, the exchange of heat is much more efficient.
+
+Crosscurrent exchange is similar to countercurrent exchage. It occurs in bird lungs at least and perhaps the lungs of other animals. Here, the blood vessels are at right angles to the tubes holding air (below, top). What we see is that the blood is always contacting part of the air that will have more oxygen in it. Therefore, oxygen is always entering the blood, but instead of a steady change as in countercurrent exchange, the change is stepwise because the air is flowing over a latterlike structure (below, bottom).
+
+TOP

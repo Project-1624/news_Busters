@@ -1,0 +1,30 @@
+What is the difference between the ACGR and the AFGR?
+By Joel McFarland
+
+NCES and the Department of Education have released national and state-level Average Cohort Graduation Rates for the 2015-16 school year. You can see the data on the NCES website (as well as data from 2010-11 through 2015-16).
+
+In recent years, NCES has released two widely-used annual measures of high school completion: the Adjusted Cohort Graduation Rate (ACGR) and the Averaged Freshman Graduation Rate (AFGR). Both measure the percent of public school students who attain a regular high school diploma within 4 years of starting 9th grade. However, they also differ in important ways. This post provides an overview of how each measure is calculated and why they may result in different rates.
+
+What is the Adjusted Cohort Graduation Rate (ACGR)?
+
+The ACGR was first collected for 2010-11 and is a newer graduation rate measure. To calculate the ACGR, states identify the “cohort” of first-time 9th graders in a particular school year, and adjust this number by adding any students who transfer into the cohort after 9th grade and subtracting any students who transfer out, emigrate to another country, or pass away. The ACGR is the percentage of the students in this cohort who graduate within four years. States calculate the ACGR for individual schools and districts and for the state as a whole using detailed data that track each student over time. In many states, these student-level records have become available at a state level only in recent years. As an example, the ACGR formula for 2012-13 was calculated like this:
+
+What is the Averaged Freshman Graduation Rate (AFGR)?
+
+The AFGR uses aggregate student enrollment data to estimate the size of an incoming freshman class, which is compared to the number of high school diplomas awarded 4 years later. The incoming freshman class size is estimated by summing 8th grade enrollment in year one, 9th grade enrollment for the next year, and 10th grade enrollment for the year after, and then dividing by three. The averaging of the enrollment counts helps to smooth out the enrollment bump typically seen in 9th grade. The AFGR estimate is less accurate than the ACGR, but it can be estimated as far back as the 1960s since it requires only aggregate annual counts of enrollment and graduate data. As an example, the AFGR formula for 2012-13 was:
+
+Why do they produce different rates?
+
+There are several reasons the AFGR and ACGR do not match exactly.
+
+The AFGR’s estimate of the incoming freshman class is fixed, and is not adjusted to account for students entering or exiting the cohort during high school. As a result it is very sensitive to migration trends. If there is net out-migration after the initial cohort size is estimated, the AFGR will understate the graduation rate relative to the ACGR. If there is net in-migration, the AFGR will overstate the graduation rate;
+
+The diploma count used in the AFGR includes any students who graduate with a regular high school diploma in a given school year, which may include students who took more or less than four years to graduate. The ACGR includes only those students who graduate within four years of starting ninth grade. This can cause the AFGR to be inflated relative to the ACGR; and
+
+The AFGR’s averaged enrollment base is sensitive to the presence of 8th and 9th grade dropouts. Students who drop out in the 8th grade in one year are not eligible to be first-time freshmen the next year, but are included in the calculation of the AFGR enrollment base. At the same time, 9th grade dropouts should be counted as first-time 9th graders, but are excluded from the 10th grade enrollment counts used in the AFGR enrollment base. Since more students typically drop out in 9th grade than in 8th grade, the overall impact is likely to underestimate the AFGR enrollment base relative to the true ACGR cohort.
+
+At the national level, these factors largely balance out, and the AFGR closely tracks the ACGR. For instance, in 2012-13, there was less than one percentage point difference between the AFGR (81.9%) and the ACGR (81.4%). At the state level, especially for small population subgroups, there is often more variation between the two measures.
+
+On the NCES website you can access the most recently available data for each measure, including 2016-17 adjusted cohort graduation rates and 2012-13 averaged freshman graduation rates. You can find more data on high school graduation and dropout rates in the annual report Trends in High School Dropout and Completion Rates in the United States.
+
+This blog was originally posted on July 15, 2015 and was updated on February 2, 2016, December 4, 2017, and January 24, 2019.

@@ -1,0 +1,54 @@
+Senator Marco Rubio Signs Taxpayer Protection Pledge to the American People
+Federal Communications Commission Chairman Ajit Pai made waves at the Wi-Fi World Congress when he announced the Commission would consider allocating the 5.9 GHz band for unlicensed use.
+
+Twenty years ago, the FCC allocated 75 megahertz (MHz) of spectrum in the 5.9 gigahertz (GHz) band to Dedicated Short Range Communications (DSRC), a technology that allows car-to-car communication. DSRC has never really taken off, and many groups have pushed for shared use of the band.
+
+Unlicensed use allows anyone to use the bands, so long as they aren’t causing harm. Devices and services that use unlicensed spectrum include Wi-Fi, routers, fitness trackers and baby monitors.
+
+The FCC has been aware of the issues surrounding the 5.9 GHz band for a while. In 2018, it completed its first round of research on the topic and concluded that unlicensed use can share the 5.9 GHz band with existing car technologies.
+
+While Chairman Pai’s announcement excited Wi-Fi enthusiasts, plans to move forward were delayed soon after at the request of the Department of Transportation. However, it is likely the FCC will continue reviewing the 5.9 GHz band officially in July.
+
+While safety is obviously the government’s top priority, increased Wi-Fi traffic has made the FCC more invested in freeing up spectrum. However, because the issue involves actors from multiple industries with differing interests, finding a solution will be difficult.
+
+So where do all the parties stand on opening up the 5.9 GHz band?
+
+Chairman Pai
+
+Though the FCC has been exploring its options for months, Chairman Pai kept an open mind in his speech. He gave a set of potential paths to take, rather than a prescriptive plan.
+
+First, the FCC could choose to not change anything. However, he said that “[g]iven the history of and outlook for DSRC, I am quite skeptical that this is a good idea.”
+
+Second, the FCC could allocate the band for Cellular Vehicle-To-Everything (C-V2X) technology. Many in the auto industry are moving toward C-V2X, including Ford, which chose it over DSRC.
+
+Third, the band could be split or shared. One way is to allocate the lower 45 MHz of the band for unlicensed devices and automotive communications technology and reserve 30 MHz exclusively for vehicle-to-vehicle technology. The FCC could also allocate the lower 45 MHz exclusively for unlicensed use and the upper 30 MHz for vehicle-to-vehicle technology.
+
+Fourth, all 75 MHz could be dedicated for unlicensed use.
+
+Commissioners Mike O’Rielly and Jessica Rosenworcel
+
+Freeing up spectrum for unlicensed use is not a partisan issue. Commissioners Mike O’Rielly, a Republican, and Jessica Rosenworcel, a Democrat, have been proponents of reevaluating the 5.9 GHz band for years.
+
+In 2015, the two co-wrote a blog saying that “while DSRC has been slowly developing, the demand for Wi-Fi and devices using unlicensed spectrum has exploded.” They advocate for allowing both DSRC and unlicensed use to operate within the band.
+
+Individually, the two support opening up the 5.9 GHz band as well. Commissioner O’Rielly said in 2018 that it is “pure folly to believe that DSRC will ever work as envisioned, as time and technology advancements elsewhere have undermined previous use cases. … I am confident that at least 45 megahertz can be reallocated for unlicensed services without jeopardizing automobile safety.”
+
+Commissioner Rosenworcel said in 2018 that the FCC’s “bet on DSRC didn’t pan out the way we thought it would” and that other countries are able to use less spectrum for vehicle technologies.
+
+When it comes down to making the decision on the 5.9 GHz band, it’s clear where Commissioners O’Rielly and Rosenworcel will fall.
+
+Transportation community
+
+In April, Toyota announced it would stop installing DSRC in its vehicles until 2021, saying that “we have not seen significant production commitments from other automakers.”
+
+However, despite the fact that not many cars use DSRC, the transportation community is still invested in keeping its access to spectrum, citing that the 75 MHz are necessary for saving lives.
+
+While Transportation Secretary Elaine Chao hasn’t released an official statement on the band, several transportation officials have spoken out.
+
+Following the FCC’s announcement in 2018 that the band could be safely shared with unlicensed use, the DOT’s National Highway Traffic Safety Administration released a statement, saying that “preserving the 5.9 GHz band for transportation communications is essential to public safety today and in the future.” The statement also urged that no decisions be made before all three rounds of research are completed.
+
+The Intelligent Transportation Society of America and the Institute of Transportation Engineers have recently released similar statements urging that the 5.9 GHz band be preserved.
+
+Jim Tymon, American Association of State Highway and Transportation Officials executive director, said that “the FCC should stay the course and not give up the spectrum that the transportation community has been counting on.”
+
+Overall, the decision of how to allocate the 5.9 GHz band will be tough. However, one thing’s clear: the decision will need to be made soon. As Chairman Pai said in his speech, “we can’t keep kicking this can down the road.”

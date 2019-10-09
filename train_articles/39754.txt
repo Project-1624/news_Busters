@@ -1,0 +1,56 @@
+GDPNow
+Is GDPNow an official forecast of the Atlanta Fed or the Bank's president?
+
+No, it is not an official forecast of the Atlanta Fed, its president, the Federal Reserve System, or the FOMC.
+
+Is any judgment used to adjust the forecasts?
+
+No. Once the GDPNow model begins forecasting GDP growth for a particular quarter, the code will not be adjusted until after the "advance" estimate. If we improve the model over time, we will roll out changes right after the "advance" estimate so that forecasts for the subsequent quarter use a fixed methodology for their entire evolution.
+
+When will nowcasts of GDP growth in a particular quarter begin and end?
+
+GDPNow nowcasts of real GDP growth in a particular quarter begin about 90 days before the "advance" estimate for GDP growth for the quarter is released; they end on the last business day with a data release GDPNow utilizes that precedes the release date of the Bureau of Economic Analysis’s (BEA) advance estimate of GDP growth. Except after annual benchmark or comprehensive revisions of GDP typically occurring in late July, GDPNow nowcasts for a quarter generally begin on the weekday after the advance estimate of GDP growth for the previous quarter is released. After comprehensive or benchmark GDP revisions, the initial GDPNow nowcast for the subsequent quarter can be delayed for around a week until the BEA releases revised “underlying detail tables” for the National Income and Product Accounts.
+
+For example, GDPNow’s initial nowcast of real GDP growth in the first quarter of 2018 took place on Monday, January 29, 2018, the first weekday after Friday, January 26, 2018, when the advance estimate of real GDP growth in the fourth quarter of 2017 was released. The final GDPNow nowcast of real GDP growth in the first quarter of 2018 was made on April 26, 2018, and the advance estimate of real GDP growth in the first quarter of 2018 was released on April 27, 2018.
+
+How frequently is the GDPNow forecast updated?
+
+The model forecast is updated six or seven times a month on weekdays, with at least one following seven data releases: Manufacturing ISM Report on Business, U.S. International Trade in Goods and Services (FT900), Wholesale Trade, Monthly Retail Trade Report, New Residential Construction, Advance Report on Durable Goods Manufacturers, and Personal Income and Outlays. Other data releases, such as Industrial Production and Capacity Utilization and Existing-Home Sales, are incorporated in the model as well and their impact on the model's forecast will be shown on the next weekday with one of the data releases. The proprietary forecasts from Blue Chip Economic Indicators and Blue Chip Financial Forecasts shown in the chart are available from Aspen Publishers.
+
+How can I access historical forecasts from the GDPNow model?
+
+These forecasts are available in this downloadable spreadsheet. See the tab "ReadMe" in the spreadsheet for hyperlinks to the historical forecasts and other data for the model. In particular, the tab "TrackingDeepArchives" has forecasts for the 2011:Q3–2014:Q1 period (before the model went live), the tab "TrackingArchives" has forecasts from 2014:Q2 through the last quarter for which an advance estimate of GDP has been released by the BEA, and the tab "TrackRecord" has a comparison of the historical GDPNow model forecasts with the actual "advance" real GDP growth estimates from the BEA.
+
+Where can I read about the methods and source data used in the model?
+
+A detailed description is given in a working paper describing the model. To summarize, the BEA's NIPA Handbook provides very detailed documentation on both the source data and methods used for estimating the subcomponents of GDP. The late Nobel Prize–winning economist Lawrence Klein pioneered many of the "bridge equation" methods used for making short-run forecasts of GDP growth using this source data; a 1989 paper he coauthored with E. Sojo describes the approach. Kathleen Navin, an economist at Macroeconomic Advisers, provides a bird's-eye view illustrating how to use a bridge equation approach in practice to improve GDP forecasts in this 2017 presentation. The econometric techniques used in our GDPNow model were heavily adapted from the GDP nowcasting models described in a 1996 Minneapolis Fed Quarterly Review article by Preston J. Miller and Daniel M. Chin and a 2008 paper by the Board's David Small and economists Domenico Giannone and Lucrezia Reichlin.
+
+Where can I find alternative forecasts of GDP growth?
+
+For model forecasts from other Reserve Banks, see the New York Fed Nowcasting Report, the Minneapolis Mixed Frequency Vector Autoregression (MF-VAR) model, the Philadelphia Research Intertemporal Stochastic Model (PRISM), and the Federal Reserve Bank of Cleveland's prediction model for GDP growth based on the slope of the yield curve. Moody's Analytics and Now-Casting.com produce proprietary model short-run GDP forecasts. For survey-based forecasts, see the Philadelphia Fed's quarterly Survey of Professional Forecasters, which includes forecasts of real GDP and its major subcomponents. The Wall Street Journal's Economic Forecasting Survey occurs monthly, and the Moody's Analytics/CNBC Rapid Update survey generally occurs several times a week. Neither of these surveys includes forecasts of the subcomponents of GDP.
+
+How accurate are the GDPNow forecasts? Are they more accurate than "professional" forecasts?
+
+The chart below shows GDPNow's real-time forecasts made just prior to the release of the initial estimate of the annualized growth rate of real GDP along with the initial estimates from the U.S. Bureau of Economic Analysis.
+
+Since we started tracking GDP growth with versions of this model in 2011, the average absolute error of final GDPNow forecasts is 0.57 percentage points. The root-mean-squared error of the forecasts is 0.75 percentage points. These accuracy measures cover initial estimates for 2011:Q3–2019:Q1. Some further analysis of GDPNow's forecast errors is available in macroblog posts located here and here. We have made some improvements to the model from its earlier versions, and the model forecasts have become more accurate over time (the complete track record is here). When back-testing with revised data, the root mean-squared error of the model's out-of sample forecast with the same data coverage that an analyst would have just before the "advance" estimate is 1.15 percentage points for the 2000:Q1–2013:Q4 period. The figure below shows how the forecasts become more accurate as the interval between the date the forecast is made and the forthcoming GDP release date narrows.
+
+Overall, these accuracy metrics do not give compelling evidence that the model is more accurate than professional forecasters. The model does appear to fare well compared to other conventional statistical models.
+
+How are revisions to data not yet reflected in the latest GDP release handled?
+
+In general, the model does not attempt to anticipate how data releases after the latest GDP report will affect the revisions made in the forthcoming GDP release. The exception is the "change in private inventories" subcomponent, where revisions to the prior quarter's reading affect GDP growth in the current quarter. Users of the GDPNow forecast should generally use the forecasts of the change in "net exports" and the change in the "change in private inventories," and not forecasts of the levels. Revisions to retail sales are used to anticipate revisions to real monthly expenditures in the "PCE control group" and revisions to housing starts are used to anticipate revisions in the monthly value of private residential construction spending put in place.
+
+Do you share your code?
+
+At this point, no. However, the Excel spreadsheet gives the numerical details—including the raw data and model parameters—of how the monthly data map into forecasts of the subcomponents of GDP.
+
+What are the differences between GDPNow and the FRBNY Nowcast models? Why do the two models have different forecasts?
+
+The FRBNY Nowcast model of real GDP growth is based on a dynamic factor model described in this Liberty Street blog entry. The Chicago Fed National Activity Index and Aruoba-Diebold-Scotti Business Conditions Index are both indicators of economic activity estimated from factor models. The latest nowcast from the FRBNY Nowcast model along with some related Q&A is available here.
+
+The Atlanta Fed's GDPNow also uses a dynamic factor model—based on a model from one of the New York Fed economists who coauthored the Liberty Street blog entry—but uses the factor only as an input to fill in the yet-to-be-released monthly source data for GDP. The estimates of this dynamic factor are available in the Factor tab of this Excel file.
+
+The monthly source data are then used to estimate the subcomponents of GDP, which are then aggregated up to a real GDP growth nowcast. Besides a dynamic factor model, GDPNow uses several other econometric techniques, including "bridge equations" and Bayesian vector autoregressions, to nowcast the subcomponents of GDP. The exact methods are described in this working paper. The numerical details—including the raw data and model parameters—translating the monthly data into nowcasts of the subcomponents of GDP in the latest GDPNow forecast are available in this Excel file (see the ReadMe tab).
+
+Because GDPNow and the FRBNY Nowcast are different models, they can generate different forecasts of real GDP growth. Our policy is not to comment on or interpret any differences between the forecasts of these two models.

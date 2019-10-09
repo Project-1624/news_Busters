@@ -1,0 +1,139 @@
+0318 potterpftexas
+
+Emails, Lloyd B. Potter, PhD, Texas state demographer, The University of Texas at San Antonio, March 28 and 20, April 1 and 3, 2018
+
+1:05 p.m.
+
+From the U.S. Census Bureau estimates for Metro and Micro Statistical Areas for 2017, it is estimated that 38,305 people net moved into the Austin Austin-Round Rock Metropolitan Statistical Area between July 1, 2016 and July 1, 2017.
+
+Dividing the estimated number of net migrants by 365 arrives at an estimated 105 persons per day who net moved into the Austin Austin-Round Rock Metropolitan Statistical Area between July 1, 2016 and July 1, 2017.
+
+Here is a link to the table on the Census Bureau’s website:
+
+https://www2.census.gov/programs-surveys/popest/datasets/2010-2017/metro/totals/cbsa-est2017-alldata.csv
+
+These Census Bureau estimates do not provide the number who move in and the number who move out.
+
+If you were only counting the number moving in (excluding those that moved out from the mix) the number would be higher. However, to derive such an estimate it would require analysis of data from the American Community Survey (which is subject to sampling error) or aggregate IRS data which tends to be older and also subject to elements of error.
+
+The Census Bureau does have a product produced from the American Community Survey (Metro Area-to-Metro Area Migration Flows: 2011-2015 American Community Survey) that does provide estimates of the number of people moving in and the number of moving out (along with margins of error). For the Austin-Round Rock MSA, if we add all that moved in (including from foreign countries) we get an estimate of 131,679 in migrants or 361 per day. Estimating out migrants does not have moves to foreign countries but is estimated at 81,277 out migrants to other places in the U.S. or 221 per day. The difference is 138 net migrants per day. If we just limit migrants to those within the U.S. (exclude foreign in migrants) we get an estimate of 117,217 in-migrants or 321 per day and then 98 net in-migrants per day.
+
+Here is a link to the table with the ACS migration flow data on the Census Bureau website: https://www2.census.gov/programs-surveys/demo/tables/geographic-mobility/2015/metro-to-metro-migration/metro-to-metro-ins-outs-nets-gross.xlsx
+
+The IRS data are a bit more cumbersome to manipulate unless really needed, we’re not inclined to assess with those data.
+
+So the closest to 150 per day is using net migration from ACS 2011-2015 including international in-migration (and excluding international out migration – which is not available) of 138 per day.
+
+The Census Bureau estimate for population change between 2016 and 2017 is the estimate that I think most demographers would expect to be the most accurate. So far this decade the highest estimate of net migration for Austin-Round Rock MSA is 43,116 (118 per day) from 2015 to 2016.
+
+Lloyd B. Potter, Ph.D.
+
+Texas State Demographer
+
+Peter Flawn Professor, Department of Demography
+
+Director, Institute for Demographic and Socioeconomic Research
+
+The University of Texas at San Antonio
+
+Demographics.Texas.gov
+
+@TexasDemography
+
+3:46 p.m.
+
+My read is that the population increased by 55,269 (151 per day) between July 2016 and 2017 (cell W108 in the spreadsheet). The difference between that and the net migrants per day is net births per day (births-deaths). So, on average, there were about 151 new residents in the metro area each day, but about 105 of those were net migrants and 46 were babies between July 2016 and 2017.
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Friday, March 30, 2018 10:59 AM
+
+Subject: Following up
+
+I am stumped by the contrast of 105 people a day moving to the region (7/17) and over 300 people a day saying they’ve moved into a new home in the region coming from outside the region (2016 ACS). How to square?
+
+From: Lloyd Potter
+
+Sent: Friday, March 30, 2018 1:41 PM
+
+Where did you find the 300+ for ACS 2016? If you could send a link that might help.
+
+My guess is that it is an estimate from the question asking if they lived in a different house in the past
+
+year and if so where was that house.
+
+Essentially that question captures people moving into an area and not out. Also, ACS is a sample survey and has a margin of error. In our work we have found that estimates of migration from the Census Bureau population estimates program tend to differ some from those produced from that question on the ACS.
+
+From: Selby, Gardner (CMG-Austin) To: Lloyd Potter
+
+The 321 in-migrants only figure appears in your email below, drawing (I think) on the 2016 ACS.
+
+3:13 p.m.
+
+OK, that is from the flow product the CB creates, its derived from the 2011-2015 5-year sample from the American Community Survey.
+
+The 321 is an estimate of the people who said they lived in a different house last year outside of the MSA – but in the U.S.. They then look at people all over the rest of the of the U.S. (outside the MSA), ask the same question and those who say they lived in a different house and that house (the one they lived in a year ago) was in the MSA are counted as out-migrants from the MSA. That estimate is 221 per day. The difference is net migration or about 98 net migrants (in-out) per day.
+
+So 98 per day is pretty close to 105 per day. The 98 per day is from a sample (ACS) so there is a margin of error that probably includes 105.
+
+Hope that helps.
+
+From: Selby, Gardner (CMG-Austin)
+
+If we were focused only on people moving into the region, are you saying that 105 a day is not the right figure? If so, what is?
+
+3:19 p.m.
+
+If only moving in, not adjusted for those moving out, I would use the 361 per day (that includes people who move from outside of the U.S.). I think that is probably the best available estimate of in-migrants (only) into the MSA.
+
+Generally the indicator of migration is on net-migration (in-out) because that is the indicator of population change associated with migration.
+
+On Mar 30, 2018, at 3:42 PM, Selby, Gardner (CMG-Austin) wrote:
+
+
+
+That’s far more than 150 a day.
+
+11:40 a.m.
+
+April 1, 2018
+
+It is a bit of a puzzle to understand the components of population change for most. Here is my take. There were on average, 151 additional resident’s per day in the MSA from July 2016 to 2017, that is the best estimate available (from Census Bureau estimates). This change is made up of two basic components. One of them is net migration (in-migrants minus out-migrants over a period of time). Between 2016 and 2017 there were about 105 additional residents as a result of net migration per day for the MSA. That is to say, over the period, the balance of in and out migration was on average, 105 people per day. The other component is natural increase which is the number of births minus the number of deaths over a period of time. From July 2016 to 2017 on average, natural increase resulted in 46 additional residents (babies) per day. The Census Bureau population estimates rely on multiple sources of administrative records such as birth and death records for natural increase and data such as new building permits and IRS tax data to estimate migration.
+
+Now, if we just want to understand how many people moved into the area, not considering those that moved out, the population estimates from the Census Bureau do not provide this. Therefore we need to go to another source of information to estimate in and out migration that is derived from surveys. This is quite different from how the Census Bureau estimates migration for the population estimates (described above). The two can be compared but they are rarely exactly the same and often they deviate substantially although they tend to be correlated with each other.
+
+The estimate of 361 in-migrants (described in the thread below) comes from the American Community Survey. It comes from a 5-year sample (data collected between 2011 and 2015) and the estimate is then “annualized.” So in time, the estimate lacks precision and is a sort of average over 5 years. Respondents are asked if they lived in a different housing unit a year ago. If they say yes, they then are asked where that housing unit was. In the case of respondents in the MSA, if they lived in a different housing unit a year ago and that housing unit was outside the MSA, they would be counted as an in-migrant. In the case of in-migration, the survey does capture those who lived outside of the country (for those who report they lived in a forgiven country last year).
+
+For out-migration, respondents living outside of the MSA at the time of the survey are also asked the question about where they lived one year ago. The survey is only conducted in the United States, so if someone moved from the MSA to a foreign country, they would not be captured and thus we do not have an estimate of those who moved out of the MSA to another country (where for in-migration we do know if they lived in another country one year ago). We only have an estimate of those, at the time of the survey, who lived in the U.S. and were outside of the MSA but reported that last year they lived in the MSA. The estimate for this for the ACS 2011-2015 five year sample is, on average, 211 people per day moved out of the MSA to another place in the U.S. The thread below provides an example of making in and out migration comparable by limiting them only to people moving within the U.S.
+
+The survey asks only a sample of the residents these questions and then the numbers are statistically weighted to be equivalent to the total population. Thus, there is sampling error associated with the estimate.
+
+In sum, I think it is most accurate to say there were, on average, 151 additional residents per day between July 1, 2016 and July 1, 2017 and that on average, 105 of the additional residents are the result of net-migration.
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Tuesday, April 3, 2018 10:49 AM
+
+To: Beverly Kerr ; Lloyd Potter
+
+Hello again from the American-Statesman newsroom. I am close to finally completing our review of the claim that 150 people a day move to the Austin region.
+
+What do each of you make of my wording below? REPLY ALL to share with your fellow outstanding expert. My thanks.
+
+WHAT WE’RE CHECKING: “Just in the Austin MSA alone, 150 people move here every day.”
+
+As you each counseled, this figure ties to a federal estimate that the five-county region’s population grew by about 150 people a day in the 12 months up to July 2017. According to the estimate, people moving to the region accounted for two thirds of that growth.
+
+Then again, bureau research also estimates that around 350 people a day have lately moved into the region.
+
+Carrillo’s statement, recapping recent net population growth, understates simple in-migration. Perhaps it’s still Mostly True on our scale, which means it’s accurate but needs clarification or additional information.
+
+Appreciated,
+
+G.
+
+11:15 a.m.
+
+April 3, 2018
+
+Looks like a reasonable assessment of the validity of the statement to me. However, time and time again, public figures seem to unknowingly misstate population growth as being only from people moving while usually, much of the growth is also a result of more births than deaths. While it’s unlikely that being more clear in Politfacts will lead public figures to change the way they talk about population growth, I suggest being a bit more clear about components of population change. Something like:, “According to the estimate, the balance of net migration (people moving to the MSA minus those moving out) to the region accounted for two thirds of that growth while about one-third is from more births than deaths.”

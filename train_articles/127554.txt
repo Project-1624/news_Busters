@@ -1,0 +1,10 @@
+Man 'deletes his whole company' after typing wrong bit of code
+Update: Was post a hoax?
+
+If ever there was a time you wish you could click 'undo', a situation like this would probably be it.
+
+But while most people are often rescued by the quick 'control+z' command - seeing their entire document return to the screen after inadvertently deleting it all - there was seemingly no such saving grace for Marco Marsala.
+
+The hosting provider wrote on help forum Server Fault that he had accidentally entered a code that seemed to have wiped his computers, including the websites of his customers.
+
+The command, "rm -rf", deletes everything it is told to and blocks the helpful warnings that usually inform the user that something is being deleted, he claimed. In this case, because he hadn't specified what he wanted deleted, he explained it erased everything.

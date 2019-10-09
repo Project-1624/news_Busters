@@ -1,0 +1,16 @@
+The Association of Religion Data Archives
+Religious service attendance QuickStats > U.S. Surveys > Religious Behaviors > Search QuickStats: Introduction
+
+Patterns
+
+Over Time
+
+Other Surveys
+
+Religious service attendance (Over Time) How often do you attend religious services? (Use categories as probes, if necessary.). (General Social Survey 2014 Cross-Section and Panel Combined) Religious Service Attendance by Year (General Social Survey, 1972 - 2014)
+
+Never Less than once a year Once or twice a year Several times a year Once a month 2-3 times a month About weekly Once a week Several times a week Don't know/No answer 2014 26.2 6.7 13.1 10.1 6.0 8.6 4.5 17.5 6.9 0.4 2012 25.5 6.0 13.3 10.2 6.9 8.3 3.8 19.3 6.5 0.4 2010 22.0 6.9 13.9 10.4 7.6 8.4 4.3 18.6 7.5 0.4 2008 20.7 7.1 13.4 10.2 7.2 8.7 4.9 19.3 8.2 0.3 2006 22.4 6.8 12.7 11.6 6.8 8.4 5.0 19.0 7.1 0.4 2004 15.3 7.2 14.2 13.3 6.7 9.5 6.0 18.7 8.7 0.4 2002 18.6 7.0 13.9 12.9 6.8 9.3 6.5 16.5 7.7 0.8 2000 20.7 7.8 11.9 13.1 7.0 7.8 4.7 17.3 6.9 2.8 1998 19.3 10.4 10.5 10.8 7.3 8.6 6.6 17.3 7.7 1.6 1996 15.1 8.7 13.8 14.3 6.5 9.3 5.5 16.7 7.2 2.8 1994 16.1 7.6 13.9 12.8 7.4 9.2 4.9 18.7 7.9 1.7 1993 16.1 8.5 12.0 11.0 7.0 8.5 6.2 20.0 8.4 2.4 1991 12.5 9.0 13.3 11.8 7.8 9.8 5.5 22.7 6.1 1.6 1990 13.1 8.3 11.9 12.8 7.7 9.3 5.1 22.3 6.8 2.8 1989 16.4 7.2 12.9 12.3 8.0 8.1 5.2 22.6 7.0 0.3 1988 17.2 7.3 11.3 13.1 7.8 9.7 7.4 18.7 7.4 0.2 1987 11.9 6.7 13.9 15.3 8.2 9.9 5.0 20.8 7.6 0.7 1986 14.0 7.1 12.4 11.9 8.0 10.1 4.5 22.7 9.0 0.3 1985 14.5 7.0 15.0 12.1 7.4 7.4 3.7 25.0 7.8 0.3 1984 12.9 7.3 11.7 14.0 7.5 8.3 4.8 23.4 9.2 0.9 1983 13.9 8.1 13.1 11.6 6.6 9.7 5.3 22.9 8.5 0.3 1982 14.1 7.2 15.3 13.9 6.5 8.0 5.8 20.1 8.3 0.8 1980 11.4 7.4 15.7 15.2 6.7 8.0 6.2 21.5 7.4 0.5 1978 15.6 8.7 13.2 11.4 6.7 9.5 7.0 19.5 8.0 0.3 1977 13.9 8.3 13.3 12.4 7.4 9.0 5.7 21.4 8.0 0.6 1976 12.9 9.1 13.5 15.5 7.1 6.7 6.0 19.9 8.9 0.5 1975 14.5 7.2 12.3 14.0 6.8 8.9 6.6 22.4 6.8 0.2 1974 12.2 6.9 15.2 12.7 8.0 8.7 5.8 22.4 7.9 0.2 1973 13.6 7.8 12.9 15.0 6.2 8.3 7.7 20.5 7.4 0.6 1972 9.3 8.5 11.0 14.0 6.7 8.8 6.1 28.5 6.3 0.8 Notes Frequencies from GSS 1972-2002 were weighted by OVERSAMP. 2004 frequencies were weighted by WT2004. Frequencies for 2006 and 2008 were weighted by WTSS and frequencies for 2010 were weighted by WTCOMBNR. The 2012 and 2014 frequencies were weighted by WTCOMB
+
+
+
+The General Social Surveys (GSS) have been conducted by the National Opinion Research Center (NORC) annually since 1972, except for the years 1979, 1981, and 1992 (a supplement was added in 1992), and biennially beginning in 1994. The GSS are designed to be part of a program of social indicator research, replicating questionnaire items and wording in order to facilitate time-trend studies. This data file has all cases and variables asked on the 2014 GSS. There are a total of 3,842 cases in the data set but their initial sampling years vary because the GSS now contains panel cases. Sampling years can be identified with the variable SAMPTYPE.

@@ -1,0 +1,149 @@
+0718 jtaubpftexas
+
+Emails, Joshua Tauberer, founder, GovTrack.us, July 19-20, 22 and 24, 2018
+
+On 07/19/2018 05:51 PM, Selby, Gardner wrote:
+
+Good afternoon and hello on behalf of the Austin American-Statesman and the fact-checking PolitiFact Texas project.
+
+A reader noticed that U.S. Rep. Roger Williams of Texas said he’s not ever voted PRESENT in his time in the House rather than, say, voting AYE or NAY.
+
+I perused what you’ve posted from Williams’ legislative record but didn’t spot a way to divine if this claim by Williams holds up. Do you have such information posted? Any recommended resources or research strategy?
+
+We rely on attributable on-the-record information for our fact-checks. I hope to learn more about this Friday.
+
+Thank you,
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+5:54 p.m.
+
+July 19, 2018
+
+I looked at our database of votes and indeed he has never voted "present," except in quorum calls where "present" is the only vote one can make. But in terms of what he's talking about on the video, its true.
+
+He's missed votes, somewhat more than most, and one could imagine he might miss votes strategically, purposefully if he wants to avoid voting yes or no and not hurt his record of not voting "present." But there's no way to know if that's the case. I don't have an option on how likely that might be, but I thought I would point out that logical possibility.
+
+Keep in mind he hasn't served in Congress all that long, so it's easier for him to say that compared to representatives that have served through many more votes. He's been eligible to vote in 3,604 roll call votes since taking office, for reference.
+
+...
+
+- Josh Tauberer
+
+- @JoshData | https://razor.occams.info
+
+On 07/20/2018 10:41 AM, Selby, Gardner wrote:
+
+Very helpful, thanks.
+
+For our story, can you share your research in full detail? We’d want to unpack how you did this step by step.
+
+Also, is it possible to run the Present Not Voting search for the rest of the Texas delegation including the senators? No sweat if not.
+
+Appreciated,
+
+G.
+
+10:01 a.m.
+
+July 20, 2018
+
+I queried our internal database of votes directly. It's the database that underlies the votes on the site. But what I did can't be done on the site. Our database is built (in part) from the vote data at clerk.house.gov.
+
+Unfortunately I won't have time to do the query for the rest of the delegation today.
+
+- Josh Tauberer
+
+- @JoshData | https://razor.occams.info
+
+7:17 a.m.
+
+July 22, 2018
+
+Here's the export:
+
+https://www.govtrack.us/data/misc/votes_texas_delegation.csv
+
+I think it will be self-explanatory but let me know if you have any questions.
+
+- Josh Tauberer
+
+- @JoshData | https://razor.occams.info
+
+On 07/23/2018 12:39 PM, Selby, Gardner (CMG-Austin) wrote:
+
+Wondrous work, thanks.
+
+If I sorted your tabulation correctly, it looks like Democratic House members in the Texas delegation accounted for all 20 non-procedural votes of “Present” since the start of 2013, which is when Roger Williams joined the House. Would that make sense? Any analysis of speculation why for our story? Other recommended experts?
+
+As you know, you provided fuller counts enabling us to say (again, provided I sorted correctly) that from 1990 into July 2018, 26 Texas US House members accounted for more than 680 non-procedural votes of “Present.” In that period, it looks like Eddie Berniece Johnson led with 84 such votes, Joe Barton had 59, Sam Johnson and Lamar Smith had 57 each, Gene Green had 61 and Sheila Jackson Lee had 50.
+
+I suspect there are members aside from Roger Williams who had zero.
+
+Fresh questions for our story:
+
+What does the category “Unknown” indicates?
+
+Is there significance to “Passage Under Suspension” that might justify or explain Present votes under that category?
+
+What does the vote indicator on what you sent me “Not Voting” mean? Same as “Present?”
+
+Would you have thoughts on the significance of members voting Present?
+
+May I visit with you later today or Tuesday about the best way to air your methodology?
+
+Anything more you suggest we consider?
+
+Thank you again,
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texa
+
+5:42 p.m.
+
+July 24, 2018
+
+I haven't had time to look closely enough to confirm your numbers, but it sounds plausible. I wouldn't speculate about why that all might be. There could be any number of reasons why a legislator votes present and the only way to know which it is is to ask them.
+
+What does the category “Unknown” indicates?
+
+We categorize votes automatically based on their official description, and some official descriptions don't match any of the patterns we're looking for, so we put them into a catch-all category.
+
+Is there significance to “Passage Under Suspension” that might justify or explain Present votes under that category?
+
+I don't know of any reason for sure, but votes under suspension are usually on less controversial subjects, so one could imagine that on less significant votes it would be more likely that a legislator doesn't express an opinion. But that's just speculation.
+
+What does the vote indicator on what you sent me “Not Voting” mean? Same as “Present?”
+
+Not Voting means the legislator was not present for the vote and did not cast a vote.
+
+May I visit with you later today or Tuesday about the best way to air your methodology?
+
+If you're trying to get the story out tonight I can talk tonight - you can call my cell 516-458-9919. Otherwise I'll be around all day tomorrow.
+
+Best,
+
+- Josh Tauberer
+
+- @JoshData | https://razor.occams.info
+
+s

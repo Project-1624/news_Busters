@@ -1,0 +1,48 @@
+Faraday Cage - Definition
+The Faraday cage is an electrical apparatus designed to prevent the passage of electromagnetic waves, either containing them in or excluding them from its interior space. It is named for physicist Michael Faraday, who built the first one in 1836.
+
+Faraday stated that the charge on a charged conductor resided only on its exterior, and had no influence on anything enclosed within it. To demonstrate this fact he built a room coated with metal foil, and allowed high-voltage discharges from an electrostatic generator to strike the outside of the room. He used an electroscope to show that there was no excess electric charge on the inside of the room's walls.
+
+This shielding effect is used to eliminate electric fields within a volume, for example to protect electronic equipment from lightning strikes and other electrostatic discharges (ESDs).
+
+The same effect was predicted earlier by Francesco Beccaria (1716–1781) at the University of Turin, a student of Benjamin Franklin's work, who stated that "all electricity goes up to the free surface of the bodies without diffusing in their interior substance". Later, the Belgian physicist Louis Melsens (1814–1886) applied the principle to lightning conductors.
+
+The Faraday cage is sometimes known as a Faraday shield. The latter term is also used more generally for any kind of electrostatic shielding.
+
+The idealized Faraday cage
+
+Consider an idealized hollow electrical conductor such as an empty sphere or box.
+
+If the outside of the cage is an idealized conductor, it will form an equipotential surface, that is to say, its surface will have the same electrical potential at every point. If there is no electrical charge inside the box, then by Gauss' law and the divergence theorem, there should be no electrostatic field inside the equipotential surface, regardless of what the field is outside the box.
+
+Since the electrostatic field equations are linear, this means that even if there are charges in the box to generate a field, they will still not be affected by any fields outside the box.
+
+Real-world Faraday cages
+
+Faraday cages are often put to a dual purpose: to block electric fields, as explained above, and to block electromagnetic radiation. The latter application is known as RF shielding.
+
+Practical Faraday cages can be made of a conducting mesh instead of a solid conductor. However, this reduces the cage's effectiveness as an RF shield.
+
+Some real-world structures, such as automobiles, behave approximately like a Faraday cage. That's why:
+
+If lightning hits near a car, it does not affect the people sitting in the car.
+
+If artificial lightning is produced inside a mesh of wires, it does not affect the spectators outside.
+
+Some United States national security buildings are contained in Faraday cages, intended to act as a TEMPEST shield, and possibly also as a mitigation against EMP.
+
+Some traditional architectural materials act as Faraday shields in practice. These include plaster with wire mesh, and rebar concrete. These will impact the use of cordless phones and wireless networks inside buildings and houses.
+
+How a Faraday cage works
+
+A Faraday cage is best understood as an approximation to an ideal hollow conductor. Electric fields produce forces on the charge carriers (i.e., electrons) within the conductor. As soon as an electric field is applied to the surface of an ideal conductor, it generates a current that causes displacement of charge inside the conductor that cancels the applied field inside.
+
+See also
+
+Grounding (earthing)
+
+Lightning protection
+
+Skin effect
+
+External links

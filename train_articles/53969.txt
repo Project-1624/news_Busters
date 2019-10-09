@@ -1,0 +1,78 @@
+The U.S. Small Business Administration
+Statistics of U.S. Businesses, Business Dynamics Statistics, Business Employment Dynamics, and Nonemployer Statistics
+
+| Introduction | SUSB | BDS | BED | Nonemployers |
+
+Introduction
+
+Firm size data on employers are available from the Statistics of U.S. Businesses (SUSB), Business Dynamics Statistics (BDS), and Business Employment Dynamics (BED) programs and data on nonemployers is available from the Nonemployer Statistics (NES) program. The programs are annual and from the U.S. Census Bureau, except the Business Employment Dynamics which is quarterly and from the U.S. Bureau of Labor Statistics. BDS and BED have an age component. All of the programs are essentially based on the universe of private-sector businesses.
+
+Detailed data on owner and business characteristics is available from the U.S. Census Bureau's Survey of Business Owners in years ending in 2 or 7 which is part of their Economic Census, as well as the Annual Survey of Entrepreneurs.
+
+The Office of Advocacy defines a small business for research purposes as an independent business having fewer than 500 employees however; the SBA's Office of Size Standards has industry definitions of small businesses for government purposes.
+
+For more current data on small businesses, see Advocacy's Quarterly Bulletins.
+
+Statistics of U.S. Businesses
+
+The Office of Advocacy partially funds the U.S. Census Bureau to produce data on employer firm size in the SUSB program. SUSB’s employer data contain the number of firms, number of establishments, employment, and annual payroll for employment size of firm categories by location and industry. A firm is defined as an aggregation of all establishments owned by a parent company (within a geographic location and/or industry) with some annual payroll. The data consist of static and dynamic data. Static data is a "snapshot" of firms at a point in time. Dynamic data follow firms from year to year and reports job creation/destruction and business births and deaths.
+
+Datasets
+
+U.S. static data
+
+U.S. data including multiple tables (Microsoft Excel file)
+
+Detailed industry data, NAICS2002, NAICS1997, SIC, (comma delimited file)
+
+U.S. dynamic data
+
+U.S. data including multiple tables (births, deaths, growth and decline; Microsoft Excel file)
+
+Detailed industry data (comma delimited file)
+
+State, Metropolitan Statistical Area (MSA) & County static data
+
+State detailed industry data
+
+State, MSA & County dynamic data
+
+Congressional District Data
+
+Footnotes
+
+Employment size categories are based on the employment size of the firm in all industries and locations. So if a firm has 20 employees in an industry but 10,000 total employees, the firm will be included 500+ employee category.
+
+Industries are defined according to Standard Industrial Classification and the North American Industry Classification System.
+
+In recent years, the U.S. Census Bureau has begun using noise infusion for disclosure avoidance. See the U.S. Census Bureau for a discussion on noise infusion.
+
+Annual payroll and receipts are in thousands of dollars.
+
+In the data columns, E# represents data for firms with # employees.
+
+When disclosure is necessary sometimes ranges are footnoted ([a]=0-19, [b]=20-99, [c]=100-249, (D)=Disclosure, [e]=250-499, [f]=500-999, [g]=1,000-2,499, [h]=2,500-4,999, [I]=5,000-9,999, [j]=10,000-24,999, [k]=25,000-49,999, [l]=50,000-99,999, [m]=100,000+).
+
+Information about the process of producing Statistics of U.S. Business (PDF file) is available.
+
+Interactive Data
+
+Static Data (1-Year Snapshots)
+
+By Geography Only:
+
+By Industry Only:
+
+By Industry & Geography:
+
+Business Dynamics Statistics
+
+BDS contains employer firm data by firm age. See the background paper Business Formation and Dynamics by Business Age: Results from the New Business Dynamics Statistics by John Haltiwanger, Ron Jarmin and Javier Miranda for information on the data program. This section should be viewed as an introduction to the data program, please visit the U.S. Census Bureau's Business Dynamics Statistics program for background about the data and their database list for more detailed data on firm size, state and major industry (includes text files).
+
+Business Employment Dynamics
+
+BED contains employer firm data with a focus on employment changes from establishment entry, growth, decline and exit. Much of the data goes back to about mid-1992. See the background paper Measuring job and establishment flows with BLS longitudinal microdata by Timothy Pivetz, Michael Searson, and James Spletzer for information on the data program. Note that because the data is mostly quarterly, some establishments can close and reopen during the year. Fortunately, BLS presents the data in two ways to capture the seasonal firms by listing establishment openings -did not exist in the previous quarter- and establishments births (did not exist in the previous year) and similar classifications for closings and deaths. This section should be viewed as an introduction to the data program, please visit the U.S. Bureau of Labor Statistics' BED program for background about the data and for more detailed data.
+
+Nonemployer Statistics
+
+A nonemployer firm is defined as one that has no paid employees, has annual business receipts of $1,000 or more ($1 or more in the construction industries), and is subject to federal income taxes. Nonemployers account for about 3 percent of business receipts but are about three-quarters of all businesses. See the U.S. Census Bureau's Nonemployer Statistics for more detailed information. The nonemployer section also contains capital expenditure data for both employers and nonemployers. See the U.S. Census Bureau's Annual Capital Expenditures Survey for more details. In recent years, the U.S. Census Bureau has begun using noise infusion for disclosure avoidance.

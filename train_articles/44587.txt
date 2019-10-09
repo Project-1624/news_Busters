@@ -1,0 +1,16 @@
+Public Mass Shooters and Firearms: A Cross-National Study of 171 Countries.
+OBJECTIVE:
+
+Model the global distribution of public mass shooters around the world.
+
+METHOD:
+
+Negative binomial regression is used to test the effects of homicide rates, suicide rates, firearm ownership rates, and several control variables on public mass shooters per country from 1966 to 2012.
+
+RESULTS:
+
+The global distribution of public mass shooters appears partially attributable to cross-national differences in firearms availability but not associated with cross-national homicide or suicide rates.
+
+CONCLUSION:
+
+The United States and other nations with high firearm ownership rates may be particularly susceptible to future public mass shootings, even if they are relatively peaceful or mentally healthy according to other national indicators.

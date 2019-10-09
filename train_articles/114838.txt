@@ -1,0 +1,20 @@
+UPC-A SYMBOLOGY
+COMPONENTS OF AN UPC-A BARCODE
+
+Number System: The number system is a single digit which identifies the "type" of product, if you will, that the following symbol represents. The following table indicates what each number system identifies.
+
+Number
+
+System Description 0 Regular UPC codes 1 Reserved 2 Weight items marked at the store 3 National Drug/Health-related code 4 No format restrictions, in-store use on non-food items 5 Coupons 6 Reserved 7 Regular UPC codes 8 Reserved 9 Reserved
+
+NOTE: Since the manufacturer code is a 5-digit number, there are 99,999 possible manufacturer codes available.
+
+NOTE: The UCC is beginning to use what is called "variable-length manufacturer codes." Assigning 5-digit manufacturer codes means that each manufacturer can have up to 99,999 product codes--and many manufacturers don't have that many products. Now, the UCC will be able to assign manufacturer codes that are longer than 5 digits long. This means they can assign more manufacturer codes and each manufacturer will have a lower number of available product codes.
+
+NOTE: Since the product code is a 5-digit number, there are 99,999 possible product codes for each manufacturer. It is unlikely that any single manufacturer would have more than 99,999 products being sold at once so this is normally not a restrictive limit. NOTE: If a company did in fact have more than 99,999 products, presumably they would request a second manufacturer code from the UCC. We are not aware of whether this has actually ever happened or not. If you have information regarding whether this has ever happened, please let us know!
+
+TECHNICAL INFORMATION UPC-A is a subset of EAN-13; in reality, an UPC-A bar code is an EAN-13 bar code with the first EAN-13 number system digit set to "0". This means that any hardware or software capable of reading EAN-13 is automatically capable of reading UPC-A.
+
+For this reason, rather than provide technical information for EAN-13 and again for UPC-A, please consult the EAN-13 for technical information.
+
+NOTE: The UCC Council has announced that as of January 1, 2005, all products must be labeled with EAN-13. More correctly said, all decoding and related database systems must be able to handle EAN-13 by this date. Thus when developing your system it is best to implement EAN-13. By implementiong EAN-13 you will automatically be implementing UPC-A, but will be ready when the transition to EAN-13 is complete at the beginning of 2005.

@@ -1,0 +1,52 @@
+RootsWeb.com Home Page
+We have been in the process of improving the site throughout 2017, and as a result of an issue we recently became aware of, we have taken the site offline while we work to resolve it. We take the security of our contributors and our viewers seriously. We apologize for any inconvenience this may cause, but protecting our users’ personal information is our top priority.
+
+Update: March 6, 2018
+
+We have some good news on our progress to bring RootsWeb back online. As of today, the RootsWeb mailing lists are now available to use, meaning you can now send and receive email on RootsWeb email lists just like you used to in the past. In addition to making the site more secure, we’ve upgraded our backend system to provide an easier-to-use interface to manage your email list subscriptions.
+
+To get started managing your subscriptions, go to Setting Up My New Mailman Login and if you are an administrator you will find more info at Setting Up My New Mailman Admin Login.
+
+As of today, any email that is sent will go directly into a new archive. We are in the process of importing the old archives into the new archives and due to the massive amount of content, that process will take time. We will continue to update you on the progress when we can.
+
+Thank you for your patience as we continue to bring these features back online.
+
+Update: January 25, 2018
+
+We have taken the RootsWeb Mail system offline for the next few weeks so that we can upgrade the Mailman system. Mailman is the software which runs the mailing lists. While the system is down, you will not be able to send or receive email. We thank you for your patience.
+
+Update: January 23, 2018
+
+Great news on the progress of getting RootsWeb back online. Today, we are bringing WorldConnect, one of our most valued features, back online. As we make WorldConnect available, it will initially be in a read only state. You can now search for people and view information as you did in the past; but for now, we cannot accept new uploads or modifications to existing GEDCOM files. We expect to add this additional functionality in the coming weeks.
+
+Also, here are answers to a few questions we’ve heard from the community:
+
+Why is this taking so long? RootsWeb has many terabytes of data uploaded by users across its various features. The site also has hundreds of thousands of lines of code. We have been scanning the data using a variety of tools, and that takes time. We’ve also been examining the code and the underlying systems. Some code is being refurbished, and some will need to be more fully rewritten to add the layers of security needed in this day and age. We know it may be frustrating, but we are committed to returning data to you in a safe manner.
+
+Have you found any other security problems? We haven’t found any other problems, but we want to thoroughly update systems to ensure the safety of your information.
+
+Is Ancestry going to start charging for RootsWeb? Ancestry is not going to start charging for RootsWeb. When functionality returns to the site, you will still be able to view content for free.
+
+I’ve heard not everything is coming back online, is that true? We will be returning WorldConnect and Mailing Lists back to their full functionality. Other features are still being evaluated. In cases where we are unable to bring back previous functionality or content, we will explore ways for people who uploaded data to retrieve it if we don’t feel we can put it back online safely.
+
+Care to share your thoughts with us?
+
+Update: January 9, 2018
+
+We have spent the last few weeks reviewing the functionality on RootsWeb and have created a plan to bring many of your contributions back online over the next few months. As we stated before, our first priority is security, and ensuring that every part of RootsWeb meets our stringent security standards. Our next priority is getting you, the users of RootsWeb and its services, access to your content.
+
+Right now, the best way for us to meet both goals is to begin bringing portions of RootsWeb back online in a read-only state. This means you will have access to content, but you will not be able to load new content in these sections. While this may not be ideal, it is the best way for us to protect RootsWeb users while also providing the ability to use the content you value. This is an interim step while we continue to evaluate the potential for bringing more of the RootsWeb services back online in a more complete manner.
+
+Here’s our current plan:
+
+Hosted Web Sites: Soon we will begin bringing Hosted Web Sites back online. We will start with a few hundred and then add more over time, giving us a chance to scan the content.
+
+Family Trees/WorldConnect: Family Trees or WorldConnect allows you to upload a GEDCOM file and publish it for others to see. It is currently being reviewed by our software engineers and security team and we plan on having a read-only, searchable version up in the next few weeks. The ability to upload new GEDCOM files will be available in the coming months.
+
+Mailing Lists: Mailing Lists have been functioning as normal, but the archives have been unavailable. We plan to make the archives available to you once we have WorldConnect available to you in a readable version.
+
+We will be making decisions about other functionality over time.
+
+We appreciate your patience as we bring the different pieces of RootsWeb back online in a secure manner. You, our contributors and viewers, are what has made RootsWeb the vibrant free genealogy community it is.
+
+The RootsWeb Team

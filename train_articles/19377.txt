@@ -1,0 +1,110 @@
+24-Hour Solar Energy: Molten Salt Makes It Possible, and Prices Are Falling Fast
+Sign up to receive our latest reporting on climate change, energy and environmental justice, sent directly to your inbox. Subscribe here .
+
+The first thing you see of the Crescent Dunes Solar Energy Facility, and you can be miles away, is a light so bright you can't look directly at it. This sits atop a 640-foot cement tower, rising from the flat, empty Nevada desert around the halfway point on the highway from Reno to Las Vegas. The tower's surrounded by a nearly two-mile-wide field of mirrors that send shimmering beams of light into the sky.
+
+Travelers sometimes ask whether they've driven past something extraterrestrial, said Darby, the bartender at the century-old Mizpah Hotel in Tonopah, a dusty former silver mining town 15 miles from the plant. Such questions are accepted at face value around here. Area 51, the classified facility where the conspiracy-minded believe the U.S. Air Force hides evidence of space aliens, is just another hour or so down the road.
+
+Sign up for InsideClimate News Weekly Our stories. Your inbox. Every weekend.
+
+What people are actually seeing is a 110-megawatt concentrated solar power (CSP) plant, built and operated by SolarReserve of Santa Monica, California. It's not from outer space, but there's not yet anything quite like it of this size anywhere else on the planet.
+
+SolarReserve is trying to prove that the technology that drives Crescent Dunes can make solar power an affordable, carbon-free, day-and-night energy source, dispatched on the electric grid like any fossil fuel plant. Here, concentrated sunlight heats molten salt to 1,050 degrees Fahrenheit in that shimmering tower; then the salt gets stored in a giant insulated tank and can be tapped to make steam to run a turbine.
+
+Heliostats, the giant mirrors that focus the sun's rays, are directed by software that allows them to follow the sun through the day. Credit: SolarReserve
+
+If this plant and several similar facilities under construction, or soon to be, prove reliable, the technology is poised to take off. Solar photovoltaic (PV) panels can displace fossil fuels during the day, and wind turbines can do the same as long as it's windy. But molten salt towers may be able to meet the challenge of electricity on demand, and push more older, dirtier fossil-fuel plants into retirement.
+
+"We're going to see many more CSP molten salt towers," said Mark Mehos, program manager for CSP research at the National Renewable Energy Laboratory in Colorado. Mehos bases his belief on prices that SolarReserve and other project developers are quoting for electricity from new plants, and the knowledge that a CSP tower with eight or 10 hours of molten salt storage is currently much cheaper than a solar PV farm with an equivalent amount of lithium-ion batteries.
+
+The price of the power generated at SolarReserve's second plant, to be built near Port Augusta, Australia, will be less than half that of the electricity produced by Crescent Dunes—about 7.8 cents (Australian) per kilowatt-hour, or just over 6 U.S. cents. When the South Australia government signed the contract to buy the plant's output in August, the state's treasurer, Tom Koutsantonis, tweeted that a "shiver has just gone up the coal generation industry's spine," because a new coal plant can't match that price.
+
+Kevin Smith, chief executive officer of SolarReserve, believes Crescent Dunes shows that the technology works and the next projects on the books will prove out the economics. The company has a third plant moving forward in South Africa and has plans for 10 more CSP towers in Nevada to serve California's needs.
+
+"We're going to see it through," said Smith of the effort to gain acceptance for this type of generation. He helped build the company Invenergy into one of the largest owners of U.S. wind farms before joining SolarReserve at its founding in 2008. "It's taken a while to get to where we are. The market is now responding. We've got our costs down. We're winning bids."
+
+The Next Big Thing? It's the Storage
+
+Power generation at Crescent Dunes starts with 10,347 mirrors, a total of 13 million square feet of glass—enough to completely cover the National Mall in Washington from the steps of the Capitol to the Washington Monument. The mirrors are called heliostats because each one can tilt and turn to precisely point its beam of light. Arranged in concentric circles, they focus sunlight on the "receiver" at the top of the central tower. Tourists' assumptions aside, this is not actually a light. The receiver, matte black when there's no sunlight on it, absorbs energy to heat the molten salt flowing through a series of pipes. Hot salt then flows down to a 3.6 million gallon stainless steel storage tank.
+
+The salt, which at these temperatures looks and flows pretty much like water, runs through a heat exchanger to make steam to run a standard turbine generator. The tank holds enough molten salt to run the generator for 10 hours; that represents 1,100 megawatt hours of storage, or nearly 10 times more than the largest lithium-ion battery systems that have been installed to store renewable power.
+
+If CSP molten salt towers are on the verge of wider acceptance, it's largely because of the growing realization that a transition to renewable power requires storage on this scale. "Having storage is really the value proposition for CSP," said Clifford Ho, who leads research on thermal solar power at Sandia National Laboratories in Albuquerque, New Mexico.
+
+Yes, It Is Rocket Science
+
+Despite the promise, SolarReserve's progress hasn't been fast or easy. The company is still shy of the goal of commercial acceptance of its power plant technology. After a decade, Crescent Dunes is SolarReserve's only example of its CSP molten salt system. In many respects, the company remains a startup.
+
+SolarReserve's chief technology officer, William Gould, has spent more than two decades developing CSP molten salt power generation. Back in the 1990s, he was the project manager for a demonstration plant called Solar Two, built with U.S. Department of Energy backing in the Mojave Desert near Barstow, California. There had been a Solar One at the same location in the 1980s, which successfully showed that a field of heliostats shining on a central tower could produce steam to run a turbine. Gould's job was to follow up with a project that heated salt, instead of steam, and prove the energy could be stored.
+
+Solar Two was a small pilot project near Barstow, California, where salt storage technology now used at Crescent Dunes was tested in the 1990s. Credit: KJKolb/CC-BY-SA-2.0
+
+To build the molten salt receiver, Gould had to choose between two bidders: a boiler maker with experience in traditional fossil fuel power plants; and Rocketdyne, a company that produced rocket engines for NASA. He went with the rocket scientists. The cone or bell at the bottom of a rocket, where the flame exits, is actually made up of a web of small pipes through which liquid fuel circulates, cooling the metal and keeping the cone from melting. Rocketdyne's experience in engineering this trick and expertise in high-temperature metallurgy had led the company to develop the technology for using molten salt in a CSP plant.
+
+The 10 MW Solar Two project ran successfully for several years, proving the concept, and was decommissioned in 1999. "We had some teething pains. We had some problems we had to fix," Gould said. "But in the end, it operated just as designed." Indeed, the core technology in use at Crescent Dunes today hardly changes anything from Solar Two, except the scale: The mix of nitrate salts and the operating temperatures are identical.
+
+Earlier in his career, Gould was a nuclear engineer at Bechtel, the giant construction company, working on California's San Onofre reactors and Arizona's Palo Verde plant. He said he eventually decided nothing can be engineered to be entirely foolproof. "I'm no longer a proponent of nuclear," he said.
+
+He came away from his work on Solar Two, however, as a big proponent of molten salt. "We had high hopes for rapid commercialization," he said. Scaling up to a commercially viable 100 MW or more proved too new to attract funding from banks or other traditional sources. It really needed a government loan guarantee or other support, which wasn't to be had in those years.
+
+A Billion-Dollar Bet
+
+When SolarReserve was founded, it seemed a molten salt plant with a field of heliostats and a central tower could produce power at a price competitive with, if not cheaper than, a large solar PV plant. But right away, the price of PV panels began to drop. The cost of a kilowatt-hour of electricity from a utility-scale solar farm, averaged over the life of the facility, has plunged from 28 cents in 2010 to under 6 cents, according to the U.S. Department of Energy. It's not unheard of today for a solar farm to offer to sell power for around 2 cents a kilowatt-hour.
+
+Kevin Smith, CEO of SolarReserve, believes Crescent Dunes shows that the technology works and that the next projects will prove out the economics. The company has plans for 10 more CSP towers in Nevada. Credit: Robert Dietreich
+
+The company put together several solar PV plants as the prices dropped. This helped to bring in some cash, Smith said. But the main focus remained on molten salt towers. With a power purchase agreement from NV Energy, Nevada's main utility company, and a big loan guarantee from the Energy Department, construction on Crescent Dunes began in 2011. It was completed in 2015, about two years behind schedule.
+
+Construction cost about $750 million, and with so-called soft costs such as interest during construction and transmission connections, the total price tag was closer to $1 billion. The construction expenses have been cut nearly in half for the projects now in the pipeline, Smith said. Still, a new utility-scale solar PV facility the size of Crescent Dunes, but without any storage capabilities, could be built today for perhaps $110 million.
+
+Smith and Gould—and other observers—will tell you that Crescent Dunes, in its first two years, has been plagued by problems. But the issues aren't about the design of the molten salt system or heliostats or tower, Smith said. He refers to "balance-of-plant" issues, such as pumps that failed to work properly and transformers for equipment in the heliostat field that were undersized.
+
+The biggest problem by far at Crescent Dunes was a leak in the hot salt storage tank discovered in late 2016. Smith explains that a giant ring, resting on pylons on the bottom of the tank, distributes the molten salt as it comes down from the receiver. While the pylons were supposed to be welded to the floor, the ring itself was designed to move as changes in temperature cause expansion or contraction. Instead, due to a construction error, it was all welded together, and temperature changes caused the bottom of the tank to buckle and leak.
+
+Solar-heated molten salt is stored in giant tanks near the tower at Crescent Dunes. Credit: Robert Dieterich
+
+Leaking molten salt is not particularly dangerous. When it hit the gravel bed under the tank and immediately cooled, it turned to—salt. Still, the shutdown lasted months, and the plant only got back on the grid in July.
+
+Crescent Dunes is supposed to be able to generate some 500,000 MWh of electricity per year, the equivalent of operating about 12 hours a day. But it's yet to do that. Smith argues that the facility is running well now and will meet that target. "The core technology has operated like a champ," he said.
+
+Still a Tiny Slice of the Solar Pie
+
+Several different approaches to CSP have been pursued over the years. Worldwide, some 5,000 MW of CSP generation have been built, according to the International Renewable Energy Agency. It's not a lot—the tally for solar panels was 291,000 MW through the end of 2016—but it's not nothing.
+
+Most CSP projects are in the U.S. and in Spain, where the government offered generous subsidies for several years before the 2008 financial crisis. The technology most commonly deployed is parabolic trough, a system that uses curved mirrors that move on a single axis to track the sun. Sunlight is concentrated on a pipe filled with oil at the focal point of the parabolic mirror. The oil, which can reach around 700 degrees Fahrenheit, is used to make steam to run a turbine. There's no direct thermal storage, though some facilities add a step, using the oil to heat molten salt so it can be stored. This process is less efficient than storage using a CSP tower, however, because of the lower temperatures.
+
+Morocco's first CSP plant, Noor I, has half a million curved mirrors that slowly follow the sun. The sunlight is concentrated on a pipe filled with oil that is used to create steam to run turbines. Credit: Fadel Senna/AFP/Getty Images
+
+Parabolic trough projects can be appropriate in some locations, according to Sergio Relloso of the solar business unit at Sener, the Spanish engineering company. Sener has built more than two dozen CSP trough projects. Right now, the company is constructing two plants in Ouarzazate, Morocco. One uses Sener's parabolic trough technology and a molten salt storage system; the other is a molten salt tower design, making it the second utility-scale test of the technology after Crescent Dunes.
+
+The power price for the output of the two Moroccan plants is very close, Relloso said. Since many trough plants have already been built, he's betting that the better opportunity for reducing costs in future projects lies with the molten salt tower technology. "There's much more potential cost reduction in the tower design."
+
+The other significant type of CSP plant uses a central tower and heliostats to heat steam instead of salt. These plants look similar to Crescent Dunes, but there is no storage; the steam has to be used in the turbine immediately. This is the technology at the 377-megawatt Ivanpah project, located in the Mojave Desert near the Nevada-California border, the world's largest CSP plant. Ivanpah was built with a $1.6 billion federal loan guarantee.
+
+Ivanpah, in California's Mojave desert, went into operation in 2013 as the world's largest solar thermal power plant. Its receivers generate steam to run turbines. Credit: Courtesy of Bechtel
+
+Smith and Mehos and others said the steam-only approach at Ivanpah appears to be a dead-end, because it remains much more expensive than solar PV panels and doesn't have the storage capabilities that can make a plant's output more valuable to the grid.
+
+The developer of the Ivanpah project, BrightSource Energy, said in an email that its technology, centered on solar field design and heliostat optimization, can also be applied to molten salt plants. The company has projects with molten salt storage in development in China.
+
+Is This What the Grid Needs?
+
+SolarReserve has always pitched storage as its edge. Smith said utility officials and policymakers would respond that storage was important, that they wanted more. "But they wanted storage for free," he said. "And, unfortunately, we couldn't give it to them for free."
+
+Renewable portfolio standards and other legislative and regulatory requirements pushed utilities to add wind and solar power but provided little incentive to favor generation that would run when the grid most needed the electricity. "In the U.S. market, utilities, they just wanted kilowatt-hours," Smith said. "They didn't care about when they got them."
+
+Now, the conversation about what the grid really needs seems to have begun in earnest, Smith said. In places such as California, where about a third of the electricity now comes from renewables, there's excess renewable generation during certain hours of the day. If the shift to cleaner, carbon-free power sources is to continue, California, and other systems, will need clean resources that can be dispatched to meet peak demand and to help keep the grid stable. "We believe now is the rebirth of the CSP market. And it's all about storage."
+
+Concentrated solar power plants that use molten salt storage are drawing interest around the world, with several plants planned in China. Credit: SolarReserve
+
+Mehos said developers such as SolarReserve still need to show that CSP molten salt towers can be reliable and deliver power at the promised prices. In addition to the Australian project at about 6 cents, SolarReserve has bid to sell power from a project in the Atacama Desert in Chile at close to 5 cents a kilowatt-hour.
+
+"We really need to see installations, on the ground, that match those bids and that operate reliably," Mehos said. The Chilean project represents the lowest price yet for the output of a CSP project in part because the sunlight there is even stronger than it is in Nevada or South Australia.
+
+In China, meanwhile, the government has announced a program to build 6,000 MW of CSP with storage. SolarReserve has partnered with state-owned Shenhua Group, a builder of coal-fired power plants, to develop 1,000 MW of CSP molten salt generation.
+
+The 10 additional plants that SolarReserve hopes to someday build in the Nevada desert would be similar to Crescent Dunes but larger—each with 10 hours of storage, for 2,000 MW of total capacity and 7 million MWh of output per year. The project would stretch north from the Crescent Dunes site, and the company has filed for land permits from the federal Bureau of Land Management.
+
+Gould is watching to see when California realizes this is what they need. "It seems inescapable, doesn't it?" he said. If so, the CSP towers that look alien to travelers driving through the desert today could, in the next few years, become a familiar sight.
+
+The Crescent Dunes Solar Energy Project is an unexpected site in the midst of the desolate Nevada desert. Credit: SolarReserve

@@ -1,0 +1,22 @@
+VSQ Main Page
+The CA-Vital Statistics Query (CA-VSQ) System has been developed to provide an interactive Internet interface to obtain summaries and statistical reports from California's birth and death vital statistics databases. The selection process is broken down into four levels.
+
+Identifies the year of the event and statistical selection Allows the choice of an individual county or the entire state Choose the primary selection criteria (row condition) Allows the query to be tailored to a specific result (column condition)
+
+Definitions of fields and terms can be reached by selecting "Field Definitions" from the "About" menu.
+
+
+
+At the bottom of this page is a List displaying California's leading causes of death for 2013. Included in the List are links to earlier reports for each of the individual causes of death.
+
+
+
+* = required fields
+
+Leading causes of death are those responsible for the greatest number of deaths. There were 248,118 deaths in California in 2013. The cause-of-death codes are defined by the International Classification of Disease, Tenth Revision (ICD-10) Second Edition. Hyperlinks are provided to prior topic reports.
+
+California residents only.
+
+* The ICD-10 code for J09 was amended in 2009 to reflect the inclusion of Influenza A/H1N1 pandemic 2009 (swine flu). The revised J09 title is Influenza due to certain identified influenza virus.
+
+Detailed procedures and further information regarding the 113 Selected Causes-of-Death are provided in NCHS Instruction Manual, Part 9: ICD-10 Underlying Cause-of-Death Lists Tabulating Mortality Statistics. Updated March 2011; National Center for Health Statistics. Available from http://www.cdc.gov/nchs/data/dvs/Part9InstructionManual2011.pdf , accessed October 20, 2014.

@@ -1,0 +1,219 @@
+Highlights From The Mueller Report, Annotated
+
+Enlarge this image toggle caption Win McNamee/Getty Images Win McNamee/Getty Images
+
+Updated at 9:37 p.m. ET
+
+The Justice Department has released a redacted copy of special counsel Robert Mueller's report into Russian interference in the 2016 presidential election.
+
+» A copy of the document is available here.
+
+Read notable excerpts from the redacted report, annotated by NPR reporters and editors, below. We'll be updating this analysis throughout the day as we read the report.
+
+Insufficient evidence
+
+In the report: Page 9
+
+... while the investigation identified numerous links between individuals with ties to the Russian government and individuals associated with the Trump Campaign, the evidence was not sufficient to support criminal charges."
+
+[ This section outlines how flimsy investigators eventually concluded the case was that those involved with now-familiar Russian contacts actually might have broken the law. Even the meeting involving top Trump campaign aides with a Russian delegation in New York City in June 2016 doesn't have enough evidence associated with it to charge those involved with an alleged campaign finance violation, they write. — Philip Ewing ]
+
+Evidence destruction
+
+In the report: Page 18
+
+Further, the Office learned that some of the individuals we interviewed or whose conduct we investigated — including some associated with the Trump Campaign — deleted relevant communications or communicated during the relevant period using applications that feature encryption or that do not provide for long-term retention of data or communications records. In such cases, the Office was not able to corroborate witness statements through comparison to contemporaneous communications or fully question witnesses about statements that appeared inconsistent with other known facts.
+
+Accordingly, while this report embodies factual and legal determinations that the Office believes to be accurate and complete to the greatest extent possible, given these identified gaps, the Office cannot rule out the possibility that the unavailable information would shed additional light on (or cast in a new light) the events described in the report.
+
+[ The special counsel's investigation was exhaustive, it says, but it could only include evidence it could access. Situations in which evidence was destroyed or encrypted services were used meant that investigators couldn't check what they were learning against the electronic record. The investigators say they can't eliminate the possibility that the information they couldn't access would reveal more about the events that took place in 2016 and since. — Philip Ewing ]
+
+Meaning of collusion
+
+In the report: Page 10
+
+In connection with that analysis, we addressed the factual question whether members of the Trump Campaign "coordinat[ed]"—a term that appears in the appointment order—with Russian election interference activities. Like collusion, "coordination" does not have a settled definition in federal criminal law. We understood coordination to require an agreement—tacit or express—between the Trump Campaign and the Russian government on election interference. That requires more than the two parties taking actions that were informed by or responsive to the other's actions or interests.
+
+[ The burning question all along in the Russia investigation was what might constitute a violation of the law for the purposes of the inquiry. Meetings and contacts between Trump's 2016 campaign and Russians or their agents were reported in the press and became publicly known. Here's where Mueller's office explains the definition it used to analyze conduct and determine what would constitute lawbreaking. — Philip Ewing ]
+
+Broader reach of Russian social media efforts since 2016
+
+In the report: Pages 22 and 23
+
+By the end of the 2016 U.S. election, the IRA had the ability to reach millions of U.S. persons through their social media accounts. Multiple IRA-controlled Facebook groups and Instagram accounts had hundreds of thousands of U.S. participants. IRA-controlled Twitter accounts separately had tens of thousands of followers, including multiple U.S. political figures who retweeted IRA-created content.
+
+[ In the 2 1/2 years since the 2016 election, the number of people touched by Russia's election interference has continued to balloon. Reports produced for Senate investigators last year revealed that IRA (Internet Research Agency) posts on Instagram received 187 million engagements and that IRA posts on Facebook received almost 77 million engagements. — Miles Parks ]
+
+DCCC hack details
+
+In the report: Page 46
+
+By no later than April 12, 2016, the GRU had gained access to the DCCC computer network using the credentials stolen from a DCCC employee who had been successfully spearphished the week before. Over the ensuing weeks, the GRU traversed the network, identifying different computers connected to the DCCC network. By stealing network access credentials along the way (including those of IT administrators with unrestricted access to the system), the GRU compromised approximately 29 different computers on the DCCC network.
+
+[ Russian intelligence agents had access to the networks of the DCCC (Democratic Congressional Campaign Committee) and the Democratic National Committee for months. They "traversed" the Democratic Party's digital infrastructure, in part, by stealing the credentials of the people tasked with protecting it. Russian agents compromised at least 59 computers in all between April 12, 2016, and June 8, 2016, the special counsel's office also said in the report. — Miles Parks ]
+
+State and local vulnerabilities
+
+In the report: Page 58
+
+"In addition to targeting individuals involved in the Clinton Campaign, GRU officers also targeted individuals and entities involved in the administration of the elections. Victims included U.S. state and local entities, such as state boards of elections (SBOEs), secretaries of state, and county governments, as well as individuals who worked for those entities.
+
+[ This aspect of Russia's election interference exposed just how vulnerable U.S. elections are. There remains no evidence that any votes were changed as a result of Russian cyber-activity, but operatives were able to break into a board of elections website in Illinois and steal voter data on thousands of U.S. voters. Despite security improvements over the past two years and a newfound awareness of the threat, voting in America remains a massive target. The decentralized nature of how elections are administered means states and localities are on the front line of defense against entire nation-states. And it remains unclear whether lawmakers will allocate adequate resources soon enough to further shore up the system before a presidential election that is about a year and a half away. — Miles Parks ]
+
+Florida county breached
+
+In the report: Page 59
+
+Similarly, in November 2016, the GRU sent spearphishing emails to over 120 email accounts used by Florida county officials responsible for administering the 2016 U.S. election. The spearphishing emails contained an attached Word document coded with malicious software (commonly referred to as a Trojan) that permitted the GRU to access the infected computer. The FBI was separately responsible for this investigation. We understand the FBI believes that this operation enabled the GRU to gain access to the network of at least one Florida county government. The Office did not independently verify that belief and, as explained above, did not undertake the investigative steps that would have been necessary to do so.
+
+[ This is new. The FBI believes that the Russian attackers (GRU, Russia's military intelligence agency) gained access to the network of at least one Florida county. No county in the state has revealed a breach publicly. It remains unclear which county, how long Russia had access to the county's network and exactly what information the attackers gained access to. — Miles Parks ]
+
+Voting vendors
+
+In the report: Page 59
+
+Unit 74455 also sent spearphishing emails to public officials involved in election administration and personnel at companies involved in voting technology. In August 2016, GRU officers targeted employees of REDACTED, a voting technology company that developed software used by numerous U.S. counties to manage voter rolls, and installed malware on the company network.
+
+[ The company referenced here seems to be VR Systems, a Florida-based company that makes voter registration equipment. In an interview with NPR's Pam Fessler six months after the 2016 election, the company's chief operating officer said Russian hackers were unsuccessful in breaking into their systems. But today's report, and an indictment filed last summer by Mueller's team, disagree. One of the tough contradictions about American voting is the transparency, or lack thereof, from the companies responsible for election security. Even though elections are technically supervised at the state and local levels, in most cases the equipment that voters use to cast their ballots, have their votes counted and to check-in at the polls is run by companies in the private sector. That makes forcing them to provide information about potential breaches, or their own security practices, incredibly difficult. "There is far too little transparency from voting machine vendors about whether their products are secure against hackers and foreign interference," Sen. Ron Wyden told NPR ahead of the report's public release. "Over and over again the corporations that are essentially gatekeepers of our democracy have either lied or refused to answer questions from me, from states and from security experts about what steps they've taken to protect our election infrastructure. I am convinced we cannot rely on these companies to do the right thing on their own." — Miles Parks ]
+
+Trump approved negotiations over Moscow tower project
+
+In the report: Page 77
+
+Cohen was the only Trump Organization representative to negotiate directly with I.C. Expert or its agents. In approximately September 2015, Cohen obtained approval to negotiate with [Russian real estate development corporation] I.C. Expert from candidate Trump, who was then president of the Trump Organization. Cohen provided updates directly to Trump about the project throughout 2015 and into 2016, assuring him the project was continuing. Cohen also discussed the Trump Moscow project with Ivanka Trump as to design elements (such as possible architects to use for the project) and Donald J. Trump Jr. (about his experience in Moscow and possible involvement in the project) during the fall of 2015.
+
+[During the campaign and into the Trump administration, the Trump team and Donald Trump himself regularly denied any involvement with Russia. But the Mueller report concludes that Donald Trump, Ivanka Trump and Donald Trump Jr. were all apprised of a Trump Tower Moscow project that was being actively considered in 2015 and 2016. Elsewhere, the report makes clear that this wasn't a casual enterprise to the Trump family; it could have been a billion-dollar deal. The project ultimately didn't go forward, but the report makes clear that the Trumps' claims about not having any business dealings in Russia weren't accurate. — Tim Mak ]
+
+What the campaign knew about offers of "dirt"
+
+In the report: Page 101
+
+f. Trump Campaign Knowledge of "Dirt"
+
+Papadopoulos admitted telling at least one individual outside of the Campaign — specifically, the then-Greek foreign minister — about Russia's obtaining Clinton-related emails.
+
+In addition, a different foreign government informed the FBI that, 10 days after meeting with Mifsud in late April 2016, Papadopoulos suggested that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information that would be damaging to Hillary Clinton. (This conversation occurred after the GRU spearphished Clinton Campaign chairman John Podesta and stole his emails, and the GRU hacked into the DCCC and DNC, see Volume l, Sections III.A & III.B, supra.) Such disclosures raised questions about whether Papadopoulos informed any Trump Campaign official about the emails.
+
+When interviewed, Papadopoulos and the Campaign officials who interacted with him told the Office that they could not recall Papadopoulos's sharing the information that Russia had obtained "dirt" on candidate Clinton in the form of emails or that Russia could assist the Campaign through the anonymous release of information about Clinton.
+
+[ Papadopoulos is the origin of the Russia investigation. When the FBI got wind of the overtures he was receiving from Russian agents, it kicked off the events that brought us to today. What this section establishes is that although the Russians whom Papadopoulos met were offering him dirt on Hillary Clinton, no one involved recalls discussing that. Papadopoulos and others, including Trump advisers Sam Clovis and Stephen Miller, now say they don't recall discussing the Russian offers at the time Papadopoulos was receiving them. — Philip Ewing ]
+
+Activity short of a conspiracy
+
+In the report: Page 181
+
+In sum, the investigation established multiple links between Trump Campaign officials and individuals tied to the Russian government. Those links included Russian offers of assistance to the Campaign. In some instances, the Campaign was receptive to the offer, while in other instances the Campaign officials shied away. Ultimately, the investigation did not establish that the Campaign coordinated or conspired with the Russian government in its election-interference activities.
+
+[ The Trump campaign engaged with some offers of help in 2016 and welcomed the support it was getting indirectly from fellow travelers such as WikiLeaks. But the substance of that activity did not amount to a criminal conspiracy, the special counsel's office concluded, and that's why no Americans have been charged with colluding with the Russian interference. — Philip Ewing ]
+
+Willful lawbreaking
+
+In the report: Page 195
+
+Even assuming that the promised "documents and information that would incriminate Hillary" constitute a "thing of value" under campaign-finance law, the government would encounter other challenges in seeking to obtain and sustain a conviction. Most significantly, the government has not obtained admissible evidence that is likely to establish the scienter requirement beyond a reasonable doubt.
+
+[ Why didn't the Trump Tower meeting violate campaign finance laws that bar foreigners from giving a "thing of value" to an American campaign? Investigators spell out in this section that they didn't believe they could prove that the people in the meeting knew they were breaking the law, as would be required to obtain and sustain a conviction. That's why Donald Trump Jr., Jared Kushner and Paul Manafort didn't face charges connected with their meeting in New York City with a delegation of Russians in June 2016. Manafort did face other charges and was sentenced to prison, but prosecutors didn't allege any lawbreaking connected to the Trump Tower meeting. — Philip Ewing ]
+
+Not enough evidence for obstruction
+
+In the report: Page 214
+
+if we had confidence after a thorough investigation of the facts that the President clearly did not commit obstruction of justice, we would so state. Based on the facts and the applicable legal standards, however, we are unable to reach that judgment. The evidence we obtained about the President's actions and intent presents difficult issues that prevent us from conclusively determining that no criminal conduct occurred. Accordingly, while this report does not conclude that the President committed a crime, it also does not exonerate him.
+
+[ The special counsel's office acknowledges that President Trump may have obstructed justice but that it can't make that determination with the evidence it has. It left the matter unresolved, and ultimately Attorney General William Barr and Deputy Attorney General Rod Rosenstein decided that Trump had not broken the law and will not face prosecution. — Philip Ewing ]
+
+McFarland declines directive
+
+In the report: Page 215
+
+Later that afternoon, the President cleared the Oval Office to have a one-on-one meeting with Comey. Referring to the FBI's investigation of Flynn, the President said, "I hope you can see your way clear to letting this go, to letting Flynn go. He is a good guy. I hope you can let this go." Shortly after requesting Flynn's resignation and speaking privately to Comey, the President sought to have Deputy National Security Advisor K.T. McFarland draft an internal letter stating that the President had not directed Flynn to discuss sanctions with Kislyak. McFarland declined because she did not know whether that was true, and a White House Counsel's Office attorney thought that the request would look like a quid pro quo for an ambassadorship she had been offered.
+
+[ Another instance of a Trump aide refusing to carry out a Trump directive. — Susan Davis ]
+
+Lewandowski, Dearborn decline directives
+
+In the report: Page 217
+
+One month later, in another private meeting with Lewandowski on July 19, 2017, the President asked about the status of his message for Sessions to limit the Special Counsel investigation to future election interference. Lewandowski told the President that the message would be delivered soon. Hours after that meeting, the President publicly criticized Sessions in an interview with the New York Times, and then issued a series of tweets making it clear that Sessions's job was in jeopardy. Lewandowski did not want to deliver the President's message personally, so he asked senior White House official Rick Dearborn to deliver it to Sessions. Dearborn was uncomfortable with the task and did not follow through.
+
+[ Two more instances of aides or allies declining to follow presidential directives. — Susan Davis ]
+
+Cohen did discuss a pardon
+
+In the report: Page 218
+
+After the FBI searched Cohen's home and office in April 2018, the President publicly asserted that Cohen would not "flip," contacted him directly to tell him to "stay strong," and privately passed messages of support to him. Cohen also discussed pardons with the President's personal counsel and believed that if he stayed on message he would be taken care of. But after Cohen began cooperating with the government in the summer of 2018, the President publicly criticized him, called him a "rat," and suggested that his family members had committed crimes.
+
+[ In congressional testimony under oath, Michael Cohen said that he did not seek a pardon and that he would not accept one, having spurned Trump. Trump then said that, in fact, Cohen had asked for a pardon, and the report establishes that those talks did take place. Cohen's attorneys have sought to explain that there were some discussions but then Cohen closed the door and committed to cooperate with Republicans and investigators. All the same, Republicans have said Cohen lied to Congress and have called for a perjury investigation by the Justice Department because of it. — Susan Davis ]
+
+The obstruction dilemma
+
+In the report: Page 219
+
+Several features of the conduct we investigated distinguish it from typical obstruction-of-justice cases. First, the investigation concerned the President, and some of his actions, such as firing the FBI director, involved facially lawful acts within his Article II authority, which raises constitutional issues discussed below. At the same time, the President's position as the head of the Executive Branch provided him with unique and powerful means of influencing officialproceedings, subordinate officers, and potential witnesses-all of which is relevant to a potential obstruction-of-justice analysis. Second, unlike cases in which a subject engages in obstruction of justice to cover up a crime, the evidence we obtained did not establish that the President was involved in an underlying crime related to Russian election interference. Although the obstruction statutes do not require proof of such a crime, the absence of that evidence affects the analysis of the President's intent and requires consideration of other possible motives for his conduct. Third, many of the President's acts directed at witnesses, including discouragement of cooperation with the government and suggestions of possible future pardons, took place in public view. That circumstance is unusual, but no principle of law excludes public acts from the reach of the obstruction laws. If the likely effect of public acts is to influence witnesses or alter their testimony, the harm to the justice system's integrity is the same.
+
+[ Obstruction of justice is a difficult crime to prove under any circumstances, prosecutors say, but these were no ordinary circumstances. Here, investigators explain their thinking and the significance they applied to their determination that President Trump hadn't conspired with Russia to interfere in the 2016 election. Because he hadn't, they write, that bears on the state of mind he had when he acted. He couldn't have been trying to cover up an underlying crime, so other possible motives had to be considered. — Philip Ewing ]
+
+Obstruction and Trump's motives
+
+In the report: Page 218
+
+In addition, the President had a motive to put the FBI's Russia investigation behind him. The evidence does not establish that the termination of Comey was designed to cover up a conspiracy between the Trump Campaign and Russia: As described in Volume I, the evidence uncovered in the investigation did not establish that the President or those close to him were involved in the charged Russian computer-hacking or active-measure conspiracies, or that the President otherwise had an unlawful relationship with any Russian official. But the evidence does indicate that a thorough FBI investigation would uncover facts about the campaign and the President personally that the President could have understood to be crimes or that would give rise to personal and political concerns.
+
+[ Why did President Trump fire FBI Director James Comey? Not to conceal evidence that the Trump campaign conspired with the Russian interference in the election, Mueller's team concluded. But one reason may have been Trump's fear that the FBI would uncover other things about him or his campaign that he understood to be crimes. The multiple possible other reasons for Trump's actions, as well as the inability of investigators to establish definitively why he acted, are what make obstruction-of-justice cases so difficult to prove. At the same time, this conclusion conflicts somewhat with the analysis on Thursday by Attorney General William Barr, who said the fact of no underlying conspiracy "bears on" the decision not to charge Trump with obstruction of justice. For one thing, obstruction doesn't require the commission of an underlying crime. And for another, this portion of the report suggests that Trump might have been aware that there were crimes he could keep from the FBI by getting rid of Comey. — Philip Ewing ]
+
+Christie refuses to carry out Trump's directive
+
+In the report: Page 251
+
+Towards the end of the lunch, the President brought up Comey and asked if Christie was still friendly with him. Christie said he was. The President told Christie to call Comey and tell him that the President "really like[s] him. Tell him he's part of the team." At the end of the lunch, the President repeated his request that Christie reach out to Comey. Christie had no intention of complying with the President's request that he contact Comey. He thought the President's request was "nonsensical" and Christie did not want to put Comey in the position of having to receive such a phone call. Christie thought it would have been uncomfortable to pass on that message.
+
+[ Chris Christie, then New Jersey's governor, ignores Trump's request to call Comey. — Susan Davis ]
+
+White House invented FBI's doubts about Comey
+
+In the report: Page 284
+
+In the afternoon of May 10, 2017, deputy press secretary Sarah Sanders spoke to the President about his decision to fire Comey and then spoke to reporters in a televised press conference. Sanders told reporters that the President, the Department of Justice, and bipartisan members of Congress had lost confidence in Comey, "[a]nd most importantly, the rank and file of the FBI had lost confidence in their director. Accordingly, the President accepted the recommendation of his Deputy Attorney General to remove James Comey from his position." In response to questions from reporters, Sanders said that Rosenstein decided "on his own" to review Comey's performance and that Rosenstein decided "on his own" to come to the President on Monday, May 8 to express his concerns about Comey. When a reporter indicated that the "vast majority" of FBI agents supported Comey, Sanders said, "Look, we've heard from countless members of the FBI that say very different things." Following the press conference, Sanders spoke to the President, who told her she did a good job and did not point out any inaccuracies in her comments. Sanders told this Office that her reference to hearing from "countless members of the FBI" was a "slip of the tongue." She also recalled that her statement in a separate press interview that rank-and-file FBI agents had lost confidence in Comey was a comment she made "in the heat of the moment" that was not founded on anything.
+
+[ One reason given by the White House for terminating FBI Director James Comey was that he had lost the support of rank-and-file FBI personnel. But then-Acting FBI Director Andrew McCabe, who was later ousted over his own problems with the Justice Department, contradicted that account not long thereafter. And as White House press secretary Sarah Sanders made clear to investigators in this section of the report, the statement about the FBI's loss of support for Comey was just made up in the moment and not founded on any accounts from within the bureau. — Philip Ewing ]
+
+Trump poleaxed by appointment of Mueller
+
+In the report: Page 290
+
+The President learned of the Special Counsel's appointment from Sessions, who was with the President, Hunt, and McGahn conducting interviews for a new FBI Director. Sessions stepped out of the Oval Office to take a call from Rosenstein, who told him about the Special Counsel appointment, and Sessions then returned to inform the President of the news. According to notes written by Hunt, when Sessions told the President that a Special Counsel had been appointed, the President slumped back in his chair and said, "Oh my God. This is terrible. This is the end of my Presidency. I'm f***ed." The President became angry and lambasted the Attorney General for his decision to recuse from the investigation, stating, "How could you let this happen, Jeff?" The President said the position of Attorney General was his most important appointment and that Sessions had "let [him] down," contrasting him to Eric Holder and Robert Kennedy. Sessions recalled that the President said to him, "you were supposed to protect me," or words to that effect. The President returned to the consequences of the appointment and said, "Everyone tells me if you get one of these independent counsels it ruins your presidency. It takes years and years and I won't be able to do anything. This is the worst thing that ever happened to me."
+
+The President then told Sessions he should resign as Attorney General.
+
+[A highly consequential moment — one that's highly telling about the Trump presidency. The episode makes a number of things clear: why Trump smoldered with such anger at then-Attorney General Jeff Sessions over what he felt was a betrayal by Sessions in recusing himself from the Russia investigation; how Trump viewed the role of attorney general — as a lawyer for the president whose responsibility is as much to "protect" him as serve as the nation's highest law enforcement officer; and Trump's instant determination to oppose special counsel Robert Mueller and criticize his investigation. This all set the stage for Trump's current attorney general, William Barr, whom critics accuse of covering for Trump by deciding not to bring criminal charges connected with alleged obstruction of justice. Barr says that the prerogative is his, and Mueller's findings don't require it. Barr also observed that Trump could have refused to cooperate with the special counsel — but he did cooperate and directed everyone in his administration to cooperate as well. Moreover, Trump was within his rights to take information — including, potentially, this passage — out of the redacted report and cite executive privilege, which permits an administration to keep some of its internal workings from public view. Trump didn't, as Barr pointed out, and this and other incidents were kept in the document. — Susan Davis and Philip Ewing]
+
+McGahn declines Trump directive
+
+In the report: Page 293
+
+On May 23, 2017, the Department of Justice announced that ethics officials had determined that the Special Counsel's prior law firm position did not bar his service, generating media reports that Mueller had been cleared to serve. McGahn recalled that around the same time, the President complained about the asserted conflicts and prodded McGahn to reach out to Rosenstein about the issue. McGahn said he responded that he could not make such a call and that the President should instead consult his personal lawyer because it was not a White House issue. Contemporaneous notes of a May 23, 2017 conversation between McGahn and the President reflect that McGahn told the President that he would not call Rosenstein and that he would suggest that the President not make such a call either.
+
+[ Don McGahn, then the White House counsel, again denied a presidential request to interfere at the Justice Department. — Susan Davis ]
+
+Sessions kept resignation letter ready
+
+In the report: Page 308
+
+By the end of that weekend, Priebus recalled that the President relented and agreed not to ask Sessions to resign. Over the next several days, the President tweeted about Sessions. On the morning of Monday, July 24, 2017, the President criticized Sessions for neglecting to investigate Clinton and called him "beleaguered." On July 25, the President tweeted, "Attorney General Jeff Sessions has taken a VERY weak position on Hillary Clinton crimes (where are E-mails & DNC server) & Intel leakers!" The following day, July 26, the President tweeted, "Why didn't A.G. Sessions replace Acting FBI Director Andrew McCabe, a Comey friend who was in charge of Clinton investigation." According to Hunt, in light of the President's frequent public attacks, Sessions prepared another resignation letter and for the rest of the year carried it with him in his pocket every time he went to the White House.
+
+[ President Trump's relationship with his first attorney general was fraught. Sessions recused himself from overseeing the Russia investigation because he couldn't be involved in an investigation into a campaign of which he had been a part. That outraged Trump and nearly brought Sessions' tenure to an early end — but ultimately Sessions hung on until November 2018. However, Sessions considered his situation so delicate that, as this passage describes, he had his resignation letter on his person every time he went to the White House, in case he needed it. — Philip Ewing ]
+
+Rob Porter ignores directive
+
+In the report: Page 320
+
+Because Porter knew [Rachel] Brand, the President asked him to sound her out about taking responsibility for the investigation and being Attorney General. Contemporaneous notes taken by Porter show that the President told Porter to "Keep in touch with your friend," in reference to Brand. Later, the President asked Porter a few times in passing whether he had spoken to Brand, but Porter did not reach out to her because he was uncomfortable with the task.
+
+[ Another instance of a Trump aide ignoring a presidential request. — Susan Davis ]
+
+Trump does not recall
+
+In the report: Page 431
+
+I have no recollection of being told during the campaign that any foreign government or foreign leader had provided, wished to provide, or offered to provide tangible support to my campaign.

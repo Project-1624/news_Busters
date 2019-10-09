@@ -1,0 +1,50 @@
+Why Do Short-Term Health Insurance Plans Have Lower Premiums Than Plans That Comply with the ACA?
+The Trump administration earlier this year issued a regulation that expands the availability of “short-term” health insurance plans that do not have to comply with any of the rules in the Affordable Care Act (ACA) for plans sold in the individual market. Specifically, the regulation allows short-term plans to be offered for up to 364 days and renewed at the discretion of the insurer for up to three years. Short-term plans are also expected to be more attractive now that ACA’s individual mandate penalty has been repealed, since people previously enrolling in these plans were liable for the penalty.
+
+Short-term plans pose tradeoffs for consumers. On the one hand, they typically have substantially lower premiums than ACA plans. On the other hand, they exclude people with pre-existing conditions — an estimated 27% of all non-elderly adults — and offer more limited benefits than ACA plans.
+
+In this analysis, we quantify the effects of the eligibility rules and more limited benefits generally found in short-term plans on the premiums in those plans. We estimate that by screening out people with pre-existing conditions and providing less comprehensive benefits, insurers may be able to offer short-term plans at premiums 54% lower than ACA-compliant plans.
+
+Denial of Coverage to People with Pre-Existing Conditions
+
+Short-term plans generally limit coverage of pre-existing conditions in two ways: by denying insurance altogether to people with pre-existing conditions, and by excluding coverage of pre-existing conditions for people who are offered a policy. By covering primarily people who are healthy at the time they apply, short-term plans have much lower claims costs than ACA-compliant plans and can charge substantially lower premiums.
+
+We estimate conservatively that excluding coverage of pre-existing conditions results in 38% lower premiums relative to ACA-compliant plans.
+
+Our estimate is derived by comparing average health care expenses paid by insurance for people with private health insurance overall – which includes a mix of both healthy and sick people in individual and employer-based plans – to average expenses for people who do not have a pre-existing condition that would have led to a denial of insurance before the ACA. The estimate is conservative because it assumes that the ACA’s risk pool includes a proportionate mix of healthy and sick enrollees, while it is likely that actual enrollment in ACA individual market plans are disproportionately sick. To the extent the current ACA risk pool is sicker than average, the potential reduction in premiums in short-term plans that exclude people with pre-existing conditions could be greater. If insurers start to offer guaranteed renewable short-term policies, the premium advantage would moderate as some enrollees develop health conditions over time. However, our review of products now on the market suggests that insurers are generally not yet offering a renewal option.
+
+Limited Benefits
+
+Short-term plans often exclude or severely limit benefits that ACA-compliant plans are required to cover, including prescription drugs, maternity care, mental health, and substance use treatment. Excluding people with pre-existing conditions eliminates a substantial amount of expenses in each of these benefit categories, but excluding the categories altogether further reduces spending and premiums.
+
+Eliminating prescription drug coverage reduces premiums by an estimated 13%, after accounting for the reduction from excluding people with pre-existing conditions. This estimate is based on analysis of prescription drug expenses paid by private insurance for people without pre-existing conditions. Since the survey data on which this estimate is based do not account for rebates provided by drug manufacturers to insurance companies, it is likely slightly overstated.
+
+Maternity expenses account for an estimated 3.4% of claims expenses in private insurance plans. However, because women who are pregnant at the time they apply for coverage would be excluded, the effect on premiums would be approximately one-quarter of that amount, or about 0.85%.
+
+Mental health and substance abuse treatment account for 4.2% of claims expenses. It is difficult to estimate how much an insurance plan would pay for mental health and substance abuse, once people with pre-existing conditions (e.g., severe mental illness or a history of alcohol or substance abuse with recent treatment) are excluded. We assume half of the claims expenses for these services, or 2.1% total expenses, would be eliminated if plans did not cover mental health and substance abuse treatment.
+
+In total, we estimate that the benefits often excluded or limited in short-term plans could reduce premiums by about 16%.
+
+Other Factors Affecting Premiums
+
+Short-term plans can be purchased with a variety of features, which will also affect the premiums they charge, including:
+
+Deductibles, coinsurance, and copays. Higher or lower levels of patient cost-sharing than in standard ACA-compliant plans (i.e., bronze, silver, and gold) will result in different premiums. Since short-term plans do not have to cap patient out-of-pocket costs like ACA-compliant plans, they can be purchased with very high deductibles and lower premiums.
+
+Higher or lower levels of patient cost-sharing than in standard ACA-compliant plans (i.e., bronze, silver, and gold) will result in different premiums. Since short-term plans do not have to cap patient out-of-pocket costs like ACA-compliant plans, they can be purchased with very high deductibles and lower premiums. Dollar limits on coverage. Short-term plans can and generally do impose annual limits on benefits, which results in lower premiums. In some cases, an enrollee can choose the level of the limit. Short-term plans also in some cases cap what they will pay for a day in the hospital or a physician visit, which lowers premiums but could result in balance billing for patients.
+
+Age and gender rating. The ACA prohibits premiums from varying by gender and limits the variation in premiums due to age to a ratio of three to one. Short-term plans are not subject to those restrictions.
+
+Medical loss ratio. Individual market insurers must have a medical loss ratio of at least 80% — meaning 80% of premiums are spent on health care expenses – or pay rebates to consumers. Short-term plans can devote a larger share of premiums to overhead and profit, which may push premiums up.
+
+Conclusion
+
+Short-term health insurance plans present a tradeoff to consumers – lower premiums in exchange for more limited coverage and less protection than ACA-compliant plans. Overall, we estimate that short-term plans could provide coverage with fewer benefits at premiums 54% lower than ACA-compliant plans. However, the bulk of these premium savings result from exclusion of people with pre-existing conditions, for whom short-term plans are not an option.
+
+The lower premiums will likely prove attractive to people who are healthy, especially those buying their own coverage now who have incomes too high to qualify for ACA premium subsidies. If such individuals opt for short-term plans and then become seriously ill or injured, however, they could face higher out-of-pocket costs.
+
+To the extent short-term plans siphon off healthy enrollees attracted by lower premiums, ACA-compliant plans will be left with a sicker pool of enrollees, and individuals with pre-existing conditions not eligible for subsidies will face higher premiums.
+
+Methods
+
+Average total spending and prescription drug spending by private insurance come from the 2015 Medical Expenditure Panel Survey (MEPS). These spending averages are for people ages 18 to 64, with nine or more months of private insurance and zero months of Medicaid in 2015. For the purposes of this analysis, people with pre-existing conditions are those who have at least one declinable health condition, based on ICD9 codes, condition classification codes, and BMI data from MEPS.

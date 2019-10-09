@@ -1,0 +1,86 @@
+Criminal Records of Homicide Offenders
+Abstract
+
+Context Homicide prevention strategies can be either targeted toward high-risk groups or addressed to the population at large. One high-risk group of particular interest is adults with a criminal record. But the prevalence of a criminal record among homicide offenders has not been reliably quantified, nor has the prevalence of criminal record in the general population.
+
+Objective To determine what portion of the homicide problem would be addressed by interventions linked to arrest or conviction.
+
+Design, Setting, and Participants A case-control analysis was performed using a comprehensive data set of all arrests and felony convictions in Illinois for 1990-2001. Cases were defined as Illinois residents aged 18 to 64 years who were arrested for homicide in 2001. Controls were all other Illinois residents aged 18 to 64 years in 2001. Illinois criminal and juvenile record information for cases and controls was compiled for 1990-2000. Five definitions of previous record were considered (arrest, arrest for a violent crime, 5 or more arrests with at least 1 for a violent crime, felony conviction, and violent-felony conviction), each measured for 1990-2000 and for 1996-2000.
+
+Main Outcome Measure The population-attributable risk: the portion of homicide offenses that would be eliminated by a hypothetical intervention that reduced the offending risk of individuals with a record to the offending risk of those who lack a record.
+
+Results For 1990-2000, 42.6% of 884 cases had at least 1 felony conviction compared with 3.9% of nearly 7.9 million controls, for a population-attributable risk of 40.3% (95% CI, 37.0%-43.8%); among cases, 71.6% had experienced any arrest from 1990-2000 compared with 18.2% of controls, for a population-attributable risk of 65.3% (95% CI, 61.6%-68.8%). For 1996-2000, the population-attributable risk among individuals with a felony conviction or any arrest was 31.0% (95% CI, 27.9%-34.2%) and 58.5% (95% CI, 54.9%-62.1%), respectively.
+
+Conclusions Interventions after arrest or conviction, such as supervised release, imprisonment, correctional programs, or bans on firearm possession, are targeted toward a group that has relatively high incidence of lethal violence, but they leave a large portion of the problem untouched.
+
+Homicide is a serious public health problem in the United States, with 17 638 victims in 2002.1 Programs to prevent homicide can be distinguished by whether they are addressed to the general public or are targeted toward individuals who are considered high risk because of their previous criminal involvement. For example, federal gun laws incorporate both approaches; there are general provisions, such as the near prohibition on the private possession of fully automatic weapons, and targeted provisions, such as the ban on possession of any firearm by convicted felons and domestic violence offenders. Similarly, the criminal law poses a general threat of punishment to any adult contemplating criminal violence but targets individuals with convictions for more severe sentences. Other criminal justice interventions are highly targeted, affecting only individuals who are actually arrested or convicted: mandated drug programs and other rehabilitation-oriented programs, incarceration, parole and probation supervision, and so forth.
+
+Although the criminology literature includes a number of studies of the criminal histories of select groups of homicide offenders,2- 7 previous studies have typically dealt with special subsets of homicide offenders, provided few specifics on criminal record, and lacked comparable information for the general population. As a result, this literature offers little guidance on the relative scope of targeted vs general prevention strategies in addressing the homicide problem. Specifically, how much would the homicide rate be reduced by a hypothetical intervention that eliminated the excess risk of homicide offending among people with a criminal record, defined, for example, by felony conviction within the previous decade? To answer this question, we conducted a case-control study comparing the prevalence of criminal histories among homicide offenders to the prevalence of criminal histories among the general population.
+
+Methods
+
+The data include all arrests of juveniles and adults in Illinois from 1990-2001. They were extracted from the Illinois State Police mainframe computer by a special program written by the Illinois Criminal Justice Information Authority and are stored at the Chapin Hall Center for Children, University of Chicago. The specific data files used in our analysis are described in more detail elsewhere.8
+
+Every “arrest event” included in these data files was assigned a unique identification number. Every arrestee was also assigned a unique identification number by the Illinois State Police that was the basis for compiling an individual’s complete arrest and conviction record over time. (The identity of arrestees is routinely confirmed by the police by use of fingerprint data.) Details on the arrest event included information on the date of arrest and the criminal charges initially filed against the arrestee. A separate data file compiled from reports from the state's prosecuting attorney's offices lists additions or deletions to the criminal charges filed against arrestees for each arrest event. Another data file reported separately by the court clerks provided information on court hearings and dispositions and was the basis for determining convictions.
+
+All individuals arrested for murder or manslaughter in Illinois in 2001 were identified in the arrest data files for that year and linked to their arrests and convictions in Illinois for 1990-2000. We defined the cases as just those homicide arrestees who were Illinois residents aged 18 to 64 years. Of the 1032 individuals arrested for homicide in 2001, we excluded 32 who were out-of-state residents, 110 who were younger than 18 years, and 6 who were older than 64 years. Arrestees younger than 18 years were excluded because they are too young to have a criminal history that can be meaningfully compared with those who are older.
+
+The data on court dispositions are somewhat less complete than the data on arrests. To deal with this problem of missing data, we generated 2 sets of estimates of the prevalence of felony convictions (and convictions for violent felonies) that bracket the true prevalence; the low estimate assumed no conviction in cases in which the data were unclear, and the high estimate assumed a conviction in these cases. Disposition was unclear in this sense in 56 046 instances, 22.6% of the known felony convictions. For the sake of brevity, and because in practice it made little difference in the pattern of results, we report only the high estimates.
+
+We computed the prevalence of an arrest record for the controls (the Illinois resident population aged 18 to 64 years in 2001 who were not arrested for homicide in that year) by counting all individuals who were arrested at least once in Illinois from 1990-2000 and who were between 18 and 64 years on April 15, 2001, and dividing by the state population in this age range. We also computed the prevalence of arrest from 1996-2000. Similarly, we computed the prevalence of other types of criminal record for 1990-2000 and 1996-2000: arrest for a violent crime (including homicide, rape, robbery, and assault); 5 or more arrests, including a violent crime arrest; felony conviction; and felony conviction for a violent crime.
+
+The Illinois population for 2001 for residents aged 18 to 64 years was estimated from 2 sources. The noninstitutionalized population was estimated from the US Census Bureau’s American Community Survey for 2001.9 The institutionalized population is not included in the American Community Survey. We estimated it from the Census Bureau’s public use microfile data for 200010 on the assumption that the institutionalized population did not change in size or composition between 2000 and 2001.
+
+The prevalence of a record among cases (homicide arrestees) and controls (the population at large) were compared, and attributable risks were computed.11 (The population-attributable risk is the proportion of homicides that would be eliminated if the homicide risk of those with a record dropped to the rate of those without a record.) We used SAS software, version 9.1 (SAS Institute Inc, Cary, NC).
+
+Results
+
+There were 884 cases and 7 879 478 controls. From 1990-2000, 42.6% of cases and 3.9% of controls had at least 1 felony conviction, implying a population-attributable risk of 40.3% (95% CI, 37.0%-43.8%) (Table). For every definition of record, the population-attributable risk is less when record is defined on the 5-year interval 1996-2000 than on the 11-year interval 1990-2000. It differs widely across the 5 definitions of record, depending mostly on the prevalence of that record among cases. For example, for records defined on the interval 1996-2000, the population-attributable risk is 58.5% for arrest (95% CI, 54.9%-62.1%), 31.0% for felony conviction (95% CI, 27.9%-34.2%), and 5.8% for violent-felony conviction (95% CI, 4.5%-7.7%).
+
+Comment
+
+These estimates of population-attributable risk are useful in assessing conflicting perspectives in the literature about the importance of general as opposed to targeted prevention strategies for homicide.
+
+Some observers have characterized most homicide offenders as ordinary citizens who kill in a moment of rage or sudden impulse when provoked by acquaintances or relatives.12- 15 This perspective seems to be supported by Federal Bureau of Investigation data indicating that about half of all homicides are committed by an acquaintance or relative of the victim, more than a quarter of all female victims are killed by boyfriends or husbands, and arguments precipitate about a third of all homicides.16 This type of evidence has been offered in support of increased controls on firearms commerce, possession, and use in the general population to forestall lethal attacks by generally nonviolent citizens.12- 15
+
+In contrast, there is a large body of research evidence documenting the previous criminal justice system involvement of a majority of homicide offenders.3,6,7,17- 20 Most domestic homicides are preceded by a history of assaults,20,21 and “acquaintance” homicides often turn out to be killings among rival gang members, drug dealers, or organized crime figures.22,23 This evidence supports an intervention strategy targeted toward serious offenders.
+
+Our findings provide some support to both perspectives. Homicide offending in Illinois is certainly concentrated among individuals with a criminal record. The prevalence of a serious criminal record among homicide offenders is far higher than for the general population. Nonetheless, a large part of the homicide problem lies beyond the reach of any preventive treatment that is limited to individuals who have been arrested or convicted. For example, just 32.5% of homicide arrestees have been convicted of a felony in the previous 5 years. An intervention that reduced the homicide risk of felons to that of the general population would reduce the homicide rate by just 31.0%. Such findings indicate the potential importance of general prevention strategies. Of course, whether any prevention program is worthwhile depends on its effectiveness in influencing behavior of the target population and on its cost.
+
+There are several limitations to our study, stemming from the nature of the data. First, the identification of homicide offending with homicide arrest leads to 2 types of misclassification. An unknown fraction of homicide arrestees in Illinois in 2001 was not factually guilty, and hence some individuals are incorrectly classified as “cases.” And some proportion of killers in 2001 were not arrested for homicide in that year so that a relatively small number of “controls” are in fact killers. Some indication of the magnitude of the latter problem is given by the fact that 60.2% of Midwest-region homicides were cleared by arrest in 2001.24 For our purposes, the main concern is that individuals who were arrested in 2001 were not strictly representative of the population of killers with respect to record.
+
+Second, we have no information on arrests or convictions occurring in other states. That omission is not necessarily relevant to assessing the opportunities available to Illinois state agencies to prevent lethal violence through interventions in the lives of individuals arrested or convicted. But an out-of-state record may be relevant to sentencing options and to federal law governing firearms possession. (In federal law, any conviction for domestic violence and any conviction for a felony bar an individual from obtaining or possessing a firearm.25)
+
+Third, our method for estimating the prevalence of an Illinois criminal record among Illinois residents in 2001 has a positive bias of unknown magnitude. We tabulated the number of individuals who were arrested or convicted in Illinois during a specified period and divided by the resident population in 2001. Yet not all individuals arrested in Illinois during the given period were living there in 2001; there was attrition because of death and relocation out of state. This problem does not apply to the cases, because all of them are identified as individuals. Thus, homicide arrest in Illinois is somewhat more concentrated among individuals with an Illinois criminal record than indicated by our statistics. As a logical matter, this bias should be smaller for record defined for the 5-year period (1996-2000) than for the 11-year period (1990-2000).
+
+Finally, we have limited our analysis to the record of arrests and convictions. There are other opportunities for official intervention in the lives of dangerous people, including civil restraining orders and court-ordered hospitalization for certain kinds of mental illness.26,27
+
+Conclusion
+
+Interventions after arrest or conviction, such as mandatory drug treatment, supervised release, imprisonment, correctional programs, or bans on firearm possession, are targeted toward a group that has relatively high incidence of lethal violence, but they leave a large portion of the problem untouched. Broader prevention strategies, including general deterrence and the regulation of markets for “criminogenic” commodities (firearms, alcohol, and drugs), may also be warranted as part of a comprehensive strategy.
+
+Back to top Article Information
+
+Corresponding Author: Philip J. Cook, PhD, Sanford Institute of Public Policy, Duke University, Durham, NC 27708-0245 (pcook@duke.edu).
+
+Author Contributions: Drs Cook and Ludwig had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Cook, Ludwig, Braga.
+
+Acquisition of data: Ludwig.
+
+Analysis and interpretation of data: Cook, Ludwig, Braga.
+
+Drafting of the manuscript: Cook, Ludwig, Braga.
+
+Critical revision of the manuscript for important intellectual content: Cook, Ludwig, Braga.
+
+Statistical analysis: Cook, Ludwig.
+
+Administrative, technical, or material support: Ludwig, Braga.
+
+Study supervision: Ludwig.
+
+Financial Disclosures: None reported.
+
+References

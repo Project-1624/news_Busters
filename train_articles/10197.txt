@@ -1,0 +1,48 @@
+Analyzing How ISIS Recruits Through Social Media
+A team of University of Miami researchers has developed a model to identify behavioral patterns among serious online groups of ISIS supporters that could provide cyber police and other anti-terror watchdogs a roadmap to their activity and indicators when conditions are ripe for the onset of real-world attacks.
+
+The researchers, who identified and analyzed second-by-second online records of 196 pro-ISIS groups operating during the first eight months of 2015, found that even though most of the 108,000-plus individual members of these self-organized groups probably never met, they had a striking ability to adapt and extend their online longevity, increase their size and number, reincarnate when shut down—and inspire “lone wolves” with no history of extremism to carry out horrific attacks like the nation’s deadliest mass shooting at a gay nightclub in Orlando this week.
+
+“It was like watching crystals forming. We were able to see how people were materializing around certain social groups; they were discussing and sharing information—all in real-time,” said Neil Johnson, a physicist in the College of Arts and Sciences who uses the laws of physics to study the collective behavior of not only particles but people. “The question is: Can there be a signal of how people are coming collectively together to do something without a proper system in place?”
+
+The answer­­—according to the study, “New online ecology of adversarial aggregates: ISIS and beyond,” to be published in the journal Science on June 17—is yes.
+
+Generalizing a mathematical equation commonly used in physics and chemistry to the development and growth of ad hoc pro-ISIS groups, Johnson and his research team witnessed the daily interactions that drove online support for these groups, or “aggregates,” and how they coalesced and proliferated prior to the onset of real-world campaigns.
+
+The researchers suggest that by concentrating just on these relatively few groups of serious followers—those that discuss operational details like routes for financing and avoiding drone strikes—cyber police and other anti-terrorist watchdogs could monitor their buildup and transitions and thwart the potential onset of a burst of violence.
+
+“This removes the guess work. With that roadmap, law enforcement can better navigate what is going on, who is doing what, while state security agencies can better monitor what might be developing,” Johnson said. “So the message is: Find the aggregates—or at least a representative portion of them—and you have your hand on the pulse of the entire organization, in a way that you never could if you were to sift through the millions of Internet users and track specific individuals, or specific hashtags,” Johnson said.
+
+While the Johnson team concentrated on the ecology of collective behavior, not on single individuals, he said their roadmap could eventually help security officials track individuals like Omar Mateen, who claimed allegiance to ISIS and other extremist groups while killing 49 people and wounding 53 others at Orlando’s Pulse nightclub early Sunday. Authorities say the New York-born Florida man was a lone actor who was radicalized online.
+
+“Our research suggests that any online ‘lone wolf’ actor will only truly be alone for short periods of time,” Johnson said. “As a result of the coalescence process that we observe in the online activity, any such lone wolf was either recently in an aggregate or will soon be in another one. With time, we would be able to track the trajectories of individuals through this ecology of aggregates.”
+
+UM researchers studied the connection and
+
+communication of ISIS-supporting online social media
+
+groups, such as this one, on VKontakte, Europe's
+
+largest online social networking service, based in Russia.
+
+For the study, Johnson and his research team monitored pro-ISIS groups on VKontakte, the largest online social networking service in Europe, which is based in Russia and has more than 350 million users from multiple cultures who speak multiple languages. Unlike on Facebook, which very quickly shuts down these groups, they are able to survive longer on VKontakte.
+
+The researchers began their online search of pro-ISIS chatter manually, identifying specific social media hashtags, in multiple languages, which they used as “signals” to trace the more serious groups. Study co-author Stefan Wuchty, a computer science professor in the College of Arts and Sciences and member of the Center for Computational Science, compared the hashtag search to throwing a stone in a lake, watching the ripples, then following each one.
+
+The hashtags were tracked to the online groups, and the data was fed into a software system that mounted the search; the results were repeated until the chase led back to groups previously traced in the system. The mathematical equation Johnson and his team borrowed from chemistry and physics illustrated the fluctuation of online groups and pointed to possible predictions.
+
+“The mathematics perfectly describes what we saw in real-time—how big and quickly these online groups grew and how quickly they were shut down by agencies or other monitoring groups,” Johnson said.
+
+As cyber police or other anti-terror entities got better at shutting down the groups, Johnson and his team watched the groups reincarnate by changing their names and identities, or shutting themselves down and going quiet, as if they were in stealth mode, only to reappear under a different identity later.
+
+“Much of the scientific community is focusing on different explanations as to why social media is so important, and I think we found research that presents a kind of crystallization method, looking at the dynamics of these groups and how they crystalize, appear, and morph into other groups.”
+
+Neil Johnson wrote about his research for The Conversation, an academic blog. Read his story, Disrupting Pro-ISIS Online ‘Ecosystems’ Could Help Thwart Real-World Terrorism.
+
+Johnson and his team’s quest to distinguish serious pro-ISIS support from casual chatter began largely by coincidence in 2014, when he was working on a grant from the U.S. Intelligence Advanced Research Projects Activity to develop a model for predicting unrest or mass protest based on online activity. Just as that grant was concluding, ISIS emerged on the world stage, becoming a feared and familiar household name after the beheading of one then another U.S. journalist on camera. More would follow.
+
+The second journalist to lose his life at the hands of ISIS, Miami native Steven Sotloff, has ties to the University of Miami. To honor their son’s work overseas, his parents established the 2Lives: Steven Joel Sotloff Memorial Foundation, which awarded its first Steven Joel Sotloff Memorial Endowed Scholarship to a UM student in the School of Communication.
+
+In addition to Johnson and Wuchty, other coauthors of the Science study are UM’s Yulia Vorobyeva and Nicolas Velazquez, of the Department of International Studies; Minzhang Zheng, Andrew Gabriel, Hong Qi, Pedro Manrique, and Chaoming Song, all from the Department of Physics; Elvira Restrepo, of the Department of Geography and Regional Studies; and from Harvard University’s Department of Government, Daniela Johnson.
+
+Johnson credited the College of Arts and Sciences Complexity Initiative, under which several of the co-authors were hired as faculty, for enabling researchers from such diverse disciplines to tackle such a significant real-world problem.

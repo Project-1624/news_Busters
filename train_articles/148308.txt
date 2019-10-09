@@ -1,0 +1,30 @@
+iPhone Performance and Battery Age
+A Reddit post from last week has sparked a discussion regarding iPhone performance as a function of battery age. While we expect battery capacity to decrease as batteries age, we expect processor performance to stay the same. However, users with older iPhones with lower-than-expected Geekbench 4 scores have reported that replacing the battery increases their score (as well as the performance of the phone). What’s going on here? How many phones are experiencing decreased Geekbench 4 score?
+
+To answer these questions I’ve plotted the kernel density of Geekbench 4 single-core scores for the iPhone 6s and the iPhone 7 running different versions of iOS. Scores obtained in low-power mode are not included in the distribution.
+
+iPhone 6s
+
+Here are the charts for the iPhone 6s:
+
+The distribution of iPhone 6s scores for iOS 10.2.0 appears unimodal with a peak around the average score. However, the distribution of iPhone 6s scores for iOS 10.2.1 appears multimodal, with one large peak around the average and several smaller peaks around lower scores. Under iOS 11.2.0 the effect is even more pronounced.
+
+iPhone 7
+
+Here are the charts for the iPhone 7:
+
+The distribution of iPhone 7 scores under iOS 10.2.0, iOS 10.2.1, and iOS 11.1.2 appears identical. However, the distribution changes with iOS 11.2.0 and starts to look like the iPhone 6s distribution from 10.2.1.
+
+Performance and Battery Age
+
+So what’s going on here?
+
+First, it appears the problem is widespread, and will only get worse as phones (and their batteries) continue to age. See, for example, the difference between the distribution of iPhone 6s scores between 10.2.1 and 11.2.0.
+
+Second, the problem is due, in part, to a change in iOS. The difference between 10.2.0 and 10.2.1 is too abrupt to be just a function of battery condition. I believe (as do others) that Apple introduced a change to limit performance when battery condition decreases past a certain point. Why did Apple do this? kadupse on Reddit offers the following explanation:
+
+Many iPhone 6s devices were shutting down unexpectedly, even after the battery replacement program (Which many people weren’t entitled to use). Because degraded batteries last much less and end up with a lower voltage Apple’s solution was to scale down CPU performance, it doesn’t solve anything and is a bad experience… but it’s better than having your device shutdown at 40% when you need it the most.
+
+Apple acknowledged the sudden shutdown issue that affected the iPhone 6 and iPhone 6s earlier this year. However, does the same issue affect the iPhone 7? Apple appears to have added a similar change to iOS 11.2.0 for the iPhone 7.
+
+If the performance drop is due to the “sudden shutdown” fix, users will experience reduced performance without notification. Users expect either full performance, or reduced performance with a notification that their phone is in low-power mode. This fix creates a third, unexpected state. While this state is created to mask a deficiency in battery power, users may believe that the slow down is due to CPU performance, instead of battery performance, which is triggering an Apple introduced CPU slow-down. This fix will also cause users to think, “my phone is slow so I should replace it” not, “my phone is slow so I should replace its battery”. This will likely feed into the “planned obsolescence” narrative.

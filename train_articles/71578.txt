@@ -1,0 +1,153 @@
+Annual Business Employment Dynamics Data
+
+The annual gross job gains and gross job losses measure the net change in employment at the establishment level from the third month of a quarter in the previous year to the third month of the same quarter in the current year. The BLS publishes annual BED data based on March-to-March changes once a year with the release of the first quarter BED data. The annual data based on over-the-year changes for other quarters of the year are available upon request. The definitions and methodology in measuring annual gross job gains and gross job losses are similar to the quarterly measures. The linkage method considers all predecessor and successor relations that may come about due to changes in ownership and corporate restructuring over the entire year. At the establishment level, some of the quarterly job gains and job losses are offset during the estimation over the year. Therefore, the sum of four quarters of gross job gains and gross job losses are not equal to annual gross job gains and gross job losses. The net change in employment over the year, however, is equal to the sum of four quarterly net changes on a not seasonally adjusted basis. To view data tables or charts for a major industry or a statewide total click on one of the links below. Or, to download a file of all the data click here:
+
+Flat file containing all Annual Data
+
+Flat file format
+
+Series Id definition
+
+Annual BED data for nation by major industry
+
+Total private
+
+Goods-producing
+
+Natural resources and mining
+
+Construction
+
+Manufacturing
+
+Service-providing
+
+Wholesale trade
+
+Retail trade
+
+Transportation and warehousing
+
+Utilities
+
+Information
+
+Financial activities
+
+Professional and business services
+
+Education and health services
+
+Leisure and hospitality
+
+Other services (except public administration)
+
+Annual BED data by state
+
+Links to state level data
+
+Alabama
+
+Alaska
+
+Arizona
+
+Arkansas
+
+California
+
+Colorado
+
+Connecticut
+
+Delaware
+
+District of Columbia
+
+Florida
+
+Georgia
+
+Hawaii
+
+Idaho
+
+Illinois
+
+Indiana
+
+Iowa
+
+Kansas
+
+Kentucky
+
+Louisiana
+
+Maine
+
+Maryland
+
+Massachusetts
+
+Michigan
+
+Minnesota
+
+Mississippi
+
+Missouri
+
+Montana
+
+Nebraska
+
+Nevada
+
+New Hampshire
+
+New Jersey
+
+New Mexico
+
+New York
+
+North Carolina
+
+North Dakota
+
+Ohio
+
+Oklahoma
+
+Oregon
+
+Pennsylvania
+
+Puerto Rico
+
+Rhode Island
+
+South Carolina
+
+South Dakota
+
+Tennessee
+
+Texas
+
+Utah
+
+Vermont
+
+Virginia
+
+Virgin Islands
+
+Washington
+
+West Virginia
+
+Wisconsin
+
+Wyoming

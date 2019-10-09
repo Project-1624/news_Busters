@@ -1,0 +1,18 @@
+Our Work
+GovTrack data was used in the production of these scores.
+
+Notes:
+
+Data on which Bipartisan Index lifetime scores are based begins with the 103rd Congress (1993-1994). Consequently, Senate service before 1993 does not factor into a Senator’s lifetime score.
+
+Lifetime scores are the average of a Senator’s Bipartisan Index scores for each Congress in which they served for at least 10 months.
+
+Senators do not receive a score for Congresses in which they served fewer than 10 months.
+
+Beginning in the 113th Congress (2013-2014), the scores of Senators who sponsored fewer than 3 bills are excluded (applies only to Jeff Sessions).
+
+The scores of the Majority Leader and the Minority Leader in each Congress are excluded because their roles in the legislative process impose on them different sponsorship and co-sponsorship practices than other members. But Senators who have served as Majority and/or Minority Leader are scored on Congresses in which they did not serve in one of those leadership roles.
+
+If a Senator served as Majority Leader and/or Minority Leader for less than half a Congress, his/her score from that Congress is counted in the lifetime score (applies only to Trent Lott in the 104th Congress).
+
+Senators who switched parties during a Congress are scored as a member of the party to which they belonged the longest during that Congress.

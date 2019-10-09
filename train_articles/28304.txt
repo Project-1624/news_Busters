@@ -1,0 +1,100 @@
+The Impact of the House ACA Repeal Bill on Enrollees’ Costs
+After eight years, the congressional majority has finally released its health care legislation. Their bill, the American Health Care Act, can now be compared side-by-side with the Affordable Care Act, or ACA, based on how it affects enrollees’ pocketbooks. It does not measure up well; the House bill would increase both total consumer costs and the risk of a financially devastating event.
+
+The congressional majority argues that by cutting back insurance standards, their bill would lower premiums. The Congressional Budget Office, or CBO, estimates that the bill would increase average premiums by 15 to 20 percent in 2018 and 2019, but that it would slightly lower average premiums by 10 percent by 2026. The bill would lower average premiums over the long run because older, costlier individuals who can no longer afford plans would drop out of the pool. Additionally, plans would cover a lower share of costs.
+
+Get the Latest on Health Care
+
+But premiums are only one component of enrollees’ overall costs. First, the level of tax credits affects how much enrollees would actually pay in premiums out of pocket. Second, the degree of insurance protection affects how much enrollees would pay in deductibles, copays, and other forms of cost-sharing.
+
+The Center for American Progress and independent experts analyzed the net financial impact of the House bill on enrollees. This net financial impact measures changes in premiums after the application of tax credits, plus cost-sharing.
+
+We estimate that the House bill would increase costs for the average enrollee by $3,174 in 2020, when the new program would go into effect. The impact would be particularly severe for older individuals age 55 to 64, whose costs would increase by $8,329. Individuals with income below 250 percent of poverty would see their costs increase by $4,815.
+
+Beyond 2020, these cost increases would escalate rapidly. Although they would vary significantly by state, the House bill would increase average costs significantly for individuals in every single state. For every year we examined, the bill would hit Alaska the hardest, followed by North Carolina, Oklahoma, Arizona, Wyoming, Nebraska, West Virginia, Tennessee, Alabama, and Montana.
+
+In this report, we present estimates of cost increases for enrollees in each state in 2020 and 2026.
+
+What the House bill changes
+
+The ACA includes three elements that affect the generosity of insurance. First, it requires insurers to cover a minimum share of costs, on average. This minimum actuarial value is set at 60 percent. Second, it provides tax credits that are pegged to the cost of a plan that covers 70 percent of costs. Third, it reduces cost-sharing levels for lower-income individuals with income between 100 percent and 250 percent of the federal poverty level.
+
+The combined effect of these elements is that the average actuarial value for individuals enrolled in nongroup policies is about 75 percent.
+
+The House bill would remove these elements. It would eliminate the minimum required actuarial value; eliminate cost-sharing reductions for lower-income individuals; and provide flat tax credits by age that are unrelated to any plan’s cost. According to the CBO, the combined effect of these changes is that the average actuarial value of plans would fall to 65 percent under the bill. As CBO explained, this change would increase deductibles and other out-of-pocket costs.
+
+The House bill would also relax the ACA’s limit on how much insurers can charge older individuals, a measure known as age rating. Currently, the ACA prohibits insurers from charging premiums for older individuals that are more than three times greater than premiums for younger individuals.
+
+The House bill would allow insurers to charge premiums for older individuals that are five times greater than premiums for younger individuals. This feature of the bill would increase premiums for older individuals and reduce premiums for younger individuals.
+
+Lastly, the House bill would eliminate the ACA’s individual mandate. Instead, individuals who have a gap in coverage greater than 63 days would face a penalty equal to 30 percent of premiums for 12 months.
+
+Methodology
+
+Step 1: Estimating costs under the Affordable Care Act
+
+We used data on premiums from the U.S. Department of Health and Human Services, or HHS, for silver-level plans—those that cover 70 percent of costs, on average. Then we applied the ACA’s tax credits, using data from the 2015 National Health Interview Survey, or NHIS, to estimate enrollment by age and income. We assumed that everyone in each income range had income in the middle of that range.
+
+We estimated total costs and cost-sharing in several steps. First, we estimated what premiums would be without the Affordable Care Act’s age bands. It is necessary to unlock premiums by age in order to calculate total costs and cost-sharing by age in the next step. Based on HHS guidance, this involves reducing premiums for young adults (age 18 to 25) by 25 percent on average and increasing premiums for the near elderly (age 55 to 64) by 25 percent on average.
+
+Second, we used these premiums to estimate total payments to providers and cost-sharing. Premiums represent the expected benefit costs that insurers will pay out plus an administrative load, which we assumed to be 20 percent.
+
+Insurer-paid benefit costs are therefore premiums less 20 percent. Because insurer-paid benefit costs represent 70 percent of total costs, total costs are equal to insurer-paid benefit costs divided by 0.70. Cost-sharing is then equal to total costs minus insurer-paid benefit costs. Using the same NHIS data on enrollment by age and income, we adjusted cost-sharing to account for cost-sharing reductions provided by the ACA.
+
+Step 2: Estimating costs under the House bill
+
+We projected premiums under the House bill using the CBO’s analysis. For 2020, we lowered the ACA’s premiums by 1.4 percent, which is the reduction per year that would result in the CBO’s estimated 10 percent reduction by 2026. For 2026, we referenced the premiums published in CBO’s table and extrapolated premiums for the remaining age groups.
+
+We then used these premiums to estimate total medical costs and cost-sharing, as we did in Step 1, above. But because the CBO estimates that the average actuarial value under the House bill is 65 percent, we used that percentage in the calculation.
+
+Finally, we applied tax credits to premiums under the House bill. We used the tax credit levels specified in the bill: $2,000 for individuals up to age 30; $2,500 for individuals age 30 to 39; $3,000 for individuals age 40 to 49; $3,500 for individuals age 50 to 59; and $4,000 for individuals older than age 60.
+
+These tax credits phase out for individuals with income above $75,000 and for those filing a joint return with income above $150,000. We treated households with at least two adults as joint filers. Whenever tax credit levels exceed premiums, we assumed that the excess could be deposited in health savings accounts to reduce cost-sharing levels, as specified in the House bill.
+
+To determine the impact of the House bill on families, we used NHIS data on family composition of exchange enrollees to group individuals into families. For each family type, we added up average costs based on the distribution of the age of each member. To display the results, we grouped families by age of the family head.
+
+Step 3: Estimating costs over time
+
+Because the House bill’s tax credits would actually start in 2020, we first applied them to premiums in that year. To estimate premiums in 2020, we inflated premiums using National Health Expenditure, or NHE, projections. For comparison with the ACA, we adjusted the ACA’s subsidy amounts using CBO estimates and NHE projections. We used the same methodology to provide estimates for 2026.
+
+Over time, the value of the new tax credits under the House bill would erode significantly. This is because they are indexed to grow with consumer inflation plus 1 percentage point, which is a rate much slower than the growth in medical costs. Under the ACA, by contrast, tax credits grow along with premiums and costs are capped as a percentage of income.
+
+Because premiums will rise between 2020 and 2026, consumers would pay more in premiums out of pocket under the House bill in 2026 than they would in 2020. By contrast, the ACA’s tax credit structure would help protect enrollees from future premium increases. These differences would compound over time.
+
+Step 4: Estimating costs by state
+
+We replicated the methodology that we used at the national level using data on premiums by state. The differences in the tax credit structures of the ACA and the House bill result in significant state-level variation.
+
+Under the ACA, tax credits are pegged to the cost of a plan in a consumer’s own local area. By contrast, under the House bill, tax credits are flat and do not vary to account for the actual cost of a plan in an area. As a result, in states with higher premiums, such as Alaska, the bill would result in a much bigger cost increase.
+
+When statewide premiums were not available for states that have their own exchanges, we used data on premiums from the Kaiser Family Foundation for major cities in those states. If states currently have their own age rating rules, we assumed that they would keep those rules. We assumed that all other states would adopt the limit under the House bill.
+
+Results
+
+Tables 1 and 2 in the Appendix display the results of our analysis for 2020 and 2026, respectively. The tables display results for selected groups of individuals and families.
+
+Although premiums would be lower under the House bill, this decrease would be offset by an increase in cost-sharing. Once the differences in tax credits and cost-sharing subsidies are accounted for, the bill would increase costs significantly. On top of this, shifting consumer spending from premiums to cost-sharing would greatly increase financial risk.
+
+The House bill would increase costs for the average enrollee by $3,174 in 2020. Cost increases would be much bigger for families across the board.
+
+The impact would be particularly severe on older individuals. This is because the bill’s tax credits would not nearly compensate for its changes in age rating. The bill would increase costs for individuals age 55 to 64 by $8,329 in 2020.
+
+Lower-income individuals would also be hit hard. This is because the bill’s tax credits are unrelated to income and the bill eliminates cost-sharing subsidies. The bill would increase costs for individuals with income below 250 percent of the federal poverty level by $4,815 in 2020.
+
+Our results reveal the extreme deficiencies in the House bill’s tax credit structure, as explained above. The cost increases would skyrocket over time because the bill’s tax credits would not keep pace with costs. The bill would increase average costs for individuals in every single state; the cost increases would be even bigger in many states because the bill’s tax credits would not account for higher costs in those states.
+
+For every year we examined, the 10 states where enrollees would face the highest cost increases would be Alaska, North Carolina, Oklahoma, Arizona, Wyoming, Nebraska, West Virginia, Tennessee, Alabama, and Montana (listed in descending order of cost increases).
+
+The House bill would hit enrollees in Alaska the hardest. Alaska has the highest premiums in the country, but the bill’s tax credits would not adjust for local pricing. Consider a 27-year-old in Alaska with income of $25,000. This person receives a tax credit of $7,884 under the ACA, but would receive only $2,000 under the House bill.
+
+As a result, in 2020, the House bill would increase costs in Alaska by $14,072 for individuals and by $32,322 for families. By 2026, these estimates would skyrocket to $19,646 for individuals and $45,472 for families.
+
+Conclusion
+
+Premium costs are only one component of total consumer costs; cost-sharing must also be taken into account. The House bill must be compared with the ACA using a measure of total consumer costs.
+
+There is a reason why the congressional majority took so many years to reveal their health care legislation. Now that their bill can be examined, it clearly does not compare favorably with the ACA. The CBO has already estimated that the House bill would cause millions of people to lose their coverage. But according to our analysis, it would also increase costs and financial risk significantly for those who remain insured.
+
+David Cutler is the Otto Eckstein Professor of Applied Economics at Harvard University. Topher Spiro is the Vice President for Health Policy at the Center for American Progress. Emily Gee is a Health Economist at the Center for American Progress.
+
+Appendix

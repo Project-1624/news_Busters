@@ -1,0 +1,24 @@
+OC Tax And Permit Search
+Parcel Search
+
+Parcel Information Server This website provides information on Taxes, Permits, Deeds, and Map data for individual parcels located within Oneida County Wisconsin.
+
+Help
+
+Search By Name:
+
+Last name: First name:
+
+Search By Address:
+
+House Number: To: Street Name: Municipality: Select Municipality CA-TOWN OF CASSIAN CR-TOWN OF CRESCENT EN-TOWN OF ENTERPRISE HA-TOWN OF HAZELHURST LT-TOWN OF LAKE TOMAHAWK LR-TOWN OF LITTLE RICE LY-TOWN OF LYNNE MI-TOWN OF MINOCQUA MO-TOWN OF MONICO NE-TOWN OF NEWBOLD NO-TOWN OF NOKOMIS PE-TOWN OF PELICAN PI-TOWN OF PIEHL PL-TOWN OF PINE LAKE RH-CITY OF RHINELANDER SC-TOWN OF SCHOEPKE ST-TOWN OF STELLA SU-TOWN OF SUGAR CAMP TL-TOWN OF THREE LAKES WB-TOWN OF WOODBORO WR-TOWN OF WOODRUFF
+
+Search By Parcel Number:
+
+Municipality: Select Municipality CA-TOWN OF CASSIAN CR-TOWN OF CRESCENT EN-TOWN OF ENTERPRISE HA-TOWN OF HAZELHURST LT-TOWN OF LAKE TOMAHAWK LR-TOWN OF LITTLE RICE LY-TOWN OF LYNNE MI-TOWN OF MINOCQUA MO-TOWN OF MONICO NE-TOWN OF NEWBOLD NO-TOWN OF NOKOMIS PE-TOWN OF PELICAN PI-TOWN OF PIEHL PL-TOWN OF PINE LAKE RH-CITY OF RHINELANDER SC-TOWN OF SCHOEPKE ST-TOWN OF STELLA SU-TOWN OF SUGAR CAMP TL-TOWN OF THREE LAKES WB-TOWN OF WOODBORO WR-TOWN OF WOODRUFF -
+
+Search By Map:
+
+To locate a parcel using a map, click on the “Map” button below. When you’ve found the parcel you are looking for click on it for additional information.
+
+Map

@@ -1,0 +1,1784 @@
+Gerrymandering
+Using data from the 2012, 2014, and 2016 election cycles, Extreme Maps finds that partisan bias resulting largely from the worst gerrymandering abuses in just a few battleground states provides Republicans a durable advantage of 16-17 seats in the current Congress, representing a significant portion of the 24 seats Democrats would need to gain control of the House in 2020.
+
+E XT R E M E M A P S
+
+by Laura Royden and Michael Li
+
+Brennan Center for Justice at New York University School of Law
+
+ABOUT THE BRENNAN CENTER FOR JUSTICE
+
+The Brennan Center for Justice at NYU School of Law is a nonpartisan law and policy institute that
+
+seeks to improve our systems of democracy and justice. We work to hold our political institutions and
+
+laws accountable to the twin American ideals of democracy and equal justice for all. The Centers work
+
+ranges from voting rights to campaign finance reform, from ending mass incarceration to preserving
+
+Constitutional protection in the fight against terrorism. Part think tank, part advocacy group, part cutting-
+
+edge communications hub, we start with rigorous research. We craft innovative policies. And we fight for
+
+them in Congress and the states, the courts, and in the court of public opinion.
+
+ABOUT THE BRENNAN CENTERS DEMOCRACY PROGRAM
+
+The Brennan Centers Democracy Program works to repair the broken systems of American democracy.
+
+We encourage broad citizen participation by promoting voting and campaign finance reform. We work
+
+to secure fair courts and to advance a First Amendment jurisprudence that puts the rights of citizens
+
+not special interests at the center of our democracy. We collaborate with grassroots groups, advocacy
+
+organizations, and government officials to eliminate the obstacles to an effective democracy.
+
+ABOUT THE BRENNAN CENTERS PUBLICATIONS
+
+Red cover | Research reports offer in-depth empirical findings.
+
+Blue cover | Policy proposals offer innovative, concrete reform solutions.White cover | White papers offer a compelling analysis of a pressing legal or policy issue.
+
+2017. This paper is covered by the Creative Commons Attribution-No Derivs-NonCommercial license (see http://creativecommons.
+
+org). It may be reproduced in its entirety as long as the Brennan Center is credited, a link to the Centers web page is provided, and no charge
+
+is imposed. The paper may not be reproduced in part or in altered form, or if a fee is charged, without the Centers permission. Please let
+
+the Brennan Center know if you reprint.
+
+ABOUT THE AUTHORS
+
+Laura Royden is a redistricting researcher in the Democracy Program. She focuses on quantitative
+
+approaches to studying and analyzing redistricting. Before joining the Brennan Center, she was a research
+
+assistant for Data-Smart City Solutions at the Harvard Kennedy School's Ash Center for Democratic
+
+Governance and Innovation. Royden holds an S.B. in urban studies & planning and a minor in political
+
+science from the Massachusetts Institute of Technology.
+
+Michael Li serves as Senior Counsel for the Brennan Centers Democracy Program, where he heads
+
+the Centers work on redistricting. He is a regular writer and commentator on redistricting and election
+
+law issues in numerous national outlets. Before joining the Brennan Center, Li practiced law in Dallas,
+
+Texas for over ten years and previously served as executive director of Be One Texas, a donor alliance
+
+that oversaw strategic and targeted investments in non-profit organizations working to increase voter
+
+participation and engagement in historically disadvantaged African-American and Hispanic communities
+
+in Texas. Li received his J.D., with honors, from Tulane University School of Law and his undergraduate
+
+degree in history from the University of Texas at Austin.
+
+ACKNOWLEDGEMENTS
+
+The Brennan Center gratefully acknowledges Laura and John Arnold, The Bauman Foundation, the
+
+Change Happens Foundation, Democracy Alliance Partners, The Educational Foundation of America,
+
+Ford Foundation, The Charles Evans Hughes Memorial Foundation, The Joyce Foundation, The JPB
+
+Foundation, The Kohlberg Foundation, the John D. and Catherine T. MacArthur Foundation, The Mai
+
+Family Foundation, The John and Wendy Neu Foundation, Open Society Foundations, The Schooner
+
+Foundation, Jon and Mary Shirley Foundation, Solidarity Giving, the Bernard and Anne Spitzer
+
+Charitable Trust, Wallace Global Fund, and Women Donors Network for their generous support of our
+
+redistricting work.
+
+The authors thank Wendy Weiser for her invaluable guidance and input throughout the drafting of
+
+this report. The authors also thank Thomas Wolf, Alexis Farmer, and Christopher Famighetti for their
+
+critical feedback and assistance. The authors are grateful to Jim Lyons and Naren Daniel for their support
+
+in editing and drafting this report, and Brennan Center President Michael Waldman for his insight in
+
+shaping the final product.
+
+TABLE OF CONTENTS
+
+Executive Summary 1
+
+Introduction 3
+
+Analysis 6
+
+A. Efficiency Gap Analysis 6
+
+B. Seats-to-Votes Curve Analysis 9
+
+C. Mean-Median Difference Analysis 12
+
+Conclusion 14
+
+Methodology 16
+
+A. Data Sources and General Notes on Calculations 16
+
+B. State Categorization 16
+
+C. Efficiency Gap 17
+
+D. Seats-to-Votes Curve 19
+
+E. Mean-Median Difference 20
+
+Appendix: Full Results 22
+
+A. Efficiency Gap 22
+
+B. Seats-to-Votes Curve 25
+
+C. Mean-Median Difference 28
+
+Endnotes 31
+
+EXECUTIVE SUMMARY
+
+Every decade, states redraw congressional maps after the decennial census. Redistricting allows districts
+
+to be rebalanced, ensuring in theory that all districts are both equally populated and representative. But
+
+redistricting also provides an enormous opportunity for politicians: the chance to redraw a district map
+
+means the opportunity to gerrymander and to manipulate a map to create a more favorable set of districts
+
+for themselves and for their party.
+
+Congressional maps were last redrawn en masse after the 2010 Census, and accusations of gerrymandering
+
+in states nationwide soon followed. Complaints about redistricting abuses ran the gamut from allegations
+
+that some maps had been drawn to favor incumbents to outrage at the sprawling and unnatural shapes of
+
+districts in others.
+
+This report focuses on one of the most egregious of these abuses: the manipulation of district lines to give
+
+the party drawing the map a share of seats grossly at odds with statewide election results, thus ensuring
+
+that one party is overrepresented and the other underrepresented in a delegation.
+
+To gauge where this type of gerrymandering is taking place and its magnitude, this report used election
+
+results in states with six or more congressional districts to assess the extent and the durability of partisan
+
+bias the degree of systematic advantage one party receives over another in turning votes into seats. For
+
+this analysis, this report used multiple quantitative measures of partisan bias to examine the 2012, 2014,
+
+and 2016 congressional elections. It also looked at the relationship between the body that drew the maps
+
+and the degree of bias observed. It is among the first analyses to use 2016 electoral data to examine maps,
+
+and the first report of its kind to measure maps using multiple measures of bias and to identify the handful
+
+of single-party controlled states that are responsible for nearly all of the bias in this decades maps.
+
+Our key findings include:
+
+This decades congressional maps are consistently biased in favor of Republicans.
+
+In the 26 states that account for 85 percent of congressional districts, Republicans derive a net
+
+benefit of at least 16-17 congressional seats in the current Congress from partisan bias. This
+
+advantage represents a significant portion of the 24 seats Democrats would need to pick up to
+
+regain control of the U.S. House of Representatives in 2018.
+
+Just seven states account for almost all of the bias.
+
+Michigan, North Carolina, and Pennsylvania consistently have the most extreme levels of
+
+partisan bias. Collectively, the distortion in their maps has accounted for seven to ten extra
+
+Republican seats in each of the three elections since the 2011 redistricting, amounting to one-
+
+third to one-half of the total partisan bias across the states we analyzed.
+
+Florida, Ohio, Texas, and Virginia have less severe partisan bias but jointly account for most of
+
+the remaining net extra Republican seats in the examined states.
+
+EXTREME MAPS | 1
+
+Single-party control of the redistricting process is closely linked with biased maps.
+
+The seven states with high levels of partisan bias are all states where one political party had sole
+
+control of the redistricting process. Court-ordered modifications to maps in Florida, Texas,
+
+and Virginia all originally drawn under sole Republican control have reduced but not
+
+entirely curbed these states partisan bias.
+
+States where Democrats had sole control of redistricting have high partisan bias within state
+
+congressional delegations, but the relatively small number of districts in these states creates a
+
+much smaller effect on partisan bias in the House overall.
+
+By contrast, maps drawn by commissions, courts, and split-control state governments exhibited
+
+much lower levels of partisan bias, and none had high levels of bias persisting across all three
+
+of the elections since the 2011 round of redistricting.
+
+There is strong evidence that the bias in this decades congressional maps is not accidental. With the
+
+exception of Texas, all of the most biased maps are in battleground states. These states routinely have
+
+close statewide elections and a fairly even distribution of partisanship across most of the state two
+
+factors that do not naturally suggest that there should be a large and durable underrepresentation of
+
+one political party.
+
+States with Consistent and High Partisan Bias in Current Congressional Maps
+
+Consistent and high partisan bias under one measure
+
+Consistent and high partisan bias under three measures
+
+2 | BRENNAN CENTER FOR JUSTICE
+
+INTRODUCTIONPartisan gerrymandering has long been a problematic facet of American politics.1 When a political partygains full control of the redistricting process, it can manipulate district boundaries to create maps thatsystematically advantage the party in control and lock in an advantage for the party in future elections.By carefully designing maps to benefit itself, a political party can entrench an unfair majority in a statelegislature or congressional delegation for the entire decade. Political parties thus have a clear incentiveto gerrymander in order to gain more favorable districts and additional seats. Technology and a growingflood of money into the redistricting process are, by broad consensus, only making the situation worse.2
+
+In the face of powerful incentives for partisan map-drawers to manipulate maps, voters often have been
+
+left without a remedy. Voters in some states have been able to use ballot initiatives to impose fairer
+
+rules or processes, but such options are available only in about half the states.3 Courts, likewise, have
+
+been reluctant to wade into the political thicket to police partisan gerrymandering and resolve these
+
+problems, in part because of a perceived difficulty of deciding when a map goes too far.4
+
+New quantitative measures of gerrymandering may offer a path forward. By providing ways to measure
+
+the extent of manipulation, these measures offer courts powerful new diagnostic tools. One promising
+
+approach looks at measuring partisan bias, or the gains one party receives based on the district map.
+
+Under this approach, district and/or statewide vote shares are used to determine whether one party had
+
+a systematic advantage in turning its votes into seats. In other words, partisan bias looks at whether each
+
+party is winning its fair share of seats, or if one party is more easily and unfairly winning extra seats.
+
+This report examines partisan bias in the congressional maps drawn by states with six or more districts
+
+after the 2010 Census, using congressional results from the 2012, 2014, and 2016 elections a
+
+mix of pro-Republican and pro-Democratic cycles to analyze maps under three of the quantitative
+
+measures that have been used by courts or social scientists to gauge partisan bias or skew.5 In addition
+
+to measuring the degree of bias, this report also attempts to gauge the role that this bias plays in the
+
+composition of the current Congress. Lastly, it looks at whether the existence of extreme bias correlates
+
+with other qualitative factors suggesting that the observed bias may, in substantial part, stem from
+
+legislators deliberate choices.
+
+Gerrymandering to Aggressively Maximize Seat Share
+
+The term gerrymandering is often used loosely to refer to a broad range of redistricting abuses
+
+including, but not limited to, the fracturing of communities of interest, the protection of incumbents,
+
+the targeting of political foes, and/or the lack of competition in districts. This report uses the term
+
+gerrymandering narrowly and specifically, considering only the pernicious and increasingly common
+
+type of aggressive gerrymander in which a party draws maps to maximize and lock in a disproportionately
+
+large share of seats. This flavor of gerrymandering is growing with the aid of technology and the
+
+availability of more robust data, and is one that several Justices on the Supreme Court have signaled is
+
+most likely to give rise to constitutional problems.6 With this type of gerrymandering comes an increase
+
+in partisan bias in order to maximize the seats a party receives, that party must create a structural
+
+advantage within the map to help turn votes into seats more easily.
+
+EXTREME MAPS | 3
+
+Measuring Partisan Bias and Gerrymandering
+
+To assess the extent of extreme partisan bias and potential gerrymandering in states maps, we calculated
+
+asymmetry scores for maps for the 2012, 2014, and 2016 elections using three prominent quantitative
+
+tests designed to measure the type of partisan bias associated with aggressive seat maximization:
+
+The efficiency gap looks at the number of wasted votes in a states elections. In any election,
+
+nearly 50 percent of votes are wasted: all votes cast for a losing candidate, and any votes cast for
+
+a winning candidate beyond the threshold needed to win (50 percent of the total + 1 vote). In a
+
+hypothetical map with perfect partisan symmetry, both parties would waste the same number of
+
+votes. A large difference between the parties wasted votes suggests gerrymandering could be at play,
+
+giving one party an advantage by disproportionately wasting the others votes. The efficiency gap was
+
+brought to prominence by Nicholas Stephanopoulos and Eric McGhee in Partisan Gerrymandering
+
+and the Efficiency Gap7 and was subsequently referenced in Whitford v.Gill, where a three-judge panel
+
+ruled that Wisconsins state assembly map was an unconstitutional partisan gerrymander.8 As of this
+
+writing, Whitford has been appealed to the Supreme Court.
+
+The seats-to-votes curve compares the share of seats won by a party to historical averages based on
+
+that partys statewide vote share. Using results from the past four decades of congressional elections,
+
+the relationship between a partys average share of the statewide vote and its share of seats in a
+
+statewide congressional delegation can be modeled by fitting a curve to the plotted data. Statewide
+
+vote shares from recent elections can then be placed on this curve to find the expected seat share,
+
+and comparing the expected seat share to the actual seat share reveals the degree to which current
+
+maps deviate from historical norms. As with the efficiency gap, large discrepancies between actual
+
+seat share and expected seat share illustrate partisan bias in a plan. Seats-to-votes curves have been
+
+used for decades by prominent political scientists such as Gary King,9 Edward Tufte,10 and recently
+
+by Nicholas Goedert.11
+
+The mean-median district vote share difference compares a partys mean district vote share to its
+
+median vote share. The difference between the mean and median is a common analysis long used
+
+by statisticians in many academic fields to measure skew; here, a states mean and median district
+
+vote shares are used to examine whether states have skewed election results that were unlikely to
+
+have arisen by chance in the absence of gerrymandering. This approach was proposed by Michael D.
+
+McDonald and Robin Best in Unfair Partisan Gerrymanders in Politics and Law: A Diagnostic Applied
+
+to Six Cases12 and further quantified by Sam Wang in Three Tests for Practical Evaluation of Partisan
+
+Gerrymandering.13
+
+We selected these three tests due to their current prominence in social science research, their ability to
+
+detect the type of aggressive seat maximization this report focuses on, and their diversity as quantitative
+
+approaches to measuring partisan bias.
+
+After calculating the asymmetry scores, we grouped states by their respective map-drawing processes to
+
+gauge whether there was a noticeable relationship between partisan control of the redistricting process and
+
+the degree of extreme partisan bias.
+
+We categorized a states map as extremely biased if the state had a large efficiency gap, one party in the state
+
+received both a considerably larger number of congressional seats than expected based on its vote share,
+
+4 | BRENNAN CENTER FOR JUSTICE
+
+and that partys wins showed the type of statistically significant skew present in gerrymandered maps;all factors needed to be present and persistent across all three elections this cycle. Subsequent graphsin this report show the average partisan bias for each measure. A few states averages are past the cutoffused for determining extreme partisan bias but are not classified as heavily biased. This is because whiletheir average may be above the cutoff, each elections result this cycle was not; these states may exhibithigh partisan bias for one election, but the bias is not persistent across the entire cycle and thus doesnot meet our standards for extreme bias.
+
+Both the efficiency gap and the seats-to-votes curve analyses produce skews measured in terms of seats
+
+for each state. For these measures, we attempt to gauge the overall net effect that partisan bias has on the
+
+composition of the House. Recognizing that neither measure cleanly produces a certain number of seats
+
+across states, we present this overall net effect as a range rather than a single number. We generate this
+
+range by rounding each states partisan bias to the nearest whole seat; we round states whose fractional
+
+biases are sufficiently far away from a whole seat those between 0.25 and 0.75 both up and down,
+
+yielding an overall range of extra seats. For example, if a state had an efficiency gap of 2.34 seats, we
+
+would round it down to two seats for the lower bound of the range and up to three seats for the upper
+
+bound. We then add these ranges together, first by map-drawing body and then collectively.
+
+Consistent with prior social science research on partisan bias, all states with fewer than six congressional
+
+districts were excluded.14 This leaves 370 seats in the remaining 26 states, or 85 percent of the total seats
+
+in the House of Representatives.
+
+More information about this report's calculations, the chosen partisan bias measures, and state
+
+categorization are contained in the methodology section. The appendix contains full tabulated results.
+
+EXTREME MAPS | 5
+
+ANALYSIS
+
+A. Efficiency Gap Analysis
+
+Under the efficiency gap analysis, three states had a gap of at least two seats the standard for
+
+presumptive unconstitutionality proposed by Stephanopoulos and McGhee15 in every election
+
+since 2012: Michigan, North Carolina, and Pennsylvania. Republicans had sole control of the
+
+map-drawing processes in all three states, and all of the seat gaps favor Republicans.
+
+By contrast, no states where Democrats had sole control of the redistricting process had persistent
+
+seat gaps of an equal magnitude, though maps in Massachusetts did have a two-seat bias in favor
+
+of Democrats in 2014 (a strongly pro-Republican year both in Massachusetts and nationwide).
+
+States where the parties had joint control over redistricting had gaps of well under one seat in all
+
+three years. States where commissions or courts drew redistricting maps generally also had low seat
+
+gaps; Californias seat gap of 4.32 seats favoring Democrats in the pro-Republican year of 2014 is
+
+a notable exception, but its seat gaps were modest in the other two election cycles.
+
+Maps originally drawn by Republican-controlled legislatures but later modified by courts had gaps
+
+smaller than maps drawn solely by Republicans but worse than their court-drawn counterparts.
+
+Texas, whose map was partially redrawn by a court prior to the 2012 elections, still displayed a
+
+seat gap in favor of Republicans of between two to three seats in 2012 and 2016. Both Florida
+
+and Virginia whose maps were court-modified prior to the 2016 election saw their gaps
+
+drop noticeably in 2016, but both still had sizeable seat gaps of more than one seat in favor of
+
+Republicans.
+
+Stephanopoulos and McGhee measure the efficiency gap for congressional plans in terms of seats
+
+to better understand a states effect on the overall balance of the House of Representatives; one
+
+additional Republican House seat in California has the same impact on partisan balance in the
+
+House as one additional Republican seat in Louisiana does. But congressional plans efficiency
+
+gaps can also be measured as a percentage of the states total seat share. Doing so reduces the bias
+
+against large states measured as percentages, a hypothetical gap of two seats in Californias
+
+fifty-three districts would be much less indicative of a badly drawn map than a gap of two seats
+
+in Louisianas six districts, for example, despite their equal effect on the balance of power in the
+
+House as a whole.
+
+Measuring state efficiency gaps as a percentage yields broadly similar results. North Carolina and
+
+Pennsylvania have the worst skews, with both of North Carolinas maps (the initial legislature-
+
+enacted plan and the redrawn plan in 2016) hovering around 20 percent in favor of Republicans
+
+and Pennsylvanias average just shy of that. Maryland and Massachusetts have notably high
+
+Democratic skews, with average percentages of 12 percent and 17 percent respectively, but their
+
+small number of total districts results in small seat gaps. The ten most extreme percentage skews
+
+occur in states where a single party controlled the redistricting process, underscoring the strong
+
+relationship between skewed maps and single-party control.
+
+6 | BRENNAN CENTER FOR JUSTICE
+
+Average Efficiency Gap, 2012-2016Extra Republican Seats Extra Democratic Seats4 3 2 1 0 1 2 3 4AlabamaFlorida, 2012/2014Florida, 2016GeorgiaIndianaLouisianaMichigan*North Carolina, 2012/2014*North Carolina, 2016*OhioPennsylvania*South CarolinaTennesseeTexasVirginia, 2012/2014Virginia, 2016WisconsinIllinoisMarylandMassachusettsKentuckyMissouriNew JerseyArizonaCaliforniaWashingtonColoradoMinnesotaNew York
+
+Sole Republican control Sole Democratic control Split control Political commission
+
+Independent commision Court drawn Court-modified Republican map
+
+* States with high bias for the 2012, 2014, and 2016 elections.
+
+See Appendix for full results.
+
+EXTREME MAPS | 7
+
+Efficiency Gap Analysis of 2012, 2014, and 2016 Elections*
+
+Map-Drawing Body 2012 Efficiency Gap 2014 Efficiency Gap 2016 Efficiency Gap
+
+Sole Republican Control 25-30 extra Republican seats 14-21 extra Republican seats 11-17 extra Republican seats
+
+Sole Democratic Control 1-4 extra Democratic seats 3-4 extra Democratic seats 2-3 extra Democratic seats
+
+Split Control 1-2 extra Republican seats 0-1 extra Republican seats 0-1 extra Republican seats
+
+Political Commission 2 extra Republican seats 1 extra Republican seat 0-1 extra Republican seats
+
+Independent Commission 1-2 extra Democratic seats 4-6 extra Democratic seats 1-2 extra Republican seats
+
+Court Drawn 2-3 extra Republican seats 1 extra Democratic seat 2-4 extra Republican seats
+
+2 extra Republican seats
+
+Court Modified 2 extra Republican seats 0-1 extra Republican seats 5-6 extra Republican seats
+
+Net 26-37 extra Republican seats 4-19 extra Republican seats 17-29 extra Republican seats
+
+Partisan Balance of 370 197 Republicans 205 Republicans 201 Republicans
+
+Analyzed Congressional 173 Democrats 165 Democrats 169 DemocratsDistricts
+
+* In 26 states accounting for 85 percent of congressional districts.
+
+The Brennan Centers efficiency gap analysis finds a large skew in favor of Republicans, accounting for
+
+26-37 extra seats in 2012, 4-19 extra seats in 2014, and 17-29 extra seats in 2016, out of the 370 seats
+
+analyzed. Democrats needed 17 more seats in 2012 and 24 more seats in 2016 to gain a majority, both
+
+of which fall within the range of seats won by Republicans in those years due to partisan bias.
+
+Some of this bias is likely the result of political geography and other pertinent structural factors
+
+which the efficiency gap cannot differentiate from intentional gerrymandering but the existence of
+
+large levels of bias in states where Republicans had sole control of the redistricting processes strongly
+
+suggests that a sizeable portion of the pro-Republican bias likely stems from deliberate manipulation
+
+of maps.
+
+8 | BRENNAN CENTER FOR JUSTICE
+
+B. Seats-to-Votes Curve Analysis
+
+Comparing states actual seat counts to the expected seat counts from the seats-to-votes curve,
+
+there are again three states with a persistent skew of at least two seats across all three elections:
+
+Michigan, North Carolina, and Pennsylvania, all favoring Republicans.16
+
+Partisan bias in maps in states where Republicans had sole control of the redistricting process
+
+netted them between 13 and 19 extra seats in the 2016 election. Michigan, North Carolina, and
+
+Pennsylvania were collectively responsible for around half of these extra seats. Pennsylvanias map
+
+was the worst offender, producing a skew of more than four seats in 2012, more than three seats in
+
+2014, and more than three seats in 2016. North Carolinas maps the original map passed by the
+
+legislature in 2011, followed by a remedial map adopted in 2016 after the original map was struck
+
+down by the United States District Court for the Middle District of North Carolina as a racial
+
+gerrymander similarly had a skew just shy of three seats in each year studied, and Michigans
+
+skew landed between two and three seats in each election.
+
+As with the efficiency gap, states where Democrats had sole control of the redistricting process had
+
+much lower seat skews, with the largest skews coming from Massachusetts with skews of around
+
+two seats favoring Democrats.
+
+States where the parties shared control of redistricting had nominal seat skews Missouris skew
+
+just above one seat in favor of Republicans in 2012 was the only skew that was greater than
+
+one. Commission-drawn and court-drawn maps also had small skews. As with the efficiency gap
+
+analysis, California was an exception in 2014 with a nearly four-seat Democratic skew, but it had
+
+a Democratic-leaning skew of less than one seat in 2012 and a Republican-leaning skew of one
+
+seat in 2016. Among court-modified maps, Texas had a pro-Republican skew of two seats in 2016,
+
+while Florida and Virginia continued to have skews of more than one seat under their modified
+
+maps for 2016.
+
+The seats-to-votes analysis, like the efficiency gap, can also be measured as a percentage skew
+
+instead of a seat skew, and doing so again produces roughly the same outcome. North Carolina
+
+and Pennsylvania still have the most extreme skews, with average Republican-leaning skews
+
+greater than 20 percent. Massachusetts and Maryland have notably high Democratic skews, with
+
+respective averages near 20 percent and 14 percent, both of which result in modest seat skews due
+
+to the comparatively small number of districts in both states. The correlation between single-party
+
+controlled redistricting and skewed maps remains strong: the eleven most skewed states all had
+
+map-drawing processes controlled solely by one party.
+
+EXTREME MAPS | 9
+
+Average Seat Skew, 2012-2016
+
+Extra Republican Seats Extra Democratic Seats
+
+4 3 2 1 0 1 2 3 4AlabamaFlorida, 2012/2014Florida, 2016GeorgiaIndianaLouisianaMichigan*North Carolina, 2012/2014*North Carolina, 2016*OhioPennsylvania*South CarolinaTennesseeTexasVirginia, 2012/2014Virginia, 2016WisconsinIllinoisMarylandMassachusettsKentuckyMissouriNew JerseyArizonaCaliforniaWashingtonColoradoMinnesotaNew York
+
+Sole Republican control Sole Democratic control Split control Political commission
+
+Independent commision Court drawn Court-modified Republican map
+
+* States with high bias for the 2012, 2014, and 2016 elections.
+
+See Appendix for full results.
+
+10 | BRENNAN CENTER FOR JUSTICE
+
+Seats-to-Votes Curve Analysis of 2012, 2014, and 2016 Elections*
+
+Map-Drawing Body Seat Skew, 2012 Seat Skew, 2014 Seat Skew, 2016
+
+Sole Republican Control 25-32 extra Republican seats 13-20 extra Republican seats 13-19 extra Republican seats
+
+Sole Democratic Control 2-4 extra Democratic seats 3-4 extra Democratic seats 2-3 extra Democratic seats
+
+Split Control 2 extra Republican seats 0-2 extra Republican seats 0-2 extra Republican seats
+
+Political Commission 1-2 extra Republican seats 0-1 extra Republican seat Even balance of seats
+
+Independent Commission 1-2 extra Democratic seats 3-5 extra Democratic seats 1 extra Republican seat
+
+Court Drawn 2 extra Republican seats 0-2 extra Republican seats 1-3 extra Republican seats
+
+Court Modified 1 extra Republican seat 0-1 extra Republican seats 4-6 extra Republican seats
+
+Net 25-36 extra Republican seats 4-20 extra Republican seats 16-29 extra Republican seats
+
+Partisan Balance of 370 197 Republicans 205 Republicans 201 Republicans
+
+Analyzed Congressional 173 Democrats 165 Democrats 169 DemocratsDistricts
+
+* In 26 states accounting for 85 percent of congressional districts.
+
+Similar to the efficiency gap, the seats-to-votes analysis reveals a national skew in favor of Republicans.
+
+This analysis finds partisan bias accounts for 25-36 extra Republican seats in 2012, 4-20 extra Republican
+
+seats in 2014, and 16-29 extra Republican seats in 2016, out of the 370 seats analyzed. The number of
+
+additional seats Democrats would have needed to win to flip the House in 2012 and 2016 17 and
+
+24, respectively is within this range of partisan skew for both years.
+
+Although the seats-to-votes curve better accounts for the historical impact of political geography than
+
+the efficiency gap, the analysis still cannot easily separate the effects of political geography or other
+
+similar factors from intentional gerrymandering. But as with the efficiency gap, the strong seat skew
+
+stemming from states with Republican-controlled redistricting processes suggests gerrymandering is a
+
+strong contributor to the current Republican majority in the House.
+
+EXTREME MAPS | 11
+
+C. Mean-Median Difference Analysis
+
+Unlike the prior two tests, the mean-median difference does not produce a skew in terms of seats but
+
+instead looks at how closely a states district results resemble typical gerrymandering. By definition,
+
+seat-maximizing gerrymanders attempt to skew election results in favor of one party. Mathematically,
+
+this means gerrymanders aim to make the favored partys median vote share significantly higher (and
+
+thus more favorable) than its mean, in order to give the favored party more seats. Gerrymandering
+
+cannot change the mean vote share the statewide mean will be the same regardless of how the
+
+districts are divided but a few extremely skewed districts that have been packed and cracked could
+
+shift the median considerably. By comparison, states that have not been gerrymandered should have
+
+roughly even mean and median district vote shares. The difference between a states mean district
+
+vote share and its median district vote share can thus be used to determine how likely it is that a
+
+states map has been gerrymandered.
+
+This analysis examines a states results and calculates a significance level to gauge whether the difference
+
+between the mean and the median falls into the zone of chance meaning the difference between
+
+the two can reasonably be expected to have resulted by chance under a non-gerrymandered map
+
+or whether the difference is outside of this zone. If the difference falls outside, it is considered to be
+
+statistically significant, meaning there is less than a five percent chance a standard cutoff for similar
+
+statistical analyses17 the states results could have resulted by chance in the absence of gerrymandering.
+
+This extreme result suggests partisan intent was most likely present in the map-drawing process and
+
+districts have been gerrymandered.
+
+The mean-median district vote share difference test highlights similar patterns as the two prior tests
+
+among the analyzed states.
+
+Six states where Republicans had sole control of redistricting have statistically significant skews in all
+
+three elections: Florida, Michigan, North Carolina, Ohio, Pennsylvania, and Virginia. Three more
+
+states Georgia, Tennessee, and Wisconsin show statistically significant skews in at least one
+
+election.
+
+No Democratic-controlled states, commission-drawn states, or court-drawn states have statistically
+
+significant skews in any election. One split-control state, Missouri, has a statistically significant skewin 2016 only.
+
+All states with court-modified maps (Texas in all three elections, and Florida and Virginia in 2016)
+
+show statistically significant skews. Florida and Virginias results do not show a substantial change
+
+across the three elections, suggesting that court-modified plans have not sufficiently corrected the
+
+partisan imbalance in the original maps.
+
+All states with statistically significant partisan skews favor Republicans. The Republican median district
+
+vote share is higher than the mean Republican vote share in each of these states, giving them a structural
+
+advantage in turning votes into seats.
+
+12 | BRENNAN CENTER FOR JUSTICE
+
+Average Significance Level, 2012-2016Statistically Significant Statistically SignificantRepublican SkewZone of Chance Democratic Skew
+
+Alabama
+
+Florida, 2012/2014*
+
+Florida, 2016*
+
+Georgia
+
+Indiana
+
+Louisiana
+
+Michigan*
+
+North Carolina, 2012/2014*
+
+North Carolina, 2016*
+
+Ohio*
+
+Pennsylvania*
+
+South Carolina
+
+Tennessee
+
+Texas*
+
+Virginia, 2012/2014*
+
+Virginia, 2016*
+
+Wisconsin
+
+Illinois
+
+Maryland
+
+Massachusetts
+
+Kentucky
+
+Missouri
+
+New Jersey
+
+Arizona
+
+California
+
+Washington
+
+Colorado
+
+Minnesota
+
+New York
+
+Sole Republican control Sole Democratic control Split control Political commission
+
+Independent commision Court drawn Court-modified Republican map
+
+* States with statistically significant results for the 2012, 2014,
+
+and 2016 elections. See Appendix for full results.
+
+EXTREME MAPS | 13
+
+CONCLUSION
+
+Partisan bias is distorting the composition of the U.S. House, and a handful of states are principally
+
+responsible for driving it. The result in this decades maps has been a persistent and consequential seat
+
+advantage in favor of Republicans that will likely endure for the remainder of the decade.
+
+To be sure, not all of this partisan bias stems from gerrymandering. Other neutral factors could be
+
+contributing to at least some of the measured partisan bias, but we find little evidence supporting the
+
+notion that the most commonly discussed neutral factors, such as the creation of minority districts or
+
+clustering, are driving the extreme partisan bias in this decades seven worst states. By contrast, there is
+
+notable evidence in those states that points strongly at gerrymandering as a major contributor.
+
+Minority Districts. Pro-Republican bias is sometimes attributed to minority districts concentrating
+
+Democratic voters and thus leaving the surrounding districts more conservative. But this thesis doesnot seem to be borne out in the congressional maps of the 2010 cycle and in fact, the maps drawnthis decade provide important counter-evidence. States like Virginia, for example, which saw the court-ordered creation of an additional minority opportunity district, actually saw a decrease rather than anincrease in partisan bias. Similarly, the creation of additional Latino or minority coalition opportunitydistricts in Texas as urged by plaintiffs in litigation there could likely significantly reduce or evenvirtually eliminate partisan bias in the current Texas congressional map. In the other states with highlevels of partisan bias, minority districts do not plausibly seem to be responsible for increased partisanbias in other high bias states, since none of those states saw an increase in minority districts this cycle.
+
+Clustering. Political geography and an increase in clustering of voters are similarly often posited as
+
+causes of a pro-Republican bias the argument being that Democrats live in cities surrounded by
+
+other Democrats, whereas Republicans spread out more evenly and in lower concentrations throughout
+
+more rural areas. This type of residential sorting almost certainly does contribute to partisan bias at
+
+times. New York, for example, has a slight pro-Republican bias at least partially stemming from the
+
+relatively large number of overwhelmingly Democratic districts in New York City, and, in the case of
+
+New York at least, it is nearly impossible to imagine a reasonable alternative map that could completely
+
+curb this effect.
+
+However, this thesis also does not seem to be a plausible explanation for the bias in the seven worst states
+
+of this decade, since none are as starkly clustered. To the contrary, the worst states and in particular,
+
+the three worst tend to have fairly even statewide distributions of partisans. This suggests that such
+
+deeply biased maps are unlikely to result from neutral line-drawing in these states, and also points to a
+
+tempting opportunity for one party to gerrymander to gain a disproportionate seat share in such a state.
+
+If a party can carefully divide these partisans into districts, it can engineer a large number of districts
+
+that it will narrowly win. With the aid of computer technology, these districts can be drawn carefully
+
+enough to ensure that they stick. This is the heart of aggressive, seat-maximizing gerrymandering, and
+
+looks likely to be occurring in this decades extremely biased states. It is, in short, almost certainly no
+
+coincidence that the worst degrees of partisan bias are observed (with the exception of Texas) in closely
+
+contested and hard fought battleground states.
+
+14 | BRENNAN CENTER FOR JUSTICE
+
+Single-Party Control. Although there is little evidence supporting the role of minority districts andclustering in driving partisan bias, there is a notable correlation with single-party control of theredistricting process. Indeed, all of the states we found to have extreme partisan bias had maps drawnsolely by one party.
+
+The correlation is clear enough that it suggests that single-party control is virtually a necessity for
+
+extreme partisan bias. There are undoubtedly instances where a party with the power to block an
+
+unfavorable map cuts a bad deal and gives away its leverage: the decision of the Democratic-controlled
+
+Virginia Senate in 2011 to give the Republican-controlled Virginia House of Delegates free rein to
+
+redraw the state house map in exchange for Democratic free rein to redraw the state senate map and the
+
+subsequent Republican takeover of the Virginia Senate is a recent example. But these are few and far
+
+between in general, creating high levels of partisan bias requires single-party control, as our analysis
+
+in this report confirms.
+
+In the end, this report shows that there is both reason for worry and for optimism.
+
+On the troubling side, there is clear evidence that aggressive gerrymandering is distorting the nations
+
+congressional maps, resulting in both large and remarkably durable levels of partisan bias. The rise of
+
+extreme gerrymandering, enabled by more accurate political data and better map-drawing software,
+
+seems poised to continue if left unchecked, allowing parties to manipulate maps to lock in a guaranteed
+
+artificial advantage for themselves. The threat to democracy is both real and alarming.
+
+But on the bright side, robust and relatively easy-to-apply quantitative tools now exist to help citizens
+
+and courts gauge when maps have likely been distorted and to better understand how and why
+
+this distortion is occurring. Further research will undoubtedly build on and improve these methods.
+
+Along with this increased knowledge and awareness, perhaps an opportunity to police and prevent
+
+redistricting abuses will come as well.
+
+EXTREME MAPS | 15
+
+METHODOLOGY
+
+A. Data Sources and General Notes on Calculations
+
+We used district-level election results compiled publicly by Dave Wasserman at Cook Political Report
+
+in his National House Popular Vote Trackers.18 All calculations were done using two-party vote shares
+
+and excluding third-party results.
+
+For districts without both a Democrat and Republican running in the general election, we estimated
+
+the vote share both parties would have received in a contested two-party election based on the prior
+
+elections House results, the most recent district-level Presidential results using totals calculated and
+
+compiled by Daily Kos Elections for both 2012 and 2016,19 a districts Cook Partisan Voter Index, and
+
+the winning candidates incumbency status.
+
+B. State Categorization
+
+Each state was placed in one of the following categories based on its map-drawing process:
+
+1. States whose maps were drawn under Republican control, typically where the governor and
+
+legislature control the redistricting process and are all Republican-held. States with Democratic
+
+governors are also included if the Republican-controlled legislature had a veto-proof majority, as
+
+are states with a Republican-controlled legislature where the governor did not have veto power.
+
+These states are Alabama, Florida (2012, 2014), Georgia, Indiana, Louisiana, Michigan, North
+
+Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Virginia (2012, 2014), and Wisconsin.
+
+2. States whose maps were drawn under Democratic control, where the governor and state
+
+legislature control the redistricting process and are all Democrat-held. These states are Illinois,
+
+Maryland, and Massachusetts.
+
+3. States whose maps were drawn under split control, where the governor and legislatures were not
+
+all held by the same party. These states are Kentucky and Missouri.
+
+4. States whose maps were drawn by an independent commission. These states are Arizona,
+
+California, and Washington.
+
+5. States whose maps were drawn by a political commission. These commissions are separated
+
+from independent commissions because of the stronger partisan ties and roles of their members.
+
+The only state in this category is New Jersey.
+
+6. States whose maps were court-imposed, which typically results from a legislative deadlock. This
+
+category includes states whose maps were chosen by a court or drawn by a court (or a court-
+
+appointed panel or special masters). These states are Colorado, Minnesota, and New York.
+
+7. States whose maps were court-modified, which typically results from a court decision overturning
+
+or changing part of a map but leaving the bulk of the map intact. These states are Florida
+
+(2016), Texas, and Virginia (2016).
+
+16 | BRENNAN CENTER FOR JUSTICE
+
+C. Efficiency Gap
+
+Background
+
+The efficiency gap, developed by University of Chicago law professor Nick Stephanopoulos and Public
+
+Policy Institute of California research fellow Eric McGhee, looks at the number of wasted votes
+
+in a states elections. In any election, nearly 50 percent of votes are wasted: all votes cast for a losing
+
+candidate, and any votes cast for a winning candidate beyond the threshold needed to win (50 percent
+
+of the total + 1 vote). In a hypothetical map with perfect partisan symmetry, Stephanopoulos and
+
+McGhee propose that both parties would waste the same number of votes. On the other hand, a large
+
+difference between the parties wasted votes suggests a partisan gerrymander could be present, giving one
+
+party an advantage by disproportionately wasting the others votes.
+
+When one party draws a gerrymander, it does so to win the most number of seats. A gerrymandering party
+
+seeks to disproportionately waste the opposing partys votes and ensure more of its own votes go toward
+
+electing winning candidates, giving it a structural advantage in turning votes into seats and maximizing the
+
+number of seats it wins without necessarily winning more votes. This is typically done by packing and cracking
+
+the opposing partys voters. Some of the opposing partys voters are packed into a few highly concentrated
+
+districts and the remaining ones are cracked among other districts with just too few in each district to
+
+realistically win. This maximizes the number of wasted votes in both types of districts: the opposing partys
+
+winning districts are oversaturated, wasting a considerable number of votes above 50 percent, and the losing
+
+districts have as many wasted losing votes as possible without making the district competitive.
+
+Stephanopoulos and McGhee propose that measuring these wasted votes can quantitatively demonstrate the
+
+structural advantage given to one party. The efficiency gap, which can be calculated either in terms of seats
+
+or in percentage of votes, assumes a completely neutral or fair plan would have a gap of zero. But in reality
+
+all plans will have at least a slight gap. Stephanopoulos and McGhee propose two standards for determining
+
+when a plan is biased enough to be presumptively unconstitutional: a seat gap of more than two seats for
+
+congressional maps, and a percent gap of more than 8 percent for state legislative maps.
+
+Methodology
+
+We calculated the efficiency gap from the two-party vote total of every state with six districts or more. All
+
+votes for the losing candidate were considered wasted, as were all votes for the winning candidate over 50
+
+percent + 1 of the two-party vote total. In order to prevent high turnout districts from skewing state results,
+
+we first normalized district results by calculating the efficiency gap in terms of a percent for each district
+
+subtracting the number of wasted Republican votes from the number of wasted Democratic votes and
+
+dividing by the two-party vote total in the district and then averaged those percentages to find each states
+
+overall percentage gap. This calculated percentage gap was then multiplied by the number of districts in the
+
+state to find the seat gap.
+
+Discussion & Caveats
+
+The efficiency gap is appealing as a gerrymandering standard because of its simplicity: it is both easy to
+
+calculate (requiring only raw vote totals) and easy to understand (producing a disparity in terms of seats).
+
+People without strong backgrounds in statistics or redistricting can easily understand the measure, making
+
+it a compelling standard.
+
+EXTREME MAPS | 17
+
+But with this simplicity comes possible drawbacks. The efficiency gap rests on the assumption that
+
+for every 1 percent increase in vote share, a party should increase its seat share by 2 percent. For close
+
+states (where the winning party receives around 50 percent - 60 percent of the vote) this 1:2 ratio has
+
+historically been close to actual results for most maps, but much less accurate when the winning party
+
+receives more than 60 percent of the vote. This makes the efficiency gap arguably a fairly accurate
+
+measure for closely contested states but often much less of one for states dominated by one political
+
+party, though some suggest this may not be the case based on historical data.
+
+The efficiency gap will show particularly odd results if one party wins more than 75 percent of the
+
+total vote. Receiving more than 75 percent of the vote means that more of the dominant partys votes
+
+are wasted than the minority partys simply because the minority party has so few votes that can
+
+even be wasted and the efficiency gap will show that the map is disadvantaging the dominant party.
+
+While mathematically correct, this of course does not mean that such a map is disadvantaging the
+
+dominant party and this quirk should be taken into consideration. Such lopsided election results are
+
+rare on the state level however, typically occurring only in small, uncompetitive states such as Vermont
+
+or Wyoming.
+
+As with other measures that take into account seats won, the efficiency gap can also be quite sensitive
+
+over time, fluctuating wildly between elections under the same map. States with even a few close
+
+districts can see significant swings sometimes up to multiple seats in the seat gap results in
+
+subsequent elections whose raw vote totals are only slightly different if even one district flips parties,
+
+and this volatility can make the efficiency gap problematic to use long-term over a series of years or
+
+decades. The instability is more pronounced in smaller states, where a single election can produce a large
+
+percentage shift in the states efficiency gap. Sensitivity testing can be used to assess how plans would
+
+perform under different electoral circumstances. For this report, we attempt to limit this instability by
+
+using the seat gap instead of percentage gap, which takes into consideration the number of districts in
+
+a state, and by eliminating states with fewer than six districts.
+
+18 | BRENNAN CENTER FOR JUSTICE
+
+D. Seats-to-Votes Curve
+
+Background
+
+Partisan gerrymandering gives one party an unfair advantage in turning their votes into seats. But
+
+determining when an unfair advantage exists requires understanding what a fair translation of votes
+
+into seats looks like. Proportional representation would suggest a 1:1 ratio, but in reality not even the
+
+fairest maps have such a flat ratio. Applying a seats-to-votes curve analysis based on past election results
+
+allows us to generate this baseline.
+
+Aptly named, a seats-to-votes curve plots partys average statewide vote share against that partys share
+
+of seats won in the states congressional delegation. Plotting these results from many elections creates
+
+a large data set that can be used to find a reliable, well-fitting curve. Statewide vote shares from recent
+
+elections can then be placed on the curve to find the expected seat share. Comparing the expected seat
+
+shares to the actual seat shares reveals the degree to which current maps deviate from historical norms.
+
+Methodology
+
+To generate the seats-to-votes curve, we used U.S. House election results from 1972-2010 for states
+
+with more than six districts. We plotted each states mean Democratic vote share against the share
+
+of seats won by Democratic candidates in the same year, and fit a logistic-based curve to the data. A
+
+logistic-based curve was chosen to fit the data sets natural S-shaped curve. We then compared the
+
+actual Democratic seat shares in election results from 2012, 2014, and 2016 to the Democratic seat
+
+shares predicted by the seats-to-votes curve based on the statewide Democratic vote share. As with
+
+the efficiency gap, large differences between the expected and actual seat shares suggest one party was
+
+substantially more successful in turning its votes into seats than expected from historical results, with
+
+partisan gerrymandering being the likely explanation.
+
+Discussion & Caveats
+
+A seats-to-votes curve analysis has the benefit of being based on actual election results. Current
+
+results are compared to actual historical results, instead of suppositions about what fair districting
+
+would look like or what a fair seats to votes ratio would be. Using past election returns as a baseline
+
+incorporates geographic clustering, party waves, and other electoral factors into the model, providing a
+
+more accurate depiction of when recent results are unexpected or abnormal.
+
+The flip side, of course, is that some of the election results used as data points to build the curve
+
+are themselves impermissible (and sometimes later overturned) gerrymanders. Their inclusion could
+
+normalize gerrymandered results in the analysis, but the sheer number of data points included in this
+
+analysis (433 statewide election results, most of which are not extreme gerrymanders) should prevent
+
+the gerrymanders from having a material influence on the curve.
+
+The seats-to-votes curve is more accurate for states dominated by one party than the efficiency gap is,
+
+and expected seat ratios align much more closely in those extreme cases with historical election results
+
+than with the efficiency gap. Even still, the seats-to-votes analysis suffers from the same instability as
+
+the efficiency gap, particularly in small states. Fewer districts means less granularity in the results for
+
+seat share: New Hampshires two districts can only yield a seat share of 0 percent, 50 percent, or 100
+
+EXTREME MAPS | 19
+
+percent, regardless of the vote share, whereas Californias 53 districts create possibilities for seat share
+
+increases in increments of less than 2 percent. This effect from fewer districts often results in extreme
+
+percentage differences in small states, even if the seat share is the fairest possible realistic result. As with
+
+the efficiency gap, excluding small states and using the seat skew curbs this problem.
+
+E. Mean-Median District Vote Share Difference
+
+Background
+
+In his Stanford Law Review article Three Tests for Practical Evaluation of Partisan Gerrymandering,
+
+Princeton University professor Sam Wang proposes comparing a partys mean and median vote share
+
+across districts to detect partisan asymmetry and presumptive gerrymanders.
+
+Comparing a data sets mean and median is a common statistical analysis used to assess how skewed
+
+a set is and detect asymmetries. If the set is balanced or fair, the distribution of values should be fairly
+
+symmetric and its mean (the average of the values) should be very close to its median (the midpoint of
+
+the data set when sorted). But as a data set becomes more skewed and extreme values are added only on
+
+one side, the mean and median begin to diverge, as the mean will shift significantly more towards the
+
+skewed tail than the median will. Looking at the difference between the two can determine the extent
+
+to which a data set is skewed.
+
+By definition, partisan gerrymanders attempt to skew election results in favor of one party. Mathematically,
+
+this means gerrymanders aim to make the favored partys median vote share significantly higher (and
+
+thus more favorable) than its mean, to give the favored party more seats. Gerrymandering tactics like
+
+cracking (spreading opponents across districts to dilute their power) and packing (heavily concentrating
+
+opponents in a few districts) lead to the favored party winning several closer districts (with 50-60
+
+percent of the vote) and the opposing party winning only a few extreme districts (with 70-80 percent
+
+of the vote). This gerrymandering cannot change the mean vote share the statewide mean will be
+
+the same regardless of how the districts are divided but the extremely skewed districts could shift the
+
+median considerably.
+
+The mean vote share provides a better view of the ideal two-party seat share, whereas the median vote
+
+share better demonstrates how seats are actually allocated under a map. An ideal map with perfect
+
+proportional representation would have a mean-median difference of close to zero, and a more extreme
+
+map would have a larger one. For instance, if one party has a mean statewide vote share of 40 percent
+
+but a median vote share of 60 percent, they will have won over half of the districts with much less than
+
+half of the vote, and the mean-median difference of 20 percent indicates that the extreme skew is likely
+
+resulting from gerrymandering.
+
+Wangs test goes one step further and looks at the statistical significance of the difference, in order
+
+to determine whether such a difference was likely to arise by chance. His formula takes the standard
+
+deviation of the vote shares and the number of districts into account. Standard deviation measures the
+
+overall spread/variation in the vote share a higher standard deviation means the values are more
+
+spread out, and a lower one means the values are closer together. Here, a lower standard deviation
+
+increases the likelihood of a statistically significant difference, as it indicates the vote shares in districts
+
+are clumped closer together (as one would expect to see in a gerrymandered state) instead of ranging
+
+20 | BRENNAN CENTER FOR JUSTICE
+
+wildly as a random distribution might produce. As a result, some states results may actually becomeless statistically significant even when the mean-median difference increases, as long as the standarddeviation increases as well. Similarly, a higher number of districts also increases the likelihood of astatistically significant result, as one would expect to see more extreme variation in states with smallerdistricts that could be heavily affected by a single election.
+
+Methodology
+
+We calculated the mean Democratic vote share and the median Democratic vote share for every state
+
+with more than six districts, and then subtracted the mean from the median. To determine statistical
+
+significance, we use the standard Wang proposes to calculate a significance level:
+
+[mean-median difference]x number of districts
+
+Significance level =0.756 x[standard deviation]
+
+The result is significant when the significance level is 1.75.
+
+Discussion & Caveats
+
+The mean-median difference helps to reveal intent quantitatively, something that is often discussed
+
+as a key part of gerrymandering but can be hard to prove. Both the efficiency gap and the seats-to-
+
+votes analysis calculate the effects of gerrymandering, estimating how many seats were won unfairly.
+
+The mean-median difference, on the other hand, pinpoints plans that were unlikely to have arisen
+
+from fair maps and were likely to have been crafted with partisan intent. It also has the benefit of
+
+being a fairly stable standard for small states, as the standards for statistical significance change with
+
+the number of districts to prevent instability in a few districts in small states from skewing results.
+
+The mean-median difference is most reliable for states with close two-party vote shares, and becomes
+
+much less valuable for states where one party dominates. In his article, Wang proposes using a
+
+slightly different statistical analysis, the chi-square test, for states where a single party is dominant.
+
+For consistency and to best identify the specific type of aggressive seat maximization described earlier,
+
+we employ the mean-median difference for all states in this report.
+
+The mean-median difference test also does not say how many more seats the gerrymandering party
+
+won (i.e., a mean-median difference of 10 percent does not mean that the favored party won 10
+
+percent more seats). It simply looks for the difference and the statistical significance of the difference,
+
+which suggests whether the difference was likely to arise from chance or whether the district results
+
+suggest deliberate gerrymandering to provide one party with substantially more but still reliably
+
+won seats.
+
+EXTREME MAPS | 21
+
+APPENDIX: FULL RESULTS
+
+A. Efficiency Gap
+
+Efficiency gap results displayed below include both the magnitude of the seat gap and the party
+
+advantaged by the gap. Values above the threshold of two seats that we use for presumptive
+
+unconstitutionality are displayed in bold.
+
+Sole Republican control: 11-13 states
+
+Efficiency Gap in Efficiency Gap in Efficiency Gap inState CDsSeats, 2012 Seats, 2014 Seats, 2016Alabama 7 R: 0.97 R: 0.41 R: 0.70Florida 27 R: 3.46 R: 1.78 Court-modifiedGeorgia 14 R: 0.81 R: 0.87 R: 1.38Indiana 9 R: 1.77 R: 0.63 R: 0.67Louisiana 6 R: 0.61 R: 0.32 R: 0.03Michigan 14 R: 2.84 R: 2.48 R: 2.09North Carolina 13 R: 2.77 R: 2.74 R: 2.56Ohio 16 R: 3.93 R: 1.77 R: 1.60Pennsylvania 18 R: 4.17 R: 2.87 R: 3.25South Carolina 7 R: 1.55 R: 1.19 R: 1.20Tennessee 9 R: 0.51 R: 0.16 D: 0.02Virginia 11 R: 2.34 R: 1.52 Court-modifiedWisconsin 8 R: 1.17 R: 0.62 R: 0.50
+
+25-30 extra 14-21 extra 11-17 extra
+
+Total 159 Republican seats Republican seats Republican seats
+
+Sole Democratic control: 3 states
+
+Efficiency Gap in Efficiency Gap in Efficiency Gap inState CDsSeats, 2012 Seats, 2014 Seats, 2016Illinois 18 D: 0.56 R: 0.18 R: 0.04Maryland 8 D: 0.54 D: 1.57 D: 0.86Massachusetts 9 D: 1.35 D: 2.04 D: 1.20
+
+1-4 extra 3-4 extra 2 extra
+
+Total 35 Democtratic seats Democtratic seats Democtratic seats
+
+22 | BRENNAN CENTER FOR JUSTICE
+
+Split control: 2 statesEfficiency Gap in Efficiency Gap in Efficiency Gap inState CDsSeats, 2012 Seats, 2014 Seats, 2016Kentucky 6 R: 0.69 R: 0.32 R: 0.11Missouri 8 R: 0.89 R: 0.19 R: 0.38
+
+1-2 extra Republican 0-1 extra Republican 0-1 extra Republican
+
+Total 14 seats seats seats
+
+Political commission: 1 state
+
+Efficiency Gap in Efficiency Gap in Efficiency Gap in
+
+State CDsSeats, 2012 Seats, 2014 Seats, 2016
+
+New Jersey 12 R: 1.92 R: 1.09 R: 0.64
+
+2 extra Republican 1 extra Republican 0-1 extra RepublicanTotal 12 seats seat seats
+
+Independent commission: 3 states
+
+Efficiency Gap in Efficiency Gap in Efficiency Gap in
+
+State CDsSeats, 2012 Seats, 2014 Seats, 2016
+
+Arizona 9 D: 1.10 D: 0.38 R: 0.11
+
+California 53 D: 0.17 D: 4.32 R: 1.35Washington 10 D: 0.29 D: 0.38 D: 0.031-2 extra 4-6 extra 1-2 extraTotal 72 Democratic seats Democratic seats Republican seats
+
+EXTREME MAPS | 23
+
+Court drawn: 3 states
+
+Efficiency Gap in Efficiency Gap in Efficiency Gap in
+
+State CDsSeats, 2012 Seats, 2014 Seats, 2016
+
+Colorado 7 R: 0.59 R: 0.22 R: 0.38
+
+Minnesota 8 R: 0.07 D: 0.63 D: 0.64New York 27 R: 1.78 R: 1.38 R: 2.86
+
+1 extra Democratic
+
+2-3 extra Republican 2-4 extra Republican
+
+Total 42 seat 2 extra
+
+seats seats
+
+Republican seats
+
+Court modified: 1-3 states
+
+Efficiency Gap in Efficiency Gap in Efficiency Gap in
+
+State CDsSeats, 2012 Seats, 2014 Seats, 2016
+
+Florida 27 Map was Republican-drawn until 2016 R: 1.45
+
+Texas 36 R: 1.95 R: 0.50 R: 3.18Virginia 11 Map was Republican-drawn until 2016 R: 1.13
+
+2 extra Republican 0-1 extra Republican 5-6 extra Republican
+
+Total 74 seats seat seats
+
+24 | BRENNAN CENTER FOR JUSTICE
+
+B. Seats-to-Votes Curve
+
+Seats-to-votes curve results displayed below include both the magnitude of the seat skew and the
+
+party advantaged by the skew. Values above the threshold of two seats that we use for presumptive
+
+unconstitutionality are displayed in bold.
+
+Sole Republican control: 11-13 states
+
+State CDs Seat Skew, 2012 Seat Skew, 2014 Seat Skew, 2016
+
+Alabama 7 R: 1.18 R: 0.67 R: 0.86
+
+Florida 27 R: 3.61 R: 1.27 Court modifiedGeorgia 14 R: 1.17 R: 1.03 R: 1.56Indiana 9 R: 1.88 R: 0.72 R: 0.83Louisiana 6 R: 0.73 R: 0.54 R: 0.31Michigan 14 R: 2.99 R: 2.47 R: 2.06North Carolina 13 R: 2.95 R: 2.81 R: 2.83Ohio 16 R: 4.01 R: 1.70 R: 1.67Pennsylvania 18 R: 4.56 R: 3.04 R: 3.58South Carolina 7 R: 1.68 R: 1.32 R: 1.27Tennessee 9 R: 0.74 R: 0.25 R: 0.19Virginia 11 R: 2.46 R: 1.62 Court modifiedWisconsin 8 R: 1.25 R: 0.67 R: 0.6925-32 extra 13-20 extra 13-19 extraTotal 159 Republican seats Republican seats Republican seats
+
+Sole Democratic control: 3 states
+
+State CDs Seat Skew, 2012 Seat Skew, 2014 Seat Skew, 2016
+
+Illinois 18 D: 0.79 D: 0.20 R: 0.13
+
+Maryland 8 D: 0.69 D: 1.61 D: 0.97Massachusetts 9 D: 1.67 D: 2.14 D: 1.572-4 extra Democratic 3-4 extra Democratic 2-3 extra DemocraticTotal 35 seats seats seats
+
+EXTREME MAPS | 25
+
+Split control: 2 states
+
+State CDs Seat Skew, 2012 Seat Skew, 2014 Seat Skew, 2016
+
+Kentucky 6 R: 0.92 R: 0.57 R: 0.40
+
+Missouri 8 R: 1.06 R: 0.29 R: 0.492 extra Republican 0-2 extra Republican 0-2 extra RepublicanTotal 14 seats seats seats
+
+Political commission: 1 state
+
+State CDs Seat Skew, 2012 Seat Skew, 2014 Seat Skew, 2016
+
+New Jersey 12 R: 1.53 R: 0.44 R: 0.19
+
+1-2 extra Republican 0-1 extra RepublicanTotal 12 Even balance of seatsseats seats
+
+Independent commission: 3 states
+
+State CDs Seat Skew, 2012 Seat Skew, 2014 Seat Skew, 2016
+
+Arizona 9 D: 1.12 D: 0.34 D: 0.09
+
+California 53 D: 0.26 D: 3.62 R: 1.04Washington 10 R: 0.04 D: 0.17 R: 0.081-2 extra Democratic 3-5 extra Democratic 1 extra RepublicanTotal 72 seats seats seat
+
+26 | BRENNAN CENTER FOR JUSTICE
+
+Court drawn: 3 states
+
+State CDs Seat Skew, 2012 Seat Skew, 2014 Seat Skew, 2016
+
+Colorado 7 R: 0.82 R: 0.38 R: 0.54
+
+Minnesota 8 R: 1.12 D: 0.57 D: 0.58New York 27 R: 0.14 R: 0.83 R: 1.812 extra Republican 0-2 extra Republican 1-3 extra RepublicanTotal 42 seats seats seat
+
+Court modified: 1-3 states
+
+State CDs Seat Skew, 2012 Seat Skew, 2014 Seat Skew, 2016
+
+Florida 27 Republican-drawn R: 1.47
+
+Texas 36 R: 0.91 R: 0.26 R: 2.06Virginia 11 Republican-drawn R: 1.301 extra Republican 0-1 extra Republican 4-6 extra RepublicanTotal 74 seat seats seats
+
+EXTREME MAPS | 27
+
+C. Mean-Median Share Difference
+
+Mean-median difference results displayed below include both the magnitude of the significance
+
+level and the party advantaged by it. Values above the threshold of 1.75 that we use for statistical
+
+significance are displayed in bold.
+
+Sole Republican control: 11-13 states
+
+Significance Level, Significance Level, Significance Level,
+
+State CDs2012 2014 2016
+
+Alabama 7 R: 0.69 R: 0.68 R: 0.94
+
+Became court-Florida 27 R: 1.86 R: 2.98 modified in 2016Georgia 14 R: 2.38 R: 2.04 R: 1.38Indiana 9 R: 0.46 R: 1.48 R: 1.26Louisiana 6 R: 0.79 R: 0.65 R: 1.01Michigan 14 R: 1.87 R: 2.38 R: 2.32North Carolina 13 R: 2.47 R: 1.77 R: 1.75Ohio 16 R: 2.59 R: 2.47 R: 2.60Pennsylvania 18 R: 2.41 R: 2.08 R: 2.49South Carolina 7 R: 1.57 R: 1.04 R: 0.50Tennessee 9 R: 1.76 R: 1.86 R: 1.73Became court-Virginia 11 R: 2.05 R: 1.85modified in 2016Wisconsin 8 R: 1.68 R: 1.58 R: 1.82
+
+Sole Democratic control: 3 states
+
+Significance Level, Significance Level, Significance Level,
+
+State CDs2012 2014 2016
+
+Illinois 18 R: 0.66 D: 0.34 D: 1.04
+
+Maryland 8 D: 0.78 D: 0.84 D: 0.44Massachusetts 9 R: 0.63 R: 0.32 D: 0.46
+
+28 | BRENNAN CENTER FOR JUSTICE
+
+Split control: 2 states
+
+Significance Level, Significance Level, Significance Level,
+
+State CDs2012 2014 2016
+
+Kentucky 6 R: 0.97 R: 0.95 R: 1.27
+
+Missouri 8 R: 1.48 R: 1.62 R: 2.00
+
+Political commission: 1 state
+
+Significance Level, Significance Level, Significance Level,
+
+State CDs2012 2014 2016
+
+New Jersey 12 R: 0.76 R: 0.59 D: 0.07
+
+Independent commission: 3 states
+
+Significance Level, Significance Level, Significance Level,
+
+State CDs2012 2014 2016
+
+Arizona 9 D: 1.06 D: 1.35 R: 1.15
+
+California 53 D: 0.45 D: 0.79 D: 1.51Washington 10 D: 0.73 D: 0.46 D: 0.59
+
+Court drawn: 3 states
+
+Significance Level, Significance Level, Significance Level,
+
+State CDs2012 2014 2016
+
+Colorado 7 R: 0.48 R: 0.72 R: 0.87
+
+Minnesota 8 R: 0.23 D: 0.06 R: 0.58New York 27 R: 0.57 R: 1.45 R: 1.34
+
+EXTREME MAPS | 29
+
+Court modified: 1-3 states
+
+Significance Level, Significance Level, Significance Level,
+
+State CDs2012 2014 2016
+
+Florida 27 Was Republican-drawn until 2016 R: 1.90
+
+Texas 36 R: 2.89 R: 2.49 R: 1.82Virginia 11 Was Republican-drawn until 2016 R: 1.85
+
+30 | BRENNAN CENTER FOR JUSTICE
+
+ENDNOTES
+
+How to Rig an Election, The Economist, April 25, 2002, accessed April 18, 2017, http://www.
+
+1
+
+economist.com/node/1099030.
+
+2 Olga Pierce, Jeff Larson, and Lois Beckett. The Hidden Hands in Redistricting: Corporations
+
+and Other Powerful Interests, ProPublica, September 23, 2011, accessed April 18, 2017, https://
+
+www.propublica.org/article/hidden-hands-in-redistricting-corporations-special-interests.
+
+3 National Conference of State Legislatures. Initiative and Referendum States, Last modified
+
+December 2015, http://www.ncsl.org/research/elections-and-campaigns/chart-of-the-initiative-
+
+states.aspx.
+
+4 The U.S. Supreme Court last considered the constitutionality of partisan gerrymandering a
+
+decade ago in Vieth v. Jubelier, 541 U.S. 267 (2004) and League of United Latin American
+
+Citizens v. Perry, 548 U.S. 399 (2006) but deadlocked on whether such claims were justiciable
+
+and, if so, what the legal test for such claims should be.
+
+5 For the purposes of this report, we use bias and skew interchangeably to refer to the gains
+
+one party receives based on a systematic advantage turning its votes into congressional seats, as
+
+explained in the previous section.
+
+6 See Vieth, 541 U.S. 267 (2004) and LULAC, 548 U.S. 399 (2006).
+
+7 Nicholas O. Stephanopoulos and Eric M. McGhee, Partisan Gerrymandering and the Efficiency
+
+Gap, University of Chicago Law Review 82 (2015): 831-900.
+
+8 Whitford v. Gill, No. 15-CV-421-BBC, 2016 WL 6837229 (W.D. Wis. Nov. 21, 2016).
+
+9 Gary King and Robert X. Browning, Democratic Representation and Partisan Bias in
+
+Congressional Elections, American Political Science Review 81 no. 4 (1987): 1251.
+
+10 Edward R. Tufte, The Relationship between Seats and Votes in Two-Party Systems, The
+
+American Political Science Review 67 no. 2 (1973): 540-554.
+
+11 Nicholas Goedert, Gerrymandering or geography? How Democrats won the popular vote but
+
+lost the Congress in 2012, Research & Politics 1 no. 1 (2014): 1.
+
+12 Michael D. McDonald and Robin E. Best, Unfair Partisan Gerrymanders in Politics and Law:
+
+A Diagnostic Applied to Six Cases. Election Law Journal 14 no. 4 (2015): 312.
+
+13 Samuel S-H Wang, Three Tests for Practical Evaluation of Partisan Gerrymandering, Stanford
+
+Law Review 68 (2016): 1263-1321.
+
+EXTREME MAPS | 31
+
+14 Stephanopoulos and McGhee analyze all states that had at least eight districts at some point
+
+between 1972 and 2012, including the decades in which some of these states had fewer than eight
+
+districts. In examining our initial results, we found that states with six and seven districts had
+
+consistent results with larger states, and the volatility and instability associated with analyses of
+
+smaller states only became prominent in states with five or fewer districts. Goedert generally uses
+
+six districts as a cutoff as well. The excluded states are: Alaska, Delaware, Montana, North Dakota,
+
+South Dakota, Vermont, and Wyoming, which each have only one congressional district; Hawaii,
+
+Idaho, and Iowa, where a commission drew maps; Connecticut and Nevada, where courts drew
+
+maps; Mississippi, New Hampshire, and New Mexico, where Democrats and Republicans shared
+
+control of redistricting; Arkansas, Oregon, Rhode Island, and West Virginia, where Democrats
+
+controlled redistricting; Kansas, Maine, and Utah, where Republicans controlled redistricting;
+
+and Nebraska, which had a Republican governor and whose legislature is officially non-partisan
+
+but is generally described as having a Republican majority.
+
+15 Stephanopoulos and McGhee, Partisan Gerrymandering and the Efficiency Gap, 831.
+
+16 For consistency, we use Stephanopoulos and McGhees standard for presumptive unconstitutionality
+
+as our cutoff under the seats-to-votes curve analysis as well.
+
+17 Robert M. Craparo, Statistical Significance, in Encyclopedia of Measurement and Statistics, ed.
+
+Neil J. Salkind. (Thousand Oaks: Sage Publications, 2007), 889891. Statistical significanceoccurs not at a set cut off for the difference between the mean and the median, as it also dependson the number of districts in a state and the standard deviation of the district vote shares in anelection. As such, some elections with high differences may not be statistically significant. Thetest is described in more detail in the methodology appendix.
+
+18 David Wassermans spreadsheet of 2012 House results is available at http://bit.ly/2pUatCy, his
+
+spreadsheet of 2014 House results is available at http://bit.ly/2pETQKc, and his spreadsheet of2016 House results is available at http://bit.ly/2p5ELy2.
+
+19 David Nir, Daily Kos Elections Presidential Results by Congressional District for the 2016 and
+
+2012 Elections, Daily Kos. November 19, 2012, accessed April 21, 2017. http://www.dailykos.
+
+com/story/2012/11/19/1163009/-Daily-Kos-Elections-presidential-results-by-congressional-
+
+district-for-the-2012-2008-elections.
+
+32 | BRENNAN CENTER FOR JUSTICE
+
+STAY CONNECTED TO THE BRENNAN CENTER
+
+Visit our website at www.brennancenter.org.
+
+Sign up for our electronic newsletters at www.brennancenter.org/signup.
+
+Latest News | Up-to-the-minute info on our work, publications, events, and more.
+
+Justice Update | Snapshot of our justice work and latest developments in the field.
+
+Money in Politics | Latest state and national developments and original analysis.
+
+Redistricting Round-Up | Analysis of current legal battles and legislative efforts.
+
+Fair Courts | Comprehensive news roundup spotlighting judges and the courts.
+
+Liberty & National Security | Updates on privacy, government oversight, and accountability.
+
+Twitter | www.twitter.com/BrennanCenter
+
+Facebook | www.facebook.com/BrennanCenter
+
+Instagram | www.instagram.com/brennancenter
+
+NEW AND FORTHCOMING BRENNAN CENTER PUBLICATIONS
+
+Election Integrity: A Pro-Voter Agenda
+
+Myrna Prez
+
+The Justice Departments Voter Fraud Scandal: Lessons
+
+Adam Gitlin and Wendy R. Weiser
+
+Florida: An Outlier in Denying Voting Rights
+
+Erika Wood
+
+Democracy & Justice: Collected Writings, vol. X
+
+Brennan Center for Justice
+
+The Fight to Vote
+
+Michael Waldman
+
+Crime Trends: 1990-2016
+
+Matthew Friedman, Ames Grawert, and James Cullen
+
+Countering Violent Extremism
+
+Faiza Patel and Meghan Koushik
+
+For more information, please visit www.brennancenter.org
+
+brennancenterfor justiceat New York University School of Law
+
+120 Broadway
+
+New York, NY 10271
+
+646-292-8310
+
+www.brennancenter.org

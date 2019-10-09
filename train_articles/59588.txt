@@ -1,0 +1,60 @@
+Wisconsin’s state legislative districts are a big Republican gerrymander
+Map of Wisconsin Assembly Districts
+
+(WISCONSIN STATE LEGISLATURE)
+
+Today in Wisconsin, a federal judge begins hearing the most recent lawsuit challenging legislative districts drawn after the 2010 census. Suits elsewhere challenged maps because of the way they concentrated – or “packed” — minority voters into a few districts. In the Wisconsin trial, the plaintiffs claim that the state’s assembly map discriminates against Democratic voters by diluting the value of their votes – or to be simpler, that it’s partisan gerrymandering.
+
+If the plaintiffs win, their victory could affect state and federal legislative districts far beyond Wisconsin and into the next redistricting cycle.
+
+We examine the Wisconsin case closely in a recent paper, and conclude that the plaintiffs’ case is strong. The new districts do appear to discriminate against Democratic voters, exactly as the challengers argue.
+
+There are lots of different ways that gerrymandered districts can be drawn to bias elections in one direction or another, but the most basic violation involves undermining majority rule. If the districts are drawn so that one party regularly wins a majority of seats with a minority of votes, that’s biased in a way that most people would find undemocratic.
+
+Here’s how we checked for bias
+
+Here’s how we can tell that Wisconsin’s assembly map is clearly undemocratic: we compare the median and mean two-party vote in the 99 assembly districts in statewide elections.
+
+We examine statewide elections – for governor, secretary of state, and so on – and then figure out how each district voted.
+
+Why didn’t we examine district elections? Because those can’t really be compared fairly. One party or another often concedes particular districts to the other party, running weak and poorly funded candidates or no candidates at all. In Wisconsin from 2008 to 2014, fully a third of all the state legislature’s districts had only one party’s candidate running. In most of the rest, the other party had a candidate, but that candidate was little more than a stand-in.
+
+But if we examine how voters in these state legislative districts voted for statewide offices, we get a better sense of whether they tilt to favor one party or another.
+
+For those who haven’t looked at statistics in a while, we get “mean” vote across assembly districts by adding each party’s percentage of the vote in each district and dividing by the number of districts, or 99. The “median” district vote, by contrast, is what we could get if we list the districts from most Democratic to most Republican (by percentage of the vote) and choose the one exactly in the middle. The mean and median should be nearly the same in a fair system.
+
+If the median district is only 45 percent Democratic, then the chances of a Democrat winning it is slim – and therefore the Democrats are very unlikely to win a majority of the legislature. In this case, if the mean district was also 45 percent Democratic, there’d be no bias in the system and the Dems would be getting what they deserve when they fail to take control of the assembly.
+
+But what if the mean district was 51 or 52 percent Democratic? In that case, the mapmakers would have adjusted the map to make the median district far more Republican than it “should” be.
+
+This calculation is easy to do – perhaps easier to do than to explain – and it won a national contest for an objective measure of gerrymanders sponsored by Common Cause last year.
+
+We found that Wisconsin’s districts distinctly favor Republicans
+
+So that’s the theory. Here’s what we found in practice. In Wisconsin, difference between median and mean Republican/Democratic district-level vote favors Republican voters by between 3.8 to 6.3 percentage points in every statewide election from 2008 to 2014. Please note that while Wisconsin voters were actually voting in slightly different districts in 2008 and 2010 – before the map was redrawn – the state of Wisconsin estimates what the 2008 and 2010 votes would be in current assembly districts.
+
+(Technical note: The Wisconsin Legislative Technology Services Bureau is required by law to produce block-level estimates of voting for past elections on current census blocks. The data are available here.)
+
+But wait, don’t Republicans and Democrats live in different areas?
+
+Someone could object that this approach doesn’t take into account the “natural gerrymander” – not just in Wisconsin, but around the country – in which each party’s voters tend to cluster in different districts. In Wisconsin that means lots of Democratic voters live in cities like Madison and Milwaukee.
+
+To test that, we used a new computer-mapping technique to draw 10,000 alternative, neutral assembly maps using census blocks. Wisconsin law requires that districts be contiguous and equally populated. Our maps do that and are drawn without information about voting.
+
+These neutral maps show a natural gerrymander of 1.1 to 3.9 percentage points (using the same median-mean comparison) favoring the Republicans. Obviously, this is smaller than the total bias of 3.8 to 6.3 percentage points in the current map. What is extraordinary is that none of the 10,000 neutral maps produced a plan as skewed toward the Republicans – in any of the 13 statewide elections from 2008 to 2014 that we examined — as the actual map drawn by the state assembly.
+
+Or to think about it differently, Wisconsin’s state legislative districts were drawn to add an additional, thick layer of bias atop the “natural” gerrymander of where Republicans and Democrats live in the state.
+
+You can see this in the figure below, which shows the average difference between the median and the mean Republican/Democratic votes in the neutral maps, on the one hand, and in the actual districts, on the other. The shaded gray area under the line of the neutral maps represents the “natural” gerrymander. The shaded red area above it is the “unnatural gerrymander” added by the state’s map.
+
+As you can see, that added 2 to 3 points of bias in every election from 2008 to 2014.
+
+So how does this affect Wisconsin’s voters, particularly its Democratic voters?
+
+What this means is that Democrats probably have to win about 55 to 56 percent of the statewide vote to win control of the state assembly. Or to put it differently, Republicans need only win 44 to 45 percent.
+
+Lots of election results are simply unlucky. This is not one of them. The plaintiffs are right that Wisconsin’s legislative districts were drawn in a way that discriminates against the state’s Democrats by systematically diluting the value of their votes in every election.
+
+What happens in the Wisconsin trial could tell us a lot about whether courts will step in to undo partisan gerrymandering. Many people, perhaps including many judges, would be reluctant to see courts wade this far into politics. But in Wisconsin, the equal protection guarantees in the Constitution may require judicial intervention.
+
+All these authors are in the department of political science at Binghamton University. Jonathan Krasno is an associate professor; Daniel Magleby is an assistant professor; Michael D. McDonald is a professor; Shawn Donahue is a graduate student; and Robin Best is an associate professor.

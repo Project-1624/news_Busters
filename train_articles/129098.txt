@@ -1,0 +1,26 @@
+What is IMEI Unique Mobile Number? Webopedia Definition
+IMEI- International Mobile Equipment Identity
+
+IMEI is short for International Mobile Equipment Identity and is a unique number given to every single mobile phone, typically found behind the battery.
+
+IMEI numbers of cellular phones connected to a GSM network are stored in a database (EIR - Equipment Identity Register) containing all valid mobile phone equipment.
+
+When a phone is reported stolen or is not type approved, the number is marked invalid.
+
+The number consists of four groups that looks this:
+
+nnnnnn--nn-nnnnnn-n
+
+The first set of numbers is the type approval code (TAC). The first two digits represent the country code. The rest make up the final assembly code. The second group of numbers identifies the manufacturer:
+
+01 and 02 = AEG
+
+07 and 40 = Motorola
+
+10 and 20 = Nokia
+
+41and 44 = Siemens
+
+51= Sony, Siemens, Ericsson
+
+The third set is the serial number and the last single digit is an additional number (usually 0).

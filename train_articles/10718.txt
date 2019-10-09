@@ -1,0 +1,8 @@
+Life Cycle Greenhouse Gas Emissions of Utility-Scale Wind Power
+Summary
+
+A systematic review and harmonization of life cycle assessment (LCA) literature of utility-scale wind power systems was performed to determine the causes of and, where possible, reduce variability in estimates of life cycle greenhouse gas (GHG) emissions. Screening of approximately 240 LCAs of onshore and offshore systems yielded 72 references meeting minimum thresholds for quality, transparency, and relevance. Of those, 49 references provided 126 estimates of life cycle GHG emissions.
+
+Published estimates ranged from 1.7 to 81 grams CO 2 -equivalent per kilowatt-hour (g CO 2 -eq/kWh), with median and interquartile range (IQR) both at 12 g CO 2 -eq/kWh. After adjusting the published estimates to use consistent gross system boundaries and values for several important system parameters, the total range was reduced by 47% to 3.0 to 45 g CO 2 -eq/kWh and the IQR was reduced by 14% to 10 g CO 2 -eq/kWh, while the median remained relatively constant (11 g CO 2 -eq/kWh). Harmonization of capacity factor resulted in the largest reduction in variability in life cycle GHG emission estimates.
+
+This study concludes that the large number of previously published life cycle GHG emission estimates of wind power systems and their tight distribution suggest that new process-based LCAs of similar wind turbine technologies are unlikely to differ greatly. However, additional consequential LCAs would enhance the understanding of true life cycle GHG emissions of wind power (e.g., changes to other generators’ operations when wind electricity is added to the grid), although even those are unlikely to fundamentally change the comparison of wind to other electricity generation sources.

@@ -1,0 +1,20 @@
+The US Congress has launched a bizarre inquiry into Pokémon Go’s data usage
+Pokémon Go is an international sensation that has seen people get mugged, find dead bodies, and crash cars in the short time it’s been available. And it seems the US Congress is concerned about it—though not really for those reasons.
+
+On Tuesday (July 19), the US House of Representatives’ committee on energy and commerce sent a letter to John Hanke, the CEO of Niantic, which built the game under a license from Nintendo, asking if the company had considered that the game might be a bit of a mobile data hog.
+
+It’s been shown that Pokémon Go can be a massive drain on a smartphone’s battery life, but there’s not been any substantive evidence to suggest that it’s eating through players’ mobile data allowances. (That being said, T-Mobile CEO John Legere recently announced that the company would not be charging his network’s customers for the data they consumed while playing the game.)
+
+In a letter signed by three ranking members of the House committee—Representatives Frank Pallone, Diana DeGette, Jan Schakowsky—the politicians laid out a series of questions for Hanke about how Niantic is handling the game’s massive success:
+
+Are there best practices that Niantic follows to minimize the amount of data consumers use when playing Pokémon Go? Has Niantic worked with wireless carriers to ensure that consumers are not unexpectedly hit with large overage charges? Does Niantic conspicuously warn customers before they start using the app about how much data the app consumes? Does Niantic have any mechanism in place to make sure consumers are made whole in the event that they are hit with an unexpected overage charge resulting from the use of your app?
+
+It does lead one to wonder if the Representatives actually have even tried the app, given that question #3 would presumably be answered for them had they opened the app. (There is no such warning.)
+
+The letter suggests that the average Pokémon Go player is using between 10-20 MB of data per hour, and playing for about 43 minutes per day. By that math, even if someone played for a straight hour a day for 30 days, they would consume about 600 MB of data, and even the stingiest monthly plans in the US tend to have at least an allowance for 1 GB (1024 MB) a month. For reference, Netflix says that streaming a single standard-definition movie takes up 1 GB of data.
+
+It’s also not entirely clear why the committee decided to reach out to Niantic, given that there are many more equally popular apps that routinely use far more data. Netflix, Facebook, YouTube, Snapchat, and even Twitter all have the ability to stream video over a cell connection, which can result in large amounts of data being used. (The committee wasn’t immediately available to explain whether it had ever sent similar inquiries to these companies.)
+
+Niantic wasn’t immediately available to explain what amount of data usage the game generally requires. But it’s been reported that the real issue for cellphone companies isn’t the amount of data that the game is using, but rather the strain on the their networks that’s caused by so many people being on the game at once. That’s bad news for the likes of Verizon and AT&T;, but of little consequence to their end customers’ bills.
+
+Read the full letter below:

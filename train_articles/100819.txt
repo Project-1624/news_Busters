@@ -1,0 +1,36 @@
+Chengdu JF-17 Thunder
+Aircraft All aircraft Airline All airlines Country / Airport All countries and airports Photographer / Group All photographers Category All categories Editor's Pics Screener's Choice Photos of the Week Accident Photos Air-to-Air Photos Airport (Terminal) Photos Artistic (Effects) Photos Business Jet Photos Cabin (Interior) Photos Cargo Aircraft Photos Flight Deck (Cockpit) Photos Helicopter Photos Lighter-than-Air Photos Night/Sunrise/Sunset Photos Small Prop (Cessna, etc.) Special Paint Schemes Wing View (Out the Window) Warbird/Vintage Keywords All fields Aircraft Airline Airport Country Photographer Registration Serial No. Remarks Camera Lens Contains Photo year All years Search Multi-select search
+
+If you are looking for photos of a specific aircraft type, use this menu.
+
+Please note that, due to space constraints, this menu includes only some of the more requested aircraft in our database. If the aircraft you're searching for is not in this list, use the 'Keywords' field further down in the search menus. Some menu selections include a generic aircraft model, as well as more specific variants of that airliner. These variants are denoted by a - before the aircraft name. Selecting 'Boeing 747,' for example, will show results featuring all Boeing 747 jetliners in our database, while selecting '- Boeing 747-200' will show all Boeing 747-200 variants in our database (Boeing 747-200, Boeing 747-212B, Boeing 747-283F, etc.)
+
+If you are looking for photos of a specific airline, use this menu. Please note that, due to space constraints, this menu includes only airlines of which 10 or more photos exist in our database. If the airline you're searching for is not in this list, use the 'Keywords' field further down in the search menu. Airlines are listed in alphabetical order.
+
+If you are looking for photos taken in a specific country, or at a specific airport, use this menu. All countries represented in our database are included in this selection menu, which is updated automatically as the database grows. There must be at least 20 photos from a specific airport in the database before that airport is added to this list.
+
+Use this option to include only photos taken by a specific photographer in your search. This pulldown menu, in addition to each photographer available as a search limiter, also shows the number of photos currently in the database for each specific photographer, enclosed in brackets. For example, an option of:
+
+- Paul Jones [550]
+
+.. indicates that there are 550 total photos taken by Paul Jones currently in the database. Note: The total number of photos, enclosed in brackets, is updated four (4) times hourly, and may be slightly inaccurate. Photographers must have 100 or more photos in the database before their name is included in this selection menu..
+
+The 'All Photographers' selection is the default selection for this option.
+
+If you are looking for a specific category of photo, use this menu. You may select to display only photos from certain categories, such as Special Paintschemes, Flight Deck photos, etc. New categories are constantly being added to this list.
+
+The 'Keywords' field is perhaps the most useful field included in our search engine.
+
+Using this field, you may search for any word, term, or combinations of terms in our database.
+
+Every photo field is covered by the Keywords search routine. The Keywords field is ideal for searching for such specifics as aircraft registrations, photographers' names, specific airport/city names, specific paintschemes (i.e. 'Wunala Dreaming'), etc.
+
+To use the Keywords field, begin by selecting a Keyworld search field. You may select either a specific database field (airline, aircraft, etc.), or choose to match your keyword to all database fields. Next, select a Keyword limiter. There are three options from which to choose:
+
+- is exactly
+
+- starts with
+
+- contains
+
+Select the appropriate limiter for your search, then enter the keyword(s) you wish to search in the box on the right. The Keywords search field is not case-sensitive.

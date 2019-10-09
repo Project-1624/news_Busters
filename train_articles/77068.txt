@@ -1,0 +1,24 @@
+Campaign finance data
+Methodology
+
+This data includes Forms 3, 3P, and 3X.
+
+Methodology overview
+
+Money raised includes each of the following:
+
+Adjusted receipts for PACs, parties, congressional filers and presidential filers
+
+Adjusted receipts are the total receipts minus the following:
+
+Contribution refunds
+
+Contributions from political party committees and other political committees
+
+Loan repayments
+
+Offsets to operating expenditures
+
+Transfers from nonfederal accounts for allocated activities
+
+The form-by-form breakdown for adjusted receipts is:

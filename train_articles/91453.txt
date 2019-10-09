@@ -1,0 +1,66 @@
+New Documents Reveal How Apple Really Invented the iPhone
+Photograph by Tony Avelar/AFP.
+
+Like many of Apple’s inventions, the iPhone began not with a vision, but with a problem. By 2005, the iPod had eclipsed the Mac as Apple’s largest source of revenue, but the music player that rescued Apple from the brink now faced a looming threat: The cellphone. Everyone carried a phone, and if phone companies figured out a way to make playing music easy and fun, “that could render the iPod unnecessary,” Steve Jobs once warned Apple’s board, according to Walter Isaacson’s biography.
+
+Fortunately for Apple, most phones on the market sucked. Jobs and other Apple executives would grouse about their phones all the time. The simplest phones didn’t do much other than make calls, and the more functions you added to phones, the more complicated they were to use. In particular, phones “weren't any good as entertainment devices,” Phil Schiller, Apple’s longtime marketing chief, testified during the company’s patent trial with Samsung. Getting music and video on 2005-era phones was too difficult, and if you managed that, getting the device to actually play your stuff was a joyless trudge through numerous screens and menus.
+
+
+
+That was because most phones were hobbled by a basic problem—they didn’t have a good method for input. Hard keys (like the ones on the BlackBerry) worked for typing, but they were terrible for navigation. In theory, phones with touchscreens could do a lot more, but in reality they were also a pain to use. Touchscreens of the era couldn’t detect finger presses—they needed a stylus, and the only way to use a stylus was with two hands (one to hold the phone and one to hold the stylus). Nobody wanted a music player that required two-handed operation.
+
+Advertisement
+
+
+
+This is the story of how Apple reinvented the phone. The general outlines of this tale have been told before, most thoroughly in Isaacson’s biography. But the Samsung case—which ended last month with a resounding victory for Apple—revealed a trove of details about the invention, the sort of details that Apple is ordinarily loath to make public. We got pictures of dozens of prototypes of the iPhone and iPad. We got internal email that explained how executives and designers solved key problems in the iPhone’s design. We got testimony from Apple’s top brass explaining why the iPhone was a gamble.
+
+Put it all together and you get remarkable story about a device that, under the normal rules of business, should not have been invented. Given the popularity of the iPod and its centrality to Apple’s bottom line, Apple should have been the last company on the planet to try to build something whose explicit purpose was to kill music players. Yet Apple’s inner circle knew that one day, a phone maker would solve the interface problem, creating a universal device that could make calls, play music and videos, and do everything else, too—a device that would eat the iPod’s lunch. Apple’s only chance at staving off that future was to invent the iPod killer itself. More than this simple business calculation, though, Apple’s brass saw the phone as an opportunity for real innovation. “We wanted to build a phone for ourselves,” Scott Forstall, who heads the team that built the phone’s operating system, said at the trial. “We wanted to build a phone that we loved.”
+
+
+
+The problem was how to do it. When Jobs unveiled the iPhone in 2007, he showed off a picture of an iPod with a rotary-phone dialer instead of a click wheel. That was a joke, but it wasn’t far from Apple’s initial thoughts about phones. The click wheel—the brilliant interface that powered the iPod (which was invented for Apple by a firm called Synaptics)—was a simple, widely understood way to navigate through menus in order to play music. So why not use it to make calls, too?
+
+In 2005, Tony Fadell, the engineer who’s credited with inventing the first iPod, got hold of a high-end desk phone made by Samsung and Bang & Olufsen that you navigated using a set of numerical keys placed around a rotating wheel. A Samsung cell phone, the X810, used a similar rotating wheel for input. Fadell didn’t seem to like the idea. “Weird way to hold the cellphone,” he wrote in an email to others at Apple. But Jobs thought it could work. “This may be our answer—we could put the number pad around our clickwheel,” he wrote. (Samsung pointed to this thread as evidence for its claim that Apple’s designs were inspired by other companies, including Samsung itself.)
+
+Advertisement
+
+
+
+Around the same time, Jonathan Ive, Apple’s chief designer, had been investigating a technology that he thought could do wonderful things someday—a touch display that could understand taps from multiple fingers at once. (Note that Apple did not invent multitouch interfaces; it was one of several companies investigating the technology at the time.) According to Isaacson’s biography, the company’s initial plan was to the use the new touch system to build a tablet computer. Apple’s tablet project began in 2003—seven years before the iPad went on sale—but as it progressed, it dawned on executives that multitouch might work on phones. At one meeting in 2004, Jobs and his team looked a prototype tablet that displayed a list of contacts. “You could tap on the contact and it would slide over and show you the information,” Forstall testified. “It was just amazing.”
+
+
+
+Jobs himself was particularly taken by two features that Bas Ording, a talented user-interface designer, had built into the tablet prototype. One was “inertial scrolling”—when you flick at a list of items on the screen, the list moves as a function of how fast you swipe, and then it comes to rest slowly, as if being affected by real-world inertia. Another was the “rubber-band effect,” which causes a list to bounce against the edge of the screen when there were no more items to display. When Jobs saw the prototype, he thought, “My god, we can build a phone out of this,” he told the D Conference in 2010.
+
+The company decided to abandon the click-wheel idea and try to build a multitouch phone. Jobs knew it was a risk—could Apple get typing to work on a touchscreen?—but the payoff could be huge: If the phone’s only interface was a touchscreen, it would be endlessly flexible—you could use it not just for talking and music but for anything else, including lots of third-party applications. In other words, a touchscreen phone wouldn’t be a phone but “really a computer in your pocket in some ways,” as Forstall said in court.
+
+Apple is known for secrecy, but Jobs wanted the iPhone kept under tighter wraps than usual. The project was given a codename—“Project Purple”—and, as Forstall testified, Jobs didn’t let the iPhone team recruit anyone from outside the company to work on the device. Instead, Forstall had to make a strange pitch to superstar engineers in different parts of the company: “We're starting a new project,” he’d tell them. “It's so secret I can't even tell you what that project is. I can't tell you who you will work for.... What I can tell you is that if you accept this project … you will work nights, you will work weekends, probably for a number of years.”
+
+Advertisement
+
+
+
+The iPhone team took over an entire building at Apple’s Cupertino, Calif., headquarters. "Very much like a dorm, people were there all the time,” Forstall said in court. “It smelled something like pizza, and in fact on the front door of the Purple Dorm we put a sign up that said 'Fight Club'—because the first rule of that project was to not talk about it outside those doors." (Thanks to The Verge for transcribing Forstall’s testimony.)
+
+The iPhone team broke down into two separate but closely integrated groups—the guys who were doing the hardware and the guys who were doing the software. (I can’t find any evidence that there were any women working on the phone.) The software team’s main job was figuring out a way to make a completely novel interface feel intuitive and natural. One way they did this was by creating finger “gestures” that allowed you to get around the phone very quickly. Some of these, like pinch-to-zoom, had been used in multitouch projects in the past (you can see some in Minority Report) but others were Apple’s fresh ideas. For instance, Forstall used a prototype iPhone as one of his main computers, and as he used it, he found that constantly pinching to zoom in on the screen became tedious. In a flash, he thought, why not have the phone figure out how to zoom with a just a double-tap on the screen? This was a difficult gesture to implement—the phone had to “understand the structure” of the document it was zooming in on, he explained—but once engineers got tap-to-zoom to work, Forstall found the phone to be much easier to use. “It allowed me to browse the Web much more fluently,” he said.
+
+The hardware team, meanwhile, was trying to figure out what the phone would look like. In court, Christopher Stringer, one of the Apple’s veteran designers, explained that the company created the phone through a process of rigorous refinement. A group of about 15 designers would regularly assemble around a kitchen table set up in Apple’s design studio to review, in painfully fine detail, every idea for various parts of the iPhone’s design. Apple has an extensive array of systems to quickly create physical prototypes of digital designs, and the team would handle all of these prototypes and remark on how they felt. “We’re a pretty maniacal group of people,” Stringer explained, pointing out that they would sometimes review 50 different refinements of a single hardware button.
+
+Advertisement
+
+
+
+By the spring of 2006, about a year before the iPhone’s release, Ive and his team had settled on a design for the iPhone. Their winning prototype looked similar to Apple’s 2004-era iPod Mini—it was a metallic device with rounded sides, what designers referred to as “extruded” aluminum. You can see it in a 2006 photo unveiled in the trial—it’s the one left.
+
+
+
+The phone on the right is another prototype, one that looks a lot more like the iPhone that Steve Jobs unveiled in January of 2007. Indeed, the phone on the right seems almost identical to the iPhone 4, which Apple launched in 2010. What happened? Why did Apple go from building the phone on the left to a version of the one on the right?
+
+We can’t know for sure, but we have some clues. One reason Apple switched the design was that the rounded sides seemed superfluous. “I’m really worried that we’re making something that is going to look and be too wide,” Apple designer Richard Howarth argued in an email to Ive. Plus, Howarth argued, if Apple cut volume control buttons into the rounded sides, it would remove “the purity of the extrusion idea.”
+
+
+
+There was a bigger problem with the extruded-metal phone: One morning Jobs came into the office and declared that he just didn’t love it. As Isaacson describes it, Jobs realized that the design squeezed the phone’s glass display into an aluminum frame—but because the display was the iPhone’s only interface, the design had to put the screen on center stage. Ive realized instantly that Jobs was right. “I remember feeling absolutely embarrassed that he had to make the observation,” he told Isaacson.
+
+So, around the spring of 2006, a few months before the iPhone’s public debut, the team decided to start all over with something new. Looking through their old designs, they found a prototype they’d sketched a year earlier. This phone was a plain rectangle with rounded corners, a single button on its face, and a glass panel that covered the entire face of the phone. This was the iconic design that would become the iPhone.

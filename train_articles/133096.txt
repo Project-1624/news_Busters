@@ -1,0 +1,118 @@
+Data Protection Act 1998
+United Kingdom legislation
+
+The Data Protection Act 1998 (c 29) is a United Kingdom Act of Parliament designed to protect personal data stored on computers or in an organised paper filing system. It enacted the EU Data Protection Directive 1995's provisions on the protection, processing and movement of data.
+
+Under the DPA 1998, individuals had legal rights to control information about themselves. Most of the Act did not apply to domestic use,[1] for example keeping a personal address book. Anyone holding personal data for other purposes was legally obliged to comply with this Act, subject to some exemptions. The Act defined eight data protection principles to ensure that information was processed lawfully.
+
+It was superseded by the Data Protection Act 2018 (DPA 2018) on 23 May 2018. The DPA 2018 supplements the EU General Data Protection Regulation (GDPR), which came into effect on 25 May 2018. The GDPR regulates the collection, storage, and use of personal data significantly more strictly.[2]
+
+Background [ edit ]
+
+The 1998 Act replaced the Data Protection Act 1984 and the Access to Personal Files Act 1987, and implemented the EU Data Protection Directive 1995.
+
+The Privacy and Electronic Communications (EC Directive) Regulations 2003 altered the consent requirement for most electronic marketing to "positive consent" such as an opt-in box. Exemptions remain for the marketing of "similar products and services" to existing customers and enquirers, which can still be given permission on an opt out basis.
+
+The Jersey data protection law was modelled on the UK law.[3]
+
+Contents [ edit ]
+
+Scope of protection [ edit ]
+
+Section 1 defines "personal data" as any data that can be used to identify a living individual. Anonymised or aggregated data is less regulated by the Act, providing the anonymisation or aggregation has not been done in a reversible way. Individuals can be identified by various means including their name and address, telephone number or email address. The Act applies only to data which is held, or intended to be held, on computers ('equipment operating automatically in response to instructions given for that purpose'), or held in a 'relevant filing system'.[4]
+
+In some cases paper records may be classified as a 'relevant filing system', such as an address book or a salesperson's diary used to support commercial activities.[5]
+
+The Freedom of Information Act 2000 modified the act for public bodies and authorities, and the Durant case modified the interpretation of the act by providing case law and precedent.[6]
+
+A person who has their data processed has the following rights:[7][8]
+
+under section 7, to view the data an organisation holds on them for a reasonable fee: the maximum fee is £2 for requests to credit reference agencies, £50 for health and educational request, and £10 per individual otherwise, [9]
+
+under section 14, request that incorrect information be corrected. If the company ignores the request, a court can order the data to be corrected or destroyed, and in some cases compensation can be awarded. [10]
+
+under section 10, require that data is not used in any way that may potentially cause damage or distress. [11]
+
+under section 11, require that their data is not used for direct marketing.[12]
+
+Data protection principles [ edit ]
+
+Schedule 1 lists eight "data protection principles".
+
+Personal data shall be processed fairly and lawfully and, in particular, shall not be processed unless: at least one of the conditions in Schedule 2 is met, and in the case of sensitive personal data, at least one of the conditions in Schedule 3 is also met. Personal data shall be obtained only for one or more specified and lawful purposes, and shall not be further processed in any manner incompatible with that purpose or those purposes. Personal data shall be adequate, relevant and not excessive in relation to the purpose or purposes for which they are processed. Personal data shall be accurate and, where necessary, kept up to date. Personal data processed for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes. About the rights of individuals e.g.[13] personal data shall be processed in accordance with the rights of data subjects (individuals). Appropriate technical and organisational measures shall be taken against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data. Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
+
+Conditions relevant to the first principle
+
+Personal data should only be processed fairly and lawfully. In order for data to be classed as 'fairly processed', at least one of these six conditions must be applicable to that data (Schedule 2).
+
+The data subject (the person whose data is stored) has consented ("given their permission") to the processing; Processing is necessary for the performance of, or commencing, a contract; Processing is required under a legal obligation (other than one stated in the contract); Processing is necessary to protect the vital interests of the data subject; Processing is necessary to carry out any public functions; Processing is necessary in order to pursue the legitimate interests of the "data controller" or "third parties" (unless it could unjustifiably prejudice the interests of the data subject).[14]
+
+Consent
+
+Except under the below mentioned exceptions, the individual needs to consent to the collection of their personal information and its use in the purpose(s) in question. The European Data Protection Directive defines consent as “…any freely given specific and informed indication of his wishes by which the data subject signifies his agreement to personal data relating to him being processed”, meaning the individual may signify agreement other than in writing. However, non-communication should not be interpreted as consent.
+
+Additionally, consent should be appropriate to the age and capacity of the individual and other circumstances of the case. E.g., if an organisation "intends to continue to hold or use personal data after the relationship with the individual ends, then the consent should cover this." And even when consent is given, it shouldn't be assumed to last forever. Although in most cases consent lasts for as long as the personal data needs to be processed, individuals may be able to withdraw their consent, depending on the nature of the consent and the circumstances in which the personal information is being collected and used.[15]
+
+The Data Protection Act also specifies that sensitive personal data must be processed according to a stricter set of conditions, in particular any consent must be explicit.[15]
+
+Exceptions [ edit ]
+
+The Act is structured such that all processing of personal data is covered by the act, while providing a number of exceptions in Part IV.[1] Notable exceptions are:
+
+Section 28 – National security. Any processing for the purpose of safeguarding national security is exempt from all the data protection principles, as well as Part II (subject access rights), Part III (notification), Part V (enforcement), and Section 55 (Unlawful obtaining of personal data).
+
+Section 29 – Crime and taxation. Data processed for the prevention or detection of crime, the apprehension or prosecution of offenders, or the assessment or collection of taxes are exempt from the first data protection principle.
+
+Section 36 – Domestic purposes. Processing by an individual only for the purposes of that individual's personal, family or household affairs is exempt from all the data protection principles, as well as Part II (subject access rights) and Part III (notification).
+
+Police and court powers [ edit ]
+
+The Act grants or acknowledges various police and court powers.
+
+Section 29 – Consent of the Data Subject is not required when processing Personal Data to prevent or detect crime, apprehend or prosecute offenders, the assessment and collection of taxes and duties and to discharge a statutory function. [16]
+
+Section 35 – Disclosures required by law or made in connection with legal proceedings. This includes obeying court orders, other laws and are part of legal proceedings.[17]
+
+Offences [ edit ]
+
+The Act details a number of civil and criminal offences for which data controllers may be liable if a data controller has failed to gain appropriate consent from a data subject. However, 'consent' is not specifically defined in the Act and so is a common law matter.
+
+Section 21(1) makes it an offence to process personal information without registration. [18]
+
+Section 21(2) makes it an offence to fail to comply with the notification regulations made by the Secretary of State [18] (proposed by the Information Commissioner under section 25 of the Act). [19]
+
+(proposed by the Information Commissioner under section 25 of the Act). Section 55 makes unlawful obtaining of personal data. This section makes it an offence for people (Other Parties), such as hackers and impersonators, outside the organisation to obtain unauthorised access to the personal data. [20]
+
+Section 56 makes it a criminal offence to require an individual to make a Subject Access Request relating to cautions or convictions for the purposes of recruitment, continued employment, or the provision of services.[21] This section came into force on 10 March 2015.[22]
+
+Complexity [ edit ]
+
+The UK Data Protection Act is a large Act that has a reputation for complexity.[23] While the basic principles are honoured for protecting privacy, interpreting the act is not always simple. Many companies, organisations and individuals seem very unsure of the aims, content and principles of the Act. Some hide behind the Act and refuse to provide even very basic, publicly available material quoting the Act as a restriction.[24] The Act also impacts on the way in which organisations conduct business in terms of who can be contacted for marketing purposes, not only by telephone and direct mail but also electronically and has led to the development of permission based marketing strategies.
+
+Definition of personal data [ edit ]
+
+The definition of personal data is data relating to a living individual who can be identified
+
+from that data or
+
+from that data and other information in the possession of, or is likely to come into the possession of, the data controller
+
+Sensitive personal data concerns the subject's race, ethnicity, politics, religion, trade union status, health, sex life or criminal record.[25]
+
+Subject Access Requests [ edit ]
+
+The Information Commissioner's Office website states regarding Subject Access Requests (SARs)[26]: "You have the right to find out if an organisation is using or storing your personal data. This is called the right of access. You exercise this right by asking for a copy of the data, which is commonly known as making a ‘subject access request". Before the General Data Protection Regulation (GDPR) came into force on 25 May 2018 organisations could charge a specified fee for responding to a SAR, of up to £10 for most requests. Following the GDPR[26]: "A copy of your personal data should be provided free. An organisation may charge for additional copies. It can only charge a fee if it thinks the request is ‘manifestly unfounded or excessive’. If so, it may ask for a reasonable fee for administrative costs associated with the request."
+
+Information Commissioner [ edit ]
+
+Compliance with the Act is regulated and enforced by an independent authority, the Information Commissioner's Office, which maintains guidance relating to the Act.[27][28]
+
+EU’s Article 29 Working Party [ edit ]
+
+In January 2017 the Information Commissioner's Office invited public comments on the EU’s Article 29 Working Party's proposed changes to data protection law and the anticipated introduction of extensions to the interpretation of the Act, the Guide to the General Data Protection Regulation.[29]
+
+See also [ edit ]
+
+References [ edit ]
+
+UK legislation [ edit ]

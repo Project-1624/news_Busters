@@ -1,0 +1,32 @@
+All the Clintons’ servers: Hillary first used a Power Mac tower for e-mail
+As she was being confirmed as Secretary of State, Hillary Clinton contacted Colin Powell to ask him about his use of a Blackberry while in the same role. According to a Federal Bureau of Investigations memorandum published today (PDF), Powell warned Clinton that if it became public that she was using a Blackberry to "do business," her e-mails would be treated as "official" record and be subject to the law.
+
+"Be very careful," Powell said according to the FBI. "I got around it all by not saying much and not using systems that captured the data."
+
+Clinton told the FBI that she didn't factor Powell's advice into her decision to use a personal mail server—a statement that seems obvious based on the tens of thousands of e-mails now being published as the result of lawsuits, congressional and FBI investigations, and Freedom of Information Act requests. Just how far she deviated from that advice is evident in the detailed history gathered by the FBI. Their information on the Clintons' e-mail infrastructure dates back to Hillary Clinton's tenure in the US Senate, and this new release shows how that infrastructure was intertwined with the information technology used by former president Bill Clinton's staff.
+
+Perhaps Clinton's troubles began when she switched from a Blackberry-hosted e-mail account to an account on her Clintonemail.com domain—a domain hosted on an Apple Power Mac "G4 or G5" tower running in the Clintons' Chappaqua, New York residence. The switch to the Power Mac as a server occurred the same month she exchanged messages with Powell.
+
+Step 1: Power Mac
+
+The Power Mac, originally purchased in 2007 by former President Clinton's aide Justin Cooper, had acted as the server for presidentclinton.com and wjcoffice.com. Cooper managed most of the technology support for Bill Clinton and took charge of setting up Hillary Clinton's new personal mail system on the Power Mac, which sat alongside a firewall and network switching hardware in the basement of the Clintons' home. Accounts were set up for Secretary Clinton and her staff by her husband's staff.
+
+But the Power Mac was having difficulty handling the additional load created by Blackberry usage from Secretary Clinton and her staff, so a decision was made quickly to upgrade the server hardware. Secretary Clinton's deputy chief of staff at the State Department, Huma Abedin, connected Cooper with Brian Pagliano, who had worked in IT for the secretary's 2008 presidential campaign. Cooper inquired with Pagliano about getting some of the campaign's computer hardware as a replacement for the Power Mac, and Pagliano was in the process of selling the equipment off.
+
+Step 2: Dude, you’re getting two Dells
+
+It was kismet, and in March of 2009, Pagliano delivered two servers to Chappaqua—a Dell PowerEdge 2900 running Windows Server and Microsoft Exchange and a Dell PowerEdge 1950 running Blackberry Enterprise Server (BES). Cooper and Pagliano together acquired additional network and storage hardware. Initially, Pagliano said, he believed the servers were for President Clinton and not for the Secretary.
+
+Pagliano acquired an SSL certificate for the mail server to provide added security for remote e-mail access at that time, and the whole configuration was set up in the Clintons' basement. The Power Mac was converted into a workstation for use by the Clinton household staff, and its contents were eventually backed up to an iMac.
+
+Hillary Clinton said that she was unaware that any of this was going on and that she was only vaguely aware that there was now server hardware in the basement.
+
+Backups of the e-mail server were stored to an external Seagate hard drive. Pagliano told the FBI he did differential backups once a day and a full backup weekly. By June of 2011, the backups were getting to be too much for the external drive, and Pagliano upgraded storage to a Cisco network-attached storage (NAS) system.
+
+Sometime in 2013, Pagliano (who would later get immunity from prosecution) started looking to find a new job. That, and "user limitations and reliability concerns" about the server, led staff for both Secretary and President Clinton to start looking to outsource the whole e-mail thing. According to Secretary Clinton, the move to a hosted service was initiated by President Clinton's staff.
+
+Step 3: A hosted Dell private server
+
+Platte River Networks was hired to set up the new hosted mail server, which would run in an Equinix data center in Secaucus, New Jersey. In June of 2013, a PRN employee came and retrieved the server hardware in Chappaqua, taking it to the data center to migrate the software and contents to virtual machines running on a Dell PowerEdge R620. A Datto SIRIS 2000 backup device was set up in the rack with the server, along with a CloudJacket intrusion detection system, two Dell network switches, and two Fortinet Fortigate 80C firewalls. The server ran e-mail for multiple Clinton domains, including Secretary Clinton's clintonemail.com accounts. The Dell server configured by Pagliano remained in the server cage and wasn't fully decommissioned until December 2013.
+
+While this configuration was undoubtedly more secure than a Power Mac in the Clintons' basement, there were a few hiccups. First, the Clintons had requested, according to a PRN employee interviewed by the FBI, that the contents of the server be encrypted so that only mail recipients could read the content. This was not done, largely so that PRN technicians could "troubleshoot problems occurring within user accounts," the FBI memo reports. Also, while the Clintons had requested only local backups, the Datto appliance initially also used Datto's secure cloud backup service until August of 2015.

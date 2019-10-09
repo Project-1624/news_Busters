@@ -1,0 +1,7 @@
+The navigation within the interactive tables is similar to many tab-like navigations found throughout the internet. You will start without any criteria selected and begin to narrow the selections to display data.
+
+Along the top of the iTables application are navigation elements called tabs. These tabs show where you are within the application and at what step can criteria be selected or changed.
+
+At anytime you can navigate between these tabs to make changes to your criteria and you can save these criteria for access at a later date.
+
+Keep In Mind — Changing criteria under a tab may reset the selections in subsequent tabs requiring you to make additional selections to complete the data display.

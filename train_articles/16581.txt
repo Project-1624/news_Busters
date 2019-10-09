@@ -1,0 +1,111 @@
+0818 crphurdpftexas
+
+Emails, Douglas H. Weber, senior researcher, Center for Responsive Politics, Aug. 9, 2018
+
+From: Selby, Gardner (CMG-Austin) Date: Thu, Aug 9, 2018 at 12:32 PM
+
+Folks:
+
+Good afternoon. I write with a fresh inquiry on behalf of the fact-checking PolitiFact Texas project as we review contributions to a Texas U.S. House nominee, Gina Ortiz Jones.
+
+In question: Whether Ortiz Jones has gotten more campaign money from residents of Massachusetts than from residents of Texas.
+
+Ideally, your experts can independently advise us on the accuracy of this claim, which appears in this recent news story.
+
+I’d also welcome any comments and guidance on the research I describe below. For all our stories, we rely on attributable on-the-record information.
+
+Today I downloaded from the FEC site what appears to be a spreadsheet (attached) showing all her campaign’s receipts through June 2018. I get that right?
+
+By my sort (also attached) it looks to me like Ortiz Jones fielded more than $1.2 million in Texas donations “year to date” or $366,989 in Texas donations listed under “contributions receipt.” It would help me, no doubt, to understand what these distinct columns precisely mean.
+
+Slippery spots: “Year to date” confuses because the dates of donation go back to August 2017. Also, some contribution amounts seem high for congressional races, exceeding $20,000. Make sense?
+
+The Massachusetts entries (by my sort, attached) suggest that Ortiz Jones fielded $193,405 in individual donations listed as “contributions receipt,” and $262,555 under “contributions aggregate year to date”—plus, it appears, $631,232 from what look in the main like donations through ActBlue, listed as located in Somerville, MA. So far, it doesn’t look to me like the ActBlue contributions are linked to or associated with (listed with) specific individuals. So, would all that $631,232 have originated with individuals or PACs living in or based in Massachusetts? If not, from whom and in what locations?
+
+I’d be happy to hear back soon by phone or email. I am striving to finish our review today.
+
+Thanks again,
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+12:09 p.m.
+
+Aug. 9, 2018
+
+The short answer is no, Jones as far as we can determine has not raised more from Massachusetts than Texas. We're relying on individual itemized data downloaded from the FEC to determine this. We generally do not count PAC contributions as many PACs are based in the DC area regardless of the organization. To be more specific, Jones has raised $353,293 from Texas making it her #3 state and $193,879 from Massachusetts making it her #4 state.
+
+We do not generally include top states in our congressional race data but we do include other data you might find of interest. The geographic profile for contributions to candidates in Texas 23rd is here. Please let me know if you have any other questions.
+
+Yours Sincerely,
+
+Douglas Weber
+
+On Thu, Aug 9, 2018 at 1:15 PM, Selby, Gardner (CMG-Austin) wrote:
+
+
+
+From another vantage point, Rep. Hurd’s spokesman, Connor Pfeiffer, just offered its methodology for finding that the challenger has fielded more from Massachusetts residents than Texans.
+
+
+
+See any contrasts or flaws below with what you determined?
+
+
+
+PASTE:
+
+
+
+downloaded all of Jones’ receipts (both PAC and individual) from Massachusetts from the FEC website. Jones reported contributions from Massachusetts in three parts of her report: Line 11A (Contributions from Individuals/Persons Other than Political Committees), Line 11C (Contributions from Other Political Committees (such as PACS)), and Line 12 (Transfers From Other Authorized Committees). I’ll go through each:
+
+
+
+
+
+Line 11A
+
+The aggregate total from Massachusetts entries on this line is $600,602.26. However, that amount double counts any ActBlue bundled contributions (they’re a Massachusetts PAC) that came from Massachusetts donors. To filter those out, I subtracted any individual contributions with a notation from C00401224, which is the FEC ID # of ActBlue. That subtracts $19,200, giving a Massachusetts total of $581,402.26.
+
+
+
+Line 11C
+
+Jones has received $65,100 from Massachusetts political action committees this cycle.
+
+
+
+Line 12
+
+The data for line 12 includes entries for both individual contributions from Massachusetts residents that have been transferred from other committees and transfers Jones has received from Massachusetts PACs. To avoid any double counting and to ensure we account for unitemized contributions that the PACs have bundled, I only used the PAC total and excluded the individual contributions, since the PAC amounts are inclusive of those individual contributions. Jones’ Massachusetts total from Line 12 this cycle is $83,480.03.
+
+
+
+
+
+Adding up all three lines gives a Massachusetts total of $729,982.290. That far exceeds Jones’ Texas fundraising, which totals $366,989.04 this cycle in a similar download of all individual and PAC contributions.
+
+END OF PASTE
+
+
+
+g.
+
+(Weber)
+
+2 p.m.
+
+They shouldn't include anything from ActBlue. ActBlue is a conduit - the address may be in Massachusetts but that's not where the contributions came from. I've attached a spreadsheet of itemized contributions from Massachusetts and Texas to Ms. Jones.
+
+2:08 p.m.
+
+Other problems - he's counting a transfer from the Serve America Victory Fund as a contribution from Massachusetts. The Serve America Victory Fund is a JFC in Massachusetts but that tells us nothing about where the contributions originally came from.

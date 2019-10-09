@@ -1,0 +1,64 @@
+Missing Data from Arctic One Cause of Pause in Temperature Rise
+Keeping track of our planet's temperature is no easy task.
+
+The keepers of such long-term data sets, usually government institutions, know they have to account for numerous variations to keep a consistent measurement of temperatures through time. Without that, it is impossible to know how our world is changing.
+
+Yet today's thermometers are not the same as those 100 years ago. The time of day that temperature measurements are taken has changed. Then there's the issue of coverage -- where, exactly, those thermometers are located. In more remote places, there are fewer measurements.
+
+A new study finds that some of those missing measurements, particularly in the Arctic, which has recently warmed faster than any other part of the world, may have affected the trajectory of global temperatures in a key temperature data series.
+
+"Our best measurements only cover about five-sixths of the globe," said Kevin Cowtan, a computational scientist at the University of York.
+
+The data series Cowtan examined is put out by the United Kingdom's Met Office Hadley Centre and referred to as HadCRUT4. At first glance, a graph of HadCRUT4 temperature anomalies over the past 130 years or so seems to show a clear trend.
+
+From about 1910 onward, the Earth gets warmer. And warmer. And warmer.
+
+Then, right around 2000, the steadily marching black line of temperature anomalies reaches a plateau. It's stayed there until now, sometimes even appearing to trend in a negative direction.
+
+This is what is commonly referred to as "the pause" (ClimateWire, Nov. 1).
+
+While most climate scientists agree that 15 years is too short a time to draw any meaningful conclusions about the direction of global temperatures, and that the oceans have continued to take up ever more of the Earth's heat, they'd also like to know more about why this slowdown is occurring.
+
+Turning to satellites
+
+The new study, accepted for publication in the Quarterly Journal of the Royal Meteorological Society, suggests one of the reasons for the apparent slowdown in warming might lie in the fact that the Arctic, which has been warming much, much faster than the rest of the world, is under-represented in the HadCRUT4 temperature series.
+
+In order to figure this out, the researchers found a clever way to take satellite observations, which measure temperature all over the Earth, including the poles, and put them into the global surface temperature data set in places where it lacked good coverage.
+
+"The satellite data gives us a sort of geographical distribution of temperatures. It's got very good coverage, just a tiny little hole at each pole," Cowtan said.
+
+Doing this is not easy, though.
+
+While surface temperature is measured at about 6 feet above the ground, the satellite temperature measurements the researchers wanted to use came from higher up in the atmosphere and gave different readings.
+
+That lack of a one-to-one correspondence meant the scientists couldn't simply add that data into the global surface data sets.
+
+Instead, they had to figure out the relationship between what satellites measured and what a ground-based instrument would measure, and use that to fill in the missing Arctic temperatures.
+
+"The best way of putting it is simply that we calculated an offset between the satellite data and the observed data, and we used that to guide the interpolation," said Robert Way, a cryospheric scientist and doctoral student at the University of Ottawa who was a co-author on the paper.
+
+The researchers tested whether this approach worked by removing measured temperatures from the data set, replacing them with the altered satellite temperatures and making sure their results were the same.
+
+"So with this satellite method, we had then proven that it seems really good at projecting what the temperature is going to be at a given location if we had taken away the observations," Way said.
+
+Finding a 'cold bias'
+
+Once they filled in temperature data for the Arctic and other poorly measured locales, the HadCRUT4 temperature lost what the researchers call its "cold bias."
+
+"There's lots of sources of evidence for a fast-warming Arctic, but no one had a good method of combining that information with the surface temperatures to create a global record before," Cowtan said.
+
+In their new version of the HadCRUT4 temperature series, the average warming trend per decade jumps from 0.05 degree Celsius in the period of 1997-2012 to 0.12 C per decade, the same as it has been since the 1950s.
+
+Another temperature data set by NASA also bears out this finding, the researchers said.
+
+NASA's global temperature series, known as GISTEMP, has its own way of adding back in Arctic temperatures that are not measured due to the lack of temperature stations.
+
+While the NASA series's temperature increases are a little lower than the adjusted ones from Way and Cowtan, that can be explained by the fact that the series has not yet added in an ocean measurement adjustment that would shift the temperatures up slightly, Way explained.
+
+In the climate science blog RealClimate.org, researcher Stefan Rahmstorf, of the Potsdam Institute for Climate Impact Research, praised the paper for showing that the trend of a warming pause is almost nonexistent.
+
+This, Rahmstorf said, should shed light on the public debate about whether global warming has paused.
+
+"Now this debate has become completely baseless, because the trend of the last 15 or 16 years is nothing unusual," he wrote.
+
+Reprinted from Climatewire with permission from Environment & Energy Publishing, LLC. www.eenews.net, 202-628-6500

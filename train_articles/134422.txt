@@ -1,0 +1,82 @@
+Hard Questions: Who Should Decide What Is Hate Speech in an Online Global Community?
+By Richard Allan, VP EMEA Public Policy
+
+As more and more communication takes place in digital form, the full range of public conversations are moving online — in groups and broadcasts, in text and video, even with emoji. These discussions reflect the diversity of human experience: some are enlightening and informative, others are humorous and entertaining, and others still are political or religious. Some can also be hateful and ugly. Most responsible communications platforms and systems are now working hard to restrict this kind of hateful content.
+
+Facebook is no exception. We are an open platform for all ideas, a place where we want to encourage self-expression, connection and sharing. At the same time, when people come to Facebook, we always want them to feel welcome and safe. That’s why we have rules against bullying, harassing and threatening someone.
+
+But what happens when someone expresses a hateful idea online without naming a specific person? A post that calls all people of a certain race “violent animals” or describes people of a certain sexual orientation as “disgusting” can feel very personal and, depending on someone’s experiences, could even feel dangerous. In many countries around the world, those kinds of attacks are known as hate speech. We are opposed to hate speech in all its forms, and don’t allow it on our platform.
+
+In this post we want to explain how we define hate speech and approach removing it — as well as some of the complexities that arise when it comes to setting limits on speech at a global scale, in dozens of languages, across many cultures. Our approach, like those of other platforms, has evolved over time and continues to change as we learn from our community, from experts in the field, and as technology provides us new tools to operate more quickly, more accurately and precisely at scale.
+
+Defining Hate Speech
+
+The first challenge in stopping hate speech is defining its boundaries.
+
+People come to Facebook to share their experiences and opinions, and topics like gender, nationality, ethnicity and other personal characteristics are often a part of that discussion. People might disagree about the wisdom of a country’s foreign policy or the morality of certain religious teachings, and we want them to be able to debate those issues on Facebook. But when does something cross the line into hate speech?
+
+Our current definition of hate speech is anything that directly attacks people based on what are known as their “protected characteristics” — race, ethnicity, national origin, religious affiliation, sexual orientation, sex, gender, gender identity, or serious disability or disease.
+
+There is no universally accepted answer for when something crosses the line. Although a number of countries have laws against hate speech, their definitions of it vary significantly.
+
+In Germany, for example, laws forbid incitement to hatred; you could find yourself the subject of a police raid if you post such content online. In the US, on the other hand, even the most vile kinds of speech are legally protected under the US Constitution.
+
+People who live in the same country — or next door — often have different levels of tolerance for speech about protected characteristics. To some, crude humor about a religious leader can be considered both blasphemy and hate speech against all followers of that faith. To others, a battle of gender-based insults may be a mutually enjoyable way of sharing a laugh. Is it OK for a person to post negative things about people of a certain nationality as long as they share that same nationality? What if a young person who refers to an ethnic group using a racial slur is quoting from lyrics of a song?
+
+There is very important academic work in this area that we follow closely. Timothy Garton Ash, for example, has created the Free Speech Debate to look at these issues on a cross-cultural basis. Susan Benesch established the Dangerous Speech Project, which investigates the connection between speech and violence. These projects show how much work is left to be done in defining the boundaries of speech online, which is why we’ll keep participating in this work to help inform our policies at Facebook.
+
+Enforcement
+
+We’re committed to removing hate speech any time we become aware of it. Over the last two months, on average, we deleted around 66,000 posts reported as hate speech per week — that’s around 288,000 posts a month globally. (This includes posts that may have been reported for hate speech but deleted for other reasons, although it doesn’t include posts reported for other reasons but deleted for hate speech.*)
+
+But it’s clear we’re not perfect when it comes to enforcing our policy. Often there are close calls — and too often we get it wrong.
+
+Sometimes, it’s obvious that something is hate speech and should be removed – because it includes the direct incitement of violence against protected characteristics, or degrades or dehumanizes people. If we identify credible threats of imminent violence against anyone, including threats based on a protected characteristic, we also escalate that to local law enforcement.
+
+But sometimes, there isn’t a clear consensus — because the words themselves are ambiguous, the intent behind them is unknown or the context around them is unclear. Language also continues to evolve, and a word that was not a slur yesterday may become one today.
+
+Here are some of the things we take into consideration when deciding what to leave on the site and what to remove.
+
+Context
+
+What does the statement “burn flags not fags” mean? While this is clearly a provocative statement on its face, should it be considered hate speech? For example, is it an attack on gay people, or an attempt to “reclaim” the slur? Is it an incitement of political protest through flag burning? Or, if the speaker or audience is British, is it an effort to discourage people from smoking cigarettes (fag being a common British term for cigarette)? To know whether it’s a hate speech violation, more context is needed.
+
+Often the most difficult edge cases involve language that seems designed to provoke strong feelings, making the discussion even more heated — and a dispassionate look at the context (like country of speaker or audience) more important. Regional and linguistic context is often critical, as is the need to take geopolitical events into account. In Myanmar, for example, the word “kalar” has benign historic roots, and is still used innocuously across many related Burmese words. The term can however also be used as an inflammatory slur, including as an attack by Buddhist nationalists against Muslims. We looked at the way the word’s use was evolving, and decided our policy should be to remove it as hate speech when used to attack a person or group, but not in the other harmless use cases. We’ve had trouble enforcing this policy correctly recently, mainly due to the challenges of understanding the context; after further examination, we’ve been able to get it right. But we expect this to be a long-term challenge.
+
+In Russia and Ukraine, we faced a similar issue around the use of slang words the two groups have long used to describe each other. Ukrainians call Russians “moskal,” literally “Muscovites,” and Russians call Ukrainians “khokhol,” literally “topknot.” After conflict started in the region in 2014, people in both countries started to report the words used by the other side as hate speech. We did an internal review and concluded that they were right. We began taking both terms down, a decision that was initially unpopular on both sides because it seemed restrictive, but in the context of the conflict felt important to us.
+
+Often a policy debate becomes a debate over hate speech, as two sides adopt inflammatory language. This is often the case with the immigration debate, whether it’s about the Rohingya in South East Asia, the refugee influx in Europe or immigration in the US. This presents a unique dilemma: on the one hand, we don’t want to stifle important policy conversations about how countries decide who can and can’t cross their borders. At the same time, we know that the discussion is often hurtful and insulting.
+
+When the influx of migrants arriving in Germany increased in recent years, we received feedback that some posts on Facebook were directly threatening refugees or migrants. We investigated how this material appeared globally and decided to develop new guidelines to remove calls for violence against migrants or dehumanizing references to them — such as comparisons to animals, to filth or to trash. But we have left in place the ability for people to express their views on immigration itself. And we are deeply committed to making sure Facebook remains a place for legitimate debate.
+
+Intent
+
+People’s posts on Facebook exist in the larger context of their social relationships with friends. When a post is flagged for violating our policies on hate speech, we don’t have that context, so we can only judge it based on the specific text or images shared. But the context can indicate a person’s intent, which can come into play when something is reported as hate speech.
+
+There are times someone might share something that would otherwise be considered hate speech but for non-hateful reasons, such as making a self-deprecating joke or quoting lyrics from a song. People often use satire and comedy to make a point about hate speech.
+
+Or they speak out against hatred by condemning someone else’s use of offensive language, which requires repeating the original offense. This is something we allow, even though it might seem questionable since it means some people may encounter material disturbing to them. But it also gives our community the chance to speak out against hateful ideas. We revised our Community Standards to encourage people to make it clear when they’re sharing something to condemn it, but sometimes their intent isn’t clear, and anti-hatred posts get removed in error.
+
+On other occasions, people may reclaim offensive terms that were used to attack them. When someone uses an offensive term in a self-referential way, it can feel very different from when the same term is used to attack them. For example, the use of the word “dyke” may be considered hate speech when directed as an attack on someone on the basis of the fact that they are gay. However, if someone posted a photo of themselves with #dyke, it would be allowed. Another example is the word “faggot.” This word could be considered hate speech when directed at a person, but, in Italy, among other places, “frocio” (“faggot”) is used by LGBT activists to denounce homophobia and reclaim the word. In these cases, removing the content would mean restricting someone’s ability to express themselves on Facebook.
+
+Mistakes
+
+If we fail to remove content that you report because you think it is hate speech, it feels like we’re not living up to the values in our Community Standards. When we remove something you posted and believe is a reasonable political view, it can feel like censorship. We know how strongly people feel when we make such mistakes, and we’re constantly working to improve our processes and explain things more fully.
+
+Our mistakes have caused a great deal of concern in a number of communities, including among groups who feel we act — or fail to act — out of bias. We are deeply committed to addressing and confronting bias anywhere it may exist. At the same time, we work to fix our mistakes quickly when they happen.
+
+Last year, Shaun King, a prominent African-American activist, posted hate mail he had received that included vulgar slurs. We took down Mr. King’s post in error — not recognizing at first that it was shared to condemn the attack. When we were alerted to the mistake, we restored the post and apologized. Still, we know that these kinds of mistakes are deeply upsetting for the people involved and cut against the grain of everything we are trying to achieve at Facebook.
+
+Continuing To Improve
+
+People often ask: can’t artificial intelligence solve this? Technology will continue to be an important part of how we try to improve. We are, for example, experimenting with ways to filter the most obviously toxic language in comments so they are hidden from posts. But while we’re continuing to invest in these promising advances, we’re a long way from being able to rely on machine learning and AI to handle the complexity involved in assessing hate speech.
+
+That’s why we rely so heavily on our community to identify and report potential hate speech. With billions of posts on our platform — and with the need for context in order to assess the meaning and intent of reported posts — there’s not yet a perfect tool or system that can reliably find and distinguish posts that cross the line from expressive opinion into unacceptable hate speech. Our model builds on the eyes and ears of everyone on platform — the people who vigilantly report millions of posts to us each week for all sorts of potential violations. We then have our teams of reviewers, who have broad language expertise and work 24 hours a day across time zones, to apply our hate speech policies.
+
+We’re building up these teams that deal with reported content: over the next year, we’ll add 3,000 people to our community operations team around the world, on top of the 4,500 we have today. We’ll keep learning more about local context and changing language. And, because measurement and reporting are an important part of our response to hate speech, we’re working on better ways to capture and share meaningful data with the public.
+
+Managing a global community in this manner has never been done before, and we know we have a lot more work to do. We are committed to improving — not just when it comes to individual posts, but how we approach discussing and explaining our choices and policies entirely.
+
+Read more about our new blog series Hard Questions.
+
+*What’s in the numbers:

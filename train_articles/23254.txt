@@ -1,0 +1,22 @@
+A Swing-State Election Vendor Repeatedly Denied Being Hacked by Russians. The New Mueller Indictment Says Otherwise.
+Shortly before the 2016 presidential election, Russian military hackers tried to trick employees of VR Systems, a Florida-based e-voting vendor, into downloading computer-hijacking malware, according to a top-secret NSA report published by The Intercept last year . As recently as last month, the company denied any breach had occurred. But, in fact, the hacking attempt worked, judging from an indictment of 12 Russian military officers prepared by Special Counsel Robert Mueller and handed down by a grand jury today.
+
+Although the indictment doesn’t mention VR by name, referring to the polling and registration software maker as “U.S. Vendor” or “Vendor 1,” the facts laid out in the indictment line up with what was previously know about the 2016 spear-phishing campaign against the company. The indictment alleges that “in or around August 2016, [Russian military officer] KOVALEV and his co-conspirators hacked into the computers of a U.S. vendor (“Vendor 1″) that supplied software used to verify voter registration information for the 2016 U.S. elections.”
+
+Compare that to a section describing VR Systems from the NSA report:
+
+Russian General Staff Main Intelligence Directorate actors … executed cyber espionage operations against a named U.S. company in August 2016, evidently to obtain information on elections-related software and hardware solutions. … The actors likely used data obtained from that operation to … launch a voter registration-themed spear-phishing campaign targeting U.S. local government organizations.
+
+The indictment continues:
+
+In or around November 2016 and prior to the 2016 U.S. presidential election, KOVALEV and his co-conspirators used an email account designed to look like a Vendor 1 email address to send over 100 spearphishing emails to organizations and personnel involved in administering elections in numerous Florida counties.
+
+Compare that once more to the NSA report, which noted that Russian
+
+cyber actors used the [email protected] account to contact U.S. email addresses 1 to 122 associated with named local government organizations.
+
+Today’s indictment further states that “the spearphishing emails contained malware that the Conspirators embedded into Word documents bearing Vendor 1’s logo.” This lines up with documents obtained by The Intercept through a state public records request showing that the hackers used VR Systems’ logo in their attempt to further spread malware to the aforementioned local election officials across the country:
+
+
+
+VR Systems has repeatedly denied that it was ever hacked. When I asked VR last month about the NSA’s estimate that at least one employee of the company “likely” had their email account compromised, a company spokesperson replied: “To be clear, there was no ‘hack’ by any standard definition of the word.” The spokesperson added that “VR Systems engaged the services of one of the top cyber security companies in the world and they conducted a full assessment of our systems and determined that our system was not breached as a result of this attempt.” Based on the Department of Justice’s indictment, that is a falsehood.

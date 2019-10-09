@@ -1,0 +1,72 @@
+Overview
+The Prize: Empowering Personal Healthcare
+
+The Qualcomm Tricorder XPRIZE is a $10 million global competition to stimulate innovation and integration of precision diagnostic technologies, helping consumers make their own reliable health diagnoses anywhere, anytime.
+
+The dire need for improvements in personal health and healthcare in the U.S. has captured the attention of government, industry, and private citizens for years. But a viable solution has evaded the most technologically advanced, educated and prosperous nations on the globe. Integrated diagnostic technology--once available on a consumer mobile device that is easy to use--will allow individuals to incorporate health knowledge and decision-making into their daily lives.
+
+Advances in fields such as artificial intelligence, wireless sensing, imaging diagnostics, lab-on-a-chip, and molecular biology will enable better choices in when, where, and how individuals receive care, thus making healthcare more convenient, affordable, and accessible. The winner will be the team with the technology that most accurately diagnoses a set of diseases independent of a healthcare professional or facility, and that provides the best consumer user experience with its device.
+
+The $10 million Prize Purse will be awarded as follows:
+
+Best-in-Category Prize: US$6 million will be awarded to the best scoring team meeting or exceeding 70% accuracy in diagnosis for all 10 core and 3 elective conditions
+
+Second-Best-in-Category Prize: US$2 million will be awarded to the second best scoring team meeting or exceeding 70% accuracy in diagnosis for all 10 core and 3 elective conditions
+
+Vital Signs in Category Prize: US$1 million will be awarded to the team with best vital score this includes upload and accuracy
+
+The Milestone Awards: US$1 million, awarded in Q4 2016, Teams demonstrated (via lab testing and actual human testing) achievement in accuracy for the Competition re-entry criteria
+
+The winning teams are:
+
+Lab Test Demonstration Milestone: Team Danvantri (India), Team DMI (USA), Team Dynamical Biomarkers Group (Taiwan), Team Final Frontier Medical Devices (US), Team Intelesens-Scanadu (United Kingdom)
+
+Team Danvantri (India), Team DMI (USA), Team Dynamical Biomarkers Group (Taiwan), Team Final Frontier Medical Devices (US), Team Intelesens-Scanadu (United Kingdom) Tricorder Human Qualification Milestone: Team Dynamical Biomarkers Group (Taiwan) and Team Final Frontier Medical Devices (US)
+
+The Device Itself
+
+As envisioned for this competition, the device will be a tool capable of capturing key health metrics and diagnosing a set of 12 diseases. Metrics for health could include such elements as blood pressure, respiratory rate, and temperature. Ultimately, this tool will collect large volumes of data from ongoing measurement of health states through a combination of wireless sensors, imaging technologies, and portable, non-invasive laboratory replacements.
+
+The devices are expected to accurately diagnose 13 health conditions (12 diseases and the absence of conditions) – 10 required core conditions and a choice of three elective conditions – in addition to capturing five real-time health vital signs, independent of a health care worker or facility, and in a way that provides a compelling consumer experience.
+
+Required Core Health Conditions (10): Anemia, Atrial Fibrillation (AFib), Chronic Obstructive Pulmonary Disease (COPD), Diabetes, Leukocytosis, Pneumonia, Otitis Media, Sleep Apnea, Urinary Tract Infection, Absence of condition.
+
+Elective Health Conditions (Choice of 3): Cholesterol Screen, Food-borne Illness, HIV Screen, Hypertension, Hypothyroidism/Hyperthyroidism, Melanoma, Mononucleosis, Pertussis (Whooping Cough), Shingles, Strep Throat.
+
+Required Health Vital Signs (5): Blood Pressure, Heart Rate, Oxygen Saturation, Respiratory Rate, Temperature.
+
+Given that each team will take its own approach to design and functionality, the device's physical appearance and functionality may vary immensely from team to team. Indeed, the only stated limit on form is that the mass of its components together must be no greater than five (5) pounds. But because an important part of the qualifying round will be evaluating consumer experience in using it, the limitations set by this competition will force teams to make choices. Teams will have to consider tradeoffs amongst weight, functionality, power requirements, battery life, screen resolution, AI engine location, diagnosis capability, end consumer cost, and so on.
+
+Beyond the weight requirement, there is no limit as to how many discrete components constitute a viable solution. For example, teams may use sensors that are attached to a phone-like control unit, fastened individually to the consumer, or kept apart and reserved for occasional use or home monitoring. Similarly, teams may create a tool that has a large screen, a small screen, or perhaps even no screen (audio only). Systems must include a way for consumers to store and share their information, which must be accessible remotely via the Internet. Additionally, teams are expected to follow guidelines and protocols that help ensure that consumer safety is held in the highest regard. This includes avoiding harm from electrical energy, thermal energy, chemical exposures, needles, lancets, and infection.
+
+As part of the Final Round, teams will compete in both diagnostic experience evaluations and consumer testing, slated for late 2016. The final judging and awards ceremony is scheduled to take place in 2017.
+
+Throughout the competition, the U.S. Food and Drug Administration (FDA) is offering regulatory input to the competing teams and helping them prepare for potential FDA review post-competition.
+
+The Need for the Prize
+
+In virtually every industry, end consumer needs drive advances and improvements. Except in healthcare. Very few methods exist for consumers to receive direct medical care without seeing a healthcare professional at a clinic or hospital, creating an access bottleneck. Despite substantial investment to improve the status quo, even average levels of service, efficiency, affordability, accessibility, and satisfaction remain out of reach for many whom the system was intended to help. A prize is thus sorely needed.
+
+In response to this widespread need, the Qualcomm Tricorder XPRIZE will:
+
+Address the dual challenge of a) transforming healthcare by turning the "art" of medicine into a science, and b) making health an integrated part of individuals' daily lives.
+
+Tackle needed breakthroughs in sensing technologies, technological integration, regulatory acceptance, and the perception that healthcare should be controlled by only a few skilled parties.
+
+Incentivize teams to focus on a) precision diagnosis and measurement that is independent of healthcare institutions/professionals and on b) consumer needs/adoption.
+
+Facilitate necessary partnerships and regulatory pathways required for this major transformation.
+
+Inspire a future where consumers demand the tools to assess and manage their health independent of a hospital or doctor's office.
+
+Spark the creation of markets and products that offer medical detection, prevention, and management, as well as more complete diagnostics.
+
+Genesis of the Competition
+
+Each year, the XPRIZE Foundation gathers thought leaders from around the world, for a 3-day summit called Visioneering, to debate and brainstorm solutions to the world’s “Grand Challenges” through incentivized prize competitions. During one session in 2010, The Artificial Intelligence (AI) Physician and Lab-on-a-Chip prizes were conceived. Immediately, it became clear these two concepts complemented each other and should be combined into one prize with a new and unique focus on consumer needs rather than a device for clinicians and doctors.
+
+It was envisioned that this hand-held consumer device would allow individuals to access the state of their own health anytime, anywhere, and potentially revolutionize how people could interact with the healthcare system. Contributing to both prize development and the architecture of prize design was Dr. Daniel Kraft, a Stanford and Harvard-trained physician-scientist with over 20 years of experience in clinical practice, biomedical research and innovation.
+
+In early December 2010, Dr. Peter H. Diamandis, the Founder and Executive Chairman of the XPRIZE Foundation, met with Don Jones, Vice President of Global Strategy and Market Development for Qualcomm Incorporated’s Wireless Health group, now Qualcomm Life, Inc. During these conversations, the scope of the prize began to rapidly take form. Mr. Jones saw how the prize conceptually would lead to development of a device akin to the famous Star Trek “Tricorder,” and initiated a meeting with Dr. Paul E. Jacobs, Qualcomm Chairman and CEO and Qualcomm Foundation Chair.
+
+Dr. Jacobs immediately saw the potential value of the competition. Following initial prize development underwritten by Qualcomm, the Qualcomm Foundation agreed to sponsor the competition, enabling the Tricorder XPRIZE to become a reality, culminating in the launch of the Qualcomm Tricorder XPRIZE competition at the Consumer Electronics Show (CES) in January 2012. The announcement of the prize was made during Dr. Paul Jacobs’ keynote address. Dr. Diamandis joined Dr. Jacobs on stage to introduce the competition. By launching this incentivized competition, the XPRIZE Foundation and the Qualcomm Foundation seek to make 23rd century science fiction a 21st century medical reality that will empower consumers to take control of their own healthcare, improving the quality of life for people everywhere.

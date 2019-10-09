@@ -1,0 +1,78 @@
+Now it's easier to account for how the Senate spends your money
+Sunlight turned this . . .
+
+...into this.
+
+Did you know the U.S. Senate had seven barbers on staff at the start of 2014? That 200 people working for the Senate had "press secretary" in their title? Or that Sen. Mary Landrieu's office spent $14,727.77 of taxpayer money on a staff retreat at Loew's Annapolis Hotel between March 29 and March 31, 2012?
+
+All of these details come from a series of reports on expenditures issued by the secretary of the Senate every six months. In their original format — 1,800-page PDF documents — they are nearly useless for analysis. But we believe we've managed to extract three years of line itemizations, more than 300,000 overall, into a series of spreadsheets, representing three years of Senate expenditures, from April 2011 through March 2014.
+
+This is, to our knowledge, the first public release of Senate disbursement data in an easy-to-use format. It should help journalists, political scientists and other motivated citizens get their arms around how the Senate is spending the taxpayers' money.
+
+The Sunlight Foundation has been processing the more straightforward House disbursement data since 2009. Having this data in an easy-to-sort format has led to a number of interesting revelations, both from Sunlight's reporting and that of others.
+
+We hope putting the Senate data into a similarly structured format will enable similar analysis and watchdogging.
+
+The downloads
+
+For the impatient, the files are linked below, though you'll need to consult the readme about what the columns mean. A more complete explanation of what's being captured — and a sample page — follows below.
+
+Note that parsing these files is not a straightforward process. Lines appear slightly differently, some expenses run over multiple lines, subtotals appear at random intervals, and the volume of data makes 100% verification impossible. Each line item includes a reference to the page number it appears on to help users doublecheck whenever necessary. We've spot-checked this data and believe it to be accurate, but please contact Clayton Dunwell -- cdunwell@sunlightfoundation.com -- about any lines that appear to be incorrect. Feel free also to fork the open source code that generated these files here.
+
+April 1, 2011 to Sept. 30, 2011
+
+Oct. 1, 2011 to March 31, 2012
+
+April 1, 2012 to Sept. 30, 2012
+
+Oct. 1, 2012 to March 31, 2013
+
+April 1, 2013 to Sept. 30, 2013
+
+Oct. 1, 2013 to March 31, 2014
+
+April 1, 2014 to Sept. 30, 2014
+
+Oct. 1, 2014 to March 31, 2015
+
+April 1, 2015 to Sept. 30, 2015
+
+How the data corresponds to the reports
+
+See a full-sized version of the below on document cloud — or click the full-screen icon in the lower left to expand this. You'll probably want to zoom in to read the report's tiny print.
+
+Data Columns
+
+The following columns contain the data found in these files:
+
+source_doc: This is the name of the original document the line item is taken from.
+
+senator_flag: This is either a "1" or a "0". It is a "1" if this is a Senator's office; however, leadership positions, like the majority leader, are given a 0.
+
+senator_name: This is the name of the senator if it appears in the office. A name has not been assigned to leadership positions, e.g. majority leader.
+
+raw_office: This is the complete text that appears in the upper-left hand corner of the report page. Typically it includes the name of the office, the funding period and any additional information. Example value: "SGT @ ARMS - CENTRAL OPERATIONS Funding Year 2014 SALARIES, OFFICERS AND EMPLOYEES, SENATE".
+
+funding_year: This value is parsed from the raw_office, and is only populated if a fiscal year is specified. Some funding years (e.g. 1418) are not years but a four-year span (2014-2018).
+
+fiscal_year: This value is parsed from the raw_office, and is only populated if a fiscal year is specified.
+
+congress_number: This value is parsed from the raw_office, and is only populated if a congress number is specified.
+
+reference_page: This is the page that the line item appears on in document-order. That is, if the first page in the document is page 1. The documents themselves are often paginated by section (e.g. B-331).
+
+document_number: This is the "Document No." field from the reports. It is not present in all lines.
+
+date_posted: This is the "Date Posted" field from the report.
+
+start_date: This is the "start" half of the "obligation service dates" column. This is generally missing for salaries. The convention is for salaries to be paid for the entire time period that the report covers, unless specified otherwise in the description field.
+
+end_date: This is the "end" half of the "obligation service dates" column.
+
+description: This is the "description field" as entered, except for travel expenses that span multiple lines. Whenever possible, we have added the travel destinations to the incidentals, per diems and travel reimbursement lines. We've used a plus sign to show where these have been appended: e.g. "STAFF INCIDENTALS + WASHINGTON DC TO LAS VEGAS AND RETURN" for a "STAFF INCIDENTALS" line item for a trip that was described as "WASHINGTON DC TO LAS VEGAS AND RETURN". The visual example makes this part a bit clearer.
+
+salary_flag: A "1" or a "0". This is a "1" if this is regularly paid salary. This is a "0" for per diems, travel reimbursements or any payments where a date range is specified.
+
+amount: The cost, in dollars.
+
+payee: The name of the person or company receiving the money.

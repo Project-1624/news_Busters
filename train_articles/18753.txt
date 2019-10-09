@@ -1,0 +1,22 @@
+Unemployment Rate: Women
+NOTES
+
+Source: U.S. Bureau of Labor Statistics
+
+Release: Employment Situation
+
+Units: Percent, Seasonally Adjusted
+
+Frequency: Monthly
+
+Notes:
+
+To obtain estimates of women worker employment, the ratio of weighted women employees to the weighted all employees in the sample is assumed to equal the same ratio in the universe. The current month's women worker ratio, thus, is estimated and then multiplied by the all-employee estimate. The weighted-difference-link-and-taper formula (described in the source) is used to estimate the current month's women worker ratio. This formula adds the change in the matched sample's women worker ratio (the weighted-difference link) to the prior month's estimate, which has been slightly modified to reflect changes in the sample composition (the taper).
+
+
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+
+
+The source code is: LNS14000002

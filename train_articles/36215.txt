@@ -1,0 +1,27 @@
+What is the difference between electricity generation capacity and electricity generation?
+
+Capacity is the maximum electric output an electricity generator can produce under specific conditions. Nameplate capacity is determined by the generator's manufacturer and indicates the maximum output of electricity a generator can produce without exceeding design thermal limits.
+
+Net summer capacity and net winter capacity are typically determined by a performance test and indicate the maximum electricity load a generator can support at the point of interconnection with the electricity transmission and distribution system during the respective season. There are two primary factors that affect or determine the difference in capacity between summer and winter months:
+
+The temperature of cooling water for thermal power plants or the temperature of the ambient air for combustion turbines
+
+The water flow and reservoir storage characteristics for hydropower plants
+
+Generation is the amount of electricity a generator produces over a specific period of time. For example, a generator with 1 megawatt (MW) capacity that operates at that capacity consistently for one hour will produce 1 megawatthour (MWh) of electricity. If the generator operates at only half that capacity for one hour, it will produce 0.5 MWh of electricity. Many generators do not operate at their full capacity all the time. A generator's output may vary according to conditions at the power plant, fuel costs, and/or as instructed by the electric power grid operator.
+
+Net generation is the amount of gross electricity generation a generator produces minus the electricity used to operate the power plant. These electricity uses include fuel handling equipment, water pumps, combustion and cooling air fans, pollution control equipment, and other electricity needs.
+
+Learn more:
+
+Data on electric power plants generating capacity
+
+Data on electricity generation and thermal output
+
+Existing nameplate and net summer capacity by state, type of producer, and energy source (historical data file from1990 to most recent year available)
+
+Net generation by state, type of producer, and energy source (historical data file from1990 to most recent year available)
+
+Last updated: February 23, 2016
+
+Other FAQs about Electricity

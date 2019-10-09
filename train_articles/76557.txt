@@ -1,0 +1,122 @@
+Rethinking high school graduation rates and trends
+April 2006 | EPI book
+
+Rethinking high school graduation rates and trends
+
+by Lawrence Mishel and Joydeep Roy
+
+Jump to:
+
+Table of contents | Introduction | About the authors
+
+News release
+
+Read full text of this book [PDF, 1.2 MB]
+
+Purchase this book
+
+Listen to an April 2006 debate on high school completion featuring Lawrence Mishel
+
+Read statement from Educational Testing Service expert Paul E. Barton on this book
+
+Read answers to questions that have arisen in the public discussion of the issues raised in this book
+
+Table of contents
+
+INTRODUCTION
+
+I. Motivation: The debate
+
+II. National longitudinal data
+
+III. Graduation rates using school enrollment and diploma data
+
+IV. Census Bureau Household Survey data
+
+V. Using the Integrated Public Use Microdata Series from the 2000 census to assess high school completion and potential biases in the CPS
+
+VI. Historical trends
+
+VII. The General Education Development (GED) test issue
+
+VIII. Comparing alternative measures of high school completion
+
+CONCLUSION
+
+APPENDIX A: National longitudinal studies
+
+APPENDIX B: Case studies based on longitudinal data from Florida, Chicago, and New York City
+
+APPENDIX C: Methodology of the Integrated Public Use Microdata Series (IPUMS) data analysis
+
+Endnotes
+
+References
+
+About EPI
+
+Introduction
+
+Growing national attention has been paid of late to high school graduation rates in general, and the black-white and the Hispanic-white graduation gaps, in particular. This reflects a belief in the important role of education in a knowledge-driven economy, and an appreciation of the fact that those without at least a high school diploma will be more severely handicapped in their labor market prospects than those who have a diploma. The No Child Left Behind Act of 2002 includes on-time graduation as one of its important objectives.
+
+Unfortunately, there is a lack of agreement on the magnitude of high school completion rates in the United States, as well as its trends over the last 10, 20, or 30 years. The status completion data, as reported by the Department of Education in the widely circulated Digest of Education Statistics, The Condition of Education, and other publications, show the percentages of members of various age groups who have completed high school and are based on household surveys (the Current Population Survey (CPS)) conducted by the Census Bureau. There are also household data showing the shares of the population in certain age ranges that have completed high school, college, and so on or have no degree whatsoever (effectively dropouts).
+
+Several respected education policy analysts have severely criticized these “status completion rates” for allegedly overstating completion rates. Instead, several new measures of high school completion have been proposed, mostly based on administrative data on enrollment in public schools and diplomas awarded then reported to the Department of Education by state education agencies. These new measures show much lower graduation rates than the household surveys.1
+
+This study reviews the available data on high school completion and dropout rates and their historical trends and finds that high school completion has been increasing and dropouts declining for over 40 years, though the improvements have been modest over the last 10 years or so. Unfortunately, we also find that some frequently cited statistics on high school completion that are based on the administrative and enrollment data mentioned above are seriously inaccurate. A recent National Governors Association taskforce report (2005, 9) cites these erroneous data, stating:
+
+[W]e know that about a third of our students are not graduating from high school….About three-fourths of white students graduate from high school, but only half of African American and Hispanic students do.
+
+This statement reflects an increasingly used but incorrect characterization of the rate of high school graduation calculated from enrollment data reported by school districts and collected by the states and the federal government. This study finds that these analyses are contradicted by better data collected by the U.S. Department of Education that follow actual students’ experiences and by the Census Bureau surveys of households. The new ‘wisdom’ —using enrollment and diploma data to measure graduation rates—exaggerates the extent of dropouts and fails to reflect the tremendous progress over the last 10, 20, or 40 years in increasing high school completion and in closing the black-white and the Hispanic-white graduation gaps.
+
+We make no claim that our findings are novel—a leading expert on the measurement of high school completion and dropouts, Phillip Kaufman, came to many of the same conclusions over four years ago in a paper presented at the Harvard University Civil Rights Project Conference on Dropout Research in 2001 (Kaufman 2001).2 Our study surveys what is known, and not known, about high school completion rates—both their current levels and the historical trends. This requires examining a range of data sources, including those based on school records, household surveys, and longitudinal tracking of students. To assess these data this study examines a wide array of measurement issues including: the extent of bias in household surveys from a limited sample (excluding the military, prison, and other institutional populations); the growth of high school completion by equivalency exams; and the bias arising from the inclusion of recent immigrants (most of whom were never enrolled in U.S. schools) in some measures. This study pays particular attention to the graduation rates of minorities in order to assess the claim that they have only a 50/50 chance of completing high school.
+
+Among other things, our results suggest that, though it has significant biases, the Current Po
+
+pulation Survey (CPS) provides a reasonable snapshot of educational attainment in the country and can be adjusted to provide trends in high school completion across different years. We find no reason to presume that the biases in the CPS are serious enough to render CPS data less accurate than administrative data. On the other hand, there have been few efforts by education policy analysts who rely on administrative data to investigate whether these data are themselves sufficiently accurate to support reliable conclusions about high school completion. We have also examined data from one state and two large cities that allow us to compare graduation rates based on student longitudinal data to the graduation rates used in this new wave of research: these analyses indicate that these new measures can be significantly inaccurate.
+
+Our research finds that the conventional measures of high school completion computed from the school enrollment and diploma data are much lower than that of all of the other data and far below that of the very best data, i.e., the National Education Longitudinal Study (NELS). We also concluded that high school completion has grown significantly over the last 40 years and the black-white gap has shrunk significantly. Over the last 10 years, however, there has been little improvement, except among Hispanics. In particular, this study finds:
+
+The overall high school graduation rate with a regular diploma is between 80% and 83%, with the best data (NELS) showing an 82% rate. All of the household and longitudinal data sources show a higher graduation rate than the two-thirds rate computed using the school-based enrollment/diploma data.
+
+Estimates of the black rate of graduation from high school with a regular diploma range between 69% and 75%, with the NELS showing a 74% graduation rate. This is substantially higher than the frequently alleged 50% rate for blacks, reported from the school-based enrollment/diploma data. Moreover, the NELS data suggest that the alleged 50% dropout rate is double the actual dropout rate for blacks. In fact, the dropout rate for blacks is closer to 25% and roughly half of those obtain a GED, which allows entry into post-secondary education, the military, and other second-chance systems.
+
+Estimates of Hispanic high school graduation rates with a regular diploma range between 61% and 74%, with the NELS showing a 74% rate. This is substantially higher than the frequently alleged 50% rate for Hispanics reported from the school-based enrollment/ diploma data. Further, these data do not account for the additional 9% to 12% of Hispanics who receive a GED, which allows entry into post-secondary education, the military, and other second-chance systems.
+
+There remain substantial race/ethnic gaps in graduation rates with regular diplomas. Analysis of census data shows that in 2000, for those ages 25-29, there was a black-white gap of about 15 percentage points and a Hispanic-white gap of 23 percentage points.
+
+High school completion (either by diploma or GED) grew substantially from 1960 to the early to mid-1990s. This study looked at those aged 25-29 and found that in 1962 only 41.6% of blacks and 69.2% of whites completed high school, a 27.6 percentage point racial gap. By 1980 the racial gap had been cut by 63% to 10.3 percentage points, with both blacks and whites improving their graduation rates (to 86.9% for whites and to 76.6% for blacks). The racial gap was closed further to 6.0 percentage points by 1994 and to 5.0 percentage points by 2004.
+
+Trends in Hispanic graduation rates are difficult to track since it is important to be able to identify recent immigrants who were not enrolled in U.S. schools. This can be done with the data from 1994 and more recent years and the data reveal that the Hispanic completion rate (either by diploma or GED) has grown from 76% to 81.3% from 1994 to 2004. • Increased incarceration of black men (and not any other race/gender group) leads some measures to overstate black high school completion and its growth over the last 10 years or so. Or, one could say that the increased graduation rates of non-institutionalized black men were offset by increased incarceration of other black men.
+
+We find that the school-based enrollment/diploma data show an inaccurately low graduation rate, especially when diplomas are compared to ninth grade enrollment. This is because ninth-grade enrollment includes many students who have been retained as well as those entering ninth grade. This ninth-grade ‘bulge’ (counting those retained as well as those entering) has grown substantially over the last 10 and 20 years, leading to a wrong conclusion that graduation rates have fallen. School enrollment/ diploma data, corrected for the bulge, show a steady graduation rate.
+
+The results for minorities are especially biased since there are 23% more minorities in ninth grade than eighth grade. Simply comparing diplomas to the relevant eighth rather than ninth-grade class yields graduation rates for blacks of 61% and Hispanics of 64.5% rather than the 50% graduation rate frequently cited from the school-based enrollment/ diploma data. Even with a correction for the ninth-grade bulge, these data yield graduation rates that are low relative to other, better data.
+
+We were able to compare the various graduation rates (Swanson 2003 & 2004; Greene and Forster 2003; Greene and Winters 2005; Warren 2005; and Haney et al. 2004) computed with school enrollment data to the results from three studies using student longitudinal data drawn from the same school-based data. Our examination of data from the state of Florida and from New York City indicates that student longitudinal data show much higher graduation rates than those produced by the conventional school enrollment-based measures. This indicates that the computations that underlie the new conventional wisdom are seriously inaccurate.
+
+We also compare the conventional school-based rate to those of a study that tracks Chicago students and shows graduation rates from 1996 to 2004 (Allensworth 2005). For some years the longitudinal data correspond to the conventional measures. However, the longitudinal data show steady progress (up eight percentage points), but the conventional measures show no progress for most of the period, indicating that these measures inaccurately portray trends.
+
+There has been little examination of the procedures, consistency, and benchmarking of the school enrollment and diploma data, so it is hard to know why they produce such low estimates. However, if these data are incorrect at the national level and in the Florida, New York City, and Chicago case studies, then they should not be used for school district or state calculations. We may have to wait for data that track individuals to truly know graduation rates at the local level.
+
+This study is organized as follows. Section I discusses in more detail the contradictions between the official graduation statistics and those estimated in recent studies, and why the issue is critical in any discussion about performance of U.S. high schools. Section II summarizes the information on graduation rates from the different longitudinal studies undertaken in the recent past by the Department of Education (DOE), as well as the Bureau of Labor Statistics (BLS). The rates of high school completion in these studies, which track individual students over time and sometimes include transcript verification of completion, are significantly higher than those estimated in recent studies. Section III discusses in detail the results from recent st
+
+udies that use administrative data on enrollment and diplomas—data reported by the individual states to the DOE. Sections IV and V examine graduation rates estimated from household surveys conducted by the Census Bureau—the annual Current Population Surveys (CPS) and the decennial (2000) census. Section IV deals with graduation rates based on CPS. This is used by the DOE in its various publications but has been severely criticized recently. We analyze the various sources of bias in these CPS surveys and argue that many of these biases can be overcome by considering graduation rates from the 2000 census micro data (which we do in the next section) or the longitudinal studies referred to earlier. The microdata from the 2000 census, called the Integrated Public Use Microdata Series (IPUMS), allow us to calculate graduation rates for the institutionalized population and the military, which are excluded from the CPS sample frame, and to document the important role played by recent immigration in biasing graduation rates downward. These results are shown in Section V. In Section VI we discuss the historical trends in graduation rates, with particular emphasis on the graduation rates for minorities. Section VII analyzes the important role of the General Education Development certificate (GED) as an alternative way of completing high school, particularly among blacks and Hispanics. Finally, Section VIII brings all the different estimates together and compares them.
+
+Appendix A briefly discusses the methodology and the sampling framework of the national longitudinal surveys discussed in the text. Appendix B discusses reports using longitudinal data from Florida, Chicago, and New York City. These allow us to compare measures of graduation rates proposed in the recent studies to much better estimates of graduation rates based on tracking of individual students through their high school years. Appendix C discusses the decennial census Integrated Public Use Microdata Series (IPUMS) data set in more detail and the methodology we use for calculating the graduation rate.
+
+About the Authors
+
+Lawrence Mishel came to the Economic Policy Institute in 1987. As EPI’s first research director and now president, he has played a significant role in building EPI’s research capabilities and reputation. He is a labor market economist and holds a Ph.D. in economics from the University of Wisconsin. He is principal author of EPI’s flagship publication, The State of Working America, which provides a comprehensive overview of the U.S. labor market and living standards. He is also one of the principal authors of How Does Teacher Pay Compare? Methodological Challenges and Answers and The Charter School Dust-Up: Examining the Evidence on Enrollment and Achievement, as well as a co-editor of The Class Size Debate.
+
+Joydeep Roy joined the Economic Policy Institute after receiving his Ph.D. from Princeton University. His areas of research interest include the economics of education, education policy, and related fields in public and labor economics, including socio-economic segregation.
+
+Acknowledgments
+
+We are greatly appreciative for the data, advice, and comments we received from a variety of people. Of course, no one other than the authors is responsible for the product. Julie Yates at Bureau of Labor Statistics kindly provided some NLSY results. Census Bureau staff also provided information and data (Kurt Bauman, Greg Weyland, Carol Gunlicks). We also benefited from discussions with and information from NCES staff (Chris Chapman, Lee Hoffman, Jeffrey Owings, Tom Snyder, Marilyn Seastrom). Stephen Ruffini from American Council on Education provided GED data. Harry Holzer and Henry Chen provided tabulations of NLSY97 data. Cliff Adelman shared his knowledge of and tabulations from the NELS data. Our colleagues at EPI (Jin Dai, Danielle Gao, Yulia Fungard, and David Ratner) developed and tabulated data for us and helped prepare presentations. Russ Rumberger, Paul Barton, and Richard Rothstein provided a detailed review and many insights. We also received useful comments and information from Cynthia Lim, Leslie Scott, Bill Spriggs, Robert Balfanz, Daniel Losen, Arturo Vargas, Chris Swanson, Bella Rosenberg, Walt Haney, Rob Warren, Ed Croft, Elaine Allensworth, Eileen Foley, Martin Carnoy, Gary Orfield, Cyndi Holleman, Charles Kamasaki, Melissa Lazarin, Delia Pompa, Raul Gonzales, and Tom Mortenson. We also greatly appreciate the work of the EPI publications, policy, and communications departments, particularly Ellen Levy, Ross Eisenbrey, Nancy Coleman, and Stephaan Harris, for their work in preparing this report and doing outreach to the media. Last, Larry wishes to thank Alyce Anderson for her continuing support of all of his activities.
+
+This report is part of EPI’s education research program, which has received funding from the American Federation of Teachers, the National Education Association, the Spencer Foundation, the William and Flora Hewlett Foundation, the Metropolitan Life Foundation, and other contributors.
+
+Read full text of this book [PDF, 1.2 MB]
+
+Purchase this book

@@ -1,0 +1,82 @@
+S&P 500 Return Calculator, with Dividend Reinvestment
+Below is a S&P 500 return calculator with dividend reinvestment, a feature too often skipped when quoting investment returns. It has Consumer Price Index (CPI) data integrated, so it can estimate total investment returns before taxes. It uses data from Robert Shiller, available here.
+
+Also: Our S&P 500 Periodic Reinvestment calculator can model fees, taxes, etc. The S&P 500 History Calculator lets you compare time periods. Also see our CAPE/Shiller PE calculator for valuation. For all our calculators, go to this page.
+
+Editor: Last data is 5/30 Close
+
+The S&P 500 Dividends Reinvested Price Calculator
+
+One issue you run into a lot when you are discussing optimal savings strategies is the inability of people discussing their returns versus the S&P 500 to produce a fair comparison. They will say, for example, that the S&P 500 index was at the same level as it was at some time in the past – so therefore investing in the index was a waste of time. Here’s the key to this S&P 500 return calculator:
+
+S&P 500 Index Return – The total price return of the S&P 500 Index. So if it is at 1000 on the start and end date, this will be 0.
+
+– The total price return of the S&P 500 Index. So if it is at 1000 on the start and end date, this will be 0. S&P 500 Index Annualized Return – The total price return of the S&P 500 index (as above), annualized. This number basically gives your ‘return per year’ if your time period was compressed or expanded to a 12 month timeframe.
+
+– The total price return of the S&P 500 index (as above), annualized. This number basically gives your ‘return per year’ if your time period was compressed or expanded to a 12 month timeframe. S&P 500 Dividends Reinvested Index Return – The total price return of the S&P 500 if you had reinvested all of your dividends.
+
+– The total price return of the S&P 500 if you had reinvested all of your dividends. S&P 500 Dividends Reinvested Index Annualized Return – The total price return of the S&P 500 if you reinvested dividends . Again, it will annualize the return given above.
+
+The total price return of the S&P 500 if you reinvested dividends Again, it will annualize the return given above. Inflation Adjusted (CPI)? – Whether the calculation you did is using CPI adjusted values provided by Shiller, or showing return before inflation. Hit the checkbox above the buttons to turn on or off the inflation adjustment.
+
+Methodology of the S&P 500 Return Calculator
+
+
+
+Professor Shiller lists his methodology on his site – all values internal to this tool use the values he provided (outside of the most recent month).
+
+How do monthly S&P 500 prices work?
+
+Note is that the month’s ‘Price’ isn’t the price on a particular day, but an average of closing prices. It answers “what did the average investor who invested randomly during the beginning month and sold randomly during the ending month do?”.
+
+Let me say that again in a different way: other than the most recent month, which is tied to one closing price (and listed in the editor note at the top of the page), the month DOES NOT correspond to an individual day.
+
+It’s a guess at an average investor’s price basis (or sale price) if they bought (or sold) “at some point” in the month.
+
+Also, important (since it comes up often in the comments): because it isn’t an individual date, that means when you’re trying to compute yearly returns, you need to be careful to pick twelve months – so, if you were interested in the annual return of 2013, you would pick Jan-2013 to Jan-2014 or Dec-2012 or Dec-2013 to get roughly 12 months.
+
+If you want exact dates, you will have to look elsewhere, perhaps at the products S&P has on their index site.
+
+How do dividend prices work?
+
+To calculate the ‘dividend reinvested’ price index:
+
+Take the trailing twelve month dividend yield reported in any month of Shiller’s data.
+
+Divide by 12 to get an approximate count of dividends paid out in a month.
+
+Calculate how many ‘shares’ of the S&P 500 index you can buy.
+
+Run a cumulative count from your start to your chosen end date.
+
+Is this completely accurate? No, but it would be nigh impossible to go back and calculate exact S&P 500 payout dates and figure out what the index was trading at on that date. Deal with it – over a long enough period the dividends will roughly balance out.
+
+Also, transaction fees and management costs aren’t included, which would come out of a ‘real’ investor’s return.
+
+Other Calculators and Other Ways to See S&P 500 Historical Return Data
+
+We also present this data from the perspective of average return over various time periods.
+
+(We did an analysis of Donald Trump’s net worth vs. investing in the S&P 500).
+
+
+
+Implications of the S&P 500 Calculator
+
+
+
+Does it mean a lot to include reinvested dividends? Well, yes.
+
+Consider the following – in July 1999 Shiller’s data has the S&P 500 at 1380.99.
+
+In April 2012? 1386.43. If you only used the price return of the S&P 500 you’d appear to have made a .394% gain, when, dividends reinvested, it was more like a 26.253%% gain.
+
+It seems shabby, but the effect is much more pronounced over longer periods of time. Consider from January 1950 until April 2012 the return was 8,182.464% for the index price and a whopping 66226.545% for the dividends reinvested index. In short? Since 1950, roughly 89% of your gains would have come from reinvesting your dividends.
+
+(Still think it’s shabby?)
+
+Thank Yous
+
+To Robert Shiller for posting his data publicly.
+
+To Ken Faulkenberry at Arbor Investment Planner for finding an error with the dividend calculation in the first tool release (fixed in 2012).

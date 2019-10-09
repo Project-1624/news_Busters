@@ -1,0 +1,150 @@
+SIM Swap Fraud Offers Account Takeover Opportunities for Cybercriminals
+Key Takeaways
+
+• The term SIM swapping has historically referred to phone number takeover using a variety of different methods. These have included password reuse, social engineering of customer service professionals, and using leaked databases and personal information (such as Social Security numbers (SSNs) to facilitate phone line takeover. More recently, observed online activity suggests that organized operations use insider recruitment at the retail level to perform SIM swaps. Assessment and obtained intelligence suggests that almost all major mobile phone carriers are at risk, and that a user’s good security practices are unlikely to stop a targeted attack.
+
+• Flashpoint analysts assess with high confidence that the potential impact of SIM swapping is likely high for anyone targeted in such attacks. While Flashpoint has observed extensive targeting of high-profile individuals and owners of unique usernames that confer social status, financial fraud has also been observed, including targeting online wallets such as Paypal and Bitcoin.
+
+• Mitigations for SIM swap fraud largely rely on website owners changing their authentication logic. Since most websites cannot detect a SIM swap, use of phone numbers for password recovery or two-factor authentication (2FA) remains vulnerable to this attack vector, and mitigations initiated by the end user are not entirely effective.
+
+Background
+
+The term SIM swapping has historically referred to phone number takeover using a variety of different methods. These have included password reuse, social engineering of customer service professionals, and using leaked personal information (such as SSNs) to authenticate access to and subsequently modify an account. Historically, gamer communities have used SIM swapping to take over high-profile social media accounts and obtain accounts with OG (original) usernames. OG usernames are often a signifier that the user registered on a platform early, conferring social status in some online communities. Dictionary words and short usernames are typically highly desirable, so a username of “dog” is considered far more desirable than “dog789;” typically, a single character username is the most desirable. In the past, this activity had only minor financial motivations, but this appears to have shifted.
+
+Over time, people engaged in this activity have amassed a collection of techniques that they use for the targeted takeover of accounts with a high rate of success. Most of these techniques require a security lapse on the victim’s part, but some do not.
+
+Insider Recruitment Campaign
+
+Flashpoint analysts observed an insider recruitment campaign mostly targeting employees at mobile phone carriers. In this campaign, threat actors paid insiders a small sum of money in exchange for executing a SIM swap on a targeted customer’s account.
+
+In this campaign, attackers took over prominent users’ social media accounts and posted recruitment spam. These hijacked accounts had a large number of followers and a high degree of follower engagement, so these posts reached a wide audience before being deleted.
+
+Flashpoint analysts were able to determine that all the affected users had their phone numbers hijacked; attackers used that access to hijack their email addresses and social media accounts, thereby locking the original owners out of the accounts entirely. Some lockouts were remediated with a call to the company’s customer service, but some websites were extremely difficult or impossible to recover stolen accounts from. Some victims reportedly gave up trying to regain control of their accounts, so some thefts were effectively permanent.
+
+Anyone responding to the recruitment advertisements would be vetted by the hijacker to ensure that they really are an employee of the company, and that they are willing to abuse their employee access in exchange for money.
+
+One example conversation is below. Flashpoint analysts redacted specific names to protect sources and censored profanity:
+
+Insider: I work at [company name]
+
+Hacker: If so
+
+Hacker: whats [company internal tool name]
+
+Insider: its an application used to look at business and client info why
+
+Hacker: ok what else can u do on it
+
+Insider: Process payments basically the whole business runs off this app
+
+Insider: But it wont be around for much longer so idk why you need to know this
+
+Insider: Do you wanna change rate plans?
+
+Hacker: ok
+
+Hacker: what else
+
+Insider: What do you mean what else lol you wanna do this or not
+
+Hacker: Ok
+
+Hacker: Download an app called telegram
+
+Hacker: So we can talk about money etc on there
+
+Hacker: My username is [redacted]
+
+Hacker: Lmk once u messaged me on it
+
+Insider: Prove to me this is actually you first
+
+Hacker: Ni**a
+
+Insider: How would we make money thoug
+
+Hacker: Basically I’ll pay u 80$ for u to update sims for me
+
+Hacker: I’ll give u a number to lookup
+
+Hacker: And I’ll give u my simcard number to put the number on
+
+Hacker: And for each swap
+
+Hacker: I’ll pay 80$
+
+Hacker: Via PayPal or bitcoin
+
+Hacker: And which raises the question on weather u work at Corp or retail cause retail can only bypass with last four
+
+Hacker: And Corp can just go straight in the account
+
+Insider: Lets do this im ready
+
+When probed with different insider offers, this threat actor demonstrated knowledge of internal tools belonging to several mobile phone companies.
+
+The Underground Marketplaces
+
+A number of underground marketplaces exist where users can buy and sell stolen accounts. Depending on the attributes of the account, they are sold for different purposes. Accounts with OG usernames are sold simply for the username. Some accounts have a verified checkmark on the platform, and others have a large number of followers. Accounts with a large number of followers can be used to spread spam or malware. Accounts without an OG username but with a valuable status are called “stat” accounts.
+
+One forum that hosts a large amount of this type of activity is Hackforums. While explicit discussion of fraud is generally frowned upon, the fruits of these labors are often sold openly. Despite the forum’s reputation as a beginner-level community, some of the most prolific actors in the account takeover community sell accounts on the Hackforums marketplace.
+
+In this example, one of the highly prolific actors discusses some of the subtleties of the SIM swap problem in response to another actor’s message how to social engineer wireless providers to obtain account access:
+
+They’d have to get into your account first, 2FA is simply another barrier. Even if you do get simswapped or phone forwarded, having 2FA makes the process of someone jacking your account a lot more time consuming. 2FA is never a weakness; having your number as a recovery option is though.
+
+This actor likely speaks from experience. They were taken into custody and their home was searched in 2015 in relation to the previous TalkTalk hack, and their post history shows they never stopped involvement in account takeover. They have hundreds of sales listings for illegitimately obtained accounts, and other threads related to fraudulent activity including compromised accounts from wireless providers and top social media companies. They also demonstrated interest in speaking to phone company employees, likely to facilitate additional fraud.
+
+Username Market Values
+
+The market values for OG accounts depend on several factors:
+
+• The popularity of the website on which the account is located.
+
+• The length of the username (shorter usernames are typically preferred).
+
+• Whether the username is pronounceable or a dictionary word.
+
+• The measures the seller took to ensure that the buyer does not get banned and that the victim cannot recover the account. For example, if the seller can also include the email address the account was created with, the likelihood of a ban or account recovery is lower.
+
+• If the account has a verified checkmark or a large number of followers.
+
+Accounts are often stolen due to password reuse, not just because of SIM swapping. Most dictionary words will go for prices between $20 and $100, but prices can go higher for very short usernames, or identical usernames sold across multiple social media platforms as a bundle. The prices suggest that most OG usernames would mostly not account for the bribes offered to telco employees. Other types of fraud are more lucrative.
+
+SIM Swaps in Financial Fraud
+
+A number of high profile fraud incidents reported in the media have involved phone number takeover.
+
+On May 18, 2018, cybersecurity journalist Brian Krebs posted an article about a SIM swap incident involving the OG usernames “par” and “p9r,” which belonged to the same victim. The article claims the victim had already performed the recommended security precautions, including a PIN to prevent number port-outs, but this was not sufficient to prevent a determined attacker. Once the attacker seized control of the phone number, they abused the password-reset logic on multiple websites to take over multiple accounts belonging to the victim.
+
+On June 5, 2018, the South African radio show CapeTalk discussed a SIM swap incident where a retired man lost his entire savings due to a SIM swap. The segment did not refer to any phishing or security lapses on the victim’s part. The show interviewed a forensic investigator who has worked on these cases in South Africa. The investigator stated that these incidents were on the rise, and that these abuses happened at the employee level. The investigator also stated “there is a dishonest element within the cell phone industry”, who can facilitate this type of account takeover “without the proper channels being followed.” The investigator referred to his experience in SIM swap cases, and said most victims never receive compensation from their bank. He also referred to the cell phone companies as “extremely hard-hearted” about providing assistance to victims.
+
+On Feb. 10, The Guardian published an article claiming that attackers repeatedly called a U.K.-based victim’s phone company and eventually fooled an employee into performing a SIM swap, which was immediately used to attempt bank account fraud. In this incident, the bank’s voice identification caught the fraud before completion. The victim noted that the cell phone company used extremely simple authentication questions that any attacker could likely figure out the answers to.
+
+On April 20, MyBroadband, a South African tech news site, detailed an incident where a SIM swap victim not only lost the contents of their entire bank account, but the attacker took out loans in their name. The article stated that several days before the SIM swap, the victim received a phishing email. Notably, the article said this particular phone company offers banks the ability to query their subscribers to determine if a SIM swap has happened recently on a phone number. This event would place a temporary hold on the account. In this case, the victims were initially told by the phone company that their phone was broken, so they apparently did not take action quickly enough against the fraud. In the ensuing legal battle, the bank, the phone company, and the victim claimed the other parties were liable.
+
+On June 7, 2016, the FTC warned about an increasing trend of SIM swap fraud. While most of the blog post spoke about this technique being abused to get new phones which could be resold, it also mentioned that this was also used to bypass two-factor authentication for banks. The author said this type of fraud was a larger problem in Europe than in America at the time, but added the trend was increasing. The FTC also states that “Section 609(e) of the Fair Credit Reporting Act requires that companies provide business records related to identity theft to victims within 30 days of receiving a written request.” For any account takeover victim, exercising these rights may help them understand the nature of their attacker.
+
+Impact
+
+Flashpoint analysts assess with high confidence that the potential impact of SIM swapping is likely high for anyone targeted in such attacks. The likelihood of targeting is higher if the person is famous, or has many social media followers, or an OG username, or holds a large amount of money or cryptocurrency.
+
+Indicators of Takeover
+
+Affected phones cannot make calls, have no reception, and potentially have no 911 access. Additionally, attackers take over online accounts belonging to the subscriber. Unexpected text messages or e-mails referring to password resets, account logins, or phone number changes may occur before a successful takeover.
+
+Mitigations
+
+The major challenge with mitigating against this attack vector is that the flaw resides on a website owner’s authentication logic, over which the user has no control. Multifactor authentication involves something you know, something you have, and something you are. Traditional authentication only required something you know, such as a password or a PIN. Online 2FA typically requires a combination of the password and something you have, such as a physical token or other object that cannot be stolen by a remote attacker.
+
+In the case of many online services, 2FA treats possession of a phone number as something you have, which SIM swap fraud exploits. For many websites, the phone number is also often a password recovery mechanism, effectively reducing the whole thing to one factor if the phone number can be easily taken over. In July 2016, the National Institute of Standards and Technology (NIST) stated SMS was to be deprecated for use in 2FA. NIST later issued revised guidance, stating, “the verifier SHALL verify that the pre-registered telephone number being used is associated with a specific physical device,” citing “SIM change” as a risk factor. Though NIST published these recommendations, websites that use SMS-based 2FA cannot obtain the private information necessary to determine that, so they cannot mitigate those risk factors.
+
+Additionally, phone numbers exist in limited quantities and dropped numbers are re-allocated to new customers. Since website owners typically cannot determine if a phone number has a new owner, over time, random people can gain control over accounts by receiving a recycled number.
+
+As a result, any mitigations initiated by the end user are suboptimal, and can increase the risk from other types of account takeover vectors, or simple account loss from a forgotten password. The website owner is the only party that can fix these flaws, and it involves deprecating the use of phone number as a password recovery option and its use in 2FA.
+
+The most effective fix is likely for the website owner to require hardware or software 2FA for online accounts. For websites that require the use of phone numbers, the end user could use Google Voice and other voice over internet protocol (VoIP) providers, that are likely less susceptible to SIM swap fraud. Some websites deliberately block the use of VoIP numbers and will only accept numbers from a traditional cellular carrier. In this case, if the account is worth the effort, the end user can set up a new mobile phone with a new, secret phone number that is only used for this purpose. After the phone number is added, the user can then port it over to Google Voice, where it is less susceptible to SIM swap fraud. However, for many end users, such measures may be considered too involved or impractical for securing all of their online accounts, particularly when taking into account the largely targeted nature of most SIM swap fraud operations. For individuals believed to have elevated risk of such targeting, measures such as these may be necessary.
+
+On some websites that allow phone number-based password recovery, completely removing the phone number from the account can reduce the risk from SIM swap fraud. This can, however, increase the risk from other types of account takeover and loss.
+
+Some information has been redacted from this report in order to protect sources.

@@ -1,0 +1,156 @@
+Concealed Handgun Licensing and Crime in Four States
+Research Article
+
+Department of Health Policy and Management, School of Public Health, Health Science Center, Texas A&M University, College Station, TX 77843-1266, USA
+
+Received 13 January 2015; Revised 19 May 2015; Accepted 27 May 2015
+
+Academic Editor: Alexander Hirschfield
+
+Copyright © 2015 Charles D. Phillips et al. This is an open access article distributed under the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Abstract
+
+Firearm policy in the United States has long been a serious policy issue. Much of the previous research on crime and firearms focused on the effects of states’ passage of concealed handgun licensing (CHL) legislation. Today, given the proliferation of CHL legislation and growing strength of the “pro-gun” movement, the primary policy focus has changed. State legislators now face issues concerning whether and how to increase access to CHLs. Because of this transformation, this research moves away from the research tradition focused on the effect of a legislative change allowing CHLs. Instead, we consider two issues more policy relevant in the current era: What are the dynamics behind CHL licensing? Do increases in concealed handgun licensing affect crime rates? Using county-level data, we found that the density of gun dealers and other contextual variables, rather than changing crime rates, had a significant effect on increases of the rates at which CHLs were issued. We also found no significant effect of CHL increases on changes in crime rates. This research suggests that the rate at which CHLs are issued and crime rates are independent of one another—crime does not drive CHLs; CHLs do not drive crime.
+
+1. Introduction
+
+America has the most heavily armed civilian population in the western world. Estimates from the most recent Small Arms Survey [1] indicate that American civilians owned between 270 million and 310 million firearms in 2011. Using census data for a comparable period [2], that minimum figure of 270 million translates to 117 firearms in civilian hands for every 100 Americans 18 years of age or older. European countries fall far behind the USA in gun ownership rates. Those nations with firearm ownership rates closest to the United States have less than half the firearm density reported for the United States; Swiss citizens held only 46 firearms for every 100 adults; Finland had 45 firearms per 100 adults [1].
+
+As interesting, inspiring, or frightening as these data may be, general data on firearm ownership have, for a single reason, been the focus of little criminological research in the United States. American criminals, in the vast majority of crimes involving firearms, use handguns. In 2011, for example, handguns were used in 72 percent of firearm homicides, while rifles and shotguns were used in slightly less than 8 percent of firearm homicides [4]. Thus, researchers interested in the relationship between firearms and crimes have expended the bulk of their energy investigating the impact of handguns on crime.
+
+More specifically, for decades, researchers have investigated the impact of the passage of concealed handgun licensing (CHL) legislation in various American states. The debate concerning the effects of CHL legislation began in 1997 with the publication of John Lott’s work indicating that the passage of concealed handgun legislation significantly reduced crime [5]. The literature on this issue is now extensive (see Moody and Marvell [6] for a summary of this research). The results of this research, as of very early in the 21st century, were summarized by the National Academy of Science panel as “inconclusive” [7]. Given the results of more recent research, one would easily be justified in reaching that same conclusion today [8–14].
+
+However ambiguous the results of the research on this topic may be, the effect of the passage of CHL legislation is, in reality, no longer a pressing policy issue. Forty-six of the 50 states in the United States now issue licenses to citizens that allow them to carry concealed handguns [15, 16]. Allowing concealed carry is no longer the issue. Instead, whether and how to loosen restrictions on the issuing and carrying of concealed handguns are the major policy issues that now dominate much of the concealed handgun debate in state legislatures. Recent years have seen a burst of state legislation easing citizens’ restrictions of citizens’ ability to carry concealed handguns [17, 18].
+
+Most recently, the state of Kansas passed legislation allowing any adult resident to carry a concealed handgun without acquiring a license or receiving any training on gun safety or relevant state law related to the use of deadly force [19]. This highly publicized legislation that Kansas passed as it prepared to host the 2015 National Rifle Association annual meeting and gun show was not, however, ground-breaking legislation. Kansas simply joined Alaska, Arkansas, Arizona, Montana, New Hampshire, and Vermont as states that do not require licensing of residents to carry concealed handguns [3].
+
+Unfortunately, little research is currently available to ascertain just what the effects of such “liberalization” may be. At this point John Lott offers the currently available research related to changes in CHL permit density and crime. Lott reports the results of his preliminary analyses of state-level concealed handgun permit data and crime from 2007 and concludes that a one percentage point increase in the percent of the adults in a state holding CHL permits may generate roughly a 1.4 percent drop in the murder rate [3].
+
+This research follows Lott’s lead in using CHL permit data as its main independent variable. However, this research differs from Lott’s research in that we used county-level CHL permit and serious crime data covering at least a decade after passage of CHL legislation in four states. In its report, the National Academy of Sciences indicated that new approaches and different data are needed to be used to develop a clearer picture of the relationship between concealed carry and crime [7]. The strategy utilized in this research constitutes one response to that call. We used these county-level crime and CHL data to address two issues. First, what factors affect the rate at which concealed handgun licenses are issued in a county? Second, what effect does an increasing CHL rate in a county have on changes in the crime rate?
+
+Why Do Individuals Seek a CHL? The basic argument used by those who support greater access to concealed handguns is that individuals seek a CHL as a response to the fear of victimization [3]. However, research on more general gun ownership indicates that demographic factors, as well as desire for self-protection, play a role in gun ownership [20]. Fragmentary data suggest that such factors may also play a role in who seeks a CHL [21].
+
+One can argue that both crime and demographics may affect the demand for CHLs. The other side of the issue (analogous to supply) involves estimating the number of opportunities civilians have to acquire a CHL. Unfortunately, no previous research has investigated this issue. In this research, we use the number of federally licensed firearm dealers in a county to represent the supply of CHL providers. CHL applicants must have a handgun, so the supply of firearm dealers is an important factor in access to a handgun. The density of Federal Firearm Licensees (FFLs or licensed gun dealers) should be positively associated with increased opportunities to acquire a CHL.
+
+In Texas, for example, CHL applicants must provide a photo and fingerprints for a background check, pass a written exam, and pass a handgun proficiency test, which involves the supervised and graded a marksmanship test on a firing range [22]. These requirements make it easier for commercial gun dealers (FLLs) to offer CHL courses, using their firing ranges, equipment, and employees for CHL training, as an additional source of revenue and a potential source of customers for firearms. Figure 1 serves as a graphical representation of our preliminary model for CHL licensing.
+
+Figure 1: Hypothesized relationships in model estimating changes in county CHL rates.
+
+Effect of Concealed Handgun Licensing on Crime. The theoretical foundation of the hypothesized relationship between CHLs and crime has always been a simple deterrence model, or as Lott puts it, “more guns, less crime.” The mechanisms underlying the alleged relationship between passage of CHL legislation and crime have always been somewhat obscure. In addition, how one correctly models the effects of this legislation on crime with the appropriate covariates has been a topic of considerable debate [5–14].
+
+In this research we take advantage of the longitudinal nature of the available data to allow each county to serve over time as its own “covariates” and estimate the model depicted in Figure 2. Our hypothesized preliminary model implies that crime rates will vary among states, across years, and as a result of variation in lagged values of the rates at which CHLs are issued in a county.
+
+Figure 2: Hypothesized relationships in model estimating the relationship between CHLs and crime.
+
+2. Methods
+
+2.1. Data
+
+2.1.1. Study States
+
+Our analyses used data on the number of CHLs issued from 1998 to 2010 in every county in Florida, Michigan, Pennsylvania, and Texas. After reviewing the publicly available data from each of the states with CHL legislation, only these four states publicly reported CHL and arrest data at the county level for at least a decade following the passage of the CHL legislation in the state. Table 1 presents basic information on these states and their legislation.
+
+Table 1: Concealed handgun information for study states.
+
+As Table 1 indicates, the four states for which we found publicly available county-level data passed “Shall Issue” CHL legislation over a period of thirteen years. Shall Issue legislation removes almost all local discretion from the process of issuing CHLs. Anyone who meets the state statutory requirements “shall” be issued a CHL. Understandably, those states that have had the statutes in effect have the largest proportion of their population (seven percent) licensed for concealed carry of a handgun. Though the states differed in the date they passed legislation, the study period for all states was restricted to 1998 to 2010. This focus was taken because that time span allowed the research team to use the most recent full decade of data on CHLs and crime for each state.
+
+Two of the four states also allowed open carry of handguns. However, both states place restrictions on such activities. In Michigan, a citizen is required to obtain a permit to purchase a handgun for open carry and that purchase is registered with state officials [23]. In Pennsylvania, open carry is allowed outside Philadelphia, though a permit is required for open carry in a vehicle. In fact, the Pennsylvania Firearms Owners Association indicates that open carry is openly discouraged by Pennsylvania law enforcement [24].
+
+2.1.2. Why Do Individuals Seek a CHL?
+
+To investigate what factors affect the rates at which CHLs are issued, the research team was able to use data from three of our four states (Florida, Pennsylvania, and Texas). The analytic database included data taken from five county-level datasets: (1) concealed handgun licenses (CHL), (2) arrest data from the Federal Bureau of Investigation (UCR), (3) Federal Firearms Licensees (FFLs), (4) US census data, and (5) the Area Resource Files (ARF). The CHL and UCR data sources are discussed in Section 2.1.3.
+
+The Bureau of Alcohol, Tobacco, Firearms and Explosive (ATF) posted information on all Federal Firearms Licensees (federally licensed gun dealers) in our study counties. We downloaded the publicly available 2010 and 2011 data for three of the states from the ATF website [25]. At the time of our data development, the research team contacted the ATF to obtain additional data on FFLs. the ATF did not respond to our requests. Currently, however, additional data have become available on the ATF website.
+
+The research team obtained data for 388 counties in our three-state database. However, we excluded three counties in Texas; one county had a CHL rate that was an extraordinary outlier; two counties had missing data. The final database contained 385 counties. Texas counties constituted 65.2 percent of the counties, while Pennsylvania and Florida each accounted for roughly half of the remaining counties. County-level covariates included in the analysis were county demographic characteristics gathered from the U.S. Census Bureau [26] and the Area Resource File (ARF) from the National County-Level Health Resource Information Database [27].
+
+2.1.3. Effect of Concealed Handgun Licensing on Crime
+
+This analysis only used data from two sources. CHL data were obtained from publicly available state data, and crime (arrest) data from the publicly available Uniform Crime Reports were used. The CHL data were obtained from the Florida Department of Agriculture and Consumer Services [28, 29], the Michigan State Police [30, 31], the State Police Department in Pennsylvania [32, 33], and the Texas Department of Public Safety in Texas [34, 35], respectively. CHL data for the entire study period (1998–2010) were available for Florida, Pennsylvania, and Texas. In Michigan, CHL data were only available from 2001–2010 because the “Shall Issue” CHL statute was passed in 2000. The number of arrests and offenses for each type of crime from 1998 to 2010 in each county was abstracted from the Uniform Crime Reports (UCR) [29, 31, 33, 35].
+
+2.2. Measures
+
+2.2.1. Why Do Individuals Seek a CHL?
+
+The dependent variable for this analysis was the annual rate at which concealed handgun licenses were issued in a county, and the major independent variable was the change in the arrest rate for each type of index crime: seven individual crime arrests, violent crime arrests, property crime arrests, and total UCR arrests in the previous year.
+
+To calculate the concealed handgun license (CHL) rate and the Federal Firearm Licensee (FFL) rate, we divided the total number of CHLs issued in 2011 in each county and the total licensed federal firearm dealers in the county by the total number of people aged 20 and over in the county times 10,000 people. We used the population aged 20 and over in our analysis because the available census data did not provide total population aged 21 and over. In most states, a person must be at least 21 years of age to apply for concealed handgun license. In Texas, however, a person at least 18 years of age can apply for concealed handgun license if he/she is currently serving in or honorably discharged from the military [36].
+
+We calculated the change in arrest rates per 100,000 from 2009 to 2010 and used these figures in the construction of our lagged arrest/crime variable. We separately analyzed data for each of the seven crimes, for violent crimes, for property crimes, and for total crimes. Violent crimes include murder, rape, robbery, and aggravated assault, while property crimes include burglary, larceny, and motor vehicle theft. We calculated the density of FFLs per 10,000 persons in the county.
+
+We performed natural log transformations on the CHL rate and FFLs rate because these variables exhibited positive skews. Using the data on general firearm ownership, we included a number of county-level covariates (e.g., age structure, average income) in our models.
+
+2.2.2. Effect of Concealed Handgun Licensing on Crime
+
+Our analyses of the effect of CHL rates on crime included annual county arrest rates for murder, rape, robbery, aggravated assault, burglary, larceny, and motor vehicle theft. We further categorized these crimes into two broader categories: violent crime (murder, rape, robbery, and aggravated assault) and property crime (burglary, larceny, and motor vehicle theft).
+
+The research team used U.S. Census Bureau county-level population data to develop county-level crime rates. For 2000 and 2010, we used the actual census estimates [37] of the county population as denominators in our analysis. For other years (2001–2009), we used county population estimates derived from intercensal estimates [37] as the denominators. The intercensal demographic estimates of population are generated from complex models joining administrative records with data from the previous census [38, 39].
+
+We converted the number of CHLs issued in a year into rates per 10,000 county residents and changes in crime from one year to another into rates per 100,000 county residents. We used total county level population estimates, rather than population over 21 years of age, to calculate the rates of CHL issuance in these analyses, in contrast to our other analyses. We did so because intercensal population estimates were not available for the above-21 population.
+
+2.3. Analysis Strategy
+
+2.3.1. Why Do Individuals Seek a CHL?
+
+We used bivariate analyses to examine the relationships among log CHL rate, log FFL rate, and arrest rates for different crimes. Unadjusted and adjusted regression models were estimated. Since one cannot expect an instantaneous change in CHL rates due to changes in crime rates, we lagged the change in crime rate, our main independent variable, by one year. County covariates were included in the models. Covariates that had no significant effect were pruned from the final model.
+
+2.3.2. Effect of Concealed Handgun Licensing on Crime
+
+As the effect of receiving a CHL license on crime is expected to materialize over time, we conducted longitudinal analyses. We estimated the effects of changes in CHL density on crimes using three sets of time lag models:(i)A one-year lagged CHL rate model.(ii)A two-year lagged CHL rate model.(iii)A third model with both one- and two-year time lags for CHLs.
+
+To account for the highly skewed nature of CHL rates, we used the natural log of CHL rates in our analysis. Analyses were completed using STATA statistical software (version 12.1) [40]. The time lag model was chosen in part because the longitudinal nature of the data allows each county’s prior values to serve as “comparisons controls or covariates” for the relationship under investigation. In essence, this approach obviates the need for an elaborate list of county covariates.
+
+Another advantage of the time lag model is that it allows for easy identification of any significant latent association between measures over time. We accounted for the within-county correlation for crime rates and CHL license rates over time by computing cluster-robust standard errors at the county level [41].
+
+In each of these models we included indicator variables for each state. As Table 1 indicates, the states differ in CHLs and firearm policy. These indicator variables constituted controls for these factors. Indicator variables were also included for each year, to control for any long-term changes in the counties.
+
+In supplementary analysis, data from each state were analyzed separately. This was done to assure that pooling the data from the four states did not obscure differences among the states. In other analyses, annual county crime data points indicating a zero rate of a crime were deleted from analyses. This strategy served dual purposes. It removed smaller counties with potentially questionable UCR data from the analysis. It also protected the model estimates from any bias toward a positive relationship between CHLs and crime due to the fact that any change in the crime rate in a year following a year with no crime could only mean an increase in crime.
+
+The results of these supplementary data analyses did not differ significantly from the results of the more general analyses. In few instances in these analyses, a positive relationship was observed between CHL licensing and crime. These results did not involve the violent crimes that one expects CHL to affect, and the results were not consistent.
+
+For example, in these more finely grained analyses, the only significant negative result came in Florida. For larceny, the one-year lag for CHLs had a significant negative coefficient ( ) and the two-year lag in that same model had a significant positive coefficient ( ). Given the number of parameters being estimated and the low likelihood that CHL changes would affect larceny rather than violent crimes, the authors attributed such results to Type I error. Because of the consistency of the results with the more general analysis, only the results of the more general analysis are reported.
+
+In addition, one might be concerned about the effects of spatial correlation on the results. The effect of such correlation is to increase the likelihood of Type 1 error. The results presented below seem to be in no danger of such a bias.
+
+3. Results
+
+3.1. Why Do Individuals Seek a CHL?
+
+Table 2 presents descriptive statistics for variables used in these analyses. The average change in the county arrest rate for each crime type ranged from −2.10 (larceny) to 1.96 (motor theft). The average percent of divorced females in our sample of counties was 10.8% and the average percent of country population residing in an urban area was 49.2%. The mean percent of persons over 16 years of age who were unemployed was 8.1%, and the average percent of people in the county over age 25 with less than high school degree was 21.2%.
+
+Table 2: Variables used in analyses of rates at which CHLs are issued in counties .
+
+Table 3 presents the results from estimated least squares regression models with change in the county CHL rate. These results were obtained in models that contained all significant county covariates. Table 3 shows the crime rate parameter and log FFL rate parameter for each crime and total crimes. Among the crimes, motor vehicle theft and total crimes showed slightly negative relationships with the CHL rate. Further research is needed to determine the robustness of these seemingly anomalous results. Other crimes show no statistically significant relationship with the CHL rate. However, the estimated positive and statistically significant relationships between the log CHL rate and the log FFL rate in these models were relatively consistent and robust with respect to the specific crime measure.
+
+Table 3: Parameters for lagged county crime rates and logged federal firearms license rate (FFL) in models estimating county CHL rate.
+
+3.2. Effect of Concealed Handgun Licensing on Crime
+
+Table 4 indicates that the average annual increase in CHLs per population of 100,000 varied from a low of 386 in Texas to a high of 1469 in Pennsylvania. While the other states had “Shall Issue” CHL legislation for many years prior to the period covered in this research, Pennsylvania only enacted its “Shall Issue” legislation in 2000. Thus, as one would expect, we see higher rates of concealed handgun licensing in Pennsylvania in its early years of the availability of such licenses. The research team does not consider the inclusion of states with a mixture of time periods since the enactment of CHL legislation is a problem; in fact, this may enhance the robustness or external validity of our results.
+
+Table 4: Average annual change in crime rates and CHL rates per county population of 100,000 ( ).
+
+The changes in crime rates exhibit a number of patterns. Rape and burglary showed decreases across all four of our study states. Robbery, aggravated assault, and larceny increased in Michigan and Pennsylvania, with Texas and Florida showing mixed results for the rates of changes in these crimes. Murder decreased in Michigan and Texas, but it increased in Florida and Pennsylvania.
+
+In Table 5, we report the results of the multivariate analysis obtained using data from all four states, using both one-year lagged and two-year lagged CHL changes, and including a series of binary variables representing years and states. As these results indicate, in all nine of the models estimated, we see no statistically significant relationship between changes in lagged CHL rates and crime rates in these four states during the recent decade, in models that also included indicators for each state and each year.
+
+Table 5: Multivariate analysis of changes in county crime rates per population of 100,000, using both one-year lagged and two-year lagged CHL ( ) .
+
+Though the focus here was on CHL licensing, one might have expected that the state indicators for those states with the greatest density of concealed handguns, as Lott’s preliminary analysis at the state-level seems to suggest, would display significant negative relationships with changes in the crime rate. Our results provided no evidence to support this conclusion [3]. Obviously, other research aimed more directly at this issue than our study should provide interesting results related to this issue.
+
+4. Discussion
+
+The basic question underlying the hypotheses investigated in this research is simple—Is CHL licensing related in any way to crime rates? The results of this research indicate that no such relationships exist. For our study states, during the time period covered by our data, changes in crime rates did not affect subsequent CHL licensing rates. In addition, CHL licensing rates did not have a significant, negative or positive, effect on subsequent crime rates.
+
+These results have some implications for the current policy debates concerning concealed handguns. The logic of relaxing requirements for concealed carry for the purposes of public safety implies that such legislation should reduce crime rates. However, our results indicate that more concealed handgun licensees in our four states had no significant negative effect on crime rates. This lack of a significant negative relationship is especially noteworthy for violent crimes such as murder, rape, robbery, and aggravated assault.
+
+Intertwined with much of the discussion of easing restrictions on the accessibility of CHLs is the idea that citizens seek access to concealed weapons as a result of the risk of victimization. Our analyses of real changes in individuals’ risk of being victimized did not appear to be a driving factor affecting increases in concealed handgun licensing.
+
+Instead, our results indicated that contextual factors drive the acquisition of concealed carry permits. The age distribution of the county population, the degree of urbanization, the level of educational attainment, and the specific state of residence had significant effects on CHL acquisition. In addition, more people acquired concealed carry permits in counties where more businesses or individuals sold firearms. The number of CHLs issued was driven more by the number of individuals or businesses offering handguns for sale (the supply of handguns) than by changes in the real threat of victimization as measured by county crime rates.
+
+This study has two limitations. First, analysis focused on the change in the rate of CHLs, not rate of gun ownership per se, or rate of unlawful concealed carry. Second, we analyzed data from only four states within a limited time span. With these limitations in mind, the research team believes that these results do provide information that may be useful when considering the easing of restrictions on CHL access. Our results imply that such changes, to the degree that they increase legal concealed carry rates, will not have an effect on crime rates. The results also suggest that increases in carry rates resulting from easing access to concealed carry licenses will be driven more by the supply of firearms dealers in an area than by changes in crime rates. As interesting as these results may be, further research using the types of data utilized in this research will determine the robustness of our results.
+
+Conflict of Interests
+
+The authors declare that there is no conflict of interests regarding the publication of this paper.

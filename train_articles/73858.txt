@@ -1,0 +1,44 @@
+Hospital Readmissions Reduction Program (HRRP)
+The Hospital Readmissions Reduction Program (HRRP) is a Medicare value-based purchasing program that reduces payments to hospitals with excess readmissions. The program supports the national goal of improving healthcare for Americans by linking payment to the quality of hospital care.
+
+Section 3025 of the Affordable Care Act requires the Secretary of the Department of Health and Human Services (HHS) to establish HRRP and reduce payments to Inpatient Prospective Payment System (IPPS) hospitals for excess readmissions beginning October 1, 2012 (i.e., Federal Fiscal Year [FY] 2013). Additionally, the 21st Century Cures Act requires CMS to assess penalties based on a hospital’s performance relative to other hospitals with a similar proportion of patients who are dually eligible for Medicare and full-benefit Medicaid beginning in FY 2019. The legislation requires estimated payments under the stratified methodology to equal payments under the non-stratified methodology (i.e., the methodology from FY 2013 to FY 2018) to maintain budget neutrality. The payment reduction is capped at 3% (i.e., payment adjustment factor of 0.97). Payment reductions are applied to all Medicare FFS base operating DRG payments between October 1, 2018 through September 30, 2019.
+
+CMS uses excess readmission ratios (ERR) to measure performance for each of the six conditions/procedures in the program:
+
+Acute Myocardial Infarction (AMI)
+
+
+
+Chronic Obstructive Pulmonary Disease (COPD)
+
+
+
+Heart Failure (HF)
+
+
+
+Pneumonia
+
+
+
+Coronary Artery Bypass Graft (CABG) Surgery
+
+
+
+Elective Primary Total Hip Arthroplasty and/or Total Knee Arthroplasty (THA/TKA)
+
+For FY 2019, CMS calculates ERRs, dual proportions, and hospitals’ payments for each condition/procedure and overall using discharges that occurred during the 3-year performance period of July 1, 2014 through June 30, 2017. The ERRs are calculated using data for Medicare fee-for-service (FFS) patients. A hospital’s dual proportion is the proportion of Medicare FFS and managed care stays where the patient was dually eligible for Medicare and full-benefit Medicaid. CMS stratifies hospitals into five peer groups, or quintiles, based on the dual proportion. The median ERR of hospitals within a peer group is the threshold CMS uses to assess excess readmissions in the program.
+
+CMS sends confidential Hospital-Specific Reports (HSRs) to hospitals annually. CMS gives hospitals 30 days to review their HRRP data, submit questions about the calculation of their results, and request calculation corrections.
+
+Following the Review and Corrections period, CMS will publicly report hospitals’ HRRP data on Hospital Compare in January 2019.
+
+Archived
+
+For information on historical HRRP finalized policies and supplemental data files, please click on the link below:
+
+FY 2012 – FY 2018
+
+For additional information on the readmission measures, please refer to thesection below.
+
+Supplemental data files from FY 2013 to FY 2018 are now available from the HRRP Archives page.

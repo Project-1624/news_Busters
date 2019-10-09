@@ -1,0 +1,114 @@
+Data.GISS: GISTEMP HISTORY
+GISS Surface Temperature Analysis
+
+History of GISTEMP
+
+In the late 1970s, scientists at GISS led by Dr. James Hansen became increasingly concerned that anthropogenic increases in greenhouse gases were large enough that their impact on surface temperatures would soon become apparent. However, tracking what was happening to Earth temperatures was at a relatively primitive state. Much of the relevant weather station data had not been digitized and what had been, was not widely available. Previous estimates of temperature changes (Callendar, 1938; Mitchell, 1961; Budyko, 1969) had focused on the northern hemisphere, but that obviously missed half the planet. Hansen et al. (1981) were the first to try and systematically estimate the global mean trends by also using what southern hemisphere data there was. The methodology used then was relatively simple: Stations were grouped into 80 equal area boxes, the various anomaly series in a box were combined into a single anomaly series; these then were averaged across each of eight latitude belts. The global mean was estimated from an area weighing of the latitudinal means. From this beginning, estimates of global mean surface temperatures by scientists at GISS eventually morphed into the GISTEMP analysis that is available today.
+
+Over the years the estimates of what the global mean temperature anomaly has been have changed. There are two main reasons for these changes – updates to the analysis method and expansions to the sources of raw data. Both have the effect of changing the specifics of the global estimates.
+
+We have gone through the archives to show exactly how these estimates have changed over time and why. Since 1981 the following aspects of the temperature analysis have changed:
+
+The simple procedure used in 1981 was refined as documented in Hansen and Lebedeff (1987), using 8000 grid boxes to allow mapping and analysis of regional patterns.
+
+Surface air temperature anomalies above the ocean were estimated using sea surface temperatures from ships and buoys starting in 1995 as documented in Hansen et al. (1996).
+
+Starting in the 1990s, the methodology took into account documented non-climatic biases in the raw data (e.g. station moves) and eliminated or corrected unrealistic outliers (Hansen et al., 1999).
+
+Areas with missing data were filled in — using means over large zonal bands — rather than restricting the averaging to areas with a defined temperature change (Hansen et al., 1999).
+
+A method was devised in 1998 and refined in 2000 to adjust urban time series to match the long term mean trend of the surrounding rural stations, Hansen et al. (1999, 2001). This adjustment uses the full data series to make the best estimate of the rural/urban difference and so can change as the time-series are extended (and more data comparisons are available). Starting in 2010 night-light radiance rather than population data were used to classify stations (Hansen et al., 2010).
+
+Usage of water temperatures as proxy for air temperatures was more accurately restricted to areas without sea ice starting in April 2006.
+
+Additionally, the amount of raw data and its quality have also increased as more data has been digitized and quality controlled. The station data sources over the years were:
+
+Monthly Climatic Data of the World (MCDW) — about 1000 stations (1981)
+
+MCDW and data provided by NCAR and NOAA — 2200 stations (1987)
+
+NOAA/NCDC’s GHCN v2 — 7200 stations (1999)
+
+NOAA/NCDC’s GHCN v2 and adjusted USHCN (2000)
+
+GHCN v2 and adjusted USHCN and SCAR (2/2005) — better Antarctica coverage
+
+Homogenized GHCN v3.1 and SCAR (2011)
+
+Homogenized GHCN v3.2 and SCAR (9/2012)
+
+Beta release: GHCN v4 — 26,000 stations(2/2019)
+
+Over time the sources of sea surface temperature (SST) data have also changed:
+
+Before 1995, no SST data was used.
+
+1995: Reynolds/Smith EOF SST (1950-1981) and OISST data (1982-present)
+
+2000: Hadley Centre’s HadISST1 (1880-1981) and OISST data
+
+2013: ERSST v3b
+
+July 2015: ERSST v4
+
+August 2017: ERSST v5
+
+So although the specific numbers and the uncertainty associated with them have changed over the years, what is remarkable is that the basic picture they paint of the temperature changes over time is robust as can be seen in the following figures.
+
+Note that historical data came from various sources. GISTEMP results were first made available over the web in 1995, and some versions are retrievable from the "Wayback Machine” website as far back as 1997 (see 1, 2, 3). Our own archive goes back to 2008. Versions before 1997 were copied or digitized from our publications.
+
+In the figures, the three toolbar icons beneath each graph may be used to zoom in and out on the figure, to move the centering horizontally or vertically, and to reset the figure to its initial position.
+
+In Figs. 1-4, the plots are in two parts, the upper part showing the temperature means from the selected analyses, and the lower showing the difference most recent analysis minus selected analysis. Hovering the cursor on a legend entry will highlight the respective curves on the graph. Use clicks to highlight/un-highlight several selected lines simultaneously.
+
+Figure 1: The history of GISTEMP estimates of the global five-year mean surface temperature anomaly. All but the 1981 and 1987 estimates include the use of ocean data.
+
+Figure 2: The history of GISTEMP estimates of the global annual surface temperature anomaly. All but the 1987 estimates include the use of ocean data.
+
+Downloads
+
+Plot data as zipped text and CSV files.
+
+Figure 1: Five-year means plot as PNG, PDF, or HTML file.
+
+Figure 2: Annual plot as PNG, PDF, or HTML file.
+
+For historical reasons we also maintain a calculation of the anomalies that would result if one only used the meteorological station data. This estimate is not affected by issues in ocean data processing, but because the land is warming faster than the ocean, it has a larger trend than the land-ocean index that is now our standard product. That too has been remarkably stable over the years:
+
+Figure 3: The history of GISTEMP estimates of the global 5-year mean surface temperature anomaly. Meteorological station data only.
+
+Figure 4: The history of GISTEMP estimates of the global annual surface temperature anomaly. Meteorological station data only.
+
+Downloads
+
+Plot data as zipped text and CSV files.
+
+Figure 3: Five-year means plot as PNG, PDF, or HTML file.
+
+Figure 4: Annual plot as PNG, PDF, or HTML file.
+
+In Fig. 5 below, the influence of the additional station data can be seen in the station counts and coverage statistics comparing Hansen and Lebedeff (1987) and the present. Although the number of stations has increased significantly, the total area covered has not changed as much. Decreased coverage occurs when urban stations without nearby rural stations have been dropped in order to avoid bias due to urban heat island effects.
+
+Figure 5: (a) The number of stations used in the GISTEMP analysis; and (b) the percentage of the land surface area represented by the stations.
+
+To summarize, no raw data has changed over the years (except for minor quality control, elimination of duplicate data, etc.), but the GISTEMP analysis has varied because of the addition of more observations and changes in methodology. The GISTEMP analysis does not change the raw observations over time (these are curated by weather services around the world), but rather the estimate of the global mean change varies as we discover and correct for contaminating influences, as well as increasing the amount of raw data used. The differences over time can be helpful in giving an idea of the structural uncertainty in these estimates — particularly in the pre-war years and before 1900.
+
+Nonetheless, the overall trends are very clear.
+
+References
+
+Budyko, M.I., 1969: The effect of solar radiation variations on the climate of the Earth, Tellus , 21, 611-619, doi:10.1111/j.2153-3490.1969.tb00466.x.
+
+Callendar, G.S., 1938: The artificial production of carbon dioxide and its influence on temperature, Q. J. Roy. Meteorol. Soc. , 64, 223-240, doi: 10.1002/qj.49706427503.
+
+Hansen, J., D. Johnson, A. Lacis, S. Lebedeff, P. Lee, D. Rind, and G. Russell, 1981: Climate impact of increasing atmospheric carbon dioxide. Science , 213, 957-966, doi:10.1126/science.213.4511.957.
+
+Hansen, J.E., and S. Lebedeff, 1987: Global trends of measured surface air temperature. J. Geophys. Res. , 92, 13345-13372, doi:10.1029/JD092iD11p13345.
+
+Hansen, J., R. Ruedy, M. Sato and R. Reynolds, 1996: Global surface air temperature in 1995: Return to pre-Pinatubo level. Geophys. Res. Lett. 23, 1665-1668.
+
+Hansen, J., R. Ruedy, J. Glascoe, and M. Sato, 1999: GISS analysis of surface temperature change. J. Geophys. Res. , 104, 30997-31022, doi:10.1029/1999JD900835.
+
+Hansen, J.E., R. Ruedy, M. Sato, M. Imhoff, W. Lawrence, D. Easterling, T. Peterson, and T. Karl, 2001: A closer look at United States and global surface temperature change. J. Geophys. Res. , 106, 23947-23963, doi:10.1029/2001JD000354.
+
+Hansen, J., R. Ruedy, M. Sato, and K. Lo, 2010: Global surface temperature change. Rev. Geophys. , 48, RG4004, doi:10.1029/2010RG000345.

@@ -1,0 +1,23 @@
+All you need to know about Net Neutrality rules in the EU
+
+What is net neutrality and why does it matter?
+
+Net neutrality refers to a debate about the way that Internet Service Providers (ISPs) manage the data or ‘traffic’ carried on their networks when data is requested by broadband subscribers (known as “end-users” under EU law) from providers of content, applications or services (CAPs) such as YouTube or Spotify, as well as when traffic is exchanged between end-users.
+
+The best effort internet is about the equal treatment of data traffic being transmitted over the internet, i.e. that the ‘best efforts’ are made to carry data, no matter what it contains, which application transmits the data (“application-agnosticism”), where it comes from or where it goes. The benefits of the best effort internet notably include the separation between application and network layers of the internet. This separation enables innovation of applications independent of the ISP, thereby enhancing end-user choice.
+
+Why is BEREC involved in implementing the net neutrality rules?
+
+As the European body which brings together all national regulatory authorities (NRAs), BEREC is informed by the ‘on the ground’ knowledge, experience and technical expertise of its constituent NRAs. The European law establishing BEREC said that it should provide advice to both the European institutions and NRAs in the field of electronic communications for the European institutions and for NRAs. In line with this, Article 5(3) of the Regulation EU 2015/2120 explicitly obliges BEREC to issue guidelines on net neutrality in order to provide guidance to NRAs on their implementation of the rules.
+
+Using a Regulation as the form of EU law on net neutrality (rather than, for example, a Directive) means that the precise wording of the law is identical in all EU/EEA countries. Nevertheless, by providing guidance on how NRAs should implement the law, BEREC can draw upon its technical and regulatory expertise to further contribute to a consistent application of the law across all EU/EEA countries.
+
+What does the new law mean for net neutrality?
+
+ISPs are prohibited from blocking or slowing down of Internet traffic, except where necessary. The exceptions are limited to: traffic management to comply with a legal order, to ensure network integrity and security, and to manage congestion, provided that equivalent categories of traffic are treated equally. The provisions also enshrine in EU law a user’s right to be “free to access and distribute information and content, run applications and use services of their choice”. Specific provisions ensure that national authorities can enforce this new right.
+
+BEREC Guidelines on Net Neutrality
+
+About BEREC's Net Neutrality Guidelines
+
+Report on the outcomes of the public consultation on the draft BEREC Net Neutrality Guidelines

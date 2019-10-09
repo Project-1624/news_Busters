@@ -1,0 +1,26 @@
+Criminal Libel Laws Are Constitutional If They're Limited to Deliberate Lies
+Criminal libel prosecutions are rare in the U.S., but not unheard of—I'm gathering data on them now, but so far it appears that they happen about 10 to 20 times per year, and often lead to convictions. Most of the recent cases I've seen have involved alleged libels in personal disputes, but some involve alleged libels on public matters, or even of public officials. There's one case in the news now, the Robert Frese prosecution in New Hampshire, that involves an alleged libel of a police chief; the criminal complaint says that Frese had written "that Chief Shupe covered up for a dirty cop." Lots of people are concerned, and understandably so, about prosecutions such as these. But under current law, criminal libel statutes are constitutional.
+
+Just eight months after New York Times Co. v. Sullivan (1964), which sharply limited civil liability, the Supreme Court decided Garrison v. Louisiana (1964), a criminal libel case; and there, the Court concluded that criminal libel statutes (especially ones applicable to libels of public officials on matters of public concern) had to comply with the same rules as civil liability—mainly that the government had to show that the defendant's statement was (1) false and (2) said with knowledge of the falsehood or reckless disregard of the possibility of falsehood. But though three Justices would have entirely abolished criminal libel prosecutions in such cases, the majority (led by Justice Brennan) did not. Instead, it expressly held that "The constitutional guarantees of freedom of expression compel application of the same standard to the criminal remedy"as in civil cases. The Court there held that the Louisiana criminal libel statute was unconstitutional, but its holding left open the door to upholding statutes limited to knowing or reckless lies. (I also think knowledge or recklessness as to falsehood would have to be shown for prosecutions for criminal libel even of private figures, so long as the allegations are on a matter of public concern, see Gertz v. Robert Welch, Inc. (1974).)
+
+Likewise, in Herbert v. Lando (1979), the Court mentioned in passing that "Criminal libel prosecutions are subject to the same constitutional limitations" as civil lawsuits. On the strength of these precedents, People v. Ryan (Colo. 1991), held that a properly crafted criminal libel law was constitutional, and In re Gronowicz (3d Cir. 1985) (en banc) so stated as well.
+
+And New Hampshire's criminal libel statute is indeed consistent with New York Times v. Sullivan:
+
+I. A person is guilty of a class B misdemeanor if he purposely communicates to any person, orally or in writing, any information which he knows to be false and knows will tend to expose any other living person to public hatred, contempt or ridicule.
+
+II. As used in this section "public" includes any professional or social group of which the victim of the defamation is a member.
+
+Indeed, the statute provides a more demanding burden for the government that Garrison and New York Times require: The government must show that the speaker knows the statement is false (and isn't just reckless about the possibility). And it is also precise enough—especially given the large body of libel law that has defined the meaning of some of the terms, such as "hatred, contempt or ridicule"—to avoid the vagueness objection that led Ashton v. Kentucky (1966) to strike down a vague common-law criminal libel rule.
+
+Now the statute doesn't have a special rule for libels of public officials—but, under the precedents, it doesn't have to. All it needs to do is to require a showing of at least reckless or knowing falsehood when the alleged libel is on a matter of public concern. This statute requires even more than that, and applies to speech on all matters, public concern or otherwise. That makes the statute constitutional.
+
+Of course, for a guilty verdict the government would still need to show that the statement was false, that the speaker knew it was false, and that—implicit in the requirement of "false" "information"—the statement was fact and not opinion. In particular, one would need to see the context of the "Chief Shupe covered up for a dirty cop" allegation, to see what in context "covered up" and "dirty cop" meant.
+
+But if these elements are shown, then criminal punishment would be authorized. Whether that's good policy or not is a story for another post.
+
+Finally, two New-Hampshire-specific details:
+
+[1.] Class B misdemeanors such as this are punishable in New Hampshire by a fine of up to $1,200, but not by jail time. On the other hand, news accounts report that Frese is on probation for a different offense, and is concerned that he may have his probation revoked even for a class B misdemeanor conviction.
+
+[2.] Here is the only New Hampshire criminal libel appellate decision in the past 100 years, State v. Baird (1990); it uses the criminal libel statute coupled with a witness retaliation statute as essentially a ban on libeling someone in retaliation for being a witness:

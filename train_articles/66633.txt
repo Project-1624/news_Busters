@@ -1,0 +1,184 @@
+Details and Analysis of the Donald Trump Tax Reform Plan, September 2016
+Key Findings
+
+Republican presidential candidate Donald Trump’s tax plan would significantly reduce income taxes and corporate taxes, and eliminate the estate tax.
+
+According to the Tax Foundation’s Taxes and Growth Model, the plan would reduce federal revenue by between $4.4 trillion and $5.9 trillion on a static basis. The amount depends on the nature of a key business policy provision.
+
+The plan would also significantly reduce marginal rates and the cost of capital, which would lead to higher long-run levels of GDP, wages, and full-time equivalent jobs.
+
+After accounting for the larger economy and the broader tax base, the plan would reduce revenues by between $2.6 trillion and $3.9 trillion after accounting for the larger economy, depending on the nature of a key policy provision.
+
+The plan reduces revenue by substantially less than the plan proposed by Trump last year, on both a static and dynamic basis.
+
+On a static basis, the plan would lead to at least 0.8 percent higher after-tax income for all taxpayer quintiles. The plan would lead to at least 10.2 percent higher incomes for the top 1 percent of taxpayers or as much as 16.0 percent higher, depending on the nature of a key business policy provision.
+
+Introduction
+
+Last Thursday in New York, Republican presidential candidate Donald J. Trump released a tax reform plan.[1] The plan would reform the individual income tax code by lowering marginal tax rates on wages, investment, and business income. Furthermore, it would broaden the individual income tax base. The plan would also lower the corporate income tax rate to 15 percent and modify the corporate income tax base. Finally, the plan would eliminate federal estate and gift taxes while eliminating step-up basis.
+
+Our analysis finds that the Trump tax plan would substantially reduce federal revenues from both individual income taxes and corporate income taxes. These reductions in revenue come primarily from lower rates on individuals and businesses.
+
+One particular tax rate, the individual income tax rate on pass-through business income, is not clearly specified in current plan documentation. Assuming that the individual income tax rate on pass-through business income is the same as the rates on other individual income, the Trump tax plan would reduce federal tax revenue by $4.4 trillion over the next decade. But if the tax rate on this income is instead intended to be the same as the tax rate on corporate business income, the plan would then reduce federal revenue by $5.9 trillion. In addition to these possibilities, which we see as upper and lower bounds for total revenue generation, the policy may reduce federal revenue somewhere in between.[2]
+
+The plan would also reduce marginal tax rates on labor and substantially reduce marginal tax rates on investment. As a result, we estimate that the plan would boost long-run GDP, raise wages, and increase the equilibrium level of full-time equivalent jobs. Due to the larger economy and the broader tax base, the plan would reduce revenue by less on a dynamic basis: by $2.6 trillion over the next decade, if pass-through income is taxed as ordinary individual income, or by $3.9 trillion under the alternate assumption, where pass-through income is taxed purely at business rates.
+
+Our analysis does not consider how or if this revenue loss would be financed, or the macroeconomic effects of such financing. Nor does it consider any policy proposals from Trump on subjects other than taxes, even though these are likely to have substantial effects on the economy as well.
+
+Changes to the Individual Income Tax
+
+Consolidates the current seven tax brackets into three, with rates on ordinary income of 12 percent, 25 percent, and 33 percent (Table 1).
+
+Adapts the current rates for qualified capital gains and dividends to the new brackets.
+
+Eliminates the head of household filing status.
+
+Table 1. Individual Income Tax Brackets Under the Trump Plan Ordinary Income Rate Capital Gains Rate Single Filers Married Joint Filers 12% 0% $0 to $37,500 $0 to $75,000 25% 15% $37,500 to $112,500 $75,000 to $225,000 33% 20% $112,500+ $225,000+
+
+Eliminates the Net Investment Income Tax.
+
+Increases the standard deduction from $6,300 to $15,000 for singles and from $12,600 to $30,000 for married couples filing jointly.
+
+Eliminates the personal exemption and introduces other childcare-related tax provisions.
+
+Makes childcare costs deductible from adjusted gross income for most Americans (above-the-line), up to the average cost of care in their state. The deduction would be phased out for individuals earning more than $250,000 or couples earning more than $500,000.
+
+Offers credits (“spending rebates”) of up to $1,200 a year for childcare expenses to lower-income families, through the earned income tax credit.
+
+Creates new saving accounts for care for children or elderly parents, or school tuitions, and offers a 50 percent match of contributions (not modeled).
+
+Caps itemized deductions at $100,000 for single filers and $200,000 for married couples filing jointly.[3]
+
+Taxes carried interest as ordinary income.
+
+Eliminates the individual alternative minimum tax.
+
+Changes to Business Income Taxes
+
+Reduces the corporate income tax rate from 35 percent to 15 percent.
+
+Eliminates the corporate alternative minimum tax.
+
+Allows firms engaged in manufacturing in the U.S. to choose between the full expensing of capital investment and the deductibility of interest paid.
+
+Eliminates the domestic production activities deduction (section 199) and all other business credits, except for the research and development credit.
+
+Enacts a deemed repatriation of currently deferred foreign profits, at a tax rate of 10 percent.
+
+Increases the cap for the tax credit for employer-provided day care under Sec. 205 of the Economic Growth and Tax Relief Reconciliation Act of 2001 from $150,000 to $500,000 and reduces its recapture period from 10 years to 5.
+
+Other Changes
+
+Eliminates federal estate and gift taxes but disallows step-up in basis for estates over $10 million.[4]
+
+Pass-Through Taxation in the Trump Plan
+
+One policy question that has received some attention since the release of the speech is the tax rate on individual income derived from pass-through businesses.
+
+Before explaining why this policy question is important, it may be worthwhile to summarize what pass-through businesses are. Pass-throughs are businesses that pay their taxes through the individual income tax code rather than through the corporate code. Under current law, such businesses distribute all of their earnings to their owners every year, and such earnings immediately appear only on the owners’ tax returns. They are taxed at ordinary individual income tax rates.
+
+In contrast, traditional C corporations can retain earnings without distributing them immediately to any particular shareholder. This allows shareholders to defer, but not permanently avoid, personal income tax liability on the gain in wealth that is tied up in the corporation. A substantial tax drawback to C corporations, though, is that they have to pay two layers of tax: an entity level tax on retained profits, and the personal income taxes for the shareholders who receive the profits when they are disbursed.
+
+The Trump plan, as described on the website as of today, “will lower the business tax rate from 35 percent to 15 percent, and eliminate the corporate alternative minimum tax. This rate is available to all businesses, both big and small, that want to retain the profits within the business.” [5]
+
+The current state of the plan has led to multiple interpretations of the way that pass-through businesses would be taxed under the Trump plan. For example, two different facts were reported Friday by The Wall Street Journal alone, on the same information. An editorial piece states: “Mr. Trump is more consistent on the corporate side, recommending a more globally competitive income-tax rate of 15% for all businesses including pass-throughs.”[6] This editorial likely based its interpretation on the language of “all businesses, both big and small.”
+
+In contrast, a news article in The Journal reported it very differently:[7]
+
+Mr. Trump would lower the corporate tax rate from 35% to 15%. He also appeared to abandon a core plank of his earlier tax plans, which called for a 15% top tax rate on business income reported on individual tax returns, instead of taxing such income at the same rates as ordinary income.
+
+Small-business groups had praised the single business tax rate but the Clinton campaign criticized what it called the “Trump loophole,” because much of Mr. Trump’s business income is taxed on his own return and could have gotten the lower rate.
+
+The Trump campaign revised its website on this throughout Thursday. A late-day version suggested but didn’t say clearly that the lower rate is only available for corporations.
+
+Under this interpretation, the phrasing indicates that the 15 percent rate is only applicable to businesses that choose to become C corporations. One indicator is that the sentence describes lowering the rate from 35 percent, which is the current rate for C corporations. A second indicator is that it is available to businesses that want to retain the profits within the business, which is a property of C corporations. Under the Trump plan, as in current law, after paying the 15 percent rate on retained earnings, such a business would then presumably be subject to an additional layer of tax on individual income.
+
+One middle ground between the two interpretations may be the idea that the Trump plan would allow more businesses to file their taxes in the way that C corporations do, even if their legal structure today would have them pay taxes as a pass-through. These businesses could instead adopt paying an entity-level tax and then reduced shareholder taxes.
+
+However, a simple calculation of rate parity would suggest that the total tax burden on C corporations in the Trump plan is in fact not substantially different than the top individual rate. A 15 percent entity-level tax with a 20 percent tax on dividends comes out to a similar overall level of taxation as a 33 percent top individual rate. It is not immediately clear that pass-throughs would benefit from adding a second layer of taxation by opting for the 15 percent tax on their retained earnings.
+
+One potential reason a pass-through could opt to become a C corporation would be as a kind of savings vehicle for an individual taxpayer, where retained earnings were then invested into financial assets to delay individual taxes. While this would not be nearly as effective a savings vehicle as, for example, a 401(k), it could be an effective strategy for some individuals. This is probably not an intended side effect of the Trump proposal, which would prefer that the 15 percent rate apply to businesses, not glorified saving accounts. Presumably, regulations would be put in place to resolve this issue and disallow small corporations from investing in financial instruments that are not relevant to their line of business.
+
+Tax Foundation’s best understanding of the Trump proposal, after examining the totality of all statements made by the campaign, is that pass-throughs are not eligible for a single 15 percent tax rate on the individual income that their owners report; at best, they may be allowed to adopt some kind of tax status similar to that of C-corporations, either on a temporary or permanent basis.[8] In other words, our guess is that there is no means by which a business could get a single layer of taxation at a rate of 15 percent. However, we also acknowledge the arguments of those who perceive things differently.
+
+Therefore, we will report an upper bound and a lower bound on the tax reform, based on the two most extreme possible assumptions regarding current pass-through businesses. At the high end, we will analyze the plan assuming that such businesses pay individual rates of up to 33 percent on their income. At the low end, we will estimate the plan assuming that these businesses pay a 15 percent rate on pass-through income on the individual Form 1040. The former will be referred to as the higher-rate assumption, and the latter will be referred to as the lower-rate assumption.
+
+While these two assumptions may not be the only possible ways to understand the plan, they provide the best upper and lower bounds on most of the numbers contained in our analysis.
+
+Impact on the Economy
+
+According to the Tax Foundation’s Taxes and Growth Model, the Trump tax plan would increase the long-run size of the economy by 6.9 percent under the higher-rate assumption, or 8.2 percent under the lower-rate assumption (Table 2). The larger economy would result in 5.4 percent higher wages and a 20.1 percent larger capital stock under the higher-rate assumption, or 6.3 percent higher wages and a 23.9 percent larger capital stock under the lower-rate assumption. The plan would also result in 1.8 million more full-time equivalent jobs under the higher-rate assumption, or 2.2 million more under the lower-rate assumption.
+
+These projections are measured as of the end of a ten-year period (that is, 2016-2025) and they are compared to the underlying baseline of what would occur under current policy. For example, the U.S. real GDP will grow by 19.2% from 2016-2025, according to the Congressional Budget Office (CBO), even if policy remains unchanged.[9] This paper predicts that the greater incentives for labor and investment provided by this tax reform plan would increase the end-of-period GDP by an additional 6.9% under the higher-rate assumption, or 8.2 percent under the lower-rate assumption, over and beyond the baseline growth already predicted.
+
+The larger economy and higher wages are due chiefly to the significantly lower cost of capital under the proposal, which is due to the lower corporate income tax rate and expensing for those firms that choose to adopt it instead of deducting interest.
+
+These projections do not include the economic effects of proposals by Trump that are not specifically tax-related. For example, spending, trade, and immigration proposals are not part of this analysis, even though they are likely to affect the economy substantially and they are therefore worthy of consideration.
+
+Trade policy may intersect with tax policy in the specific case of tariffs. While no specific tariffs have been enumerated as part of the plan analyzed here, they have been discussed by Trump in the past. A tariff is a differentiated tax on consumption, which would reduce growth predicted by the Taxes and Growth model and raise revenue inefficiently.
+
+
+
+Table 2. Economic Impact of the Trump Plan GDP 6.9% / 8.2% Capital Investment 20.1% / 23.9% Wage Rate 5.4% / 6.3% Full-time Equivalent Jobs (in thousands) 1,807 / 2,155 Source: Tax Foundation Taxes and Growth Model, March 2016
+
+Note: Numbers are listed with the higher-rate assumption first and the lower-rate assumption second.
+
+Impact on Revenue
+
+If fully enacted, the proposal would reduce federal revenue by $4.4 trillion over the next decade on a static basis under the higher-rate assumption, or $5.9 trillion under the lower-rate assumption (Table 4). The plan would reduce individual income tax revenue by $2.2 trillion over the next decade under the higher-rate assumption, or $3.7 trillion under the lower-rate assumption. Corporate tax revenue would fall by $1.9 trillion in both cases, and the remainder of the revenue loss would be due to the repeal of estate and gift taxes.
+
+On a dynamic basis, the plan would reduce federal revenue by $2.6 trillion over the next decade under the higher-rate assumption, or $3.9 trillion under the lower-rate assumption. The larger economy would boost wages and thus broaden both the income and payroll tax bases. As a result, on a dynamic basis, payroll tax revenues would increase substantially, and income tax revenues would decrease by less than they do under the static analysis. On the other hand, corporate income tax revenue would actually decline even more on a dynamic basis. This is because the plan will encourage more investment and result in businesses deducting more capital investments, which would reduce corporate taxable income.
+
+Table 3. Ten-Year Revenue Impact of the Trump Tax Plan (Billions of Dollars) Tax Static Revenue Impact (2016-2025) Dynamic Revenue Impact (2016-2025) Individual Income Taxes -$2,192 / -$3,730 -$1,058 / -$2,458 Payroll Taxes $0 $520 / 612 Corporate Income Taxes -$1,936 -$1,958 / -$1,959 Excise Taxes $0 $44 / $52 Estate and Gift Taxes -$240 -$240 Other Revenue $0 $52 / $62 TOTAL -$4,368 / -$5,906 -$2,640 / -$3,932 Source: Tax Foundation Taxes and Growth Model, March 2016. Note: Individual items may not sum to total due to rounding. Numbers are listed with the higher-rate assumption first and the lower-rate assumption second, where applicable.
+
+Revenue and Economic Impacts of Specific Provisions
+
+The Trump plan contains some noteworthy base broadeners. For example, its limitation on itemized deductions raises $397 billion in individual income tax revenue over ten years relative to current law. On the business side, its repeal of Section 199 and several other corporate tax expenditures raises $213 billion.[10]
+
+The largest sources of revenue loss in the plan come from the corporate rate reduction ($2.1 trillion), the individual income tax reduction ($1.4 trillion), the repeal of the Net Investment Income Tax ($628 billion), and the reforms for childcare-related expenses ($500 billion.)
+
+The lower-rate assumption, if applicable, would be the second largest source of static revenue loss in the plan, at $1.5 trillion.
+
+Table 4. Ten-year Revenue and Economic Impact of the Trump Tax Plan by Provision Provision Billions of Dollars, 2016-2025 Static GDP Dynamic Eliminate the alternative minimum tax -$354 -0.3% -$428 Cap itemized deductions $397 0.2% $451 Repeal the Net Investment Income Tax -$628 0.7% $-447 Eliminate Head of Household status $116 -0.1% $90 Replace the personal exemption with a larger standard deduction $227 0.0% $232 Tax carried interest as ordinary income $14 0.0% $10 Reforms for childcare-related expenses -$500 0.1% -$461 Allow businesses to choose between interest deductibility and expensing -$322 0.6% -$192 Eliminate Section 199 and other business expenditures $213 -0.2% $152 Reforms to capital gains basis $48 -0.1% $27 Eliminate the estate tax -$240 0.9% -$24 Consolidate individual income tax to three brackets at 12%, 25%, and 33% -$1,418 0.9% -$1,205 Lower the corporate income tax rate to 15% -$2,122 4.1% -$1,044 Enact a deemed repatriation of deferred foreign-source income $200 0.0% $200 Total under the higher-rate assumption -$4,368 6.9% -$2,639 (Lower the individual rate on pass-through income to 15 percent) -$1,538 1.3% -$1,291 Total under the lower-rate assumption -$5,906 8.2% -$3,932 Source: Tax Foundation Taxes and Growth Model, March 2016 Note: Individual items may not sum to total due to rounding.
+
+The majority of the plan’s economic impact comes from its corporate income tax reductions and reforms. These provide 4.5 percentage points of GDP growth out of the 6.9 percent total predicted by the Taxes and Growth Model under the higher-rate assumption. Under the lower-rate assumption, an additional 1.3 percent is added to long-run GDP. (Figure 5)
+
+The corporate income tax is a substantial burden on investment in the U. S. The United States has the developed world’s highest corporate income tax rate at 35 percent. The 15 percent rate proposed here would be among the lowest in the developed world.
+
+The Taxes and Growth model finds that the rate reduction alone would lead to a 4.1 percent increase in the long-run level of GDP. The Taxes and Growth model finds the U.S. corporate income tax reduces economic output more than other taxes do, which explains why the corporate tax cut produces the majority of the economic impact of this plan.[11]
+
+Distributional Impact of the Plan
+
+On a static basis, the Trump tax plan would increase the after-tax incomes of taxpayers in every income group. The bottom 80 percent of taxpayers (those in the bottom four quintiles) would see an increase in after-tax income between 0.8 percent and 1.9 percent, under both policy assumptions. Taxpayers in the top quintile would see a 4.4 percent increase in after-tax income under the higher-rate assumption, or 8.7 percent under the lower-rate assumption. Those in the top decile would see a 5.4 percent increase in after-tax income under the higher-rate assumption, or 9.3 percent under the lower-rate assumption. Finally, taxpayers in the top 1 percent would see the largest increase in after-tax income on a static basis, driven by both the lower top marginal tax rate and the lower corporate income tax. Under the higher-rate assumption this increase would be 10.2 percent, and under the lower-rate assumption this increase would be 16.0 percent.
+
+On a dynamic basis, all taxpayers would see an increase in after-tax income of at least 6.7 percent under the higher-rate assumption, or 7.9 percent under the lower-rate assumption. The top 1 percent of taxpayers would see an increase in after-tax income of 12.2 percent on a dynamic basis under the higher-rate assumption, or 19.9 percent under the lower-rate assumption.
+
+Table 6. Static and Dynamic Distributional Analysis Changes in After-Tax Incomes Income Group Static Dynamic 0% to 20% 1.2% 6.9% / 8.1% 20% to 40% 0.8% 6.7% / 7.9% 40% to 60% 1.3% 7.7% / 9.0% 60% to 80% 1.9% 7.9% / 9.0% 80% to 100% 4.4% / 6.5% 8.7% / 12.3% 90% to 100% 5.4% / 8.3% 9.3% / 13.7% 99% to 100% 10.2% / 16.0% 12.2% / 19.9% TOTAL 3.1% / 4.3% 8.2% / 10.7% Source: Tax Foundation, Taxes and Growth Model (March 2016 version) Note: Returns with Positive Income. When two numbers are listed in a column, the number on the left reflects the higher-rate assumption and the number on the right reflects the lower-rate assumption.
+
+Comparison to Previous Versions of the Trump Plan
+
+This plan differs in a number of respects from the last complete Trump tax reform plan, released in September of 2015.[12] It has generally higher rates and a significantly broader individual income tax base. However, it preserves the lower corporate income tax rate of the original plan.
+
+In total, the new 2016 Trump plan is a substantially smaller tax cut than the 2015 Trump plan, on a static basis (Table 7).
+
+
+
+Table 7. Ten-Year Static Revenue Comparison of 2015 and 2016 Trump Tax Plans (billions of dollars) Tax Revenue Impact of Trump Plan Proposed in 2015 Revenue Impact of Trump Plan Proposed in 2016 Individual Income Taxes -$10,214 -$2,192 / -$3,730 Payroll Taxes $0 $0 Corporate Income Taxes -$1,862 -$1,936 Excise taxes $0 $0 Estate and gift taxes -$240 -$240 Other Revenue $0 $0 TOTAL -$12,316 -$4,368 / -$5,906 Source: Tax Foundation Taxes and Growth Model, March 2016. Note: Individual items may not sum to total due to rounding. Display reflects a new analysis of the 2015 plan based on new economic data, not the analysis of the plan that was conducted at the time it was proposed. For the 2016 plan, when two numbers are listed, the number on the left reflects the higher-rate assumption and the number on the right reflects the lower-rate assumption.
+
+Because the 2016 plan is a smaller static tax cut overall than the 2015 plan, the changes in after-tax income for many taxpayers have become relatively smaller. The 2015 plan would have increased mean after-tax personal incomes by 9.2 percent, while the 2016 plan would increase them by only 3.1 percent under the higher-rate assumption, or 4.3 percent under the lower-rate assumption (Table 9). This large change is mostly attributable to the fact that more income is taxable under the 2016 plan, and secondarily attributable to the fact that the rates on taxable income are higher.
+
+Table 8. Comparison of Static Distributional Analysis of 2015 and 2016 Trump Tax Plans Changes in After-Tax Incomes Income Group 2015 Plan 2016 Plan 0% to 20% 0.7% 1.2% 20% to 40% 2.2% 0.8% 40% to 60% 6.0% 1.3% 60% to 80% 7.3% 1.9% 80% to 100% 12.0% 4.4% / 6.5% 90% to 100% 13.6% 5.4% / 8.3% 99% to 100% 20.7% 10.2% / 16.0% TOTAL 9.2% 3.1% / 4.3% Source: Tax Foundation, Taxes and Growth Model (March 2016 version) Note: Returns with Positive Income. Display reflects a new analysis of the 2015 plan based on new economic data, not the analysis of the plan that was conducted at the time it was proposed. For the 2016 plan, when two numbers are listed, the number on the left reflects the higher-rate assumption and the number on the right reflects the lower-rate assumption.
+
+While the 2016 plan is a larger tax cut than the 2015 plan in most respects, it has more in the way of benefits to the lowest quintile. The 2015 plan would have increased after-tax incomes for that quintile by only 0.7 percent, while the 2016 plan would increase the after-tax incomes for that quintile by 1.2 percent. This difference is almost entirely attributable to the refundable credit for childcare implemented as part of the 2016 plan, which was not present in the 2015 plan.
+
+Conclusion
+
+The Trump tax plan as outlined in September 2016 is a large tax cut, mostly on individual and corporate income. This plan would significantly reduce the cost of capital and reduce the marginal tax rate on labor. These changes in the incentives to work and invest would increase the U.S. economy’s size in the long run, boost wages, and result in more full-time equivalent jobs. On a static basis, the plan would reduce federal revenue by between $4.4 trillion and $5.9 trillion, depending on policy assumptions about business tax rates. However, due to the larger economy and the significantly broader tax base, the plan would reduce revenue by between $2.6 trillion and $3.9 trillion over the next decade, depending on those same policy assumptions. In all cases, it would increase after-tax incomes for all income groups, but reduce revenue to the Treasury.
+
+Modeling Notes
+
+The Taxes and Growth Model does not take into account the fiscal or economic effects of interest on debt. It also does not require budgets to balance over the long term, nor does it account for the potential macroeconomic or distributional effects of any changes to government spending that may accompany the tax plan. This plan is a large net tax cut, and therefore, the need to finance it is likely to have macroeconomic impacts of its own. These macroeconomic impacts could vary depending on how and if the tax cut is financed.
+
+We modeled all provisions outlined above, with the exception of the new dependent care saving accounts, and assumed that all provisions were enacted in the beginning of 2016. We accounted for potential transitional costs for provisions such as expensing. Both the static and dynamic revenue impacts of the plan are relative to the CBO’s current law baseline.
+
+In modeling the distributional impact of the plan we follow the convention that changes to the corporate income tax are passed to capital and labor. We assume on a static basis that 25 percent of the corporate tax change is passed to labor and 75 percent is passed to capital. On a dynamic basis, changes to the corporate income tax fall on capital and labor in proportion to their share of factor income: roughly 70 percent labor and 30 percent capital.

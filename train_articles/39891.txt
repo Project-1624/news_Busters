@@ -1,0 +1,112 @@
+B-402186, Space Exploration Technologies Corporation, February 1, 2010
+DOCUMENT FOR PUBLIC RELEASE
+
+The decision issued on the date below was subject to a GAO Protective Order. This redacted version has been approved for public release.
+
+
+
+Decision
+
+Matter of: Space Exploration Technologies Corporation
+
+File: B-402186
+
+Date: February 1, 2010
+
+ญญญญญญญญญญญญญญญญ Richard J. Vacura, Esq., Keric B. Chin, Esq., K. Alyse Latour, Esq., and Marc A. Hearron, Esq., Morrison & Foerster LLP, for the protester.
+
+Kevin C. Dwyer, Esq., David A. Churchill, Esq., Adam G. Unikowsky, Esq., and Caroline E. Keller, Esq., Jenner & Block LLP, for Orbital Sciences Corporation, an intervenor.
+
+Christopher M. McNulty, Esq., Department of the Air Force, for the agency.
+
+Jonathan L. Kang, Esq., and Ralph O. White, Esq., Office of the General Counsel, GAO, participated in the preparation of the decision.
+
+DIGEST
+
+1. Agency reasonably concluded, under the Commercial Space Act of 1998, 42 U.S.C. sect. 14701 et seq. (2006), that cost-effective commercial alternatives to use of intercontinental ballistic missile assets for launch services were not available.
+
+2. The Commercial Space Act of 1998 does not require notice to Congress of conversion of an intercontinental ballistic missile for space launch services prior to issuance of delivery order to perform such work.
+
+DECISION
+
+Space Exploration Technologies Corporation (SpaceX), of Hawthorne, California, protests the issuance of delivery order No. 0026 to Orbital Sciences Corporation, of Dulles, Virginia, by the Department of the Air Force, Space Missile Systems Command, on behalf of the National Aeronautics and Space Administration (NASA), for space launch services for NASA's Lunar Atmosphere and Dust Environment Explorer (LADEE) mission. SpaceX argues that the issuance of the delivery order to Orbital violates the Commercial Space Act of 1998 ("Space Act"), 42 U.S.C. sect. 14701 et seq. (2006) with regard to the Act's requirements to acquire launch services from United States commercial providers, and to notify Congress of the conversion of intercontinental ballistic missile (ICBM) assets for use in space launches.
+
+We deny the protest.
+
+BACKGROUND
+
+The procurement of space launch services is regulated in part by the Space Act, which states that the government "shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities." 42 U.S.C. sect. 14731(a). The Space Act further states that the government must "[t]o the maximum extent practicable . . . plan missions to accommodate the space transportation services of United States commercial providers." Id.
+
+The Space Act provides an exception from the requirement to procure launch services from commercial providers where, "on a case-by-case basis, the [NASA] Administrator or, in the case of a national security issue, the Secretary of the Air Force, determines" that one of seven exceptions applies. Id. sect. 14731(b). As relevant here, an exception applies where the appropriate official determines that "cost effective space transportation services that meet specific mission requirements would not be reasonably available from United States commercial providers when required." Id. sect. 14731(b)(2).
+
+In addition to the provisions of section 14731, the Space Act also states that the government "shall not convert any missile" that was "formerly used by the Department of Defense for national defense purposes." 42 U.S.C. sect. 14734(a), (c). However, an exception to the prohibition on missile conversion applies as follows:
+
+A missile described in subsection (c) of this section may be converted for use as a space transportation vehicle by the Federal Government if . . . at least 30 days before such conversion, the agency seeking to use the missile as a space transportation vehicle transmits to the Committee on Armed Services and the Committee on Science of the House of Representatives, and to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, a certification that the use of such missile—
+
+(A) would result in cost savings to the Federal Government when compared to the cost of acquiring space transportation services from United States commercial providers;
+
+(B) meets all mission requirements of the agency, including performance, schedule, and risk requirements;
+
+(C) is consistent with international obligations of the United States; and
+
+(D) is approved by the Secretary of Defense or his designee.
+
+Id. sect. 14734(b).
+
+In 2003, the Air Force awarded an indefinite-delivery/indefinite-quantity (ID/IQ) contract, No. D04701-03-D-0202, to Orbital for space launch services utilizing excess government-owned Peacekeeper ICBM assets, such as engines and other missile components, with a maximum value of $237 million. To date, the Air Force has issued 26 delivery orders involving Peacekeeper ICBM components under the Orbital ID/IQ contract. AR at 3.
+
+The LADEE mission is intended to analyze the lunar atmosphere while "the Moon is still in a pristine state prior to human activity," as well as to test communications capabilities from lunar orbit. Agency Report (AR), Tab 20, LADEE Authorization Document, at 5. The LADEE mission requires launch services to transport the LADEE spacecraft into a 50km circular lunar orbit. NASA Decl. para. 2.1. [1]
+
+On December 16, 2008, NASA prepared a determination addressing the availability of cost effective commercial space transportation services for the LADEE mission. NASA evaluated eight potential launch vehicles based on four criteria: (1) technical capability, (2) risk, (3) schedule, and (4) cost savings. AR, Tab 5, NASA LADEE Determination, at 2-3. The eight launch vehicles included the Minotaur V, which is a planned 5-stage launch vehicle consisting of three stages that use components from government-furnished Peacekeeper ICBMs, and two launch vehicles offered by SpaceX--the Falcon 1e and Falcon 9. Id. As relevant here, NASA reviewed the SpaceX website, and a SpaceX publication, the "Falcon Launch Vehicle Lunar Capability Guide," which detailed the technical capabilities and schedule availability of the company's launch vehicles. AR, Tab 22, NASA LADEE Launch Service Approach Summary, at 40, 42. The agency was also aware of the capabilities of the Falcon 9 launch vehicle because it was available for use via delivery orders under a different ID/IQ contract, the NASA Launch Services contract; SpaceX is a vendor under this contract.
+
+As relevant here, NASA concluded that the Minotaur V and Falcon 9 launch vehicles could meet the LADEE mission's technical requirements, but that the Falcon 1e launch vehicle was not capable of achieving the required trans-lunar orbit. Id. While neither the Minotaur V nor the Falcon 9 had a flight history--and NASA noted that neither the Minotaur V nor the Falcon 9 was scheduled for its first launch before early 2009--NASA also noted that the risks involved with using these launch vehicles was mitigated because the government could provide oversight of the mission through the existing contracts. Id. at 4-5. However, NASA also concluded that given the government's experience with the Minotaur V's design and the scheduled launches of its predecessor, the Minotaur IV--upon which the Minotaur V relies in part for its design--the Minotaur V had the lowest technical and schedule risk. Id. Finally, NASA concluded that the likely costs for the Falcon 9, in light of the anticipated government oversight required to ensure a successful mission, would be approximately twice those for the Minotaur V. Id. Based on these findings, NASA concluded that, as compared to the Minotaur V, there were no cost effective commercial launch services available from U.S. providers.
+
+On March 13, 2009, the NASA Administrator requested that the Air Force provide launch services for the LADEE mission using a Minotaur V launch vehicle. AR, Tab 5, NASA LADEE Request to Air Force, at 1. The request stated that NASA had determined under the Space Act that no cost effective commercial launch services were available for the LADEE mission. Id.
+
+On August 28, the Air Force issued the current delivery order to Orbital under its ID/IQ contract for launch services for the LADEE mission using a Minotaur V. The cost estimate for the delivery order is approximately $27 million, based on prices set in the Orbital ID/IQ contract and estimates for other costs. Contracting Officer (CO) Statement at 5.
+
+After learning of the issuance of the delivery order to Orbital in a trade publication, SpaceX sought information from the agency regarding whether the Air Force complied with the provisions of the Space Act. Based on information provided by the agency on October 14, SpaceX filed this protest on October 26.
+
+DISCUSSION
+
+Space X raises two primary arguments. First, the protester argues that NASA unreasonably concluded under section 14731 of the Space Act that no cost effective commercial launch services were available from U.S. providers. Second, the protester argues that the issuance of the delivery order violates section 14734 of the Space Act because the Air Force did not provide notice to Congress of the conversion of the ICBM assets. As discussed below, we find no merit to either argument. [2]
+
+Availability of Commercial Launch Services
+
+First, SpaceX argues that NASA improperly concluded that no cost effective commercial launch services were available for the LADEE mission. The protester primarily argues that NASA's determination failed to reasonably consider the capabilities and costs of using either SpaceX's Falcon 1e launch vehicle, or "co-manifesting" the LADEE on a Falcon 9 along with another mission payload. As discussed below, we find no merit to the protester's arguments.
+
+As a preliminary matter, SpaceX generally argues that NASA's determination was flawed because the agency did not solicit information from potential U.S. commercial space launch providers. The Space Act, however, does not require NASA or the Air Force to issue a request for proposals or to solicit information from potential providers to determine the availability of U.S. commercial providers. In the absence of specific guidance or requirements for assessing the applicability of the exceptions under the Space Act, we will review the overall reasonableness of the NASA determination.
+
+As discussed above, NASA reviewed SpaceX's website and its Falcon Capability guide publication, and was aware of the capabilities of the Falcon 9 based on the NASA Launch Services ID/IQ contract. We think that NASA's review of the available information concerning the protester's capabilities was a reasonable approach to meeting the agency's requirements under the Space Act, and to the extent that the protester argues that the agency was required to solicit a proposal or other information from the protester, we disagree.
+
+With regard to SpaceX's specific arguments, the protester first contends that NASA unreasonably concluded that the protester's Falcon 1e launch vehicle was not capable of achieving the required orbit for the mission requirements. NASA found that, based on the published information concerning the Falcon 1e, this launch vehicle was not capable of reaching the required trans-lunar orbit. [3] AR, Tab 5, NASA LADEE Determination, at 2.
+
+The protester does not dispute that the Falcon 1e cannot place the LADEE spacecraft into the required orbit. Instead, the protester contends that the agency did not consider the possibility that a Falcon 1e could place the LADEE spacecraft into the required trans-lunar orbit if an additional Star-30 "kick motor" was used as an upper-stage component of the launch vehicle. NASA states that it was aware that the Falcon 1e could achieve the required orbit by placing an additional kick motor on the spacecraft--a different approach than using a kick motor as an upper stage of a launch vehicle. NASA Decl. para. 2.3. In this regard, the Falcon Capability guide states that the required trans-lunar orbit could be achieved by using a "kick motor on the spacecraft." AR, Tab 38, Falcon Capability Guide, at 4. NASA states, however, that it viewed a spacecraft-based kick motor as an unacceptable approach, because it would require additional development to adapt the LADEE spacecraft for use of such a motor, and because the agency did not have the funding for such an effort. NASA Decl. at 9; AR, Tab 22, NASA LADEE Launch Service Approach Summary, at 5. SpaceX does not clearly state in its protest arguments whether it views the kick motor option as an additional stage in the launch vehicle, or as an addition to the LADEE spacecraft itself. Compare Protest at 23-24 with Protester's Comments on AR at 26. As discussed above, however, NASA understood, based on the Falcon Capability Guide, that a Falcon 1e could achieve the required orbit only through use of a spacecraft-based motor; NASA also concluded that such an approach was not acceptable. On this record, we think the agency reasonably found the that Falcon 1e was not an acceptable alternative to the Minotaur V. [4]
+
+Next, SpaceX argues that the agency unreasonably assessed the risk and schedule concerns for the Minotaur V and Falcon 9 launch vehicles. As discussed above, NASA's Space Act determination acknowledged that the Falcon 9 launch vehicle meets the orbit and payload requirements for the LADEE mission. AR, Tab 5, NASA LADEE Determination, at 2. The protester primarily contends that the agency relied too heavily on the service records of the Peacekeeper ICBM, and did not fully assess the risks arising from the proposed use of the yet-untested Minotaur V launch vehicle.
+
+In its determination, NASA noted that neither the Minotaur V nor the Falcon 9 had yet been launched, and that neither was scheduled for launches until 2009. Id. at 2-3. NASA concluded that because neither the Minotaur V nor Falcon 9 had a launch history, significant government oversight would be required to manage performance risks and ensure successful launches. Id. ; see also NASA Decl. para. 4.3. The agency concluded that the Minotaur V provided an acceptable level of technical and schedule risk in light of the "significant flight history" of the Peacekeeper ICBM, whose assets would be used for the Minotaur V, as well as the anticipated government oversight of the mission. AR, Tab 5, NASA LADEE Determination, at 2; see also NASA Decl. para. 4.9. In contrast, NASA concluded that use of a Falcon 9 launch vehicle without "significant U.S. Government involvement" created unacceptable performance and schedule risks. NASA Decl. para. 4.9; see also AR, Tab 5, NASA LADEE Determination, at 2-3. To the extent that the protester expresses disagreement with the agency's determination of the relative risks of using the Minotaur V or Falcon 9, we see no basis to sustain the protest. [5]
+
+Finally, SpaceX challenges NASA's findings regarding the costs of the Minotaur V and Falcon 9 launch vehicles. NASA estimated that the costs of a Minotaur V launch service would be $46 million, which includes the delivery order costs, mission support costs, and flight services at NASA facilities. NASA Decl. para. 5.2. For the Falcon 9, NASA first considered the $[deleted] price listed for a launch under SpaceX's NASA Launch Services ID/IQ contract. Id. In addition, the agency determined that other costs not included in this price, such as mission-specific engineering and telemetry services costs, would increase the overall cost for a Falcon 9 launch to $[deleted]. [6] Id. NASA noted that the costs of the Falcon 9 were higher than those for the Minotaur V because, in part, the Falcon 9 is a larger launch vehicle, and has more capacity than needed for the LADEE mission. See Tab 22, NASA LADEE Launch Service Approach Summary, at 7, 42.
+
+SpaceX argues that NASA's cost analysis failed to account for the cost of the government-furnished Peacekeeper assets, and that the cost evaluation should have neutralized this cost advantage for the Minotaur V. The Space Act, however, does not address how to account for the costs of using government-inventory ballistic missiles, and we see no requirement in the Space Act for such a cost offset.
+
+SpaceX also argues that the agency failed to consider the possibility of co-manifesting the LADEE spacecraft on a Falcon 9 along with another mission payload. The protester contends that the costs of a co-manifested mission would have been shared between the LADEE and another mission, thereby reducing the cost for the LADEE launch. NASA states that it did not consider a co-manifested mission an acceptable alternative because, in the agency's experience, co-manifested missions increase the technical and schedule risk because the two payloads have independent technical and schedule requirements and a co-manifested launch increases the overall risk to each mission. NASA Supp. para. 1.8; CO Statement at 10-12. On this record, we find no basis to sustain the protest.
+
+Notice to Congress
+
+Next, SpaceX argues that the Air Force violated section 14734 of the Space Act because it did not provide notice to Congress of the conversion of the ICBM assets 30 days prior to the issuance of the delivery order. The Air Force contends that section 14734 does not require notice to Congress until 30 days before the ICBM asset is converted. We think that the Air Force's interpretation of the Space Act is reasonable. [7]
+
+As discussed above, section 14734 of the Space Act states that the government may not convert an ICBM to a space launch vehicle unless, the agency seeking to use the missile advises the appropriate Congressional committees that the conversion will provide cost savings, meet all mission requirements, is consistent with international obligations, and is approved by the Secretary of Defense. 42 U.S.C. sect. 14734(b). This notice must be provided "at least 30 days before such conversion." Id.
+
+The Air Force states that it interprets the term "conversion" as used in section 14734 of the Space Act "to occur when the excess ICBM assets are removed from their storage place and united with commercial components, something that typically does not occur until launch is imminent and long after the contract or delivery order for the applicable launch services has been awarded." AR at 11. SpaceX concedes that the Space Act does not define the term "conversion," or otherwise explain when such an event occurs. Protester's Comments on AR at 39. However, the protester argues the purpose of the Space Act was to promote the U.S. commercial space industry, and that notice to Congress of the conversion of an ICBM should be understood in the context of a contract action that would otherwise eliminate an opportunity for a U.S. commercial space launch provider.
+
+We think that the Air Force's interpretation of the term conversion as meaning the physical alteration of the ICBM for another purpose is consistent with the plain language of the statute. The plain language of section 14734 of the Space Act merely states that notice must precede "conversion" of ICBM assets, and in the absence of any other explanatory guidance, we see no basis to impose, or read-in, additional criteria or requirements, as suggested by the protester. See Inter-Con Sec. Sys., Inc. , B-290493, B-290493.2, Aug. 14, 2002, 2002 CPD para. 147 at 3 ( citing Chevron, U.S.A., Inc. v. Natural Res. Defense Council, Inc. , 467 U.S. 837, 842 (1984)).
+
+Additionally, the Air Force notes that eight space launches involving ICBMs under other contracts have occurred where notice was provided to Congress after the contract or delivery order was awarded, but prior to the physical conversion of the ICBM assets. [8] AR at 11. The Air Force states that for these eight launches, Congress did not object to the agency's interpretation of the notice requirements. Id. While we do not consider Congress' lack of objection to the timing of the notice for the eight ICBM conversions as dispositive evidence regarding the proper interpretation of this statutory requirement, we think it provides additional evidence of the reasonableness of the agency's understanding. On this record, we find no basis to conclude that the agency violated the notice requirements of section 14734 of the Space Act. [9]
+
+The protest is denied.
+
+Lynn H. Gibson
+
+Acting General Counsel

@@ -1,0 +1,28 @@
+United States Elections Project
+2008G 2008 November General Election Turnout Rates Last updated: 3/31/2012
+
+
+
+The preferred turnout rates are those calculated with the voting-eligible population as the denominator. The voting-eligible population (VEP) represents an estimate of persons eligible to vote regardless of voter registration status in an election and is constructed by modifying the voting-age population (VAP), by components reported in the right-most columns (scroll right in the spreadsheet).
+
+
+
+The preferred turnout rates are those calculated with the voting-eligible population as the denominator. The voting-eligible population () represents an estimate of persons eligible to vote regardless of voter registration status in an election and is constructed by modifying the voting-age population (), by components reported in the right-most columns (scroll right in the spreadsheet). The preferred turnout rate numerator is the Total Ballots Counted, which is all ballots election officials counted. Not all jurisdictions report total ballots counted, so a second-best numerator is Highest Office, which in a presidential election year is the total votes for all presidential candidates including write-ins (where reported), and in a non-presidential election may be the vote for the highest turnout statewide office (typically governor) or if no statewide election was held, the sum of the congressional elections. Total ballots counted includes blank and otherwise invalid votes for the highest office. Some states may report a statistic they call total ballots cast, but is actually vote for highest office.
+
+
+
+Questions? Please see the
+
+
+
+The preferred turnout rate numerator is the, which is all ballots election officials counted. Not all jurisdictions report total ballots counted, so a second-best numerator is, which in a presidential election year is the total votes for all presidential candidates including write-ins (where reported), and in a non-presidential election may be the vote for the highest turnout statewide office (typically governor) or if no statewide election was held, the sum of the congressional elections. Total ballots counted includes blank and otherwise invalid votes for the highest office. Some states may report a statistic they call total ballots cast, but is actually vote for highest office.Questions? Please see the FAQ
+
+
+
+2008 November General Election
+
+Notes:
+
+
+
+The demoninator data reflect the The demoninator data reflect the July 1, 2008 and July 1, 2009 voting-age population estimates (2010 intercensial adjustment) interpolated to Nov. 2008, non-citizen estimates from the 2008 and 2009 American Community Surveys interpolated to Nov. 2008, the year end-year 2008 DOJ prison report and the end-year 2008 DOJ probation and parole report . The overseas eligible estimate is recently updated with data provided by the Federal Voting Assistance Program Special Note on Overseas Citizen Population: This is the first (and only) election where I have apportioned overseas voters to the states from information reported by the Federal Voting Assistance Program. In the other elections I only estimate a national overseas citizen population. For consistency with previous elections, in the turnout rates reported here the national VEP adjusts for overseas citizens, but the state VEPs do not. State level overseas citizens estimates are provided for those who wish to further adjust state level turnout rates for overseas citizens. Link to spreadsheet

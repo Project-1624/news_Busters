@@ -1,0 +1,34 @@
+This FDA-cleared Apple Watch band can actually tell you if your heart isn't working properly
+AliveCor
+
+The Apple Watch has a heart rate sensor that has reportedly been saving lives, but it doesn't return the kind of data a doctor needs to really assess what's wrong with a patient.
+
+Doctors looking to diagnose heart issues require what's called an electrocardiogram test, or EKG for short — not readings from an optical heart rate sensor like those found on most wearables.
+
+Now AliveCor, a private medical health company headquartered in Mountain View, California, is releasing a new Apple Watch band that has a built-in EKG sensor. According to CEO Vic Gundotra, it's the first-ever medical accessory for a wearable that's been cleared by the Food and Drug Administration.
+
+"We live in a world where consumers want to know every minute what's going on [in their bodies] and for the first time they can have a medical, clinical-grade, FDA-cleared tool," Gundotra said.
+
+AliveCor CEO Vic Gundotra AliveCor AliveCor is calling the device KardiaBand. It costs $200 and is on sale from Amazon and AliveCor's site, and you don't need a recommendation for a doctor to use it — it's meant for consumers, and anyone who might want to keep a closer watch on their heart or those concerned with heart issues like sinus heart rhythms or atrial fibrillation.
+
+"The average consumer doesn't know what a normal sinus rhythm looks like or what atrial fibrillation looks like. Yet the FDA has cleared our individual algorithms," Gundotra said. "The consumer can have confidence that this is FDA-cleared. And frankly, we have the clinical studies to prove it."
+
+The KardiaBand slides into any Apple Watch and uses its own small watch battery, which Gundotra says should last two years. To take a reading, you simply place your fingers on the small metal contacts embedded in the band for 30 seconds. That will take an EKG reading, which is shown in real-time on the Apple Watch, and you can email the reading to your doctor.
+
+How it works
+
+An EKG reading on an Apple Watch. The metal square is the EKG sensor. AliveCor The KardiaBand launching on Wednesday is actually the second version of the KardiaBand, Gundotra said. The first version launched shortly after its announcement in early 2016, but it was only cleared in Europe.
+
+The version on sale in the United States is packaged with one big improvement called SmartRhythm. That part of the AliveCor Apple Watch app uses the wearable's built-in heart rate sensor to take readings every five seconds.
+
+The feature uses machine learning models running on the watch itself, according to the company.
+
+"We were able to run a deep neural network on the Apple Watch and keep it to 14 hours of battery life on the new Series 3 Watch," Gundotra said. "Apple deserves kudos for building such a platform that allows us — I mean, I think we are the most advanced app ever built for the Apple Watch. " If SmartRhythm detects that your heart rate is unusual — for example, it's unusually high and you're not on a run — it will tell you to take an EKG test to get a more accurate reading.
+
+These software features aren't free, though. They're part of a premium subscription to AliveCor that costs $99 per year or $9.99 per month. Anyone using the KardiaBand also needs to subscribe to the premium service, which also provides unlimited storage for EKG readings and a mailed monthly report that users can bring to their doctors.
+
+The fact that AliveCor can operate in the medical world with doctors but at the same time produce medical and health gadgets for consumers is the startup's key advantage, Gundotra says.
+
+"The members of our team are people who build consumer products and so we know what it takes to run a product that a 55 year old can use. And it's not easy by the way," Gundotra said. "If you look at medical products, a defibrillator, the pacemaker that my father have, they don't show anything to the consumer. It's all hidden to the consumer. The DNA of AliveCor is very different."
+
+AliveCor CEO Vic Gundotra talked about the "humbling" experience going from Google to a medical tech startup. Read the full story here.

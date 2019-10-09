@@ -1,0 +1,66 @@
+Fertility trends explained, 2017 edition
+Not really, but some thoughts and a bunch of figures on the 2017 fertility situation.
+
+There was a big drop in the U.S. fertility rate in 2017. As measured by the total fertility rate (TFR), which is a projection of lifetime births for the average woman based on one year’s data, the drop was 3.1%, from 1.82 projected births per woman to 1.76. (See this measure explained, and learn how to calculate it yourself, in my blockbuster video, “Total Fertility Rate.”) To put that change in perspective, here is the trend in TFR back to 1940, followed by a plot of the annual changes since 1971:
+
+That drop in 2017 is the biggest since the last recession started. In fact, we have seen no drop that big that’s not associated with a time of national economic distress, at least since the Baby Boom. In 2010, I noted that the drop in fertility at that time preceded the official start of the recession and the big unemployment spike. There is now some more systematic evidence (pointed out by Karen Benjamin Guzzo) that fertility falls before economic indicators turn down. Which makes this New York Times headline a little funny, “US Births Hit a 30-Year Low, Despite Good Economy.” This is a pretty solid warning sign, although not definitive, of an economic downturn coming in the next year or so. (On the other hand, maybe it’s a Trump effect, as people are just freaking out and not thinking positively about the future; something to think about.)
+
+Whatever the role of immediate economic conditions, the long-term trend is toward later births, which is generally going to mean fewer births — both because people who want later births tend to want fewer births, and because some people run out of time if they start late. And that is not wholly separable from economic factors, of course. People (especially women) delay childbearing to improve their economic situation, as they improve their economic situation when they delay births (if they have the right suite of economic opportunities). To show this trend, I’ve been updating this figure for a few years (you’ll find it, and a description, in my book Enduring Bonds).
+
+The real reason I made this figure was to highlight the interconnected nature of teen births. Birth rates for teens have fallen dramatically, but it’s been along with drops among younger women generally, and increases among older women — it’s about delaying births overall. Note, however, that 2017 is the first time since the depths of the last recession that birth rates fell for all age groups except women over age 40.
+
+So, sell stock now. But it is hard to know for sure what’s a local temporal reaction and what’s just the way things are going nowadays. For that it’s useful to compare the U.S. to other countries. The next figure shows the U.S. and 15 other hand-picked countries, from World Bank data. Rising fertility in the decade before the last recession wasn’t so unusual. We are a little like Spain and France in this figure, who had rising fertility then and falling now. But Germany and Japan are still rising, at least through 2016. All this is at below-replacement levels (about 2.0), meaning eventually these rates lead to population decline, in the absence of immigration. The figure really shows the amazing fertility transformation of the last half century, especially in giant countries like China, India, and Brazil. Who would have thought we’d live to see Brazil have lower fertility rates than the U.S.? It’s been that way for more than a decade (click to enlarge).
+
+Anyway, it’s my position that our below-replacement fertility levels are themselves nothing to worry about at present. There are still lots of people who want to move here (or, there were before Trump). And we can live with low fertility for a long time before the population starts to decline in a meaningful way. Eventually it will be a good idea to stop perpetual population growth anyway, so we may as well start working on it. This is better than trying to shape domestic policy to increase birth rates.
+
+That said, there is an argument that Americans are having fewer children than they want to because of our stone age work-family policies, especially poor family leave support and the high costs of good childcare. I’m sure that’s happening to some degree, but it’s still the case that more privileged people, who should be able to overcome those things more readily — people with college degrees and Whites — have lower fertility rates than people who are getting squeezed more. People who assume their kids are going to college are naturally concerned with rising higher education costs, both their own loan payments and their kids’ future payments. So it’s a mixed bag story. Here are the predictors of childbearing for women ages 15-44 in the 2016 American Community Survey. These are the probabilities of having had a birth in the previous 12 months, estimated (with logistic regression) at the mean of all the variables shown.*
+
+Interesting that there’s only a small foreign-born fertility edge in this multivariate model. In the unadjusted data, 7.4% of foreign-born versus 6.0% of U.S.-born women had a baby, but that’s mostly accounted for by their age, education, and race/ethnicity.
+
+To summarize: 2017 was a big year for fertility decline (at all but the highest ages), the economy is probably about to tank, and the U.S. fertility rate is still relatively high for our income level, especially for racial-ethnic minorities.
+
+Happy to have your thoughts in the comments. For more, check the fertility tag.
+
+* Here’s the Stata code for the regression analysis. It’s just some simple recodes of the ACS data from IPUMS.org. Start with a file of women ages 15-44, with the variables you see here, and then do this to it:
+
+recode educd (0/61=1) (62/64=2) (65/90=3) (101/116=4), gen(edcat)
+
+label define edlbl 1 "Less than high school"
+
+label define edlbl 2 "High school graduate", add
+
+label define edlbl 3 "Some college", add
+
+label define edlbl 4 "BA or higher", add
+
+label values edcat edlbl
+
+gen raceth=race
+
+replace raceth=4 if race==5 | race==6 /* now 4 is all API */
+
+replace raceth=5 if hispan>0
+
+drop if race>5
+
+label define raceth_lbl 1 "White"
+
+label define raceth_lbl 2 "Black", add
+
+label define raceth_lbl 3 "AIAN", add
+
+label define raceth_lbl 4 "API", add
+
+label define raceth_lbl 5 "Hispanic", add
+
+label values raceth raceth_lbl
+
+egen agecat=cut(age), at(15(5)50)
+
+gen forborn=citizen!=0
+
+gen birth=fertyr==2
+
+logit birth i.agecat i.raceth i.forborn i.edcat i.marst [weight=perwt]
+
+margins i.agecat i.raceth i.forborn i.edcat i.marst

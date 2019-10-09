@@ -1,0 +1,213 @@
+1018 envtxpftexas
+
+Emails, Luke Metzger, executive director; Brian Zabcik, clean water advocate, Environment Texas, Oct. 11 and 15, 2018
+
+3:24 p.m.
+
+on pages 6-7 of the report, we say "Of 76 test sites within the city limits, 46 exceeded safe bacteria levels at least once in 2017. Waterways that frequently had unsafe bacteria levels included Waller Creek, Walnut Creek, West Bouldin Creek, East Bouldin Creek, and Blunn Creek."
+
+46/76 works out to be 60.5%
+
+Here's the full dataset:
+
+https://environmenttexas.org/sites/environment/files/reports/bacteria%20data.pdf
+
+Luke
+
+*********************************************************
+
+Luke Metzger
+
+Executive Director, Environment Texas
+
+(Metzger)
+
+3:45 p.m.
+
+hmm, I only count 76. here it is as an excel document, so easier to read.
+
+(Selby)
+
+3:46 p.m.
+
+On another note, it looks to me like eight of the 85 Austin waterways had too much pollution every sampling. If I have that right, that breaks out to 9 percent of the sites. Make sense?
+
+(Selby)
+
+3:53 p.m.
+
+It's 9 out of 76, then? About 12 percent?
+
+(Metzger)
+
+4:02 p.m.
+
+That's correct, but this data isn't easily available to the public in a real-time way, so it's not like you can just check before you go swimming (like you can on Texas beaches), so I think if there's a problem even once during the year, there's a risk that people could get sick swimming or wading. CC'ing our clean water advocate Brian Zabcik, who may have other thoughts.
+
+(Metzger)
+
+4:03 p.m.
+
+Just like russian roulette, just because you don't die when it lands on an empty chamber doesn't make it a safe game to play.
+
+(Selby to Zabcik)
+
+4:41 p.m.
+
+A mayoral candidate says 60 percent of Austin’s “waterways are found to be contaminated with fecal matter and deemed unsafe to swim.”
+
+We spotted that claim by pedicab operator Alex Strenger among entries on a voter website showing questions and answers from most of the seven mayoral hopefuls on the ballot.
+
+Question: “What is your top environmental concern and how would you address it?”
+
+Strenger’s reply: “60% of our waterways are found to be contaminated with fecal matter and deemed unsafe to swim. This disturbing fact is caused largely by the influx of dog owners who let their pets dump near our lakes, creeks, and other bodies of water without bothering to clean up after them. When I get elected I plan on increasing police presence near our bodies of water in order to enforce the $500 fine in place for owners who refuse to clean up after their pets.”
+
+(Zabcik)
+
+5:01 p.m.
+
+Thanks for the context. It's your call of course on whether you think Stenger's quote is a fair representation of our report. I'll note that there's one detail in Stenger's quote that doesn't match our report — he said 60% of waterways, where we said 60% of testing sites. However, the testing sites are relatively well distributed around the city, so I think an argument could be made that 60% works as a ballpark estimate.
+
+It seems the other question is about frequency. Our analysis of data from TCEQ and from the city's Watershed Protection Department found that 60% of freshwater sites had bacteria levels that were unsafe for swimming on at least 1 testing day last year. Most sites were tested on 3 or 4 days, meaning that 60% of sites had unsafe bacteria at least 25% of the time. While the data would undoubtedly be more accurate if sites were tested on more days, the fact is that 3-4 testing days is the average throughout the state, so clearly TCEQ thinks that this is sufficiently representative to measure water quality.
+
+Given that I think it's accurate to say that 60% of Austin sites had unsafe bacteria as least 25% of the time, the question is whether this stat is accurately reflected in Stenger's comment that 60% of waterways "are found to be contaminated." The way I interpret his comment, he's not saying that they're contaminated all of the time, just that they're contaminated. So I think it would be fair to use "are contaminated" as shorthand for "are contaminated at least 25% of the time."
+
+But again, this is your call. Thanks for the questions!
+
+On Fri, Oct 12, 2018 at 4:47 PM Gardner Selby <wgstexas@gmail.com> wrote:
+
+I am sharing below what we have fielded from a TCEQ official, Andrew Keese.
+
+Is the response accurate about your study focusing on a short-term indicator? If so, why choose that threshold versus another?
+
+Did your research consider samples taken from Bull Creek?
+
+(Selby)
+
+12:09 p.m.
+
+Oct. 15, 2018
+
+I am pasting below a revised version of TCEQ's response. This came to me this morning:
+
+Below are the TCEQ’s responses to the questions you posed about Austin’s waterways:
+
+Is the 60-percent claim accurate? Why or why not?
+
+The 60-percent claim appears to be based on the following statement in the reference study: “Of the 76 test sites within Austin’s city limits, 46 exceeded bacteria levels safe for recreational contact at least once in 2017.” The criterion used in the report is based on the swimmer advisory single sample criterion of 399 colony forming units (cfu)/100 milliliters (mL) E. coli in the Texas Surface Water Quality Standards (TSWQS)(§307.7(b)(1)(A) and §307.7(b)(1)(C)). This criterion is only applicable as a short-term indicator of recreational suitability. This only means that the 46 sites exceeded the short-term criteria on one day. Bacteria data can be quite variable from day to day, and results are dependent upon a number of factors, such as antecedent precipitation. Due to the variability bacteria data, the TCEQ performs assessments of waters over time using a geometric mean criterion. The results of these assessments are reported in the Texas Integrated Report of Surface Water Quality, which provides a better overall assessment of risks associated with recreational activities such as swimming. The TCEQ water quality assessment process and TSWQS are described in greater detail below.
+
+It appears the study sampling is especially concentrated in Austin’s urban core. It is unclear whether the study includes many areas in Austin with a high amount of recreation. For example, there do not appear to be samples from Bull Creek.
+
+TCEQ water samples figured into the study's conclusions. Do those samples support the conclusion aired by Strenger? If not, what would be accurate?
+
+Based on a review of TCEQ’s 2014 Integrated Report for the Austin urban area we arrived at the following:
+
+The results in the table indicate that 9 percent of waters (segments) or 13 percent of stream miles do not meet the primary contact recreation criterion, and no reservoirs were found to exceed the primary contact recreation criterion. This represents the waters where there are exceedances of the standard and therefore an elevated level of risk of illness from contact recreation and do not necessarily indicate areas considered unsafe to swim. Swimming in all natural waters (including those that meet water quality standards) comes with risk, whether that be from pathogen exposure or other risks. Risk of illness can vary from person to person due to other health issues, compromised immune systems, etc.
+
+How does the commission gauge if a waterway has too much contamination to rule out safe swimming?
+
+TCEQ sets recreational water quality standards on the basis of risk, and these standards are based on fecal indicator bacteria (E. coli for freshwater). Fecal indicator bacteria suggest the potential presence of pathogenic organisms of fecal origin that are much more difficult to measure. The Primary Contact 1 (§307.3(50), §307.4(j)(2)(A), §307.7(b)) recreational criteria found in the TSWQS relates to risks associated with activities that are presumed to involve a significant risk of ingestion (e.g., wading by children, swimming, diving, water skiing, etc.). PCR 1 corresponds to the freshwater geometric mean water quality standard (criterion) of 126 cfu/100 mL E. coli. This corresponds with an estimated illness rate of 36 per 1,000 recreators.
+
+TCEQ completes assessments of surface water bodies against the water quality standards and reports results in the Integrated Report. Waterways which do not meet water quality standards are classified as impaired. For bacteria, TCEQ requires at least 20 data points to calculate a geometric mean and assess whether water quality standards are met.
+
+Which Austin and Texas waterways are considered not safe for swimming due to pollution?
+
+The following waters within Austin were determined to be impaired in the 2014 Integrated Report for exceeding the geometric mean criterion for E. coli of 126 per 100 mL:
+
+Segment ID Segment Name 1403J Spicewood Tributary to Shoal Creek 1403K Taylor Slough South 1428B Walnut Creek 1428C Gilleland Creek 1429C Waller Creek
+
+The full list of impaired waters for Texas can be found within in the Index of Impaired Waters report which is included in the Integrated Report.
+
+Anything more to consider?
+
+Data used by TCEQ are collected by TCEQ as well as Clean Rivers Program partners. The Lower Colorado River Authority is the CRP partner in the Austin area, and the city of Austin provides in kind data to TCEQ via the LCRA CRP. Data used by TCEQ conform to specific monitoring protocols, analytical method requirements, and quality assurance requirements.
+
+Other recommended sources?
+
+(Zabcik)
+
+12:45 p.m.
+
+Oct. 15, 2018
+
+In order to answer your questions, I think it would be helpful to give a quick overview of why and how water quality testing is done:
+
+- The general process is set up in Section 303(d) of the federal Clean Water Act:
+
+- The CWA requires streams and other natural water bodies to be regularly tested for a range of pollutants. If testing shows that pollutant levels in a given stream are regularly above levels considered to be safe, then that stream is classified as "impaired" and a plan must be developed to bring pollutants down to safe levels. Impaired streams are compiled on what's called the "303d list."
+
+- US EPA, which is responsible for enforcing the CWA, delegates that responsibility to state environmental agencies; in Texas it's TCEQ
+
+- Streams and water bodies are identified and divided into "segments."
+
+- Segments are then classified according to their primary use: recreational, agricultural, etc.
+
+- TCEQ proposes criteria for the maximum safe limit for key pollutants. The levels vary according to stream use. The criteria are approved by EPA and the Texas Legislature.
+
+- The most stringent criteria are established for the usage known as "Primary Contact Recreation," which is defined to include swimming, wading, and tubing. The key pollutant of concern for PCR is fecal bacteria, which is measured by testing for E. coli in freshwater and enterococcus in saltwater.
+
+- TCEQ delegates its water quality testing responsibility to local river authorities through its Clean Rivers Program. LCRA is in charge of testing for Austin. The actual testing is done by the city's Watershed Protection Department.
+
+- TCEQ only requires testing at a minimum number of sites, and not on all streams. Generally TCEQ's focus is on high-usage streams, especially those labeled for Primary Contact Recreation, as well as streams that have already been classified as "impaired" or "threatened" on the 303d list.
+
+- Water quality testing is conducted for each stream segment.
+
+- All of the testing is what's called "single sampling."
+
+- Austin WPD reports its data to LCRA, which reports it to TCEQ, which ultimately posts the data on its website. There can be long lag times for this to happen.
+
+- In order to determine whether a given stream segment should be listed as impaired or not, TCEQ uses the "geometric mean" of the single-sampling data that it's received. Geometric mean is a kind of averaging. TCEQ calculates this based on the last 20 single-sample results for each testing location. Each location is generally tested 4 times a year, so this works out to the past 5 years of testing. These parameters are set by TCEQ.
+
+- The city of Austin has decided that that it will conduct much more extensive water quality testing than what's required by TCEQ, so WPD tests at many more sites than just those that TCEQ is interested in.
+
+Having explained this, I think it will be easier to answer some of your specific questions:
+
+Q: Is the response accurate about your study focusing on a short-term indicator? If so, why choose that threshold versus another?
+
+A: Single-sampling is the *only* kind of testing that's done. TCEQ uses 20 SS results to calculate the geometric mean average, which it uses to determine whether a waterway is impaired, threatened, or neither. The discussion to be had is about the merits of only considering the geometric mean (which is what TCEQ does) versus also including a look at SS results (which is what we did in our report). Our view is that it is very helpful to also look at the SS results themselves.
+
+Q: Did Environment Texas do any testing of its own? Has it?
+
+A: No we did not. We have no reason to question the accuracy of the SS data that's reported to TCEQ. What we did in our report was to perform an analysis of TCEQ data that no one else, including TCEQ, has done.
+
+Q: Paraphrasing: How valid is it to look at SS results, given that they only reflect conditions on one day? From TCEQ's response: Bacteria data can be quite variable from day to day, and results are dependent upon a number of factors, such as antecedent precipitation. Due to the variability bacteria data, the TCEQ performs assessments of waters over time using a geometric mean criterion."
+
+A: This is true, but that's not the point. TCEQ, in order to calculate the geometric mean, relies on SS results, so it obviously considers these results to be valid. The GM is a single number, which can hide the details about individual SS results. What we decided to do in our report was to look at one year's worth of data to determine the percentage of unsafe testing days at each testing location. We believe that this is a valid approach and gives the public more information to consider than what TCEQ provides. It's also worth noting that TCEQ provides data to the public in only the most minimal way, and through 2 vehicles:
+
+1) the statewide 303d list, which only lists impaired and threatened stream segments. There are segments which are not classified as either, but which still have individual SS testing days showing unsafe levels of bacteria.
+
+2) TCEQ's SWQMIS database, which is where all WQ testing data is posted. As I noted before, this is a complex and complicated tool that's very difficult for a member of the general public to use.
+
+Q: Did your research consider samples taken from Bull Creek? Could you let me know too if any Austin waterways were left out of your study and why?
+
+A: The SS testing database that we received from Austin Watershed Protection Department did not include all 2017 testing results for Bull Creek and for some other Austin testing sites. I posed your question this morning to Andrew Clamann, who's in charge of the WPD database. His reply:
+
+"There are too many watersheds in Austin to monitor them all every year, therefore we currently implement phased monitoring on a two year alternating basis. Bull Creek is monitored in even years. Since we collect 4 samples every other year, we are able to achieve adequate sampling frequency to meet TCEQ evaluation standards for geometric mean."
+
+Here are some additional responses to you from some of the officials we worked with that may also be helpful for you:
+
+Chris Herrington, Austin WPD (Chris.Herrington@austintexas.gov ):
+
+Watershed Protection (and the Austin Travis County Health Department) has substantially more E. coli data routine monitoring sites than are submitted to TCEQ through LCRA under the Clean Rivers Program and included in SWQMIS, most of which is collected under the same quality control requirements as CRP.
+
+Clamann (Andrew.Clamann@austintexas.gov):
+
+Put together a dataset for us that included:
+
+• bacteria measurements
+
+• for "baseflow" conditions (measured a minimum of 24 hrs after small storms, 48-72 hrs after big storms)
+
+• for all 50 data watersheds
+
+• for 1/1/17 to 6/30/18
+
+• he'll check with the person in charge of WQ testing for lakes to see if he can include lake data too
+
+Joe Martin was the lead person we worked with at TCEQ on our research (Standards@tceq.texas.gov, 512-239-3163):
+
+That is correct, bacteria data in SWQMIS are single samples. The single sample criterion for E. coli in freshwater is 399 cfu/100mL. TCEQ adopted a 130 cfu/100mL single sample of Enterococci for saltwater in the 2018 revision to the Texas Surface Water Quality Standards but that has not been approved by EPA so the 104 cfu/100mL single sample criterion for Enterococci in saltwater is still the applicable criterion. Geometric means are calculated from the single samples in the database for assessment purposes. Routine monitoring is scheduled in advance and occurs without regard to any specific flow conditions (including post storm events), so if a previously scheduled routine sampling event occurred after a storm, that data may be captured in the sample. Routine monitoring includes samples collected over a wide range of flow conditions. Routine monitoring is scheduled in advance and is generally conducted unless conditions are unsafe.
+
+If you have any further questions, please do not hesitate to ask. Thanks!
+
+—Brian

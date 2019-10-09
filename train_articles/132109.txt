@@ -1,0 +1,18 @@
+Undo sudo rm -R /*
+You can restore the files but it will vastly depend on what has happened to the filesystem since you removed the files.
+
+Linux will retain files that are open which is why your sites still run, but the second you end the process that hold the locks you will effectively lose the files.
+
+The only likely way to recover the data is to shutdown and mount the disk 'read only' and use one of the many recovery tools, this thread has some excellent advice to give on this matter - http://unix.stackexchange.com/questions/122305/undelete-a-just-deleted-file-on-ext4-with-extundelete
+
+i have recovered several TB with a commercial offering but for the life of me I cannot remember its name.
+
+If you have no access to the server then you can recover currently locked files but the process is imperfect and you will want to do the recovery to a different volume to avoid trashing any files that are not currently open, and potentially retrievable using an undelete utility.
+
+Some thing along the lines of:
+
+tail -c +0 -f /proc/$pid/fd/$fd > filename
+
+So iterate through all $pid's which have associated $fd's and you'll get a fair amount back.
+
+Good luck!

@@ -1,0 +1,66 @@
+Three Myths about Political Independents
+A prefatory apology: some of the material in here is in previous posts (e.g., here), and all of this material will be very familiar and therefore unexciting to many political scientist readers. But elsewhere, people don’t get it, and so attention must be paid.
+
+The three myths are:
+
+1) Independents are the largest partisan group.
+
+2) Independents are actually independent.
+
+3) Change in the opinions of independents is always consequential.
+
+MYTH #1: Independents are the largest partisan group.
+
+David Brooks recently called them “the largest group in the electorate.” Charles Blow says, “independents are now nearly as large a group as Democrats and Republicans combined.” To be fair, plenty of data appears to support this myth. Here’s the Pollster graph, with data since September 2008:
+
+And here’s a graph from 1952-2008, using the American National Election Study. It shows the historical increase in the number of people claiming to be independents:
+
+But here is the problem: Most independents are closet partisans. This has been well-known in political science since at least 1992, with the publication of The Myth of the Independent Voter (here).
+
+When asked a follow-up question, the vast majority of independents state that they lean toward a political party. They are the “independent leaners.” Here is the distribution of partisans (who subsequently identified as strong or weak), independent leaners, and “pure” independents, from 1952-2008:
+
+The number of pure independents is actually quite small—perhaps 10% or so of the population. And this number has been decreasing, not increasing, since the mid-1970s.
+
+MYTH #2: Independents are independents.
+
+The significance of independent leaners is this: they act like partisans. Here is the percent of partisans and independent leaners voting for the presidential candidate of their party:
+
+There is very little difference between independent leaners and weak partisans. Approximately 75% of independent leaners are loyal partisans.
+
+Here is another example. Based on ABC/Washington Post polls from February-November 2009, I calculated the fraction of partisans, independent leaners, and independents who approve of Obama.[1] I also calculated, for the entire set of polls, the percent of the sample who falls into each group. (Click the graph to make it bigger.)
+
+Again, there is really no difference between partisans of either stripe and independent leaners. As far as their views of Obama are concerned, it doesn’t really matter whether you say you’re a Democrat or an independent who leans Democrats, and the same is true on the other side of the aisle. Only “pure” independent appear to have evenly divided attitudes as of November, but, as above, these people are only a very small part of the sample—7% overall.
+
+MYTH #3: Change in the opinions of independents is always consequential.
+
+Much ink has been spilled in the last month or so about how Obama is “losing” independents. This is sometimes based on mindless comparisons between the behavior of “independent” voters in the 2008 presidential election and their behavior in the 2009 gubernatorial elections—ignoring, of course, that these are different groups of voters (thanks to variations in turnout) being asked to make a choice between different candidates. But even better comparisons can be misleading.
+
+For one, many claims about the opinions of independents never separate leaners from pure independents. If there is a 15% drop in Obama approval among the entire mass of apparent “independents,” this could mean that there is a drop among independents who lean Republican, independents who lean Democratic, and/or pure independents. Why does this matter? Because the political consequences are different. If Obama loses 15 points among independents who lean Republican, he is losing voters who are unlikely to vote for him in 2012 anyway. But if he loses 15 points among independents who lean Democratic, then he has more serious problems.
+
+Second, movement among “pure” independents is generally less consequential simply because there are so few of these people and because they are less likely than partisans to vote (only 44% of pure independents reported voting in 2008 vs. 82% of strong partisans). If an election was a nailbiter, then the votes of pure independents could provide the margin of victory, but I don’t know of any estimates of how often that is actually true.
+
+With those points in mind, let’s return to the decline in Obama’s approval that is evident in the graph above. The question is: how much of his overall decline is due to declines in each of the partisan groups. Is it really independents who are driving the trend?
+
+From the February to November surveys, Obama’s approval declines from 73% to 57%—a drop of 16 points. How much of this trend is explained by the drop in each partisan group? I calculated the drop in each group from February to November, and then multiplied those differences by the each group’s percentage in sample. I came up with the following estimates of how much of this 16-point drop can be attributed to each group:
+
+Democrats: 3 points
+
+Independents leaning Democratic: 2.5 points
+
+Pure independents: 2 points
+
+Independents leaning Republican: 3 points
+
+Republicans: 5 points
+
+Which adds up to 15.5 points—close enough for back-of-the-envelope.
+
+So, even though the drop among pure independents is the largest (25 points in the graph above), the small number of pure independents mutes their impact. Obama’s approval has gone down mostly because of trends among partisans. Combined, Republicans and independents leaning Republican account for 50% of the drop (8 points out of 16). The two groups of Democrats account for 34%,. Pure independents account for the rest.
+
+Thus, Obama’s declining approval rating is more a story about losing the Republicans who are unlikely to vote for him anyway than it is a story about losing independents.
+
+And one further take-away: 90% of the public is partisan and about 80-90% of those voters vote for their party’s candidate. This is why the story of presidential elections is so often a story about partisans and not the fence-sitters who CNN recruits for debate dial groups.
+
+I should offer a concluding apology for this long post. But I hope it goes some distance in correcting common misperceptions about the size, behavior, and importance of political independents.
+
+fn1. I thank Jon Cohen of the Washington Post for sharing these data.

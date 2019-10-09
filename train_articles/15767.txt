@@ -1,0 +1,203 @@
+0315 polscicruzmethod
+
+Emails, political scientists commenting on Ted Cruz’s methodology, March 30-31, 2015
+
+[FROM POLITIFACT TEXAS]
+
+Once our story posted today, Sen. Cruz’s campaign spokesman emailed us a note indicating how Cruz got to his conclusion that today roughly half of born-again Christians aren’t voting. I write now hoping you’ll look over my write-up of what the spokesman said and offer your own comments. Does this hold up? Why or why not? Other considerations?
+
+Thank you again.
+
+PASTING TEXT FOR YOUR COMMENTARY:
+
+We didn’t hear back from Cruz about his claim until after we published this fact check. That day, spokesman Rick Tyler sent an email indicating non-partisan research and voter exit polls were the basis of the statement.
+
+According to a 2007 survey by the Pew Research Center, 26.3 percent of American adults say they belong to evangelical Protestant churches, Tyler noted. The center attributes its breakdown to results of a “nationally representative sample of 35,556 adults living in continental United States telephone households” from May 8, 2007 to Aug. 13, 2007.
+
+Apply that result to the U.S. Census Bureau’s estimate of adults who were eligible to vote in 2012, 215 million, Tyler wrote, and it looks like nearly 57 million of citizens eligible to vote in 2012 belonged to evangelical Protestant churches. Separately, Pew cited voter exit polls taken for news organizations to conclude 23 percent of the nation’s November 2012 voters were white evangelical Protestants. Given that 129 million voters participated that fall, Tyler said, that means there were about 30 million evangelical Protestant voters, which would have been about half of the evangelical Protestants eligible to vote.
+
+We spotted only one weakness in what Tyler laid out; Pew’s inquiry into American religious beliefs took place five years before the 2012 elections.
+
+g.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+RESPONSES
+
+Stephen Ansolabehere
+
+4:48 p.m.
+
+Taking those numbers on their face.
+
+The estimated number of evangelicals among eligible voters is ...
+
+.263*215 = 56.5 million
+
+The estimated number of evangelicals among voters is ...
+
+.23*129 = 29.7 million
+
+So, the voting rate of evangelicals is ...
+
+29.7/56.5 = .525, or 52.5%
+
+That calculation is mixing apples and oranges a bit. The 26.3 percent figure from Pew (as I understand it) is all races, not just whites. The exit poll number is white evangelicals. So the denominator is inflated (and the percent participating deflated) if white evangelicals is the target population.
+
+I'm unsure how they treated Black, Hispanic, and Asian evangelicals in the calculation.
+
+Ian Ostrander
+
+5:10 p.m.
+
+I do think that the logic used is pretty shaky. What would be best is one good self-contained study to estimate the proportion of evangelical voters who turn out to vote. Academics have produced a variety of such studies, which the original piece that you wrote does a good job of discussing.
+
+The logic used by the Cruz folks relies upon the combination of different data sets that were not necessarily created or ever intended to be used to estimate evangelical turnout. As you point out, there is a 5 year gap between the estimates of the evangelical population and turnout figures from Pew exit polls. What I think is worse is the fact that Pew was estimating only WHITE evangelical protestants... there are a lot of minority evangelical protestants who would take offense at being left out of this estimate and that could account for some of the discrepancy. Perhaps this number is small... but the oversight shows that the estimates used are quite imprecise. This demonstrates the difficulty of combining data from separate studies that were not intended to be combined...
+
+Also, if you look at the Census numbers, they simply pulled all adults over 18 years old who were citizens. This isn't really the full voting ELIGIBLE population because in many states folks with a criminal past are barred from voting. Again, one of the issues is that Pew's research was never intended to be blended with Census results that are using a slightly different definition of evangelical.
+
+Overall, I would rate the Cruz response as dubious, but not an outright fiction.
+
+Best,
+
+Ian Ostrander
+
+Assistant Professor
+
+Political Science
+
+Texas Tech University
+
+Daron Shaw
+
+5:33 p.m.
+
+The numbers put out by the Cruz people are as sensible as any. Some points to note…
+
+1. As I mentioned in our earlier exchange, it’s hard to figure turnout.
+
+2. Surveys that rely on self-reports produce inflated numbers, although voter validation efforts give you a sense of who actually voted (the CCES that Ansolabehere referred to, and the ANES numbers reported by Jackman, are examples of this).
+
+3. Exit polls do not estimate turnout. They only produce estimates of the composition of the electorate, which can then be plugged into overall turnout estimates to derive estimates of group turnout. This is one of the things that the Cruz people did. It’s legitimate, although even exit polls have error terms (+/- ranges) that should be used to produce a range of turnout estimates.
+
+4. The percentage of evangelicals among ALL adults may not be the same as the percentage of evangelicals among eligible voters (although it’s probably not that different).
+
+5. The notion that there was a surge in evangelical voting in 2012 such that the 2007-08 estimates are off is far-fetched. There is no reason to think this was the case.
+
+I tend to think that the estimates of Green and Ansolabehere (around 58%-61% turnout) are right. But the definitions and data are so loose here that the 50% number isn’t that far off.
+
+So in short, I don’t know that the Cruz numbers are any less plausible than those of the other entities you all relied on.
+
+DRS
+
+
+
+Simon Jackman
+
+5:46 p.m.
+
+
+
+I think your reply is correct: the figures I gave you out of the ANES data are all measured contemporaneously, in one survey, right around the 2012 election.
+
+In addition, everything I reported to you was using the “born again” survey item, which is different from whether you “belong” to an evangelical Protestant church; I also broke out estimates by race and ethnicity. So that might be another point of difference between the numbers.
+
+White, born again respondents make up 23% of the ANES 2012 respondents with validated turnout, which is the same as the white, evangelical Protestant turnout estimate in the report of the exit poll cited by Mr Tyler. I think we wind up with different numbers because the ANES estimate of the proportion of the US citizen population that is white, born again (21%) is lower than Pew’s 2007 estimate of the proportion of American adults belonging to evangelical Protestant churches (26.3%). I haven’t dug into the 2007 Pew data myself, but I wonder if that 26.3% number contains some non-White respondents?
+
+In any event, if the 21% prevalence estimate is right, then this group is turning out at a higher rate than the rest of the population; if this group is actually 26.3 of the eligible electorate, then no, this group would be turning out at a lower than average rate.
+
+John C. Green
+
+5:54 p.m.
+
+The fact that those numbers were five years ago is problematic, but it is not the biggest problem. This kind of analysis assumes that aggregate voter turnout is distributed evenly across the population. And it is not: some groups turnout at higher rates and some at lower rates. An example of this problem is the use of the 23% figure from the exit polls: these voters may well have represented a higher proportion of eligible voters--because other groups represented a lower portion. Also, the exit polls do not use the same measure of evangelical Protestants as the Pew 2007 study, so the calculation is dividing apples by oranges. Another issue is that the 26.3% figure in the 2007 study includes non-whites. As I indicated when we emailed last week, including non-whites in the measure of evangelicals will produce a lower estimate of turnout.
+
+John C. Green
+
+Distinguished Professor, Political Science
+
+Director, Ray C. Bliss Institute of Applied Politics
+
+University of Akron
+
+Seth C. McKee
+
+5:56 p.m.
+
+There are numerous problems with this assertion. First, is the one you point out - data from 2007 being used to make statements for 2012. Second, the number of evangelical church attendees is about the most heroic maximum estimate one can draw from to make a claim about born-again Christian participation. A nontrivial share of these attendees aren't necessarily evangelical protestant even though they belong to evangelical churches. Further, many evangelical protestants are not necessarily "born-again." Regardless, the national exit poll put white evangelical/born-again voters at 26 percent of the voting electorate (http://www.foxnews.com/politics/elections/2014/exit-polls?year=2012&type=president&filter=US).
+
+Let's agree with the Pew estimate that says 26 percent of Americans are born-again/evangelical protestant. We can't agree that white born-again/evangelicals are 23 percent of those who voted in 2012 because the exit poll puts the number at 26 percent (see the link above).
+
+The voting eligible electorate in 2012 was 222,381,268 and the votes cast for the highest office (President) was 129,070,906 (see http://www.electproject.org/2012g these are the 2012 data as collected by Michael P. McDonald at the University of Florida).
+
+So, overall turnout for president was 129,070,906/222,381,268 = 58.04 percent. If 26 percent of that turnout is white evangelical/born-again then .26 X 129,070,906 = 33,558,435.56. Now divide this number by the percent of the voting eligible electorate that is white born-again to get white born-again turnout: 33,558,435.56/((.26 X 222,381,268)) = 33,558,435.56/57,819,129.68 = 58.04 percent. So, white evangelical/born-again turnout is clearly more than half if we assume 26 percent of the electorate is indeed white born-again.
+
+But for the sake of inquiry, let's assume that white evangelical protestant/born-again voters are 23 percent of the eligible electorate and we know that 26 percent of the voting electorate was such in 2012 (based on the exit poll). So, 33,558,435.56 white born-again votes are now divided by .23 X 222,381,268 = 51,147,691.64 (the percent of the eligible electorate that is white born-again in 2012). So 33,558,435.56/51,147,691.64 = 65.61 percent turnout for white evangelical/born-again voters in 2012.
+
+So, no, the percent of white evangelical/born-again voters who actually turned out in 2012, is markedly greater than half: probably somewhere between 58 and 66 percent.
+
+I hope this helps,
+
+Seth
+
+Dr. Seth C. McKee
+
+Associate Professor
+
+Department of Political Science
+
+Texas Tech University
+
+6:22 p.m.
+
+It gets worse for the Cruz assertion. I just looked at a Pew webpage that tracks the change in religious affiliation from 2007 to 2012 (see http://www.pewforum.org/2012/10/09/nones-on-the-rise/). According to the Pew survey data for this report, white evangelicals were 19 percent of the adult population in 2012. Here's the Pew text:
+
+While the ranks of the unaffiliated have grown significantly over the past five years, the Protestant share of the population has shrunk. In 2007, 53% of adults in Pew Research Center surveys described themselves as Protestants. In surveys conducted in the first half of 2012, fewer than half of American adults say they are Protestant (48%). This marks the first time in Pew Research Center surveys that the Protestant share of the population has dipped significantly below 50%.
+
+The decline is concentrated among white Protestants, both evangelical and mainline. Currently, 19% of U.S. adults identify themselves as white, born-again or evangelical Protestants, down slightly from 21% in 2007. And 15% of adults describe themselves as white Protestants but say they are not born-again or evangelical Christians, down from 18% in 2007.5 There has been no change in minority Protestants’ share of the population over the past five years.
+
+Let's make the fairly safe assumption that 19 percent of the voting eligible population in 2012 was white evangelical protestant (it is most likely a little higher). Now, if we do the math, based on the exit poll estimate of 26 percent white born-again voters, then white born-again turnout was: 33,558,435.56/ ((.19 X 222,381,268)) = 33,558,435.56/42,252440.92 = 79.42 percent.
+
+The Cruz assertion isn't even close to credible.
+
+Seth
+
+Dr. Seth C. McKee
+
+Associate Professor
+
+Department of Political Science
+
+Texas Tech University
+
+Clyde Wilcox
+
+7:18 a.m.
+
+March 31, 2015
+
+The estimate is reasonable, however calculated. There are many born again Christians who attend mainline Protestant or black Protestant churches — that is, churches that are not “evangelical Protestant churches” in these studies. Also not all evangelicals would call themselves born again, so those categories are not perfectly aligned. Which is to say that born again is not quite the same as evangelical.
+
+But I think the broader question is why is this interesting? Evangelicals are now voting at a rate that is roughly the same as Catholics and mainline Protestants and the unaffiliated. So why is it surprising that half do not vote, when half of Americans do not vote?
+
+And then more importantly, the claim he is making has an implicit assertion that a higher portion of evangelicals might vote, and although that is possible evangelicals are just regular people and don’t vote for all kinds of reasons. There have been massive voter mobilisation efforts among white evangelical churches and these have increased evangelical turnout to where they vote at the same rate as everyone else. But it is unlikely that they will ever vote in numbers that are hugely higher than the rest of the country.
+
+That is, I think he says this because he is asserting that his candidacy is viable if there is a surge in evangelical turnout. But Reagan and George W. Bush did not get huge turnout numbers out of evangelicals, and Cruz is unlikely to change that.
+
+Corwin Smidt
+
+8:01 a.m.
+
+(he "problem" here is that scholars use different measures to try to capture the same thing, but different measures capture some similar, but not the same, people. The 2007 Pew survey cited is an excellent survey, and it employed religious affiliation as a (legitimate) means to capture evangelical Protestants (a strategy that I also employ in my work). This approach takes more time in surveys because you need to ask religious affiliation and then inquire if some what says Methodist (e.g., "is the Free Methodist, Wesleyan Methodist, United Methodist, or some other Methodist denomination") and then you need to accurately classify such responses accordingly (and you would need to to to this with all families of denominations such as Presbyterians, Baptists, Lutherans, etc.). Because for many news polls, time is money, many researchers use a self-identification question instead (e.g., "Do you consider yourself a born-again, evangelical Christian"). Though intended to capture the same group of religious people, the two measures overlap, with each capturing a common core portion, but then each measure captures a different group of distinct people.
+
+First of all, the Pew religious measure of religious tradition does not capture whites only. There are black evangelicals and Hispanic evangelicals also contained in the 26.3 percent figure. Because it is denominationally based, there can be whites who attend Black Protestant churches, and blacks and Hispanics who attend predominantly “white denominations.” (after African Americans left those denominations prior to the Civil War, forming their own historically African American denominations and churches). Moreover, not all whites who attend what may be labeled “evangelical denominations” necessarily claim to be “born again” or necessarily claim to be “evangelicals” (as captured by the “born again, evangelical” question. Finally, it is unclear just what respondents are responding to when they are asked “Do you consider yourself a born again, evangelical Christian”—are they responding to “born again” or to “evangelical.” When asked as separate questions (e.g., in the Exploring Religious American Survey of 2002) among those who willing labeled themselves as “born again” only 38 percent also described themselves as an evangelical. And among those who described themselves as evangelicals, more than a quarter (27 percent) chose not to describe themselves as “born again.”
+
+Moreover, the “self-identification: measure tends to capture a more “politicized” segment of the evangelical subculture in America (e.g., think here of females and feminists, with feminists being the “politicized” identity). So trying to merge all the separate findings related to evangelicals based on different measures become problematic—one cannot assume the two different measures, though intending to capture the same group of religious people, necessarily does so.
+
+If you wish to read more about issues related to the conceptualization and measurement of evangelical, see my Chapter 2 in American Evangelicals Today (2013) –now in paperback—published by Roman & Littlefield.

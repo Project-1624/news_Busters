@@ -1,0 +1,24 @@
+Difference Between the Mean & the Average
+keypad image by vashistha pathak from Fotolia.com
+
+Several different calculations can be made for the values of a set of numbers to help gain a better understanding of their distribution. One of the most common is taking the average by adding the values of all the numbers in the group and then dividing by the number of values. In statistics, there is no difference between the mean and average. Two other terms, “median” and “mode,” are used to describe different approaches for finding a representative value in a group.
+
+Mean vs. Average
+
+Most people understand the word average as describing a representative value within a group. For example, the average age of a group of three people aged 10, 16 and 40 is (10 + 16 + 40) / 3, or 22. When speaking statistically, this average age of 22 is referred to as the mean age. Notice that the average age is not very close in value to any of the individual ages. This is because there is a wide range between the lowest value, 10, and the highest, 40.
+
+Understanding the Median
+
+The median is another kind of representative value in a group of numbers. It is determined by locating the value “in the middle,” between the lowest and highest values in a group of numbers that has been sorted from low to high. For an odd number of values, half of the values will be lower and half will be higher than the median value. If the number of values is even, then the median will only be approximate.
+
+Sciencing Video Vault
+
+Difference Between Mean and Median
+
+Using the example of three people aged 10, 16 and 40, the median age is the value in the middle when the ages are arranged from lowest to highest. In this case, the median is 16. It is quite different from the mean age of 22 that is calculated by adding the values and dividing by 3. If there were an even number of ages being considered, such as 10, 16, 20 and 40, then the median would be determined by taking the average of the two numbers in the middle of the group. In this case, the average of 16 and 20 is 18. The median age is 18, even though that age is not represented in the group. This is why the median is called an approximation for groups of even numbers.
+
+Mean vs. Median
+
+The main disadvantage of using the mean to describe a group of numbers is that extremely small and large values can skew the result. For example, the mean of the numbers 4, 5, 5, 6 and 40 is the sum of the numbers, 60, divided by 5. The resulting mean is 12, a value that doesn’t really reflect the majority of values in the group. This is because the number 40 is skewing the mean. Compare this to the median, which is the middle number in the group. The median value of 5 in this case gives a closer representation of most of the numbers in the group.
+
+Understanding the Mode

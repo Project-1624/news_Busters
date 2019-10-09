@@ -1,0 +1,14 @@
+Health Reform Subsidy Calculator
+The premium can be adjusted up or down by 20% to provide a sense of how premiums might differ across areas with higher and lower costs.
+
+Notes
+
+Based on the Patient Protection and Affordable Care Act (including subsequent amendments in the Health Care and Education Reconciliation Act of 2010), as signed by the President.
+
+The premiums are illustrative examples in 2014 dollars derived from estimates of average premiums for 2016 from the Congressional Budget Office. For a 40 year old single adult, the premium for a silver plan is assumed to be $4,500 for a plan with a 70% actuarial value. To the extent that actual expected enrollment in 2014 differs from what CBO assumed for 2016 -- e.g., it has a different composition of people by health status or age -- then premiums could vary from this amount.
+
+Premium subsidies are based on a silver plan (with an actuarial value of 70%), so all premiums shown are for silver coverage. People may be able to pay a lower premium for less comprehensive coverage (i.e., a bronze plan, with an actuarial value of 60%). The tables showing results by age and income also reflect premiums for silver coverage, though the minimum insurance that people would be required to obtain would be bronze coverage.
+
+The proposal also makes available a catastrophic policy for young adults and those exempted from the requirement to obtain insurance that is less comprehensive and has a lower premium than other coverage. It is not reflected in the calculator.
+
+The actual premium calculated is adjusted for family type, and for age (within the three to one limit specified in the proposal). Subsidized people can enroll in more expensive plans, but must pay the full difference in the premium.

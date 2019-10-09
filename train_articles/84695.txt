@@ -1,0 +1,18 @@
+Pedestrian Head Protection Performance Tests
+Car accidents in which pedestrians are hit by cars moving at a certain speed and their heads collided against car bonnets or front windshield are assumed. An adult or a child pedestria head simulated impactor (headimpactor) are projected toward the car bonnet, etc., from the testing machine. The impact received by the head impactors is measured and then evaluated using head injury criterion (HIC).
+
+The projecting speed in the domestic technical regu tion is 32km/h (The impact speed received by the pedestrian against the car is equivalent to 40km/h.) In the Car Assessment, the impact speed increased 10% to 35km/h (Received impact speed is equivalent to 44km/h.) Impact angles differ according to the shape of the front part of 3 types of vehicles; sedan, SUV, and One Box.
+
+
+
+(1) Impact Test Area
+
+The distance between the ground and the evaluated areas of the cars,i.e., Wrap Around Distance (WAD) is measured according to the length of the area where the pedestrians' heads hit in accidents. Impact location area for adults and children's head is set based on the data of actual accidents.
+
+In the crosswise direction, the side line of the impact test area is from the line obtained by tracing the contact points between a straight edge and the side of the bonnet where the straight edge contacts the bonnet bumper at 45 degrees(Bonnet Side Reference Line) to the inside half diameter of the head impactor.
+
+
+
+(2) Vehicle type and the impact condition
+
+Test vehicles are divided by the vehicle type. Tests are done in each testing area under each impact condition.

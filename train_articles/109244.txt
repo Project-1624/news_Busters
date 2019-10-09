@@ -1,0 +1,32 @@
+Science Smackdown: Nissan Frontier Airplane Ad
+The most known of Nissan's batch of masturbatory hero-fantasies masquerading as commercials is the one where a Frontier takes the place of the broken front landing gear of an airliner. It's presented as a faux-newscast, which only makes it worse, really. Here's the analysis of why this is such crap provided by our Official Unofficial Physicist, Dr. Stephen Granade:
+
+Okay, so let's talk planes!
+
+Plane weight, landing speed, etc. vary a bunch. The CGIed plane is similar to a 727, though it looks like they changed things like making the CGI plane's nose more blunt and having its wing tips point straight up. I assume they did that so Boeing wouldn't sue them for implying that their planes' front wheel might break.
+
+Advertisement
+
+Anyway, let's pretend it's a Boeing 727-200. When it lands, the 727-200 weighs somewhere between 105,000 lbs and 160,000 lbs, and it's going somewhere between 130 knots (150 MPH) and 105 kts (120 MPH).
+
+Some fine internet research indicates that the front wheel will have to bear about 5-10% of the jet's weight. Let's be generous and say that it's 5% and the 727's low on fuel, so that its weight is close to its zero-fuel weight. You'd be dropping 5,000+ lbs onto the back of a Nissan Frontier that's only rated for at most 1,500 lbs (assuming you're driving the manual V6) and that's going 100+ MPH. That weight won't hit all at once — it'll slowly grow heavier and heavier as the pilot pitches the nose down. Pretty soon you'll break the tires, rims, suspension and more.
+
+And that's only the start! The question of whether or not the Frontier tips is one of forces and torques. Think of the Frontier as a table. If you apply a force between the front and back legs (axles), it won't tip.
+
+____V_____
+
+..O............O..
+
+If you apply an overall force behind the back legs (axle), it'll pivot around that back and tip up.
+
+_V________
+
+.......O .......O
+
+Looking at the commercial, the landing gear is between the axles and thus the truck won't tip, but imagine what happens if the Frontier driver doesn't exactly match the jet's speed. If you drive too slow, that wheel will punch forward into the cab, shoving you forward. If you drive too fast, that wheel will push on the back of your truck bed. At that point you're applying force that's behind your back wheel and you'll start to tip the front of your truck up. I expect both will happen, since it'll be hard to match speed and as soon as the pilot reverses his engines to slow down the Frontier'll want to shoot forward relative to the plane.
+
+And this is the best case scenario.
+
+As the Mythbusters say: don't try this at home. Or at the airport. Or anywhere. Stick to CGIed planes like Nissan did.
+
+Back to the full article.

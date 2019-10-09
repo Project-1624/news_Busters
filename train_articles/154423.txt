@@ -1,0 +1,34 @@
+Dubious Conspiracy Theory Links Putin’s Daughter to Russia-Trump Collusion
+In late October 2016, Slate reported on a group of internet “malware hunters” who had become alarmed by what appeared to be a digital link between a Trump Organization server and servers belonging to the Russian Alfa Bank. In brief, the controversy stemmed from domain name server (DNS) logs that provided a glimpse of repeated, irregular contacts between the bank and the Trump server.
+
+DNS servers essentially act as the Internet’s phonebook and switchboard operation center. When you type (for example) “Trump.com” into a web browser, the browser connects to a DNS server, locates the IP address (a numeric code assigned to everything connected to the internet) associated with the domain name Trump.com, and then directs your browser (or email) to the corresponding server(s). As Slate reported in that 2016 piece, something seemed unusual about the DNS lookups connected with Trump and Alfa Bank servers:
+
+The irregular pattern of server lookups actually resembled the pattern of human conversation — conversations that began during office hours in New York and continued during office hours in Moscow. It dawned on the researchers that this wasn’t an attack, but a sustained relationship between a server registered to the Trump Organization and two servers registered to an entity called Alfa Bank.
+
+In an additional eyebrow-raising discovery, Slate reported that the Trump server was programmed only to communicate with a small number of IP addresses. Alfa Bank was by far the most frequent address to appear in those logs, and a server belonging to the company Spectrum Health came in, Slate reported, a distant second:
+
+When the researchers pinged the server, they received error messages. They concluded that the server was set to accept only incoming communication from a very small handful of IP addresses. A small portion of the logs showed communication with a server belonging to Michigan-based Spectrum Health.
+
+Some news outlets have been skeptical of the claims raised in the Slate article and have offered benign explanations for the phenomenon. However, both Alfa Bank and Spectrum Health do have established connections to the Trump administration or campaign.
+
+The first person sentenced in Robert Mueller’s investigation into Russian interference in the 2016 presidential election was Alex Van Der Swan (who pled guilty to lying to the FBI). An attorney for ex-Trump campaign Chairman Paul Manafort, Van Der Swan is married to the daughter of the Russian oligarch who owns the Alfa banking conglomerate. Additionally, President Trump’s controversial appointee to run the Justice Department’s criminal division, Brian Benczkowski, once represented Alfa Bank.
+
+Spectrum Health is run by current Secretary of Education Betsy Devos’ husband, a Michigan-based healthcare system that comprises 12 hospitals, 18 urgent care facilities, and 48 laboratory centers. Devos’ brother, private security firm Blackwater founder Erik Prince, has additionally come under scrutiny, in part for his alleged efforts to set up a backchannel of communication with Russian officials during a January 2017 meeting in Seychelles.
+
+The Theory That Putin’s Daughter Played a Role in These Alleged Communications
+
+As if the above set of circumstances were not enough for those interested in nefarious-seeming government conspiracies, a new rumor appeared on Facebook in July 2018 suggesting that Putin’s daughter was somehow involved in whatever those DNS logs may have uncovered.
+
+A highly-shared social media post (inexplicably accompanied by an image of Melania Trump in a revealing outfit) made the argument that Putin’s daughter, because she is reportedly an endocrinologist and because Spectrum Health has an endocrinology department, must have had some role in setting up this server communication channel:
+
+Well here’s a funny little coincidence — Mariya Putin, Vlads [sic] eldest daughter just so happens to run a children’s endocrinology charity, [sic] guess who specializes in endocrinology? Spectrum Health of Michigan. The same site that all the computer traffic was going to and from Trump Tower and Alfa Bank of Russia. Spectrum Health is owned by Betsy Devos. That, ladies and gentlemen is called an implausible coincidence. Devos didn’t get a cabinet position because she was qualified (an understatement)! She got that job because she’s right smack in the middle of all this! They used her companies [sic] computer servers to communicate with the Russians and they thought no one would notice! I’m sure she’s terrified right about now. If we all know what she did you can best be sure Robert Mueller knows what she did.
+
+Elements of that post were also encapsulated in a less risqué meme:
+
+The identity of Putin’s children has been a closely guarded state secret since his rise to power in the late 1990s. However, in January 2016, the Moscow-based independent news magazine The New Times reportedly identified his eldest daughter as a woman who goes by the name Maria (or Mariya) Vladimirovna Vorontsov. At the time of that article’s publication, Maria had received an advanced degree in endocrinology from Moscow State University’s Functional Medicine Department.
+
+On 18 July 2018, Russia24 (a state-run Russian news channel) ran a segment on an endocrinology conference that featured an interview with Maria Vorontsov. In that segment, Vorontsov was introduced as a pediatric endocrinologist and research assistant at the Russian Ministry of Health’s Endocrinology Research Center. This event inspired speculation that Putin’s (alleged) daughter was a patron of that center.
+
+Taking the claims that Putin’s daughter is a pediatric endocrinologist who funds an endocrinology research center as fact, we note that the connection to Spectrum Health would still revolve around only a shared involvement in endocrinology. The viral Facebook post asserted that “Spectrum Health of Michigan” “specializes” in endocrinology, but while “Spectrum Health of Michigan” is neither the name of the company nor the name of any of their facilities, Spectrum Health’s website do describe their Helen DeVos Children’s Hospital as the largest children’s endocrinology program in the state of Michigan.
+
+While there are legitimate questions to be asked about the odd connections between servers owned by Spectrum Health, the Trump Organization, and Alfa Bank (and some of those questions are likely part of Robert Mueller’s investigation), the suggestion that Putin’s daughter had any role in whatever communications were occurring with the Trump Organization server requires belief that it is an “implausible coincidence” for Putin’s daughter to be an endocrinologist at the same time that a DeVos-run hospital has an endocrinology department.

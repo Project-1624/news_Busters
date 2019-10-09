@@ -1,0 +1,94 @@
+Personal Identification Number (PIN) Security Tips
+What Is a PIN?
+
+A personal identification number (PIN) is a security code for verifying your identity. Similar to a password, your PIN should be kept secret because it allows access to important services like the ability to withdraw cash, change personal information, and more. Unlike most passwords, a PIN is numeric only—there are no letters or special characters in a PIN.
+
+PINs are commonly used for financial transactions and (historically) student loans. But you can use a PIN for anything from unlocking a door to unlocking a phone.
+
+PINs are sometimes called “pin numbers,” which is redundant because the word "number" is already included in “PIN.”
+
+Financial PINs
+
+ATM PINs: When you get cash from an ATM with a debit or credit card, you need to enter a PIN to prove that you're authorized to make the withdrawal. The PIN serves as a secondary form of verification. Anybody could have possession of your card, but only you should know the PIN that works with the card.
+
+Card PINs are often four-digit numbers, such as 1234. It’s best to use a PIN that is hard to guess (although some people ignore that advice), and there are several strategies to create great PINs below.
+
+Card purchase PINs: You might also need a PIN to make purchases with your debit or credit card at a retailer. Again, the PIN proves that you are authorized to use the card.
+
+In the U.S., chip-enabled credit cards sometimes require a PIN at checkout, but a signature is more common. In other countries, entering a PIN is the norm—and some U.S.-issued cards are not compatible with payment systems abroad. Check with your bank before you take your card out of the country.
+
+When you pay with a debit card and choose “Debit” at checkout, you’ll need to enter a PIN. If you choose “Credit,” you’ll sign for the purchase instead.
+
+Other uses: Aside from PINs you set up with your bank or credit union, almost any organization might ask you to establish a PIN. The concept is similar—your PIN is a secret code that verifies your identity. For example, you might need a PIN to:
+
+Access your 401(k) account for the first time
+
+Make changes to your mobile phone account (update your address or service plan)
+
+File and pay taxes electronically
+
+PIN Security
+
+Because PINs protect sensitive information (and your cash), it’s wise to use a PIN that is difficult to guess. Avoid including the following items in your PIN:
+
+Simple number sequences like 1234 or 0000 (including repetition: 1122 or 2233)
+
+Significant dates, such as your birth year or spouse’s birthday
+
+Any part of your Social Security Number
+
+Any part of your address or phone number
+
+Longer PINs are safer than shorter PINs because there are more ways to mix the numbers together. For example, if you use a four-digit PIN, there are 10,000 possible variations (starting with 0000, 0001, 0002, and so on). With a six-digit PIN, there are 1 million possible codes, so it’s harder for thieves and computer programs to successfully guess your PIN.
+
+Whenever you have the option, go with a longer PIN. Some systems default to a four-digit PIN, but you can choose to use a longer one (on iPhones, for example). Stronger PINs are better because most security systems lock your account (at least temporarily) after three or so unsuccessful attempts. This gives you and your bank a chance to figure out what’s going on, and it keeps progress painfully slow for anybody trying to guess your PIN.
+
+Keep it Secret, but Accessible
+
+Because the PIN authorizes you (or whoever knows it) to access sensitive information, it's essential to keep the number secret. Protect it, and never write it on your ATM or debit card—thieves know to look for four-digit codes written on the back of stolen cards.
+
+Hide PIN entry: When you enter your PIN at an ATM or cash register, cover the keypad with your free hand so that nobody can see what you type in. Thieves can install hidden cameras on ATMs and other devices (like gas pumps) for recording PINs. If you want to be extra safe, touch some of the other keys after you enter your PIN to thwart heat-sensitive cameras and other tactics.
+
+Easy vs. secure: PINs can be hard to remember—especially if you have multiple cards. This creates a challenging situation: Strong security measures are harder to use. As a result, you may be tempted to take shortcuts like re-using the same PIN or using numbers from your birthday. Fortunately, several tricks make it easy to store PINs safely (while making them easy to access or remember).
+
+Password managers: Especially if you have multiple PINs, it may be helpful to have a record of each PIN and account. Password managers are useful tools for doing this (much better than a sticky note on your monitor or in your wallet). Develop and remember a strong password for the password manager, and you can look up your PINs whenever needed.
+
+Below, we’ve described several ways to create good PINs and make them easy to use.
+
+Strategy #1: The Word Method
+
+One way to create and remember a PIN is to create it from a word.
+
+Think of the numbers and letters on a telephone keypad. Have you ever used the "dial-by-name" option to find somebody in a company's phone directory? Using the same concept, you can base your PIN on a word, making it easier to remember.
+
+For example, the word "word" converts to the PIN 9673 (the W is on the 9, the O is on the 6, and so on).
+
+A disadvantage of word PINs is that automated hacking programs can use words from the dictionary in a brute force attack. However, most banking systems will lock them out after just a few unsuccessful attempts. You could also use an acronym—a series of letters that means something but isn’t a word found in any dictionary.
+
+Strategy #2: The Date Method
+
+Another way to create and remember a good PIN is to build it from significant dates. For example, if your birthday is November 15th, 1946, you can create a PIN derived from your birthday. You might use 1115 (for the eleventh month and fifteenth day). You might also try 1546.
+
+The disadvantage of this method is that somebody who knows you may be able to guess your PIN with their knowledge of your personal life. Plus, thieves can easily find your date of birth and other personal information online—through social media, free databases, and stolen data for sale online. For best results, mix up the numbers: Use part of a date with part of a different number (your address or shoe size, for example).
+
+Strategy #3: The Cellphone Friend Method
+
+Your mobile phone probably has dozens or hundreds of contacts.
+
+Add a new fake contact, and hide your PIN within that contact's phone number. For example, if your PIN is 1212, you can add the phone number 555-123-1212 (but use a local-looking phone number—not the fictitious 555 area code). This is the concept of “hiding in plain sight.”
+
+A drawback to this method is that you could lose your phone or phone or have a dead battery. Plus, it’s not safe to fumble with your phone every time you go to the ATM—you want to be quick and move on.
+
+Strategy #4: The Addition Method
+
+Another way to randomize your PIN is to add numbers to a number that you know well. For example, you might add one to each number of the base PIN. If you start with "1234," you add one to each position and end up with "2345." Of course, this is an oversimplified example, and you'll have to get more creative for any meaningful security.
+
+What If You Don't Know Your PIN?
+
+If you don’t know your PIN, you might need to request one from your financial institution. In some cases, you do not get to choose your initial PIN—your service provider mails a PIN to you separately from any cards (in case your card gets stolen from the mail). You typically have the option to change your PIN, and you might be required to do so.
+
+However, some banks allow you to choose your PIN yourself as your card is printed.
+
+When you lose or forget your PIN, you’ll need to reset it. That may require waiting on the mail or a visit to a bank branch (assuming the PIN is for your bank account).
+
+Student Loans

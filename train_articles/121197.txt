@@ -1,0 +1,294 @@
+McAfee Labs Threat Center
+------Updated on 13 Nov 2012-----
+
+Aliases
+
+Kaspersky - Virus.Win32.Downloader.ai
+
+F-secure - Trojan.Autorun.AMP
+
+Microsoft - trojan:win32/agentbypass.gen!g
+
+Symantec - W32.SillyFDC
+
+Generic Downloader.ab is detection for this Trojan that downloads other malicious files. It may also spread via removable drive and creates an autorun.inf in all the system drives.
+
+Upon execution, the Trojan get injects with explorer.exe and it tries to connects to the below IP address through a remote port 53.
+
+The Trojan creates files in the below location:
+
+[System Drive]:\WINDOWS\Kb85lOl9.log
+
+: [RemovableDrive]\autorun.inf
+
+[System Drive]:\autorun.inf
+
+And the Trojan drops an autorun.inf file into the root of all removable drives and mapped drives in an attempt to autorun an executable when the drive is accessed.
+
+The file "AutoRun.inf" is pointing to the malware binary executable, when the removable or networked drive is accessed from a machine supporting the Autorun feature, the malware is launched automatically.
+
+The autorun.inf is configured to launch the Trojan file via the following command syntax.
+
+[autorun]
+
+OPEN=rundll32.exe Pagefi1e.sys,RunDll
+
+shell\´ò¿ª(&0)\command=rundll32.exe Pagefi1e.sys,RunDll
+
+shell=´ò¿ª(&0)
+
+The following registry key values have been added to the system:
+
+HKey_Current_User\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce Rundll32 MSGM.DLL,ServiceMain
+
+The above mentioned registry key value ensures that the Trojan registers run entry with the compromised system and execute itself upon every reboot.
+
+The following registry values have been added to the system:
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\WmdmPmSN\Start: 0x00000003
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\WmdmPmSN\Start: 0x00000002
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\WmdmPmSN\Parameters\ServiceDll: "%WINDIR%\system32\mspmsnsv.dll"
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\WmdmPmSN\Parameters\ServiceDll: 43 3A 5C 57 49 4E 44 4F 57 53 5C 73 79 73 74 65 6D 33 32 5C 4D 53 47 4D 2E 44 4C 4C 00 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74 6F 70 5C 44 65 73 6B 74
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WmdmPmSN\Start: 0x00000003
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WmdmPmSN\Start: 0x00000002
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WmdmPmSN\Parameters\ServiceDll: "%WINDIR%\system32\mspmsnsv.dll"
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WmdmPmSN\Parameters\ServiceDll: [Binary Data]
+
+The above registry entries confirms that the Trojan enable the start mode to automatic for the Portable Media Serial Number Service.
+
+----- Updated on July 06, 2011 ----
+
+File Information -
+
+MD5 - B9EB02D8D100E0A839F3D95988F842BA
+
+
+
+SHA - 4173FCFAD42FAC0AC590C7A7488D8723C5CA4E49
+
+Aliases -
+
+AhnLab-V3 - Trojan/Win32.Amber
+
+
+
+AVG - Generic22.AWUF
+
+Upon execution, the Trojan connects to the site "mechanical[removed].net" through port 80 to download other malicious files.
+
+And it drops the following file:
+
+%AppData%\Microsoft\IME\V2005\PHIME2002A.exe
+
+The following registry key has been added:
+
+HKEY_USERS\S-1-5-[varies]\Software\Microsoft\Windows\CurrentVersion\RunOnce
+
+The following registry values have been added:
+
+HKEY_USERS\S-1-5-[varies]\Software\Microsoft\Windows\CurrentVersion\Run\
+
+PHIME2002A.exe = "%AppData%\Microsoft\IME\V2005\PHIME2002A.exe"
+
+PHIME2002A.exe = "%AppData%\Microsoft\IME\V2005\PHIME2002A.exe"
+
+HKEY_USERS\S-1-5-[varies]\Software\Microsoft\Windows\CurrentVersion\RunOnce\
+
+msieckc.exe = "%UserProfile%\Desktop\msieckc.exe"
+
+The above registry entries confirm that, the Trojan executes every time when windows starts.
+
+Note : [%AppData% - C:\Documents and Settings\[UserName]\Application Data, %UserProfile% - C:\Documents and Settings\[UserName]]
+
+-------
+
+----- Update: 19/05/2010 ------------------
+
+File Information
+
+MD5 - 3F5B64E2C1E22242AC50EB402B10E0E9
+
+SHA - B7CC437FB6C0111D20DBFE921B850386D66D0ED6
+
+Upon execution, the Trojan connects to the IP Address “96.0.[removed].114 through a remote port 80”.
+
+The Trojan copies itself into the following location:
+
+%Temp%\a4c4b3b1.tmp [Detected as Generic Downloader.ab]
+
+And downloads the following malicious file and it renames the original aec.sys file into aec.sys.bak.
+
+%WINDIR%\system32\drivers\aec.sys
+
+The Trojan connects to the following remote servers to download the malicious files:
+
+http://96.0.[removed].122/foto21.rar
+
+http://173.208.[removed].2/foto21.rar
+
+http://96.0.[removed].114/foto21.rar
+
+And the Trojan also injects its code into services.exe and connects to the following IP addresses through remote port 80.
+
+216.34. [removed].45
+
+66.79. [removed].138
+
+[%Temp% is C:\Documents and Settings\Administrator\Local Settings\Temp\]
+
+
+
+----------------------------------------------------------------------------------------------
+
+Update: 10/01/2008
+
+Upon execution, a new variant of Generic Downloader.ab trojan deletes itself.
+
+It copies itself to the following folder:
+
+%USER_PROFILE%\Local Settings\Temp\AcroRD32.exe
+
+(where %USER_PROFILE% is the default user profile folder, for example C:\Documents and Settings\Administrator if the current user is Administrator.)
+
+It hooks the system startup by adding the following registry key:
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Acroread: "%USER_PROFILE%\Local Settings\Temp\AcroRD32.exe"
+
+It attempts to connect with the following remote server:
+
+www.daciro.com
+
+Update: 07/18/2008
+
+A new variant of Generic Downloader.ab was found to be sent in spam e-mails that entice the users with false claims of "nude" pictures of celebrity, Angelina Jolie. When run, it can download additional malware from the following site(s):
+
+hxxp://195.190.13.98/{blocked}/b.exe
+
+hxxp://195.190.13.98/{blocked}/1.php
+
+Update: 07/15/2008
+
+The risk assessment of this threat has been updated to Low-Profiled due to media attention at:
+
+http://urbanlegends.about.com/b/2008/07/15/ups-virus-warning.htm
+
+Update: 07/15/2008
+
+A new variant of Generic Downloader.ab has been observed which comes as an attachment to a fake email claiming to be from UPS. The following is the message of the email:
+
+"Unfortunately we were not able to deliver postal package you sent on July the 1st in time because the recipient’s address is not correct. Please print out the invoice copy attached and collect the package at our office
+
+Your UPS"
+
+The attached file is an executable which downloads files from the following server:
+
+hxxp://fixaserver.ru/ldr/[Removed]
+
+During the time of testing, this server has been known to serve multiple malicious files with varying behavior.
+
+Update: 05/13/2008
+
+Upon execution, a variant of Generic Downloader.ab trojan downloads multiple malwares from the following server:
+
+195.93.218.28
+
+It saves the downloaded malwares into the following folders:
+
+%Windir%\system32\CcEvtSvc.exe
+
+%Windir%\system32\svchost.ex
+
+%Windir%\winlogon.exe
+
+(Where %Windir% is the Windows folder; C:\Windows)
+
+Another variant of Generic Downloader.ab trojan connects with the following server:
+
+freemoneys.cn
+
+And further downloads malware from ftp server:
+
+213.148.24.20
+
+Update: 05/08/2008
+
+
+
+A new variant of Generic Downloader.ab trojan has a file name as admin.exe.
+
+Upon execution, it deletes itself and drops its copy into the following folder:
+
+%USER_PROFILE%\Local Settings\Temp\~g1.tmp
+
+(Where %USER_PROFILE% is the default user profile folder, such as C:\Documents and Settings\Administrator if the current user is Administrator.)
+
+It adds a registry key:
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\PendingFileRenameOperations: "%USER_PROFILE%\Local Settings\Temp\~g1.tmp"
+
+It attempts to connect to the following url:
+
+hxxp://p2p-sys.cn/[removed]
+
+Update: 04/10/2008
+
+
+
+A new variant of Generic Downloader.ab trojan has a file name as AcroRD32.exe.
+
+Upon execution, it deletes itself and drops its copy into the following folder:
+
+%USER_PROFILE%\Local Settings\Temp\AcroRD32.exe
+
+(Where %USER_PROFILE% is the default user profile folder, such as C:\Documents and Settings\Administrator if the current user is Administrator.)
+
+It hooks system startup by adding the following registry key:
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Acroread: "%USER_PROFILE%\Local Settings\Temp\AcroRD32.exe"
+
+It attempts to connect to the following url:
+
+hxxp://www.ahasurvey.net/[removed].htm
+
+Update: 04/20/2007
+
+
+
+Some Generic Downloaders.ab variants are being used to download Generic PWS.o Password Stealers from the IP 81.29.241.20.
+
+It is injected into Svchost.exe process to download the PWS trojan.
+
+------------------------------------------------------------------------------------------------
+
+The detection for Generic Downloader are for several specific trojan variants, so this description is meant as a general guide. This detection is for trojans which are intended to retrieve and execute files from a remote server. This file will then be automatically executed on the infected machine. The nature of the remote file may vary. As the presence of these trojans and remote files are discovered, sites hosting these files are frequently taken down, so the downloading may cease to function as expected. This may result in empty, 0 byte files or HTML error messages being downloaded instead, or the remote file simply not being downloaded at all.
+
+As new trojans are frequently added to this detection, users are recommended to use the latest engine/DAT combination for optimal detection. Variants are likely to be packed with a PE packer, so enabling the scanning of compressed files will also provide optimal detection.
+
+Exact details (filenames, Registry keys, file size) will vary between variants.
+
+Typically this downloader variant will install itself and/or the remote file into the Windows or System directory, and hook system startup via a Registry key such as:
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\
+
+The following Registry keys are also added:
+
+HKEY_CLASSES_ROOT\CLSID\{AECE402B-3DC8-5CF2-E20A-
+
+AA3872D92E43}
+
+AA3872D92E43} HKEY_CLASSES_ROOT\CLSID\{AECE402B-3DC8-5CF2-E20A-
+
+AA3872D92E43}\Data
+
+AA3872D92E43}\Data HKEY_CLASSES_ROOT\CLSID\{AECE402B-3DC8-5CF2-E20A-
+
+AA3872D92E43}\LocalServer
+
+Additionally a file may be dropped in the %Windows% or \Documents and Settings\administrador\Configurações locais\Temp\ directory.

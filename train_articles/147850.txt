@@ -1,0 +1,6 @@
+Database & Name Check
+This database contains records of people who’ve been killed through interactions with law enforcement since Jan. 1, 2000.
+
+We believe we include complete records for all 50 states and DC back to 2000, but there are two data points that are not designed to be analyzed by outside entities and will result in inaccurate results: disposition and mental state. Our racial data is the best that exists, but it’s pretty spotty and gets worse prior to 2013. We’ll be working on backfill for the next few months. We do weekly updates on Tuesdays, so be aware we’re usually a few days behind. Sometimes incidents that weren’t previously reported in the media (or that we missed) crop up because of lawsuits, new media reports or other reasons. Government data also suggests that vehicle-pursuit deaths are often not reported in news media, so our data certainly understates that total (outside of 2013-14, which include the National Highway Traffic Safety Administration data from USA Today). To add incidents that aren’t in the database, please use the upload form. If you spot an error, please let us know through the corrections form.
+
+After you’ve read the above caveats, the data in a spreadsheet is right here for download. Or you can use our interface below for simple analysis.

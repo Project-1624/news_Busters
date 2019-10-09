@@ -1,0 +1,36 @@
+Defining and modelling energy access
+Defining energy access
+
+There is no single internationally-accepted and internationally-adopted definition of modern energy access.
+
+Yet significant commonality exists across definitions, including:
+
+Household access to a minimum level of electricity
+
+Household access to safer and more sustainable (i.e. minimum harmful effects on health and the environment as possible) cooking and heating fuels and stoves
+
+Access to modern energy that enables productive economic activity, e.g. mechanical power for agriculture, textile and other industries
+
+Access to modern energy for public services, e.g. electricity for health facilities, schools and street lighting
+
+All of these elements are crucial to economic and social development, as are a number of related issues that are sometimes referred to collectively as "quality of supply", such as technical availability, adequacy, reliability, convenience, safety and affordability.
+
+
+
+However due to data constraints, the data and projections presented in the World Energy Outlook focus on two elements of energy access: a household having access to electricity and to a relatively clean, safe means of cooking.
+
+Access to electricity involves more than a first supply to the household; our definition of access also involves consumption of a specified minimum level of electricity, the amount varies based on whether the household is in a rural or an urban area. The initial threshold level of electricity consumption for rural households is assumed to be 250 kilowatt-hours (kWh) per year and for urban households it is 500 kWh per year. The higher consumption assumed in urban areas reflects specific urban consumption patterns. Both are calculated based on an assumption of five people per household. In rural areas, this level of consumption could, for example, provide for the use of a floor fan, a mobile telephone and two compact fluorescent light bulbs for about five hours per day. In urban areas, consumption might also include an efficient refrigerator, a second mobile telephone per household and another appliance, such as a small television or a computer.
+
+Our definition of energy access also includes provision of cooking facilities which can be used without harm to the health of those in the household and which are more environmentally sustainable and energy efficient than the average biomass cookstove currently used in developing countries. This definition refers primarily to biogas systems, liquefied petroleum gas (LPG) stoves and improved biomass cookstoves that have considerably lower emissions and higher efficiencies than traditional three-stone fires for cooking.
+
+Our definition is intended to be supportive of the objective to conduct forward-looking projections, but data availability means that it is not viable to apply it to our estimates of the number of people that do not currently have access to modern energy services. This definition cannot be applied to the measurement of actual data simply because the level of data required does not exist in a large number of cases. As a result, our energy access databases focus on a simpler binary measure of those that do not have access to electricity and those that rely on the traditional use of solid biomass (such as fuelwood, charcoal, tree leaves, crop residues and animal dung) for cooking, which is used as a proxy for not having access to clean cooking facilities. Both of these are disaggregated (either with data or estimation) between those in urban and rural areas within a given country. Due to differences in definitions and methodology from different sources, data quality may vary from country to country.
+
+Projecting energy access
+
+Our databases provide invaluable information regarding the current energy access situation, from which we can base our future projections. WEO projections for access to electricity and to clean cooking facilities are based on separate econometric panel models that regress the electrification rates and rates of reliance on biomass respectively over many variables at a regional level. We run these sub-models under the economy and population assumptions of the New Policies Scenario, the central scenario in WEO-2016. Investment requirements, fuel demand and CO 2 emissions are based on the regional additional power generation mix for electricity access, whereas for clean cooking a set of assumptions about clean cookstoves, LPG stoves and domestic biogas systems is used.
+
+More information
+
+For more on this subject, see our Energy Access Methodology 2016.
+
+Photo © Shutterstock

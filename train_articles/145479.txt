@@ -1,0 +1,52 @@
+Propylene Glycol based Heat-Transfer Fluids
+For many heat-transfer applications it is necessary to use a heat-transfer fluid with lower freezing point than water. The most common antifreeze fluid - ethylene glycol - must not be used where there is a chance of leakage to potable water or food processing systems.
+
+In food processing systems the common heat-transfer fluid is based on propylene glycol.
+
+Freezing Points of Propylene Glycol based Water Solutions
+
+Freezing point of propylene glycol based water solutions at different temperatures:
+
+Freezing Point Propylene Glycol Solution
+
+(%) by mass 0 10 20 30 40 50 60 by volume 0 10 19 29 40 50 60 Temperature oF 32 26 18 7 -8 -29 -55 oC 0 -3 -8 -14 -22 -34 -48
+
+Due to slush creation - a propylene glycol and water solution should not be used close to freezing points.
+
+Specific Gravities of Propylene Glycol Solutions
+
+Specific gravity of propylene glycol solutions:
+
+Specific Gravity - SG - Propylene Glycol Solution
+
+(%) by mass 0 10 20 30 40 50 60 by volume 0 10 20 29 40 50 60 Specific Gravity - SG - 1) 1.000 1.008 1.017 1.026 1.034 1.041 1.046
+
+1) Specific gravity based on propylene glycol solutions with temperature 60oF.
+
+Densities of Propylene Glycol water Solutions
+
+Density - ρ - (kg/m3) Mass Fraction of Ethylene Glycol in Solution Temperature - t - (oC) -45 -33 -22 -13 -7 -3 0 20 40 60 80 100 0 1002 998 992 983 973 962 0.1 1012 1012 1006 998 988 976 965 0.2 1023 1022 1022 1014 1004 992 980 967 0.3 1035 1034 1032 1031 1022 1010 997 983 969 0.4 1049 1047 1044 1043 1041 1030 1016 1002 987 971 0.5 1064 1061 1058 1055 1053 1051 1038 1023 1006 990 974 0.6 1080 1078 1074 1069 1065 1063 1061 1046 1029 1011 994 976
+
+Boiling Points of Propylene Glycol Solutions
+
+Boiling points of propylene glycol solutions:
+
+Boiling Point Propylene Glycol Solution
+
+(%) by mass 0 10 20 30 40 50 60 by volume 0 10 20 29 40 50 60 Temperature (oF) 212 212 213 216 219 222 225
+
+T(oC) = 5/9[T(oF) - 32]
+
+Specific Heats of Propylene Glycol Solutions
+
+Specific heat capacity of propylene glycol solutions:
+
+Specific Heat Propylene Glycol Solution
+
+(%) by mass 0 10 20 30 40 50 60 by volume 0 10 20 29 40 50 60 Specific Heat
+
+- c p -
+
+(Btu/lb oF)
+
+1.000 0.980 0.960 0.935 0.895 0.850 0.805

@@ -1,0 +1,14 @@
+Google Snippet Date Wrong In Search Results For Many
+Over the past few days, a bug has creeped into the Google search results where the date shown in the snippets in the search results is wrong. There are many many threads about this including at Google Webmaster Help, Moz, WebmasterWorld and BlackHat World about the issue.
+
+Google is aware of the issue. Jennifer Slegg shared an example and Gary Illyes from Google responded on Twitter saying he will let the snippets team know.
+
+Here is an example, this blog post is really dated January 11, 2016 but when you look at the snippet date in Google it shows December 30, 2014. Here is a screen shot of the snippet:
+
+Gary Illyes from Google said he will pass along the issue but this was about 24 hours ago and the issue is still there.
+
+@jenstar thanks for the ping! I'll let them people know about it — Gary Illyes (@methode) November 13, 2016
+
+Forum discussion at Google Webmaster Help, Moz, WebmasterWorld, BlackHat World and Twitter.
+
+Update: On November 17th, Google fixed this bug.

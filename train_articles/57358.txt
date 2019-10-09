@@ -1,0 +1,82 @@
+A major study finding that voter ID laws hurt minorities isn’t standing up well under scrutiny
+It was supposed to be the study that proved voter ID laws are not just discriminatory but can also have a big impact on elections. And it was picked up widely, with outlets including ThinkProgress and the Washington Post reporting that the study found voter ID laws hurt Hispanic voters in particular and skewed elections to the right.
+
+But a follow-up study suggests the findings in the original were bunk. According to researchers at Stanford, Yale, and the University of Pennsylvania, the original study was based on surveys of voters that are extremely unreliable — skewing the results. On top of that, several calculation errors led to even more problems. When the errors are corrected, the follow-up researchers found, there’s no evidence in the analyzed data that voter ID laws have a statistically significant impact on voter turnout.
+
+In other words, it’s possible that voter ID laws still have an impact on elections, but the original study just doesn’t have the data to prove it.
+
+The findings aren’t too surprising. Looking at the broader research, the empirical evidence has tended to find that voter ID laws have a small impact on elections. While they still may be racially discriminatory or unnecessary, ultimately voter ID laws may not have a strong enough effect on voter turnout, based on the available research so far, to swing anything but the closest election. And the newest study backs that up.
+
+The new study suggests voter ID laws have little to no impact on minority voter turnout
+
+The previous study, published in January by a trio of researchers at UC San Diego, Michigan State University, and Bucknell University, used 2006–2014 data from the Cooperative Congressional Election Studies (CCES) to study the effect of voter ID laws. They concluded, “The analysis shows that strict identification laws have a differentially negative impact on the turnout of racial and ethnic minorities in primaries and general elections. We also find that voter ID laws skew democracy toward those on the political right.”
+
+Specifically, the researchers found that Hispanic voters are hit hardest by voter ID. They wrote in the Post, “Hispanics are affected the most: Turnout is 7.1 percentage points lower in general elections and 5.3 points lower in primaries in strict ID states than it is in other states. Strict ID laws mean lower African American, Asian American and multiracial American turnout as well. White turnout is largely unaffected.” Given that minority groups are likelier to vote for Democrats, that may skew elections in a conservative direction.
+
+The follow-up study, published this month, took a close look at the data and models the original researchers used to reach these conclusions. It found big problems:
+
+The CCES data that the researchers relied on is notoriously unreliable for a voter ID study in a way that could skew the results. “In the 2006 CCES, the estimated turnout rate was 10 points below actual turnout in 15 states, most of which showed practically zero turnout according to the CCES. Virginia had almost no validated voters in 2008, as well. Given the error in the 2006 study, that year is not suitable for use in the analysis, nor are Virginia’s records from 2008. But [the researchers] include these data in their analysis,” the new study stated. The study’s main model didn’t control for variables that could have influenced the results. If the model had successfully controlled for all other variables besides voter ID, it would have been able to find, for example, that all states without voter ID laws have roughly the same voter turnout. “This is not the case,” according to the follow-up. The follow-up replication “suggest[s] that turnout is about 6 percentage points lower in places that will adopt a strict ID law” — meaning that the model picked up an effect on voter turnout before a state actually passed a voter ID law, suggesting that it’s picking up something else that is correlated with but not caused by voter ID laws. The original study had other errors, including miscalculations and misinterpretations of the data.
+
+Taken together, these errors indicate that the original study was deeply flawed.
+
+Indeed, when the follow-up researchers fixed the errors and reran the model (with a focus on white and Hispanic voters for simplicity), they produced different findings. They concluded, “The effect for whites is positive, but only statistically significant in primaries. The effect for Latinos is sometimes positive, sometimes negative, and generally not significant.”
+
+So after a voter ID law is passed, white turnout remains relatively flat in general elections and goes slightly up in primaries, while Hispanic turnout generally remains about the same. That could still lead to an overall racial skew, particularly in primaries — perhaps because white voters have an easier time obtaining photo ID. But it’s too small of a result to reach any sweeping conclusions.
+
+The follow-up study is careful to note that “[s]trict voter ID laws may reduce turnout, particularly among minorities, but the evidence presented in [the original study] does not constitute reliable information documenting such a relationship.”
+
+Zoltan Hajnal, one of the researchers in the original study, offered no on-the-record response to the criticisms. He said a fuller response is in the works as he analyzes the new study’s data more closely.
+
+The findings present an ongoing academic debate, so it’s hard to say where it will ultimately land. Just like the original study was not the final say on voter ID laws’ effect on turnout, the new follow-up study will not be the final say on this research area either. There may be problems in the follow-up study that will be exposed by another follow-up study, especially given that it was not yet peer-reviewed. But this is how science works: It’s part of a continual process in which errors are called out and fixed over time, and human understanding creeps closer and closer to clarity and, hopefully in the future, perfection.
+
+Still, when you look at the empirical evidence beyond these two studies, it sure looks like voter ID laws, for all their problems, just don’t have a very significant impact on election outcomes.
+
+The new study backs up the bulk of the research
+
+Whatever the ultimate critiques of the follow-up study, its findings generally back up the overall research on voter ID laws. Though voter ID laws do limit people’s ability to vote in some cases, and have historically been used to target voters of color, the laws seem to have a tiny effect on current elections.
+
+That might be surprising, considering all the headlines about voter ID laws in the past few years. A 2012 analysis, for example, found that as many as 758,000 registered voters in Pennsylvania don’t have a photo ID issued by the state’s Transportation Department — meaning that up to 9.2 percent of Pennsylvania voters may have been disenfranchised by a strict photo ID law.
+
+But as Nate Cohn explained in a review of the evidence for the New York Times, figures like Pennsylvania’s are highly misleading, citing a study for the North Carolina Board of Elections:
+
+To begin with, the true number of registered voters without photo identification is usually much lower than the statistics on registered voters without identification suggest. The number of voters without photo identification is calculated by matching voter registration files with state ID databases. But perfect matching is impossible, and the effect is to overestimate the number of voters without identification. … People without ID are less likely to vote than other registered voters. The North Carolina study found that 43 percent of the unmatched voters — registered voters who could not be matched with a driver’s license — participated in 2012, compared with more than 70 percent of matched voters.
+
+Essentially, the number of voters who don’t actually have an eligible ID is very inflated by estimates like Pennsylvania’s. And assuming that these people will vote in the first place is a big mistake; they’re less likely to vote, with or without a voter ID law.
+
+Cohn added:
+
+There’s no question that voter ID has a disparate impact on Democratic-leaning groups — those young, nonwhite, poor, immobile or elderly voters. The unmatched North Carolina voters were registered as Democrats by a 37-point margin, compared with the 12-point Democratic margin statewide. They were 46 percent nonwhite, compared with 29 percent of all registered voters. But 22 percent of these voters were registered Republicans. The voters without an identification might be breaking something more like 70/30 for Democrats than 95/5.
+
+As Cohn writes, a 70-30 skew is still a big loss for Democrats. But when taking into account that many of these people are unlikely to vote in the first place, the total count of lost voters is much smaller than one would think.
+
+Studies looking into voter ID laws’ effect on voter turnout back this up. The research, including multiple studies conducted over several years, has generally found that voter ID laws have little to no impact on voter turnout, even when looking at specific racial groups.
+
+So while voter ID laws probably hit Democratic and minority voters a little harder than their Republican and white counterparts, we’re really talking about a small effect here. These laws could only swing the closest of elections, when basically everything matters.
+
+In fact, none of the other voting restrictions enacted by states seem to have much of an effect on voting either. Researchers have found, for example, mixed effects on whether early voting increases turnout, with one recent study finding that it actually decreased turnout on net if voters couldn’t register to vote and cast their ballot on the same day.
+
+No study has the final word, but the research is all inconclusive enough to suggest that practical barriers to voting have a fairly small effect on whether people actually vote.
+
+What explains this? MIT political science professor Adam Berinsky offered one theory at the Stanford Social Innovation Review: “The more significant costs of participation are the cognitive costs of becoming involved with and informed about the political world. … Political interest and engagement, after all, determine to a large extent who votes and who does not.”
+
+Now, easing barriers to voting might still be worthwhile. Even if the effect is small, the issue here is the most basic, fundamental right any citizen of a democracy or republic has. It’s worth making sure people can practice that right.
+
+But it’s welcome news that failing at making voting easier or even making it harder, as some states have over the past few decades, won’t skew the system much, if at all.
+
+Still, the laws have very clearly racist intents
+
+None of this research should let the people passing voting restrictions off the hook.
+
+Over the past few years, it has become almost a cliché for Republicans to slip up and admit that voter ID laws and other voting restrictions aren’t really about combating voter fraud (an extremely rare phenomenon), but rather about making it harder for Democratic constituencies — mainly, black and brown voters — to vote. The New York Times has a good list of these Republican slip-ups.
+
+Take how one longtime Republican consultant put it to William Wan at the Washington Post:
+
+Longtime Republican consultant Carter Wrenn, a fixture in North Carolina politics, said the GOP’s voter fraud argument is nothing more than an excuse. “Of course it’s political. Why else would you do it?” he said, explaining that Republicans, like any political party, want to protect their majority. While GOP lawmakers might have passed the law to suppress some voters, Wrenn said, that does not mean it was racist. “Look, if African Americans voted overwhelmingly Republican, they would have kept early voting right where it was,” Wrenn said. “It wasn’t about discriminating against African Americans. They just ended up in the middle of it because they vote Democrat.”
+
+This is simply deplorable. It’s a direct admission that voter restrictions are politically motivated attempts to disenfranchise black voters. People’s constitutional rights are being messed with for political gain. (It’s no wonder a federal judge struck down parts of North Carolina’s voter ID law, concluding it “target[ed] African-Americans with almost surgical precision.”)
+
+The admission is made worse by America’s long history of attempting to suppress black voters. For civil rights groups, voter ID and other new restrictions call back to the days of poll taxes, literacy tests, and other rules — not to mention violence — that were used to block minorities from voting until the Voting Rights Act of 1965 effectively banned such laws and tactics. Like modern voting restrictions, the old laws didn’t appear to racially discriminate at face value, but due to selective enforcement and socioeconomic disparities, they disproportionately kept out black voters.
+
+The ultimate impact of the new voting restrictions, particularly voter ID, may be small. But the long history here, coupled with some Republicans’ frank admissions, is enough to dislike these laws no matter how little they change the electorate.
+
+Watch: 6 ways your voting rights could be violated on Election Day

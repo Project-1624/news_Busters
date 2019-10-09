@@ -1,0 +1,48 @@
+How not to calculate temperature
+The blogger Steven Goddard has been on a tear recently, castigating NCDC for making up “97% of warming since 1990” by infilling missing data with “fake data”. The reality is much more mundane, and the dramatic findings are nothing other than an artifact of Goddard’s flawed methodology. Lets look at what’s actually going on in more detail.
+
+Whats up with Infilling?
+
+The U.S. Historical Climatological Network (USHCN) was put together in the late 1980s, with 1218 stations chosen from a larger population of 7000-odd cooperative network stations based on their long continuous records and geographical distribution. The group’s composition has been left largely unchanged, though since the late 1980s a number of stations have closed or stopped reporting. Much of this is due to the nature of the instruments; many USHCN stations are manned by volunteers (and are not automated instruments), and these volunteers may quit or pass away over the decades. Since the 1980s the number of reporting USHCN stations has slowly declined from 1218 in the 1980s to closer to 900 today, as shown in the figure below. As an aside, this is quite similar to what happened with GHCN, which birthed the frustratingly-persistent “march of the thermometers” meme. Unsurprisingly, the flaw in Goddard’s analysis mirrors that of E.M. Smith’s similar claims regarding GHCN.
+
+As part of its adjustment process, USHCN infills missing stations based on a spatially-weighted average of surrounding station anomalies (plus the long-term climatology of that location) to generate absolute temperatures. This is done as a final step after TOBs adjustments and pairwise homogenization, and results in 1218 records every month. The process is really somewhat unnecessary, as it simply mirrors the effect of spatial interpolation (e.g. gridding or something more complex), but I’m told that its a bit of an artifact to help folks more easily calculate absolute temperatures without having to do something fancy like add in a long-term climatology field to a spatially-interpolated anomaly field. Regardless, it has relatively little effect on the results [note that 2014 shows only the first four months]:
+
+You can’t really tell the difference between the two visually. I’ve plotted the difference below, with a greatly truncated scale:
+
+Where did Goddard go wrong?
+
+Goddard made two major errors in his analysis, which produced results showing a large bias due to infilling that doesn’t really exist. First, he is simply averaging absolute temperatures rather than using anomalies. Absolute temperatures work fine if and only if the composition of the station network remains unchanged over time. If the composition does change, you will often find that stations dropping out will result in climatological biases in the network due to differences in elevation and average temperatures that don’t necessarily reflect any real information on month-to-month or year-to-year variability. Lucia covered this well a few years back with a toy model, so I’d suggest people who are still confused about the subject to consult her spherical cow.
+
+His second error is to not use any form of spatial weighting (e.g. gridding) when combining station records. While the USHCN network is fairly well distributed across the U.S., its not perfectly so, and some areas of the country have considerably more stations than others. Not gridding also can exacerbate the effect of station drop-out when the stations that drop out are not randomly distributed.
+
+The way that NCDC, GISS, Hadley, myself, Nick Stokes, Chad, Tamino, Jeff Id/Roman M, and even Anthony Watts (in Fall et al) all calculate temperatures is by taking station data, translating it into anomalies by subtracting the long-term average for each month from each station (e.g. the 1961-1990 mean), assigning each station to a grid cell, averaging the anomalies of all stations in each gridcell for each month, and averaging all gridcells each month weighted by their respective land area. The details differ a bit between each group/person, but they produce largely the same results.
+
+Lets take a quick look at USHCN raw data to see how big a difference gridding and anomalies make. I went ahead and wrote up some quick code that easily allows me to toggle which dataset is used (raw or adjusted), whether anomalies or absolutes are used, whether the data is gridded or not, and whether infilled data is used or not (in the case of adjusted; raw USHCN data has no infilling). Its available here, for anyone who is interested (though note that its in STATA).
+
+Here is what we get if we take USHCN raw data and compare the standard approach (gridded anomalies) to Goddard’s approach (averaged absolutes) [note that 2014 is omitted from all absolute vs anomaly comparisons for obvious reasons]:
+
+This compares absolutes to anomalies by re-baselining both to 1961-1990 after the annual CONUS series have been calculated. The differences stand out much more starkly in the difference series below:
+
+This difference is largely due to the changing composition of stations in the network over time. Interestingly, simply spatially gridding absolute temperatures eliminates much of the difference, presumably because the other stations within the grid cell have similar climatologies and thus avoid skewing national reconstructions.
+
+The difference series is correspondingly much smaller:
+
+Here the differences are pretty minimal. If Goddard is adverse to anomalies, a simple spatial gridding would eliminate most of the problem (I’m using USHCN’s standard of 2.5×3.5 lat/lon grid cells, though the 5×5 that Hadley uses would work as well).
+
+So what is the impact of infilling?
+
+Lets do a quick exercise to look at the impact of infilling using four different approaches: the standard gridded anomaly approach, an averaged (non-gridded) anomaly approach, a gridded absolute approach, and Goddard’s averaged absolute approach:
+
+Goddard’s approach is the only one that shows a large warming bias in recent years, though all absolute approaches unsurprisingly show a larger effect of infilling due to the changing station composition of the non-infilled data. We also have a very good reason to think that there has not been a large warming bias in USHCN in the last decade or so. The new ideally-sited U.S. Climate Reference Network (USCRN) agrees with USHCN almost perfectly since it achieved nationwide spatial coverage in 2005 (if anything, USCRN is running slightly warmer in recent months):
+
+Update
+
+Another line of evidence suggesting that the changing composition is not biasing the record comes from Berkeley Earth. Their U.S. temperature record has more stations in the current year than in any prior year (e.g. close to 10,000) and agrees quite well with NCDC’s USHCN record.
+
+Update #2
+
+The commenter geezer117 suggested a simple test of the effects of infilling: compare each infilled station’s value to its non-infilled neighbors. My code can be easily tweaked to allow this by comparing a reconstruction based on only infilled stations to a reconstruction based on no infilled stations, only using grid cells that have both infilled and non-infilled stations (to ensure we are comparing areas of similar spatial coverage.
+
+The results are unsurprising: the two sets are very similar (infilled stations are actually warming slightly less quickly than non-infilled stations since 1990, though they are not significantly different within the uncertainties due to methodological choices). This is because infilling is done by using a spatial weighted average of nearby station anomalies (plus the average climatology of the missing station to get absolute temperatures).
+
+Written by Zeke

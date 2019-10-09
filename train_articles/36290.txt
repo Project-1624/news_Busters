@@ -1,0 +1,34 @@
+Electricity Generation
+A geothermal resource requires fluid, heat and permeability in order to generate electricity:
+
+Fluid—Sufficient fluid must exist naturally or be pumped into the reservoir.
+
+Heat—The earth's temperature naturally increases with depth and varies based on geographic location.
+
+Permeability—In order to access heat, the fluid must come into contact with the heated rock, either via natural fractures or through stimulating the rock.
+
+Conventional hydrothermal resources contain all three elements naturally. Increasingly, however, geothermal systems where subsurface fluid and permeability are lacking are being engineered or enhanced to access the earth's heat by adding fluid to these hot subsurface resources. Known as enhanced geothermal systems (EGS), this technology could be a game-changer in the geothermal sector, tapping 100+ gigawatts of geothermal energy, roughly ten percent of domestic energy demand.
+
+In addition, low-temperature and coproduced technologies are being explored for near-term power solutions. .
+
+Power Plants
+
+Power plants use steam produced from geothermal reservoirs to generate electricity. There are three geothermal power plant technologies being used to convert hydrothermal fluids to electricity—dry steam, flash steam and binary cycle. The type of conversion used (selected in development) depends on the state of the fluid (steam or water) and its temperature.
+
+Dry Steam Power Plant
+
+Dry steam plants use hydrothermal fluids that are primarily steam. The steam travels directly to a turbine, which drives a generator that produces electricity. The steam eliminates the need to burn fossil fuels to run the turbine (also eliminating the need to transport and store fuels). These plants emit only excess steam and very minor amounts of gases.
+
+Dry steam power plants systems were the first type of geothermal power generation plants built (they were first used at Lardarello in Italy in 1904). Steam technology is still effective today at currently in use at The Geysers in northern California, the world's largest single source of geothermal power.
+
+Flash Steam Power Plant
+
+Flash steam plants are the most common type of geothermal power generation plants in operation today. Fluid at temperatures greater than 360°F (182°C) is pumped under high pressure into a tank at the surface held at a much lower pressure, causing some of the fluid to rapidly vaporize, or "flash." The vapor then drives a turbine, which drives a generator. If any liquid remains in the tank, it can be flashed again in a second tank to extract even more energy.
+
+Binary Cycle Power Plant
+
+Binary cycle geothermal power generation plants differ from Dry Steam and Flash Steam systems in that the water or steam from the geothermal reservoir never comes in contact with the turbine/generator units. Low to moderately heated (below 400°F) geothermal fluid and a secondary (hence, "binary") fluid with a much lower boiling point that water pass through a heat exchanger. Heat from the geothermal fluid causes the secondary fluid to flash to vapor, which then drives the turbines and subsequently, the generators.
+
+Binary cycle power plants are closed-loop systems, and virtually nothing (except water vapor) is emitted to the atmosphere. Because resources below 300°F represent the most common geothermal resource, a significant proportion of geothermal electricity in the future could come from binary-cycle plants.
+
+Resources

@@ -1,0 +1,16 @@
+New York Civil Liberties Union (NYCLU) - American Civil Liberties Union of New York State
+About the Data
+
+Every time a police officer stops a person in NYC, the officer is supposed to fill out a form to record the details of the stop. Officers fill out the forms by hand, and then the forms are entered manually into a database. There are 2 ways the NYPD reports this stop-and-frisk data: a paper report released quarterly and an electronic database released annually.
+
+The paper reports – which the NYCLU releases every three months – include data on stops, arrests, and summonses. The data are broken down by precinct of the stop and race and gender of the person stopped. The paper reports provide a basic snapshot on stop-and-frisk activity by precinct and are available here.
+
+The electronic database includes nearly all of the data recorded by the police officer after a stop. The data include the age of person stopped, if a person was frisked, if there was a weapon or firearm recovered, if physical force was used, and the exact location of the stop within the precinct. Having the electronic database allows researchers to look in greater detail at what happens during a stop. Below are CSV files containing data from the 2012 electronic database.
+
+
+
+
+
+Downloadable Files
+
+Click here to download a compressed (.zip) CSV file of the 2014 database. This file is easily imported into most statistical packages, including the freeware R. It contains 101 variables and 45,787 observations, each of which represents a stop conducted by an NYPD officer. This download also includes a PDF file that may clarify the dataset. The PDF includes a list and description of variables, a blank stop-and-frisk reporting form (UF-250) and other notes provided by the NYPD.

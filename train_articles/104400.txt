@@ -1,0 +1,82 @@
+Gun Violence Archive
+The Gun Violence Archive [GVA] was established in Fall of 2012 as an independent research and data collection organization to provide comprehensive data for the national conversation regarding gun violence. GVA worked with several groups which collected statistics of the 2013 toll of deaths by gun violence. When GVA consolidated these projects in late 2013, the mission was expanded to also document the tens of thousands of gun related injuries and other gun crime. The overall goal of GVA is to provide the best, most detailed, accessible data on the subject to add clarity to the ongoing discussion on gun violence, gun rights, and gun regulations. Our mission is not confined to the debate on gun rights vs gun regulations, it is equally focused on understanding crime at a street level, providing crime statistics broken down to the Congressional District, State legislator district level.
+
+GVA began with the goal to provide a database of incidents of gun violence and gun crime. To that end we utilize automated queries, manual research through over 2,500 sources from local and state police, media, data aggregates, government and other sources daily. Each incident is verified by both initial researchers and secondary validation processes. Links to each incident are included in the incident report to provide further information on each incident for researchers, advocate groups, media and legislative interests. The incident reports provide a starting point for researchers, media and legislative interests to add texture to our raw data.
+
+Rather than just collecting incidents of death, GVA also catalogs incidents where a victim was injured by shooting or by a victim who was the subject of an armed robber or home invader. Incidents of defensive gun use, home owners who stop a home invasion, store clerks who stop a robbery, individuals who stop an assault or rape with a gun are also collected. The overall goal is to provide information on most types of gun violence, and gun crime, no matter where it is on the political table. The two exceptions to the near real-time collection are suicides by gun which are collected quarterly and annually due to differing distribution methods by government agencies and for armed robberies with no injuries or DGU characteristics which are collected in aggregate with law enforcement quarterly and annual reports. They are a lagging index, rather than near real time.
+
+Incidents of Bureau of Alcohol, Tobacco, Firearms, and Explosives (BAFTE) and local Law Enforcement involvement in recovering illegal or stolen weapons as well as incidents where guns were reported stolen from homes, vehicles, and businesses are recorded as well. We also collect TSA data of guns illegally taken through airport security points.
+
+Each incident is annotated to its associated cause -- murder/suicides, hate crimes, domestic violence, gang involvement, drug involvement, police action, robbery, defensive use, accidents, brandishing and nearly 120 other possible variables. This enables GVA to both provide aggregate numbers in near real time to improve the debate on gun violence by showing real numbers and to provide raw data for research to dig deeper into the subject. There is not just one type of gun violence or gun crime, there is not just one cause of gun violence or gun crime. GVA data will provide researchers, journalists, legislators, and other interested parties with information to better understand this subject.
+
+GVA will continue to research the best methods of providing unbiased, unfiltered data on gun violence in America. To that end, we will, by necessity alter methodology if need arises and announce those changes here. Our goal, however will not change, providing the most comprehensive, verifiable data on the subject of gun violence without bias. The raw numbers, and their underlying information are tools for researchers to interpret.
+
+The real time Summary Ledger counter is a summary. It reflects the most requested data that is accumulated from the database. It does not, by necessity include all of the nearly 120 potential variables of each incident. The raw source material is linked through each incident report that is reflected in the Summary Ledger's accumulated numbers.
+
+This general description of methodology is intended to provide an overview of how we do work and how we support what we present. A more specific, detailed methodology is in place using research best practices to govern our work.
+
+Some Frequent Methodology Questions
+
+What GVA considers Gun Violence...and why
+
+Our definition of gun violence is intended to be fully inclusionary of disparate elements of gun related incidents...in that, all types of shootings are included, whether OIS, accidental, children shooting themselves, murders, armed robberies, familicide, mass shootings, DGU, Home Invasions, drivebys and everything else. We derive our definitions from CDC, FBI, NIH, and other organizations who have established standards.
+
+Only by being totally inclusionary in our definitions is our data accurate, allowing the researcher to decide which parts of the complete dataset they need for their work. Our goal is to provide a complete picture of impact. Users then glean what they need from the whole. We intentionally have no GVA POV on the subject... but put in more real terms, GVA is against gun violence, not guns or gun owners and in that we strive to provide an unbiased, complete view of the subject.
+
+Why are GVA Mass Shooting numbers higher than some other sources?
+
+GVA uses a purely statistical threshold to define mass shooting based ONLY on the numeric value of 4 or more shot or killed, not including the shooter. GVA does not parse the definition to remove any subcategory of shooting. To that end we don’t exclude, set apart, caveat, or differentiate victims based upon the circumstances in which they were shot.
+
+GVA believes that equal importance is given to the counting of those injured as well as killed in a mass shooting incident.
+
+The FBI does not define Mass Shooting in any form. They do define Mass Killing but that includes all forms of weapon, not just guns.
+
+In that, the criteria are simple…if four or more people are shot or killed in a single incident, not involving the shooter, that incident is categorized as a mass shooting based purely on that numerical threshold.
+
+How does GVA define School Shootings?
+
+Gun Violence Archive defines a school shooting as an incident that occurs on property of the elementary, secondary or college campus where there is a death or injury from gunfire. That includes school proper, playgrounds, “skirt” of the facility which includes sidewalks, stadiums, parking lots. The defining characteristic is time…Incidents occur when students, staff, faculty are present at the facility for school or extracurricular activities. NOT INCLUDED are incidents at businesses across the street, meetings at parking lots at off hours.
+
+In those incidents where someone is injured/killed we include any gunfire, whether intended to shoot/kill students or not. Those can be sorted by extra characteristics such as suicide or accidental.
+
+Does GVA use Crowdsourcing?
+
+No, we have learned through experience that both Crowdsourcing and "internet bots" provide limited results and cause unreliable statistics. GVA has a dedicated, professional staff which sweeps law enforcement and media resources daily and logs incidents with up to 120 potential incident variables.
+
+What about Unreported Defensive Gun Uses
+
+There are sometimes questions about Defensive Gun Uses which are not reported to police. GVA can ONLY list incidents which can be verified. Our policies do not take into account stories not reported, "I can't believe this happened to me" scenarios or extrapolations from surveys. Our position is that if an incident is significant enough that a responsible gun owner fears for their life and determines a need to threaten lethal force it is significant enough to report to police so law enforcement can stop that perpetrator from harming someone else.
+
+Suicides
+
+Because of the way Law Enforcement and Coroners report suicides, they cannot be collected in near real time so they DO NOT appear on our Daily Summary Ledger with two clear exceptions. Those suicides associated with Murder-Suicide type incidents and those associated with Officer Involved Incidents are included in the real-time summaries and fully notated. GVA attaches individual suicides to end of year reports in AGGREGATE when they become available.
+
+AirSoft/BB Guns
+
+We collect incidents where Airsoft or BB guns are used AS weapons, not where they are used in general vandalism or delinquency. Those collected ARE NOT included in our Incident Totals on the Daily Summary Ledger
+
+Categories On The Summary Ledger
+
+GVA collects over 120 different shooting variables. Not all can be included on the Daily Summary Ledger so we chose those which were most requested.
+
+Total Shot or Killed doesn't add up to Total Incident count
+
+GVA collects over 120 variables on gun violence incidents. Some incidents have more than one person shot or killed [a few over 100] and other incidents do not have injuries - such as negligent discharges, car jackings, domestic violence events, and other incidents where a gun was used improperly but did not injure...they are all documented in their incident reports.
+
+Why GVA numbers differ from FBI and CDC.
+
+GVA numbers are found through 25,00 LEO, government and media sources daily...our numbers are based on provable reported individual incidents. While CDC utilizes death certificates for gun deaths, they, and the FBI rely on a sampling of sources and extrapolate those numbers to provide aggregate totals that reflect the calculations within their methodologies.
+
+Collection of Personal Characteristics
+
+GVA does not collect or distribute victim or subject-suspect characteristics such as race, religion, mental health status, nationality, or political affiliations.
+
+Some Basic Definitions
+
+Term Definition Gun Violence Gun Violence describes the results of all incidents of death or injury or threat with firearms without pejorative judgment within the definition. Violence is defined without intent or consequence as a consideration. To that end a shooting of a victim by a subject/suspect is considered gun violence as is a defensive use or an officer involved shooting. The act itself, no matter the reason is violent in nature. Summary Ledger An ongoing counter of incident reports in selected categories beginning January 1, 2015. Sourcing is found linked to each incident in the database. No number exists without a verifiable source. Murder/Suicide An incident where one person kills one or more individuals and then himself at the same/near location. School Shooting An incident with death or injury that occurs on school property when students, faculty and/or staff are on the premises. Intent during those times are not restricted to specific types of shootings. Incidents that take place on or near school property when no students or faculty/staff are present are not considered "school shootings". Mass Murder FOUR or more killed in a single event [incident], at the same general time and location not including the shooter. Mass Shooting FOUR or more shot and/or killed in a single event [incident], at the same general time and location not including the shooter. Spree/Serial Murder The unlawful killing of two or more victims by the same offender(s), in separate events. Defensive Use The reported use of force with a firearm to protect and/or defend one's self or family. Only verified incidents are reported. Home Invasion The forcible entry with firearms with the intent to terrorize, steal or harm the occupants of the home. Only verified incidents are reported.
+
+NOTE: Defensive Gun Use is logged for any incident which can be verified by law enforcement or media sources. Included incidents may or may not have had a firearm fired.
+
+Sources : Each incident in the database is independently linked to source material which was used to build the incident report. To view any source material, simply go to an incident and you will see source links at the bottom of the report.
+
+You can also get to each incident source material from the associated table [such as Killed or Mass Shooting]. Follow the VIEW INCIDENT link.

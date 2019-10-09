@@ -1,0 +1,68 @@
+The Estimated Undocumented Population is 11 Million: How Do We Know?
+Introduction
+
+Until the mid-1980s, estimates of the undocumented immigrant population were purely speculative and widely divergent.[1] Since then, new demographic techniques have reduced the range of uncertainty about the size of the population and its rate of growth. As a result, unsupported speculation about these numbers has been rare in recent years. A glaring exception is Donald Trump’s assertion on MSNBC’s Morning Joe on July 24: “I am now hearing it’s 30 million, it could be 34 million, which is a much bigger problem.” This report debunks that hearsay.
+
+Understandably, neither the general public nor most reporters have the expertise to judge the accuracy of statements about the size of this population. A classic example of exaggeration is the assertion that, at the southern border, “three get away for every one caught.” The famous got-away ratio was gospel for the Border Patrol for decades. That canard could have been dispelled easily using basic demographic data: If, in fact, three people from Mexico had moved here for every one apprehended at the border, the very last person from Mexico would have arrived in the late 1990s.
+
+The current estimate of 11 million rests on what might be a surprising fact: a high percentage of undocumented residents are counted in censuses and surveys. We have no direct information about why undocumented residents respond as well as they do to censuses and surveys. However, there are a number of possible explanations: (1) they might believe that refusing to participate would draw unwanted attention; (2) they live in households with relatives or friends who have lived here and have been responding regularly to surveys for many years; (3) they might have learned that non-DHS components of the government are not likely to be threatening; and (4) they might have learned that a very high percentage of individuals who applied for legalization under the Immigration Reform and Control Act of 1986 (IRCA) had favorable outcomes.
+
+Until the 1980s, the conventional wisdom held that persons without immigration status would avoid being counted. That presumption changed when demographers at the Census Bureau[2] analyzed data for the foreign-born population counted in the 1980 census. A total of 14.1 million were counted, but administrative data indicated that only 12.0 million lived here legally. Thus, 2.1 million undocumented residents were counted. As discussed below, estimating the number of those who are not counted is an important element in determining the size of the total population.
+
+The purpose of this report is to describe briefly the origin of the widely reported estimate of 11 million[3] and to show why claims of much higher numbers are not credible. In other words, we address two questions: (1) how was the 11 million number derived; and (2) could the actual number possibly be 15, 20, or even 30 million? In the following section, we provide a simple framework for computing the estimate of 11 million and examine the potential range of error around each component of the estimate.
+
+The estimate of 11 million total unauthorized residents was computed using the “residual” method, as follows:
+
+41.3 million foreign-born persons were counted in the Census Bureau’s American Community Survey (ACS) [4] in 2013. 31.1 million of the 41.3 million resided here legally in 2013. That number was derived primarily from DHS administrative data (immigrants and refugees admitted each year), minus estimates of those who left the United States or died. 10.2 million undocumented residents were counted in the 2013 ACS (3=1-2). 0.8 million undocumented residents were estimated to have been missed by the 2013 ACS. 11.0 million total undocumented population in 2013 (5=3+4).
+
+As is evident, any error in the estimate of 11 million above would be contained in items 1, 2, or 4 above. Plausible ranges of error for items 1 and 2 are as follows.
+
+Item 1 – ACS count of total foreign-born. The figure of 41.3 million is based on a very large national sample (3 million); the range of possible error due to sampling variability is approximately plus or minus 100,000.[5] Item 2 – Legal foreign-born residents in 2013. The maximum error in this number is almost certainly in the range of plus or minus one million, but the overall error is likely to be less than that because of offsetting errors in the data and assumptions. Hundreds of thousands of legal residents are not included in the 31.1 million number. These include immigrants who have been approved for legal permanent residence but have not yet appeared in DHS statistics and asylum seekers whose valid claims have not yet been processed. In addition, the assumptions about emigration and mortality could introduce errors as large as a few hundred thousand into the estimate.
+
+Taking account of the uncertainty in items 1 and 2 above, the estimated number counted in the ACS (item 3), could be higher or lower by, at most, one million; therefore, the total population (item 5) is very likely to be between 10 and 12 million. Having established that range, it becomes evident that claims of 20 to 30 million undocumented residents can rest only on the presumption of inordinately large levels of undercount in the ACS (Item 4). That issue is addressed next.
+
+Those who assert that the population substantially exceeds 11 million probably do not realize that they are implicitly saying that many millions of foreign-born persons were missed by the ACS (item 4 above). In this section, we show the undercount rates used to produce the estimate of 11 million undocumented residents in 2013. Next, we compare those rates to estimates of undercount that the Census Bureau derived for the most-difficult-to-count populations. Finally, we describe a real-life test of the methodology and assumptions described here – it provides convincing evidence to support the estimate of 11 million.
+
+Undercount rates used to derive the estimate of 11 million . The adjustments for omission of undocumented residents in the ACS data are based on undercount rates that were derived by the Census Bureau, as described below. Undocumented residents were assumed to have been missed at about the highest rates that the Census Bureau has estimated for any group. All of the demographers[6] who derive estimates of the undocumented population use undercount rates fairly similar to those shown in Table 1.
+
+The undercount rates were assumed to be highest for recent arrivals; they declined with increasing time in the United States. The adjustment for undercount was highest for those who arrived in the five years before the survey (12 percent), and the rate dropped gradually to two percent for those who have resided here for 25 years or more (Table 1).
+
+Census Bureau estimates of undercount . For decades, the Census Bureau has evaluated the accuracy of the decennial censuses and has published detailed estimates of undercount. The two examples below are for two groups – Black males aged 25 to 54 (Table 2) and foreign-born Hispanic males aged 18 to 29 (Table 3) – that have especially high undercount rates. These examples are shown to provide support for the rates of undercount used to estimate the number of undocumented residents who were omitted from the 2013 ACS.
+
+Table 2 shows the Census Bureau’s estimates of undercount of Black males in selected age groups in the 1990 Census. The rates shown in Table 2 are at about the same level as the ones used to estimate undercount of recently arriving unauthorized residents (Table 1).
+
+The second example of the Census Bureau’s undercount evaluation program is much more recent, and it is the first systematic effort to addresses the issue of undercount of the foreign-born population in the ACS.[8] Table 3 shows estimates of undercount of the foreign-born Hispanic population in selected age groups. The rate of 12 percent for foreign-born Hispanic males in the 18 to 29 age group is the one most closely related to recently arriving undocumented immigrants.
+
+The rates shown in Table 3 provide strong support for the undercount rates used to derive the estimate of 11 million undocumented residents. In computing that estimate, those who arrived in the most recent 5-year period were adjusted for undercount by about 12 percent, which is the same as the rate for foreign-born Hispanic males in the 18 to 29 age group, as shown in Tables 3.
+
+A real-life test of the methodology and assumptions . In the introduction, we noted that the estimate of 2.1 million counted in the 1980 Census was the first empirical estimate of the undocumented population. That finding might have been just an interesting historical footnote if the Immigration Reform and Control Act of 1986 (IRCA) had not been enacted. After all, people who “knew” that there were 8 million could have continued to claim, without fear of contradiction, that 6 million had been omitted from the 1980 census.
+
+When IRCA was enacted in 1986, the former INS had to determine the number living in each state in order to set up legalization offices. The Statistics Division adopted the methods developed by the Census Bureau, along with a range of assumptions about undercount, to project the number likely to apply at the national and state level. Applications were projected to be between 1.3 million and 2.6 million. In fact, ultimately 1.6 million applied for the general amnesty program, and applications were within the projected ranges in nearly all of the states.
+
+The rates of undercount used to estimate undercount in Item 4 above were less than half of the undercount rates used in 1986. The reduction for 2013 is appropriate because (a) Census undercount has been declining steadily for decades, [9] and (b) the Census Bureau’s recent research on undercount of foreign-born Hispanics in the ACS, reported above in Table 3, yields a much more timely measure of undercount. [10] In summary, the success of the residual methodology in predicting IRCA applications offers strong evidence that the undocumented population is not very much, if any, larger than 11 million.
+
+Conclusions
+
+The information presented here strongly supports the following two conclusions:
+
+Although the estimate of 11 million unauthorized residents has a range of uncertainty (possibly plus or minus one million), the estimate is firmly supported by the available evidence; and It is unlikely that the current population is larger than 11 or 12 million; nearly inconceivable that it is 15 to 20 million; and ludicrous to claim that it could be as high as 30 million.
+
+[1] For example, in the Carter Administration the estimated range was 2 to 12 million. Empirical estimates derived since then show that the total undocumented population has never been outside that range.
+
+[2] See: Warren, Robert and Jeffrey S. Passel. 1987. “A Count of the Uncountable: Estimates of Undocumented Aliens Counted in the 1980 United States Census.” Demography (24) (3 August).
+
+[3] In the past few years, the media has reported 11 million as the total undocumented population. Before then, the number heard most often was 12 million. These numbers accurately reflect the most credible estimates of recent trends: the population peaked at about 12 million in 2007 and then declined gradually to about 11 million in 2013.
+
+[4] The ACS is an annual statistical survey conducted by the Census Bureau. It covers approximately one percent of the total U.S. population. The survey gathers information previously obtained in the decennial census long form. The public-use data from the survey provides detailed social and economic data for all states, as well as all cities, counties, metropolitan areas, and population groups of 100,000 people or more.
+
+[5] Note that we do not mention possible undercount at this point in the discussion because undercount is taken into account later in the estimation procedure, in item 4.
+
+[6] The most widely accepted estimates have been derived by the Center for Migration Studies, the Pew Research Center, the Department of Homeland Security, and the Migration Policy Institute.
+
+[7] Robert Warren, Democratizing Data about Unauthorized Residents in the United States: Estimates and Public-use Data, 2010 to 2013.” Journal on Migration and Human Security 2(4): 305-28. https://doi.org/10.1177/233150241400200403.
+
+[8] Eric Jensen, Renuka Bhaskar, and Melissa Scopilliti, Demographic Analysis 2010: Estimates of Coverage of the Foreign-born Population in the American Community Survey. U.S. Bureau of the Census Working Paper No. 103, June 2015. http://www.census.gov/content/dam/Census/library/working-papers/2015/demo/POP-twps0103.pdf.
+
+[9] Net undercount dropped steadily each decade, from 5.4 in 1940 to 1.8 in 1990; in 2000 and 2010, undercount was estimated to be near zero. See: Eugene Erickson, Who Gets Missed in the Census? Evaluating the Census Net and Differential Undercounts, December 2000. http://govinfo.library.unt.edu/cmb/cmbp/issuebriefs/122800.diffundercount.asp.htm.
+
+[10] Note that arbitrarily doubling the amount of undercount in Item 4 above would add less than a million to the estimated total of 11 million.

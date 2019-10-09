@@ -1,0 +1,54 @@
+Are Windmills “Idiot Power”?
+This meme is older, originating back in 2015. However, it continues to be popularly shared to this day, like this recent Earth Day post with over 61,000 shares. This meme claims that modern wind turbines take more energy to build than they will ever produce. It uses technical language to sound convincing, but is it true that wind is “idiot power”?
+
+Incomplete Quote
+
+This quote (minus “idiot power”) doesn’t come from some random meme creator, but from the 2009 book Carbon Shift: How Peak Oil and the Climate Crisis Will Change Canada (and Our Lives). This book was a compilation of 6 essays from experts in the field about the upcoming energy challenges facing the world. The relevant section comes from Canadian scientist David Hughes in his essay The Energy Issue: a More Urgent Problem than Climate Change. Ironically, it wasn’t even an anti-wind power essay, it was more focused on the problems of running out of cheap fossil fuel sources. Here’s the full quote:
+
+The concept of net energy must be applied to renewable sources of energy, such as windmills and photovoltaics. A two-megawatt windmill contains 260 tonnes of steel requiring 170 tonnes of coking coal and 300 tonnes of iron ore, all mined, transported and produced by hydrocarbons. The question is: how long must a windmill generate energy before it creates more energy than it took to build it? At a good wind site, the energy payback day could be in three years or less; in a poor location, energy payback may be never. That is, a windmill could spin until it falls apart and never generate as much energy as was invested in building it.
+
+Notice, the bold, italicized section was omitted in the meme (and the inflammatory “hydrocarbon-spewing processes and machines” added). Hughes wasn’t saying windmills take more energy to build than they produce, just that it depends on the location. Windmills in good locations might break even relatively quickly, while bad locations might never do so.
+
+Do Wind Turbines Generate More Energy Than They Take?
+
+Energy return on investment (EROI) is the ratio of energy delivered to energy costs. It’s a way of determining how efficient an energy source is, given all it takes to produce and maintain. An EROI ratio of less than 1 would mean that it takes more energy to create than the generator produces. For example, a human powering a bicycle generator would produce less energy than it took to sustain them. Thus, it would be a bad idea to power the world with humans on stationary bikes. A battery would also have an EROI of less than 1. It’s generally considered that a source must have at least an EROI ratio of 3 to be considered a viable energy source. Some sources say a ratio of 7 is necessary.
+
+In 2010, a meta-analysis was done, examining 119 wind turbines from 1977 to 2007. It found an EROI of 19.8 for operational turbines. This means the average windmill produces about 20 times the energy compared to the resources it takes to build and upkeep it. The study claimed this puts it in a favorable position among other energy sources.
+
+Statistics of EROI vary widely depending on the source, but a comprehensive study examining world data shows the following averages for different energy sources:
+
+Oil and Gas (world average): 20 EROI
+
+Coal: 46
+
+Hydroelectric: 84 (varies widely depending on location)
+
+(varies widely depending on location) Nuclear: 14 (these studies are outdated, and nuclear likely has a much higher EROI with today’s technology)
+
+(these studies are outdated, and nuclear likely has a much higher EROI with today’s technology) Ethanol: 5
+
+Wind: 20
+
+Solar: 10
+
+The EROIs of wind, solar, electric and nuclear tend to increase over time as technology improves. Meanwhile, fossil fuel EROIs tend to decrease, as their sources become more difficult to find and greater effort is needed to extract them. However, EROI is just part of the story. For example, while hydroelectric has the highest return, most of the good spots in the world are already taken, and there are few opportunities for scaling this source. Additionally, it’s important to understand that higher EROI’s do not necessarily translate to lower energy prices or a more efficient electric grid, as we’ll see.
+
+The Real Downside to Wind Power
+
+Clearly, this meme is wrong in its criticism of windmills. Assuming they are built in a suitable area, they produce far more energy over their life than they take to build, and are currently on par with oil and gas in their EROI ratio. But, what’s left out of this aspect is the unreliable nature of energy sources like wind and solar. Since the wind doesn’t always blow and the sun doesn’t always shine, these sources can’t be relied upon to deliver power in a modern electric grid.
+
+A Look at Germany’s electric grid illustrates this clearly. With hundreds of billions spent on their ambitious Energiewende program, Germany has built so many wind and solar facilities that we see headlines like this claiming they are 100% powered by renewables. Yet, looking at the chart shown below from the Energiewende website Agora, we can see the wild fluctuations these sources have. While they might have 100% renewable capacity, this doesn’t translate at all into 100% use.
+
+For example, in Hanover, there was only 10 hours of sunlight in all of last December! When the wind didn’t blow during that period, there are several periods where almost no electricity was produced by wind or solar. Yet, their modern society couldn’t do without electricity on demand in cold, dark December. This means that other, more reliable sources, must be able to power the entire grid at all times. With Germany transitioning away from nuclear, this means that fossil fuels are the primary source for reliable electricity. Amazingly, Germany’s CO2 emissions are actually increasing, despite building record numbers of renewable sources.
+
+In essence, Germany has two sources powering their country; reliable fossil fuels and unreliable renewables. This creates an inefficient and costly mix, which is why Germany pays among the highest electricity costs in the world, about triple of what the US pays. If EROI ratios were the primary factor in price, this wouldn’t be the case.
+
+In order to solve the unreliable issue of wind and solar power, there needs to be a storage system in addition to the generators. Piling this on top of building the generators would not only significantly increase the cost, it would decrease the EROI ratio. Another study analyzed different energy sources and how adding energy storage changes EROI ratios. The results are shown in graphical form below, and show that most renewable sources would be below the economically viable threshold if they included storage.
+
+(Note: these EROIs differ from those cited above, and show that establishing these ratios isn’t an exact science yet, nor are exact figures agreed upon by scientists.)
+
+Conclusion
+
+This meme is both dishonest and wrong in its claim. It takes a book excerpt and distorts the author’s meaning completely. Not only do most windmills produce more energy than they take to build, the factor is about 20 times more.
+
+However, in pointing this out, one must realize that the EROI ratio doesn’t tell the whole story either. Using wind power to meaningfully power a modern society requires a storage system, which dramatically increases costs and lowers EROI. While these technologies are ever improving, and might someday work, they aren’t currently realistic or efficient. Calling it “idiot power” is hyperbolic, but windmills certainly don’t make sense yet.

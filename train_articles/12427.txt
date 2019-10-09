@@ -1,0 +1,208 @@
+Drowning in data
+When Michelle Forney started working for the Salina School District nine years ago, the district's primary student data report to the state contained 16 different fields, such as name, date of birth and gender.
+
+When Michelle Forney started working for the Salina School District nine years ago, the district's primary student data report to the state contained 16 different fields, such as name, date of birth and gender.
+
+This year, the Kansas Individual Data on Students -- KIDS for short -- contains 91 pieces of data on each student.
+
+And the amount of data school districts report to various state and federal agencies has exploded to the point that Forney, a systems analyst, says "Most of my time is taken up by state and federal reports."
+
+She's not alone. Since Forney started, the district has hired two additional full-time employees to handle data reporting and checking.
+
+Even that's just a glimpse of the time and effort that goes into gathering, entering and sending data -- and tracking down errors.
+
+"As much as we have to do, the individual schools have to do more," Forney said.
+
+Neither she, nor Superintendent Bill Hall or Executive Director of School Improvement Corbin Witt were willing to hazard a guess how many hours are spent each year on reporting data.
+
+"Every district now has to have a person, or people, just handling data," Hall said. "In smaller districts, I don't see how they do it. You have to have someone who's focused on this full time."
+
+Numbers, more numbers
+
+By the final week of the 2012-13 school year, Forney said, her office had uploaded more than 1,000 reports to the state.
+
+"One we just did had 14,842 lines and 29 fields per student," Forney said.
+
+That's the Student Course Collection Report, or STCO for short, which is one of nine reports that fall under the KIDS umbrella.
+
+The information in those nine different reports "must align perfectly with the Kansas Course Codes System," Witt said, and if the information in those different reports doesn't match up, the Kansas Department of Education will kick back the reports so the conflicts can be reconciled.
+
+It's not hard to see how mistakes could be made. Witt notes some information is entered three separate times -- and many of the formats aren't easy to remember.
+
+Mistakes can happen
+
+Take KIDS Field No. D10, a student's "Current Grade Level." It's a two-digit number, and the guidebook explains that "00" is for children from birth to the age of 2; "01" is for 3-year-old preschoolers; "02" is for 4-year-old preschoolers (except for those 4-year-olds who have been labeled "at-risk," who get coded as a "04," because "03" is for 5-year-olds.)
+
+Field No. D12 is for classifying students as Hispanic or not and can be filled with a single letter -- "Y" for "Yes," or "N" for "No."
+
+"Comprehensive Race" is Field No. D30 and is a five-digit numerical code, in which each of the five digits must be a "1" or a "0." White is coded as "10000," Native Hawaiian or Other Pacific Islander is "01000," and "00100" is Black or African-American.
+
+Then there's Field No. F17, the Kansas Course Code Management System identifier.
+
+The KCC code for a specific Algebra I class is "02052G0.501214GGN."
+
+"Shane, Michelle and myself are constantly aligning courses," Witt said, referring to Forney and human resources coordinator Shane Hall. "It's getting bigger and bigger, and there's more potential for something to go wrong with the data."
+
+Forney said not that long ago that she spent the better part of a day running down a discrepancy in course codes between two reports.
+
+"In one school, there was a one-letter difference in one 17-character code," Forney said. "I had to run that down and see which was correct."
+
+Lots of federal reports
+
+And there are lots of federal reports, as well.
+
+Documenting various civil rights issues for the federal government used to be one report, Forney said. "Now, it's three separate reports -- and gathering the data takes four weeks."
+
+Individual teachers have to fill out "time and effort" reports, documenting how much of their time is spent with certain groups of students, such as those from low-income families, or who are learning English. That information can be crossed-checked against the information embedded in the course codes -- remember "02052G0.501214GGN"?
+
+The district also gathers and reports some information on students in local private schools, Witt said.
+
+Among that information is the student's home address and whether family income is low enough to qualify for extra educational services paid for by federal Title I funds; if a student attends a private school, he or she also must live within the boundaries of the Salina district's four elementaries that qualify for Title I funds, Witt said.
+
+Things get better, sort of
+
+In some ways, Witt said, things are getting better.
+
+As the state's data system improves, he said, online forms that once had to have everything entered by hand now are "pre-populated" with some of the data, much in the way online stores such as Amazon.com remember your name, delivery address and other information from previous orders, automatically adding that information to your order form.
+
+"Eventually, there will be one big database, so we're not entering data three times," Witt said.
+
+Hall agreed that day is coming but said part of the problem now is that different districts have different proprietary systems, which store data differently.
+
+Is anybody using it?
+
+Hall, Witt and Forney can point to some ways they know all this information is being used.
+
+Anyone can go to the Kansas State Department of Education's website and see how students -- say, fourth-graders from low-income families at Schilling Elementary -- are doing in math.
+
+Weekly reports on which students are assigned to ride which buses, including each student's name, home address, bus number and parent contact information, Forney said, mean that if a bus breaks down, the school can quickly contact parents to let them know their child will be late getting home.
+
+Keeping that bus report updated on a weekly basis is important, Forney said, because of the number of students who move around the city, or move in or out of Salina.
+
+That federal civil rights report that takes four weeks to prepare ends up in a huge federal database that can be searched for information such as whether black students are suspended in greater numbers than white students for the same offenses.
+
+Helps determine teacher pay
+
+Those "time and effort" reports individual teachers fill out are important, Witt said, because they're the basis for paying part of a given teacher's salary out of various federal funds; documented time spent with low-income kids can be paid out of federal Title I funds, while time spent with English as a Second Language students can be charged to Title III.
+
+John Hay, a researcher with the Kansas Association of School Boards, said the data can be used in more powerful ways now that individual students can be tracked over time.
+
+"They used to file reports at the building level, at the district level," Hay said. "Now the basic unit of data is the child himself -- if you want school data, or grade-level data in a district, or so on, you aggregate it from the data."
+
+That tracking of each individual student throughout their schooling, and knowing not only what school they attended but what teacher they had, Hay said, means educators can now answer questions such as: "You have a bunch of kids who aren't doing well in math now, and lo, it turns out they were all in the same class in fourth grade -- is that a factor?"
+
+It's all about the student
+
+Brad Neuenswander, deputy Kansas commissioner of education, says the data can even be useful after a student has graduated.
+
+"Now we can tie a student to a course number," Neuenswander said. "That way, as a student goes from high school to post-secondary, it's more of a seamless transcript so a university or tech school can see what courses a student had and how well they did."
+
+Neuenswander said one consultant on the KIDS system, who used to work in a college registrar's office, said that ability to pull in high school records -- without having to get on the phone and determine whether one high school's "Algebra I" is the same as another school's "Freshman Algebra" saves colleges lots of time.
+
+"They said it would save about seven hours per student," Neuenswander said.
+
+Systems that can track an individual student across time are called "longitudinal" systems, and can yield lots of information not previously available.
+
+"We always knew how many kids said they were going to go to college," Neuenswander said. "But we never knew how many of them actually showed up in the fall. Now, we can say of those who were in the class of 2010, how many showed up for college and how many of them needed remediation."
+
+Are we using the data?
+
+In what he calls a "classic example," Neuenswander recalled a superintendent who told him 85 percent of his district's high school graduates said they were going to a four-year college, "but when they got the data, it was just 60 percent, and 42 percent needed remediation."
+
+"Those kinds of things can only happen when two things happen," Neuenswander said. "You've had the data long enough, and you have a system that can pull the data and make it available to the schools."
+
+Even so, Witt still wonders whether all the data being collected and reported is being put to good use.
+
+"Nothing frustrates me more than data collection just to be collecting data," Witt said. "I do sometimes wonder what it's being used for. If it's being used constructively, great. If not, we're spending a lot of time on this."
+
+Is this Big Brother?
+
+That "one big database" Witt sees in the near future might make life easier for some people, but Hall and Witt both made references to "Big Brother" in an interview.
+
+And one substantial objection to the new national Common Core Standards is the U.S. Department of Education's National Education Data Model. It's intended as a guide to states and the companies that supply them with software for building a system that's compatible across the country.
+
+That model includes more than 400 data elements:
+
+* "Medical Laboratory Procedure Results"
+
+* "Voting Status," defined as whether parents are eligible and registered to vote
+
+* "Family Income Range"
+
+* "Family Perceptions of the Impact of Early Intervention Services on the Child"
+
+* "Career Objectives"
+
+* "Preparing for Nontraditional Fields Status," whether a student is preparing for a career in which their gender makes up 25 percent or less of the workforce
+
+* "Maternal Last Name"
+
+* "Multiple Birth Status," defined as whether the student is a twin, triplet, etc.
+
+* "Non-School Activity Sponsor"
+
+* "Program of Study Relevance," defined as whether the student's job is relevant to his or her current program of study or occupational goal
+
+* "Religious Affiliation"
+
+No Common Core ammo
+
+Jack Buckley, Commissioner of the U.S. Department of Education's National Center for Education Statistics, said people using that model as ammunition against Common Core are "stringing together several unrelated topics."
+
+For one thing, he said, the National Education Data Model is just that -- a model -- not an operational database.
+
+"It's a data model, theoretical, a conceptual model -- data elements that you could build into a database," Buckley said.
+
+Additionally, he said, there are no direct ties between the data model and Common Core.
+
+"States are building new data systems anyway, because of No Child Left Behind reporting requirements that are already in place," Buckley said. "States might want to improve their data model while implementing Common Core, but you don't need to do that."
+
+Also, he said, the National Education Data Model has fallen by the wayside since 2010 and has been replaced by the Common Education Data Standards.
+
+The idea behind both the older model and the Common Education Data Standards is to allow various states' student data to be compatible with each other.
+
+It helps you communicate
+
+"It's sort of the glue to help states communicate," Buckley said. "In air travel, the industry decided years ago it needed a common data model; in an industrialized country, most industries do this. It's a fundamental thing every other industry would accept as a given."
+
+Buckley describes the current mix of data systems as "stovepiped," and said student data built around a single model will make it easier for students, families and schools when a student moves.
+
+"States can't talk to each other, when a kid moves, it's a problem," he said. "We want to get to a place where if your state implements Common Data Standards, and another state has, too, and a kid moves from your state to that state, the records can be easily transferred."
+
+The Common Education Data Standards' Version 3, released this past January, has 813 possible data fields for K-12 students.
+
+Options in the field for the type of weapon used in an incident are "Firearm," "Handgun," "Shotgun," "Rifle," "OtherFirearm," "Knife," "KnifeLessThanTwoPointFiveInches," "KnifeLessThanThreeInches," "KnifeGreaterThanThreeInches," "OtherSharpObject," "OtherObject," "Substance," "OtherWeapon," "None" and "Unknown."
+
+The new data model no longer contains controversial data fields as religious affiliation, but privacy groups remain concerned.
+
+What can't be given out
+
+In December 2011, the U.S. Department of Education issued new rules regarding the Family Educational Rights and Privacy Act, explicitly opening up student data to state and federal agencies outside of education departments, as well as researchers and private companies developing educational materials.
+
+Buckley noted that "the law itself hasn't changed, but new regulatory guidance has been issued. Nothing in that really changed FERPA, what happened is it clarified FERPA."
+
+Various states had been interpreting the law in different ways, Buckley said.
+
+"In some states, data could be given to researchers, while in the next state, the attorney general was saying 'no' to a researcher trying to do the same thing," he said. "The new guidance was to clarify what can be given and what can't."
+
+The American Civil Liberties Union, however, interpreted the rules change differently.
+
+The ACLU position
+
+In a letter challenging the rule change, the ACLU stated, "The rules allow much greater access to students' personal information by state officials not working directly on education and by other government and private entities that are not traditional education providers. They may allow for the sharing of personal information between states -- paving the way for a national database of student records and substantially increasing the risk of lost records and identity theft."
+
+The ACLU letter further states that it understands the need for some data collection and supports collecting data for tracking issues such as racial differences in school discipline.
+
+But the ACLU further warns that "schools are also collecting unnecessary and extraneous information. According to the Fordham Center on Law and Information Policy ... data collected by particular states includes pregnancy, mental health information, criminal history, birth order, victims of peer violence, parental education, medical test results and birth weight."
+
+Kansas one of the best
+
+That same 2009 Fordham study several times mentioned Kansas' student data protection as among the best in the country, stating "Kansas has a very detailed policy for disclosure to researchers that includes review by a 'data request review board' of a researcher's proposal."
+
+Neuenswander said Kansas isn't currently interested in implementing the national Common Data Standards but is helping design them.
+
+"We haven't really talked about it -- just because Kansas is so much further ahead in terms of our KIDS system," he said, explaining that KSDE staff "helps other states design those kinds of longitudinal data systems. Kansas was way out in front of other states in designing systems like this."
+
+"It would be nice someday, if a kid came in from some other state to be able to talk to them, instead of a counselor having to call and get a transcript mailed," he said. "It's not a matter of building a national data base, but rather individual states building somewhat compatible systems."
+
+-- Reporter Mike Strand can be reached at 822-1418 or by email at mstrand@salina.com.

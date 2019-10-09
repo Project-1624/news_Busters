@@ -1,0 +1,22 @@
+Stimulus Facts: An Update
+It’s been almost a week since I was presented with some interesting feedback about my Mercatus working paper on the stimulus. As you may recall, the original findings in my study showed that there wasn’t any correlation between stimulus spending and where unemployment was the highest or where unemployment had deteriorated the fastest since the beginning of the recession. Also, the study showed that the party affiliation of the congressional district’s representative (whether the district was represented by a Republican or Democrat) did seem to matter in how the stimulus money was spent. The regression analysis doesn’t tell me how much it mattered, but only that it did.
+
+This led to many helpful suggestions on how we could further refine the study. I just released the updated version of the Stimulus Facts paper, which incorporates many of the suggestions that were made. (The report, the data, and the Stata files are available for download at Mercatus.org.)
+
+For instance, Nate Silver over at FiveThirtyEight.com has suggested that we control for the money spent in state capitals, since by design the stimulus bill funnels a lot of cash to agencies that are likely to be in state capitals (although it’s important to note that our original report dealt with money actually spent versus stimulus dollars allocated as a way to try to account for this). Other suggestions were incorporated as well.
+
+As it turns out, when controlling for state capitals and a host of other potentially relevant variables, we find that the original findings still hold. We learn a few other things, too:
+
+First, how and where the money is spent doesn’t seem to be related to unemployment or decline in employment in the district where it is spent.
+
+Second, the district’s party affiliation matters in where the money is spent. (We still don’t know how much it matters compared to other factors.) The average Democratic district receives 81 percent more than the average Republican district. Even after taking out the money spent through state capitals, the average Democratic district receives at least 30 percent more than the average Republican district.
+
+Third, whether a district has part of a state capital in it is an important factor in how stimulus money is spent. However, controlling for this factor, or even taking the money going to state capitals out altogether, doesn’t negate the finding that the district’s party affiliation matters in where the money is spent.
+
+Finally, how long the district’s representative has been in office seems to have a small but significant impact on how the money is spent (this is a new finding, as well).
+
+There is still much more to learn on the question “How are stimulus funds being spent and why?”
+
+The more I dig into this, the more important the question seems. After all, we’re talking about hundreds of billions of dollars. This is a question I will continue to try to shed some light on. And I’ll continue to refine my model to do so. For instance, I would like to try to understand better what we could learn from the design of the stimulus bill itself — what can we say about the fact that so much money is in fact spent or going to state capitals? (It’s not just that it’s being allocated there; the Recovery.gov data I use tells where the money is actually spent.) What explains the fact that so much more of the money is going to the Department of Education than to the Department of Transportation? And what are we getting for our money?
+
+These are very important questions that we should be interested in answering. As always, I appreciate useful ideas about how we can best get at these questions.

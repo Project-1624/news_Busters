@@ -1,0 +1,56 @@
+The Gregorian Calendar
+The Gregorian calendar is today's internationally accepted civil calendar and is also known as the Western or Christian calendar.
+
+Rome's Vatican City is the 'birthplace' of the Gregorian calendar, named after Pope Gregory XIII, who introduced it. ©iStockphoto.com/Antonio Gravante
+
+Go to Calendar
+
+12 Irregular Months
+
+The Gregorian Calendar is the most widely used calendar in the world today. It is the calendar used in the international standard for Representation of dates and times: ISO 8601:2004.
+
+It is a solar calendar based on a 365-day common year divided into 12 months of irregular lengths. 11 of the months have either 30 or 31 days, while the second month, February, has only 28 days during the common year. However, nearly every four years is a leap year, when one extra – or intercalary – day, is added on 29 February, making the leap year in the Gregorian calendar 366 days long.
+
+The days of the year in the Gregorian calendar are divided into 7-day weeks, and the weeks are numbered 1 to 52 or 53. The international standard is to start the week on Monday. However, several countries, including the US and Canada, count Sunday as the first day of the week.
+
+Replaced Julian Calendar
+
+The Gregorian calendar's predecessor, the Julian Calendar, was replaced because it was too inaccurate. It did not properly reflect the actual time it takes the Earth to orbit once around the Sun, known as a tropical year.
+
+Realigned With the Sun
+
+The Julian calendar's formula to calculate leap years produced a leap year every four years. This is too often, and eventually, the Julian calendar was several days out of sync with the fixed dates for astronomical events like equinoxes and solstices.
+
+The introduction of the Gregorian calendar allowed for the realignment with events like the vernal equinox and winter solstice.
+
+When is the next solstice and equinox?
+
+New Leap Year Formula
+
+The Gregorian calendar was first adopted in Italy, Poland, Portugal, and Spain in 1582, and included the following changes:
+
+New formula for calculating leap years : The year is evenly divisible by 4; If the year can be evenly divided by 100, it is NOT a leap year, unless; The year is also evenly divisible by 400: Then it is a leap year.
+
+: 10 days were dropped in October 1582
+
+New rules for calculating Easter dates
+
+Protestant Countries Were Sceptical
+
+Catholic countries, such as Spain, Portugal, and Italy, quickly adopted Pope Gregory’s calendar reforms for their civil affairs. In Europe's Protestant countries, however, people feared that the new calendar was an attempt by the Catholic Church to silence their movement. It took almost 200 years before England and the colonies switched over when an act of Parliament introduced the new calendar, advancing the date from September 2 to September 14, 1752.
+
+Benjamin Franklin famously wrote about the switch in his almanac: "...And what an indulgence is here, for those who love their pillow to lie down in Peace on the second of this month and not perhaps awake till the morning of the fourteenth." (Quoted by Cowan, 29; Irwin, 98)
+
+Orthodox countries followed the Julian calendar even longer, and their national churches have still not adopted Pope Gregory XIII’s calendar.
+
+Proleptic Gregorian Calendar
+
+If you extend the Gregorian calendar backward to dates before it was officially introduced in 1582, it is called the proleptic Gregorian calendar.The standard ISO 8601:2004 requires dates before 1582 to be expressed in this format (clause 4.3.2.1 The Gregorian calendar)
+
+Is Any Calendar Perfect?
+
+The more advanced leap year formula makes the Gregorian calendar far more accurate than the Julian. However, it is not perfect either. Compared to the tropical year, it is off by one day every 3236 years.
+
+Who Designed the Calendar?
+
+Although the Gregorian calendar is named after Pope Gregory XIII, it is an adaptation of a calendar designed by Luigi Lilio (also known as Aloysius Lilius), who was an Italian doctor, astronomer, and philosopher. He was born around 1510 and died in 1576, six years before his calendar was officially introduced.

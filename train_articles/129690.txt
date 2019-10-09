@@ -1,0 +1,36 @@
+We tested Equifax's data breach checker — and it's basically useless
+Something isn't right about Equifax's data breach checker.
+
+In case you missed it: The credit rating giant admitted hackers had targeted the company in the past few months, stealing records on as many as 143 million consumers. The company went into disaster management mode (albeit with a six-week head start) and flubbed the incident response. Not only did the company botch the roll out of the support site, it also threw potential victims into legalistic chaos with nobody knowing for sure for hours whether or not the site was automatically opting out customers from a future class action suit.
+
+Add one more thing to the dumpster fire of this incident response "omni-shambles."
+
+The checker, hosted by TrustedID (a subsidiary of Equifax) that millions of users are checking to see if their private information has been stolen doesn't appear to be properly validating entries.
+
+In other words: it is giving out incorrect answers.
+
+Earlier, in a tweet from a tipster, we noticed that you can enter some clearly incorrect information into the checker. We entered "Test" as the surname and "123456" as the social security number.
+
+The system validated the entry and said that the person "may have been impacted."
+
+
+
+It's possible that there are several test entries in the database used to validate consumers' data.
+
+But the problem with the checker validating a seemingly random surname and social security number means that it's impossible to know for sure if the checker is returning accurate information when an actual victim puts in their information.
+
+We've seen other people complain about the data checker's validation.
+
+Two people tweeted that they checked their records twice and got two different answers.
+
+Another tweet we saw cited her boss, who entered a fake name and his infant son's real social security number -- a result that came back as being breached. He tried it again with his daughter's name and the same social security number, and it was the same result.
+
+"I don't think Equifax knows exactly who's been affected," Gabrielle Taylor said in a tweet.
+
+Another person we spoke to tried entering "gibberish" into the form, and in several cases got a match on a record that he had made up. "Sometimes it says it was compromised and sometimes it was safe," said Vsem Yenovkian, in a Twitter message. He recorded and posted a video of one entry, which we also verified using the dummy social security number he used.
+
+With uncertainty on both sides, it's unclear what the problems are or if they will be fixed.
+
+A spokesperson for Equifax didn't answer specific questions, but confirmed in a blanket statement to reporters, shortly after publication, that "some consumers who visited the website soon after its launch failed to receive confirmation clarifying whether or not they were potentially impacted."
+
+"That issue is now resolved, and we encourage those consumers to revisit the site to receive a response that clarifies their status," the spokesperson said.

@@ -1,0 +1,24 @@
+HITACHI GLOBAL : News Release : Hitachi Develops a New RFID with Embedded Antenna MU-Chip
+news releases PDF Download(PDF Type, 80Kbyte) September 2, 2003 Hitachi Develops a New RFID with Embedded Antenna µ-Chip --Makes Possible Wireless Links that Work Using Nothing More Than a 0.4mm X 0.4mm Chip, One of the World's Smallest ICs-- Tokyo, September 2, 2003-Hitachi, Ltd. (TSE: 6501) today announced that it has developed a new version of its RFID µ-Chip embedding an antenna. When using Hitachi's original µ-Chip, one of the world's smallest RFID ICs measuring only 0.4mm X 0.4mm, an external antenna must be attached to the chip to allow external devices to read the 128-bit ID number stored in its ROM (Read-Only-Memory). This newly developed version, however, features an internal antenna, enabling chips to employ the energy of incoming electrical waves to wirelessly transmit its ID number to a reader. The 0.4mm X 0.4mm chip can thus operate entirely on its own, making it possible to use µ-Chip as RFID IC tags without the need to attach external devices. This breakthrough opens the door to using µ-Chips as RFID IC tags in extremely minute and precise applications that had been impractical until now. For example, the new µ-Chip can be easily embedded in bank notes, gift certificates, documents and whole paper media etc.
+
+
+
+The µ-Chip, announced by Hitachi in July 2001, is one of the world's smallest IC chips at 0.4mm X 0.4mm. The chip data is recorded in read-only memory during the semiconductor production process, and therefore cannot be rewritten, thus guaranteeing its authenticity. Applications of the µ-Chip include a system for managing the SCM materials on sites, and entrance tickets for Expo 2005 Aichi Japan which opens on March 25, 2005.
+
+
+
+The primary features of this revolutionary µ-Chip are as follows.
+
+(1) A RFID IC chip measuring only 0.4mm X 0.4mm with built-in antenna Despite its extremely small size, this µ-Chip has a built-in antenna to permit contactless communications (at very close proximity) with other devices without using an external antenna.
+
+(2) No need for special manufacturing equipment The antenna is formed using bump-metalization technology (used to create the electrical contacts of an IC), a process already widely used by semiconductor manufacturers, thus eliminating any need for specialized equipment.
+
+(3) Complete compatibility with conventional µ-Chip With ID numbers and support systems that are fully compatible with those of existing µ-Chip, the new chip is fully compatible with all systems that use current µ-Chip technology.
+
+
+
+Hitachi plans to develop numerous markets for this chip that take full advantage of its outstanding features. Embedding the chip in securities, identification and other valuable documents such as vouchers offers a highly sophisticated means of preventing counterfeiting. Another high-potential application is agricultural products, where the chips can help ensure the safety of food by providing traceability of ingredients. Additionally, the chips can be embedded in business forms to automate logistics systems and many other business processes.
+
+
+
+About Hitachi, Ltd. Hitachi, Ltd. (NYSE: HIT), headquartered in Tokyo, Japan, is a leading global electronics company, with approximately 340,000 employees worldwide. Fiscal 2002 (ended March 31, 2003) consolidated sales totaled 8,191.7 billion yen ($68.3 billion). The company offers a wide range of systems, products and services in market sectors, including information systems, electronic devices, power and industrial systems, consumer products, materials and financial services. For more information on Hitachi, please visit the company's Web site at http://www.hitachi.com. Information contained in this news release is current as of the date of the press announcement, but may be subject to change without prior notice. PDF files are in Adobe's Portable Document Format. To view them you need Adobe® Reader® 6.0 by Adobe Systems Incorporated. If you are using Adobe Acrobat® 5.x software, you will need to download Asian font packs.

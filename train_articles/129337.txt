@@ -1,0 +1,58 @@
+Analysis of the Human Birdwings
+Surely you have seen this video of the first flight for the Human Birdwings Project:
+
+Also, here is a nice summary on Wired Science. Also, this Gizmodo article Of course, at this point you probably only want to know: but is it real? Alas, I am not going to answer that question. Instead, I will give you some evidence and you can decide for yourselves.
+
+First, why would anyone even question the validity of this video? Here are some ideas:
+
+It is on the internet. Anything on the internet should be met with suspicion. Remember the giant water slide jump? Or what about this ultimate batting practice video? Ok, you remember. The video. Yes, the video itself seems odd. With such an important event, you would think they could at least get a tripod. The project does not give all the details. Humans have always thought about flying. When they finally do, people question the reality.
+
+I am still not saying if I think it is real or fake. These are the reasons people question the video.
+
+Analysis of the Video
+
+The first thing I do when I see a video like this is to look at the motion of the camera. As I have already shown, one video trick is to add a fake camera shake. It seems as though it would be super difficult to add in special effects to a shaking camera, and it probably is. The idea is to use a tripod and record a video with some special effects added. After that, you just add in a fake shake to make it seem legit. Here is an example from the ultimate batting practice video (which is fake).
+
+This is a plot of the motion of the background image in the video.
+
+And for comparison, here is a plot of the background for a video I made while just holding the camera (as steady as I could):
+
+See the difference? The first one is fake, the second is real.
+
+What about the Human Birdwing video? It really isn’t difficult to track something in the background. I use the awesome (and free) Tracker Video Analysis tool. Here is the background motion for the first part of the video when they are just setting up the wings.
+
+That looks fine. Either this part of the video was made with a real hand held camera, or they have found better ways to “fake shake” the video. Here is the same analysis while he is running for a take off.
+
+Finally, this is the background trajectory for the side view while the guy is in flight.
+
+Clearly this is a different guy. A guy (or girl) that didn’t drink quite as much Red Bull as the other video camera operator. The motion is also different in that the camera is tracking a moving object. Needless to say, this doesn’t look like fake shake.
+
+Is there anything else I can get from the video? Yes, one more thing. I can get an estimate for the flying speed. If I look at the sideways view of the flight, I can scale the video based on the length of an average human (about 1.7 meters). Then I can track the motion compared to the motion of the background. Here is what I get for the horizontal position as a function of time.
+
+This gives a horizontal speed (with respect to the ground, not the air – there could be a head wind) of about 4 – 5 m/s (it isn’t too precise). This would be about about 9 – 11 mph. Nothing there says “fake”. That does seem quite fast to run if you have all those wings and stuff on – but not impossible.
+
+What about the vertical motion? Here is a plot.
+
+From this, it looks like Bird-Man gains about 1.5 meters in height in just around 0.6 seconds. If the total mass of Bird-Man plus gear is about 85 kg (just a guess), this would be a change in gravitational potential energy of:
+
+If this is all done by the human (and not up drafts or something), in 0.6 seconds it would require around 2000 Watts. So, a couple of notes:
+
+2000 Watts is serious stuff for a human – but not impossible.
+
+There is likely some perspective errors in this video. If the Bird-Man was too close to the camera (which I can’t tell), it could throw off the measurements.
+
+The Gizmodo article shows the wings with some motors. So, it wouldn’t just be the person providing this power.
+
+So, that is all I can get from the video.
+
+Physics
+
+As I said in a previous post, the scale of this human wing seems to fit with my basic guess for flying animals. Here is a log-plot of the wingspan vs. mass for different birds along with the human with wings.
+
+So this doesn’t seem like a huge problem.
+
+What about the lift? Does this wingspan produce enough lift to keep the guy up? Well, that is not too easy to explore. I could look at something similar – like maybe a hang-glider. Just browsing the internet, it seems like it would have to go around 15 – 20 mph in order to not crash. What does this say about the bird-wings? Well, it could have an air speed of 15 mph – especially if there is a strong headwind. Also, this isn’t a glider. This is a flapper.
+
+I think the only other physics thing to look at would be the power required. I already estimated it could take up to 2000 watts, but this is just for a short time frame (and possibly supplemented by other things).
+
+So, where do I stand on the issue of real or fake? I said I would leave that up to you, didn’t I? Let me just say that there is nothing in this video that indicates it must be a fake.

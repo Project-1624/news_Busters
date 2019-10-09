@@ -1,0 +1,100 @@
+CISPA is Back: FAQ on What it is and Why it's Still Dangerous
+UPDATE (4/22/13): The Cyber Intelligence Sharing and Protection Act (CISPA) has passed the House of Representatives with amendments. This FAQ reflects the bill prior to the amendments. We will be updating this post as we review the bill. In the meantime, please refer to the version of the bill (PDF) that passed the House.
+
+The privacy-invasive bill known as CISPA—the so-called “cybersecurity” bill—was reintroduced in February 2013. Just like last year, the bill has stirred a tremendous amount of grassroots activism because it carves a loophole in all known privacy laws and grants legal immunity for companies to share your private information. EFF has compiled an FAQ detailing how the bill's major provisions work and how they endanger all Internet users' privacy. Please join us in speaking out against CISPA by contacting Congress now.
+
+What is “CISPA”?
+
+CISPA stands for The Cyber Intelligence Sharing and Protection Act, a network and Internet security bill written by Rep. Mike Rogers (R-MI) and Dutch Ruppersberger (D-MD) ( H.R. 624 ). The bill purports to allow companies and the federal government to share information to prevent or defend against network and other Internet attacks. However, the bill grants broad new powers, allowing companies to identify and obtain “threat information” by looking at your private information. It is written so broadly that it allows companies to hand over large swaths of personal information to the government with no judicial oversight—effectively creating a “cybersecurity” loophole in all existing privacy laws.
+
+Under CISPA, what can a private company do?
+
+Under CISPA, any company can “use cybersecurity systems to identify and obtain cyber threat information to protect the rights and property” of the company, and then share that information with third parties, including the government, so long as it is for “cybersecurity purposes.” Whenever these prerequisites are met, CISPA is written broadly enough to permit your communications service providers to share your emails and text messages with the government, or your cloud storage company could share your stored files.
+
+Right now, well-established laws like the Cable Communications Policy Act, the Wiretap Act, the Video Privacy Protection Act, and the Electronic Communications Privacy Act provide judicial oversight and other privacy protections that prevent companies from unnecessarily sharing your private information, including the content of your emails.
+
+And these laws expressly allow lawsuits against companies that go too far in divulging your private information. CISPA threatens these protections by declaring that key provisions in CISPA are effective “notwithstanding any other law,” a phrase that essentially means CISPA would override the relevant provisions in all other laws—including privacy laws. CISPA also creates a broad immunity for companies against both civil and criminal liability. CISPA provides more legal cover for companies to share large swaths of potentially personal and private information with the government.
+
+Does CISPA do enough to prevent abuse of the law for copyright enforcement?
+
+No. Early versions of CISPA included language that specifically mentioned intellectual property, but that was taken out after significant outcry from the Internet community that the language could be used as a copyright enforcement bill similar to SOPA. (Great job, Internet community!)
+
+CISPA’s definition of "cyber threat information" includes information directly pertaining to a threat to "confidentiality." But what does confidentiality mean? The definition encompasses measures designed for preserving "authorized restrictions on access," including means for protecting "proprietary information." "Proprietary information" is not defined, and could be read to include copyrighted information. For example, one type of restriction on access that is designed to protect proprietary information is digital rights management (DRM).
+
+Legitimate security researchers have routinely bypassed restrictions on proprietary information in order to research and publish information pertaining to vulnerabilities. Vulnerability research should not be considered a cyber threat, and the movie and music industry should not be given immunity for "decisions based on" this information, good faith or not.
+
+What triggers these new corporate powers?
+
+CISPA allows a company to obtain and share "cyber threat information" if it has both a "cybersecurity purpose" and believes it is protecting its rights and property.
+
+A "cybersecurity purpose" only means that a company has to think that a user is trying to harm its network. What does that mean, exactly? The definition is broad and vague. The definition allows purposes such as guarding against “improper” information modification, ensuring “timely” access to information or “preserving authorized restrictions on access…protecting…proprietary information” (i.e. DRM).
+
+Under CISPA, what can I do if a company improperly hands over private information to the government?
+
+Almost nothing. Even if the company violates your privacy beyond what CISPA would permit, the government does not have to notify the user whose information was improperly handed over—the government only notifies the company.
+
+CISPA provides legal immunity to a company for many actions done to or with your private information, as long as the company acted in "good faith." This is an extremely powerful immunity, because it is quite hard to show that a company did not act in good faith. These liability protections can cover actions the company uses to identify and obtain threat information and the subsequent sharing of that information with others—including the government. The immunity also covers "decisions made based on cyber threat information," a dangerously vague provision that has never been defined.
+
+Do companies need to share users' personally identifying information (PII) to enhance information security?
+
+No. At a recent hearing on CISPA, Governor John Engler, President of the Business Roundtable, and Paul Smocer, President of BITS, the technology policy division of the financial industry group called the Financial Services Roundtable, testified in support of the bill. Smocer admitted that "there is very little private data, PII, being exchanged today in the threat information world," and that it would "not be an issue" to remove personally identifiable information before sharing. CISPA, however, authorizes sharing PII, and leaves redaction to the companies' discretion.
+
+The most useful threat information that should be shared includes previously unknown software and network vulnerabilities, malware signatures, and other technical characteristics that identify an attack or its methodology—all of which can be shared without PII. If companies need to share an email, such as a phishing email message, existing exceptions allow the recipient to divulge the information; there is no need for the blanket authority in CISPA. Mandiant's recent report on Chinese hacking is just one of many instances where companies have shared a great deal of useful threat information without authority beyond what is granted to them by current law.
+
+Can a company hack a perceived threat under CISPA ("hack back")?
+
+CISPA provides companies with immunity "for decisions made based on cyber threat information" as long as they are acting in good faith. But CISPA doesn’t define “decisions made.” Aggressive companies could interpret this immunity to cover "defensive"—and what some would consider offensive—countermeasures like DDOSing suspected intruders, third parties, or even innocent users. Private defense contractors have already advocated for this power. These actions should not be allowed by such expansive wording. It leaves the bill ripe for abuse.
+
+What is a "cybersecurity system"?
+
+The bill's definition of "cybersecurity system" is circular. It defines a "cybersecurity system" as "a system designed or employed" to protect against, among others, vulnerabilities or threats. The language is not limited to network security software or intrusion detection systems, and is so poorly written that any "system" involving a tangible item could be considered a "cybersecurity system."
+
+In practical terms, it’s unclear what is exactly covered by such a "system." Does it include port-scanning or other basic defensive software tools or could it mean more aggressive offensive countermeasures? The drafters of this legislation leave it unclear whether the term "cybersecurity system" is trying to refer to a computer, a network of computers, security software, or something else entirely.
+
+This definition is critical to understanding the bill. The information that a company can “identify or obtain” is limited by the term, which, in turn, limits what the company can share with the government. The definition is yet another reason why CISPA is dangerously vague.
+
+What government agencies can look at my private information?
+
+Under CISPA, companies can hand “cyber threat information” to any government agency with or without limitations on what agency can receive the information. Generally, the information will be given to a central hub in the Department of Homeland Security (DHS). But once it’s in DHS’s hands, the bill says that DHS can then hand the information to other agencies, including the National Security Agency.
+
+Can the government use my private information for other purposes besides “cybersecurity” once it has it?
+
+Yes. Even though the information was passed along to the government for only “cybersecurity purposes”—the government can use your personal information for cybersecurity, investigating any cybersecurity crime or criminal exploitation of minor, protecting individuals from death or serious physical injury, or protecting the national security of the United States. Under the National Security Act, which CISPA amends, national security interests can include:
+
+(i) threats to the United States, its people, property, or interests; (ii) the development, proliferation, or use of weapons of mass destruction; or (iii) any other matter bearing on United States national or homeland security.
+
+This broad definition gives the government too much power to use private information without safeguards.
+
+What can I do to stop the government from misusing my private information?
+
+CISPA does allow users to sue the government if it intentionally or willfully uses or retains their information for purposes other than what is permitted by the law. But any such lawsuit will be difficult to bring because it’s not at all clear how an individual would know of such misuse. An individual could not even use transparency laws, like FOIA, to find out, because the information shared is exempt from disclosure.
+
+Isn't it important to protect computer systems and networks?
+
+Absolutely. Strong information security is critical to privacy and civil liberties, and can protect users and companies from the activities of malicious actors, be they authoritarian regimes or common criminals. Everyday, millions of ordinary users rely upon the information security of software vendors and online service providers to keep their personal information private and secure, to conduct transactions, and to express their ideas and beliefs.
+
+CISPA, however, only addresses a small piece of the information security puzzle: sharing threat information. It does nothing to, for example, encourage stronger passphrases, promote two-factor authentication, or educate users on detecting and avoiding social engineering attacks, which is the cause of a majority of attacks on corporations. CISPA also does not address promoting more security research, more responsible disclosure or faster patches to known vulnerabilities, nor fixing the troublesome Certificate Authority system.
+
+Who is supporting this legislation?
+
+Facebook and other social companies have NOT endorsed this version of CISPA, but have backed previous iterations of this legislation because companies believe they need the legislation to receive information about network security threats from the government. Right now mostly telecommunications like USTelecom, AT&T, and Verizon support the bill. A full list can be found here.
+
+What can companies do to show they will stand by their users?
+
+Companies can pledge not to provide sensitive private information about their users to the government without legal process.
+
+Facebook released a statement about last year’s version of CISPA saying that it is concerned about users’ privacy rights and that the provision allowing them to hand user information to the government “is unrelated to the things we liked about [CISPA] in the first place.” As we explained in our analysis of Facebook’s response: the “stated goal of Facebook—namely, for companies to receive data about network and other Internet threats from the government—does not necessitate any of the CISPA provisions that allow companies to routinely monitor private communications and share personal user data gleaned from those communications with the government.”
+
+Companies should also join users in opposing this bill by issuing public statements prior to the hearing this Spring.
+
+What can I do to stop this bill?
+
+It’s vital that concerned Internet users tell Congress to stop this bill. Use EFF's action center to send an email to your Congress member urging them to oppose this bill. Click here to email Congress.
+
+And once you’ve done that, please spread the word. Tweet this message or post it to your social networking profiles:
+
+Fight with us against the Internet's latest threat, #CISPA. Let's stop this terrible bill. https://eff.org/r.2bJf via @eff #CISPAalert
+
+Note: Domain name registrar Namecheap is helping to raise awareness about CISPA by donating $1 to EFF for every tweet using the hashtag #CISPAAlert. If you're a company that would like to run a similar awareness-raising campaign, let us know by emailing rainey@eff.org
+
+Call on Congress to back off of any cybersnooping legislation that sacrifices the civil liberties of Internet users.

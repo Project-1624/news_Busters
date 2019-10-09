@@ -1,0 +1,34 @@
+Presidential Candidates Miss Votes While In Congress
+Congress Voting Records Presidential Candidates
+
+Presidential Candidates Miss Votes
+
+Updated:
+
+We compared the missed votes of the 2008 and 2012 presidential candidates who were also serving in Congress at the time.
+
+Over Time
+
+As the party primaries and caucuses near, candidates tend to miss more and more votes as they are out fundraising and campaigning.
+
+We looked at the 640-day period before the 2008 and 2016 elections to see when candidates begin to miss votes and how that trend continues up to the election. The horizontal axis is the number of days ahead of the corresponding election. Each candidate’s missed vote percent is plotted over time, until the candidate ended his or her campaign.
+
+The plots for the 2008 and 2016 elections are overlayed. The lines for the 2016 candidates stop at the line marked “Today.”
+
+By The Numbers
+
+We also computed some totals using corresponding time periods in each election.
+
+For the 2016 election, we looked at votes in the last year and votes in the year before that, so that you can see how the candidates voted before their run for president and during this last year of their campaigning. For the 2008 election, we looked at the corresponding one-year time period ending, like today, days ahead of the election, plus the one-year time period before that for comparison.
+
+Because Clinton was only serving in Congress simultaneously during her 2008 campaign, she is listed among the 2008 candidates.
+
+Candidate Eligible Missed % Missed Percentile
+
+Additional Notes
+
+The data points in the time series chart are based on a sliding window with a normal distribution weighting (SD=14 days).
+
+“House Median” / “Senate Median” is the median missed vote percent looking at all 435 representatives and 100 senators (respectively) during the indicated time period.
+
+“Percentile” is the candidate’s percentile comparing their missed vote percent to all other representatives and senators in the same chamber during the same time period.

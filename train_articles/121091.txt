@@ -1,0 +1,26 @@
+Bugs & Fixes: Resolving an iPhone camera dust-up
+A few weeks ago, a small irregularly-shaped object began appearing in all of the photos and videos taken with my iPhone 5. As the object was always in the same location on an image, I assumed this meant some sort of dust had gotten stuck on the exterior of the lens.
+
+The yellow arrow points to an annoying object that began appearing on all my iPhone 5 photos and videos. (Click to enlarge.)
+
+“No problem,” I said to myself, “I’ll just clean the lens and all will be well, at least for future photos.” I was wrong. None of my attempts to clean the lens had the slightest effect. Eventually, I was forced to conclude that the dust had somehow lodged itself on the interior of the lens—where I could not reach it.
+
+Although I did not hold out much hope by this point, I checked online to see if there was some solution to this problem that I could accomplish myself.
+
+The first thing I discovered was that I was not the only victim of this dust bug. In numerous forums postings (such as here and here and here), many iPhone 5 owners had described exactly the same symptom.
+
+The second thing I discovered was that there is no user-accessible fix. The only solution is to take the phone to an Apple Store and have the Geniuses there deal with it. So that was what I did.
+
+As my iPhone 5 is still covered by AppleCare, everything went as smooth as silk. An Apple Genius confirmed the presence of the dust, went to a computer to check out some further instructions, and came back to announce that I would get an entirely new iPhone, free of charge. A few minutes later, I was walking out of the Apple Store with a new phone. As the dust problem has not returned in subsequent weeks, I am hopeful this is a happy ending to the story.
+
+Apple Diagnostics replaces AHT on newest Macs
+
+In other news, Apple has just replaced one of its troubleshooting applications with a redesigned alternative.
+
+You may already be aware that you can check your Mac for internal hardware problems by running Apple Hardware Test (AHT). If your Mac shipped with OS X 10.7 or later, you access this software by restarting your Mac and immediately holding down the D key. If that fails, you may still be able to load AHT by holding down both the Option and D keys at startup. For more details on AHT, including how to load the program on older Macs, check out this Apple support article.
+
+After identifying a possible hardware issue, Apple Diagnostics offers advice as to what it means and what you should do about it. (Click to enlarge.)
+
+What you may not be aware is that Apple dumped AHT this past June. New Macs, introduced in June 2013 or later, no longer include the software. Instead, they have an entirely new diagnostic application called, appropriately enough, Apple Diagnostics. You access Diagnostics exactly the same way as you do AHT: Hold down the D key at startup.
+
+As far as I can tell, the main difference between the two applications is that Apple Diagnostics has a more refined and verbose interface than AHT. If a problem is found, Apple Diagnostics also offers detailed advice as to how to proceed. This is consistent with Apple’s ongoing strategy to make its computers more consumer-friendly and easy to use, even for such “techie” tasks as diagnosing hardware problems.

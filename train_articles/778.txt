@@ -1,0 +1,68 @@
+Medicare Advantage Cuts in the Affordable Care Act: April 2014 Update
+Research
+
+Robert Book
+
+On April 7, the Centers for Medicare and Medicaid Services (CMS) announced payment formulas that will cut payments to Medicare Advantage (MA) Plans in 2015. These include already-scheduled cuts legislated in the Patient Protection and Affordable Care Act (ACA), as well as regulatory decisions that also affect these rates. While the regulatory decisions include both cuts and increases to various payment components, on balance they have the effect of partially offsetting the statutory cuts, at least in the short term.
+
+Overall, the cuts average about $317, or 3.07 percent, per Medicare Advantage enrollee compared to the rates in effect for 2014. However, after a series of annual cuts, MA enrollees in the next year will face a benefits reduction of about $1,538, or 13.32 percent, below the level projected for 2015 in the pre-ACA baseline.
+
+Background: MA Payment Changes in the ACA
+
+The ACA cuts to Medicare total $716 billion between 2013 and 2022.[1] A large percentage of the cuts come about through changes to the payment formulas for the MA program, in which beneficiaries use their Medicare dollars to choose a privately-run health plan that best meets their needs.
+
+MA payments are tied to a “benchmark” monthly payment set individually for each county (or county-like jurisdiction) in the United States. Companies or organizations seeking to run an MA plan submit a “bid” for each county. For any particular plan, if the bid is less than the benchmark the difference is shared between the Medicare program and the beneficiaries; if the bid exceeds the benchmark, a beneficiary who selects that plan pays the difference. For each beneficiary, Medicare pays the plan the benchmark amount, adjusted for cost risk based on the health status of the beneficiary.
+
+The ACA made several changes to the calculation of the benchmark for each county:
+
+•Benchmarks are now specifically tied to average spending in the fee-for-service (FFS) program in every county, with a percentage of FFS spending based on the quartile rank of each county.
+
+•Changes to the FFS program will result in lower FFS payments, which will be passed through to the MA program and will result in lower MA benchmarks.
+
+•A bonus system is established based on a plan's “star rating” on a five-star scale using CMS criteria; this rating system, originally developed only to assist beneficiaries in selecting a plan, is now being used to determine payment. There is a 5 percent bonus for plans offered under a contract with a rating of 4, 4.5, or 5 stars.[2]
+
+•The bonus will be doubled in certain “qualifying counties” based on demographic data.
+
+These changes are phased in, with the effect that every county in the country will experience a cut relative to its pre-ACA baseline by 2017; in fact, 97.9 percent of counties will experience a cut by 2015. At the state level, every state is already experiencing a reduction in average benchmarks.
+
+Regulatory Changes
+
+CMS also periodically uses its regulatory authority to make adjustments to certain factors that affect payments. The ACA made only relatively minor changes to this authority.
+
+For example, while benchmarks are set for each county, for any given enrollee, there is a further payment adjustment made based to account for differences in cost risk based on each beneficiary's health status, as measured by past diagnosis codes and other factors such as age and disability status. This “risk adjustment” will provide the positive adjustments for high-risk (“less healthy”) enrollees and negative adjustments for low-risk (“more healthy”) enrollees.
+
+As another example, consider that on average, MA enrollees have historically had more costly average health status than FFS beneficiaries. CMS claims that this is due not to MA enrollees being sicker, but rather the fact the MA providers have a greater incentive to record diagnosis codes. They argue that this is due to the fact that MA plans are paid based on diagnosis codes, not procedures and for FFS providers, the opposite is the case. In order to make up for this effect, CMS imposes a “coding intensity adjustment,” which reduced the risk adjustment factor for each enrollee below what it would be based on diagnosis codes alone. Each year, CMS has the option to modify the coding intensity adjustment.
+
+CMS has the option to annually adjust the cost risk model used to calculate the payment adjustment based on each beneficiary's diagnosis codes, the coding intensity adjustment, and various other similar (but generally smaller) factors.
+
+From 2012 to 2014, CMS used its pilot program authority to implement incremental bonuses for star ratings of 3 and 3.5 stars in addition to the 4-and-above bonuses mandated in the ACA. The bonuses for 3 and 3.5 stars will not be paid in 2015 since the pilot program has ended. This has a negative effect on average payments for 2015 relative to 2014, but does not affect the comparison of actual 2015 rates to the 2015 rates projected from the pre-ACA baseline, since the pilot programs started after the passage of the ACA.
+
+Geographic Variation
+
+There is significant geographic variation in MA payments. Much of this variation originates from regional differences in average FFS expenditures, which are calculated at the county level and “passed through” to the MA benchmarks as explained above. Some additional variation comes about from geographic variation in risk adjustment factors – in other words, in some counties the average enrollee is “healthier” than in others.
+
+Methodology
+
+In order to assess current changes, we obtained benchmarks for each county for 2014 and 2015 from the CMS web site. To account for geographic variation in risk, we obtained average risk factors by county for 2012 (the latest year for which CMS makes such data available at this time). We obtained the coding intensity adjustments from CMS call letters for each year from 2012 to 2015, and estimates of the effects of risk model, and related adjustments from both CMS and industry sources. We applied these adjustments to obtain estimated risk scores for 2014 and 2015.[3] We also compared 2015 rates to rates for the same year projected based on a pre-ACA baseline.[4]
+
+In each case, we computed all adjustments at the county level for each star rating bonus level. We computed averages for each county based on plan-level enrollment and the star rating for each plan. Then, we aggregated results to the state level by computing averages weighted by enrollment in each county (and likewise for the national averages).
+
+Results
+
+Not surprisingly, the year-on-year cuts are smaller than the cuts relative to the pre-ACA baseline. There is substantial variation geographically, as shown in Table 1, which gives the both comparisons for each state (as well as D.C. and Puerto Rico). Relative to 2014, cuts range from cuts of -6.7 percent, or -$770 per year (DC) and -5.4 percent, or -$629 (Louisiana) to slight gains in just two states (+0.03 percent or $2.66 per year in Alaska, +1.9 percent or $201 in Connecticut) and Puerto Rico (+2.1 percent, or $126). The national average was a cut of 3.07 percent, corresponding to $317 per year.
+
+Compared to the pre-ACA baseline, cuts were more substantial across the country. Two states, Louisiana and New York are experiencing cuts in excess of -20 percent; all but nine states experience cuts of at least -13 percent. The national average (enrollment-weighted) percentage cut is -13.32 percent. Measured in dollars, the cuts range from -$500 per year (South Dakota) to -$2,857 (Louisiana), with a national average of -$1,538. Note that the ranking by percentage cuts is not the same as the ranking by dollar cuts, because the levels prior to the cuts vary from state to state (and county to county).
+
+Complete results are presented below in Table 1. MA county level data is also available below.
+
+Conclusion
+
+The overwhelming majority of Medicare Advantage enrollees will face significant benefit cuts in 2015, relative to benefit levels in 2014. This is primarily the result of ACA-mandated changes to the benchmark payment formula, and the elimination of the star rating bonus pilot program. The cuts are somewhat mitigated by changes in risk adjustment and other factors. Compared to the pre-ACA baseline, all beneficiaries are experiencing a substantial benefit reduction. The overwhelming majority of this reduction is due to ACA-mandated changes to the benchmark formulas in effect in 2010 and prior years. The effect of the star rating pilot program is absent, since star ratings were not used to determine payments at all prior to 2012. The effect of year-to-year (and even cumulative) adjustment factors is small compared to the cumulative effects of the benchmark changes mandated by the ACA.
+
+Table 1
+
+State MA Enrollment (Feb 2014) Change from 2014 to 2015
+
+(dollars) Change from 2014 to 2015
+
+(percent) Change from Pre-ACA to Post-ACA (dollars) Change from Pre-ACA to Post-ACA (percent) Alabama 220,300 -$434.59 -4.67% -$1,577.37 -15.08% Alaska 22 $2.66 0.03% -$923.86 -9.64% Arizona 399,414 -$385.96 -4.28% -$1,320.81 -13.27% Arkansas 107,287 -$161.38 -1.81% -$1,295.63 -12.88% California 2,054,372 -$376.01 -3.38% -$1,718.50 -13.79% Colorado 263,110 -$349.94 -3.77% -$1,198.18 -11.81% Connecticut 145,995 $201.26 1.91% -$1,190.73 -9.99% Delaware 12,680 -$244.78 -2.56% -$1,269.44 -11.98% District of Columbia 9,637 -$769.94 -6.73% -$2,348.51 -18.04% Florida 1,431,639 -$369.80 -3.04% -$1,475.78 -11.11% Georgia 401,213 -$314.87 -3.34% -$1,367.69 -13.05% Hawaii 107,697 -$336.75 -4.24% -$1,641.77 -17.74% Idaho 81,121 -$246.29 -2.84% -$841.04 -9.08% Illinois 316,853 -$239.48 -2.34% -$1,244.86 -11.08% Indiana 244,609 -$217.33 -2.22% -$1,145.31 -10.67% Iowa 76,829 -$187.32 -2.10% -$1,093.80 -11.15% Kansas 58,969 -$221.87 -2.35% -$1,182.33 -11.37% Kentucky 197,346 -$245.06 -2.48% -$1,085.43 -10.13% Louisiana 212,705 -$628.86 -5.37% -$2,856.52 -20.50% Maine 57,862 -$167.67 -1.78% -$935.43 -9.18% Maryland 76,338 -$165.62 -1.47% -$880.85 -7.37% Massachusetts 228,963 -$227.11 -2.05% -$1,745.92 -13.87% Michigan 545,480 -$66.64 -0.63% -$1,284.91 -10.94% Minnesota 446,355 -$167.16 -1.85% -$860.09 -8.82% Mississippi 69,922 -$409.95 -4.19% -$1,427.39 -13.22% Missouri 284,252 -$275.27 -2.75% -$1,305.23 -11.81% Montana 31,014 -$100.49 -1.22% -$895.80 -9.89% Nebraska 33,440 -$217.49 -2.39% -$1,109.31 -11.09% Nevada 135,461 -$233.46 -2.32% -$701.87 -6.66% New Hampshire 15,803 -$167.37 -1.86% -$1,267.82 -12.53% New Jersey 217,202 -$306.08 -2.80% -$2,335.41 -18.02% New Mexico 106,776 -$391.18 -4.52% -$1,149.62 -12.22% New York 1,148,067 -$504.73 -4.33% -$2,804.34 -20.11% North Carolina 474,262 -$375.04 -3.98% -$1,260.66 -12.24% North Dakota 14,978 -$52.68 -0.61% -$670.02 -7.19% Ohio 793,268 -$316.11 -3.04% -$1,222.79 -10.82% Oklahoma 106,716 -$356.19 -3.69% -$1,481.97 -13.76% Oregon 304,803 -$250.99 -2.84% -$870.52 -9.21% Pennsylania 969,541 -$304.40 -2.86% -$1,639.07 -13.70% Puerto Rico 530,757 $126.15 2.06% -$1,522.55 -19.62% Rhode Island 70,532 -$248.25 -2.33% -$1,119.69 -9.70% South Carolina 192,743 -$297.70 -3.29% -$1,327.18 -13.16% South Dakota 22,104 -$344.07 -3.92% -$499.63 -5.60% Tennessee 374,942 -$352.67 -3.60% -$1,381.71 -12.77% Texas 987,289 -$577.19 -5.11% -$2,131.49 -16.58% Utah 107,058 -$367.66 -4.10% -$1,235.34 -12.56% Vermont 8,314 -$325.80 -3.79% -$1,083.02 -11.58% Virginia 196,653 -$187.23 -2.04% -$1,228.79 -12.01% Washington 327,899 -$312.10 -3.43% -$1,133.81 -11.41% West Virginia 96,771 -$233.97 -2.45% -$1,077.33 -10.36% Wisconsin 351,602 -$194.57 -2.07% -$1,212.16 -11.64% Wyoming 1,984 -$295.34 -3.44% -$578.96 -6.54% NATIONAL AVERAGES: 15,670,949 -$317.04 -3.07% $1,537.56 -13.32%

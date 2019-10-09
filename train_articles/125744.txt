@@ -1,0 +1,30 @@
+FACT CHECK: IRS Complaint Fraud
+Scam: The IRS (or the Department of Justice) is sending out notifications of “complaints in regards to business services” via e-mail.
+
+FALSE
+
+Example: [Collected on the Internet, May 2013]
+
+
+
+Internal Revenue Service Internal Revenue Service You have received a complaint in regards to your business services. The complaint was filled by Mr./Mrs. Filelio BALDIZAN on 05/29/2013/ Case Number: 165430554448 Instructions on how to resolve this complaint as well as a copy of the original complaint are attached to this email. Disputes involving consumer products and/or services may be arbitrated. Unless they directly relate to the contract that is the basis of this dispute, the following claims will be considered for arbitration only if all parties agree in writing that the arbitrator may consider them: Claims based on product liability; Claims for personal injuries; Claims that have been resolved by a previous court action, arbitration, or written agreement between the parties. The decision as to whether your dispute or any part of it can be arbitrated rests solely with the IRS. The IRS offers a binding arbitration service for disputes involving marketplace transactions. Arbitration is a convenient, civilized way to settle disputes quickly and fairly, without the costs associated with other legal options.
+
+
+
+Origins: People generally associate the name “Internal Revenue Service” (IRS) with “trouble” (i.e., rarely does an envelope from the IRS bear good news), so messages that appear to issue from the IRS usually grab a recipient’s attention and are therefore excellent bait for phishing schemes and other scams. The key point to keep in mind to protect oneself
+
+from this form of fraud is that neither the IRS nor the Department of Justice (DOJ) sends out unsolicited e-mails or ask taxpayers to supply detailed personal and financial information (including PINs and passwords) via e-mail.
+
+Phony “complaint in regards to your business services” messages (like the example cited above) that have been appearing in inboxes since May 2007 use the lure of seemingly official IRS communications to trick recipients into clicking on links or opening attachments, with predictably harmful results. In this case, the payoff was apparently not the usual direct phishing scheme (i.e., an attempt to lure the unwitting into providing sensitive personal and financial information) but the planting of a Trojan Horse on recipients’ computers:
+
+
+
+
+
+The Internal Revenue Service has alerted taxpayers to the latest versions of an e-mail scam intended to fool people into believing they are under investigation by the agency’s Criminal Investigation division. The Internal Revenue Service has alerted taxpayers to the latest versions of anscam intended to fool people into believing they are under investigation by the agency’s Criminal Investigation division. The e-mail purporting to be from IRS Criminal Investigation falsely states that the person is under a criminal probe for submitting a false tax return to the California Franchise Tax Board. The e-mail seeks to entice people to click on a link or open an attachment to learn more information about the complaint against them. The IRS warned people that the e-mail link and attachment is a Trojan Horse that can take over the person’s computer hard drive and allow someone to have remote access to the computer. The IRS urged people not to click the link in the e-mail or open the attachment. Similar e-mail variations suggest a customer has filed a complaint against a company and the IRS can act as an arbitrator. The latest versions appear aimed at business taxpayers as well as individual taxpayers.
+
+
+
+
+
+The IRS and the DOJ advise “Recipients of questionable e-mails claiming to come from” either agency should not open any attachments or click on any links contained in the e-mails. Instead, they should forward the e-mails to phishing@irs.gov or file a complaint with the Internet Crime Complaint Center (IC3).

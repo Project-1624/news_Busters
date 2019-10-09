@@ -1,0 +1,18 @@
+Google Ngram Viewer
+Graph these comma-separated phrases: Show search options Part-of-speech tags: cook_VERB, _DET_ President
+
+Wildcards: King of *, best *_NOUN
+
+Inflections: shook_INF drive_VERB_INF
+
+Arithmetic compositions: (color /(color + colour))
+
+Corpus selection: I want:eng_2012
+
+case-insensitive case-insensitive Tweet
+
+Embed Chart Paste HTML to embed in website:
+
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=carpet+bombing&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccarpet%20bombing%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
+between and from the corpus American English British English Chinese (simplified) English English Fiction French German Hebrew Italian Russian Spanish American English (2009) British English (2009) Chinese (simplified) (2009) English (2009) English Fiction (2009) English One Million (2009) French (2009) German (2009) Hebrew (2009) Russian (2009) Spanish (2009) with smoothing of 0 1 2 3 4 5 6 7 8 9 10 20 30 40 50 .

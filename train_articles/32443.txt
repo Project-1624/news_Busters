@@ -1,0 +1,58 @@
+Disproportionate Share Hospital (DSH)
+The Medicare DSH Adjustment (42 CFR 412.106)
+
+The Medicare DSH adjustment provision under section 1886(d) (5) (F) of the Act was enacted by section 9105 of the Consolidated Omnibus Budget Reconciliation Act (COBRA) of 1985 and became effective for discharges occurring on or after May 1, 1986. According to section 1886(d) (5) (F) of the Act, there are two methods for a hospital to qualify for the Medicare DSH adjustment. The primary method is for a hospital to qualify based on a statutory formula that results in the DSH patient percentage. The DSH patient percentage is equal to the sum of the percentage of Medicare inpatient days attributable to patients eligible for both Medicare Part A and Supplemental Security Income (SSI), and the percentage of total inpatient days attributable to patients eligible for Medicaid by not Medicare Part A. The DSH patient percentage is defined as:
+
+DSH Patient Percent = (Medicare SSI Days / Total Medicare Days) + (Medicaid, Non-Medicare Days / Total Patient Days)
+
+The alternate special exception method is for large urban hospitals that can demonstrate that more than 30 percent of their total net inpatient care revenues come from State and local governments for indigent care (other than Medicare or Medicaid).
+
+Under the primary method to qualify for DSH adjustments, the first computation includes the number of hospital patient days used by patients who, for those days, were entitled to both Medicare Part A and SSI (excluding State supplementation). This number is divided by the number of patient days used by patients under Medicare Part A for that same period. The second computation includes hospital patient days used by patients who, for those days, were eligible for medical assistance under a state plan approved under title XIX (Medicaid), but who were not entitled to Medicare Part A. This number is divided by the total number of hospital patient days for that same period.
+
+Hospitals whose DSH patient percentage exceeds 15 percent are eligible for a DSH payment adjustment based on another statutory formula. The formula varies for urban hospitals with 100 or more beds and rural hospitals with 500 or more beds, hospital that qualify as rural referral centers or sole community hospitals, and other hospitals.
+
+Changes to Medicare DSH: Section 3133 of the Affordable Care Act
+
+Section 3133 of the Affordable Care Act amends the Medicare DSH adjustment provision under section 1886(d) (5) (F) of the Act, and establishes 1886(r) which provides for an additional payment for a hospital’s uncompensated care. As proposed in the FY 2014 IPPS proposed rule, the regulations that implement this provision are in proposed subpart I of 42 CFR part §412.106. Changes to the Medicare DSH Payment: Effective for discharges occurring on or after FY 2014, hospitals will receive 25 percent of the amount they previously would have received under the current statutory formula for Medicare DSH.
+
+Additional Payment for Uncompensated Care: The remainder, equal to 75 percent of what otherwise would have been paid as Medicare DSH will become available for an uncompensated care payments after the amount is reduced for changes in the percentage of individuals that are uninsured. Each Medicare DSH hospital will receive an uncompensated care payment based on its share of insured low income days (that is, the sum of Medicaid days and Medicare SSI days) reported by Medicare DSH hospitals.
+
+Each hospital’s uncompensated care payment is the product of three factors. These three factors are:
+
+75 percent of the estimated DSH payments that would otherwise be made under the old DSH methodology (section (d)(5)(F) of the Social Security Act);
+
+1 minus the percent change in the percent of individuals under the age of 65 who are uninsured (minus 0.1 percentage points for FY 2014, and minus 0.2 percentage points for FY 2015 through FY 2017); and
+
+A hospital’s amount of uncompensated care relative to the amount of uncompensated care for all DSH hospitals expressed as a percentage.
+
+For FY 2014 and FY 2015, we are determining a hospital’s amount of uncompensated care based on a Medicare DSH hospital’s share of insured low income days, or the sum of a hospital’s Medicare SS days and Medicaid days. For more information, please visit the FY 2014 IPPS Final Rule and the FY 2015 IPPS Final Rule listed under the “Related Links” section.
+
+The additional payment for uncompensated care and the data used in the calculation is provided in a table below. In addition, the data used for Medicare DSH estimates to support the calculation of Factor 1 is provided in the table below.
+
+CMS commissioned a contractor, The Dobson | DaVanzo Team – Dobson DaVanzo & Associates, LLC (Dobson | DaVanzo) and KNG Health Consulting LLC, (KNG Health) , to provide technical assistance as we implement changes to Medicare DSH payments as called for by Section 3133. We provide a link to the final report and supplemental data in the downloads section below.
+
+Note to Providers:
+
+May 3, 2010: CMS published CMS Ruling "CMS-1498-R" pertaining to three Medicare Disproportionate Share Hospital (DSH) issues. Specifically, the Ruling addresses jurisdictionally proper pending appeals and open cost reports on the issues of Medicare non-covered days (such as exhausted benefit days and Medicare secondary payer days), the data matching process for Supplemental Security Income "SSI" fractions, and "labor and delivery" days. The Ruling became effective on April 28, 2010. To view the Ruling, please visit the link below in the downloads section.
+
+April 24, 2015: CMS published CMS Ruling "CMS-1498-R2" (“the amended Ruling”) which amended CMS Ruling 1498-R. Specifically, the amended Ruling revises the requirement that all cost reports covered under the original ruling have the Medicare-SSI component of the DSH payment adjustment calculated based on total days. Under the amended Ruling, providers will have the option, for cost reporting periods involving patient discharges prior to October 1, 2004, to have their Medicare-SSI fraction calculated based on either total days or covered days. For cost reporting periods that involve patient discharges occurring after October 1, 2004 (i.e., Federal fiscal year 2005 forward), the Medicare-SSI component of the DSH payment adjustment will be based on total patient days. Medicare-SSI ratios pursuant the CMS-1498-R2 for federal fiscal years 1988 through 2005 are available via the links below. All other provisions of CMS Ruling 1498-R remain in effect. The amended Ruling became effective on April 22, 2015. To view the amended Ruling, please visit the link below in the downloads section. CMS will issue implementation instructions to their MACs for this Ruling, and these instructions will be available at https://www.cms.gov/Regulations-and-Guidance/Guidance/Transmittals/index.html.
+
+Note to Providers on the FY 2006, 2007, 2008, 2009 and 2010 SSI Ratios
+
+March 16, 2012: CMS issued Change Request 5647 on July 20, 2007 instructing applicable hospitals to submit no pay bills for their Medicare Advantage (MA) patients for FY 2007 forward. CMS later issued Change Request 6329 instructing applicable hospitals to also submit their FY 2006 MA data.
+
+Revised SSI ratios for the Medicare DSH calculation for FY 2006 through FY 2009 are available at the hyperlinks below. In addition to including MA patient days in the ratios for FY 2006, 2007, 2008, and 2009 CMS has also calculated the SSI ratios in the manner proscribed by CMS-1498-R. To view these ratios, please visit the link below in the downloads section. Information regarding the MedPAR claims run out and the SSI eligibility file used to calculate ratios can be found within the excel files below.
+
+October 17, 2012: SSI ratios for the Medicare DSH calculation for FY 2010 are available at the hyperlink below. The methodology for calculating FY 2010 SSI ratios is the same method used for FY 2006 – FY 2009 described above. Please note, this file replaces the file originally posted on September 11, 2012 which contained erroneous data. Hospitals are to use the data contained in this file and disregard data from the September 11, 2012 posting.
+
+For information on how providers can obtain the data used to calculate their SSI ratios, please visit the DSH_DUA link below in the related links section.
+
+Medicare DSH Eligibility Data
+
+CMS has developed a limited view of the HIPAA Eligibility Transaction System (HETS) to allow hospitals that receive Medicare DSH payments to view Medicare enrollment information for their hospital inpatients.
+
+The data available for viewing via HETS 270/271 DSH will allow hospitals to verify that patients eligible for Medicaid are not also entitled to Medicare Part A benefits. In addition, hospitals can verify Medicare enrollment for their hospital inpatients, including whether a patient is entitled to Medicare Part A benefits, enrolled in a Medicare managed care plan, or has Medicare as a secondary insurance.
+
+HETS 270/271 is an electronic data interchange (EDI) system that uses current ANSI X12 formatting standards. Submitters must connect to HETS 270/271 via the Medicare Data Communication Network (MDCN). Additional information about the HETS 270/271 system, including connectivity and file formatting requirements, is available online at: http://www.cms.hhs.gov/hetshelp.
+
+Applicants interested in receiving the HETS 270/271 DSH view can contact the MCARE Help Desk Monday – Friday 7:00 A.M. to 9:00 P.M. EST at 1-866-324-7315, or send an email to mcare@cms.hhs.gov for additional information. The MCARE Help Desk will work with you and provide you with all documentation necessary to obtain access to the Medicare DSH view.

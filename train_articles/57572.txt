@@ -1,0 +1,186 @@
+Did the stimulus work? A review of the nine best studies on the subject
+If you ask the Obama administration, economists are virtually united in thinking the 2009 stimulus package worked. “I’m absolutely convinced, and the vast majority of economists are convinced, that the steps we took in the Recovery Act saved millions of people their jobs or created a whole bunch of jobs,” Obama declared at a press conference last month. Or, to quote NEC chair Gene Sperling from an interview a few weeks ago, “There is no question that the evidence is showing that the type of things the president did to help state and local governments really mattered, were really helpful in pulling us from the brink of depression to a recovery.”
+
+But the stimulus’ critics allege that this evidence isn’t reliable. The studies the administration is relying on depend on models that “substitute assumptions for identification,” Harvard economist Robert Barro writes today in the Wall Street Journal. “To figure out the economic effects of transfers one needs ‘experiments,’” Barro writes, “in which the government changes transfer in an unusual way—while other factors stay the same—but these events are rare.”
+
+The truth is, both studies of the type Barro prefers, and studies using models, which he criticizes, have been conducted to determine the effect of the stimulus on employment and output. Of the nine studies I’ve found, six find that the stimulus had a significant, positive effect on employment and growth, and three find that the effect was either quite small or impossible to detect. Five studies use econometric ”experiments,” which attempt to, as Barro encourages, sort out the effect of the stimulus from other factors using empirical data. Four use modeling instead.
+
+Each approach runs into its own set of problems. The econometric studies have to deal with what social scientists call “endogeneity”: that is, the variable whose effect we’re trying to determine (the stimulus) could itself be affected by what we’re trying to study its effect on (the state of the economy). In this specific case, this means that econometric studies sometimes have to correct for the fact that harder-hit areas tend to get more stimulus spending. This says nothing about the stimulus’ effectiveness, but it can confuse attempts to evaluate that effectiveness statistically.
+
+All of these studies have their own methods of overcoming the endogeneity problem, some of which are more effective than others. Whichever corrections one uses, however, one cannot run a perfect experiment with messy, real-world data, which necessarily limits what these studies can say. Of the five econometric studies detailed here, three conclude the stimulus had a significant positive effect, and two conclude it did not have much of an effect at all.
+
+The modeling studies use an equation or series of equations meant to model the economy to compare the results of a certain policy change (like the stimulus bill) against the results of a baseline in which the change was not enacted. This avoids the messiness of econometric evaluation, as it allows the creation of a ready, stimulus-less counterfactual with which one can compare the results of the stimulus bill. But it also doesn’t take into account the actual changes in employment and output that occurred after the stimulus was passed. Further, there is considerable disagreement within the economics profession about macroeconomic modeling, and for any of these studies, one could find economists who dispute the value of the model used. Of the four modeling studies, three conclude the stimulus had a significant positive effect, while one suggests it had a positive, but mild, effect.
+
+One more technical thing to clear up before we delve into the studies. Many of these studies provide estimates of the “multiplier” of a particular kind of stimulus measure. The “multiplier” of a given program is the amount GDP is increased by one dollar of that type of spending. For example, one of the econometric studies estimates that the multiplier for the Medicaid aid to states included in the stimulus is 2. This means that for every dollar the stimulus spent on Medicaid, GDP increased by $2. Any positive multiplier indicates the program is stimulative, but the higher the multiplier, the more cost-effective the measure is.
+
+Here are the nine studies, organized by the conclusion and method used. Click on each one to see my summary of the study, how it reached its conclusions, and potential problems with its approach.
+
+It worked (econometric):
+
+It worked (modeling):
+
+It worked a little bit (modeling):
+
+It didn’t work (econometric):
+
+===
+
+Study: ”Did the Stimulus Stimulate? Real Time Estimates of the Effects of the American Recovery and Reinvestment Act.”
+
+Who did it: James Feyrer and Bruce Sacerdote, Dartmouth College.
+
+What it says: The stimulus had a positive, statistically significant effect on employment. The effects varied by type of spending. Aid to states for education and law enforcement didn’t have a significant effect, but aid to low-income people and infrastructure spending showed very positive impacts. The multiplier was between 1.96 to 2.31 for low-income spending, 1.85 for infrastructure spending, and between 0.47 and 1.06 for the stimulus overall.
+
+How it got there: Feyrer and Sacerdote used three broad approaches. The first was to compare employment growth in each state to the amount of stimulus funds spent in that state over the 20 months after the stimulus was passed in February 2009. The second was to conduct that same comparison on a county level. The third was to compare month-by-month employment and spending data in states, to see how employment responds to sudden changes in stimulus spending.
+
+Each approach controls for a different source of bad results. The overall state data controls for national employment shocks, and the county data controls for shocks particular to states. If those controls weren’t included, unrelated increases or decreases in employment at the national or state level could obscure any increases or decreases resulting from stimulus spending, making it hard to determine that spending’s effect. Similarly, the time-series data makes it easier to pinpoint the direct effect of spending, by seeing what happens to employment at the moment spending is introduced.
+
+a) Spillover: The study misses “spillover” effects. Thus, it likely underestimates the stimulative impact of the bill slightly.
+
+b) Endogeneity: Some states received more stimulus money, per capita, than others because they were harder hit, which would complicate the study’s interstate comparisons of that spending’s effects. To correct for this, Feyrer and Sacerdote use the average seniority level of states’ House delegations as an “instrumental variable”. That seniority level is highly correlated with the level of per-capita stimulus spending in a state. By including this in their calculations, the study has a way of estimating to what extent states are getting disproportionate funds due to actual economic need as opposed to political patronage, and can thus control for that effect.
+
+===
+
+Study: “Does State Fiscal Relief During Recessions Increase Employment? Evidence from the American Recovery and Reinvestment Act.”
+
+Who did it: Gabriel Chodorow-Reich (Berkeley), Laura Feiveson (MIT), Zachary Liscow (Berkeley), and William Gui Woolston (Stanford).
+
+What it says: The state fiscal aid portion of the stimulus, which specifically increased federal Medicaid matching funds, had significant positive effects on employment. The additional matching funds increased employment by 3.5 job-years per $100,000 spent, and the multiplier for the funds is around 2.
+
+How it got there: Out of the $787 billion stimulus bill, about $250 billion went in direct aid to state and local governments to prevent them from hurting the economy by cutting spending. Of that, $88 billion went to shore up Medicaid, and of that, $61.2 billion had been spent by the end of June 2010. The per-capita size of the Medicare aid varied widely by state. Utah got $103 per over-16 resident, whereas D.C. got $507. The authors used this variation to calculate the effect of the program by comparing changes in employment per capita in states with high levels of aid to that in states with low levels.
+
+a) Spillover: Because it uses state-by-state data, the study does not take into account spillover spending between states.Thus, the stimulative impact of the spending is likely underestimated slightly.
+
+b) Endogeneity: Harder-hit states are likely to get disproportionate funding. To control for this, the authors look at the formula the stimulus bill used in doling out Medicaid funds. The bill increased federal Medicaid aid by 6.2 percent to all states, and by more to states that were particularly hard hit. Thus, the authors surmise, the aid a state received depended on four things: its pre-recession Medicaid spending, the change in its number of beneficiaries during the recession, the change in spending per beneficiary during the recession, and its unemployment rate (which determined whether it would receive aid above the 6.2 percent figure). The authors thus only looked at aid attributed to the first factor, pre-recession Medicaid spending, as this metric is not affected at all by the size of the downturn in a given state.
+
+===
+
+Study: ”Fiscal Spending Jobs Multipliers: Evidence from the 2009 American Recovery and Reinvestment Act.”
+
+Who did it: Daniel J. Wilson of the Federal Reserve Bank of San Francisco.
+
+What it says: The stimulus created 2 million jobs in its first year, and 3.2 million by March 2011. The jobs multiplier varies widely based on whether one studies stimulus spending that has been announced to go to certain recipients, is obligated to those recipients, or has actually been paid out to those recipients. Estimates vary from 4.8, for one measure based on announced spending, to 25.2, for another measure based on actual payments. Private sector, state and local government and construction sectors all showed consistently significant positive effects, whereas whether the effect on manufacturing, education and health was positive depends on whether one looks at announcements, obligations or payments.
+
+How it got there: Wilson compares stimulus spending and change in employment across states. The spending data comes from the federal government’s reports on stimulus money that has been announced, obligated, and actually paid out to its recipients. The employment data comes from the Bureau of Labor Statistics.
+
+a) Spillover: Because it compares between states, Wilson’s study cannot take into account spillover effects. Wilson acknowledges this, but defends by noting that he is calculating the “local multiplier”, as opposed to the national one, and that the local figure is also of interest.
+
+b) Endogeneity: As with any cross-state comparison, the problem arises that harder-hit states are likely to get disproportionate stimulus funds, which can distort results. To take this into account, Wilson looks at three factors that affect the amount of stimulus aid states received, but which were not related to how hard-hit each state was. Specifically, he considers states’ pre-stimulus Medicaid spending, their school-age population (which should help determine how much education aid they receive), and the factors used to determine the amount of highway aid each state received in the stimulus (factors which are unrelated to underlying economic conditions).
+
+However, the latter two factors are only weakly correlated with how much spending each state received, which limits their usefulness to the study. While pre-stimulus Medicaid spending is better correlated, the fact that Wilson uses it to study overall stimulus spending, rather than stimulus spending on Medicaid, limits its usefulness as well.
+
+===
+
+Study: ”Estimated Impact of the American Recovery and Reinvestment Act on Employment and Economic Output from January 2011 Through March 2011.” (and studies of previous periods)
+
+Who did it: Benjamin Page and Felix Reichling of the Congressional Budget Office.
+
+What it says: Through the first quarter of 2011, the stimulus created between 1.6 million and 4.6 million jobs, increased real GDP by between 1.1 and 3.1 percent, and reduced unemployment by between 0.6 and 1.8 percentage points.
+
+How it got there: The CBO calculated multipliers to estimate the effect on output of various kinds of stimulative programs, and then applied them to the amount of money spent in the stimulus on each type of program. For example, payments to state and local governments for infrastructure were estimated to have a multiplier of between 1 and 2.5, whereas the multiplier for transfer payments (unemployment benefits, food stamps, etc.) to individuals was between 0.8 and 2.1.
+
+The multipliers are based on two effects: direct and indirect. Direct effects are the immediate results of stimulus spending, and determined by reviewing the empirical economic literature on the way households, state governments, and so on respond to tax cuts or transfer payments. For example, there is evidence that low-income households increase spending more due to tax cuts than high-income households, so the direct effects of low-income tax cuts are greater than those of high-income tax cuts. The indirect effects include things like increased consumption from new government jobs, which are not an initial result of the government’s spending in creating a job but nonetheless have an impact on the economy. These are determined by using macroeconomic forecasting models.
+
+Potential Problems:
+
+a) Modeling disagreement: As the CBO acknowledges, there is considerable disagreement within economics about the macroeconomic forecasting models upon which its stimulus studies depend. Different models would provide different estimates of indirect effects, and thus produce different conclusions. In addition, the empirical studies used to estimate direct effects are subject to endogeneity problems, as it is possible that the effects shown in those papers are not due to spending or tax cuts but other spending. To account for this, the CBO includes a range of estimates that it thinks encompasses the views of most economists.
+
+b) Prediction versus evaluation: Some critics have discounted the CBO’s studies on the stimulus as, in Reason writer Peter Suderman’s words, “pre-cooked”, because the multiplier estimates are based on evidence known before the stimulus was passed, and thus are sure to produce similar results before and after the stimulus was enacted. However, this is arguably a strength of the CBO approach. Attempts to determine the effect of the stimulus by comparing spending and employment data have to control for other factors are affecting employment, which can be tricky. A modeling approach avoids these pitfalls.
+
+===
+
+Study: ”The Economic Impact of the American Recovery and Reinvestment Act of 2009.”
+
+Who did it: The President’s Council of Economic Advisers.
+
+What it says: The stimulus created or saved 2.7 million to 3.7 million jobs by the third quarter of 2010.
+
+How it got there: The study, along with similar past CEA studies, takes two approaches. The first estimates multipliers for different types of stimulative programs, and then applies these to the amount of money the stimulus devotes to each type of program. The multipliers are an average of those used in the Federal Reserve’s FRB/US macroeconomic forecasting model, and those used in the model of “a leading private forecasting firm.” (see Appendix here). The second method compares the actual course of GDP and employment after the stimulus was passed to a statistical baseline forecast of what would have occurred had the stimulus not been passed. This baseline is determined by studying GDP and employment patterns from 1990 to 2007, and then forecasting based on these from the second quarter of 2009 and onward based on GDP and employment in the first quarter of 2009.
+
+Potential Problems:
+
+a) Confounding factors: By the CEA’s own admission, the statistical baseline estimates reflect both the effect of the stimulus and that of other policies being pursued when it was passed, such as the Fed’s quantitative easing, TARP, etc. These mean this approach does not estimate the impact of stimulus of itself, but rather of the whole battery of government interventions undertaken to combat the recession.
+
+b) Unusual circumstances: The statistical baseline approach depends on data from 1990 to 2007, which includes two recessions (1990-91, 2001), neither of which were nearly of the same magnitude as the 2007 to 2009 recession, nor of the same variety. As the CEA concedes, “At any given time, the economy is subject to many influences that are not reflected in the past behavior of GDP and employment. These influences may be particularly large in a period as turbulent as the past two years.” If, as Carmen Reinhardt and Kenneth Rogoff have argued, recessions following financial crises are of a fundamentally different kind, then extrapolating from the 1990-2007 data is problematic.
+
+c) Modeling disagreement: There is considerable disagreement among economists about the assumptions of macroeconomic forecasting models, including the Fed and private forecaster models that form the basis of the CEA modeling approach. If these models’ assumptions are flawed, then the multipliers it produces will be wrong, and the CEA estimate will be off.
+
+d) Prediction versus evaluation: The CEA uses the same basic modeling approach it did to predict the stimulus’ impact before it was passed. This can be seen as an advantage of the modeling approach. Econometric approaches require one to control for various factors which could affect employment and growth besides the stimulus, which can be tricky, whereas models, by providing a baseline, avoid this problem.
+
+===
+
+Study: ”How the Great Recession Was Brought to an End.”
+
+Who did it: Mark Zandi (Moody’s) and Alan Blinder (Princeton).
+
+What it says: The stimulus raised real GDP in 2010 by 3.4 percent, reduced unemployment by 1.5 percentage points, and created almost 2.7 million jobs.
+
+How it got there go there: Zandi and Blinder used the Moody’s Analytic model of the US economy to simulate four scenarios: a baseline including the actual policies pursued after the onset of the recession, a counterfactual where only financial policies (TARP, the Fed’s quantitative easing, etc.) were implemented but the stimulus was not, another counterfactual without financial policies but with the stimulus, and a final counterfactual where neither financial policies nor the stimulus was passed. By comparing the outcomes of the baseline and the counterfactual where the stimulus was not pursued by financial policies, one can determine the impact of the stimulus on growth and employment.
+
+The Moody’s model works, broadly, by modeling short-term economic fluctuations as determined by changes in aggregate demand, and long-term fluctuations as determined by changes in aggregate supply. Federal spending is treated as exogenous because “legislative and administrative decisions do not respond predictably to economic conditions,” whereas state and local spending is treated as a product of tax revenue (which is itself determined by the economy-dependent size of state tax bases) and federal aid, which is treated as exogenous. Thus, both federal and state and local spending due to the stimulus bill is treated as exogenous.
+
+a) Endogeneity: It is possible that federal stimulus spending was affected by economic factors. In particular, federal aid to states could vary based on how hard hit a given state is. If this is true, treating that aid to states as exogenous, as the Moody’s model does, could distort results.
+
+b) Modeling disagreement: There is considerable disagreement among economists about the assumptions of macroeconomic forecasting models, and Moody’s model is no exception. If the model’s assumptions are flawed, then its results are suspect as well.
+
+c) Prediction versus evaluation: The Moody’s model did not change substantially before and after the stimulus was enacted, and thus Zandi and Blinder’s results here are very similar to those Zandi predicted using the model before the stimulus passed. This can be seen as an advantage of the modeling approach. Econometric approaches require one to control for various factors which could affect employment and growth besides the stimulus, which can be tricky, whereas models, by providing a baseline, avoid this problem.
+
+===
+
+Study: ”Targeted Transfers and the Fiscal Response to the Great Recession.”
+
+Who did it: Hyunseung Oh and Ricardo Reis of Columbia.
+
+What It Says: Both tax transfers and government purchases have very mild positive effects on growth. The multiplier for tax transfers is estimated to be between 0.02 and 0.06, and the multiplier for government purchases is around 0.06, though Oh and Reis emphasize that a more detailed look suggest transfers are slightly more stimulative than purchases.
+
+How it got there: Oh and Reis develop a macroeconomic model that can simulate the effects of both tax transfer and government purchase programs. Under models that assume Ricardian equivalence, such policies are assumed to have no effect, because consumers will know that any unfunded tax decreases or spending increases will lead to debt that will have to be paid for through increased taxation in the future. Consumers will thus simply save the money to pay for those future taxes, meaning aggregate demand is not affected at all.
+
+Oh and Reis’ model assumes Ricardian equivalence but includes two effects that suggest a positive impact from stimulative measures. The first or “neoclassical” effect is that because the taxes that will eventually be used to pay off the stimulus will be paid in large extent by people on the margin between working and not working, and will cause a decrease in those peoples’ wealth, they will be more motivated to stay employed. The second or “Keynesian effect” is that tax transfers and government purchases tend to move money from people who are less likely to spend it to people who are more likely to do so, increasing demand, growth, and employment.
+
+a) Empirical contradiction: By Oh and Reis’ own admission, some of the variable estimates produced by their model run afoul of empirical evidence. For example, the model suggests that the increased debt from stimulus spending will crowd out private investment, leading it to fall sharply, but the data does not indicate that this actually happens. Additionally, the theory estimates that a smaller percentage of tax transfers will be spent, as opposed to saved (a metric known as “marginal propensity to consume” or MPC) than econometric studies suggest actually happens. Changing their model to not include a “crowding out” effect, and to include a higher MPC, results in estimates of the stimulative effect of tax transfers and government purchases on output and employment that are two to three times as large as those without these changes to the model.
+
+b) Modeling disagreement: There is considerable disagreement among economists on macroeconomic modeling, and the assumptions that Oh and Reis make are by no means uncontroversial. Both the “new classical” and “Keynesian” effects are disputable, as is the central premise of Ricardian equivalence, which requires one to assume, in Paul Krugman’s words, that “consumers have perfect foresight, live forever, have perfect access to capital markets” and so forth.
+
+c) Prediction vs. evaluation: Since it’s based on a model, the results of Oh and Reis’ study do not depend at all on the actual changes in employment and growth that occurred after the stimulus was passed. As always, this can be seen as an advantage, as it avoids econometric studies’ problems of having to control for a variety of other factors that could affect output and growth.
+
+===
+
+Study: ”The American Recovery and Reinvestment Act: Public Sector Jobs Saved, Private Sector Jobs Forestalled.”
+
+Who did it: Timothy Conley (Western Ontario) and Bill Dupor (Ohio State).
+
+What it says: The stimulus did not have a statistically significant effect on employment. It created and/or saved an estimated 450,000 government jobs and destroyed or prevented an estimated 1 million private sector jobs.
+
+How it got there: Conley and Dupor compare state-by-state growth in employment over eighteen months (from the stimulus’ passage to September 2010) to the amount of stimulus spending received relative to the size of state governments, as well as “budget loss” from 2009 to March 2010. They scale the stimulus spending based on the size of state governments, rather than the size of their populations, both because of the wide variation in state government size and because stimulus funds were distributed largely by state and local governments.
+
+The “budget loss” statistic compares the change in the difference between a state’s tax revenue and its Medicaid spending. It allows Conley and Dupor to calculate how much the stimulus offset that budget loss, and see what effect this offset had on employment. Rather than overall employment, Conley and Dupor look at the effect of the stimulus on employment in four sectors -- state and local government, goods-producing, health/education/hospitality/professional services, and other services -- because of the wide variation in employment data by sector.
+
+Potential Problems:
+
+a) Statistical significance: The biggest problem with the Conley and Dupor study is that their estimates are not statistically significant. Their study indicates that there’s a 90 percent chance that between -35,000 and 920,000 government jobs were created, and between -1.5 million and 2.7 million non-government jobs were lost. Put another way: according to the study, anything between 35,000 governments job being lost and 920,000 being created, and 1.5 million non-government jobs being lost and 1.5 million being created, is consistent with the study. The estimates at the start of this post are just the midpoints in those intervals. As Noah Smith noted, “Bluntly, what they have found is nothing. Formally, if we use their model to test the hypothesis that the stimulus caused a net increase in private-sector jobs, we will not be able to reject the hypothesis.”
+
+b) Spillover: Conley and Dupor acknowledge that, like any cross-state comparison, their study cannot take into account spillover effects.
+
+c) Endogeneity: As a cross-state comparison, the study must deal with the fact that harder-hit states are likely to get a disproportionate amount of stimulus spending, which can distort results. Conley and Dupor account for this by including five instrumental variables: the factors that determine a state’s level of federal highway spending, the degree to which each state relies on sales taxes (sales tax intense states, all else being equal, see bigger revenue drops), the ratio of federal spending in each state to the amount in taxes residents of that state pay, whether the state has strict balanced budget rules, and whether the governor is a Democrat. All these are factors that Conley and Dupor argue influence the amount of stimulus a state received, or the size of its budget hole, and thus they all also influence the degree to which the stimulus offset a state’s budget shortfall.
+
+An economist I talked to alleged that highway spending factors are too weakly correlated with stimulus spending to be of much use as instrumental variables, and as the sales tax intensity statistics show an even lower correlation, there is reason to be doubtful of that variable’s usefulness as well.
+
+===
+
+Study: ”An Empirical Analysis of the Revival of Fiscal Activism in the 2000s.”
+
+Who did it: John B. Taylor, Stanford.
+
+What it says: The tax transfer provisions of the stimulus package, and previous stimulus packages in the 2000s, did not lead to a significant increase in consumption, and the spending provisions, notably including aid to state and local governments, did not lead to a noticeable increase in government purchases. Taylor concludes the stimulus failed.
+
+How it got there: First, Taylor calculates the change in personal disposable income caused by the tax provisions of the stimulus, and compares the timing of these changes with changes in consumption. He concludes that there is no meaningful relationship between the changes in disposable income and consumption. Second, he calculates the amount of the stimulus devoted to state and local or federal spending, and concludes the federal spending provisions are too strong to have had a meaningful effect. Third, he compares the timing of increases in state and local aid from the stimulus with the size of state and local government purchases, and concludes there was no meaningful relationship, but that the introduction of the stimulus was associated with declining borrowing by those governments.
+
+Potential Problems:
+
+a) Endogeneity: It is possible that other factors than the stimulus led consumption to increase or decrease over the given time period, which could distort Taylor’s regression of consumption against increases in personal disposable income due to the stimulus. To account for this, he includes oil prices and personal net worth, both of which should have effects on consumption independent of the effect of the stimulus, as control variables. The same problem applies to the state and local purchases regression, as those purchases could rise or fall due to factors independent of the stimulus. Taylor thus includes non-stimulus revenues and states’ budget constraints as control variables, figuring they are unrelated to the size of the stimulus but would have an effect on purchases.
+
+b) Conclusion: Some critics of Taylor, such as Noah Smith, have argued that his results suggest the stimulus was too small, not too large. Taylor’s data shows that not much of the stimulus went to actual government purchases but in doing so suggests that a larger bill or one that more effectively increased such purchases would have been more stimulative.
+
+===
+
+As the descriptions above make clear, none of the studies are flawless. But while the optimistic studies do, in fact, support the conclusion that the stimulus worked, there is some reason to doubt that the pessimistic studies support the conclusion that it failed. Conley and Dupor found a negative effect on employment and output but, as they concede and critics of the study have emphasized, their results are not statistically significant. Taylor found that the stimulus did not increase government purchases significantly but, as Noah Smith argued, this result could be consistent with the stimulus increasing employment and output. Oh and Reis found a small multiplier for tax transfers of the kind found in the stimulus package, but as they concede, their model produces estimates for key figures that are empirically implausible. Using more plausible figures produces a significantly larger multiplier, meaning the package was more effective than the model initially suggested. Due to these issues, I’m inclined to believe that the preponderance of evidence indicates the stimulus worked.

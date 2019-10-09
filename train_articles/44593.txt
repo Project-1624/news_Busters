@@ -1,0 +1,20 @@
+County-Level Vulnerability Assessment for Rapid Dissemination of HIV or HCV Infections Among Persons Who Inject Drugs, United States.
+OBJECTIVE:
+
+A recent HIV outbreak in a rural network of persons who inject drugs (PWID) underscored the intersection of the expanding epidemics of opioid abuse, unsterile injection drug use (IDU), and associated increases in hepatitis C virus (HCV) infections. We sought to identify US communities potentially vulnerable to rapid spread of HIV, if introduced, and new or continuing high rates of HCV infections among PWID.
+
+DESIGN:
+
+We conducted a multistep analysis to identify indicator variables highly associated with IDU. We then used these indicator values to calculate vulnerability scores for each county to identify which were most vulnerable.
+
+METHODS:
+
+We used confirmed cases of acute HCV infection reported to the National Notifiable Disease Surveillance System, 2012-2013, as a proxy outcome for IDU, and 15 county-level indicators available nationally in Poisson regression models to identify indicators associated with higher county acute HCV infection rates. Using these indicators, we calculated composite index scores to rank each county's vulnerability.
+
+RESULTS:
+
+A parsimonious set of 6 indicators were associated with acute HCV infection rates (proxy for IDU): drug-overdose deaths, prescription opioid sales, per capita income, white, non-Hispanic race/ethnicity, unemployment, and buprenorphine prescribing potential by waiver. Based on these indicators, we identified 220 counties in 26 states within the 95th percentile of most vulnerable.
+
+CONCLUSIONS:
+
+Our analysis highlights US counties potentially vulnerable to HIV and HCV infections among PWID in the context of the national opioid epidemic. State and local health departments will need to further explore vulnerability and target interventions to prevent transmission.

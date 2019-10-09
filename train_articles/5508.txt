@@ -1,0 +1,20 @@
+Welcome to Maureen Kennedy's Home Page
+Welcome to my web page! In general my research focuses on developing innovative quantitative tools that improve ecological theory development and environmental decision-making. My current area of research is in fire ecology and forest management. In my teaching I am dedicated to the education of science students and early-career scientists in the practice of scientific research and quantitative scientific methods, as well as improving quantitative literacy for all students. Please use the navigation links above to find information on my current projects and teaching. I describe briefly each section below.
+
+WMFire fire spread model
+
+We are developing a new simulation model of fire spread called WMFire (for Western Mountain Fire) that utilizes probability structures to predict likely paths of fire spread. Model development originated with a simple dynamic percolation model compared to spatio-temporal fire history records (see here) and has progressed to comparison to spatial patterns of contemporary fires and contrasting watershed fire history regimes. The model is being integrated with the Regional Hydro-ecological Simulation System (RHESSys) in a bi-directional coupling between watershed-level eco-hydrological dynamics and fire regimes. Continuing development includes integration of a social science model of decision-making for placement of fuels treatments seri web page. This work has been funded past and present by the Western Mountain Initiative, the US Forest Service Fire and Environmental Research Applications team, and by the National Science Foundation.
+
+Uncertainty in fuels mapping
+
+Fuel loadings are important inputs to various fire behavior, consumption, and emissions models. Currently fuel maps provide a point estimate of fuel loading for different fuel types, usually at 30 m - 1 km resolution, with values based on empirical observation, satellite data, and/or expert opinion. Due to measurement uncertainty and temporal and spatial dynamics of fuel loadings these pixel-wise values are unlikely to be strictly "correct." If you were to go and measure fuels on the ground at a location within that pixel the value you observe is not likely to be the same as the value in the map. We are aggregating multiple sources of empirical fuel loading data to estimate distributions of fuel loading for various vegetation types and using those estimates to quantify uncertainty in fuel loading associated with fuel maps. We are also investigating how uncertainty in fuel loading estimates propagate to uncertainty in model-based predictions of emissions. This project is funded by the Joint Fire Sciences Program .
+
+Fuel treatment efficacy
+
+A fuel reduction treatment, where flammable material is removed from a forested system, is one of the prominent forest management actions to contend with increasing wildfire hazard in the Western US. As wildfires burn through previously treated forest stands we have an opportunity to evaluate how well the fuel treatment meets management goals. This is difficult quantitatively because there are often multiple management goals that may be in conflict, and because fire is a contagious disturbance with a strong spatial autocorrelation structure. This violates the requirements of most standard statistical methods. Often we fall back on finding ways to control for the autocorrelation (e.g., through sub-sampling), rather than mining the information that the autocorrelation structure provides. We are exploring the application of spatially explicit models to improve assessment of fuel treatment efficacy based on measured and remotely-sensed data. This work is funded by the US Forest Service Fire and Environmental Research Applications team.
+
+Teaching at UWT
+
+Maureen also seeks every opportunity to participate in the education of science students and early-career scientists in the practice of scientific research and quantitative scientific methods. She has developed courses in environmenal modeling, data analysis, and model assessment.
+
+Please visit the above links to learn more about these topics or to contact Maureen directly.

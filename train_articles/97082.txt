@@ -1,0 +1,28 @@
+Business Licence
+Data custodian
+
+Community Services Group - Licence Office
+
+Data currency comments
+
+The extract for business licences of the current year is updated daily. The extracts for business licences of prior years are static with the exception of the immediate past 2 years, which are updated monthly.
+
+Data set description
+
+Under Licence By-Law No.4450, a valid business licence is required in order to operate a business in the City of Vancouver. A business licence can be obtained from the City's Licence Office and is valid for the remainder of the calendar year unless stated otherwise. This data set includes business licence records from 1997 to current year.
+
+Data accuracy comments
+
+There may be a very small chance that a licence number has been used twice. Licence RSN is an unique identifier. There may be a very small percentage of City of Vancouver addresses that do not have latitude and longitude information available. There may be a small percentage of businesses issued with a replacement licence in a displayed year due to changes or when business type names were retired during mid-year. Address data of some selected business types was not disclosed to provide privacy protection. Liquor License Application business type does not have Issued Date or Expired Date information because it is interim application for a valid business licence. There may be some loss of quality from data entry errors.
+
+Attributes
+
+Websites for further information
+
+Coordinate system
+
+A portion of the business licences are issued to out of town (outside of City of Vancouver) addresses. Only the business licence that has a City of Vancouver address is projected in latitude and longitude (WGS84).
+
+Data set details
+
+Note

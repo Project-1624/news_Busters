@@ -1,0 +1,34 @@
+A Tale of Two Taxes: Impact Fee and the Severance Tax in Pennsylvania
+Introduction
+
+Pennsylvania is the largest natural gas producing state in the U.S. that does not impose a severance tax on new or current unconventional gas wells. Instead, as of 2012, gas producers pay an annual impact fee. In his 2015-16 budget, Governor Tom Wolf proposed a severance tax on the gas industry that is estimated to yield significant revenues to the state. Though the GOP-controlled legislature has since submitted a budget eliminating all the proposed taxes, the specific details of the governor’s proposal are well worth reviewing. With the governor having vetoed the GOP’s budget, the severance tax stands to be a major point of contention moving forward. The Kleinman Center has prepared this digest explaining the basics of the impact fee and the proposed severance tax to help explore this issue with the public.
+
+The Impact Fee
+
+Act 13 was signed into law by former Governor Corbett with House Bill 1950 on Feb. 14, 2012[1]. The Act authorizes the imposition, collection, and distribution of an impact fee on the development of unconventional natural gas resources.
+
+The impact fee in Act 13 is a set annual fee producers pay for each well ‘spud’— industry term for the commencement of drilling at a well site — during the year. The fee is determined by the Pennsylvania Public Utility Commission (PUC) based on a schedule established in Act 13. The schedule lists the fees to be paid per well for the first 15 years of production and is based on the average price of natural gas on the NYMEX. The schedule can be adjusted to reflect upward changes in the Consumer Price Index provided the total number of spuds in a given year exceeds the number in the prior year[2].
+
+In 2013, gas production companies paid $50,000 for each spud at an average natural gas spot price on the NYMEX of $3.73/million BTUs[3]. Smaller vertical wells were charged only $10,000. Wells which do not produce significant amounts of natural gas (under 90,000 cubic feet/day) are not assessed an impact fee. For 2014-15, the state collected approximately $225 million in impact fees from all active well sites[4].
+
+Each year the PUC establishes the impact fee rate based on the NYMEX natural gas price. The PUC then collects the funds and distributes them to counties, municipalities, and the state. About $20 million is allocated to various state agencies, including the Pennsylvania Utility Commission and the Department of Environmental Protection, to offset the statewide impact of drilling. After this initial allocation, the remaining funds are distributed to the Unconventional Gas Well Fund and the Marcellus Legacy Fund. This breakdown is illustrated in Figure 2:
+
+After the $20 million for state agencies, all revenue from the impact fee is distributed to the two funds for counties and municipalities who host drilling activities. Money from the funds is spent by counties and municipalities for specific environmental mitigation projects and to improve or maintain infrastructure in their jurisdictions as outlined in Act 13.
+
+The Unconventional Gas Well Fund received the largest chunk of the revenues from the impact fee at nearly $123 million in 2014-15. From this total, $5 million is set aside for the Pennsylvania Housing Finance Agency to increase affordable housing for low and moderate-income families in counties or municipalities with unconventional wells as prescribed in Act 13. The rest is allocated to counties with unconventional wells according the fraction of total state wells located in the county. These funds must be used on infrastructure initiatives aimed at reducing the impact of natural gas extraction in those counties, and includes projects such as roadways, bridges, storm water management and sewer systems, as well as emergency preparedness and environmental preservation and reclamation efforts. Counties and municipalities must report these expenditures to the PUC to verify they were used on approved projects.
+
+Finally, the Marcellus Legacy Fund received approximately $82 million in impact fees collected in 2014-15. This funding must be spent according to the categories illustrated in Figure 3 below:
+
+As should be clear from the above funding breakdowns, municipalities and counties have the potential to greatly increase revenues by encouraging well development within their borders. A more detailed description of the funds collected by the PUC, as well as the various allocations of those funds can be found in the Act 13 impact fee report published annually by the PUC.
+
+Severance Tax Proposal
+
+To meet Governor Tom Wolf’s educational goals for the Commonwealth, the governor proposed the Pennsylvania Education Reinvestment Act in his 2015-16 budget. This Act aims to raise $2 billion in revenue for public education by, among other things, imposing a tax on the extraction of natural gas within the Commonwealth[5]. This tax is modeled after the severance tax in neighboring West Virginia which, like Pennsylvania, has seen a recent boom in production of natural gas from unconventional drilling[6]. This severance tax would replace the current impact fee discussed above.
+
+*In calculating the average market price, the DEP will use the weighted average price per thousand cubic feet for all major distribution hubs in Pennsylvania for the three months prior to the quarter the tax will be imposed for.
+
+
+
+**Several different bills have been introduced regarding a severance tax following Governor Wolf’s announcement on March 3, with rates varying depending on the bill from 3.5% with a 3.5 cent production fee to 8% with no production fee. However, SB 116 is the bill intended to be a part of the Governor’s Proposal and thus the one discussed here.
+
+The tax proposal was officially introduced by Senator James Brewster (D) as part of SB 116 and would impose a 5% charge on the average market price* of natural gas extracted in Pennsylvania, plus 4.7 cents per thousand feet of extracted volume.** The minimum natural gas price allowed in calculation of the tax would be $2.97/thousand cubic feet. With both a flat volume fee and a percentage value tax, the severance tax would act in such a way that low gas prices result in a higher effective tax rate on each unit of gas extracted, while high prices will decrease the effective rate. This trend is more clearly shown in Figure 4 below, which demonstrates the effective tax rate as a function of the average market price. When gas prices fall below $2.97/thousand cubic feet, the effective tax rate quickly increases, as producers would be taxed on the basis of a price higher than the actual price they will get on the market.

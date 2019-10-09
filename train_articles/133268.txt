@@ -1,0 +1,170 @@
+Tor missile system
+"SA-15" redirects here. For the class of arctic cargo ships, see SA-15 (ship)
+
+The Tor missile system (Russian: "Тор"; English: torus[1]) is an all-weather low to medium altitude, short-range surface-to-air missile system designed for engaging airplanes, helicopters, cruise missiles, precision guided munitions, unmanned aerial vehicles and short-range ballistic threats (Anti-Munitions). Originally developed by the Soviet Union under the GRAU designation 9K330 Tor, the system is commonly known by its NATO reporting name, SA-15 "Gauntlet". A navalized variant was developed under the name 3K95 "Kinzhal", also known as the SA-N-9 "Gauntlet". Tor was also the first air defence system in the world designed from the start to shoot down precision guided weapons like the AGM-86 ALCM[2] day and night, in bad weather and jamming situations.[3] Tor can detect targets while on the move. The vehicle must stop intermittently when firing,[4][5] although trials are being conducted to eliminate this restriction.[6]
+
+Development [ edit ]
+
+The development of the Tor missile system started on the 4th of February 1975, in response to the directives of the Central Committee of the CPSU. Initiated as a successor to the 9K33 Osa (NATO reporting name SA-8 "Gecko"), development on the land based version was conducted in parallel with a navalized variant of the system (3K95 Kinzhal/SA-N-9 "Gauntlet), to be installed on a number of upcoming ship classes, including the Kirov class battlecruisers,[2] and retrofitted onto older ships. Responsibility for development was given to the Antey design bureau (headed by V.P. Efremov), the missiles designed by MKB Fakel (under P.D. Grushin) and the Altair design bureau (headed by S.A. Fadeyev) was responsible for the development of Kinzhal.[2] All the developers and manufacturers of the Tor missile system unified into Almaz-Antey in 2002.[7]
+
+Characteristics [ edit ]
+
+Description [ edit ]
+
+A 9K332 TLAR with tracking radar covered.
+
+The closest foreign equivalent to the Tor, in function and operation, are systems like the British Rapier missile and French Crotale missile systems, which some consider to have somewhat less performance[8][9][10] than Tor (the other two systems being based on somewhat older equipment). All three systems are mobile and self-propelled, Tor using the 9A330 combat vehicle, which carries a crew of four (one driver, three operators), and acts as an autonomous Transporter, Launcher, And Radar unit, or TLAR (similar to but not a TELAR, as it does not erect the missile to a launch position). The 9A330 is based on the GM-355 chassis manufactured by MMZ, the Tor-M1 using the improved GM-5955.[11] It is equipped with NBC (nuclear, biological and chemical) protection. Like Rapier and Crotale, in addition to the tracked vehicle, there are also static and towed versions of the Tor, as well as a wheeled one. Mobility time is 3 minutes and it can be transported by any transport means (including aerial). The reaction time of the original Tor is 7–8 (standard) / 7–10 (if it is in motion) seconds.[4]
+
+TLAR features [ edit ]
+
+Arranged in a similar fashion to the previous 9K33 Osa and 9K22 Tunguska (Russian: Тунгуска) air defense systems, Tor’s TLAR features a turret with a top mounted target acquisition radar, and frontal tracking radar, with 8 ready to fire missiles stored vertically between the two radars. The target acquisition radar is a F band pulse doppler 3D radar, equipped with a truncated parabolic antenna, and a mechanically, later electronically, scanned in azimuth with a 32 degree sector view,[12] and has an average power output of 1.5 kW, which provides a maximum detection range of 25 km/16 mi. For reference, a McDonnell Douglas F-15 at an altitude of 6 km has a detection probability of 0.8 at this range.[2] The electronic ‘heart’ of the system is a digital fire control system, which allows detection of up to 48 targets and the tracking of ten at any one time, and integrates IFF functionality; the IFF antenna being mounted above the search radar.
+
+Radar [ edit ]
+
+The target engagement radar is a G band/H band (later K band) pulse doppler radar with an (in azimuth) Passive electronically scanned array antenna. The radar is classed as a thinned array (design using fewer elements) incorporating only 570 phase shifters and uses linear polarization.[12] The radar has an average power output of 0.6 kW providing a maximum detection range of 20 km/12 mi. An F-15 type aircraft had a detection probability of 0.8 at this range.[2] Originally Tor could only engage one target at a time, and with only two of its missiles. Later variants of the Tor system (Tor-M1 and M2E) incorporate additional fire control channels, as well as improved fire control computers, allowing the system to engage two (M1) and then four (M2E) targets, whilst simultaneously guiding up to four (M1) and then eight (M2E) missiles. There is also a small antenna on the top of the target engagement radar to communicate with missiles after launch. Together these radars carry the NATO reporting name "Scrum Half". To reduce the dimensions of the vehicle, the target acquisition radar can be folded down horizontally when travelling, and the tracking radar can partially rotate away from vertical. To allow engagements in the ECM heavy environment that is the modern battlefield, the 9K332 is equipped with an optical tracking system, complementing the main radar.
+
+Mobility [ edit ]
+
+As a fully mobile system, the Tor is capable of acquiring and tracking targets while the TLAR is moving. Due, however, to the interference with launch operations while on the move, missiles can be fired only when the system is in a stationary position. Once set up, the reaction time (from target detection to engagement) is described as 5–8 seconds, depending on the variant; however, reaction time is somewhat longer (around 10 seconds) whilst in motion and firing in short halts. To facilitate this mode of operation, an auxiliary power unit (APU) is fitted so that the main engine can be shut down while the radar and missile system continue to operate when stationary, enabling long periods of readiness. The digital computers allowed for a higher degree of automation than any previous Soviet system of its type. Target threat classification is automatic and the system can be operated with little operator input, if desired. The high performance computing system combined with a passive electronically scanned array radar are the main reasons for the system's high degree of accuracy, ability to intercept small, fast and highly maneuverable targets, and the very fast reaction times of the system.
+
+Typical deployment [ edit ]
+
+Typically, a battery of four Tor vehicles is accompanied by the mobile Ranzhir-M (Russian: "Ранжир-М") command center, which provides automatic interaction with the SA-15,8,13,16. It allows for efficient allocation of tasks between the individual Tor-M1 crews and allows each TLAR to be linked into a wider air defense system, thereby increasing target detection range and reducing reaction time.
+
+Tor vehicles are accompanied by the mobile Polyana-D4, which provides automatic interaction with the SA-15,17,19,23 (S-300V, Buk, Tor, Tunguska), (integrates all functions of several different systems into a single whole + various air force aircraft + direct transfer of target designation).[13][14]
+
+Tor-M1 receiving commands from Ranzhir-M / Polyana-D4 can shoot down targets in the range of 0–84 degrees.[4] Tor-M1 system (the time of creating the version, 1991[10]) can operate in a * pair *, then the angle of observation was 0–64 degrees (vertical).[4]
+
+Combat vehicle of antiaircraft Tor missile system provides simultaneous detection of up to 48 targets.[3]
+
+Missiles [ edit ]
+
+The rockets were developed for the interception of small, aggressively maneuvering targets.[3]
+
+Weighing 167 kg (368 lb), the 9M330 missile is 3 m (10 ft) long, carries a 15 kg (33 lb) warhead and has a peak speed of around Mach 2.8. Using command guidance and radar controlled proximity fuzes, the missiles can maneuver at up to 30Gs and engage targets flying at up to Mach 2. Cold launched, the missiles are propelled out of the vehicle before the solid fuel rocket motor fires and the gas-dynamic maneuvering system turns them toward their target. Missiles can also be fired against surface targets. Each missile is a sealed round, stored in two groups of four. Engagement range is up to 12 km (0.8–6.47 nm) with minimum range varying between 1,500–2,000 m (328–5,621 feet), depending upon version and an effective altitude of 10–6,000 m (33–20,000 ft).[17]
+
+A new 9M338 missile has been developed by Almaz Antey offering improved range and precision. Its smaller size also enables the modified Tor-M2 to be equipped with 16 missiles as opposed to the original 8.[15]
+
+Variants [ edit ]
+
+9K330 Tor [ edit ]
+
+The project was given strict design specifications to meet; Tor had to provide extended detection and tracking of fast, low radar cross section targets and be capable of quickly and efficiently dealing with massed air raids, whilst providing a high degree of automation and integration with other air defence assets.[19] In order to meet these demanding specifications, the designers used a variety of new technologies, including advanced Passive electronically scanned array radar for improved detection and tracking performance, enhanced digital information processing, and vertically launched missiles to improve reaction time and increase the number of readily available munitions. After a period of testing and evaluation between December 1983 and December 1984, the land based system was accepted into service on March 19, 1986.[20]
+
+9K331 Tor M1 [ edit ]
+
+"Tor-M1", introduced in 1991 with the 9M331 missile, with greatly improved missile accuracy and the ability to engage two targets simultaneously, minimum range 1.5 km (0.93 mi), minimum height 0,01 km.[21]
+
+Even while the Tor was being introduced into service, work started on improving the system, resulting in an enhanced version, the Tor-M1. Many improvements over the original system were made; these included the addition of a second fire control channel, allowing two targets to be engaged at once; as well as upgrades to the optical tracking system and computer equipment. ECM protection and warhead design were also modified, as was the ammunition handling system.[19] State tests, conducted between March and December 1989,[2] showed that the result was a system which could engage more targets in a shorter time frame with reaction times reduced by over a second and an increased probability of target destruction. The M1 was introduced into service in 1991.[2] Further modifications occurred partly as a response of insight gained from the 1995 NATO bombing in Bosnia and Herzegovina resulting in the Tor-M1-1, or Tor-M1V, which offered improved network connectivity and ECM functions.[2][19] Significantly increased the probability of hitting any target.[4]
+
+In 1993 Tor, in the interference conditions, was able to shoot down small-sized rocket (similar to the much later and static complexes Iron Dome 1 target) at a 100% rate.[22] In comparison, Tor-M2E achieved a 100% rate in 2009,[23] Tor-M2 a 100% rate at 2013 (10 km),[24] and Tor-M2 km a 100% rate at 2014 [25] (Heavy ECM environments. Small-sized and high-speed targets. Simultaneously four).
+
+Tor-M1V has a protection against spoofing
+
+9K332 Tor-M2E [ edit ]
+
+Upgrades have continued over the lifetime of the system, with developer Almaz Antey unveiling the newest incarnation of the Tor missile system, the Tor-M2E,[26] at the MAKS Airshow in 2007.
+
+The latest variant features:
+
+Improved fire control radar coverage, and
+
+Four guidance channels, allowing up to four targets to be engaged simultaneously.
+
+It has protection against spoofing. [27]
+
+The reaction time is around 7 seconds.
+
+System is fully automated.[28]
+
+Ammunition of the Tor-M2 includes 8 missiles 9M331 or 16 missiles 9M338 with increased altitude and range.[29] Tor-M2 missiles have a range of 16 km, maximum altitude of 10 km and maximum speed of 1000 m/s. The system is capable of short-stop firing, which takes 2–3 seconds for the system to go from motion to stationary and firing of the missile.[30][31]
+
+The Tor-M2E is offered in either wheeled or tracked chassis and is equipped with a new digital computer system and all weather optical tracking system.[19] It is currently produced at OJSC Izhevsk Electromechanical plant «Kupol».
+
+"Tor-M2E (9К332МE)" – with a 9А331МE tracked chassis mounting two 9M334 missile modules with four 9М9331 missiles. [32] Crew of 2. The system is fully automated. [33]
+
+Crew of 2. The system is fully automated. "Tor-M2K (9К332МК)" – with a wheeled 9А331МК chassis developed by the Belarusian company «MZKT» mounting two 9M334 missile modules, each with four 9М9331 missiles. [34] [35]
+
+"Tor-М2КМ (9К331МКМ)" – modular design (towed variant weight reduced to 15 tons), to accommodate various types of chassis. 9А331МК-1 TELAR mounting two 9M334 missile modules with four 9M9331 missiles. At MAKS-2013 this was shown on an Indian Tata chassis.[36][37] The affected area expanded to height – 10 km, distance – 15.[38] Crew of 2. Chance to destroy any target 98% as a minimum. Significantly improving penetrating power of fragments of warhead.[39] The system is fully automated.[33] Modules weighing 15 tons are installed on ships of the Russian Navy.[40]
+
+"Tor-M1-2U" entered service at the end of 2012. This system is designed to destroy aircraft, helicopters, UAVs, missiles, and other precision guided weapons, flying at medium, low and very low altitudes in all weather. The system is able to engage four targets simultaneously at a height of up to 10 kilometers. Its crew consists of three people. [41][42] Deliveries are underway.[43] It can hit targets on the move,[44][45] at a speed of up to 25 km/h (includes all the necessary functions for independent fight).[46]
+
+3K95 Kinzhal (Naval Variant) [ edit ]
+
+Admiral Vinogradov. SA-N-9 launcher on the Udaloy class destroyer
+
+The 3K95 "Kinzhal" (Russian: Кинжал – dagger) is the naval version of the Tor missile system developed by Altair and has the NATO reporting name SA-N-9 Gauntlet. Using the same 9M330 missile as the land based version, the system can be mounted on vessels displacing over 800 tonnes and is known to be installed on Admiral Kuznetsov class aircraft carriers, Kirov class multimission cruisers, Udaloy class anti-submarine destroyers and Neustrashimy class frigates. The naval version of the later Tor-M1 is known as the "Yozh" (Russian: Ёж – hedgehog), while the export version of the Kinzhal is known as "Klinok" (Russian: Клинок – blade).
+
+Despite starting testing earlier than its terrestrial counterpart, the naval variant, Kinzhal, had a more protracted development.[2] After an extended testing period using a Project 1124 Grisha class corvette (including the engagement and destruction of four P-5 Pyatyorka (SSC-1a Shaddock) anti-ship missiles in 1986[47]) Kinzhal finally entered service in 1989.
+
+Stored within rotary VLS modules, the missiles are clustered into launchers comprising three to six modules (32 (Neustrashimy), 64 (Udaloy) or 192 (Kuznetsov, Kirov) missiles) and mounted flush to the deck. Each module has up to eight missiles stored ready to fire; during firing the missile is cold launched using a gas catapult before the launcher brings the next round to a firing position.[48]
+
+Frunze. SA-N-9 firing from the Kirov class cruiser
+
+Fire control (FC) is handled by the 3R95 multi-channel FC system, (NATO reporting name Cross Swords), composed of two different radar sets, a G-band target acquisition radar (maximum detection range 45 km/28 mi,[48]) and a K band target engagement radar, (maximum tracking range 15 km/9 mi[citation needed]) that handles the actual prosecution of a target.
+
+Using two top mounted, mechanically scanned, parabolic target acquisition radars, the fire control system provides a 360 degree field of view, as well as IFF. The target engagement radar is a passive electronically scanned array antenna of the reflection type mounted on the front of the fire control system with a 60 degree field of view.[47] Much like its land based sibling, the target engagement radar can track and guide eight missiles on up to four targets at once and is effective to a range of 1.5–12 km and an altitude of 10–6000 m.[48] The system has a reaction time of 8–24 seconds[citation needed], depending on the mode of operation, and is managed by a crew of 13.[48] Additional missile guidance antennae can be seen around the fire control system and the 3K95, like the upgraded Tor launchers, is equipped with a secondary infrared guidance system. The 3R95 can also provide fire control information for the vessels AK-630 close in weapons systems (CIWS) providing a second line of defence should anything penetrate the missile layer.[47]
+
+The Tor-M2KM is a self-contained fighting module version of the system that can be mounted in various locations. In October 2016, it was loaded onto the helipad of the Admiral Grigorovich frigate by means of an ordinary wharf crane and fixed in position with steel chains to fire at simulated cruise missiles while the ship was underway. This could give advanced SAM capabilities to vessels without the capacity to install the larger and heavier Kinzhal system; it can also be mounted on a truck, building roof, or any horizontal surface at least 2.5 m wide and 7.1 m long. The module weighs 15 tons and contains all equipment needed to operate without any external support. It can go from standby to full alert in 3 minutes and acquire 144 air targets while simultaneously tracking the 20 most dangerous ones marked for priority by the two-man crew. The Tor-M2KM's missiles have a range of 15 km.[49]
+
+The system is especially designed to be used for Arctic region at temperatures up to -50 degrees C based on the chassis of the DT-30PM tracked all-terrain vehicle and is capable of detecting over 40 air targets, especially high-precision weapons, and to track and engage up to four of them simultaneously at a range of up to 12 km and altitudes up to 10 km with its 16 missiles even on the move. Its creation was completed in 2018 and the first delivery of 12 systems was held in November of the same year.[50][51][52][53]
+
+JSC Rosoboronexport, part of the Rostec State Corporation, has started promoting the newest Tor-E2 SAM system developed and produced by the Almaz-Antey Air and Space Defense Concern in 2018. Tor-E2 combat vehicle is an independent, mobile, all-terrain fighting unit that provides detection and identification of air targets on the march and at the halt, target lock-on and engagement at the halt, from a short stop and on the move. A battery of the four-channel Tor-E2 SAM systems, consisting of four combat vehicles, can simultaneously engage up to 16 targets flying from any direction at a range of at least 15 km and an altitude of up to 12 km. Each vehicle carries 16 missiles, twice as many as the previous version of the Tor system. In addition, the two Tor-E2 combat vehicles can operate in the “link” mode, which enables them to exchange information about the air situation at different altitude ranges and coordinate joint engagement operations. In this mode, one of the combat vehicles, acting from an ambush, receives information from the other one and does not reveal itself until the launch of the missile. A command post can be attached to a battery of four Tor-E2 combat vehicles to control and coordinate the Tor combat vehicles and interact with the customer’s air defense control system.[54]
+
+The HQ-17 (Hongqi-17) is China's reported variant of the Tor-M1 system.
+
+In 1996, China ordered 14 Tor-M1 missile systems from Russia which were delivered under contract in 1997. In 1999, another contract for 13 Tor-M1 systems was signed between Russia and China. Delivery of the systems took place in 2000.[55]
+
+The HQ-17 is a Chinese development of the Tor-M1 system with multiple improvements. Unlike the Tor system, the HQ-17 incorporates an IFF array on top of an electronically scanned array radar, modernized electronics, a new all-terrain launcher, and the ability to datalink with other Chinese systems.[56]
+
+FM-2000 is a mobile short-range air-defence (SHORAD) system unveiled by China Aerospace Science and Industry Corporation at the 2018 Zhuhai Airshow. Its range is 15 km and engagement altitude is 10 km. It is carried on a 3 axle TEL.[57] It is a version of the HQ-17.[58]
+
+Combat history [ edit ]
+
+In a press conference regarding the 2008 South Ossetia War, Russian defence ministry spokesperson Anatoliy Nogovitsyn speculated about the use of the Tor missile system by Georgian Armed Forces against attacking Russian aircraft. The system suggested as a possible cause of the loss of a Tu-22MR strategic bomber, shot down by Georgian air-defences while on a reconnaissance mission during the conflict.[59] While the loss of the bomber has also been attributed to Buk-M1, which Georgia obtained from Ukraine in 2007,[60] if the loss can be attributed to Tor it would be the first time the (as yet unproven) system has seen combat use.
+
+Russia’s Armed Forces stepped up their combat abilities in the area using the latest anti-missile system ‘Tor-M2U’ in the Kuril Islands, Rossiyskaya Gazeta reported on 24 September 2015. Prior to this, for the past six months the soldiers and officers had used the air defence system in experimental mode.[61]
+
+Russia deployed Tor-M2 at Khmeimim (air base) in Syria.[62]
+
+Operators [ edit ]
+
+Map of 3K95 operators in blue with former operators in red
+
+Current operators [ edit ]
+
+Algeria - Tor M2E, deliveries in 2018 [63]
+
+Algeria - Tor M2E, deliveries in 2018 Azerbaijan – Several batteries of Tor-M2E. [64]
+
+Azerbaijan – Several batteries of Tor-M2E. Armenia
+
+Armenia Belarus – 2 batteries (4 vehicles each) delivered as of January 10, 2013. Third battery delivered in 2013. [65] [66] [67] +5 Tor-M2K ordered in 2016 and delivered in 2018. [68] [69] Additional systems were delivered and ordered in 2016 and 2017. [70] 5 batteries of Tor-M2EK as of late 2018. [71]
+
+Belarus – 2 batteries (4 vehicles each) delivered as of January 10, 2013. Third battery delivered in 2013. +5 Tor-M2K ordered in 2016 and delivered in 2018. Additional systems were delivered and ordered in 2016 and 2017. 5 batteries of Tor-M2EK as of late 2018. China – 35. [72] 60 9К331 «Tor-M1» in 2013. [73] Superseded by the HQ-17.
+
+China – 35. 60 9К331 «Tor-M1» in 2013. Superseded by the HQ-17. Cyprus – 6 [72]
+
+Cyprus – 6 Egypt – 16 M1s [74] [75] + at least one M2s in service [76]
+
+Egypt – 16 M1s + at least one M2s in service Greece – 21 systems, 84 CVS [17] [72]
+
+Greece – 21 systems, 84 CVS Iran – 29 [77]
+
+Iran – 29 Peru [78] [79]
+
+Peru Russia – 172 [80] + 8 Battalions of Tor M2U (M1-2U) ( 4 launchers in each ). [81] 116 Tor-M1-2Us and M2s were delivered in 2012-2017. [82]
+
+Russia – 172 + 8 Battalions of Tor M2U (M1-2U) ( 4 launchers in each ). 116 Tor-M1-2Us and M2s were delivered in 2012-2017. Ukraine – 6 spotted at 2018 Independence Day Parade [83]
+
+Ukraine – 6 spotted at 2018 Independence Day Parade Venezuela – 12 in 2012, [84] later +26 on order [85] [86]
+
+Venezuela – 12 in 2012, later +26 on order Yemen – 12 [87] [88] [89]
+
+Yemen – 12 Morocco – + (media) [90]
+
+Morocco – + (media) Syria [91][92]
+
+Former operators [ edit ]
+
+See also [ edit ]

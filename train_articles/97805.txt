@@ -1,0 +1,54 @@
+Does it even matter if we are in a statutory recession?
+Update, Sept. 1 from the Canadian Press: Canada’s economy recoiled for the second-straight quarter of 2015 — knocking the country backwards into a technical definition of recession, fresh Statistics Canada data revealed Tuesday. The federal agency said real gross domestic product contracted at an annual pace of 0.5 per cent in the second quarter of the year, which followed a revised decline of 0.8 per cent during the first three months of 2015.
+
+This post was first published Aug. 28 at Canadian Business.
+
+There are two different definitions of a recession. One, used by the U.S. National Bureau of Economic Research (NBER), considers a range of economic indicators. The other definition, commonly known as a “technical recession,” is simply defined as two consecutive quarters of negative real GDP growth. “Technical recession” is a little misleading, since (arguably) the method used by NBER is far more technical in nature. I prefer the term “statutory recession” coined by the Parliamentary Budget Office’s Scott Cameron in reference to the fact that the Federal Balanced Budget Act (i.e., the statute) defines a recession as “a period of at least two consecutive quarters of negative growth in real gross domestic product.” Contrast this to the NBER approach, which I playfully call a “pornographic recession,” because the method lacks clear boundaries and brings to mind U.S. Supreme Court Justice Potter Stewart’s definition of pornography: “I know it when I see it.”
+
+Real GDP growth was negative in the first quarter of 2015; on Tuesday, we will find out if it was negative in the second quarter, as well, (editor’s note: it was — see above) which would give us the two quarters we need to declare a statutory recession. That sounds simple enough, but the reality of identifying a recession is far more complex.
+
+Does it even matter if we are in a statutory recession?
+
+Yes and no.
+
+On the one hand, it matters little if the economy grows by a tenth of a percent in the second quarter or shrinks by a tenth of a percent. Regardless of which side of the line we end up on, the economy was quite weak.
+
+On the other hand, expectations are important in economics, and self-fulfilling prophecies are common. (For example, if market participants suddenly believe the price of a stock will rise, many of them will rush out to buy the stock, causing the price to rise.) If Canadians hear we are in a statutory recession, they may reduce their spending, because they fear their jobs are in jeopardy. Such a reduction in consumer spending caused by economic anxiety would, if the effect were large enough, cause economic decline.
+
+Is a statutory recession inevitable?
+
+No. Far from it, in fact. There are a number of ways that Tuesday’s release could fail to show two consecutive quarters of declining real GDP. First, however, an examination of the data is in order.
+
+The commonly cited quarterly GDP data come from CANSIM Table 380-0064, which measures real GDP by expenditure. Here are the last five values for “Gross domestic product at market prices, chained (2007) dollars,” measured in trillions of annualized dollars.
+
+In order to avoid a recession, real GDP in Q2, by this measure, must be at or above $1.762 trillion (or, more specifically, at or above $1,762,406,000,000).
+
+The most commonly cited monthly GDP data comes from CANSIM Table 379-0031, which measures real GDP by industry (NAICS). By this measure, annualized real GDP (in trillions of dollars) has fallen in six of the last seven months:
+
+The average value in the first quarter by this measure was $1.650 trillion. For the average value in the second quarter to exceed this, real GDP would have to grow by more than 1 per cent (non-annualized) from May to June. That has happened exactly twice in the 220 months since April 1997, in July 1997 and September 2003. Based on this calculation, then, a recession would appear to be all but a foregone conclusion.
+
+Eagle-eyed readers will note that the monthly data do not match the quarterly data. That’s because the monthly series examines real GDP by industry, while the quarterly measure is real GDP by expenditure. Not surprisingly, both the levels and growth rates of these two measures can (and do) differ:
+
+Annualized quarterly GDP growth rates
+
+It’s entirely possible that second-quarter GDP growth could be negative, based on the monthly real GDP by industry data, but positive based on the quarterly real GDP by expenditure series. So, very weak monthly GDP data does not necessarily mean quarterly GDP data will be negative.
+
+Revising our way out of recession
+
+Real GDP data are never “set it and forget it.” The data are continually revised, as more information becomes available: The May 2015 monthly GDP release revised past data stretching as far back as January 2014, while the 2015 Q1 GDP release contained revisions for each of the four quarters in 2014. So we should expect revisions to both quarterly and monthly data on Sept. 2.
+
+There are at least three ways a revision could take us out of a statutory recession:
+
+If the fourth quarter of 2014 is revised significantly downward, GDP will have grown between Q4 2014 and Q1 2015. Result: No statutory recession.
+
+If the first quarter of 2015 is revised significantly upward, GDP will have grown between Q4 2014 and Q1 2015. Result: No statutory recession.
+
+If the first quarter of 2015 is revised significantly downward, a modest second quarter of 2015 will show growth between Q1 2015 and Q2 2015. Result: No statutory recession.
+
+But Tuesday won’t resolve anything
+
+Sadly, the debate over whether or not there was a recession in 2015 will not end on Tuesday. Beyond the debate over the proper definition of a recession, we cannot be absolutely certain that a statutory recession has, or has not, taken place. Future revisions to GDP data could mean that, six or 12 months from now, we are revised into or out of a recession.
+
+Expect the recession dispute of 2015 to continue for some time.
+
+Mike Moffatt is an assistant professor in the Business, Economics and Public Policy group at the Ivey Business School. He has worked with Canadian politicians and policymakers of all political stripes to craft more effective public policy, including his most recent role as an outside economic adviser to Liberal Leader Justin Trudeau. Follow @MikePMoffatt on Twitter.

@@ -1,0 +1,88 @@
+About the National Health Interview Survey
+Download to read our NHIS English pdf icon[PDF – 330 KB] or Spanish pdf icon[PDF – 2 MB] brochure
+
+NHIS Fact Sheet
+
+2019 Questionnaire Redesign
+
+The National Health Interview Survey (NHIS) is the principal source of information on the health of the civilian noninstitutionalized population of the United States and is one of the major data collection programs of the National Center for Health Statistics (NCHS) which is part of the Centers for Disease Control and Prevention (CDC). The National Health Survey Act of 1956 provided for a continuing survey and special studies to secure accurate and current statistical information on the amount, distribution, and effects of illness and disability in the United States and the services rendered for or because of such conditions. The survey referred to in the Act, now called the National Health Interview Survey, was initiated in July 1957. Since 1960, the survey has been conducted by NCHS, which was formed when the National Health Survey and the National Vital Statistics Division were combined.
+
+NHIS data are used widely throughout the Department of Health and Human Services (DHHS) to monitor trends in illness and disability and to track progress toward achieving national health objectives. The data are also used by the public health research community for epidemiologic and policy analysis of such timely issues as characterizing those with various health problems, determining barriers to accessing and using appropriate health care, and evaluating Federal health programs.
+
+The NHIS also has a central role in the ongoing integration of household surveys in DHHS. The designs of two major DHHS national household surveys have been or are linked to the NHIS. The National Survey of Family Growth used the NHIS sampling frame in its first five cycles and the Medical Expenditure Panel Survey currently uses half of the NHIS sampling frame. Other linkage includes linking NHIS data to death certificates in the National Death Index (NDI).
+
+While the NHIS has been conducted continuously since 1957, the content of the survey has been updated about every 10-15 years. In 1996, a substantially revised NHIS questionnaire began field testing. This revised questionnaire, described in detail below, was implemented in 1997 and has improved the ability of the NHIS to provide important health information.
+
+Purpose and Scope
+
+The main objective of the NHIS is to monitor the health of the United States population through the collection and analysis of data on a broad range of health topics. A major strength of this survey lies in the ability to display these health characteristics by many demographic and socioeconomic characteristics.
+
+The NHIS covers the civilian noninstitutionalized population residing in the United States at the time of the interview. Because of technical and logistical problems, several segments of the population are not included in the sample or in the estimates from the survey. Examples of persons excluded are patients in long-term care facilities; persons on active duty with the Armed Forces (though their dependents are included); persons incarcerated in the prison system; and U.S. nationals living in foreign countries.
+
+Sample Design
+
+The National Health Interview Survey is a cross-sectional household interview survey. Sampling and interviewing are continuous throughout each year. The sampling plan follows an area probability design that permits the representative sampling of households and noninstitutional group quarters (e.g., college dormitories). The sampling plan is redesigned after every decennial census. The current sampling plan was implemented in 2016. Clusters of addresses were defined within each state; the sizes of the clusters correspond generally to the size of an interviewer’s workload over the course of the sample design period. Each cluster is located entirely within a county, a small group of contiguous counties, or a metropolitan statistical area. The current sampling plan is a sample of these clusters of addresses.
+
+The current NHIS sample design is not oversampling any race/ethnicity groups at the household level. For the sample adult selection stage, persons aged 65 or older who are black, Hispanic, or Asian have a higher chance to be selected than other adults in the family. This was an oversampling feature of the previous sample design that has continued in the current sample design through the end of 2018.
+
+As with the previous two sample designs, the NHIS sample is drawn from each state and the District of Columbia. Although the NHIS sample is too small to provide state-level data with acceptable precision for each state, selected estimates for most states may be obtained by combining data years.
+
+In the previous three sample designs, most of the sample addresses came from lists that were created by field listing operations. In the current sample design, field listing is being done on a limited basis, only in select areas. The main source of sample addresses is a commercial address list that is updated periodically.
+
+There was a separate sampling mechanism for college dormitories for 2016 and 2017. This mechanism was discontinued in 2018 due to low response rates. Changes were made in the survey questionnaire for 2018 to ask if there are any people who usually live at the sampled address but are currently living away at school in on-campus housing; if so, household respondents are asked to include them in the household roster for their “home” address, e.g., parents’ home.
+
+The total NHIS sample is subdivided into four separate panels, or subdesigns, such that each panel is a representative sample of the U.S. population. This design feature has a number of advantages, including flexibility for the total sample size. With four sample panels and no sample cuts or augmentations, the expected NHIS sample size (completed interviews) is approximately 35,000 households containing about 87,500 persons.
+
+Survey participation is voluntary and the confidentiality of responses is assured under Section 308(d) of the Public Health Service Act. More information on how privacy is respected is available in this Act. The annual response rate of NHIS is approximately 70 percent of the eligible households in the sample.
+
+Content of the Questionnaire
+
+The NHIS questionnaire that was used from 1982-1996 consisted of two parts: (1) a set of basic health and demographic items (known as the Core questionnaire), and (2) one or more sets of questions on current health topics. The Core questionnaire remained the same over that time period while the current health topics changed depending on data needs. The Core questionnaire, while collecting useful data on health conditions and utilization, did not collect any information on insurance, access to health care, or health behaviors. In addition, much of the interview time in the Core questionnaire was devoted to collecting detailed information on events such as doctor visits and hospitalizations rather than on information that would better characterize the individual. The 1997 revision of the NHIS questionnaire has attempted to address these and other shortcomings.
+
+The revised NHIS questionnaire, implemented since 1997, has Core questions and Supplements. The Core questions remain largely unchanged from year to year and allow for trends analysis and for data from more than one year to be pooled to increase sample size for analytic purposes. The Core contains four major components: Household, Family, Sample Adult, and Sample Child.
+
+The Household component collects limited demographic information on all of the individuals living in a particular house. The Family component verifies and collects additional demographic information on each member from each family in the house and collects data on topics including health status and limitations, injuries, healthcare access and utilization, health insurance, and income and assets. The Family Core component allows the NHIS to serve as a sampling frame for additional integrated surveys as needed.
+
+From each family in the NHIS, one sample adult and one sample child (if any children are present) are randomly selected and information on each is collected with the Sample Adult Core and the Sample Child Core questionnaires. Because some health issues are different for children and adults, these two questionnaires differ in some items but both collect basic information on health status, health care services, and health behaviors.
+
+In the previous sample design, all eligible adults in a family had the same chance of being selected as the sample adult. A new feature of the current sample design is that adults aged 65+ who are black, Hispanic, or Asian have an increased chance of being selected as the sample adult, relative to adults aged under 65 and adults aged 65+ who are not black, Hispanic, or Asian.
+
+The Supplements are used to respond to new public health data needs as they arise. As with previous NHIS supplements, the questionnaires are sometimes fielded only once or are repeated as needed. These questionnaires may be used to provide additional detail on a subject already covered in the Core or on a different topic not covered in other parts of the NHIS. The first Supplement from the current questionnaire design was fielded in 1998 and focused on data needed to track the Healthy People 2000 and 2010 objectives. Other topics covered in Supplements are Cancer Screening, Complementary and Alternative Medicine, Children’s Mental Health, and Healthcare Utilization. Inclusion of future Supplements is dependent on Departmental data needs and priorities.
+
+Data Collection Procedures
+
+Data are collected through a personal household interview conducted by interviewers employed and trained by the U.S. Census Bureau according to procedures specified by the NCHS.
+
+For the Family Core component, all adult members of the household 17 years of age and over who are at home at the time of the interview are invited to participate and to respond for themselves. Beginning in 1997 data were collected for active duty military personnel provided there is one civilian in the family, however, these persons are not weighted for analytic purposes. For children and for adults not at home during the interview, information can be provided by a responsible adult family member, 18 years of age and over, residing in the household. For the Sample Adult questionnaire, one civilian adult per family is randomly selected; generally this individual must self-report responses to questions in this section. Information for the Sample Child questionnaire is obtained from a knowledgeable adult in the household, usually a parent.
+
+The Census Bureau, under a contractual agreement, is the data collection agent for the NHIS. Nationally, the NHIS uses about 600 interviewers, trained and directed by health survey supervisors in each of the 6 Census Bureau Regional Offices. The supervisors are career Civil Service employees and the interviewers are part-time employees, selected through an examination and testing process. Interviewers receive thorough training in basic interviewing procedures and in the concepts and procedures unique to the NHIS.
+
+The revised NHIS questionnaire fielded since 1997 uses a computer assisted personal interviewing (CAPI) mode. The CAPI version of the NHIS questionnaire is administered using a laptop computer and interviewers enter responses directly into the computer during the interview. This computerized mode offers distinct advantages in terms of timeliness of the data and improved data quality.
+
+For publications and information:
+
+Information Dissemination Staff
+
+National Center for Health Statistics
+
+Centers for Disease Control and Prevention
+
+3311 Toledo Road
+
+Hyattsville, Maryland 20782-2003
+
+(800) 232-4636
+
+For program assistance:
+
+Division of Health Interview Statistics
+
+National Center for Health Statistics
+
+Centers for Disease Control and Prevention
+
+3311 Toledo Road, Room 2217
+
+Hyattsville, Maryland 20782-2003
+
+(301) 458-4901

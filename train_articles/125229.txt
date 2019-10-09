@@ -1,0 +1,22 @@
+CDC Issues Report on Deadly ‘Superbug’ Resistant to 26 Different Antibiotics
+On 13 January 2017, the Centers for Disease Control and Prevention issued a report on the case of a 70-year-old Nevada woman who died in September 2016 after developing a bacterial infection that was resistant to 26 different antibiotics:
+
+On August 25, 2016, the Washoe County Health District in Reno, Nevada, was notified of a patient at an acute care hospital with carbapenem-resistant Enterobacteriaceae (CRE) that was resistant to all available antimicrobial drugs. The specific CRE, Klebsiella pneumoniae, was isolated from a wound specimen which was collected on August 19, 2016. […] Antimicrobial susceptibility testing in the United States indicated that the isolate was resistant to 26 antibiotics, including all aminoglycosides and polymyxins tested, and intermediately resistant to tigecycline (a tetracycline derivative developed in response to emerging antibiotic resistance).
+
+The new report highlights the mechanism by which this strain of bacteria — Klebsiella pneumoniae — developed resistance. This specific strain was classified as carbapenem-resistant, meaning that it is unaffected by a group of drugs (carbapenem antibiotics are typically a last line of defense) that work by destroying the proteins of a bacteria responsible for creating cell walls. Some bacteria, often referred to as “superbugs”, produce enzymes that inhibit the ability of carbapenems to damage bacterial cells. According to a 2014 review in PLOS ONE:
+
+Multidrug-resistant Enterobacteriaceae are emerging as a serious infectious disease challenge. These strains can accumulate many antibiotic resistance genes through horizontal transfer of genetic elements, those for β-lactamases being of particular concern. Some β-lactamases are active on a broad spectrum of β-lactams, including the last-resort carbapenems. The gene for the broad-spectrum and carbapenem-active metallo-β-lactamase NDM-1 is rapidly spreading.
+
+New Delhi metallo-beta-lactamase (NDM-1) is the mechanism by which many (but not all) carbapenem drugs develop resistance. This compound hydrolyzes and breaks apart the active agent in carbapenem antibiotic and is generally produced by a unique genetic sequence (blaNDM-1) that is capable, unfortunately, of being transferred between different bacterial strains. The CDC reported that a sample of the strain involved in the Nevada incident revealed the presence of NDM:
+
+The isolate was sent to CDC for testing to determine the mechanism of antimicrobial resistance which confirmed the presence of New Delhi metallo-beta-lactamase (NDM). […]
+
+According to the PLOS ONE review, bacteria found to be producing NDM-1 are on the rise:
+
+A more recent concern is the carbapenem-active metallo-β-lactamase NDM-1 which was first identified in a K. pneumoniae isolate from 2008. […] The recent spread of blaNDM-1, both, among different species and across a large geographic area has been remarkable and well documented.
+
+While alarming, the CDC notes that many carbapenem-resistant strains analyzed in their surveillance programs are usually susceptible to some antibiotic treatment:
+
+Although CRE [carbapenem-resistant Enterobacteriaceae] are commonly sent to CDC as part of surveillance programs or for reference testing, isolates that are resistant to all antimicrobials are very uncommon. Among >250 CRE isolate reports collected as part of the Emerging Infections Program, approximately 80% remained susceptible to at least one aminoglycoside and nearly 90% were susceptible to tigecycline.
+
+That does not mean that this is not an area of great concern. There are a variety of active research programs looking into ways to treat the emerging threat of carbapenem-resistant infections.

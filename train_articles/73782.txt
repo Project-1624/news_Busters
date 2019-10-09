@@ -1,0 +1,48 @@
+Hot Topic: How Big Is the Too-Big-to-Fail Subsidy? :: :: Summer 2012 :: 07.11.2012 :: Federal Reserve Bank of Cleveland
+James Thomson is a former vice president and financial economist in the Research Department of the Federal Reserve Bank of Cleveland. He retired in February 2013.
+
+
+
+Summer 2012
+
+Hot Topic: How Big Is the Too-Big-to-Fail Subsidy?
+
+Forefront talks to the Cleveland Fed's James Thomson, vice president and financial economist.
+
+Forefront: Critics of too-big-to-fail financial institutions often argue that the government is essentially giving those institutions a subsidy. If true, can this implicit subsidy be considered an expenditure of taxpayer dollars, money that could be used for something else?
+
+Thomson: If the government is giving someone something of value, this is the same thing as an expenditure. In the case of too-big-to-fail (TBTF), the government is providing an option to the stakeholders of TBTF firms to assist them in times of trouble, and doing so free of charge. Private entities (such as insurance companies and hedge funds) would charge a fair value for such options. By not doing so, the government is forgoing revenues that could be used for other purposes. So yes, the implicit subsidy (or any subsidy) is equivalent to a tax expenditure—like investment tax credits, fair housing credits, and so on.
+
+Forefront: Of course, size is only one consideration with systemically important institutions. You’ve written in the past about other features —contagion, correlation, complexity, and concentration. Is shrinking these institutions the overarching goal of a policy that would make them cover their implicit subsidy?
+
+Thomson: Yes, the point of my paper is that size alone does not determine whether a financial company is systemically important (or TBTF)—it’s much more complex than that. Charging financial companies a fee that equates to the fair value of the TBTF subsidy should result in smaller and less risky firms. Moreover, charging TBTF firms the cost of the subsidy would internalize the costs of externalities (the spillover effects) associated with their decisions. This should produce less risky financial companies and reduce their systemic impact.
+
+Forefront: If you’re a depositor at one of these TBTF banks, you are protected from losses. So why does that matter if we’re talking about insured institutions? Or, in economic terms, through which channels is the TBTF subsidy showing up?
+
+Thomson: There is an extensive literature on federal deposit guarantees and the subsidy associated with them. When we discuss the problem of TBTF, the problem becomes one of subsidies associated with implicit and explicit deposit guarantees. The subsidy associated with explicit deposit guarantees is not specific to the size of an institution—it’s simply the difference between their value and the deposit insurance premium. The implicit deposit insurance subsidy is essentially the TBTF subsidy. This occurs when financial system supervisors don’t close a bank that is insolvent and impose losses on uninsured depositors and other creditors. It can also happen when supervisors handle the bank failure in a way that extends protection to all liabilities. TBTF institutions boost the value of these subsidies by increasing the risk they incur in the course of seeking returns on their investments.
+
+Forefront: OK, so how big is the subsidy? Can you put a number to it?
+
+Thomson: We don't have a number that economists would agree on. But some academics are actively working on measuring the subsidy. Three economists at New York University [Professors Viral Acharya, Robert Engle, and Matthew Richardson] are working on measuring the subsidy by trying to calculate the costs that systemically important companies impose on the financial system. This is one of the more promising approaches, and one way to get at the subsidy.
+
+Ed Kane [Boston College] and some of his coauthors are trying to measure the TBTF subsidy using an option-pricing approach. They are trying to measure the subsidy by valuing the taxpayer “put”—the value associated with being able to put the losses onto taxpayers. In a sense, the same kind of work is underway at various regulatory agencies, at central banks, and at the Bank for International Settlements in the design and calibration of the Basel III international capital standards. There is a capital surcharge for systemic risk—an indirect way of pricing it. Calibrating the capital surcharge implicitly requires measuring the TBTF subsidy.
+
+Also, conceptually, the stock market value of a systemically important financial company should price the stream of TBTF subsidies—something Ed Kane would call “government-contributed capital.” So we would need a model that could separate out the government-contributed capital from the franchise value of the firm.
+
+Forefront: Economists don't agree, but is there a ballpark figure?
+
+Thomson: Using some numbers on the annual systemic risk premium, you can get a number in excess of $45 billion. If you assume that the value of the TBTF subsidy is the capitalized value of the annual systemic risk premium, then you get numbers between $450 billion and $900 billion. But these are just back-of-the-envelope estimates.
+
+Forefront: And I take it that getting a more precise number is important because that’s the amount regulators can then properly price as the capital surcharge. This might provide the government’s budget some protection. On the other hand, have you or others thought about what might happen to these institutions if we were able to start charging them accurately to offset their subsidy?
+
+Thomson: If institutions were to be charged a premium for the full value of their estimated implicit TBTF guarantee, then I suspect they would respond by shrinking and becoming less complex to some extent (at least the very largest and most complex). How much is the question.
+
+Forefront: If institutions do respond in these ways, would you say that the main reason these institutions grew to such large size and complexity in the first place was to capture the benefits of the subsidy?
+
+Thomson: Well, it would be consistent with that reason, but you could also say that the existence of the implicit subsidy enabled these companies to become larger and more complex than otherwise would have been the case.
+
+Forefront: Is it fair to say that even if we can put a number on the implicit subsidy, the ultimate costs imposed on the rest of us are a lot larger?
+
+Thomson: In a recent paper, a couple of Federal Deposit Insurance Corporation economists claim to have measured the TBTF subsidy. They find it is on the order of 20 basis points in terms of lower funding costs. But yes, there are externalities associated with the TBTF subsidy that impose costs on the rest of us. So TBTF institutions respond to the subsidy by increasing their risk through either engaging in riskier activities or increasing their leverage. While these actions may be privately optimal, the response to the TBTF subsidy is not socially optimal, as it can pose huge risks to the financial system. That’s why the ultimate social costs of the subsidy are much larger than the 20-basis-point private benefit that some have found.
+
+Have a question for one of our experts? Send suggestions for the next Hot Topic to forefront@clev.frb.org.

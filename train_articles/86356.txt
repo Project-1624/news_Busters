@@ -1,0 +1,83 @@
+As Congress Repeals Internet Privacy Rules, Putting Your Options In Perspective
+
+Enlarge this image toggle caption Stefan Zaklin/Getty Images Stefan Zaklin/Getty Images
+
+President Trump is expected to sign into law a decision by Congress to overturn new privacy rules for Internet service providers.
+
+Passed by the Federal Communications Commission in October, the rules never went into effect. If they had, it would have given consumers more control over how ISPs use the data they collect. Most notably, the rules would have required explicit consent from consumers if sensitive data — like financial or health information, or browsing history — were to be shared or sold.
+
+These rules wouldn't have applied to the likes of Google or Facebook — massive data collectors and digital advertisers — and that has been a major point of contention for ISPs. But consumer groups argue that's no reason to roll back restrictions on Internet providers. Plus, they point out, you could abandon those companies in favor of other websites, if you disagree with their policies; switching Internet providers is not so easy.
+
+ISPs have long attempted to break into the ad-targeting and online marketing world, where the competition is intense. For context on what that market looks like, I turned to Jules Polonetsky, privacy expert and CEO of the Future of Privacy Forum, a nonprofit organization promoting responsible data collection.
+
+Below are excerpts of the interview, edited for clarity and length.
+
+Interview Highlights
+
+On what's going on and what changes
+
+For the average consumer, just about every site they visit online is sharing data with other ad networks, with other third parties, for the purpose of either measuring or targeting ads. ... Even most privacy organizations end up using Google Analytics or some other basic tools. ...
+
+How To Protect Your Privacy Jules Polonetsky, privacy expert and CEO of the Future of Privacy Forum, offers some suggestions, though he says they won't deliver absolute privacy. Use a virtual private network (VPN).
+
+Look for emails from your Internet service provider allowing you to opt out of ad-targeting programs.
+
+Turn on your browser's do-not-track feature.
+
+Clear or reset the ad ID on your smartphone.
+
+Turn off location-based ads on your iPhone.
+
+For better or worse, the predominant business model online has become ad-supported. ... So for the average user, the experience isn't likely to change one way or another — today they see ads targeted based on their activity; tomorrow they'll see ads based on their activity.
+
+Now, what choices people have maybe has gotten a little bit more complicated. ... ISPs have historically played a very small role in (the ad targeting) market for a range of reasons. The most interesting and valuable data is search, social media data — and that is typically only available to the big portals that have that data. The ISPs don't have it if it's encrypted.
+
+... The big challenge for big advertisers is that their audience is dispersed across laptop, and mobile, and tablet, and TV and elsewhere. And linking that user's identity is a challenge. ... And this is a place where ISPs are able to play a role. ... They now have something to offer — cross-device capabilities — that others can do, but others have to do it differently. ...
+
+On existing opt-out options
+
+The ad networks of the world offer an opt-out of ad targeting today. If there's a triangle "i" on your banner ad, that means that that company is tailoring ads based on your Web surfing and is offering you an opt-out.
+
+Mobile devices offer a bunch of options to allow or not allow information about apps to be used. My iPhone lets me clear my ad ID if I don't want apps to be able to track me or work with their ad network partners to track me. ... Apps don't support cookies, but the ad ID supplied by the operating system — Apple now lets you wipe that out, Google lets you reset it. So that's a pretty effective opt-out system for apps at least. Use of location, similarly.
+
+On ISPs' argument that Google, Facebook, et al. are collecting more data and yet have less stringent regulation
+
+For better or worse, online data has been democratized and there are third-party ad exchanges where anybody can show up and have access to a big swath of your Web surfing.
+
+The BlueKai Bluebook, which is provided to potential advertisers, has 80 sources of data where Oracle's BlueKai data exchange has linked together data from Web surfing, from offline purchases, from all sorts of providers who have pulled data about you that they have online. ...
+
+So I've kind of looked at some of this debate with a bit of bemusement because I see the activity in these third-party data markets and that horse is out of that barn. I think for consumers who a more privacy-protective experience, there are a number of options, none of them are perfect — other than, perhaps using a VPN, which may not be easy for everyone to use. ...
+
+The good news is that an increasing amount of the activity online is encrypted, due to lots of advocacy. ... Increasingly, much of what you do is shielded from third parties because of encryption in place.
+
+The ISPs typically — in their efforts to use this data even before this (FCC) rule — have been providing consumers with ISP-level opt-outs. ... People should look for emails — typically they do push out an announcement when they roll out an ad-targeting program.
+
+On the regulatory oversight of privacy
+
+The FTC has generally been the lead privacy enforcer, and I think has been very aggressive at doing so. If you look at the recent Vizio case, they were able to take very strong action against sharing of your viewing history. ...
+
+At the end of the day, the willingness of the FCC and the FTC to use their authority effectively is what will determine whether the consumers are protected. The FCC (has in the past) used even its high-level authority very aggressively, and the FTC certainly historically has. We obviously don't know exactly how the new chairs will. ...
+
+On how ISPs' data collection compares to that of Google, Facebook and others
+
+The ad networks of the world typically share, swap and trade data via various exchanges. Google and Facebook have policies that to some degree use your data for ad targeting, but may limit the further use of it. For instance, Facebook does not want your Facebook data being shared — they'd like advertisers to come to Facebook to (place) ads on Facebook.
+
+That may be a nuance because ... to a consumer, data being used to tailor their experience is probably what makes a difference — whether it's being sold or used in a way that tracks and targets them.
+
+So the implementations that we see in the market of ISPs have focused on allowing the ISP to help ad network partners to do a better job of recognizing users. ...
+
+I think at the end of the day, for consumers, it ends up being parsing hairs. So the question is ... do the sites I visit get information that allows ads to be targeted based on other information about me? And that information isn't just Web browsing — a big part of ad-targeting today involves pinging on offline data, my actual purchases at a supermarket, my actual transactions. ...
+
+So what the advertisers are often looking to do is to work with partners who are able to put them and their offers in front of the users they want to reach. Sometimes, that's "here's the Web browsing history," which they can get from an exchange, or they can get by going on one of the big portals, or presumably they'll be able to get by going to ISPs.
+
+The market doesn't think about it in terms of selling data — the market thinks about it in terms of "how does an advertiser find the audience that it thinks it wants." ... And different providers in the market will create those audiences.
+
+On what users can do to restrict or entirely limit their data from being collected
+
+It pays to opt out of the behavioral advertising, when you see that triangle "i," because thousands of companies will at least not target you — they may still be collecting data, but they're not gonna be tailoring the ads that you see.
+
+I think turning on Do-Not-Track on your browser, despite the fact that only a small number of companies respect it — a significant number of companies like Twitter, Medium and others do respect it. ... Choosing encrypted tools when you use email or make decisions about what sites and services (to use) — far less information about what you do during the day is going to be available.
+
+For the changes that have been made today, those tools are going to be effective, because the uses that the ISPs are likely to be interested are, frankly, these tailoring and targeting uses — and so (these tools) for most people are going to be reasonable. They're not going to promise you absolute privacy, but neither would have the FCC rule. ...
+
+If you're really looking to disengage from the commercial world, it's hard to take advantage of much of the Web without being fairly technically savvy. ... If today's vote allows ISPs broader latitude with how they can use data, primarily for advertising and marketing uses, most of these tools will turn off those functions. And consumers should look for the options that the ISPs should offer in addition.

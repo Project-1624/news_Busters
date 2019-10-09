@@ -1,0 +1,116 @@
+Gross Domestic Product (GDP) Definition
+What Is Gross Domestic Product (GDP)?
+
+Gross Domestic Product (GDP) is a broad measurement of a nation’s overall economic activity. GDP is the monetary value of all the finished goods and services produced within a country's borders in a specific time period.
+
+GDP includes all private and public consumption, government outlays, investments, additions to private inventories, paid-in construction costs and the foreign balance of trade (exports are added, imports are subtracted). It may be contrasted with Gross National Product (GNP), which measures the overall production of an economy's citizens, including those living abroad, while domestic production by foreigners is excluded. Though GDP is usually calculated on an annual basis, it can be calculated on a quarterly basis as well (in the United States, for example, the government releases an annualized GDP estimate for each quarter and also for an entire year).
+
+Key Takeaways GDP is a broad measure of a country's economic activity, used to estimate the size of an economy and growth rate.
+
+GDP can be calculated in three ways using expenditures, production, or incomes. It can be adjusted for inflation and population to provide deeper insights.
+
+Though it has limitations, GDP is a key tool to guide policy makers, investors, and businesses in strategic decision making.
+
+1:43 What Is GDP?
+
+The Significance of Gross Domestic Product
+
+Because GDP provides a direct indication of the health and growth of the economy, businesses can use GDP as a guide to their business strategy. Investors also watch GDP since it provides a framework for investment decision-making. The "corporate profits" and "inventory" data in the GDP report are a great resource for equity investors, as both categories show total growth during the period; corporate profits data also displays pre-tax profits, operating cash flows and breakdowns for all major sectors of the economy.
+
+How Is the U.S. GDP Calculated?
+
+There are three primary methods by which GDP can be determined. All, when correctly calculated, should yield the same figure. These three approaches are often termed the expenditure approach, the output (or production) approach and the income approach.
+
+GDP Based on Spending
+
+The U.S. GDP is primarily measured based on the expenditure approach or spending approach. The Bureau of Economic Analysis (BEA) estimates the components used in the calculation from data ascertained through surveys of retailers, manufacturers, and builders and by looking at trade flows. Examples of these surveys include the Annual Survey of Manufacturers or the Housing Market Index.
+
+The expenditure approach calculates the spending by the different groups that participate in the economy. This approach can be calculated using the following formula: GDP = C + G + I + NX, or (consumption + government spending + investment + net exports). All these activities contribute to the GDP of a country.
+
+The C is private consumption expenditures, or consumer spending. Consumers spend money to buy consumption goods and services, such as groceries and haircuts. Consumer spending is the biggest component of GDP, accounting for more than two-thirds of the U.S. GDP. Consumer confidence, therefore, has a very significant bearing on economic growth. A high confidence level indicates that consumers are willing to spend, while a low confidence level reflects uncertainty about the future and an unwillingness to spend.
+
+G is government consumption expenditure and gross investment. Governments spend money on equipment, infrastructure, and payroll. Government spending assumes particular importance as a component of GDP when consumer spending and business investment both decline sharply, as, for instance, after a recession.
+
+I is private domestic investment, or capital expenditures. Businesses spend money to invest in their business activities (buying machinery, for instance). Business investment is a critical component of GDP, since it increases productive capacity and boosts employment.
+
+NX is net exports, calculated as total exports minus total imports (NX = Exports - Imports). Goods and services that an economy makes that are exported to other countries, less imports that are brought in, are net exports. A current account surplus boosts a nation’s GDP, while a chronic deficit is a drag on GDP. All expenditures by businesses located in the country, even if produced by foreign companies operating in the country, are included in the calculation.
+
+GDP Based on Production
+
+The production approach is something like the reverse of the expenditure approach. Instead of measuring input costs that feed economic activity, the production approach estimates the total value of economic output and deducts costs of intermediate goods that are consumed in the process, like those of materials and services. The expenditure approach projects forward from costs; the production approach looks backward from the vantage of a state of completed economic activity.
+
+GDP Based on Income
+
+Considering that the other side of the spending coin is income, and since what you spend is somebody else’s income, another approach to calculating GDP – something of an intermediary between the two other approaches – is the income approach. Income earned by all the factors of production in an economy includes the wages paid to labor, the rent earned by land, the return on capital in the form of interest, as well as corporate profits. The income approach factors in some adjustments for some items that don’t show up in these payments made to factors of production. For one, there are some taxes – such as sales taxes and property taxes – that are classified as indirect business taxes. In addition, depreciation, which is a reserve that businesses set aside to account for the replacement of equipment that tends to wear down with use, is also added to the national income. All this constitutes national income, which is used both as an indicator of implied production and of implied expenditure.
+
+Impact of the Balance of Trade
+
+The balance of trade is one of the key components of a country's (GDP) formula. GDP increases when the total value of goods and services that domestic producers sell to foreigners exceeds the total value of foreign goods and services that domestic consumers buy, otherwise known as a trade surplus. If domestic consumers spend more on foreign products than domestic producers sell to foreign consumers – a trade deficit – then GDP decreases.
+
+GDP vs. GNP vs. GNI
+
+Alternative metrics of a country's economy can be based on nationality rather than geography. GDP refers to and measures the economic activity within the physical borders of a country, whereas Gross National Product (GNP) measures the levels of production of a person or corporation of a particular nationality both at home and abroad. Gross National Income (GNI) is the sum of all income earned by citizens or nationals of a country regardless of whether the underlying economic activity takes place domestically or abroad.
+
+The relationship between GNP and GNI is similar to that between the production approach and the income approach to calculating GDP. GNP is an older measurement that uses the production approach, while GNI is the often preferred modern estimate and uses the income approach. With this approach, the income of a country is calculated as its domestic income plus its indirect business taxes and depreciation, as well as its net foreign factor income. Net foreign factor income is found by subtracting the payments made to foreigners from the payments made to Americans.
+
+In an increasingly global economy, GNI is being recognized as possibly a better metric for overall economic health than GDP. Because certain countries have most of their income withdrawn abroad by foreign corporations and individuals, their GDP figures are much higher than those of their GNI. For instance, in 2014, Luxembourg recorded $65.7 billion of GDP, while its GNI was $43.2 billion due to large payments made to the rest of the world via foreign corporations doing business in Luxembourg. Usually, the U.S. gross national income (GNI) and gross domestic product (GDP) do not differ substantially.
+
+Nominal GDP vs. Real GDP
+
+Considering that GDP is based on the monetary value of goods and services, it is subject to inflation. Rising prices will tend to increase GDP and falling prices will make GDP look smaller, without necessarily reflecting any change in the quantity or quality of goods and services produced. Thus, just by looking at an economy’s un-adjusted GDP, it is difficult to tell whether the GDP went up as a result of production expanding in the economy or because prices rose.
+
+That’s why economists have come up with an adjustment for inflation to arrive at an economy’s real GDP. By adjusting the output in any given year for the price levels that prevailed in a reference year, called the base year, economists adjust for the inflation effect. This way, it is possible to compare a country’s GDP from one year to another and see if there is any real growth.
+
+Real GDP is calculated using a GDP price deflator, which is the difference in prices between the current year and the base year. For example, if prices rose by 5% since the base year, the deflator would be 1.05. Nominal GDP is divided by this deflator, yielding real GDP. Nominal GDP is usually higher than real GDP because inflation is typically a positive number. Real GDP accounts for the change in market value, which narrows the difference between output figures from year to year. A large discrepancy between a nation's real and nominal GDP signifies significant inflation (if the nominal is higher) or deflation (if the real is higher) in its economy.
+
+Nominal GDP is used when comparing different quarters of output within the same year. When comparing the GDP of two or more years, real GDP is used because, by removing the effects of inflation, the comparison of the different years focuses solely on volume.
+
+Overall, real GDP is a much better index for expressing long-term national economic performance. Take for example a hypothetical country which in the year 2000 had a nominal GDP of $100 billion, which grew to $150 billion by 2010 its nominal GDP. Over the same period of time, prices rose by 100%. Looking at merely nominal GDP, the economy appears to be performing well, whereas the real GDP expressed in 2000 dollars would be $75 billion, revealing that in fact an overall decline in real economic performance occurred.
+
+GDP and the Standard of Living
+
+There are a number of adjustments to GDP used by economists to improve its usefulness. On its own, simple GDP shows us the size of the economy, but tells us little about the standard of living by itself. After all, populations and costs of living are not consistent around the world. Nothing much could be gleaned by comparing the nominal GDP of China to the nominal GDP of Ireland. For starters, China has approximately 300 times the population of Ireland. To solve this problem, statisticians instead compare GDP per capita. GDP per capita is calculated by dividing a country's total GDP by its population, and this figure is frequently cited to assess the nation's standard of living.
+
+Even so, the measure is still imperfect. Suppose China has a GDP per capita of $1,500, while Ireland has a GDP per capita of $15,000. This doesn't necessarily mean that the average Irish person is ten times better off than the average Chinese person. GDP per capita doesn't account for how expensive it is to live in a country. Purchasing power parity (PPP) attempts to solve this by comparing how many goods and services an exchange-rate-adjusted unit of money can purchase in different countries – comparing the price of an item, or basket of items, in two countries after adjusting for the exchange rate between the two, in effect.
+
+Real per capita GDP, adjusted for purchasing power parity, is a heavily refined statistic to measure true income, which is an important element of well-being. An individual in Ireland might make $100,000 a year, while an individual in China might make $50,000 a year. In nominal terms, the worker in Ireland is better off. But if a year's worth of food, clothing and other items costs three times as much in Ireland than China, however, the worker in China has a higher real income.
+
+Using GDP Data
+
+Most nations release GDP data every month and quarter. In the U.S., the Bureau of Economic Analysis (BEA) publishes an advance release of quarterly GDP four weeks after the quarter ends, and a final release three months after the quarter ends. The BEA releases are exhaustive and contain a wealth of detail, enabling economists and investors to obtain information and insights on various aspects of the economy.
+
+GDP's market impact is generally limited, since it is “backward looking,” and a substantial amount of time has already elapsed between the quarter end and GDP data release. However, GDP data can have an impact on markets if the actual numbers differ considerably from expectations. For example, the S&P 500 had its biggest decline in two months on Nov. 7, 2013, on reports that U.S. GDP increased at a 2.8% annualized rate in Q3, compared with economists’ estimate of 2%. The data fueled speculation that the stronger economy could lead the U.S. Federal Reserve (the Fed) to scale back its massive stimulus program that was in effect at the time.
+
+One interesting metric that investors can use to get some sense of the valuation of an equity market is the ratio of total market capitalization to GDP, expressed as a percentage. The closest equivalent to this in terms of stock valuation is market cap to total sales (or revenues), which in per-share terms is the well-known price-to-sales ratio.
+
+Just as stocks in different sectors trade at widely divergent price-to-sales ratios, different nations trade at market-cap-to-GDP ratios that are literally all over the map. For example, the U.S. had a market-cap-to-GDP ratio of 120% as of Q3 2013, while China had a ratio of just over 41% and Hong Kong had a ratio of over 1300% as of end of 2012.
+
+However, the utility of this ratio lies in comparing it to historical norms for a particular nation. As an example, the U.S. had a market-cap-to-GDP ratio of 130% at the end of 2006, which had dropped to 75% by the end of 2008. In retrospect, these represented zones of substantial overvaluation and undervaluation, respectively, for U.S. equities.
+
+History of GDP
+
+GDP first came into use in 1937 in a report to the U.S. Congress in response to the Great Depression after economist Simon Kuznets conceived the system of measurement. At the time, the preeminent system of measurement was the Gross National Product (GNP). After the Bretton Woods conference in 1944, GDP was widely adopted as the standard means for measuring national economies, though the U.S. actually used GNP as its official measure of economic welfare until 1991, after which it switched to GDP.
+
+Beginning in the 1950s, however, some began to question the faith of economists and policy makers in GDP internationally as a gauge of progress. Some observed, for example, a tendency to accept GDP as an absolute indicator of a nation’s failure or success, despite GDP’s failure to account for health, happiness, (in)equality and other constituent factors of public welfare. In other words, these critics drew attention to a distinction between economic progress and social progress. Others, like Arthur Okun, an economist for President Kennedy’s Council of Economic Advisers, held firm to the belief that GDP is as an absolute indicator of economic success, claiming that for every increase in GDP there would be a corresponding drop in unemployment.
+
+In recent decades, governments have created various nuanced modifications in attempts to increase GDP accuracy and specificity. Means of calculating GDP have also evolved continually since its conception so as to keep up with evolving measurements of industry activity and the generation and consumption of new, emerging forms of intangible assets.
+
+Sources for GDP
+
+The World Bank hosts one of the most reliable Web-based databases. It has one of the best and most comprehensive list of countries for which it tracks GDP data. The International Money Fund (IMF) also provides GDP data through its multiple databases, such as World Economic Outlook and International Financial Statistics.
+
+The U.S. Federal Reserve collects data from multiple sources, including a country's statistical agencies and the World Bank. The only drawback to using a Federal Reserve database is a lack of updating in GDP data and an absence of data for certain countries. Another highly reliable source of GDP data is Organization for Economic Cooperation and Development (OECD). The OECD provides not only historical data but also forecasts for GDP growth. The disadvantage of using the OECD database is that it tracks only OECD member countries and a few nonmember countries.
+
+Criticisms of GDP
+
+There are, of course, drawbacks to using GDP as an indicator. Some criticisms of GDP as a measure are:
+
+It does not account for several unofficial income sources – GDP relies on official data, so it does not take into account the extent of informal economic activity. GDP fails to quantify the value of under-the-table employment, black market activity, volunteer work, and household production, which can be significant in some nations.
+
+– GDP relies on official data, so it does not take into account the extent of informal economic activity. GDP fails to quantify the value of under-the-table employment, black market activity, volunteer work, and household production, which can be significant in some nations. It is geographically limited in a globally open economy – GDP does not take into account profits earned in a nation by overseas companies that are remitted back to foreign investors. This can overstate a country's actual economic output. For example, Ireland had GDP of $210.3 billion and GNP of $164.6 billion in 2012, the difference of $45.7 billion (or 21.7% of GDP) largely being due to profit repatriation by foreign companies based in Ireland.
+
+– GDP does not take into account profits earned in a nation by overseas companies that are remitted back to foreign investors. This can overstate a country's actual economic output. For example, Ireland had GDP of $210.3 billion and GNP of $164.6 billion in 2012, the difference of $45.7 billion (or 21.7% of GDP) largely being due to profit repatriation by foreign companies based in Ireland. It emphasizes material output without considering overall well-being – GDP growth alone cannot measure a nation's development or its citizens' well-being. For example, a nation may be experiencing rapid GDP growth, but this may impose significant cost to society in terms of environmental impact and increase in income disparity.
+
+It ignores business-to-business activity – GDP considers only final goods production and new capital investment, and deliberately nets out intermediate spending and transactions between businesses. By doing so, GDP overstates the importance of consumption relative to production in the economy and is less sensitive as an indicator of economic fluctuations compared to metrics that include business-to-business activity.
+
+The Bottom Line

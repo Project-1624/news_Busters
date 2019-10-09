@@ -1,0 +1,97 @@
+112014 uscensuspftexas
+
+Emails, Robert Bernstein, public affairs specialist, U.S. Census Bureau, Nov. 7 and 10, 2014
+
+10:30 a.m.
+
+Nov. 7, 2014
+
+According to our latest population estimates, Austin's population increased by 20,993 between July 1, 2012, and July 1, 2013. That would work out to 57.5 residents per day. This would be a net growth figure.
+
+Robert Bernstein
+
+Public Information Office
+
+U.S. Census Bureau
+
+To:
+
+From: "Selby, Gardner (CMG-Austin)" <wgselby@statesman.com>
+
+Date: 11/07/2014 11:37AM
+
+Subject: RE: Texas inquiry about population growth, Austin Texas
+
+In part, I’m asking if there’s a basis for saying 110 people a day move to Austin and if so, what is it?
+
+11:19 a.m.
+
+You could calculate the number of people moving into the city in the last year using the following table from the ACS, which I've attached:
+
+B07001 Geographical Mobility in the Past Year by Age for Current Residence in the United States
+
+You could add up the number who moved from a different county within same state (48,091), moved from different state (27,000), and moved from abroad (10,988). Then, take the total (86,079) and divide by 365, giving you 235.8 people moving in to the city per day. This would not include people who moved from other parts of Travis County into Austin.
+
+The figure I gave you earlier (57.5 per day) was from our annual population estimates and represented the total July 1, 2013 pop. minus the total July 1, 2012 pop., divided by 365. It would include population added by natural increase, as well as immigration and domestic migration. (I'm not able to provide a net domestic migration figure from that source because we don't publish components of change data with city population estimates -- we only do so for county pop. estimates.)
+
+Robert Bernstein
+
+Public Information Office
+
+U.S. Census Bureau
+
+8:59 a.m.
+
+Nov. 10, 2014
+
+See below. If you have any questions, please let me know.
+
+Robert Bernstein
+
+Public Information Office
+
+U.S. Census Bureau
+
+(301) 763-2603
+
+-----Forwarded by Robert B Bernstein/PIO/HQ/BOC on 11/10/2014 09:57AM -----
+
+To: Robert B Bernstein/PIO/HQ/BOC@BOC
+
+From: William K Koerber/SEHSD/HQ/BOC
+
+Date: 11/10/2014 09:22AM
+
+Cc: David K Ihrke/SEHSD/HQ/BOC@BOC, Megan Jane Benetsky/SEHSD/HQ/BOC@BOC, Alison K Fields/SEHSD/HQ/BOC@BOC
+
+Subject: Re: Fw: RE: Texas inquiry about population growth, Austin Texas
+
+Hi Robert,
+
+From Table B07204 Geographical Mobility in the Past Year for Current Residence - State, County and Place Level in the United States, the number of people who did not move, moved within the same city, who moved to Austin from the rest of the U.S., and moved to Austin from abroad can be calculated.
+
+From Table B07403 Geographical Mobility in the Past Year by Sex for Residence 1 Year Ago in the United States, the number of people currently living in the U.S. and lived in Austin 1 year ago can be found.
+
+Thus, inmigration and outmigration for cities can be calculated using these two tables.
+
+Domestic inmigration would be those who moved to Austin from the rest of the U.S. ("Elsewhere" line from B07204)
+
+International inmigration would be those who moved from abroad (from B07204)
+
+Domestic outmigration would be the total from B07403 minus nonmovers (same house from either form B07204 or B07403) minus moved within the same city (from B7403).
+
+International outmigration is not available since people who have moved outside the U.S. are not in scope for the ACS.
+
+So, for 2013 ACS, using the tables:
+
+http://factfinder2.census.gov/bkmk/table/1.0/en/ACS/13_1YR/B07204/1600000US4805000
+
+http://factfinder2.census.gov/bkmk/table/1.0/en/ACS/13_1YR/B07403/1600000US4805000
+
+Domestic inmigration = 80,619
+
+International inmigration = 10,988
+
+Domestic outmigration = 859,639 - 665,789 - 116,747 = 77,103
+
+Kin

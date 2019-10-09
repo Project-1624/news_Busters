@@ -1,0 +1,132 @@
+HIV Infection: Detection, Counseling, and Referral
+HIV infection represents a spectrum of disease that can begin with a brief acute retroviral syndrome that typically transitions to a multiyear chronic and clinically latent illness. Without treatment, this illness eventually progresses to a symptomatic, life-threatening immunodeficiency disease known as AIDS. In untreated patients, the time between HIV infection and the development of AIDS varies, ranging from a few months to many years with an estimated median time of approximately 11 years (123). HIV replication is present during all stages of the infection and progressively depletes CD4 lymphocytes, which are critical for maintenance of effective immune function. When the CD4 cell count falls below 200 cells/μL, patients are at high risk for life-threatening AIDS-defining opportunistic infections (e.g., Pneumocystis pneumonia, Toxoplasma gondii encephalitis, disseminated Mycobacterium avium complex disease, tuberculosis, and bacterial pneumonia). In the absence of treatment, virtually all HIV-infected persons will die of AIDS.
+
+Early diagnosis of HIV infection is essential to ensuring that patients are referred promptly for evaluation, provided treatment (if indicated), and linked into counseling and related support services to help them reduce their risk for transmitting HIV to others. Diagnosing persons during acute infection is particularly important. It is during this phase that HIV-infected persons are most infectious (124-126), but test negative for HIV antibodies and therefore unknowingly continue to engage in those high-risk behaviors associated with HIV transmission. Providers are in a particularly good position to diagnose persons during acute HIV infection because such persons might present for assessment and treatment of a concomitantly acquired STD during this phase of the disease. Knowing that a patient is infected with HIV has important clinical implications because HIV infection alters the immune system and thereby affects the diagnosis, evaluation, treatment, and follow-up of other STDs.
+
+Even in the era of highly effective antiretroviral therapy (HAART), HIV infection is often diagnosed in persons with advanced infection (i.e., persons with low CD4 cell counts). Nationally, the proportion of patients diagnosed with AIDS at or within 12 months of their HIV diagnosis in 2007 was 32% (127). Since 2006, CDC has endorsed efforts to increase HIV testing by streamlining the consent process and expanding opt-out testing to all health-care settings, especially STD clinics (77). However, rates of testing remain unacceptably low: in 2006, only 40% of surveyed adults had ever been tested, and <25% of high-risk adults had been tested during the preceding 12 months (128).
+
+Proper management of HIV infection requires medical therapy, which for many patients should be coupled with behavioral and psychosocial services. Comprehensive HIV treatment services are usually not available in facilities focusing primarily on STD treatment (e.g., STD clinics); therefore, patients diagnosed in these settings ideally should be referred to a health-care provider or facility experienced in caring for HIV-infected patients. Nonetheless, providers working in STD-treatment facilities should be knowledgeable about the treatment options available in their communities, educate persons who test positive for HIV about the illness, and know where to refer their patients for support services and HIV care.
+
+A detailed discussion of the complex issues required for the management of HIV infection is beyond the scope of this report; however this information is available in other published resources (129-131). In subsequent sections of this report, additional types of HIV-related information about the diagnosis of HIV infection, counseling of HIV-infected patients, referral of patients for support services (including medical care), and management of sex and injection-drug partners in STD-treatment facilities is provided. In addition, this report discusses HIV infection during pregnancy and among infants and children.
+
+Detection of HIV Infection: Screening and Establishing a Diagnosis
+
+All persons who seek evaluation and treatment for STDs should be screened for HIV infection. Screening should be routine, regardless of whether the patient is known or suspected to have specific behavioral risks for HIV infection.
+
+Consent and Pretest Information
+
+CDC recommends HIV screening for patients aged 13–64 years in all health-care settings (77). Patients should be notified that testing will be performed, but given the option to decline or defer testing (i.e., provided with opt-out testing) (128). Assent is inferred unless the patient verbally declines testing. Separate written consent for HIV testing should not be required; in most facilities, general consent for medical care is considered sufficient to encompass consent for HIV testing. Providing prevention counseling along with HIV diagnostic testing or as part of HIV screening programs is not a requirement within health-care settings. In addition, routine opt-out testing (instead of traditional written informed consent with pre-and post-test counseling) might be precluded in some jurisdictions by local laws and regulations, although many state and local authorities have updated laws and regulations to facilitate adoption of routine opt-out testing. Information about regulations in specific jurisdictions is available through the National Clinicians Consultation Center.
+
+Prevention Counseling
+
+Prevention counseling should be offered and encouraged in all health-care facilities that serve patients at high risk (e.g., STD clinics), because these facilities routinely elicit information about the behaviors that place persons at high risk for HIV. Prevention counseling need not be explicitly linked to HIV testing. However, some patients might be more likely to think about HIV and consider their risk-related behavior when undergoing an HIV test. HIV testing presents an excellent opportunity to provide or arrange for prevention counseling to assist with behavior changes that can reduce risk for acquiring HIV infection.
+
+Establishing the Diagnosis of HIV Infection
+
+HIV infection can be diagnosed by serologic tests that detect antibodies against HIV-1 and HIV-2 and by virologic tests that can detect HIV antigens or ribonucleic acid (RNA). Antibody testing begins with a sensitive screening test (e.g., the conventional or rapid enzyme immunoassay [EIA]). Currently available serologic tests are both highly sensitive and specific and can detect all known subtypes of HIV-1. Most can also detect HIV-2 and uncommon variants of HIV-1 (e.g., Group O and Group N). The advent of HIV rapid serologic testing has enabled clinicians to make an accurate presumptive diagnosis of HIV infection within half an hour, which could potentially facilitate the identification of the approximately 250,000 persons estimated to be living with undiagnosed HIV in the United States (127).
+
+Reactive screening tests must be confirmed by a supplemental antibody test (i.e., Western blot [WB] and indirect immunofluorescence assay [IFA]) or virologic test (i.e., the HIV-1 RNA assay) (132). A confirmed positive antibody test result indicates that a person is infected with HIV and capable of transmitting the virus to others. HIV antibody is detectable in at least 95% of patients within 3 months after infection. Although a negative antibody test result usually indicates that a person is not infected, antibody tests cannot exclude recent infection. Virologic tests for HIV-1 RNA can also be used to identify acute infection in persons who are negative for HIV antibodies.
+
+The majority of HIV infections in the United States are caused by HIV-1. However, HIV-2 infection should be suspected in persons who have epidemiologic risk factors or an unusual clinical presentation. Epidemiologic factors associated with HIV-2 infection include having lived in or having a sex partner from an HIV-2 endemic area (e.g., West Africa and some European countries such as Portugal, where HIV-2 prevalence is increasing), having a sex partner known to be infected with HIV-2, or having received a blood transfusion or nonsterile injection in an HIV-2-endemic area. Specific testing for HIV-2 is also indicated when clinical evidence of HIV infection exists but tests for HIV-1 antibodies or HIV-1 viral load are negative, or when HIV-1 WB results exhibit the unusual indeterminate pattern of gag (p55, p24, p17) plus pol (p66, p51, p31) bands in the absence of env (gp160, gp120, gp41) bands.
+
+Health-care providers should be knowledgeable about acute HIV infection and the symptoms and signs of acute retroviral syndrome, which develops in 50%–80% of acutely infected patients. Acute retroviral syndrome is characterized by non-specific symptoms, including fever, malaise, lymphadenopathy, and skin rash. It frequently occurs in the first few weeks after HIV infection, before antibody test results become positive. Suspicion of acute retroviral syndrome should result in prompt nucleic acid testing (HIV plasma RNA) in addition to an HIV antibody test to detect the presence of HIV. A positive HIV nucleic acid test should be confirmed by subsequent antibody testing to document seroconversion. Acutely infected patients are highly contagious during this stage of infection because the concentration of virus in plasma and genital secretions is extremely elevated (125,133). Antiretroviral therapy might benefit the health of persons with recently acquired HIV infection and reduce their infectiousness to others, but evidence to support this recommendation is still inconclusive and awaits the outcomes of several clinical trials currently underway (129). Notwithstanding, patients with acute HIV infection should be referred immediately to an HIV clinical-care provider. Diagnosis of HIV infection should prompt efforts to reduce behaviors that could transmit HIV to others (134).
+
+The following are specific recommendations that apply to testing for HIV infection:
+
+HIV screening is recommended for all persons who seek evaluation and treatment for STDs.
+
+HIV testing must be voluntary and free from coercion. Patients must not be tested without their knowledge.
+
+HIV screening after notifying the patient that an HIV test will be performed (unless the patient declines) is recommended in all health-care settings.
+
+Specific signed consent for HIV testing should not be required. In most settings, general informed consent for medical care is considered sufficient to encompass informed consent for HIV testing.
+
+Use of rapid HIV tests should be considered, especially in clinics where a high proportion of patients do not return for HIV test results.
+
+Positive screening tests for HIV antibody must be confirmed by a supplemental test before the diagnosis of HIV infection can be established.
+
+Providers should be alert to the possibility of acute HIV infection and perform a nucleic acid test in addition to an antibody test for HIV, if indicated. Persons suspected of recently acquired HIV infection should be referred for immediate consultation with an infectious disease specialist.
+
+Persons with newly diagnosed HIV infection who receive care in the STD treatment setting should be informed of the importance of promptly initiating medical care, the effectiveness of HIV treatments, and about what to expect as they enter medical care for HIV infection (131). In nonemergent situations, the initial evaluation of HIV-positive patients usually includes the following:
+
+Detailed medical history, including sexual and substance abuse history; vaccination history; previous STDs; travel history; and assessment for specific HIV-related symptoms or diagnoses;
+
+physical examination, including a gynecologic examination for women;
+
+testing for N. gonorrhoeae and C. trachomatis (in women perform Pap test and wet mount examination or culture of vaginal secretions for Trichomonas vaginalis);
+
+complete blood and platelet counts, blood chemistry profile, and lipid profile;
+
+toxoplasma antibody test;
+
+testing for antibodies to hepatitis C virus;
+
+testing for previous or present infections with HAV or HBV infection (recommended if determined to be cost-effective before considering vaccination) (see Hepatitis A and Hepatitis B);
+
+syphilis serology;
+
+CD4 T-lymphocyte analysis and determination of HIV plasma viral load;
+
+HIV genotypic resistance testing;
+
+tuberculin skin test (sometimes referred to as a purified protein derivative);
+
+urinalysis; and
+
+chest radiograph.
+
+Type-specific testing for HSV-2 infection can be considered if herpes infection status is unknown. A first dose of hepatitis A and hepatitis B vaccine should be administered at this first visit for previously unvaccinated persons for whom vaccine is recommended (see Hepatitis A and Hepatitis B). In subsequent visits, when the results of laboratory tests are available, antiretroviral therapy can be offered based on existing guidance (129). Recommendations for the prophylaxis of opportunistic infections and vaccinations in HIV-infected adults and adolescents are available (130,131).
+
+Providers should be alert to the possibility of new or recurrent STDs and should treat such conditions aggressively. Diagnosis of an STD in an HIV-infected person indicates on-going or recurrent high-risk behavior and should prompt referral for counseling. Because many STDs are asymptomatic, routine screening for curable STDs (e.g., syphilis, gonorrhea, and chlamydia) should be performed at least annually for all sexually active, HIV-positive persons. Women should be screened annually for cervical cancer precursor lesions by cervical Pap tests. More frequent STD screening might be appropriate depending on individual risk behaviors, the local epidemiology of STDs, and whether incident STDs are detected by screening or by the presence of symptoms.
+
+Recently identified HIV infection might not have been recently acquired; persons newly diagnosed with HIV might be at any stage of infection. Therefore, health-care providers should be alert for symptoms or signs that suggest advanced HIV infection (e.g., fever, weight loss, diarrhea, cough, shortness of breath, and oral candidiasis). The presence of any of these symptoms should prompt urgent referral to an infectious diseases provider. Similarly, providers should be alert for signs of psychological distress and be prepared to refer patients accordingly (see the next section Counseling for Patients with HIV Infection and Referral to Support Services).
+
+Counseling for Patients with HIV Infection and Referral to Support Services
+
+Those persons who test positive for HIV should receive prevention counseling before leaving the testing site. Such persons should receive or be referred for a medical evaluation and, if indicated, be provided with behavioral and psychological services as determined by a thorough psychosocial evaluation, which can also be used to identify high-risk behaviors. Providers who refer their HIV-positive patients to other professionals should establish means to ensure that these patients are linked successfully to such services, especially to on-going medical care.
+
+Providers should expect persons to be distressed when first informed of a positive HIV test result. Such persons face multiple major adaptive challenges, including coping with the reactions of others to a stigmatizing illness, developing and adopting strategies for maintaining physical and emotional health, initiating changes in behavior to prevent HIV transmission to others, and reducing the risk for acquiring additional STDs. Many persons will require assistance with making reproductive choices, gaining access to health services, and coping with changes in personal relationships. Therefore, behavioral and psychosocial services are an integral part of health care for HIV-infected persons.
+
+Patients testing positive for HIV have unique needs. Some patients require referral for specific behavioral interventions (e.g., a substance abuse program), mental health disorders (e.g., depression), or emotional distress. Others might require assistance with securing and maintaining employment and housing. Women should be counseled or appropriately referred regarding reproductive choices and contraceptive options, and patients with multiple psychosocial problems might be candidates for comprehensive risk-reduction counseling and services.
+
+The following are specific recommendations for HIV counseling and referral:
+
+Persons who test positive for HIV antibody should be counseled, either on site or through referral, concerning the behavioral, psychosocial, and medical implications of HIV infection.
+
+Health-care providers should be alert for medical or psychosocial conditions that require immediate attention.
+
+Providers should assess the needs of newly diagnosed persons for immediate medical care or support and should link them to services provided by health-care personnel experienced in providing care for HIV-infected persons. Such persons might need medical care or services for substance abuse, mental health disorders, emotional distress, reproductive counseling, risk-reduction counseling, and case management. Providers should follow up to ensure that patients have received the needed services.
+
+Patients should be educated about the importance of follow-up medical care as well as what to expect.
+
+Several successful, innovative interventions for HIV prevention have been developed for diverse at-risk populations, and these can be locally replicated or adapted (11-14,135,136). Involvement of nongovernment organizations and community-based organizations might complement such efforts in the clinical setting.
+
+Management of Sex Partners and Injection-Drug Partners
+
+Clinicians evaluating HIV-infected persons should determine whether any partners should be notified concerning possible exposure to HIV (77,137). In the context of HIV management, the term "partner" includes not only sex partners, but persons who share syringes or other injection equipment. Partner notification is an important component of disease management, because early diagnosis and treatment of HIV infection might reduce morbidity and provide the opportunity to encourage risk-reduction behaviors. Partner notification for HIV infection should be confidential. Specific guidance regarding spousal notification varies by jurisdiction. Detailed recommendations concerning identification, notification, diagnosis, and treatment of exposed partners are available in Recommendations for Partner Services Programs for HIV Infection, Syphilis, Gonorrhea, and Chlamydial Infections (137).
+
+Two complementary notification processes, patient referral and provider referral, can be used to identify partners. With patient referral, patients directly inform their partners of their exposure to HIV infection, whereas with provider referral, trained health department personnel locate partners on the basis of information provided by the patient. During the provider referral notification process, the confidentiality of patients is protected; their names are not revealed to partners who are notified. Many state and local health departments provide these services.
+
+The following are specific recommendations for implementing partner-notification procedures:
+
+HIV-infected patients should be encouraged to notify their partners and to refer them for counseling and testing. If requested by the patient, health-care providers should assist in this process, either directly or by referral to health department partner-notification programs.
+
+If patients are unwilling to notify their partners or if they cannot ensure that their partners will seek counseling, physicians or health department personnel should use confidential partner notification procedures.
+
+Partners who have been reached and were exposed to genital secretions and/or blood of an HIV-infected partner though sex or injection-drug use within the preceding 72 hours should be offered postexposure prophylaxis with combination antiretrovirals (78).
+
+Special Considerations
+
+Pregnancy
+
+All pregnant women in the United States should be tested for HIV infection as early during pregnancy as possible. A second test during the third trimester, preferably at <36 weeks’ gestation, should be considered for all pregnant women and is recommended for women known to be at high risk for acquiring HIV, those who receive health care in jurisdictions with elevated incidence of HIV or AIDS among women, and women living in facilities in which prenatal screening identifies at least one HIV-infected pregnant women per 1,000 women screened (77). An RNA test should be used in conjunction with an HIV antibody test for women who have signs or symptoms consistent with acute HIV infection. The patient should first be informed that she will be tested for HIV as part of the panel of prenatal tests, unless she declines, or opts-out, of screening (77,86). For women who decline, providers should continue to strongly encourage testing and address concerns that pose obstacles to testing. Women who decline testing because they have had a previous negative HIV test should be informed about the importance of retesting during each pregnancy. Testing pregnant women is particularly important not only to maintain the health of the patient, but because interventions (i.e., antiretroviral and obstetrical) can reduce the risk for perinatal transmission of HIV.
+
+After a pregnant woman has been identified as being HIV-infected, she should be educated about the risk for perinatal infection. Evidence indicates that, in the absence of antiretroviral and other interventions, 15%–25% of infants born to HIV-infected mothers will become infected with HIV; such evidence also indicates that an additional 12%–14% of infants born to infected mothers who breastfeed into the second year of life will become infected (138,139).
+
+The risk for perinatal HIV transmission can be reduced to <2% through the use of antiretroviral regimens and obstetrical interventions (i.e., zidovudine or nevirapine and elective cesarean section at 38 weeks of pregnancy) and by avoiding breastfeeding (138,140). Pregnant women who are HIV-infected should be counseled concerning their options (either on-site or by referral), given appropriate antenatal treatment, and advised not to breastfeed their infants.
+
+HIV Infection Among Infants and Children
+
+Diagnosis of HIV infection in a pregnant woman indicates the need to consider whether the woman’s other children might be infected. Infants and young children with HIV infection differ from adults and adolescents with respect to the diagnosis, clinical presentation, and management of HIV disease. For example, because maternal HIV antibody passes through the placenta, antibody tests for HIV are expected to be positive in the sera of both infected and uninfected infants born to seropositive mothers. A definitive determination of HIV infection for an infant aged <18 months is usually based on HIV nucleic acid testing (141). Management of infants, children, and adolescents who are known or suspected to be infected with HIV requires referral to physicians familiar with the manifestations and treatment of pediatric HIV infection (142,143).
+
+Next

@@ -1,0 +1,10 @@
+Effects of changes in permit-to-purchase handgun laws in Connecticut and Missouri on suicide rates
+Data-driven methods were used to model the effects of permit-to-purchase (PTP) laws on suicide in Connecticut and Missouri.
+
+Abstract
+
+Objective In 2013, more than 40,000 individuals died from suicide in the United States. Restricting access to lethal means has the potential to prevent suicide, as suicidal thoughts are often transient. Permit-to-purchase (PTP) laws for handguns could potentially reduce suicides by making it more difficult for persons at risk of suicide to purchase a handgun.
+
+Methods We used a quasi-experimental research design with annual, state-level suicide data to evaluate changes to PTP laws in Connecticut and Missouri. Data were analyzed for 1981–2012. We used synthetic control modeling as the primary method to estimate policy effects. This methodology provided better prediction of pre-PTP-law-change trends in the two states with PTP law changes than econometric models and is thus likely to provide more accurate estimates of policy effects.
+
+Results The synthetic control model estimated a 15.4% reduction in firearm suicide rates associated with Connecticut's PTP law. Missouri's PTP law repeal was associated with a 16.1% increase in firearm suicide rates. Evidence that PTP laws were associated with non-firearm suicide rates was mixed in Connecticut and negative in Missouri.

@@ -1,0 +1,64 @@
+International Classification of Diseases,(ICD-10-CM/PCS Transition
+The Department of Health and Human Services (HHS) has mandated that all entities covered by the Health Insurance Portability and Accountability ActExternal (HIPAA) must all transition to a new set of codes for electronic health care transactions on October 1, 2015.
+
+What is it?
+
+World Health Organization (WHO) authorized the publication of the International Classification of DiseasesExternal 10th Revision (ICD-10), which was implemented for mortality coding and classification from death certificates in the U.S. in 1999. The U.S. developed a Clinical Modification (ICD-10-CM) for medical diagnoses based on WHO’s ICD-10 and CMS developed a new Procedure Coding System (ICD-10-PCS) for inpatient procedures. ICD-10-CM replaces ICD-9-CM, volumes 1 and 2, and ICD-10-PCS replaces ICD-9-CM, volume 3.
+
+How are non-HIPAA and public health entities affected?
+
+ICD-9-CM codes are currently the cornerstone of classifying diseases, injuries, health encounters and inpatient procedures in morbidity settings. U.S. public health officials at the federal, state, and local level rely on the receipt of ICD-9-CM coded data from HIPAA-covered entities to conduct many disease-related activities. CDC programs use ICD-9-CM codes to conduct surveillance (e.g., chronic disease and injury surveillance, health care utilization, health care-associated adverse events), for case findings lists to identify cases of reportable cancers and certain birth defects and disabilities, and to provide public use data files for public analysis. A few programs abstract information from patient medical records and assign codes, and one CDC program uses ICD-9-CM codes for claims reimbursement.
+
+A primary user of ICD codes includes health care personnel, such as physicians and nurses, as well as medical coders, who assign ICD-9-CM codes to verbatim or abstracted diagnosis or procedure information, and thus are originators of the ICD codes. ICD-9-CM codes are used for a variety of purposes, including statistics and for billing and claims reimbursement.
+
+of ICD codes includes health care personnel, such as physicians and nurses, as well as medical coders, who assign ICD-9-CM codes to verbatim or abstracted diagnosis or procedure information, and thus are originators of the ICD codes. ICD-9-CM codes are used for a variety of purposes, including statistics and for billing and claims reimbursement. A secondary user of ICD-9-CM codes is someone who uses already coded data from hospitals, health care providers, or health plans to conduct surveillance and/or research activities. Public health is largely a secondary user of coded data.
+
+Why change?
+
+The periodic revisions of ICD-9-CM mirror changes in the medical and health care field. The U.S. has been using ICD-9-CM since 1979, and it is not sufficiently robust to serve the health care needs of the future. The content is no longer clinically accurate and has limited data about patients’ medical conditions and hospital inpatient procedures, the number of available codes is limited, and the coding structure is too restrictive. The U.S. cannot directly compare morbidity diagnosis data to state and national mortality data, because mortality data have already transitioned to ICD-10 code sets. Further, most developed countries have already made the transition to ICD-10 code sets, so the U.S. cannot compare U.S. morbidity diagnosis data at the international level.
+
+ICD-10-CM/PCS code sets will enhance the quality of data for:
+
+Tracking public health conditions (complications, anatomical location)
+
+Improved data for epidemiological research (severity of illness, co-morbidities)
+
+Measuring outcomes and care provided to patients
+
+Making clinical decisions
+
+Identifying fraud and abuse
+
+Designing payment systems/processing claims
+
+Code set differences
+
+ICD-9-CM codes are very different than ICD-10-CM/PCS code sets:
+
+There are nearly 19 times as many procedure codes in ICD-10-PCS than in ICD-9-CM volume 3
+
+There are nearly 5 times as many diagnosis codes in ICD-10-CM than in ICD-9-CM
+
+ICD-10 has alphanumeric categories instead of numeric ones
+
+The order of some chapters have changed, some titles have been renamed, and conditions have been grouped differently
+
+Figure 1. Key differences between ICD-9-CM and ICD-10-CM and ICD-10-PCS code sets.
+
+Transition deadline
+
+The transition to ICD-10-CM/PCS code sets will take effect on October 1, 2015 and all users will transition to the new code sets on the same date.
+
+For secondary users, this means that the data you receive will be coded in ICD-10-CM/PCS beginning on October 1, 2015. There will be some ICD-9-CM codes still circulating in the system for services provided before the transition date.
+
+Benefits to public health of the new coding sets
+
+Although the transition to ICD-10-CM/PCS codes sets will be a major change, there are significant advantages that the new coding system has over ICD-9-CM. Some noteworthy benefits include:
+
+Easier comparison of mortality and morbidity data
+
+Currently, the U.S. is the only industrialized nation still utilizing ICD-9-CM codes for morbidity data, though we have already transitioned to ICD-10 for mortality. This severely limits direct comparison of U.S. morbidity diagnosis data to U.S. state and national mortality data, as well as limits international disease comparability. When the U.S. transitions to ICD-10 code sets for morbidity and procedures it will enable more direct comparability of U.S. morbidity data with U.S. mortality data, and it will also allow comparison of U.S. morbidity data with international morbidity data.
+
+Improved quality of data
+
+The granularity of ICD-10-CM and ICD-10-PCS is vastly improved over ICD-9-CM and will enable greater specificity in identifying health conditions. It also provides better data for measuring and tracking health care utilization and the quality of patient care.

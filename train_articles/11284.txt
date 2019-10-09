@@ -1,0 +1,31 @@
+A primer on pH
+
+What is commonly referred to as acidity is the concentration of hydrogen ions in an aqueous solution. Figure 1. The pH scale by numbers The pH scale by numbers Figure 2. The percent change in acidity. Percent change in acidity
+
+What is commonly referred to as "acidity" is the concentration of hydrogen ions (H+) in an aqueous solution. Some common examples are shown in the figure at left. The concentration of hydrogen ions can vary across many orders of magnitude—from 1 to 0.00000000000001 moles per liter—and we express acidity on a logarithmic scale called the pH scale. Because the pH scale is logarithmic (pH = -log[H+]), a change of one pH unit corresponds to a ten-fold change in hydrogen ion concentration (Figure 1).
+
+Many natural processes affect acidity levels in the environment—examples include photosynthesis and respiration—so the acidity may vary by an order of magnitude or more (or in pH units, by 1 or more) as a result of natural biological, physical, and geological processes on a variety of different spatial and temporal scales. Ocean acidification, related to the uptake of CO 2 at the ocean surface, causes a relatively slow, long-term increase in the acidity of the ocean, corresponding to a decrease in pH. Since the Industrial Revolution, the global average pH of the surface ocean has decreased by 0.11, which corresponds to approximately a 30% increase in the hydrogen ion concentration.
+
+So why are scientists concerned about such a seemingly small change in pH?
+
+Many organisms are very sensitive to seemingly small changes in pH. For example, in humans, arterial blood pH normally falls within the range 7.35–7.45. A drop of 0.1 pH units in human blood pH can result in rather profound health consequences, including seizures, heart arrhythmia, or even coma (a process called acidosis). Similarly, many marine organisms are very sensitive to either direct or indirect effects of the change in acidity (or H+ concentration) in the marine environment. Fundamental physiological processes such as respiration, calcification (shell/skeleton building), photosynthesis, and reproduction have been shown to respond to the magnitude of changes in CO 2 concentrations in seawater, along with the resultant changes in pH and carbonate ion concentrations that are expected over the next century.
+
+Common misconceptions about pH and ocean “acidification”
+
+How scientists describe the percent change in acidity
+
+If you add acid to a solution the concentration of hydrogen ions (acidity) increases and the pH decreases. Frequently people confuse pH with acidity—pH is the scale on which acidity is expressed, but it is not synonymous with acidity. An appropriate way to compare the acidity at two different pH values is to express the relative percentage change of the H+ concentration at the two pH levels, as in Figure 2. For example, we said above that pH decrease of 0.11 corresponds to approximately a 30% increase in acidity, which is an exact change in acidity (H+ concentration) of 28.8% when calculated in this way.
+
+High pH values
+
+pH values above 7 are commonly referred to as “basic” (or “alkaline”). These common terms engender confusion, because a pH value does not directly reflect a quantitative measure of the concentration of bases in the solution, nor do high pH values constitute a measure of alkalinity. What is expressed by pH values >7 is still the acidity of a solution, it’s just that the acidity (H+ concentration) is very, very low (less than 10-7 (or 0.0000001) moles per liter, to be specific). To determine the alkalinity of a solution (which is related to the concentration of bases), a separate, detailed laboratory analysis must be run on the solution, so it is incorrect to characterize the change in hydrogen ion concentration as a decrease in alkalinity.
+
+Calling this phenomenon “ocean acidification” when surface seawater will remain “basic” under future emissions scenarios is alarmist
+
+Just as we describe an increase in temperature from -40°F to -20°F as warming, even though neither the starting nor the ending temperature is “warm,” the term “acidification” describes a direction of change (i.e. increase) in the level of acidity in the global oceans, not an absolute end point. When CO 2 is added to seawater, it reacts with water to form carbonic acid (H 2 CO 3 ); hence acid is being added to seawater, thereby acidifying it. Similarly, in the example about human blood, a drop in pH is referred to as acidosis, even though the point where acidemia begins (7.35) is still above 7.
+
+Natural variability vs. long-term change
+
+Many scientists have observed that natural variability in seawater acidity (and thus pH) is strong and can be much larger on short time scales than the observed and projected changes in acidity due to ocean acidification over the scale of decades to centuries. While this is true, the reason that scientists are concerned about this slow, long-term change is that it constitutes a changing baseline—such that the natural variability in acidity due to photosynthesis, respiration, upwelling, and myriad other processes—will be overlaid on an ever-increasing average concentration of H+ (the atmospheric increase in CO 2 at Mauna Loa is a great example of a shifting baseline). Despite the slow and steady nature of this change in the baseline relative to human time scales, on geological time scales, this change is more rapid than any change documented over the last 300 million years, so organisms that have evolved tolerance to a certain range of conditions may encounter increasingly stressful, or even lethal, conditions in the coming decades.
+
+For more information on changes in chemistry and the potential biological impacts due to ocean acidification, see the Ocean Carbon & Biogeochemistry Project’s Ocean Acidification FAQ page.

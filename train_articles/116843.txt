@@ -1,0 +1,132 @@
+7 merchant tips to understanding EMV fraud liability shift
+The content on this page is accurate as of the posting date; however, some of the offers mentioned may have expired. Please see the bank’s website for the most current version of card offers; and please review our list of best credit cards , or use our CardMatch™ tool to find cards matched to your needs.
+
+The editorial content below is based solely on the objective assessment of our writers and is not driven by advertising dollars. However, we may receive compensation when you click on links to products from our partners. Learn more about our advertising policy.
+
+Sign up for our newsletter Get the latest news, advice, articles and tips delivered to your inbox. It's FREE.
+
+If you’re a merchant who is still not processing chip card payments, you could shoulder consumer fraud costs if an incident occurs and you’re not “EMV-ready.” The deadline for the fraud liability shift for brick-and-mortar merchants was Oct. 1, 2015.
+
+If that sentence made you panic, confused or mad, you’ve got company. The nationwide adoption of EMV chip cards and processing technology is not a small undertaking for anyone involved — merchants and cardholders alike.
+
+“It’s a significant change in a pattern of life that we’ve had for a long time with mag stripe cards,” said Gregg Smith, North American sales manager for Cardtek, an international payment processing company.
+
+Fret no more. Whether you are a frazzled business owner or just an inquisitive consumer, CreditCards.com has outlined exactly what October 2015’s EMV fraud liability shift meant for all parties involved:
+
+1. The liability shift changes who may shoulder fraud chargeback costs.
+
+After Oct. 1, 2015, in-store counterfeit fraud liability shifted to the party — either the card issuing financial institution or the merchant — that has not yet adopted chip technology.
+
+“The liability shift protects the entity who offers the greater level of security by holding the other entity with less secure systems responsible for fraud,” said Carolyn Balfany, safety and security expert at Mastercard. “For example, if fraud occurs when a chip card is inserted into a terminal that hasn’t been upgraded, the merchant is responsible for the fraud.”
+
+Prior to this shift, credit card issuers were primarily responsible for covering fraud affecting consumer accounts, reimbursing cardholders for lost funds as a result of counterfeit (or other) fraud. As of Oct. 1, 2015, financial institutions will still cover cardholders’ accounts as before, but in some cases the institutions may be able to seek reimbursement from the merchant or merchant acquirer (a bank or company that processes payments on behalf of a merchant) if the retailer was not prepared to accept EMV payment technology.
+
+“Whoever has the lowest level of security essentially is now responsible for that unauthorized transaction,” said Doug Johnson, president of American Bankers Association.
+
+However, the change doesn’t necessarily mean merchants will be bearing the brunt of fraud charges. There are still a greater number of situations in which the card issuer would continue to shoulder fraud chargeback costs just as they do now. “If both parties have upgraded security, then the environment remains precisely as it is now. The bank would reimburse the customer just as they do now,” Johnson added
+
+It’s important to note that the liability shift only pertains to counterfeit fraud tied to EMV chip cards. The liability shift will not apply to large scale data breaches or consumer payment card data stolen prior to October 1.
+
+Here are some more examples of who may handle fraud costs based on the situation, post-Oct. 1, 2015:
+
+EMV card fraud liability: Who’s responsible? Fraud scenario: Merchant/Acquirer Card issuer Chip card is stolen and swiped by fraudster in store not EMV-ready. X (If the card is PIN-based and from American Express, Discover or Mastercard) X (If the card is a Visa, Accel, China UnionPay, NYCE or STAR Network card) Stolen card number is used online. X Chip card swiped at non-EMV compliant merchant, mag stripe data stolen and fraud occurs. X Chip card-less consumer gets hit by fraud because they couldn’t dip a chip card at an EMV-ready retailer. X Stolen/lost chip card dipped by fraudster at EMV-ready merchant. X Mag stripe data copied from chip card onto counterfeit card and swiped by fraudster at non-EMV compliant merchant. X Chip card dipped at EMV-compliant merchant. X
+
+2. The shift is intended to help parties deal with counterfeit fraud more equally.
+
+The EMV fraud liability shift was implemented by major U.S. payment card networks (nine to be exact: Accel, American Express, China UnionPay, Discover, Mastercard, NYCE Payments Network, SHAZAM Network, STAR Network and Visa) to combat counterfeit fraud.
+
+Since the U.S. is the only country in which counterfeit card fraud is consistently growing, the shift was put in place to encourage faster adoption of EMV payment technology, according to Stephanie Ericksen, vice president of Risk Products for Visa.
+
+“The way that the liability shift works is to set a structure in place to incentivize the protection of chip,” she said. “Merchants get protection against liability as soon as they get a terminal and enable chip acceptance, and vice versa for issuers.”
+
+Counterfeit card fraud costs the U.S. $7.86 billion in 2015, according to The Nilson Report. In particular, card issuers lost $4.91 billion and merchants lost $2.95 billion to counterfeit card fraud last year.
+
+Some retailers, such as Home Depot and Walmart, are fighting back against the idea that the current EMV adoption plan and fraud liability shift rules are the best way to fight high fraud rates. In May 2016, Wal-Mart filed an anti-trust lawsuit against Visa, claiming the national move to chip-and-signature EMV payments is not as secure as chip-and-PIN. The lawsuit reached settlement in June 2016, but was thrown out by a judge. It’s still unknown whether the settlement will be renegotiated or if the case will go to trial. Similarly, in June 2016, Home Depot filed a similar suit, expressing concerns that networks and card issuers – not just merchants – can do more to secure consumer payment information. The Home Depot case is ongoing, as the proceedings were transferred to a New York federal court in October 2016.
+
+“At ATMs where you are taking out the banks money, they insist you use a PIN, no one goes to an ATM and signs for cash,” said Mallory Duncan, senior vice president and general counsel at the National Retail Federation. “The banks insist on it because it’s secure, and that’s the same thing we were insisting for our stores around the country, inside and out.”
+
+Although there may be hesitation from all parties involved to make the switch to EMV payment technology, security experts believe merchant migration is a crucial step in combating the fraud that typically occurs at in-store payment terminals.
+
+“We are trying to reduce the opportunities fraudsters will have to take advantage of vulnerabilities in our system as a whole,” said Seth Ruden, senior fraud consultant at ACI Worldwide, a global banking and payment processing company. “Unfortunately, we can only do that by changing who has what kind of terminals and the liability must shift so we can push all merchants in the same direction and toward the same future.”
+
+Consumers not impacted by shift Cardholders have adjusted to “dipping” cards instead of swiping, but they won’t have to adjust to fraud liability changes. If an unauthorized transaction occurs against a consumer’s credit account, he or she will be reimbursed by the card issuer per the major networks’ (Visa, MasterCard, American Express and Discover) “zero-liability policies.” If the issuer finds the fraud occurred at a non-EMV compliant merchant, it can request a refund for the chargeback transaction, but the consumer is not involved. Consumers are not be responsible for fraud charges that result from a merchant not being prepared to properly accept EMV cards or because their card issuer has not yet sent them a chip-embedded card. Additionally, cardholders can still use their mag stripe cards. EMV-ready Merchants will be able to accept such payments and don’t have not have to turn non-chip card holders away.
+
+3. Stolen/lost card fraud liability may depend on the card and network.
+
+If chip cards can be dipped and signed for, but not easily counterfeited, wouldn’t it be easy for fraudsters to just steal the chip cards themselves?
+
+Potentially, but the liability shift details how stolen card fraud will be handled if criminals are willing to take such chances. For the most part, issuers will handle fraud resulting from a lost or stolen card situation just as they do now.
+
+“There’s no lost and stolen liability shift for Visa,” Ericksen explained. “The issuer would still be liable for lost and stolen fraud, just like today.” Accel, China UnionPay, NYCE and STAR Network are also not changing existing lost and stolen fraud liability policies.
+
+However, a few major networks have one exception.
+
+If the card used to commit fraud is a Mastercard, American Express or Discover card, the chargeback liability still remains with the issuer unless the card is a PIN credit or debit card and the accepting merchant was unable to process the card as a chip card and had to swipe the mag stripe instead. If the merchant had been able to process the card’s chip, the PIN feature may have stopped the fraud but because the merchant wasn’t prepared, they are the liable party.
+
+Even in that instance, cardholders will not be held responsible for unauthorized transactions if they have used “reasonable care in protecting the card from loss or theft” and “promptly contacted their financial institution when they knew that their Mastercard was lost or stolen,” according to Balfany.
+
+Merchants who are prepared to accept EMV cards don’t have to worry about these situational differences — or any resulting fraud chargeback costs.
+
+“So as long as a merchant has the ability to process that kind of card, they will never be liable for a lost and stolen card, regardless of the card type,” explained Randy Vanderhoof, executive director of the Smart Card Alliance.
+
+4. The liability shift does not apply to card-not-present fraud.
+
+Merchants who make sales online instead of in-store don’t have to worry about today’s liability shift because it doesn’t affect them.
+
+For starters, EMV chip technology does not work online, as card chips need to be physically read by a payment terminal during the card-dipping process to produce the unique transaction code. Chip card holders making online payments will continue to type in card numbers as usual and if card-not-present fraud occurs, it would be handled as it was prior to the October 2015 liability shift, typically by the card issuers based on their existing fraud liability guidelines.
+
+“The one thing that merchants are going to have to struggle with, as long as we have cards that are chip and signature, we will see a shift to online fraud,” said NRF’s Duncan. “Merchants will have to put more roadblocks in the way of transactions in an effort to keep down the fraud occurring online.”
+
+Upgrading to chip cards and point-of-sale terminals will help address card-present fraud, and the liability shift pertains only to that scenario. Tackling fraud that occurs in other areas will be an ongoing project. The migration to EMV is expected to help reduce fraud, but it’s not the be-all-end-all answer to payment fraud in the U.S.
+
+“The card-not-present channel has its own set of controls and we are working on a solution for those independently and with different elements than the card-present problem,” Ruden said. “In the next year we should see some new schemes materialize that will add controls in the card-not-present space. And that will provide us with another layer of control just like the chip cards are doing.”
+
+5. All brick-and-mortar merchants are affected by the EMV shift, except gas stations.
+
+Even if you only handle a couple of in-store payments a week and the rest is done online, you are still liable for the in-store payments — unless you own a gas station.
+
+Visa-network ATMs have until October 1, 2017, as did all self-service gas stations, until a Dec. 1, 2016 announcement from the payment networks that extended the gas station liability shift deadline to 2020.
+
+The primary reason for the extension given to this large segment of the U.S. payment market? Cost. Gray Taylor, executive director of Conexxus, a convenience store and petroleum industry technology association, estimates it will cost $7 billion for the gas industry to migrate to US fuel pumps to EMV because a third of the existing pumps need replacing. Those replacement pumps will cost between $3,000 and $7,000 each, according to a BankInfoSecurity report.
+
+But if you’re not a gas station and don’t have a traditional cash register and payment terminal, liability shift affects you. “If you are a merchant who uses a device that has mobile card acceptance technology (like Square), you have the same liability as any other merchant,” Vanderhoof said.
+
+Square is offering two EMV-compliant payment readers that merchants can purchase online right now: One is $29 and accepts dipped chip card payments. The other is $49 and accepts both dipped chip cards and contactless payments such as Apple Pay.
+
+If you’re a more traditional business owner who works with a payment processing company that supplies your point-of-sale terminals, but you have not received EMV-compliant devices, you need to reach out to that company directly. If your payment processor is behind, fraud liability costs may still fall on you if you’re not prepared and an incident occurs.
+
+“If you are a small- or medium-sized business, you need to keep the pressure on who supplies your software and devices,” Cardtek’s Smith said. “The longer you wait to go to your equipment supplier the longer it will take for you to get enabled.”
+
+6. If you’re partially transitioned to EMV, you’re partially liable.
+
+According to new figures from Mastercard and Visa, slightly more than one-third of U.S. merchants are ready to accept chip card payments today. The latest Visa statistics note about 50 percent of merchants are EMV-ready as of Dec. 31, 2016.
+
+Not all card issuers are 100 percent EMV-ready, either, but they are getting close. Mastercard estimated 68 percent of its cards – credit and debit — had EMV chips as of Oct. 1, 2016. More recently, Visa says there are 449 million EMV-chipped Visa cards in the U.S. as of June 2017, which is more than the number of U.S. residents.
+
+Slow-but-steady merchant migration is in part due to a delay in terminal certifications. To accept chip-card transactions, EMV payment terminals must be tested and certified as EMV-compliant by the companies and card networks that process their transactions. So, if a merchant has EMV equipment in place, but has to wait for certification before using it, the merchant could be responsible for fraud chargeback costs until the terminals are certified, under the liability shift terms.
+
+The EMV migration costs merchants have to bear continues to be high, according to Duncan. “Not only the cost of the new equipment itself, but the cost of basically being penalized because we can’t get certified,” he said. “In some places, the merchants have bought the equipment and they’ve installed the equipment, but the credit card companies have not certified the equipment. So even though the chip card reader is sitting there, they aren’t allowed to turn the reader on to process chip card payments. So put all those things together and the migration has been less than satisfactory.
+
+In March 2016, two small Florida retailers filed an anti-trust lawsuit claimed the certification delays placed unfair burden – and chargeback costs – on their shoulders. Visa and Mastercard announced on June 16, 2016 that they would simplify the certification process and limit the costs retailers might incur for counterfeit transactions while they wait. Visa said card-issuing banks will stop sending fraud costs, known as chargebacks, to merchants on transactions below $25 as of July 22, 2016, and merchants would only be responsible for chargebacks on a maximum of 10 transactions per account, as banks assumed liability above that level starting in October 2016.
+
+In addition to a simplified certification process for merchants and payment acquirers, Mastercard also introduced a checking system to ensure the chargebacks merchants receive are valid and the merchants are not facing excessive fraud costs, according to a June 20, 2016 release.
+
+Overall, the more complete your EMV migration is today, the less liable you are for potential fraud chargebacks.
+
+“It’s based on the individual terminal and the individual card level,” Ericksen said. “If an issuer has issued a certain percentage of their cards as chip but the fraud occurs with a card that doesn’t have chip yet, the liability will fall back on the issuer. And the same thing applies to different merchant locations. If a retailer has EMV payment terminals at one location, but not another where fraud occurs, the liability would be terminal-specific and the merchant would be responsible.”
+
+7. Oct. 1, 2015 was not a mandatory EMV deadline, per se.
+
+If you’re a merchant who still isn’t ready, it’s OK. Oct. 1, 2015 was the official date of the liability shift, which will come into play if fraud occurs, but if you have yet to make the transition to EMV, you can decide when it’s right for you to do so.
+
+Merchants who don’t experience a high rate of counterfeit fraud, such as coffee shops, mom-and-pop restaurants or other small, often local, stores, may not need to worry about the shift as much just yet. If the risk for counterfeit fraud is low, then the risk of being liable for fraud chargebacks under the new liability shift is low, so such merchants may be able to delay the investment in EMV upgrades with few consequences.
+
+“We certainly want everyone to make the transition to EMV, but smaller businesses may not have to rush quite as much,” Ericksen said. “The liability shift is an incentive to make the switch to EMV, not a mandate.”
+
+Before paying for new chip card-processing terminals, merchants should do some research to find out what options their business may have and compare them to fraud protection needs. “That way they have an understanding of the time and cost it will take for them to be compliant,” Vanderhoof said. “Once they have that information, they can decide whether that added protection that the time and cost investment is worth it.”
+
+If a merchant decides the cost is not worth the risk, that’s their decision but the potential fraud risk should still be thoroughly considered. “The magnitude can be so great for small businesses,” Smith said. “If a small store that does $2,500 a month in sales then has to pay about $900 for fraud that same month because they were found liable, that could be really tough.”
+
+Change of any kind can be overwhelming, time consuming and costly, but it may be beneficial in the long run. Don’t rule out EMV technology too fast. “I know it’s an additional consider to think about during a busy day but from the standpoint of protecting customers and your business, it’s an important thing to consider,” Johnson said.
+
+See related:8 FAQs about EMV credit cards, Merchants hit by chargebacks look to hire help, The big chip card switch: living with EMV

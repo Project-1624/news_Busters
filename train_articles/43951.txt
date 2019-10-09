@@ -1,0 +1,66 @@
+The Washington Post’s Bizarre Opioid Story
+For the past day I’ve been struggling to wrap my head around this lengthy exposé from the Washington Post. (For those who prefer TV, 60 Minutes has a broadcast version.) Pretty much everyone who reads the piece comes away outraged that the pharmaceutical companies managed to triumph over the Drug Enforcement Administration, getting Congress to “effectively strip[]” the agency of its “most potent weapon against large drug companies suspected of spilling prescription narcotics onto the nation’s streets.”
+
+Advertisement
+
+Advertisement
+
+I can certainly believe that drug companies deserve a lot of blame for the opioid epidemic and have far too much sway over the people who are supposed to be policing them. But I just can’t get over how incredibly weird everything about this particular illustration of those facts is.
+
+This is going to be a very long post, so if you’re reading from the Corner’s homepage, join me after the break.
+
+Here’s the background. Companies that distribute prescription drugs have to register with the DEA, and DEA registration comes with certain responsibilities — companies have to keep an eye out for suspiciously large orders and alert the authorities when they come up, etc. A company that fails to meet its obligations can lose its registration after receiving a notice and, if desired, making its case at a hearing before an administrative-law judge. And in a particularly urgent case, the DEA might issue an “immediate suspension order” that, as the name implies, halts drug shipments in their tracks as the rest of the process unfolds. It’s kind of like keeping someone in jail as they await trial for fear they might continue their crime spree.
+
+Advertisement
+
+This raises due-process concerns, so the 1970 law authorizing these orders limits their use to cases where the halted shipments pose an “imminent danger” to public health and safety. This term was not defined in the original law, giving the DEA a lot of discretion.
+
+Advertisement
+
+That problem came to a head starting in 2012, when the DEA tried to shut down a Walgreens distribution center that supplied 1,000 pharmacies and the company fought back. Some members of an appeals-court panel seemed open to the pharmacy chain’s argument that the policy was too vague, but the parties ended up settling out of court, leaving the underlying legal question unresolved and making the DEA skittish.
+
+In the Post’s narrative, use of immediate suspension orders plummeted, from 65 in fiscal year 2011 to just a handful in more recent years — though there were only 28 in 2009 and 40 in 2010, numbers readily available in a government report the story cites but not included in the Post’s chart, so the drop is not quite as dramatic as the paper implies. The Post’s sources say that, in effect, the burden of proof for an immediate suspension rose from a “preponderance of the evidence” (the same burden used in administrative hearings to revoke registration entirely) to “beyond a reasonable doubt.”
+
+Advertisement
+
+That all sounds like a pretty good reason to clarify the law, though several of the Post’s sources seem to think the DEA should have just carried on as it had before, continuing, as one put it, “years of very aggressive enforcement.” At any rate, Congress explored its options. An early effort passed by the House would have been rather assertive, requiring the DEA to show “a significant and present risk of death or serious bodily harm that is more likely than not to occur.”
+
+Advertisement
+
+The DEA came out against this bill hard, and Attorney General Eric Holder even put out a statement opposing it. But in the other chamber of Congress, Senator Orrin Hatch worked with the agency to hammer out new language. The final version defines “imminent danger” as “a substantial likelihood of an immediate threat that death, serious bodily harm, or abuse of a controlled substance will occur in the absence of an immediate suspension of the registration.”
+
+This is where things get really odd. What did the DEA think of this, and what would the provision actually do?
+
+Advertisement
+
+The Post narrative holds that the DEA found this to be an improvement over the House bill but nonetheless an unnecessary hit to the agency’s power. The paper quotes a DOJ email to a Senate staffer explaining that “DEA felt this wasn’t a great solution, but was the best of the options offered to us, even if it did not fully address the concerns we had previously laid out for you.”
+
+But no one at the DEA seems to have made a big deal about it. No one managed to persuade even a single member of Congress to oppose the new language, as the final bill passed both houses unanimously. And no one at the DEA seems to have raised any issues with the White House either. Indeed, an Obama White House source tells the Post that the executive branch deferred to the DEA on the question of whether the president should sign the bill last year, and a source from Obama’s Office of Management and Budget said neither the DEA nor the Justice Department more broadly raised concerns when the OMB evaluated the legislation.
+
+Advertisement
+
+The Post claims that by this point, the DEA and DOJ had “given up the fight” against the bill even though they still had the power to “derail” it. Huh?
+
+Advertisement
+
+Another thread of the Post story, and a possible explanation for the half-hearted resistance, is that much of the DEA itself is basically owned by the pharmaceutical companies thanks to the fact that DEA employees often leave for more lucrative gigs in the industry. No one would deny the existence of a “revolving door” or the problem of regulatory capture, and the Post notes that pro-industry voices gained ground within the DEA in the lead-up to the bill’s enactment. But that still doesn’t explain how no one at any level blew the whistle on what the Post is selling as an enormous, pharma-funded blow to a key DEA enforcement tool in the midst of a horrific drug epidemic. And the Post’s heroes are hardly free of their own conflicts; the most prominent, former DEA Office of Diversion Control head Joseph T. Randannazzi, is now “a consultant for a team of lawyers suing the opioid industry.”
+
+And finally, is the new language really so bad? It is according to a draft law-review article by John J. Mulrooney — the chief DEA administrative-law judge — and Katherine E. Legel that the Post published alongside its piece. Here’s their objection:
+
+Before a single witness is produced or any piece of evidence admitted at a hearing, to sustain its ISO, the DEA is now required to establish by substantial evidence that the transgression(s) or violation(s) it has encountered will render death, serious bodily harm, or abuse considerably and imminently more likely. However unlikely the Agency is to successfully bear this heavy burden in the case of individual practitioners or pharmacies, it is all but logically impossible, due to the obvious attenuation between the distributor or manufacturer registrant and the potential victims, to make the requisite showing up the production chain, in the case of a distributor or manufacturer. Stated differently, there are simply too many levels between distributors and manufacturers to logically establish any causation of death, serious bodily harm, or abuse to a specific patient down the chain to support an immediate suspension after the [new law]. If it had been the intent of Congress to completely eliminate the DEA’s ability to ever impose an immediate suspension on distributors or manufacturers, it would be difficult to conceive of a more effective vehicle for achieving that goal.
+
+Advertisement
+
+These folks know the law better than I do, but this strikes me as an odd interpretation. Most confusingly, how on earth would demonstrating a substantial likelihood of an immediate threat from a shipment of thousands of pills entail proving anything whatsoever about what will happen to a specific patient?
+
+It’s also worth pointing out that Hatch explicitly spelled out the “intent of Congress” for the benefit of the Congressional Record (not noted by the Post):
+
+It is the intent of the bill authors that the phrase ‘‘substantial likelihood of an immediate threat that death, serious bodily harm, or abuse of a controlled substance will occur’’ include situations where evidence of diversion indicates there is a substantial likelihood that abuse of a controlled substance will occur — that is it is [sic] the intent of the authors that this language authorize the Attorney General to issue an immediate suspension order in cases where evidence of diversion points to a substantial likelihood of abuse, provided the other conditions for issuing such an order are met.
+
+Advertisement
+
+This is somewhat garbled, but it sure seems to imply that when there’s evidence a company is shipping drugs to pill mills, an immediate suspension order is allowed. If that’s not how administrative-law judges are going to interpret the new language, though, it should certainly be reworded.
+
+Again: Pharmaceutical companies deserve a lot of blame for the opioid crisis, and industries quite often take over the government agencies that are supposed to be regulating them. And I certainly don’t have the extensive sourcing inside the DEA that the Post does, so this is all just a long way of saying things don’t quite add up for me. But I get an uneasy sense that there’s more to this story.
+
+The Post is suing for access to a bunch of documents the government refused to provide, so hopefully we will know more eventually.

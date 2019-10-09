@@ -1,0 +1,178 @@
+AUTONOMOUS VEHICLES
+[Rev. 6/2/2018 5:35:54 PM--2017]
+
+CHAPTER 482A - AUTONOMOUS VEHICLES
+
+NRS 482A.010 Definitions.
+
+NRS 482A.025 “Automated driving system” defined.
+
+NRS 482A.030 “Autonomous vehicle” defined.
+
+NRS 482A.032 “Driver-assistive platooning technology” defined.
+
+NRS 482A.034 “Dynamic driving task” defined.
+
+NRS 482A.036 “Fully autonomous vehicle” defined.
+
+NRS 482A.040 “Highway” defined.
+
+NRS 482A.044 “Minimal risk condition” defined.
+
+NRS 482A.046 “Operational design domain” defined.
+
+NRS 482A.048 “SAE J3016” defined.
+
+NRS 482A.060 Testing autonomous vehicle: Requirement for insurance or bond.
+
+NRS 482A.070 Testing or operation of autonomous vehicle: Requirements for safety and control of vehicle.
+
+NRS 482A.075 Driver-assistive platooning technology authorized; restrictions.
+
+NRS 482A.080 Requirements for testing or operating vehicle upon highways in this State.
+
+NRS 482A.090 Manufacturer or developer not liable for certain damages.
+
+NRS 482A.095 Crash involving autonomous vehicle: Report to Department required under certain circumstances; regulations.
+
+NRS 482A.100 Adoption of regulations to authorize operation and testing; requirements.
+
+NRS 482A.110 Department only entity authorized to adopt regulations or impose requirements on certain technology related to automated driving systems or autonomous vehicles; local government prohibited from imposing tax, fee or other requirements.
+
+NRS 482A.200 Application of motor vehicle and traffic laws to certain fully automated vehicles; human driver not required under certain circumstances.
+
+NRS 482A.220 Civil and criminal penalties.
+
+_________
+
+NRS 482A.010 Definitions. As used in this chapter, unless the context otherwise requires, the words and terms defined in NRS 482A.025 to 482A.048, inclusive, have the meanings ascribed to them in those sections.
+
+(Added to NRS by 2011, 2876; A 2013, 2010; 2017, 4466)
+
+NRS 482A.025 “Automated driving system” defined. “Automated driving system” has the meaning ascribed to it in SAE J3016.
+
+(Added to NRS by 2013, 2009; A 2017, 4466)
+
+NRS 482A.030 “Autonomous vehicle” defined. “Autonomous vehicle” means a motor vehicle that is equipped with an automated driving system which is designed to function at a level of driving automation of level 3, 4 or 5 pursuant to SAE J3016. The term includes a fully autonomous vehicle.
+
+(Added to NRS by 2011, 2876; A 2013, 2010; 2017, 4466)
+
+NRS 482A.032 “Driver-assistive platooning technology” defined. “Driver-assistive platooning technology” means technology which enables two or more trucks or other motor vehicles to travel on a highway at electronically coordinated speeds in a unified manner at a following distance that is closer than would be reasonable and prudent without the use of the technology. The term does not include an automated driving system.
+
+(Added to NRS by 2017, 4465)
+
+NRS 482A.034 “Dynamic driving task” defined. “Dynamic driving task” means all of the real-time operational and tactical functions required to operate an autonomous vehicle in traffic on a highway. The term does not include functions relating to planning for the use of the vehicle, including, without limitation, the scheduling of a trip or the selection of a destination or waypoint.
+
+(Added to NRS by 2017, 4465)
+
+NRS 482A.036 “Fully autonomous vehicle” defined. “Fully autonomous vehicle” means a vehicle equipped with an automated driving system which is designed to function at a level of driving automation of level 4 or 5 pursuant to SAE J3016.
+
+(Added to NRS by 2017, 4465)
+
+NRS 482A.040 “Highway” defined. “Highway” means the entire width between the boundary lines of every way dedicated to a public authority when any part of the way is open to the use of the public for purposes of vehicular traffic, whether or not the public authority is maintaining the way.
+
+(Added to NRS by 1969, 1478; A 1981, 1690)
+
+NRS 482A.044 “Minimal risk condition” defined. “Minimal risk condition” means a condition in which an autonomous vehicle operating without a human driver, upon experiencing a failure of its automated driving system that renders the autonomous vehicle unable to perform the dynamic driving task, achieves a reasonably safe state which may include, without limitation, bringing the autonomous vehicle to a complete stop.
+
+(Added to NRS by 2017, 4465)
+
+NRS 482A.046 “Operational design domain” defined. “Operational design domain” means a description of the specific domain or domains in which an automated driving system is designed to properly operate, including, without limitation, types of roadways, ranges of speed and environmental conditions.
+
+(Added to NRS by 2017, 4465)
+
+NRS 482A.048 “SAE J3016” defined. “SAE J3016” means the document published by SAE International on September 30, 2016, as “Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles” or a document determined by the Department to be a subsequent version which is approved by the Department by regulation.
+
+(Added to NRS by 2017, 4465)
+
+NRS 482A.060 Testing autonomous vehicle: Requirement for insurance or bond. Before a person begins testing an autonomous vehicle on a highway within this State, the person must:
+
+1. Submit to the Department proof of insurance or self-insurance acceptable to the Department in the amount of $5,000,000; or
+
+2. Make a cash deposit or post and maintain a surety bond or other acceptable form of security with the Department in the amount of $5,000,000.
+
+(Added to NRS by 2013, 2009; A 2017, 4467)
+
+NRS 482A.070 Testing or operation of autonomous vehicle: Requirements for safety and control of vehicle.
+
+1. Except as otherwise provided in subsection 2, if an autonomous vehicle is being tested or operated on a highway within this State, a human operator must be:
+
+(a) Seated in a position which allows the human operator to take immediate manual control of the autonomous vehicle; and
+
+(b) Capable of taking over immediate manual control of the autonomous vehicle in the event of a failure of the automated driving system or other emergency.
+
+2. A fully autonomous vehicle may be tested or operated on a highway within this State with the automated driving system engaged and without a human operator being present within the fully autonomous vehicle if the fully autonomous vehicle satisfies the requirements of paragraph (b) of subsection 2 of NRS 482A.080.
+
+(Added to NRS by 2013, 2009; A 2017, 4467)
+
+NRS 482A.075 Driver-assistive platooning technology authorized; restrictions. A truck or other motor vehicle may use driver-assistive platooning technology on a highway within this State only if the truck or other motor vehicle and the driver-assistive platooning technology are capable of being operated in compliance with the applicable motor vehicle laws and traffic laws of this State, unless the truck or other motor vehicle has been granted an exemption by the Department.
+
+(Added to NRS by 2017, 4466)
+
+NRS 482A.080 Requirements for testing or operating vehicle upon highways in this State.
+
+1. An autonomous vehicle shall not be registered in this State unless the autonomous vehicle has affixed to it a label pursuant to 49 C.F.R. § 567.4.
+
+2. Except as otherwise provided in subsection 3, an autonomous vehicle shall not be tested or operated on a highway within this State with a human operator unless the autonomous vehicle is capable of operating in compliance with the applicable motor vehicle laws and traffic laws of this State, unless an exemption has been granted by the Department, and:
+
+(a) If the autonomous vehicle is not a fully autonomous vehicle, the autonomous vehicle is:
+
+(1) Equipped with a means to engage and disengage the automated driving system which is easily accessible to the human operator of the autonomous vehicle;
+
+(2) Equipped with an indicator located inside the autonomous vehicle which indicates when the automated driving system is operating the autonomous vehicle; and
+
+(3) Equipped with a means to alert the human operator to take manual control of the autonomous vehicle if a failure of the automated driving system occurs which renders the automated driving system unable to perform the dynamic driving task relevant to its intended operational design domain; and
+
+(b) If the autonomous vehicle is a fully autonomous vehicle, the fully autonomous vehicle is capable of achieving a minimal risk condition if a failure of the automated driving system occurs which renders the automated driving system unable to perform the dynamic driving task relevant to its intended operational design domain.
+
+3. If a federal law or regulation provides standards for the operation of an autonomous vehicle, an autonomous vehicle may be tested or used on a highway within this State with a human operator if the autonomous vehicle is capable of operating in compliance with the applicable motor vehicle laws and traffic laws of this State and such a federal law or regulation.
+
+(Added to NRS by 2013, 2009; A 2017, 4467)
+
+NRS 482A.090 Manufacturer or developer not liable for certain damages.
+
+1. The original manufacturer of a motor vehicle that has been converted by a third party into an autonomous vehicle is not liable for damages to any person injured due to a defect caused by the conversion of the motor vehicle by the third party unless the defect that caused the injury was present in the vehicle as originally manufactured.
+
+2. The original manufacturer or developer of an automated driving system that has been modified by an unauthorized third party is not liable for damages to any person injured due to a defect caused by the modification of the automated driving system by the third party unless the defect that caused the injury was present in the automated driving system as originally manufactured or developed.
+
+(Added to NRS by 2013, 2009; A 2017, 4468)
+
+NRS 482A.095 Crash involving autonomous vehicle: Report to Department required under certain circumstances; regulations. Any person responsible for the testing of an autonomous vehicle shall report to the Department, within 10 business days after a motor vehicle crash, any motor vehicle crash involving the testing of the autonomous vehicle which results in personal injury or property damage estimated to exceed $750. The Department shall prescribe by regulation the information which must be included in such a report.
+
+(Added to NRS by 2017, 4466)
+
+NRS 482A.100 Adoption of regulations to authorize operation and testing; requirements.
+
+1. The Department may adopt regulations relating to the operation and testing of autonomous vehicles on highways within the State of Nevada which are consistent with this chapter and do not impose additional requirements upon the operation and testing of autonomous vehicles.
+
+2. A regulation adopted pursuant to subsection 1 shall not become effective until at least 180 days after the regulation is adopted by the Department.
+
+3. The regulations adopted pursuant to subsection 1 may:
+
+(a) Require that an autonomous vehicle or automated driving system be certified to comply with the requirements of this chapter by the manufacturer of the autonomous vehicle, the manufacturer or developer of the automated driving system or an autonomous vehicle certification facility licensed pursuant to paragraph (c) before it may be operated on a highway within this State;
+
+(b) Include provisions relating to license plates for and the registration of autonomous vehicles and the licensing and training of drivers that do not conflict with this chapter or unreasonably impede the testing and operation of autonomous vehicles in this State; and
+
+(c) Provide for the licensing of autonomous vehicle certification facilities.
+
+(Added to NRS by 2011, 2876; A 2017, 4468)
+
+NRS 482A.110 Department only entity authorized to adopt regulations or impose requirements on certain technology related to automated driving systems or autonomous vehicles; local government prohibited from imposing tax, fee or other requirements.
+
+1. Notwithstanding any other provision of law and except as otherwise provided in this chapter, only the Department may adopt regulations or impose any requirement relating to the technology of an automated driving system or autonomous vehicle, and any such regulations adopted, ordinance enacted or requirement imposed by another governmental entity or local government is void.
+
+2. A local government shall not impose any tax or fee or impose any other requirement on an automated driving system or autonomous vehicle or on a person who operates an autonomous vehicle.
+
+(Added to NRS by 2017, 4466)
+
+NRS 482A.200 Application of motor vehicle and traffic laws to certain fully automated vehicles; human driver not required under certain circumstances. No motor vehicle laws or traffic laws of this State shall be construed to require a human driver to operate a fully autonomous vehicle which is being operated by an automated driving system. The automated driving system of a fully autonomous vehicle shall, when engaged, be deemed to fulfill any physical acts which would otherwise be required of a human driver except those acts which by their nature can have no application to such a system.
+
+(Added to NRS by 2011, 2873; A 2017, 4469)
+
+NRS 482A.220 Civil and criminal penalties.
+
+1. The Department may impose an administrative fine, not to exceed $2,500, for a violation of any provision of this chapter or any regulation adopted pursuant thereto.
+
+2. In addition to any other penalty provided by this chapter, it is a gross misdemeanor for any person knowingly to falsify an application to obtain a license for an autonomous vehicle certification facility or any other document submitted to or issued by the Department pursuant to this chapter.
+
+(Added to NRS by 2017, 4466)

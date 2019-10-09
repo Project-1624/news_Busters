@@ -1,0 +1,161 @@
+0916 philnpftexas
+
+Emails, Phil Novack, press secretary, U.S. Sen. Ted Cruz, Sept. 13, 2016
+
+From: "Selby, Gardner (CMG-Austin)"
+
+Date: Monday, September 12, 2016 at 11:10 AM
+
+To: "Press, Cruz (Cruz)"
+
+Subject: Fresh try
+
+Here is a key claim by Sen. Cruz in his recent floor speech: “In 22 days, if Congress fails to act, the Obama administration intends to give away control of the Internet to an international body akin to the United Nations.”
+
+I am aware of the longstanding plans to shift ICANN from its contract with the US Department of Commerce. It doesn’t look to me like the U.S. currently controls the Internet. Also, it’s not clear that this planned shift gives away control to a UN-like body. But I might not have all relevant information.
+
+Could you share how Sen. Cruz reached his conclusion? Any other recommended experts?
+
+I hope to advance on this fact check today.
+
+g.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+11:26 a.m.
+
+Sept. 13, 2016
+
+ICANN is an international consortium of global corporations, private organizations, and governments, including China, Russia, and Iran, that is under contract with the United States Government to operate the Internet. The critical point is that under the relevant contracts, only the United States can authorize any changes to the authoritative root zone file, which is used to operate the Internet and is essentially the master address book. By giving up those contracts, the United States is, in a very real sense, giving up control of the Internet. Of course, the United States now generally lets ICANN operate the domain name system with very light oversight, but the power to be the final authority on changes to the authoritative root zone file is an extraordinary one. And giving up that authority to ICANN—which is not bound by the robust free speech protections of our First Amendment—could put the future of free speech on the Internet at risk. That’s a risk that Americans need not and should not accept.
+
+Please also reach out to Berin Szoka of TechFreedom bszoka@techfreedom.org — he will be a witness at the hearing and is an expert on the subject.
+
+From: "Selby, Gardner (CMG-Austin)"
+
+Date: Tuesday, September 13, 2016 at 1:21 PM
+
+To: Phil Novack
+
+Thanks.
+
+To this moment, we’re not finding the claim to be factual.
+
+Specifically, experts have told us the internet isn’t controlled by the U.S. now and so control can’t be given away. Also, they say, the end of the DOC contracting in October doesn’t shift oversight to a UN-like body. If I hear right, the California corporation now handling the clerical duties will continue to do so with oversight from a 20-member board that includes a single nonvoting government liaison. Separately, an advisory panel consists of some 162 nations; its recommendations can’t be sent the board without consensus, I’m told, meaning a single country can stop any idea from being sent the board.
+
+The experts we heard back from on this include Milton Mueller,Daniel J. Weitzner and Michael Froomkin. Michael Chertoff also has written on the changes.
+
+We hope to complete this fact check today.
+
+G.
+
+(Novack)
+
+1:19 p.m.
+
+So you’ve interviewed three people and cited one more, all of whom support the transition, and are considering the case settled?
+
+Here’s the language from the contract. This is an indisputable fact. The U.S. has ultimate control of the contents of the authoritative root zone file:
+
+While NSI continues to operate the primary root server, it shall
+
+request written direction from an authorized USG official before
+
+making or rejecting any modifications, additions or deletions to the
+
+root zone file. Such direction wiIl be provided within ten (10)
+
+working days and it may instruct NSI to process any such changes
+
+directed by NewCo when submitted to NST in conformity with
+
+written procedures established by NewCo and recognized by the
+
+USG.
+
+http://www.ntia.doc.gov/files/ntia/publications/amend11_052206.pdf
+
+Here are three additional experts who have concerns, and can provide a balanced take:
+
+Berin Szoka: bszoka@techfreedom.org
+
+President, TechFreedom
+
+http://techfreedom.org/staff#Szoka
+
+Brett Schaefer: Brett.Schaefer@heritage.org
+
+Jay Kingham Fellow in International Regulatory Affairs, The Margaret Thatcher Center for Freedom, The Heritage Foundation
+
+http://www.heritage.org/about/staff/s/brett-schaefer
+
+Phil Kerpen: phil@americancommitment.org
+
+President, American Commitment and Chairman, Internet Freedom Coalition
+
+http://www.americancommitment.org/about
+
+From: "Selby, Gardner (CMG-Austin)"
+
+Date: Tuesday, September 13, 2016 at 3:55 PM
+
+To: Phil Novack
+
+Subject: FW: Sen. Cruz's response to us
+
+Sharing, below. It’s unclear to me that the end of this contract adds up to the US handing over control of the internet (which the US doesn’t control) to a UN-like entity (rather than the existing nonprofit California corporation). I will endeavor to learn more.
+
+g.
+
+From: Mueller, Milton L
+
+Sent: Tuesday, September 13, 2016 1:58 PM
+
+To: Selby, Gardner (CMG-Austin)
+
+Subject: RE: Sen. Cruz's response to us
+
+Gardner:
+
+Line by line below
+
+Phil Novack of Sen. Cruz’s office sent an email offering this backup for the senator’s claim: “ICANN is an international consortium of global corporations, private organizations, and governments, including China, Russia, and Iran,
+
+MM: Ok so they’ve backed away from the “organization akin to the UN” quite a bit. But it’s still inaccurate. ICANN is not an “international consortium” it is a nonprofit organization organized under the laws of California. Participation is open to anyone, not just “global corporations.” It is not an intergovernmental organization like the UN or ITU, and was created specifically to shield the Internet from intergovernmental dominance. The governments who participate in it do so in an advisory capacity, and when they offer advice they can only do so with the consensus of all other governments in the GAC. So the implication that one or two “bad” governments can tell ICANN what to do post-transition is just wrong.
+
+that is under contract with the United States Government to operate the Internet.
+
+MM: False. Here the Cruz staffer shows that he really doesn’t know what ICANN does. ICANN is contracted to perform the IANA functions, not to “operate the Internet.” The claim that ICANN “operates the Internet” is ridiculous. ICANN is responsible for making policy and coordinating one specific part of the Internet, namely the domain name system. “The Internet” consists of about 50,000 different private networks worldwide who use the Internet protocols to interconnect. All of them operate their part of the Internet. All of them could bypass ICANN if they needed to or wanted to. They all use a common domain name root because it makes the system globally compatible.
+
+The critical point is that under the relevant contracts, only the United States can authorize any changes to the authoritative root zone file, which is used to operate the Internet and is essentially the master address book.
+
+MM: Wrong again. The US does authorize changes to the authoritative root zone file, but the root zone file is not the “master address book” of the Internet, it is just a list of top level domain names (like .COM, .ORG or .EDU). The real numerical IP Addresses are allocated by Regional Internet Registries (RIRs), not by ICANN. None of the RIRs are under contract to the US government. So have they been taken over by Russia and China etc? Obviously not.
+
+By giving up those contracts, the United States is, in a very real sense, giving up control of the Internet.
+
+MM: Again he confuses control of the DNS root zone with control of “the Internet.” It’s absurd. If control of ICANN gives us control of “the Internet,” why don’t we use that control to eliminate censorship in Russia, China and Iran? All the DNS root does is ensure that the domain names we use for websites and emails are globally consistent – if you type in an Iranian domain your browser knows where to find it. A lot of other aspects of Internet operations, such as routing, are completely separate from this.
+
+Of course, the United States now generally lets ICANN operate the domain name system with very light oversight, but the power to be the final authority on changes to the authoritative root zone file is an extraordinary one. And giving up that authority to ICANN—which is not bound by the robust free speech protections of our First Amendment—could put the future of free speech on the Internet at risk. That’s a risk that Americans need not and should not accept.”
+
+MM: False Under the new bylaws adopted as part of the transition reforms, ICANN is prohibited from regulating content.
+
+False, also because the US has never used its control of ICANN to protect freedom of speech. Not once. But it has used it to limit freedom of speech. When ICANN was set to create a .XXX top level domain in 2005, conservatives like Sen. Cruz tried to use NTIA’s control of the root to censor the domain. For a while they succeeded, until the decision was overturned by ICANN’s appeal process. The US government has also pressured domain name policy to limit free speech rights in order to shield trademark owners from criticism.
+
+My point here is that the threat of censorship comes from governments, and the U.S. is a government.
+
+(Novack)
+
+3:50 p.m.
+
+Gardner — have you reached out to the experts I recommended? They will be in a position to go through a detailed back and forth.
+
+Additionally, your efforts to write this up will be well-served by the hearing tomorrow — we will have a Senate Judiciary subcommittee hearing, with actual sworn witness testimony, addressing all of these points and with perspectives from both sides of the issue. I highly recommend tuning in and incorporating the perspectives presented into your analysis:
+
+http://www.judiciary.senate.gov/meetings/protecting-internet-freedom-implications-of-ending-us-oversight-of-the-internet
+
+The hearing will be viewable at www.judiciary.senate.gov and on CSPAN.

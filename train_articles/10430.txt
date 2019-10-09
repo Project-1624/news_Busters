@@ -1,0 +1,74 @@
+National Poverty Center
+How does the United States measure poverty?
+
+The United States determines the official poverty rate using poverty thresholds that are issued each year by the Census Bureau. The thresholds represent the annual amount of cash income minimally required to support families of various sizes.
+
+The methodology for calculating the thresholds was established in the mid-1960s and has not changed in the intervening years. The thresholds are updated annually to account for inflation [1].
+
+A family is counted as poor if its pretax money income is below its poverty threshold. Money income does not include noncash benefits such as public housing, Medicaid, employer-provided health insurance and food stamps [2].
+
+A sampling of the poverty thresholds for 2015 is included in the table below. A complete list can be found on the Census Bureau's website (www.census.gov).
+
+2015 Poverty Thresholds, Selected Family Types Single Individual Under 65 years $ 12,331 65 years & older $ 11,367 Single Parent One child $ 16,337 Two children $ 19,096 Two Adults No children $ 15,871 One child $ 19,078 Two children $ 24,036 Three children $ 28,286
+
+SOURCE: U.S. Bureau of the Census, "Poverty Thresholds for 2015 by Size of Family and Number of Related Children Under 18 years", Accessed July 8, 2016.
+
+Poverty guidelines are a simplified version of poverty thresholds and are issued by the Department of Health and Human Services to determine financial eligibility for certain federal programs. For more information on these guidelines, see the 2015 Federal Poverty Guidelines.
+
+How many people were poor in 2014?
+
+In 2014, 14.8 percent of all persons lived in poverty. Between 1993 and 2000, the poverty rate fell each year, reaching 11.3 percent in 2000. Since 2000, the poverty rate has slowly increased, peaking at 15.1 percent in 2010 and remaining relatively stable.
+
+How has poverty changed over time?
+
+In the late 1950s, the poverty rate for all Americans was 22.4 percent, or 39.5 million individuals. These numbers declined steadily throughout the 1960s, reaching a low of 11.1 percent, or 22.9 million individuals, in 1973. Over the next decade, the poverty rate fluctuated between 11.1 and 12.6 percent, but it began to rise steadily again in 1980. By 1983, the number of poor individuals had risen to 35.3 million individuals, or 15.2 percent.
+
+For the next ten years, the poverty rate remained above 12.8 percent, increasing to 15.1 percent, or 39.3 million individuals, by 1993. The rate declined for the remainder of the decade, to 11.3 percent by 2000. From 2000 to 2004 it rose each year to 12.8 in 2004. The poverty rate continued to increase, peaking at 15.1 percent in 2010, the highest poverty rate since 1993. The poverty rate has remained relatively stable for the past 4 years.
+
+Since the late 1960s, the poverty rate for people over 65 has fallen dramatically. The poverty rate for children has historically been somewhat higher than the overall poverty rate. The poverty rate for people in households headed by single women is significantly higher than the overall poverty rate.
+
+How does poverty differ across subgroups?
+
+The poverty rate for all persons masks considerable variation between racial/ethnic subgroups. Poverty rates for blacks and Hispanics greatly exceed the national average. In 2014, 26.2 percent of blacks and 23.6 percent of Hispanics were poor, compared to 10.1 percent of non-Hispanic whites and 12 percent of Asians.
+
+Poverty rates are highest for families headed by single women, particularly if they are black or Hispanic. In 2014, 30.6 percent of households headed by single women were poor, while 15.7 percent of households headed by single men and 6.2 percent of married-couple households lived in poverty.
+
+There are also differences between native-born and foreign-born residents. In 2014, 18.5 percent of foreign-born residents lived in poverty, compared to 14.2 percent of residents born in the United States. Foreign-born, non-citizens had an even higher incidence of poverty, at a rate of 24.2 percent.
+
+How many children live in poverty? [3]
+
+Children represent a disproportionate share of the poor in the United States; they are 23.1 percent of the total population, but 33.3 percent of the poor population. In 2014, 15.5 million children, or 21.1 percent, were poor. The poverty rate for children also varies substantially by race and Hispanic origin, as shown in the table below [4].
+
+Children Under 18 Living in Poverty, 2014 Category Number (in thousands) Percent All children under 18 15,540 21.1 White only, non-Hispanic 4,679 12.3 Black 4,639 36 Hispanic 5,745 31.9 Asian 577 12
+
+SOURCE: U.S. Bureau of the Census, "Income and Poverty in the United States: 2014", Report P60, n. 252, Table B-2, pp. 54-56..
+
+How does the poverty rate vary under alternative definitions?
+
+The official poverty measure has been criticized for not accounting for several factors that can affect a family's economic well-being and for not having been updated, except for inflation, for four decades.
+
+For example, while cash benefits from government assistance programs are included in a family's income when calculating the official poverty measure, benefits received in-kind such as food stamps, Medicare or Medicaid, employer provided health insurance, housing subsidies, and other social services are excluded. Taxes that families pay and tax credits they receive such as the Earned Income Tax Credit (EITC) do not enter into the official poverty determination.
+
+Additionally, the threshold value a family must earn to escape poverty was developed in the 1960s by combining emergency food budget data from the US Department of Agriculture with an estimate of what fraction of income families spend on food. Although the thresholds are adjusted each year for inflation, some analysts believe that these numbers no longer accurately reflect the minimal resources a family requires.
+
+Since 1979, the Census Bureau has published a variety of experimental poverty measures using expanded definitions of income and alternative methods to account for inflation [5]. These alternative measures tend to show lower levels of poverty than the official measure in any year, but the timing of increases and decreases in the poverty rate is very similar across measures. This similarity suggests that, despite the criticism it receives, the official poverty measure provides a reliable indicator of changes in the poverty rate from year to year.
+
+In addition to the Census Bureau’s alternatives, a 2010 Interagency Technical Working Group issued a set of recommendations to the Census Bureau on how to develop a new poverty measure that would offer a better depiction of the economic well-being of American families and how federal policies affected those living in poverty [6]. Their recommendations heavily drew upon the 1995 National Academy of Sciences (NAS) report, which outlined a series of poverty measures based on alternative definitions of both income and needs (the amount of resources a family needs to escape poverty)[7].
+
+
+
+SOURCE: U.S. Bureau of the Census, "The Supplemental Poverty Measure: 2014", Report P60, n. 254, pp. 2.
+
+Following the ITWG report, the Census Bureau introduced the Supplemental Poverty Measure (SPM) in 2011. As illustrated in the table above, relative to the Official Poverty Measure (OPM), the SPM defines income, needs, and family unit in a more broad and comprehensive manner. First, SPM resource measures into account more than cash. Specifically, the SPM resource measure considers cash income from all sources, plus the value of noncash benefits—subsidized housing, nutritional assistance, and home energy assistance—, minus necessary expenses for critical goods and services not included in the poverty threshold, like tax payments, childcare, and medical costs. Second, the poverty threshold used in SPM is derived from Consumer Expenditure Survey data, representing the dollar amount spent on a basic set of goods that include food, clothing, shelter, and utilities, which is adjusted for family size and geographic differences. Third, the family unit is broadened to include all related individuals who live in the same address, any co-resident unrelated children and any cohabiters and their relatives, along with unrelated, non-cohabitating individuals.
+
+A sample of SPM is included in Figure 1 below for years in which they are available. The red line represents the official poverty rate while the blue dotted line represents one of the Supplemental Poverty Measure. The SPM tends to show higher levels of overall poverty than the official measures in any year, although the differences become smaller over time. The incidence of poverty across groups also differs under these measures. Single-mother households fare somewhat better and married couples tend to have somewhat higher rates of poverty than when measured using the official methodology. This discrepancy likely results from the differing level of noncash benefits received by these two types of families.
+
+In Figure 2, the blue dotted line represents an alternative measure of SPM utilized by Wimer et al. (2013) [8]. This particular method uses the most current threshold and carries it back historically by adjusting it for inflation, instead of recalculating the poverty threshold over time. One advantage of the anchored Supplemental Poverty Measure is that it offers an absolute benchmark in which poverty trends can be explained by changes in income and net transfer payments as opposed to over time changes to the threshold. Relative to the traditional SPM poverty measure, the anchored SPM consistently yields higher poverty rates.
+
+
+
+SOURCE: Fox, Liana, Irwin Garfinkel, Neeraj Kaushal, Jane Waldfogel, and Christopher Wimer. Waging War on Poverty: Historical Trends in Poverty Using the Supplemental Poverty Measure. No. w19789. National Bureau of Economic Research, 2014.
+
+
+
+SOURCE: Wimer, Christopher, Liana E. Fox, Irwin Garfinkel, Neeraj Kaushal, Jane Waldfogel, and Christopher Wimer. Trends in Poverty with an Anchored Supplemental Poverty Measure. Institute for Research on Poverty, University of Wisconsin-Madison, 2013.

@@ -1,0 +1,22 @@
+CAIN: Sutton Index of Deaths
+CAIN Web Service
+
+
+
+Crosstabulations (two-way tables)
+
+This page provides users with the option of producing their own crosstabulations based on the variables contained in the database. The tables produced contain counts of the number of people killed within the categories of each variable considered.
+
+Crosstabulations
+
+select two variables
+
+First Variable Age Summary Gender Religion Summary Status Summary Status Organisation Summary Organisation Location Year by Second Variable Gender Age Summary Religion Summary Status Summary Status Organisation Summary Organisation Location Year
+
+
+
+Questions regarding these pages should be sent to the CAIN Director (m.melaugh@ulster.ac.uk)
+
+© Malcolm Sutton
+
+[menu] [book] [structure] [year] [name] [search] [tables] [crosstabs] [select/crosstabs]

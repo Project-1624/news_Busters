@@ -1,0 +1,32 @@
+justinlevittpftexasemails
+072012_justinlevittpftexasemails
+
+Emails (excerpted), responses to PolitiFact Texas, Justin Levitt, associate professor, Loyola Law School, Los Angeles, July 2012
+
+220 pm
+
+July 9, 2012
+
+...
+
+Austin was sliced up quite a bit in the interim map, and metro Austin (I'm not sure about the precise city limits) looks to me to be divided into 4-5 pieces, as the Texan claimed. Just scanning the wiki-list of similarly-sized cities, the other likely contenders would be Boston, which is split in 3-4 pieces (depending on how much of "metro" Boston you count as Boston: map here), Columbus, which is split in 3 (map here), Charlotte (which is split in 2-3 districts), Detroit (also 2-3), and Baltimore (also 2-3).
+
+…
+
+If (and I'll emphasize that I haven't looked at the data to know) Austin residents control elections for those 4-5 seats, that could be a plus.
+
+Justin
+
+1249 pm
+
+July 19, 2012
+
+It is, sure, possible ... albeit unlikely. Five or six is quite a bit of splits for a smaller town, and rare to see accidentally.
+
+But the only real way to tell for sure would be to get similar "city split" reports for every state's plan. Some states will have produced these reports (though they're not always in one consistent place) -- many won't have done so. For those that haven't, you'd need a GIS program (like ArcGIS or Maptitude) with city boundaries loaded into the system (most professional GIS programs have this sort of data), you'd have to load in the shapefiles of congressional districts (the ones I've collected), and then it's a relatively straightforward (if time-consuming) matter to have the program spit out the sort of report I'm talking about. That's an awful lot of legwork, and not legwork that -- to my knowledge -- anyone has done yet.
+
+Justin
+
+On 7/19/2012 8:39 AM, Selby, Gardner (CMG-Austin) wrote:
+
+A follow-up query: Setting aside cities comparable in size to Austin, is it possible that any smaller cities – maybe even much smaller – ended up being broken into five or six congressional districts?

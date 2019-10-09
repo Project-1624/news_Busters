@@ -1,0 +1,40 @@
+Pawn Storm: The Power of Social Engineering -
+In our latest report on Pawn Storm (a.k.a. APT28, Fancy Bear, Strontium, etc.), researchers expose the scope and scale of the cyber espionage group’s attacks but more importantly their cyber tradecraft. Our researchers have observed activity going back seven years targeting government, military, media, and political organizations around the world. In this report our researchers document the group’s shift to focus on cyber propaganda over the past two years and their 400 percent increase in targeting activity in 2016 alone.
+
+The history of Pawn Storm
+
+Our researchers have traced Pawn Storm as far back as 2004, however our first report (and the first research published on them) was in 2014. Since then it has become well established that the group targets any global organization perceived at odds with Russian geopolitical interests. The group has managed to compromise their targets across the globe with intelligent and calculated credentialed phishing campaigns.
+
+While the attacks around the U.S. election made substantial headlines, many other organizations were successfully targeted through the last three years:
+
+In 2016, the Pawn Storm group continued its cyber-espionage work however with two stark departures in tactics. They continued to harvest credentials of high value targets at a faster pace and determination but they pivoted to cyber propaganda. Based on the phishing domains created, political parties and media outlets dominated their focus.
+
+Date Organization Phishing Domain MILITARY 03/04/16 Bulgarian Army mail.armf.bg.message-id8665213.tk MINISTRY OF DEFENSE (MOD) 02/19/16 MOD Poland poczta.mon-gov.pl MEDIA 02/24/16 Hurriyet posta-hurriyet.com 03/14/16 Anadolu Agency anadolu-ajansi.com 03/15/16 Anadolu Agency mail.anadoluajansi.web.tr 05/11/16 Hurriyet webmail-hurriyet.com 06/12/16 Hurriyet mail-hurriyet.com 11/14/16 Al Jazeera account-aljazeera.net 11/14/16 Al Jazeera ssset-aljazeera.net 11/15/16 Al Jazeera sset-aljazeera.net 11/16/16 Al Jazeera sset-aljazeera.com 11/21/16 Al Jazeera mail-aljazeera.net POLITICAL PARTIES 01/21/16 Prime Minister Turkey e-post.byegm.web.tr 01/12/16 Prime Minister Turkey mail.byegm.web.tr 02/01/16 Prime Minister Turkey eposta.basbakanlik.qov.web.tr 02/01/16 Parliament Turkey e-posta.tbmm.qov.web.tr 03/01/16 Democratic Party US myaccount.google.com-securitysettingpage.gq 04/01/16 Democratic Party US myaccount.google.com-changepasswordmyaccount-idx8jxcn4ufdmncudd.gq 04/22/16 CDU webmail-cdu.de 05/06/16 CDU support-cdu.de 06/06/16 Democratic Party US actblues.com 10/20/16 Parliament Montenegro mail-skupstina.me ACADEMICS 03/04/16 Tartu University mail.university-tartu.info 09/13/16 Baikal State University mail-isea.ru INTERNATIONAL ORGANIZATIONS 08/03/16 World Anti-Doping Agency (WADA) mail.wada-awa.org 08/08/16 World Anti-Doping Agency (WADA) inside.wada-arna.org 08/08/16 Tribunal Arbitral du Sport (TAS) tas-cass.org
+
+Pawn Storm attacks in 2016
+
+The power of phishing
+
+In the first stage of their attacks they rely on credential phishing campaigns anchored by geopolitical events as lures to set the hook on their targets. They successfully tailor emails with proper spelling and grammar to evade spam filters to gain a foothold on targeted systems.
+
+Corporate webmail accounts are targeted as a weak link in a business information supply chain. These accounts can provide confidential data that might prove useful in an attempt to influence public opinion. For example, Pawn Storm stole data from webmail accounts of the World Anti-Doping Agency (WADA) in 2016, leaking it under the pseudonym “Fancy Bear,” to influence public opinion surrounding Russian athletes who were blocked from the summer Olympics. Additionally, webmail accounts may be used as a stepping stone to further infiltrate the target organization.
+
+Long-running campaigns are also maintained against high profile users of free international webmail providers, such as Yahoo! and Gmail. In these attacks, Pawn Storm actors persistently send spear phishing emails to targets – oftentimes multiple a week – trying different approaches until they’re successful. Our researchers have collected thousands of these emails since early 2015.
+
+Credentials lead to espionage
+
+After a target succumbs to the socially engineered phishing lure by clicking a malicious link or opening an infected attachment, the threat actor uses relatively simple first stage malware to map and harvest sensitive data and system information. The Pawn Storm group then silently gathers data on their target’s system for up to a year or more. After learning more about their victim and if they determine that they have compromised a high value target, they may release a second stage of malware to bore deeper. These high value targets are usually a smaller subset of their targeted groups.
+
+Pawn Storm has been known to use this data in two ways:
+
+To further penetrate deeper into targeted networks, even “island hop” sending emails using stolen identities Release sensitive emails publically to embarrass or defame victim organizations to influence public opinion
+
+What’s next for Pawn Storm?
+
+The group is expected to maintain an increased level of activity in 2017. In fact, our researchers have found and continue to find phishing domains created in March and April connected to political campaigns in France and Germany. Konrad Adenauer Stiftung, a political organization in Germany, and Emmanuel Macron’s campaign in France have both been targeted this year.
+
+The Pawn Storm group appears to be emboldened by media attention. Following the extensive headlines made in 2016 related to their impact on the U.S. election, we expect these attacks to continue. This also directly ties to our 2017 predictions report, which states that cyberpropaganda will become a norm. The report even references the elections in France and Germany where we now see Pawn Storm meddling.
+
+Political organizations like all other organizations should always operate under the assumption that they have been breached. From the boardroom to the server room, all must work together to protect confidential information. Whether it’s Pawn Storm, hacktivists, cybercriminal groups or an insider threat, intellectual property and confidential data in the wrong hands always ends poorly for any organization.
+
+For more information on Pawn Storm, visit Trend Micro’s complete research hub, where you can find three years of research and data on the group and their affairs.

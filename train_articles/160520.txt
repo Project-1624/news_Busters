@@ -1,0 +1,20 @@
+Trends in infant mortality in Venezuela between 1985 and 2016: a systematic analysis of demographic data
+Background
+
+Between the 1950s and 2000, Venezuela showed one of the most substantial improvements in infant mortality rates in Latin America. However, the recent economic crisis alongside an increase in infectious and parasitic diseases might be reversing previous patterns. Because no official updated mortality statistics have been published since 2013, the effect of these recent events has been difficult to assess accurately. We therefore aimed to estimate infant mortality rate trends and report the effect of the crisis.
+
+Methods
+
+We estimated infant mortality rates using direct methods (ie, death counts from Venezuelan Ministry of Health via yearbooks and notifiable diseases bulletins, and birth records published by the UN Economic Commission for Latin America and the Caribbean and the Venezuelan National Institute of Statistics) and indirect methods (using census data and a Living Conditions Survey ENCOVI 2016). We shaped yearly estimations using a semiparametric regression model, specifically a P-Spline model with a cubic thin plate base. The primary objective was to estimate infant mortality rate trends from 1985 to 2016.
+
+Findings
+
+Around 2009, the long-term decline in infant mortality rate stopped, and a new pattern of increase was observed. The infant mortality rate reached 21·1 deaths per 1000 livebirths (90% CI −17·8 to 24·3) in 2016, almost 1·4 times the rate of 2008 (15·0, −14·0 to 16·1). This increase represents a huge setback on previous achievements in reducing infant mortality.
+
+Interpretation
+
+Our conservative estimation indicates that Venezuela is in the throes of a humanitarian crisis. The increase in infant mortality rate in 2016 compared with 2008 takes the country back to the level observed at the end of the 1990s, wiping out 18 years of expected progress, and leaves the Venezuelan Government far from achieving the target of nine deaths per 1000 livebirths stated in the UN Millennium Development Goals.
+
+Funding
+
+None.

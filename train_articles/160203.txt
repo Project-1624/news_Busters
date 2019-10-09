@@ -1,0 +1,60 @@
+Russian Hackers Kept DNC Backdoor Longer Than Anyone Knew
+The indictment Friday of 12 Russian military officers for the election hacks against the DNC and Hillary Clinton’s campaign lends a surprising new detail to the 2016 election interference timeline: The Kremlin’s hackers apparently still maintained a foothold in the DNC’s network four months after the Democrats announced that they’d locked the intruders out.
+
+Until today, the story of the DNC hack ended promptly on June 14, 2016, when the Democrats went public with the intrusion in the pages of the Washington Post, and Crowdstrike, the security firm hired to respond to the breach, published a detailed technical account.
+
+Today’s indictment confirms every aspect of the DNC’s and Crowdstrike’s account, with one exception. Both the DNC and Crowdstrike have said repeatedly that they went public only after expelling all the Russian hackers.
+
+But buried in the new indictment is language suggesting that Crowdstrike missed a spot, and one computer infected with the GRU’s malware “remained on the DNC network until in or around October 2016.”
+
+If Mueller’s right, it raises the possibility that the Russians gathered months and months of additional intelligence on the DNC—right as the campaign was in its final, most important stretch. The hackers may have even had a front row seat on the DNC’s network that July, when Wikileaks published the hacked emails and the DNC was thrown into upheaval.
+
+The new indictment also rips the covers off the hidden workings of the GRU’s hacking apparatus, putting names, ranks and even street addresses to the elite computer intrusion unit that security experts have known for a decade under monikers like “APT28” and “Fancy Bear.”
+
+“ If Mueller’s right, it raises the possibility that the Russians gathered months and months of additional intelligence on the DNC—right as the campaign was in its final, most important stretch. ”
+
+Fancy Bear, as described by Mueller, is split between two departments within the GRU’s Unit 26165. Boris Alekseevich Antonov, a major in the Russian military, controls the pointy end of the stick, heading the team of hackers that carry out Fancy Bear’s network intrusions and signature spear phishing attacks. They craft the fake websites and bogus emails, gather information on their targets, and, once successful, deploying GRU’s arsenal of custom malware.
+
+Lt. Col Sergey Morgachev allegedly oversees the GRU’s geek squad, heading the department that codes the most infamous malware on the Internet, like the backdoor programs X-Agent and Sedreco, and the stealth VPN known as X-Tunnel. That latter group is also responsible for monitoring the malware once it’s in place on a target’s network. They draw down the intelligence haul and send it upstream into the Russian military.
+
+Atop it all is the lead defendant in the indictment, Viktor Borisovich Netyksho, the alleged head of Unit 26165 and the man who oversaw the election interference campaign.
+
+The operation began with Antonov’s hackers staging a bulk phishing attack in March 2016 that targeted the Gmail accounts of more than 300 people affiliated with the Clinton campaign and the Democratic party. It was this attack that claimed the GRU’s first big trophy, the entire Gmail archive for Clinton campaign chief John Podesta.
+
+The next month another phishing attack gave the GRU login credentials for the network of the Democratic Congressional Campaign Committee. A Fancy Bear hacker named Ivan Yermakov allegedly established a beachhead on the network on April 12th. The GRU began moving laterally, installing X-Agents everywhere, capturing covert screenshots and monitoring DCCC workers keystroke as they typed in their passwords.
+
+Six days later, they found a DCCC worker who also had access to the DNC’s network. They used the worker’s password to breach the DNC, where they were quickly siphoning gigabytes of stolen data over X-Tunnel to a leased server in Illinois. By May they’d saturated the DNC with X-Agent implants and penetrated the Microsoft Exchange server, where they sucked down the 40,000 DNC emails destined for Wikileaks.
+
+The GRU already had a plan lined up to release the stolen material through a fake whistleblower site. The first step in March was to use Bitcoin to sign up with a Russian VPN provider, so they could anonymize their Internet connection as they set up the infrastructure for the leaks. They used the same Bitcoin wallet to register the domain name dcleaks.com on April 19, and set up hosting at a Malaysian server farm nine days later.
+
+But in May, before the GRU could execute the faux whistleblower leaks, the DCCC and the DNC figured out they’d been hacked and brought in Crowdstrike. The weekend of June 11th, Crowdstrike moved to purge the DNC of the Fancy Bear infection.
+
+Immediately afterwards, the Washington Post story appeared, and Crowdstrike CTO Dmitri Alperovitch published a technical account of the breach that left little room for doubt that Russia was behind the hacks. The blog post also ran down a list of the malware used in the intrusions, including the GRU’s signature backdoor program X-Agent.
+
+The indictment, though, raises the first doubts that the purge was a complete success.
+
+“By in or around June 2016, [Crowdstrike] took steps to exclude intruders from the networks,” the indictment reads. “Despite these efforts, a Linux-based version of X-Agent, programmed to communicate with the GRU-registered domain linuxkrnl[.]net, remained on the DNC network until in or around October 2016.”
+
+The reference to the command-and-control server “linuxkrnl[.]net” is noteworthy for its complete absence from Crowdstrike’s blog post. The company’s report listed three command-and-control servers used by the GRU to control their DNC malware, and that domain name was not on the list, and has never been publicly linked before to Fancy Bear. It’s unclear whether Crowdstrike omitted it, or never discovered it.
+
+“ What’s certain is that when the DNC went public on June 14, Fancy Bear was caught off guard. The whistleblower narrative was still in the can, and the truth about Russia’s attack was in all the newspapers. ”
+
+Mueller's assertion that the hacking tools persisted for months on the Democrats' networks roughly matches what former interim DNC chief Donna Brazille's account in her book, Hacks: The Inside Story of the Break-Ins and Breakdowns that Put Donald Trump in the White House. In it, she wrote that “the intruders had been sitting in our voter data files for months” after their supposed ouster.
+
+Crowdstrike referred the Daily Beast’s inquiry to the DNC, which acknowledged the lingering X-Agent infection, but said it wasn’t a threat, and never made contact with the GRU.
+
+“This Linux based version of X-agent malware was a remnant of the original hack and had been quarantined during the remediation process in June 2016,” said Adrienne Watson, the DNC’s deputy communications director. “While programmed to communicate with a GRU-registered domain, we do not have any information to suggest that it successfully communicated, exfiltrated data, corrupted our newly built systems, or breached our voter file following the remediation process.”
+
+At least one security expert says the DNC’s answer is plausible. “You usually don’t remove all adversary components until you’re sure they’re out in all other means,” says Sergio Caltagirone, director of threat intelligence at Dragos. “ These things can go on for a long time. ”
+
+What’s certain is that when the DNC and Crowdstrike went public on June 14, Fancy Bear was caught off guard. The GRU’s whistleblower narrative was still in the can, and the truth about Russia’s attack was in all the newspapers.
+
+“In response, the Conspirators created the online persona Guccifer 2.0, and falsely claimed to be a lone Romanian hacker to undermine the allegations of Russian responsibility for the intrusion,” according to Mueller's indictment.
+
+Managing the Guccifer personal fell to a completely different group in a separate GRU facility called Unit 74455, which appears from the indictment to serve as a more-sophisticated version of the Internet Research Agency, maintaining fake social media profiles to extend Russia’s covert influence around the world.
+
+Guccifer 2.0 claimed that he, and he alone, was responsible for the DNC breach. The intelligence community and security experts weren’t fooled, but others were. Helped by Trump adviser Roger Stone and other high-profile figures, Unit 74455 managed to sow doubt on the margins about Russia’s involvement in the election hacks.
+
+Hopefully, that ended on Friday.
+
+UPDATE 7/14/18: The story has been updated to include information from Donna Brazille's account of the intrusions.

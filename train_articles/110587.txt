@@ -1,0 +1,25 @@
+Near-Real-Time DMSP SSM/I-SSMIS Daily Polar Gridded Sea Ice Concentrations Data Contributors MASLANIK, JIM
+
+STROEVE, JULIENNE
+
+KNOWLES, KENNETH
+
+MEIER, WALT
+
+CAVALIERI, DONALD J. Parameters SEA ICE > SEA ICE CONCENTRATION Instruments SSM/I : SPECIAL SENSOR MICROWAVE/IMAGER
+
+SSMIS : SPECIAL SENSOR MICROWAVE IMAGER/SOUNDER Documentation FTP Polaris
+
+
+
+This data set provides a near-real-time (NRT) map of sea ice concentrations for both the Northern and Southern Hemispheres. The near-real-time passive microwave brightness temperature data are acquired with the Special Sensor Microwave Imager/Sounder (SSMIS) on board the Defense Meteorological Satellite Program (DMSP) F17 satellite. The SSMIS instrument is the next generation Special Sensor Microwave/Imager (SSM/I) instrument. SSMIS data are received daily from the Comprehensive Large Array-data Stewardship System (CLASS) at the National Oceanic and Atmospheric Administration (NOAA) and are gridded onto a polar stereographic grid. Investigators generate sea ice concentrations from these data using the NASA Team algorithm. These data are stored as one-byte flat scaled binary arrays with one byte per pixel, at a resolution of 25 km. For each data file, a corresponding PNG image file is provided. These data are available via FTP for the most recent three to six months and are retained on the FTP site until NSIDC's Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I Passive Microwave Data (preliminary data) become available for the same time period. These data are primarily meant to provide a best estimate of current ice and snow conditions based on information and algorithms available at the time the data are acquired. Near-real-time products are not intended for operational use in assessing sea ice conditions for navigation and should be used with caution in extending the sea ice time series in NSIDC's Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I Passive Microwave Data. View Metadata Record Data Citation The following example shows how to cite the use of this data set in a publication. For more information, see our Use and Copyright Web page. Maslanik, J. and J. Stroeve. 1999, updated daily. Near-Real-Time DMSP SSM/I-SSMIS Daily Polar Gridded Sea Ice Concentrations. [indicate subset used]. Boulder, Colorado USA: NASA DAAC at the National Snow and Ice Data Center. Most recent sea ice concentration data for the Northern Hemisphere. Sea ice concentration refers to the fraction of ice within each image pixel. This image is color-coded to show varying levels of ice concentration for the Northern Hemisphere. Grey represents land. Pixels with at least 15 percent concentration are classified as sea ice. Pixels with less than 15 percent ice concentration are classified as water. Most recent sea ice concentration data for the Southern Hemisphere. Sea ice concentration refers to the fraction of ice within each image pixel. This image is color-coded to show varying levels of ice concentration for the Southern Hemisphere. Grey represents land. Pixels with at least 15 percent concentration are classified as sea ice. Pixels with less than 15 percent ice concentration are classified as water.
+
+See Also Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I Passive Microwave Data
+
+Near-Real-Time SSM/I EASE-Grid Daily Global Ice Concentration and Snow Extent
+
+Sea Ice Data at NSIDC
+
+Sea Ice Index
+
+Contact User Services

@@ -1,0 +1,60 @@
+Central Limit Theorem -- from Wolfram MathWorld
+Central Limit Theorem
+
+Let be a set of independent random variates and each have an arbitrary probability distribution with mean and a finite variance . Then the normal form variate
+
+(1)
+
+has a limiting cumulative distribution function which approaches a normal distribution.
+
+Under additional conditions on the distribution of the addend, the probability density itself is also normal (Feller 1971) with mean and variance . If conversion to normal form is not performed, then the variate
+
+(2)
+
+is normally distributed with and .
+
+Kallenberg (1997) gives a six-line proof of the central limit theorem. For an elementary, but slightly more cumbersome proof of the central limit theorem, consider the inverse Fourier transform of .
+
+(3) (4) (5) (6)
+
+Now write
+
+(7)
+
+so we have
+
+(8) (9) (10) (11) (12) (13) (14) (15) (16)
+
+Now expand
+
+(17)
+
+so
+
+(18) (19) (20)
+
+since
+
+(21) (22)
+
+Taking the Fourier transform,
+
+(23) (24)
+
+This is of the form
+
+(25)
+
+where and . But this is a Fourier transform of a Gaussian function, so
+
+(26)
+
+(e.g., Abramowitz and Stegun 1972, p. 302, equation 7.4.6). Therefore,
+
+(27) (28) (29)
+
+But and , so
+
+(30)
+
+The "fuzzy" central limit theorem says that data which are influenced by many small and unrelated random effects are approximately normally distributed.

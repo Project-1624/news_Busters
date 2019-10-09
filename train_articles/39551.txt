@@ -1,0 +1,42 @@
+Supreme Court Nominee Brett Kavanaugh Penned Healthcare Dissent Focused On Tax
+President Trump has announced his nomination to fill the vacancy on the Supreme Court of the United States (SCOTUS) created by Justice Anthony Kennedy's retirement. On Monday, the President gave the nod to District of Columbia Circuit Court of Appeals Judge Brett Kavanaugh. Kavanaugh has close ties to the Supreme Court. He clerked for Kennedy in the 1990s with another Supreme Court Justice, Neil Gorsuch. For the past dozen years, he's been a fixture in the D.C. courts, which have produced other SCOTUS Justices, including Clarence Thomas, Ruth Bader Ginsburg and Chief Justice John Roberts.
+
+SCOTUS Justices typically don’t cut their teeth on tax cases, and Kavanaugh would be no exception. There is one tax-related case in his career, though, that stands out: Seven-Sky v. Holder (Susan SEVEN–SKY, Also Known as Susan Sevensky, et al., Appellants v. Eric H. HOLDER, Jr., et al., Appellees, No. 11–5047).
+
+The case was a challenge to the Affordable Care Act (also called “ACA” or sometimes “Obamacare”). The Act was passed by Congress on March 21, 2010, and signed into law by then President Barack Obama two days later. A number of lawsuits followed, including Seven-Sky, which involved a challenge to the “minimum essential coverage provision.” The minimum essential coverage provision required that folks purchase and maintain healthcare insurance. It’s more commonly known as the individual mandate, and if you don’t have coverage—and don’t qualify for a waiver or an exemption’you're subject to a penalty. (Er, tax? Keep reading.)
+
+The mandate is still in place for 2018. (You can read more here.)
+
+In Seven-Sky, the taxpayers argued that the healthcare mandate exceeded Congress’ authority under the Commerce Clause in the Constitution. The result, they argued, also burdened their religious exercise in violation of the Religious Freedom Restoration Act (RFRA).
+
+The district court disagreed, and the taxpayers appealed the decision. The appellate court affirmed, meaning that they found that the district court reached the correct decision.
+
+One of the issues that the judges considered in the case was whether the court had the right to hear it at all. Courts can only hear matters for which they have jurisdiction. The issue of jurisdiction tends to be raised by an immediate party to the case. Here, that would have been the taxpayers or the government—but neither raised the issue at this level. Instead, the issue was brought up in an amicus curiae brief. Amicus curiae is a Latin phrase meaning “friend of the court.” For legal purposes, an amicus curiae is a party who is not formally involved in the case—meaning neither a plaintiff nor a defendant—but someone (or some organization) that has a vested interest in the outcome.
+
+Here’s the gist of the argument. There’s a provision in the Tax Code called the Anti-Injunction Act (AIA). It basically says that you can’t raise a challenge to an assessment or collection of a tax before the tax is enforced. You already know the drill: For example, you have to get a notice from the Internal Revenue Service (IRS) before you can file your case in Tax Court.
+
+(You can read more about the Tax Court here.)
+
+With that in mind, the court considered two questions:
+
+Did the words “any tax” in the AIA apply to the shared responsibility payment?
+
+If the terms of the AIA didn’t apply, did the language describing the mandate under the Affordable Care Act change the analysis?
+
+The appellate court found that the failure to maintain minimum essential coverage resulted in a penalty, a term they felt was deliberate, as opposed to a tax. The majority wrote, “Nothing we have seen suggests that Congress intended for ‘any tax’ in the Anti-Injunction Act to include exactions unrelated to taxes that Congress labeled ‘penalties.’” That interpretation, the court found, was supported by judicial construction of the Tax Injunction Act, a statute with language similar to that found in the AIA but applied to state taxes.
+
+Kavanaugh, in a lengthy (65 page) dissent, suggested instead that Congress intended for the AIA to apply to the mandate, because the Affordable Care Act directs that the penalty (we’re using the “p” word here instead of the “t” word) be “assessed and collected in the same manner” as a tax. The similarities, he argued, meant that it should be treated like a tax—including its applicability under the AIA. The majority disagreed with the “dissent's linguistic analysis,” noting that the language in the statute otherwise raised distinctions.
+
+Kavanaugh failed to convince his colleagues that the “straightforward chain of logic” meant that they could not hear (and decide) the case. But his reasoning—that the AIA barred the suit—is important. That’s because procedure matters. Kavanaugh didn’t argue that the Affordable Care Act was unconstitutional. He never got that far. He argued instead that the court couldn’t hear the case, declaring:
+
+The Tax Code is never a walk in the park. But the statutory analysis here leads to a firm conclusion that the Anti-Injunction Act bars this suit.
+
+(You can read the case, which downloads as a pdf here.)
+
+Dissents don’t typically cause a big stir, and this one might have just been a legal footnote except for one thing: The argument that the payment for the mandate was a tax—and not a penalty—became a central argument at SCOTUS when considering whether the Affordable Care Act was constitutional. Chief Justice Roberts agreed with the government’s position (which, remember, the government did not initially bring in the Seven-Sky case) that the shared responsibility payment was a “tax” and not a “penalty"—and Congress has the authority to regulate federal tax.
+
+However, Roberts went on to say that Congress did not intend for the payment to be treated as a “tax” for purposes of the AIA. Even though the payment acted like a tax, Congress described the payment as a penalty. He reasoned that “[w]here Congress uses certain language in one part of a statute and different language in another, it is generally presumed that Congress acts intentionally.” He concluded, then, that Congress intended for the law barring challenges to a tax which had not yet taken effect to apply only to pure tax cases—and the Affordable Care Act wasn’t one of those cases. That meant, as in Seven-Sky, that the Court could hear and decide the case.
+
+(You can read more about SCOTUS' Affordable Care Act ruling here.)
+
+The rest, as they say, is history. The Affordable Care Act is still the law, and the mandate remains in place for a little longer. (Who says words don't matter?)

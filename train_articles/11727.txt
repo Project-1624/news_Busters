@@ -1,0 +1,22 @@
+The Racial Wealth Gap
+This Jon Jeter piece about racial wealth inequality seemed to be making the rounds a lot over the weekend. Jeter begins thusly:
+
+For every dollar in assets owned by whites in the United States, blacks own less than a nickel, a racial divide that is wider than South Africa’s at any point during the apartheid era. The median net worth for black households is $4,955, or about 4.5 percent of whites’ median household wealth, which was $110,729 in 2010, according to Census data. Racial inequality in apartheid South Africa reached its zenith in 1970 when black households’ median net worth represented 6.8 percent of whites’, according to an analysis of government data by Sampie Terreblanche, professor emeritus of economics at Stellenbosch University.
+
+As someone who keeps track of such things, I was intrigued by the figures, but could not discern where they came from. The Census does not track wealth like this. The 2010 year suggests Jeter may actually be referring to the Survey of Consumer Finances (SCF). But its figures differ from Jeter’s.
+
+I checked Edward Wolff’s calculations from the 2010 SCF (which differ from the official SCF numbers because Wolff doesn’t think it’s correct to count car value as wealth). In Wolff’s figures, you will find Jeter’s median black wealth figure of $4.9k, but the median white wealth figure is $97k, not the $110.7k figure Jeter provides. So the mystery remains.
+
+Seeing as I was on the prowl for the figures anyways, I decided I might as well just whip some up myself. Using the 2010 SCF microdata, including the judgments it makes about what constitutes net worth, I calculated the following.
+
+Black median wealth is 12 percent of white median wealth. Hispanic median wealth is 14.3 percent of white median wealth.
+
+Black mean wealth is 15.1 percent of white mean wealth. Hispanic mean wealth is 21.6 percent of white mean wealth.
+
+Whites collectively hold 88.4 percent of the nation’s wealth. Blacks collectively hold 2.7 percent of the nation’s wealth. Hispanics hold 4 percent of the nation’s wealth.
+
+Of course, there are population differences between the groups. In this final graph I divide each race’s share of the overall wealth by its share of the overall population. If wealth were evenly distributed among racial groups, all the bars would line up at 1. Bars above 1 indicate that the racial group has a greater share of the nation’s wealth than its share of the population. Bars below 1 indicate the racial group has a lesser share of the nation’s wealth than its share of the population.
+
+Whites’ share of the nation’s wealth is 31 percent greater than their share of the nation’s population. Blacks’ share of the nation’s wealth is 80 percent less than their share of the population. That is, to bring their share of the wealth in line with their share of the population, you’d need to increase black wealth five-fold. Hispanics’ share of the nation’s wealth is 72 percent less than their share of the population. To bring their share of the wealth in line with their share of the population, you’d need to increase it by 3.5x.
+
+So, obviously, wealth disparity is a huge racial justice issue. A lot is said of income–so much so that some even wrongly conclude that blacks and whites in the same income groups are in basically the same circumstances–but wealth is just as big an issue. In fact, as far as gaps go, wealth gaps between races and classes are much bigger than income gaps.

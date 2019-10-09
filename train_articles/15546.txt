@@ -1,0 +1,131 @@
+0516 cppppftexas
+
+Emails, Oliver Bernstein, communications director, Eva DeLuna Castro, program director, Invest in Texas, Center for Public Policy Priorities, May 16-20, 2016
+
+(Oliver Bernstein)
+
+1:51 p.m.
+
+May 16, 2016
+
+Here is the spreadsheet CPPP used to calculate that number.
+
+The numbers come from the LBB (see column B, rows 26-29).
+
+Column Y is the one that matters here.
+
+That is inflation adjusted spending per ADA (average daily attendance).
+
+From Row 19 to row 5, you will see a difference of $381.
+
+May 17, 2016, at 12:09 PM, Selby, Gardner (CMG-Austin) wrote:
+
+I am pasting below a portion of your spreadsheet. If I read right, if you swap in the 2003 and 2017 figures for state-only education spending, the result is a $254 per student INCREASE.”
+
+Agree? If so, what’s at play?
+
+g.
+
+Spending per ADA adjusted to 2015 dollars State Federal Federal with Stimulus Total Total $ 4,183 $ 984 $ 10,704 2002 $ 10,704 $ 3,982 $ 1,041 $ 10,752 2003 $ 10,752 $ 3,611 $ 1,214 $ 10,468 2004 $ 10,468 $ 3,497 $ 1,225 $ 10,260 2005 $ 10,260 $ 3,508 $ 1,280 $ 10,625 2006 $ 10,625 $ 3,899 $ 1,094 $ 10,541 2007 $ 10,541 $ 4,709 $ 1,075 $ 1,050 $ 10,460 2008 $ 10,460 $ 4,511 $ 1,116 $ 1,573 $ 11,621 2009 $ 11,621 $ 4,205 $ 1,094 $ 1,697 $ 10,626 2010 $ 10,626 $ 4,230 $ 1,084 $ 1,684 $ 10,480 2011 $ 10,480 $ 4,439 $ 1,062 $ 1,062 $ 10,055 2012 $ 10,055 $ 4,119 $ 1,077 $ 9,813 2013 $ 9,813 $ 4,316 $ 1,006 $ 10,109 2014 $ 10,109 $ 4,370 $ 1,017 $ 10,375 2015 $ 10,375 $ 4,397 $ 1,000 $ 10,440 2016 HB1 $ 10,440 $ 4,236 $ 979 $ 10,371 2017 HB1 $ 10,371
+
+From: Eva DeLuna Castro <Sent: Tuesday, May 17, 2016 4:52:32 PM
+
+To: Selby, Gardner (CMG-Austin)
+
+Subject: RE: Following up
+
+If you look at the column that’s not in the table – local funding – you see that, in 2007 and 2008, it goes down by pretty much the same amount that state aid goes up. (About $1,200 total change over those two years.) That’s when the state phased in the 2006 tax reductions in response to the previous school finance lawsuit. State put $14 billion into the FSP so that local property taxes could go down by the same amount.
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Wednesday, May 18, 2016 8:41 AM
+
+To: Eva DeLuna Castro
+
+Subject: Re: Following up
+
+Ok. What's a good way to tease out the tax-swap state spending from 2007 on?
+
+wgs
+
+W. Gardner Selby
+
+Editor
+
+PolitiFact Texas
+
+Austin American-Statesman
+
+9:20 a.m.
+
+May 18, 2016
+
+LBB just says it costs $14 billion every two years. What that meant after the 2011 cuts, I don’t know. It was done through a compressed tax rate, not with a set dollar figure, so presumably it would change as the value of property changes.
+
+Eva De Luna Castro
+
+State Budget Analyst ● Program Director, Invest in Texas
+
+Center for Public Policy Priorities
+
+10:51 a.m.
+
+May 18, 2016
+
+Different inflation is used in the worksheet we sent him: U.S. Bureau of Economic Analysis Implicit Price Deflator for State/Local Government. LBB has been known to use that series as well; it’s what I was told to use at the Comptroller’s office when adjusting for government spending.
+
+Why it’s different: governments are more likely to face the rising costs of health care (teacher health insurance premiums, for example) and of road construction that the CPI doesn’t capture. (When’s the last time your household budget included paving a lane-mile of highway?)
+
+Ray Perryman addressed this at yesterday’s Senate Finance hearing when he said why CPI isn’t the best inflation measure to use for a state government spending cap: “In fact, the major areas of public spending have historically increased at a level well above that of the CPI. Over the past ten years, for example, the CPI had increased by 21.4%... while the increases in prices for infrastructure construction (47.7%), medical services (38.3%), educational services (41.7%), and governmental services (32.7%) have been much more pronounced.”
+
+It’s not just about spending, though; it’s about the OUTCOME of spending. When schools aren’t funded well enough to keep up with enrollment and operational cost growth, bigger classrooms are the result. (Paying teachers is obviously a major school expense.) In 2002-03, Texas averaged 1 teacher per 14.7 students. https://rptsvr1.tea.texas.gov/perfreport/pocked/2003/pocked0203.pdf
+
+Ever since the 2011 cuts, that ratio has been higher: 1 teacher to 15.3 students, or worse. Doesn’t sound like that big of a difference, but today, almost 12,500 teachers statewide would have to be hired to get back to the smaller classroom size.
+
+Eva De Luna Castro
+
+State Budget Analyst ● Program Director, Invest in Texas
+
+Center for Public Policy Priorities
+
+12:05 p.m.
+
+May 20, 2016
+
+I managed to reconstruct (pretty close, anyway – only off by $10 in 2003) the LBB totals for school spending for all the intervening years. Took me a while because I was trying to make sure recapture was being counted consistently in the time series. See attached.
+
+Unlike the State Local Govt Implicit Price Deflator series from the BEA, the CPI (as the LBB did) does show that 2017 spending could be higher per student in ADA than the fiscal 2003 figure.
+
+But it also turns out to be lower than several intervening years: 2006, 2007, 2008, 2012, 2015, and 2016. (I’m not even counting the years when ARRA/EduJobs gave the state additional federal funds to use, instead of GR or in addition to it.) I thought it worth pointing out that a different inflation-adjustment series moves the historical peak to another year. But 2017 is still less than Texas has previously put into schools, per student, adjusted for inflation.
+
+Eva De Luna Castro
+
+State Budget Analyst ● Program Director, Invest in Texas
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Friday, May 20, 2016 2:09 PM
+
+To: Eva DeLuna Castro
+
+Subject: RE: also FYI: non-CPPP, non-LBB source of adjusted ed spending
+
+A colleague wonders why anyone would pick 2003 as the starting-point year.
+
+3:15 p.m.
+
+May 20, 2016
+
+Good question. You can pick any year you want, and get a different conclusion.
+
+State budget analyses: if your starting point is 2003 or 2011, those are the last years right before the state budget made significant cuts to pretty much everything (schools, HHS, state employee benefits, support for higher ed, etc.).
+
+School Finance analyses, especially state/local trade-offs within the Foundation School Program: milestone years would be early 1990s (Edgewood); or 2008 (the most recent peak as far as state aid % of school funding, which resulted from the Supreme Court’s ruling a decade ago).
+
+If you want to make it look like state spending is higher than it used to be, then you pick the low point. (Examples: you compare today to the 2004-05 or 2012-13 biennium.)
+
+Eva De Luna Castro
+
+State Budget Analyst ● Program Director, Invest in Texas
+
+Center for Public Policy Priorities

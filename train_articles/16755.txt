@@ -1,0 +1,79 @@
+0717 potterpftexas
+
+Email, Lloyd Potter, Texas state demographer, July 6 and 17-18, 2017
+
+To: Lloyd Potter
+
+Subject: Inquiry for a PolitiFact Texas fact check
+
+Dr. Potter:
+
+Hello again. I write because we’re trying to check this claim by Evan Smith as quoted in a recent article in The New Yorker: "The last majority-Anglo high school class in Texas graduated in 2014."
+
+Does this hold up? If so, according to what best data?
+
+We imagine there may still be some high schools with majority-Anglo graduating classes. Is there a smart way to quantify which ones?
+
+Other aspects to consider?
+
+Thank you for any help.
+
+g.
+
+Want our fact checks first? Follow us on Twitter.
+
+W. Gardner Selby
+
+Reporter / News
+
+Austin American-Statesman
+
+PolitiFact Texas
+
+2:06 p.m.
+
+I think there are a few different ways to potentially examine this statement. It appears that “majority-Anglo” refers to there being more Anglos than any other race/ethnic group alone (when you combine all minority groups into one group and compare to Anglos, Anglos have been a numeric minority in Texas for some time). In looking at this I assume that term Anglo is the equivalent of non-Hispanic White.
+
+One way to approach this is to look at the number of Anglos and minority groups aged 18 (assuming that’s a proxy for the graduating class) in each year.
+
+The U.S. Census Bureau does not break out single years of age by race/ethnicity in their population estimates. However, looking at their estimates for 14-19 year old persons in Texas on July 1, 2014, about 35% were non-Hispanic white, 13% non-Hispanic African American, and 47% Hispanic. ( https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2016/PEPASR6H/0400000US48?slice=hisp~nhisp!year~est72014 ).
+
+Population estimates from the Texas Demographic Center are produced in single years of age. In 2014, we estimated that 34% of 18 year old persons in the State were non-Hispanic white, 12% non-Hispanic African American, and 47% Hispanic. ( http://demographics.texas.gov/Data/TPEPP/Estimates/ ).
+
+Another approach, given that graduation rates are not equal across race/ethnic groups, would be to look at the numbers graduating each year by race and ethnicity from TEA data ( http://tea.texas.gov/acctres/dropcomp_index.html – table numbers vary each year but usually table 25 or 26). There are reports on this page (Secondary School Completion and Dropouts in Texas Public Schools) for different years . A quick look at the 2012-13 report suggests that there were more Hispanics that graduated compared to Anglos.
+
+I think you can get TEA data on graduation numbers by year and race and ethnicity for school districts. I would expect there are districts where the majority of students graduating are still Anglo. However the statement seems to be focused on Texas as a whole.
+
+Overall, looking at population estimates from the U.S. Census Bureau and the Texas Demographic Center and data from TEA on race/ethnicity of graduates, it appears there was not a majority-Anglo high school class in 2014.
+
+It might take a little digging to find when was the last year was that Texas had a majority-Anglo high school graduating class, but it does not appear to have been in 2014.
+
+I think you can get TEA data on graduation numbers by year and race and ethnicity for school districts. I would expect there are districts where the majority of students graduating are still Anglo. However the statement seems to be focused on Texas as a whole.
+
+Overall, looking at population estimates from the U.S. Census Bureau and the Texas Demographic Center and data from TEA on race/ethnicity of graduates, it appears there was not a majority-Anglo high school class in 2014.
+
+It might take a little digging to find when was the last year was that Texas had a majority-Anglo high school graduating class, but it does not appear to have been in 2014.
+
+10:22 p.m.
+
+July 17, 2017
+
+If you look at historical enrollment statistics from TEA (http://tea.texas.gov/acctres/enroll_index.html) it appears the last year there were more than 50% white students enrolled in 12th grade was 2000-01 and in 2001-02 it was 50%.
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Tuesday, July 18, 2017 11:33 AM
+
+Thanks again.
+
+One more question: Smith also said that in 2004, the Anglo population in Texas became a minority. That right? If not, what would be right? Best citation?
+
+g.
+
+12:17 p.m.
+
+July 18, 2017
+
+Yes, that is correct, in 2004 the Anglo population in Texas was an estimated 49.5% of the population and was 50.2% in 2003.
+
+Data from the Census Bureau relevant to this can be found in this table: Intercensal Estimates of the Resident Population by Sex, Race and Hispanic Origin for States and the United States: April 1, 2000 to July 1, 2010 available at https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-state.html.

@@ -1,0 +1,28 @@
+Voter Registration Technology
+The voter registration process may seem simple to most voters. They give their names, addresses, birth date, and in some cases party affiliations to election officials with the expectation that they will be able to vote on Election Day. In reality, election officials must oversee a complex system managing this process. They must ensure that the voters’ information is accurately recorded and maintained, that the system is transparent while voter information is kept private and secure from unauthorized access, and that poll workers can access this information on Election Day to determine whether or not any given voter is eligible. A well-managed voter registration system is vital for ensuring public confidence in elections.
+
+State and local governments have managed voter registration using different approaches among different jurisdictions. In 2002, Congress sought to make these disparate efforts more uniform by passing the Help America Vote Act, which required that each state have a computerized statewide voter registration database. In implementing this mandate, state and local governments still have differing approaches, but it is clear that information technology underpins each of their efforts. While technology will help election officials manage this complex system, it also creates new risks that must be addressed.
+
+From ACM’s Voter Registration Database Report 2006 Read the full report (pdf)
+
+Security Vulnerabilities in Maryland’s Online Voter Registration System A letter written to the Maryland State Board of Elections in October 2012 by J. Alex Halderman, David Jefferson and Barbara Simons urging them to take immediate steps to better protect a new system that allows Marylanders to update their voter registration online. While expressing their strong support the goal of using the Internet to increase the convenience of voter registration and registration changes for both voters and election officials, the authors identified severe security vulnerabilities in Maryland’s online voter registration system. These problems leave the system open to large-scale, automated fraud, and make the Maryland system among the most vulnerable of all the states’ new online voter registration systems. The letter recommended defensive steps for immediate implementation, as well as additional safeguards for implementation as soon as possible after the election. Read the Full Letter (pdf)
+
+Problems Arising When Using Databases to Disqualify Voters
+
+by Douglas W. Jones
+
+At a news conference in August 2012, Iowa’s Republican Secretary of State, Matt Schultz, and Democratic attorney general, Tom Miller, presented evidence suggesting there are non-citizens who have registered to vote illegally and that some of these illegal registrants have voted. Clearly, further investigation is called for, and if indeed these people have voted, they should be prosecuted. I am worried, however, about the effort to run a database matching effort to ferret out and remove non-citizens from the voting rolls. The central problem here is that we have no requirement of registering to vote under the same name as we use for other purposes.
+
+For a driver’s license, you present a birth certificate, so your name on the driver’s license will match your birth certificate. To register to vote, you can use your employer ID card and a phone bill. As it turns out, my voter registration is in the same name as my driver’s license. That’s because I used my license to register about 32 years ago. On the other hand, my employer’s ID card lists my name differently (just a middle initial). I could have registered to vote with that card, had I wanted to. There is no legal requirement that I use the same name everywhere, and in fact, I use a variety of names and nicknames:
+
+Most people know me as Doug Jones.
+
+Some know me as Douglas Jones.
+
+To my employer, I’m Douglas W. Jones.
+
+And on my driver’s license, I’m Douglas Warren Jones.
+
+I’m not trying to confuse people. It’s just that, at various times, I’ve used different and obvious variations on my full name.
+
+That’s why cross checking voter lists with driver’s license databases is very problematic. If you demand exact matches, you’ll miss many people; and if you accept partial matches, you’ll start to confuse people. The exact rules used to determine whether you’ll be more likely to err by disenfranchising people who were legally entitled to vote, or to err by allowing people to vote who shouldn’t. Read More

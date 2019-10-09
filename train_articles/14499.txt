@@ -1,0 +1,114 @@
+NASA Science
+Weather
+
+The Earth’s weather system includes the dynamics of the atmosphere and its interaction with the oceans and land. Weather ranges from local or microphysical processes that occur in minutes through global-scale phenomena that we can predict with a degree of success at an estimated maximum of two weeks prior. The Weather focus area is important to the NASA Earth Science for two reasons:
+
+First, improving our knowledge of weather processes and phenomena is crucial in gaining an understanding of the Earth system.
+
+Second, there is an infrastructure in the U.S. for operational meteorology at NOAA, the FAA, the DoD, and other agencies that requires the introduction of new technologies and knowledge that only NASA can develop.
+
+NASA has been a strong contributor to the National weather forecasting goals in the past, and will continue to be in the future, primarily through the development and use of data from space-based sensors. Satellite-based profiles of temperature and moisture have been routinely used in operational forecasting for more than 20 years, and new NASA sensors hold promise for more accuracy and spatial resolution. A geostationary Lightning Mapper Sensor (LMS) will provide dramatic improvements in the operational use of sounding data for real-time diagnosing of severe storms. Recent developments in assimilating radar and passive microwave data from TRMM and the Advanced Infrared Sounder (AIRS) data from Aqua have improved weather forecasts. Further advances in predictive capabilities will come with data from the new GPM satellite, which can measure falling rain, snow, and ice in light to heavy quantities and cover the entire globe every three hours.
+
+Research Questions
+
+Weather addresses the following overarching questions:
+
+How can weather forecast duration and reliability be improved?
+
+What can we do to improve the capability to predict weather and extreme weather events?
+
+What impact does the large-scale environment, particularly the Saharan Air Layer, have on hurricane intensity change?
+
+What is the role of storm internal processes such as deep convective towers?
+
+To what extent are storm intensification processes predictable?
+
+How can we use the NASA satellite and airborne observations in the day-to-day weather forecast operations at our partner agencies?
+
+Advanced Planning
+
+In April 2015, the Weather Focus Area held a workshop to plan for future research directions.
+
+Access to the Weather Focus Area Workshop report (2015) can be found here.
+
+Research Programs
+
+Weather Researchis primarily designed to apply NASA scientific remote sensing expertise to the problem of obtaining accurate and globally distributed measurements of the atmosphere and the assimilation of these measurements into research and operational weather forecast models in order to improve and extend U.S. and global weather prediction. The Weather focus area is directly related to the Climate and Water/Energy Cycle focus areas, where the dynamics are to a large degree controlled by "weather processes." NASA-sponsored research continues to gain new insight into weather and extreme-weather events by the utilization of data obtained from a variety of satellite platforms (TRMM, GPM, Aqua, Terra, Suomi NPP, CloudSat, CALIPSO, and CYGNSS) and a hurricane field experiment.
+
+NASA’s Precipitation Measurement Program missions — TRMM and GPM— provide advanced information on rain and snow characteristics and detailed three-dimensional knowledge of precipitation structure within the atmosphere, which help scientists study and understand Earth's water cycle, weather, and climate.
+
+Atmospheric Dynamics includes the CYclone Global Navigation Satellite System (CYGNSS) mission that will use a constellation of eight small satellites carried to orbit on a single launch vehicle. In orbit, CYGNSS’s eight micro-satellite observatories will receive both direct and reflected signals from Global Positioning System (GPS) satellites. The direct signals will pinpoint CYGNSS observatory positions, while the reflected signals will respond to ocean surface roughness, from which wind speed will be retrieved. The surface wind speed will be obtained even under heavy precipitating conditions. The mission will study the relationship between ocean surface properties, moist atmospheric thermodynamics, radiation, and convective dynamics to determine how a tropical cyclone forms, whether or not it will strengthen, and, if so, by how much.
+
+Precipitation Science includes the studies that will aid the development of Precipitation and All-weather Temperature and Humidity (PATH) mission designed to place a microwave atmospheric sounder, operating in the same temperature and water vapor bands used by the low-Earth-orbiting Advanced Microwave Sounding Units (AMSU), into geostationary orbit. The objective is to enable time-continuous observations of severe storms, tropical cyclones, and atmospheric processes associated with the hydrologic cycle under all weather conditions. The ultimate goal is to improve models in these areas, provide initial conditions and assimilation of data for improved forecasts, and develop long time series to support climate studies.
+
+Hurricane Science includes the Hurricane and Severe Storm Sentinel (HS3) Mission, a five-year effort involving three deployments to the Wallops Island Flight Facility on the Virginia coast during the 2012–2014 hurricane seasons using two Global Hawk (GH) unmanned aircraft systems (UAS) with distinct payloads.
+
+Wind Lidar Science includes the studies that will aid the development of Three-Dimensional Tropospheric Winds from Space-based Lidars (3D-Winds). Measurement of global wind profiles is recognized as a primary unmet observational requirement for improving weather forecasts by the World Meteorological Organization and many international operational weather agencies. The wind field plays a unique dynamical role in forcing the mass field to adjust to it at all scales in the tropics, and at smaller scales in the extratropics. Direct observation of the global wind field would be extremely valuable for numerical weather prediction, as well as scientific diagnostics of large-scale atmospheric transport, weather systems, and boundary layer dynamics in Earth's atmosphere.
+
+The Global Modeling and Assimilation Office (GMAO) aims to maximize the impact of satellite observations in climate, weather, and atmospheric composition prediction using comprehensive global models and data assimilation. To achieve this goal, the GMAO develops models and assimilation systems for the atmosphere, ocean, and land surface; generates products to support NASA instrument teams and the NASA Earth science program; and undertakes scientific research to inform system development pathways.
+
+The Joint Center for Satellite Data Assimilation (JCSDA) is a partnership among NASA, NOAA, and DoD. Its mission is to accelerate and improve the quantitative use of research and operational satellite data in weather, ocean, climate, and environmental analysis and prediction models.
+
+The Short-term Prediction Research and Transition (SPoRT) Centertransitions the data from NASA research satellites to the NOAA National Weather Service (NWS) Weather Forecast Offices (WFOs). The goal is to improve short-term forecasts on a regional scale.
+
+NASA Data for Operation and Assessment (NDOA) focuses on more widespread use of NASA satellite observations, especially in operational weather forecasting and Earth system model (ESM) development. This program element offers investigators an opportunity to increase the impact of NASA data by transitioning the data and algorithms into the operational environment.
+
+Images:
+
+This visualization of data from the Global Precipitation Measurement (GPM) satellite shows a US East Coast snow storm on March 17, 2014, captured a few weeks after the satellite’s February 27, 2014 launch. Shades of green to red indicate areas of liquid precipitation. Shades of cyan to purple are areas of frozen precipitation. GPM is the first satellite to differentiate between liquid and frozen precipitation.Research by Gail Skofronick Jackson (NASA/GSFC), Dalia B. Kirschbaum (NASA/GSFC), and George Huffman (NASA/GSFC). Visualization by Alex Kekesi (GST) (Lead), Greg Shirah (NASA/GSFC), and Trent L. Schindler (USRA).
+
+This visualizationdepicts Hurricane Sandy’s near-surface winds on October 28, 2012 from a 7-kilometer simulation using the Global Modeling and Assimilation Office (GMAO) GEOS-5 global atmospheric model. The NASA model not only produced an accurate track of Sandy, but also captured fine-scale details of the storm’s changing intensity and winds. The GMAO is running high-resolution global simulations at the NASA Center for Climate Simulation to help improve prediction of hurricanes and other weather phenomena. Research and visualization by William Putman (NASA/GSFC)
+
+
+
+Associated Earth Science Division Missions, Instruments, and Data Sets
+
+The table below lists all Earth missions that are relevant to the Weather Focus Area in all phases.
+
+Operating missions include missions at the start of the Operations and Sustainment phase of their life-cycle.This phase marks the transition from system development and acquisition activities to primarily systems operations and sustainment activities. Missions under development are missions that are at the Final Design and Fabrication (Phase C) and System Assembly, Integration and Test, and Launch (Phase D) phases of their life-cycle. The primary activities in this category are developmental in nature, including acquisition contract execution. Phase C includes: the completion of final system design and fabrication of test and flight architecture; qualification testing; development of detailed integration plans and procedures; and test of components, assemblies, and subsystems. Phase D entails: system assembly, integration, and test (AI&T); verification/ certification; prelaunch activities; system launch; and completion of on orbit checkout or initial operations. Under study missions include missions that are at the pre-formulation and formulation stages of their life-cycle. Pre-formulation begins the process to define a viable and affordable concept for new NASA programs and projects, via concept studies. This step is followed by the formulation stage, which consists of two sequential phases, the Concept & Technology Development phase and the Preliminary Design & Technology Completion phase. The primary activities in these phases are to develop and define the project requirements and cost/schedule basis, and to design a plan for implementation (including an acquisition strategy, contractor selection, and long-lead procurement). Past missions are missions that have reached the Closeout phase, during which project systems are taken out of service and safely disposed, although scientific and other analyses might still continue under project funding.
+
+
+
+PHASE NAME OPERATING Satellite Missions Aqua CALIPSO CloudSat GPM Suomi NPP Terra SMAP Suborbital Investigations:
+
+Instruments MTS UAVSAR LASE RainCube MASC TWiLiTE Suborbital Investigations:
+
+Ground-based Observations X-BADGER Suborbital Investigations
+
+Aircraft Missions: CalWater2 HS3 PECAN DEVELOPMENT Satellite Missions CYGNSS PAST Satellite Missions TRMM
+
+ROSES Solicitations
+
+For solicited program elements relevant to Weather, search for and view open, closed, and future Research Opportunities in Space and Earth Sciences (ROSES) NASA Research Announcements (NRAs) on the NASA Solicitation and Proposal Integrated Review and Evaluation System (NSPIRES) website.
+
+Please visit the 2015 Weather Focus Area Research Announcement.
+
+Relevant Sites
+
+Topics relevant to Weather are also being pursued through the following:
+
+NASA Applied Sciences Programs
+
+NASA Center Organizations
+
+Interagency / International Activities
+
+Program Managers
+
+Tsengdar Lee
+
+Weather Focus Area
+
+NASA Data for Operation and Assessment
+
+High-End Computing Program
+
+Ramesh Kakar
+
+Hurricane Science
+
+Wind Lidar Science
+
+Precipitation Science
+
+Atmospheric Dynamics

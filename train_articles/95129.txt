@@ -1,0 +1,105 @@
+SAR Program Information
+
+This page reviews the SAR Program Objectives, Goals, Standards and Requirements as stated in the U.S. Coast Guard Addendum (COMDTINST M16130.2) to the United States National SAR Supplement (NSS) to the International Aeronautical and Maritime Search and Rescue (IAMSAR) Manual .
+
+SAR Program Objectives
+
+Four general objectives provide direction for the SAR Program:
+
+Minimize loss of life, injury, and property loss and damage in the maritime environment;
+
+Minimize crew risk during SAR missions;
+
+Optimize use of resources in conducting SAR;
+
+Maintain a world leadership position in maritime SAR.
+
+SAR Program Primary Goal
+
+The ultimate goal of the Coast Guard’s SAR program is to prevent loss of life in every situation where our actions and performance could possibly be brought to bear. Our success in meeting this goal is the result not only of how well the SAR system responds to maritime SAR incidents, but also the efforts of other maritime safety programs, including recreational boating safety and commercial vessel safety. Success reflects how these combined efforts provide mariners with seaworthy craft, proper equipment, necessary knowledge, training, and information to operate safely in the maritime environment, and to take the correct actions when faced with a distress situation.
+
+SAR System Performance Benchmark
+
+From a humanitarian perspective we would like to prevent all loss of life at sea. We recognize, however, the inherent danger involved in the maritime environment makes this unattainable. The current performance benchmark for our maritime safety mission strives to measure the effectiveness of our collective prevention and response efforts. Simply stated it measures the number of “lives saved” versus the number of “lives in distress.” “Lives in distress” as used in this measure refers to persons in peril caused by some extraordinary event (e.g. injury, material failure of the vessel, environmental conditions, etc.) beyond the inherent danger of the maritime environment. When a life is in distress there are three possible outcomes – the life is saved, the life is lost or a person remains missing at the conclusion of search efforts. The “lives lost” portion of the measure further recognizes that some of those lives will be lost before the Coast Guard is notified or has any chance to affect the outcome. Therefore “lives lost” is further divided into “lives lost before notification” and “lives lost after notification.” The persons missing are not divided into “before” and “after” and are all accounted for the purposes of the primary lives saved performance measurement: “Percent of lives saved from imminent danger in the maritime environment.” To calculate this measure we use the equation:
+
+= ________ LS __________
+
+(LS + (LLB + LLA + LUF))
+
+Where:
+
+LS = “lives saved”
+
+LLB = “lives lost before notification”
+
+LLA = “lives lost after notification” and
+
+LUF = “lives unaccounted for” (or missing) as defined and input into MISLE.
+
+Our performance benchmark goal is based on calculations of historical performance and estimations of attainable levels of success. As future improvements are made in the SAR System we expect these improvements to be reflected in our performance as shown below with planned periodic adjustments to the benchmark.
+
+Goal Fiscal Year 2008 2009 2010 2011 2012 2013 Percent of lives saved from imminent danger in the maritime environment 76% 76% 76% 77% 77% 77%
+
+Subset Benchmark Goals
+
+Lives - A specific benchmark has been established to measure a subset of the overall Coast Guard Maritime Safety of Lives - the response component of the service’s maritime safety team. This indicates how well we are performing within the constraints of our current resources. After Coast Guard notification, in waters over which the Coast Guard has SAR responsibility save a targeted percentage of those people whose lives are in distress each year as detailed in the following table. As improvements are made in the SAR System, we expect these improvements to be reflected in our response performance as shown below with planned periodic adjustments to the benchmark .
+
+Goal Fiscal Year 2008 2009 2010 2011 2012 2013 All mariners in distress after CG has been notified, save 83% 83% 83% 84% 84% 84%
+
+To calculate this measure we use the equation:
+
+= ________ LS __________
+
+LS + LLA + LUF
+
+Where:
+
+LS = “lives saved”
+
+LLA = “lives lost after notification” and
+
+LUF = “lives unaccounted for” as defined and input into MISLE.
+
+Property - A specific benchmark has been established to measure a secondary measure of the SAR Systems performance in service to property in danger in the maritime environment. In waters over which the Coast Guard has SAR responsibility save a targeted percentage of property in distress each year. As improvements are made in the SAR System, we expect these improvements to be reflected in our response performance with planned periodic adjustments to the benchmark. The benchmark baseline was set using fiscal years 2007 and 2008 data. To calculate this measure we use the equation :
+
+= ________ PS __________
+
+PS + PL + PUF
+
+Where:
+
+PS = “property saved”
+
+PL = “property lost” and
+
+PUF = “property unaccounted for” as defined and input into MISLE.
+
+NOTES:
+
+(1) These benchmarks were established based on a macro analysis of expected survival times of people in the water and based on an excellent standard of response by existing rescue resources under the current SAR system. It is recognized that regional variances (cold water versus warm, resource-rich port area versus remote locations) will impact the success rate in specific regions.
+
+(2) Data Exclusions from SAR System Performance Benchmark Measurement. The SAR System Benchmarks are primarily in place to measure long term trends in SAR system performance. To avoid undue influence on the measures by a small number of events with large numbers of lives value, the data associated with these events is excluded from calculation of the measure(s). Although not included in measure calculations, they are footnoted in reports. The thresholds for exclusion are:
+
+Lives – 11 or more lives saved, lost and/or unaccounted for in a single incident;
+
+Property – being developed.
+
+SAR Program Standards and Requirements
+
+Certain standards and requirements have been developed for various components of the Coast Guard’s SAR system.
+
+SAR Readiness: Each Coast Guard unit with a SAR readiness responsibility shall have a suitable SAR resource ready to proceed within 30 minutes of notification of a distress.
+
+SAR Mission Response: No greater than a two-hour total response time for any one response unit within a Sector or unit’s AOR to arrive at any location within the AOR. This time is calculated from time of notification of the Coast Guard until the time of arrival on scene, including 30 minutes of preparation time (i.e. a total of 90 minutes from underway to on-scene).
+
+SAR Watch Duty Length at CG Command Centers: Military and civilian command center watchstanders shall not stand more than 12 hours of continuous watch in any 24-hour period.
+
+National Distress and Response System (NDRS) Coverage: NDRS is the primary distress alerting and SAR command, control and communications (C3) system for U.S. coastal waters (Sea Area A-1, which extends from the territorial baseline out to 20 nautical miles). The standard for the VHF-FM network is a minimum 90% continuous coverage for reception of a one-watt signal of a one-meter antenna, out to 20 nautical miles from shore around the coastline of the continental U.S., the Great Lakes, main Hawaiian Islands, the Commonwealths of Guam, Puerto Rico, the U.S. Virgin Islands and portions of Alaska.
+
+Basic SAR Training: Successful completion of resident SAR planner training at the National SAR School is required for all Area & District (Joint Rescue Coordination Center), Sector and Group Command Center watchstanders and staff who may be designated as SMC or perform SMC functions. An additional goal is to complete training in the Incident Command System (ICS) for all SAR planning personnel and SAR staffs.
+
+SAR Command and Control Responsiveness: SMCs shall process and evaluate information about a SAR incident, determine appropriate initial action, and initiate action within five minutes of notification of a distress incident. Units other than SMC receiving SAR incident information shall relay information to the SMC immediately.
+
+Employment of Approved Search Planning Methodologies: Use and documentation of an approved search-planning tool for all incidents that require search planning. Approved tools include the Search and Rescue Optimal Planning System (SAROPS) and the manual solution work sheets with manual plotting. SAROPS Fact Sheet
+
+Automated Mutual-assistance VEssel Rescue (AMVER) System : SMCs shall use Amver for identification of SAR facilities for all cases involving maritime and aeronautical incidents offshore when such facilities might be useful for mission accomplishment. SAR Coordinators (SC), SMCs, and others within the Coast Guard SAR System shall seek to increase ship participation in this voluntary ship reporting system for SAR and promote the use of Amver information for SAR purposes by other RCCs.

@@ -1,0 +1,22 @@
+Kaiser State Health Facts
+Notes:
+
+For all topics based on the CPS on statehealthfacts.org, the grouping used for analysis is the health insurance unit (HIU), which groups individuals according to their insurance eligibility, rather than by relatedness or household.
+
+For more details, see "Notes to Topics Based on the Current Population Survey (CPS)" at http://www.statehealthfacts.kff.org/methodology. Percentages may not sum to 100% due to rounding effects.
+
+
+
+For current Medicaid and Medicare enrollment figures, please refer to the Medicaid & CHIP and "Medicare" sections, respectively, which report enrollment data from the Centers for Medicare and Medicaid Services (CMS).
+
+
+
+CHIP and individuals eligible for both Medicare and Medicaid (dual eligibles) are included in Medicaid.
+
+
+
+Other Public (Federal) includes individuals covered through the military or Veterans Administration in federally-funded programs such as TRICARE (formerly CHAMPUS) as well as some non-elderly Medicare enrollees.
+
+
+
+All two-year health coverage estimates are based on the Annual Social and Economic Supplement (ASEC) to the US Census Bureau’s Current Population Survey (CPS). The ASEC is a survey of around 78,000 households that can be used to examine state-level trends (through multi-year averages), though with large sampling errors. It is useful for producing national estimates of the insured and uninsured populations and historical time series data. All single-year health coverage estimates are from the American Community Survey (ACS). The ACS is an ongoing survey of about 2 million households annually and is increasingly relied upon for more robust estimates of state-level data. Data at the county and sub-county levels are also available. Since the ACS health coverage module was implemented in 2008, there are no historical data available. Please see the U.S. Census Bureau for additional details on both surveys.

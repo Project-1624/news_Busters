@@ -1,0 +1,40 @@
+How many genetic ancestors do I have?
+In my last couple of posts I talked about how much of your (autosomal) genome you inherit from a particular ancestor [1,2]. In the chart below I show a family tree radiating out from one individual. Each successive layer out shows an individual’s ancestors another generation back in time, parents, grandparents, great-grandparents and so on back (red for female, blue for male).
+
+
+
+Each generation back your number of ancestors double, until you are descended from so many people (e.g. 20 generation back you potentially have 1 million ancestor) that it is
+
+quite likely that some people back then are your ancestors multiple times over. How quickly then does your number of genetic ancestors grow, i.e. those ancestors who contributed genetic material to you?
+
+Each generation we go back is expected to halve the amount of autosomal genetic material an ancestor gives to you. As this material inherited in chunks, we only have to go back ~9 generations until it is quite likely that a specific ancestor contributed zero of your autosomal material to you (see previous post). This process is inherently random, as the process of recombination (the breaking of chromosomes into chunks) and transmission are both random sets of events. To give more intuition, and to demonstrate the nature of the randomness, I thought I’d setup some simulations of the inheritance genetic process back through time.
+
+Below I show the same plot as above (going back 11 generations), but now ancestors that contribute no (autosomal) chunks of genetic material are coloured white (I give the % of ancestors with zero contribution below). I also wanted to illustrate how variable the contribution of (autosomal) genetic material was across ancestors in a particular generation. So I altered the shade of the colour of the ancestor to show what fraction of the genome they contributed. In choosing a scale I divided that fraction through by the maximum contribution of any ancestor in that generation, so that the individual who contributed the most is the darkest shade. Below the figure I give the range of % contributions to this individual, and the mean (which follows 0.5k).
+
+
+
+It’s quite fun to trace particular branches back and see their contribution change over time. These figures were inspired by ones I found at the genetic genealogy blog. I’m not sure how they generated them, and they are for illustrative purposes only. I made scripts to do the simulations and plot in R. I’ll post these scripts to github shortly.
+
+To give a sense of how variable this process is, here’s another example
+
+
+
+From these it is clear that your number of ancestors is increasing but no where near as fast as your number of genealogical ancestors. To illustrate this I derived a simple approximation to the number of genetic ancestors over the generations (I give details below). Using this approximation I derived the number of genetic and genealogical ancestors, in a particular generation, going back over 20 generations:
+
+
+
+Your number of genealogical ancestors, in generation k, is growing exponentially (I cropped the figure as otherwise it looks silly). Your number of genetic ancestors at first grows as quickly as your number of genealogical ancestors, as it is very likely that an ancestor a few generations back is also a genetic ancestor. After a few more generations your genetic number of genetic ancestors begins to slow down its rate of growth, as while the number of genealogical ancestors is growing rapidly fewer and fewer of them are genetic ancestors. Your number of genetic ancestors eventually settles down to growing linearly back over the generations, at least over the time-scale here, with your number of ancestors in generation k being roughly 2*(22+33*(k-1)).
+
+To get at this result I did some approximate calculations. If we go back k generations, the autosomes you received from (say) your mum are expected to be broken up in to roughly (22+33*(k-1)) different chunks spread across ancestors in generation k (you have 22 autosomes, with roughly 33 recombination events per generation). If we go far enough back each ancestor is expected to contribute at most 1 block, so you have roughly 2*(22+33*(k-1)) (from your mum and dad).
+
+To develop this a little more consider the fact that k generations back you have 2 (k-1) ancestors k generations back on (say) your mother’s side, you expect to inherit (22+33*(k-1))/2(k-1) chunks from each ancestor. We can approximate the distribution of the number of chunks you inherit from a particular ancestor by a Poisson distribution with this mean*. So the probability that you inherit zero of your autosomal genome from a particular ancestor is approximately exp(-(22+33*(k-1))/2 (k-1)). This approximation seems to work quite well, and matches my simulations:
+
+
+
+So using this we can write your expected number of genetic ancestors as 2k *(1- exp(-(22+33*(k-1))/2(k-1))), as you have 2k ancestors each contribute genetic material to you with probability one minus the probability we just derived. When we go back far enough exp(-(22+33*(k-1))/2(k-1)) ≈ 1- (22+33*(k-1))/2(k-1), so your number of ancestors, in generation k, is growing linearly as 2*(22+33*(k-1)). This is an approximation while my simulations are reasonable “exact” (in that they use real recombination data). We can get a rigorous analytical answer (albeit ignoring interference) but the calculation is fairly involved (see Donnelly 1983).
+
+Your number of genetic ancestors will not grow linearly forever. If we go far enough back your number of genetic ancestors will get large enough, on order of the size of the population you are descended from, that it will stop growing as you will be inheriting different chunks of genetic material from the same set of individuals multiple times over. At this point your number of ancestors will begin to plateau. Indeed, once we go back far enough actually your number of genetic ancestors will begin to contract as human populations have grown rapidly over time. I’ll return to this in another post.
+
+* this will be okay if k is sufficiently large, I can explain this in the comments if folks like. This approximation has been made by many folks, e.g. Huff et al. in estimating genetic relationships between individuals.
+
+This post was inspired in part by an nice post by Luke Jostins (back in 2009). I think there were some errors in Luke’s code. I’ve talked this over with Luke, and he’s attached a note to the old post pointing folks here.

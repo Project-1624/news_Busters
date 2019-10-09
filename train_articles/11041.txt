@@ -1,0 +1,28 @@
+Have you heard the one about the 85 richest people?
+Author: Ricardo Fuentes-Nieva (@rivefuentes)
+
+If you’ve taken the London tube in the last couple of weeks, you’ve probably seen the posters about Oxfam’s new campaign “Even It Up”
+
+The poster reads “The World’s 85 Richest People Own The Same Wealth As The 3.5 Billion Poorest People”. This was one of the findings of our paper “Working For The Few” published in January this year.
+
+People still ask me, is this true? Maybe it’s a good time to re-post the explanation I gave in January. I originally wrote this piece for Duncan Green’s “From Poverty to Power”. This is a shorter version focusing only on the calculations (with minor edits).
+
+“How did we come to this figure? It’s a simple calculation. And yet it required a lot of work.
+
+First, we didn’t design the statistic to shock, as some commentators have argued. What’s shocking is the concentration of wealth around the world – that’s a fact. Instead, we studied a series of available databases on income and wealth and analysed the trends. That fact captured our attention but we did plenty more data work with alternative sources. All of them pointed to the same results: since 1980 or so, concentration of income and wealth has been increasing and is now at remarkably high levels.
+
+One of the databases we worked with is the 2013 Global Wealth Report and Databook, compiled by James Davies, Rodrigo Lluberas and Anthony Shorrocks for Credit Suisse. They all are respected economists. Shorrocks is probably the best known. He was the director of the United Nation’s World Institute for Development Economics Research (better known as UNU-WIDER) and has a long list of publications on poverty and inequality.
+
+Davis, Lluberas and Shorrocks have been calculating global personal wealth for four years now and the estimates are as credible as one can get on global wealth by country and around the world. I spent several weeks studying the methodology and understanding their assumptions. I also asked the opinion of Branko Milanovic and James Foster, respected scholars in the field, about the quality of the database. I was confident we could use it for the analysis we presented in “Working For The Few”. So we did.
+
+The summary statistics of the Global Wealth Report are eye-popping. We reproduced some of them in the paper: The richest 1% own 46% of the world’s wealth. The richest 10% own 86% of wealth. The poorest 10% live in debt.
+
+Once Nick Galasso and I had mostly finished the paper last December, I decided to go back to the Credit Suisse report and look for more facts that could add punch to our argument. There was one sentence that caught my eye: the bottom half of the population own less than 1% of global wealth. The report didn’t have the exact figure, so I had to dig into the statistical annex and the long list of PDF tables (to the best of my knowledge, there is no datafile available to the public) until I found the share of wealth by decile on page 106 of the Databook. Adding the bottom five deciles gave me a figure of 0.71 %. Yes. Unbelievable. Half the world own only 0.71 % of global wealth, totaling 1.7 trillion dollars (just multiply that 0.71% by 241 trillion dollars reported as total global wealth by Credit Suisse).
+
+The next step was to go to the Forbes list of billionaires (which is, fittingly, sorted in descending order) and add up the richest individual’s wealth. By the time I got to number 85 I had reached 1.7 trillion dollars, the same amount as the total wealth of the bottom half.
+
+For the billionaires list, I chose Forbes over Bloomberg because the Credit Suisse work actually uses the Forbes list to adjust their methodology since the richest people in the world are unlikely to be captured in the distribution of global wealth without that adjustment. This means that the two databases (Forbes and Credit Suisse) are consistent.
+
+What assumptions did I make? I took Credit Suisse’s work at face value, so I implicitly accepted their assumptions. Then I made some additional ones. The sample for the Credit Suisse Report is the world’s adults – it doesn’t include youth or children. We could then either say we are only talking about the world’s adults or assume that children do not possess any individual wealth and there are the same number of children in each wealth decile – clearly, a conservative approach as fertility rates are higher in poorer households. Our number might actually underestimate the extent of wealth inequality.”
+
+We are now working to update the calculations with the most up-to-date available data. Stay tuned.

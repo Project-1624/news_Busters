@@ -1,0 +1,285 @@
+Cellular Phones
+
+Cellular (cell) phones first became widely available in the United States in the 1990s, but their use has increased dramatically since then. Along with the large and still growing number of cell phone users (both adults and children), the amount of time people spend on their phones has also risen sharply in recent decades.
+
+Cell phones (including smartphones) give off a form of energy known as radiofrequency (RF) waves, so some concerns have been raised about the safety of cell phone use. With respect to cancer, concern focuses on whether cell phones might increase the risk of brain tumors or other tumors in the head and neck area.
+
+How do cell phones work?
+
+Cell phones work by sending signals to (and receiving them from) nearby cell towers (base stations) using RF waves. This is a form of electromagnetic energy that falls between FM radio waves and microwaves. Like FM radio waves, microwaves, visible light, and heat, RF waves are a form of non-ionizing radiation. They don’t have enough energy to cause cancer by directly damaging the DNA inside cells. RF waves are different from stronger (ionizing) types of radiation such as x-rays, gamma rays, and ultraviolet (UV) light, which can break the chemical bonds in DNA.
+
+At very high levels, RF waves can heat up body tissues. (This is the basis for how microwave ovens work.) But the levels of energy given off by cell phones are much lower, and are not enough to raise temperatures in the body.
+
+How are people exposed?
+
+The RF waves from cell phones come from the antenna, which is part of the body of a hand-held phone. The waves are strongest at the antenna and lose energy quickly as they travel away from the phone. The phone is typically held against the side of the head when in use. The closer the antenna is to the head, the greater a person’s expected exposure to RF energy. The body tissues closest to the phone absorb more energy than tissues farther away.
+
+Many factors can affect the amount of RF energy to which a person is exposed, including:
+
+The amount of time the person is on the phone.
+
+Whether or not the person is using the speaker mode on the phone or a hands-free device. Using one of these allows the phone to be held away from the head.
+
+The distance and path to the nearest cell phone tower. Cell phones adjust their power to use the minimum amount for a good signal. Being farther away from the tower requires more energy to get a good signal, as does being inside a building.
+
+The amount of cell phone traffic in the area at the time. Higher traffic may require more energy to get a good signal.
+
+The model of phone being used. Different phones give off different amounts of energy.
+
+What is the specific absorption rate (SAR) of a cell phone?
+
+The amount of RF energy absorbed from the phone into the user’s body is known as the specific absorption rate (SAR). Different cell phones have different SAR levels. Cell phone makers are required to report the maximum SAR level of their product to the US Federal Communications Commission (FCC). This information can often be found on the manufacturer’s website or in the user manual for the phone. The upper limit of SAR allowed in the United States is 1.6 watts per kilogram (W/kg) of body weight.
+
+But according to the FCC, comparing SAR values between phones can be misleading. The listed SAR value is based only on the phone operating at its highest power, not on what users would typically be exposed to with normal phone use. The actual SAR value during use varies based on a number of factors, so it’s possible that a phone with a lower listed SAR value might actually expose a person to more RF energy than one with a higher listed SAR value in some cases.
+
+Do cell phones cause tumors?
+
+Because cell phones usually are held near the head when being used, the main concern has been whether they might cause or contribute to tumors in this area, including:
+
+Malignant (cancerous) brain tumors such as gliomas
+
+Non-cancerous tumors of the brain such as meningiomas
+
+Non-cancerous tumors of the nerve connecting the brain to the ear (vestibular schwannomas, also known as acoustic neuromas)
+
+Non-cancerous tumors of the salivary glands
+
+A few studies have also looked at possible links to other types of cancer, such as skin cancer and testicular cancer.
+
+Researchers use 2 main types of studies to try to determine if something might cause cancer.
+
+Lab studies: Lab studies usually expose animals to something like RF energy to see if it causes tumors or other health problems. Researchers might also expose normal cells in a lab dish to RF energy to see if it causes the types of changes that are seen in cancer cells. It’s not always clear if the results from these types of studies will apply to humans, but lab studies allow researchers to carefully control for other factors that might affect the results and to answer some basic science questions.
+
+Studies in people: Another type of study looks at cancer rates in different groups of people. Such a study might compare the cancer rate in a group exposed to something like cell phone use to the rate in a group not exposed to it, or compare it to what the expected cancer rate would be in the general population. But sometimes it can be hard to know what the results of these studies mean, because many other factors that might affect the results are hard to account for.
+
+In most cases neither type of study provides enough evidence on its own to show if something causes cancer in people, so researchers usually look at both lab-based and human studies.
+
+What do lab studies suggest?
+
+As noted above, the RF waves given off by cell phones don’t have enough energy to damage DNA directly or to heat body tissues. Because of this, it’s not clear how cell phones might be able to cause cancer. Most studies done in the lab have supported the idea that RF waves do not cause DNA damage.
+
+Some scientists have reported that the RF waves from cell phones produce effects in human cells (in lab dishes) that might possibly help tumors grow. However, several studies in rats and mice have looked at whether RF energy might promote the development of tumors caused by other known carcinogens (cancer-causing agents). These studies did not find evidence of tumor promotion.
+
+A large study by the US National Toxicology Program (NTP) exposed large groups of lab rats and mice to RF energy over their entire bodies for about 9 hours a day, starting before birth and continuing for up to 2 years. The NTP recently released partial findings from this study, focusing on gliomas and on schwannomas of the heart (tumors related to vestibular schwannomas) in rats. The study found increased (although still low) risks of these tumors in male rats exposed to RF radiation, although there was no increased risk among female rats. Some aspects of this study make it hard to know just how well these results might be applied to people. For example, the doses of RF radiation in the study were generally higher than those from cell phones (ranging from 1.5 W/kg to 6 W/kg), and the amount of time the rats were exposed was longer than most people typically spend on the phone each day. Still, the results add to the evidence that cell phone signals might potentially impact human health.
+
+A recent small study in people has shown that cell phones may also have some other effects on the brain, although it’s not clear if they’re harmful. The study found that when people had an active cell phone held up to their ear for 50 minutes, brain tissues on the same side of the head as the phone used more glucose than did tissues on the other side of the brain. Glucose is a sugar that normally serves as the brain’s fuel. Glucose use goes up in certain parts of the brain when it is in use, such as when we are thinking, speaking, or moving. The possible health effect, if any, from the increase in glucose use from cell phone energy is unknown.
+
+What do studies in humans suggest?
+
+Several dozen studies have looked at possible links between cell phone use and tumors. Most of these studies have focused on brain tumors. Many of these have been case-control studies, in which patients with brain tumors (cases) were compared to people free of brain tumors (controls), in terms of their past cell phone use.
+
+These studies have had mixed results:
+
+In most studies patients with brain tumors do not report more cell phone use overall than the controls. This finding is true when all brain tumors are considered as a group, or when specific types of tumors are considered.
+
+Most studies do not show a “dose-response relationship,” which would be a tendency for the risk of brain tumors to be higher with increasing cell phone use. This would be expected if cell phone use caused brain tumors.
+
+Most studies do not show that brain tumors occur more often on the side of the head where people hold their cell phones. This might also be expected if cell phone use caused brain tumors.
+
+Some studies have found a possible link. For example, several studies published by the same research group in Sweden have reported an increased risk of tumors on the side of the head where the cell phone was held, particularly with 10 or more years of use. It is hard to know what to make of these findings because most studies by other researchers have not had the same results, and there is no overall increase in brain tumors in Sweden during the years that correspond to these reports.
+
+Three large studies deserve special mention:
+
+The INTERPHONE study
+
+The 13-country INTERPHONE study, the largest case-control study done to date, looked at cell phone use among more than 5,000 people who developed brain tumors (gliomas or meningiomas) and a similar group of people without tumors. Overall, the study found no link between brain tumor risk and the frequency of calls, longer call time, or cell phone use for 10 or more years. There was a suggestion of a possible increased risk of glioma, and a smaller suggestion of an increased risk of meningioma, in the 10% of people who used their cell phones the most. But this finding was hard to interpret because some people in the study reported implausibly high cell phone use, as well as other issues. The researchers noted that the shortcomings of the study prevented them from drawing any firm conclusions, and that more research was needed.
+
+Another part of the INTERPHONE study compared more than 1,000 people with acoustic neuromas to more than 2,000 people without tumors, who served as matched controls. As with gliomas and meningiomas, there was no overall link between cell phone use and acoustic neuromas. There was again a suggestion of a possible increased risk in the 10% of people who used their cell phones the most, but this was hard to interpret because some people reported implausibly high cell phone use, as well as other issues.
+
+The Danish cohort study
+
+A large, long-term study has been comparing all of the people in Denmark who had a cell phone subscription between 1982 and 1995 (about 400,000 people) to those without a subscription to look for a possible increase in brain tumors. The most recent update of the study followed people through 2007. Cell phone use, even for more than 13 years, was not linked with an increased risk of brain tumors, salivary gland tumors, or cancer overall, nor was there a link with any brain tumor subtypes or with tumors in any location within the brain.
+
+This type of study (following a large group of people going forward in time and not relying on people’s memories about cell phone use) is generally thought to be stronger than a case-control study.
+
+But this study also has some drawbacks. First, it is based only on whether or not people had a cell phone subscription at the time. It didn’t measure how often these people used their phones (if at all), or if people who didn’t have a subscription used someone else’s phone. There are also limits as to how well this study might apply to people using cell phones today. For example, while the cell phones used at the time of the study tended to require more power than modern cell phones, people also probably used the phones quite a bit less than people use their phones today.
+
+The Million Women Study
+
+A large prospective (forward-looking) study of nearly 800,000 women in the UK examined the risk of developing brain tumors over a 7-year period in relation to self-reported cell phone use at the start of the study. This study found no link between cell phone use and brain tumors overall or several common brain tumor subtypes, but it did find a possible link between long-term cell phone use and acoustic neuromas.
+
+All studies done so far have limitations
+
+In summary, most studies of people published so far have not found a link between cell phone use and the development of tumors. However, these studies have had some important limitations that make them unlikely to end the controversy about whether cell phone use affects cancer risk.
+
+First, studies have not yet been able to follow people for very long periods of time. When tumors form after a known cancer-causing exposure, it often takes decades for them to develop. Because cell phones have been in widespread use for only about 20 years in most countries, it is not possible to rule out future health effects that have not yet appeared.
+
+Second, cell phone usage is constantly changing. People are using their cell phones much more than they were even 10 years ago, and the phones themselves are very different from what was used in the past. This makes it hard to know if the results of studies looking at cell phone use in years past would still apply today.
+
+Third, most of the studies published so far have focused on adults, rather than children. (One case-control study looking at children and teens did not find a significant link to brain tumors, but the small size of the study limited its power to detect modest risks.) Cell phone use is now widespread even among younger children. It is possible that if there are health effects, they might be more pronounced in children because their bodies might be more sensitive to RF energy. Another concern is that children’s lifetime exposure to the energy from cell phones will be greater than adults’, who started using them at a later age.
+
+Finally, the measurement of cell phone use in most studies has been crude. Most have been case-control studies, which have relied on people’s memories about their past cell phone use. In these types of studies, it can be hard to interpret any possible link between cancer and an exposure. People with cancer are often looking for a possible reason for it, so they may sometimes (even subconsciously) recall their phone usage differently than people without cancer.
+
+With these limitations in mind, it is important that the possible risk of cell phone exposure continue to be researched using strong study methods, especially with regard to use by children and longer-term use.
+
+What do expert agencies say?
+
+Several national and international agencies study different exposures and substances in the environment to determine if they can cause cancer. (Something that causes cancer or helps cancer grow is called a carcinogen.) The American Cancer Society looks to these organizations to evaluate the risks based on evidence from laboratory and human research studies.
+
+Based on the available evidence, some of these expert agencies have evaluated the cancer-causing potential of cell phones and RF waves. In general, they agree that the evidence of a possible link is limited, and more research is needed to look at possible long-term effects.
+
+The International Agency for Research on Cancer (IARC) is part of the World Health Organization (WHO). Its major goal is to identify causes of cancer. The IARC has classified RF fields as “possibly carcinogenic to humans,” based on limited evidence of a possible increase in risk for brain tumors among cell phone users, and inadequate evidence for other types of cancer. (For more information on the IARC classification system, see our document Known and Probable Human Carcinogens.)
+
+The other main agencies that classify cancer-causing exposures (carcinogens), including the US Environmental Protection Agency (EPA) and the National Toxicology Program (NTP), have not formally classified cell phones as to their cancer-causing potential. However, several other agencies have commented on the possible risks.
+
+According to the Food and Drug Administration (FDA), which regulates the safety of radiation-emitting devices such as cell phones in the United States:
+
+“The majority of studies published have failed to show an association between exposure to radiofrequency from a cell phone and health problems.”
+
+According to the Federal Communications Commission (FCC):
+
+“There is no scientific evidence that proves that wireless phone usage can lead to cancer or a variety of other problems, including headaches, dizziness or memory loss. However, organizations in the United States and overseas are sponsoring research and investigating claims of possible health effects related to the use of wireless telephones.”
+
+According to the Centers for Disease Control and Prevention (CDC):
+
+“At this time we do not have the science to link health problems to cell phone use. Scientific studies are underway to determine whether cell phone use may cause health effects.”
+
+According to the National Institute of Environmental Health Sciences (NIEHS), which is conducting studies of the possible health effects of cell phones:
+
+“Current scientific evidence has not conclusively linked cell phone use with any adverse health problems, but more research is needed.”
+
+According to the National Cancer Institute (NCI):
+
+“Studies thus far have not shown a consistent link between cell phone use and cancers of the brain, nerves, or other tissues of the head or neck. More research is needed because cell phone technology and how people use cell phones have been changing rapidly.”
+
+Do cell phones cause any other health problems?
+
+A few other health concerns have been raised about cell phone use. One has been whether the RF waves from cell phones might interfere with medical devices such as heart pacemakers. According to the FDA, cell phones should not pose a major risk for the vast majority of pacemaker wearers. Still, people with pacemakers may want to take some simple precautions to help ensure that their cell phones don’t cause a problem, such as not putting the phone in a shirt pocket close to the pacemaker.
+
+Several studies have found that people who use cell phones while driving are more likely to be in car accidents. It is not clear if hands-free phones are safer than hand-held phones when it comes to driving.
+
+Can I lower my exposure to RF waves from cell phones?
+
+It is not clear at this time that RF waves from cell phones cause harmful health effects in people, but studies now being done should give a clearer picture of the possible health effects in the future. Until then, there are several things that people who are concerned about RF waves can do to limit their exposure.
+
+Use the speaker mode on the phone or a hands-free device such as a corded or cordless earpiece. This moves the antenna away from your head, which decreases the amount of RF waves that reach the head. Corded earpieces emit virtually no RF waves (although the phone itself still emits small amounts of RF waves that can reach parts of the body if close enough, such as on the waist or in a pocket). Bluetooth ® earpieces have an SAR value of around 0.001 watts/kg (less than one thousandth the SAR limit for cell phones as set by the FDA and FCC).
+
+Texting instead of talking on the phone may be another option to reduce your exposure. But it may not be a good option in some situations, especially if you are driving. For safety reasons, it is especially important to limit or avoid the use of cell phones while driving.
+
+Limit your (and your children’s) cell phone use. This is one of the most obvious ways to limit your exposure to RF waves from cell phones. You may want to use your cell phone only for shorter conversations, or use it only when a conventional phone is not available. Parents who are concerned about their children’s exposure can limit how much time they spend on the phone.
+
+Some people might consider choosing a phone with a low SAR value. Different models of phones can give off different levels of RF waves. But as noted above, according to the FCC the SAR value is not always a good indicator of a person’s exposure to RF waves during normal cell phone use. One way to get information on the SAR level for a specific phone model is to visit the phone maker’s website. The FCC has links to some of these sites here: www.fcc.gov/encyclopedia/specific-absorption-rate-sar-cellular-telephones. If you know the FCC identification (ID) number for a phone model (which can often be found somewhere on the phone or in the user manual), you can also go to the following web address: www.fcc.gov/oet/ea/fccid. On this page, you will see instructions for entering the FCC ID number.
+
+What about cordless phones?
+
+Cordless phones, commonly used in homes, have base units that are plugged into telephone jacks and wired to a local telephone service. They are not considered “cell” phones. Cordless phones operate at about 1/600 the power of cell phones, so they are much less likely to be a concern in terms of health effects.
+
+Additional resources
+
+More information from your American Cancer Society
+
+The following related information may also be helpful to you. These materials can be viewed on our website or ordered from our toll-free number, at 1-800-227-2345.
+
+Cellular Phone Towers
+
+Does This Cause Cancer?
+
+Known and Probable Human Carcinogens
+
+Microwaves, Radio Waves, and Other Types of Radiofrequency Radiation
+
+National organizations and websites*
+
+Along with the American Cancer Society, other sources of information and support include:
+
+Centers for Disease Control and Prevention
+
+Frequently Asked Questions about Cell Phones and Your Health
+
+Website: www.cdc.gov/nceh/radiation/cell_phones._FAQ
+
+Federal Communications Commission
+
+Radio Frequency Safety
+
+Website: http://www.fcc.gov/encyclopedia/radio-frequency-safety
+
+Food and Drug Administration
+
+Radiation-Emitting Products: Cell Phones
+
+Website: www.fda.gov/Radiation-EmittingProducts/RadiationEmittingProductsandProcedures/HomeBusinessandEntertainment/CellPhones/default.htm
+
+National Cancer Institute
+
+Cell Phones and Cancer Risk
+
+Website: www.cancer.gov/cancertopics/factsheet/Risk/cellphones
+
+National Institute of Environmental Health Sciences
+
+Cell Phones
+
+Website: http://www.niehs.nih.gov/health/topics/agents/cellphones/index.cfm
+
+* Inclusion on this list does not imply endorsement by the American Cancer Society.
+
+No matter who you are, we can help. Contact us anytime, day or night, for information and support. Call us at 1-800-227-2345 or visit www.cancer.org.
+
+References
+
+Aydin D, Feychting M, Schuz J, et al. Mobile phone use and brain tumors in children and adolescents: A multicenter case-control study. J Natl Cancer Inst. 2011;103:1264-1276.
+
+Benson VS, Pirie K, Schuz J, et al. Mobile phone use and risk of brain neoplasms and other cancers: Prospective study. Int J Epidemiol. 2013;42:792-802.
+
+Cardis E, Armstrong BK, Bowman JD, et al. Risk of brain tumours in relation to estimated RF dose from mobile phones: Results from five Interphone countries. Occup Environ Med. 2011;68:631-640.
+
+Christensen HC, Schuz J, Kosteljanetz M, et al. Cellular telephone use and risk of acoustic neuroma. Am J Epidemiol. 2004;159:277-283.
+
+Centers for Disease Control and Prevention. Frequently Asked Questions about Cell Phones and Your Health. 2014. Accessed at www.cdc.gov/nceh/radiation/cell_phones._FAQ.html on October 1, 2014.
+
+Coureau G, Bouvier G, Lebailly P, et al. Mobile phone use and brain tumours in the CERENAT case-control study. Occup Environ Med. 2014;7:514-522.
+
+Federal Communications Commission (FCC). Specific Absorption Rate (SAR) For Cell Phones: What It Means For You. 2014. Accessed at www.fcc.gov/guides/specific-absorption-rate-sar-cell-phones-what-it-means-you on September 29, 2014.
+
+Federal Communications Commission (FCC). FAQs: Wireless Phones. 2014. Accessed at www.fcc.gov/encyclopedia/faqs-wireless-phones on September 29, 2014.
+
+Food and Drug Administration. Cell Phones: Health Issues. 2014. Accessed at www.fda.gov/Radiation-EmittingProducts/RadiationEmittingProductsandProcedures/HomeBusinessandEntertainment/CellPhones/default.htm on October 1, 2014.
+
+Frei P, Poulsen AH, Johansen C, et al. Use of mobile phones and risk of brain tumours: Update of Danish cohort study. BMJ. 2011 Oct 19;343:d6387.
+
+Hardell L, Carlberg M, Mild K. Case-control study on cellular and cordless telephones and the risk for acoustic neuroma or meningioma in patients diagnosed 2000-2003. Neuroepidemiology. 2005;25:120-128.
+
+Hardell L, Carlberg M, Soderqvist F, Mild KH. Case-control study of the association between malignant brain tumours diagnosed between 2007 and 2009 and mobile and cordless phone use. Int J Oncol. 2013;43:1833-1845.
+
+Hardell L, Nasman A, Pahlson A, et al. Use of cellular telephones and the risk for brain tumors: A case-control study. Int J Oncol. 1999;15:113-116.
+
+Hardell L, Hallquist A, Mild KH, et al. Cellular and cordless telephones and the risk of brain tumours. Eur J Cancer Prev. 2002;159:277-283.
+
+Inskip PD, Tarone RE, Hatch EE, et al. Cellular telephone use and brain tumors. N Engl J Med. 2001;344:79-86.
+
+International Agency for Research on Cancer. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. Volume 102. Non-Ionizing Radiation, Part 2: Radiofrequency Electromagnetic Fields. 2013. Accessed at: http://monographs.iarc.fr/ENG/Monographs/vol102/index.php on September 30, 2014.
+
+INTERPHONE Study Group. Acoustic neuroma risk in relation to mobile telephone use: Results of the INTERPHONE international case-control study. Cancer Epidemiol. 2011;35:453-464.
+
+INTERPHONE Study Group. Brain tumor risk in relation to mobile telephone use: Results of the INTERPHONE international case-control study. Int J Epidemiol. 2010;39:675-694.
+
+Lagorio S, Roosli M. Mobile phone use and risk of intracranial tumors: A consistency analysis. Bioelectromagnetics. 2014;35:79-90.
+
+Lai H, Singh NP. Acute low-intensity microwave exposure increases DNA single-strand breaks in rat brain cells. Bioelectromagnetics. 1995;16:204-210.
+
+Lonn S, Ahlbom A, Hall P, Swedish Interphone Study Group. Long-term mobile phone use and brain tumor risk. Am J Epidemiol. 2005; 161:526-535.
+
+Malyapa RS, Ahern EW, Straube WL, et al. DNA damage in rat brain cells after in vivo exposure to 2450 MHz electromagnetic radiation and various methods of euthanasia. Radiat Res. 1998;149:637-645.
+
+Muscat JE, Malkin MG, Thompson S, et al. Handheld cellular telephone use and risk of brain cancer. JAMA. 2000;284:3001-3007.
+
+Muscat JE, Malkin MG, Shore RE, et al. Handheld cellular telephone use and risk of acoustic neuroma. Neurology. 2002;58:1304-1306.
+
+National Cancer Institute. Cell phones and cancer risk. 2013. Accessed at www.cancer.gov/cancertopics/factsheet/Risk/cellphones on October 1, 2014.
+
+National Highway Traffic Safety Administration (NHTSA). An Investigation of the Safety Implications of Wireless Communications in Vehicles. 1997. Accessed at icsw.nhtsa.gov/people/injury/research/wireless on October 1, 2014.
+
+National Institute of Environmental Health Sciences. Cell Phones. 2014. Accessed at www.niehs.nih.gov/health/topics/agents/cellphones/index.cfm on September 30, 2014.
+
+Pettersson D, Mathiesen T, Prochazka M, et al. Long-term mobile phone use and acoustic neuroma risk. Epidemiology. 2014;25:233-241.
+
+Repacholi MH. Radiofrequency field exposure and cancer: What do the laboratory studies suggest? Environ Health Perspect. 1997;105:1565-1568.
+
+Schoemaker M J, Swerdlow AJ, Ahlbom A, et al. Mobile phone use and risk of acoustic neuroma: Results of the Interphone case-control study in five North European countries. Br J Cancer. 2005;93:842-848.
+
+Schuz J, Steding-Jessen M, Hansen S, et al. Long-term mobile phone use and the risk of vestibular schwannoma: A Danish nationwide cohort study. Am J Epidemiol. 2011;174:416-422.
+
+Vijayalaxmi, Prihoda TJ. Genetic damage in human cells exposed to non-ionizing radiofrequency fields: A meta-analysis of the data from 88 publications (1990-2011). Mutat Res. 2012;749:1-16.
+
+Volkow ND, Tomasi D, Wang GJ, et al. Effects of cell phone radiofrequency signal exposure on brain glucose metabolism. JAMA. 2011;305:808-813.

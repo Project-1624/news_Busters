@@ -1,0 +1,47 @@
+0118 dirpftexas
+
+Email, Elliott Sprehe, press secretary, Texas Department of Information Resources, Jan. 29 and 31, 2018
+
+3:47 p.m.
+
+Below you’ll find our responses. You can attribute them to a DIR spokesperson or to me directly, if spokesperson is insufficient. Please let me know if we can help you with anything else.
+
+What was DIR’s role in identifying and acting on this incident? DIR operates a Network Security Operating Center that inspects and potentially blocks malicious internet traffic going to and from state agencies. In this case, the NSOC’s tools saw what was potentially malware on a TDA computer on 10/26/2017. The NSOC’s role is to alert that agency and for their security and IT staff to investigate and resolve the issue. The NSOC fulfilled this role on 10/26/2017 at approximately 4:30 pm.
+
+Was the malware attack a probe or a breach or some other action or resulting actions? This determination is generally determined by forensic analysis. This is the responsibility of the agency. DIR is unaware of the results of any forensic discovery that was performed on the affected machine. The traffic pattern DIR reported was indicative of either ransomware or hidden clickfraud activity.
+
+How long did it take for the state to learn of the possible taking of personal information for students and families? DIR does not have access to the timing and interval of the TDA IT and security staff in responding to this event. This question is best directed to TDA security and IT staff.
+
+Loeffler says that of late it looks like less than 50 records on the laptop contained the “perfect storm” of a person’s name, social security number and date of birth. Is this DIR’s finding? If not, what is? DIR does not have the statutory authority to audit this type of activity.
+
+Broadly, how long does it typically take to divine if information might be compromised in this fashion? Why? Due to the complexity and uniqueness of each security incident, there is no way to approximate this.
+
+Anything else you recommend we consider in gauging the accuracy of this statement? No
+
+Any other recommended experts or knowledgeable parties? The Multi-State Information Sharing and Analysis Center, authorized by the Department of Homeland Security, is generally the expert that the public sector relies on.
+
+Elliott Sprehe
+
+Press Secretary
+
+Dept. of Information Resources
+
+From: Selby, Gardner (CMG-Austin) [mailto:wgselby@statesman.com]
+
+Sent: Tuesday, January 30, 2018 5:11 PM
+
+Subject: RE: Austin reporter, urgent inquiries for a fact-check
+
+Why would DIR know if a laptop touches off malware? Does it monitor all web traffic or such, across state government?
+
+10:44 a.m.
+
+Jan. 31, 2018
+
+To answer your question, DIR’s Network Security Operations Center (NSOC) monitors internet traffic on state agency computers as a preventative measure against both known and unknown threats. This does not include institutes of higher education (IHEs).
+
+Elliott Sprehe
+
+Press Secretary
+
+Dept. of Information Resources

@@ -1,0 +1,8 @@
+Student Enrollment Reports
+When entering a district number, use all six digits. For example, enter 057905 for DALLAS ISD. Capitalize district names and include ISD as appropriate.
+
+When entering campus numbers, use all nine digits. For example, enter 227913101 for LAKE TRAVIS EL.
+
+
+
+When entering campus names, you may enter all of the name or only part of the name to get a selection list. Capitalize the campus names or name fragment that you enter. Avoid using descriptors such as "HS" or "EL" that may be entered in a variety of ways. A high school may be on the database with "H S", "HS" or "HIGH SCHOOL"; an elementary school may be on the list with "E L", "EL" or "ELEMENTARY". For example, we recommend entering "AUSTIN" rather than "AUSTIN HS".

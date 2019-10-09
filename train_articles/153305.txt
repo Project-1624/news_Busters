@@ -1,0 +1,48 @@
+Privacy Center – Transparency Report (July 1, 2018
+Transparency Report
+
+Snapchat Transparency Reports are released twice a year. These reports provide important insight into the volume and nature of governmental requests for Snapchatters' account information and other legal notifications.
+
+Since November 15, 2015, our policy has been to notify Snapchatters when we receive legal process seeking their account information, with exceptions for cases where we are legally prohibited from doing so, or when we believe there are exceptional circumstances (like child exploitation or an imminent risk of death or bodily injury).
+
+At Snap, we support industry-wide efforts to improve content moderation reporting and transparency practices. In doing so, however, we recognize that technology platforms facilitate content creation, sharing, and retention in vastly different ways. As our platform evolves, so too, will Snap Transparency Reports, laying the groundwork to publish new categories of information to inform our community in the future. We support the spirit of the Santa Clara Principles on Transparency and Accountability in Content Moderation in creating a framework for best practices in content moderation.
+
+For more information about how we handle law enforcement data requests, please take a look at our Law Enforcement Guide, Privacy Policy, and Terms of Service.
+
+United States Criminal Legal Requests
+
+Requests for User Information pursuant to U.S. legal process.
+
+Category Requests Account Identifiers Percentage of requests where some data was produced Total 6828 11188 87% Subpoena 1624 3231 83% PRTT 54 76 94% Court Order 175 679 87% Search Warrant 4091 6097 92% EDR 801 911 69% Wiretap Order 6 15 100% Summons 77 179 75%
+
+International Government Information Requests
+
+Requests for User Information from government entities outside the United States.
+
+Country Emergency Requests Account Identifiers for Emergency Requests Percentage of emergency requests where some data was produced Other Information Requests Account Identifiers for Other Requests Percentage of other information request where some data was produced Total 400 477 71% 469 667 0% Argentina 0 0 N/A 5 5 0% Australia 9 11 33% 13 29 0% Austria 0 0 N/A 6 10 0% Belgium 0 0 N/A 1 8 0% Brazil 0 0 N/A 6 8 0% Canada 120 134 82% 8 14 13% Columbia 0 0 N/A 1 1 0% Cyprus 0 0 N/A 1 1 0% Denmark 0 0 N/A 10 11 0% Estonia 0 0 N/A 2 2 0% France 32 39 56% 73 108 0% Germany 15 40 67% 67 96 0% Hungary 0 0 N/A 1 13 0% India 6 7 50% 29 36 0% Ireland 0 0 N/A 4 5 0% Israel 2 2 0% 2 4 0% Lithuania 0 0 N/A 1 1 0% Mexico 0 0 N/A 1 1 0% Netherlands 6 7 33% 0 0 N/A Norway 7 8 86% 21 39 0% Poland 1 1 0% 2 3 0% Slovenia 0 0 N/A 1 1 0% Spain 0 0 N/A 1 1 0% Sweden 6 8 50% 19 28 0% Switzerland 9 14 56% 7 7 0% United Arab Emirates 1 1 0% 1 1 0% United Kingdom 186 205 74% 186 234 1%
+
+United States National Security Requests
+
+Requests for User Information pursuant to national security legal process.
+
+National Security Requests Account Identifiers* NSLs and FISA Orders/Directives 0-249 250-499
+
+Governmental Content Removal Requests
+
+This category identifies demands by a government entity to remove content that would otherwise be permissible under our Terms of Service or Community Guidelines.
+
+Removal Requests Percentage of requests where some content was removed 0 N/A
+
+Note: When we believe it is necessary to restrict content that is deemed unlawful in a particular country, but does not otherwise violate our policies, we seek to restrict access to it geographically when possible, rather than remove it globally.
+
+This category identifies demands by a government entity to remove content that would be a violation under our Terms of Service or Community Guidelines.
+
+Country Number of requests Number of posts removed or restricted or number of accounts suspended Australia 25 27 United Kingdom 7 11 United States 4 4
+
+Copyrighted Content Takedown Notices (DMCA)
+
+This category reflects any valid takedown notices we received under the Digital Millennium Copyright Act.
+
+DMCA Takedown Notices Percentage of requests where some content was removed 60 45% DMCA Counter-Notices Percentage of requests where some content was reinstated 0 N/A
+
+* “Account Identifiers” reflects the number of identifiers (e.g. username, email address, phone number, etc.) specified by law enforcement in legal process when requesting user information. Some legal process may include more than one identifier. In some instances, multiple identifiers may identify a single account. In instances where a single identifier is specified in multiple requests, each instance is included.

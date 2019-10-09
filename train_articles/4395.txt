@@ -1,0 +1,144 @@
+Data.GISS: GISTEMP -- Frequently Asked Questions
+GISS Surface Temperature Analysis (GISTEMP)
+
+Frequently Asked Questions (FAQ)
+
+Following are some of the more common questions that have been asked about the GISS Surface Temperature Analysis.
+
+Basic Terminology
+
+The GISS Surface Temperature Analysis
+
+Communication
+
+Basic Terminology
+
+Q. What are temperature anomalies (and why prefer them to absolute temperatures)?
+
+A. Temperature anomalies indicate how much warmer or colder it is than normal for a particular place and time. For the GISS analysis, normal always means the average over the 30-year period 1951-1980 for that place and time of year. This base period is specific to GISS, not universal. But note that trends do not depend on the choice of the base period: If the absolute temperature at a specific location is 2 degrees higher than a year ago, so is the corresponding temperature anomaly, no matter what base period is selected, since the normal temperature used as base point is the same for both years.
+
+Note that regional mean anomalies (in particular global anomalies) are not computed from the current absolute mean and the 1951-80 mean for that region, but from station temperature anomalies. Finding absolute regional means encounters significant difficulties that create large uncertainties. This is why the GISS analysis deals with anomalies rather than absolute temperatures. For a more detailed discussion of that topic, please see "The Elusive Absolute Temperature".
+
+Q. Is the month with the highest anomaly the warmest month overall?
+
+A: No. There is a seasonal cycle in global mean temperature which means that on average, July and August are roughly 3.6ºC (6.5ºF) warmer than December and January. The graph at right shows how much warmer each month is than the annual global mean (derived from the MERRA2 reanalysis over 1980-2015 with an uncertainty range). An anomaly say of 1°C in December would be exceptionally warm for that month, but it is still not warmer than the average July.
+
+Q. Why stick with the 1951-1980 base period?
+
+A. The primary focus of the GISS analysis are long-term temperature changes over many decades and centuries, and a fixed base period makes the anomalies consistent over time.
+
+However, organizations like the NWS who are more focused on current weather conditions work with a time frame of days, weeks, or at most a few years. In that situation it makes sense to move the base period occasionally, i.e., to pick a new "normal" so that roughly half the data of interest are above normal and half below.
+
+Q. What is L-OTI, the Land-Ocean Temperature Index?
+
+A. Weather stations reporting surface air temperatures (SATs) are positioned on land, which covers only one third of the planet; the rest is covered by oceans where SAT reports are rare. However, water temperatures (SSTs, sea surface temperatures) are available from ship and buoy reports, and more recently there are also SST estimates derived from satellite data. Whereas SATs and SSTs may be very different (since air warms and cools much faster than water), their anomalies are very similar (if the water temperature is 5 degrees above normal, the air right above the water is also likely to be about 5 degrees warmer than normal). This is not true in the presence of sea ice, since in that case water temperature will stay at the freezing level. This allows us to use SST anomalies as proxies for SAT anomalies in regions without sea ice. L-OTI maps show SAT anomalies over land and sea ice, and show SST anomalies over (ice-free) water.
+
+Q. What is a meteorological year?
+
+A. When comparing seasonal temperatures, it is convenient to use "meteorological seasons" based on temperature and defined as groupings of whole months. Thus, Dec-Jan-Feb is the Northern Hemisphere meteorological winter, Mar-Apr-May is N.H. meteorological spring, Jun-Jul-Aug is N.H. meteorological summer and Sep-Oct-Nov is N.H. meteorological autumn. String these four seasons together and you have the meteorological year that begins on Dec. 1 and ends on Nov. 30.
+
+> Back to Top.
+
+The GISS Surface Temperature Analysis
+
+Q. What is the GISTEMP Analysis (the GISS Surface Temperature Analysis)?
+
+A. The GISTEMP analysis recalculates consistent temperature anomaly series from 1880 to the present for a regularly spaced array of virtual stations covering the whole globe. Those data are used to investigate regional and global patterns and trends.
+
+Q. Why no data from before 1880?
+
+A. The analysis is limited to the period since 1880 because of poor spatial coverage of stations and decreasing data quality prior to that time. Meteorological station data provide a useful indication of temperature change in the Northern Hemisphere extratropics for a few decades prior to 1880, and there are a small number of station records that extend back to previous centuries. However, we believe that analyses for these earlier years need to be carried out on a station by station basis with an attempt to discern the method and reliability of measurements at each station, a task beyond the scope of our analysis. Global studies of still earlier times depend upon incorporation of proxy measures of temperature change.
+
+Q. Why can't we use just raw data?
+
+A. Just averaging the raw data would give results that are highly dependent on the particular locations (latitude and elevation) and reporting periods of the actual weather stations; such results would mostly reflect those accidental circumstances rather than yield meaningful information about our climate.
+
+Q. Can you illustrate the above with a simple example?
+
+A. Assume, e.g., that a station at the bottom of a mountain sent in reports continuously starting in 1880 and assume that a station was built near the top of that mountain and started reporting in 1900. Since those new temperatures are much lower than the temperatures from the station in the valley, averaging the two temperature series would create a substantial temperature drop starting in 1900.
+
+Q. How can we combine the data of the two stations above in a meaningful way?
+
+A. What may be done before combining those data is to increase the new data or lower the old ones until the two series seem consistent. How much we have to adjust these data may be estimated by comparing the time period with reports from both stations: After the offset, the averages over the common period should be equal. (This is the basis for the GISS method). As new data become available, the offset determined using that method may change. This explains why additional recent data can impact also much earlier data in any regional or global time series.
+
+Another approach is to replace both series by their anomalies with respect to a fixed base period. This is the method used by the University of East Anglia's Climatic Research Unit (CRU) in the UK. The disadvantage is that stations that did not report during that whole base period cannot be used.
+
+More mathematically complex methods are used by NOAA National Centers for Environmental Information (NOAA/NCEI) and the Berkeley Earth Project, but the resulting differences are small.
+
+(Note: The NOAA analysis was formerly performed by the National Climatic Data Center, or NCDC. In spring 2015, NCDC was merged with two other data centers to form NCEI.)
+
+Q. Do the raw data ever change?
+
+A. The raw data always stays the same, except for occasional reported corrections or replacements of preliminary data from one source by reports obtained later from a more trusted source.
+
+Q. Does GISS deal directly with raw (observed) data?
+
+A. No. GISS has neither the personnel nor the funding to visit weather stations or deal directly with data observations from weather stations. GISS relies on data collected by other organizations, specifically, NOAA/NCEI's Global Historical Climatology Network (GHCN) v3 adjusted monthly mean data as augmented by Antarctic data collated by UK Scientific Committee on Antarctic Research (SCAR) and also NOAA/NCEI's Extended Reconstructed Sea Surface Temperature (ERSST) v3b data.
+
+Q. Why use the adjusted rather than the "raw" data?
+
+A. GISS uses temperature data for long-term climate studies. For station data to be useful for such studies, it is essential that the time series of observations are consistent, and that any non-climatic temperature jumps, introduced by station moves or equipment updates, are corrected for. In adjusted data the effect of such non-climatic influences is eliminated whenever possible. Originally, only documented cases were adjusted, however the current procedure used by NOAA/NCEI applies an automated system that uses systematic comparisons with neighboring stations to deal with undocumented instances of artificial changes. The processes and evaluation of these procedures are described in numerous publications — for instance, Menne et al., 2010 and Venema et al., 2012 — and at the NOAA/NCEI website.
+
+Q. Does GISS do any data checking and alterations?
+
+A. Yes. GISS applies semi-automatic quality control routines listing records that look unrealistic. After manual inspection, those data are either kept or rejected. GISS does make an adjustment to deal with potential artifacts associated with urban heat islands, whereby the long-term regional trend derived from rural stations is used instead of the trends from urban centers in the analysis.
+
+Q. Does NASA/GISS skew the global temperature trends to better match climate models?
+
+A. No.
+
+The GISS results are really estimates based on the available data. Accurate error estimates are hard to obtain. However, it is likely that the largest contribution to the margin of error is given by the temporal and spatial data gaps. That particular margin was estimated as follows: All computations were first made replacing the observed data by complete model data. Then the calculations were repeated after discarding model data where the corresponding observations were missing. Comparisons of the two results were used to obtain an estimate for that margin of error. Assuming that the other inaccuracies might about double that estimate yielded the error bars for global annual means drawn in this graph , i.e., for recent years the error bar for global annual means is about ±0.05°C, for years around 1900 it is about ±0.1°C. The error bars are about twice as big for seasonal means and three times as big for monthly means. Error bars for regional means vary wildly depending on the station density in that region. Error estimates related to homogenization or other factors have been assessed by CRU and the Hadley Centre (among others).
+
+Q.Why is the number in the right hand corner of the global maps sometimes different from the corresponding value from the GISTEMP data files (tables and graphs)?
+
+A.This is related to the way we deal with missing data in constructing the global means.
+
+In the GISTEMP index, the tables of zonal, global, hemispheric means are computed by combining the 100 subbox series for each box of the equal area grid, then combining those to get 8 zonal mean series, finally from those we get the Northern (23.6-90ºN), Southern and tropical means, always using the same method. Hemispheric and global means are area-weighted means of the following 4 regions: Northern mid-to-high latitudes, Southern mid-to-high latitudes, and the Northern and Southern half of the tropics.
+
+For the global maps, we subdivide the data into the 4 regions 90-24ºS, 24-0ºS, 0-24ºN,24-90ºN and fill any gaps in one of those 4 regions by the mean over the available data in that region, and then get a global mean.
+
+For datasets with full coverage, this should make no difference, but where there is some missing data, there can be a small offset. In such cases the number in the index files should be considered definitive, because in that method the full time series is involved in dealing with the data gaps, whereas for individual maps only the data on that particular map are used to estimate the global mean.
+
+Q. Can I do my own analysis?
+
+A. Yes. The full code and instructions for the GISTEMP analysis are available here, though it can be a little tricky to get to work. There is a more user-friendly independent replication of the GISTEMP procedure that has been created by Nick Barnes and colleagues at the clearclimatecode website. This matches the original GISTEMP code to 2 significant figures.
+
+Q. How did the GISS analysis and their sources change over time, and how did this affect the results?
+
+A.The procedure used in the mid 1980s has not been changed significantly, except for the addition of an urban adjustment scheme. However, more station data became available; also, ocean data became available whose anomalies were used to estimate surface air temperature anomalies over the oceans. More information is presented in the History Section and two of these changes are discussed in more detail in the next two questions. The changes in the results stayed within the margin of error indicated in a prior Q&A.;
+
+Q. Why are the US mean temperatures in your 1999 paper so different from later figures?
+
+A. In the Hansen et al. (1999) paper the GISS analysis was based on GHCN data alone; in the meantime, the group working at NOAA/NCEI had taken a closer look at the US data, an investigation that resulted in substantial modifications compensating for station moves, procedural changes, etc. These corrected data were made available as "adjusted USHCN" data. The adjustments and their effects are described here with a graph showing the effect of each of the 5 individual adjustments here. These adjustments caused an increase of about 0.5°C in the US mean for the period from 1900 to 1990. They had no significant impact on the global mean. About half of that increase was due to information obtained about station moves (mostly from cities to airports where conditions were generally cooler), the other half from changes in the time of observation (mostly as a consequence of a concerted effort to transition to a uniform time of observation for a whole network of stations). After 1999, GISS replaced the unadjusted USHCN reports by the adjusted reports, and reported on the differences this made in Hansen et al. (2001). A list of all changes to the GISS analysis and their impacts is presented in the History Section.
+
+Q. Why are some current station records different from what was shown before 2012?
+
+A. UK media reports in January 2015 erroneously claimed that differences between the raw GHCN v2 station data (archived here) and the current final GISTEMP adjusted data were due to unjustified positive adjustments made in the GISTEMP analysis. Rather, these differences are dominated by the inclusion of appropriate homogeneity corrections for non-climatic discontinuities made in GHCN v3.2 which span a range of negative and positive values depending on the regional analysis. The impact of all the adjustments can be substantial for some stations and regions, but is small in the global means. These changes occurred in 2011 and 2012 and were documented at that time.
+
+To recap, from 2001 to 2011, GISS based its analysis on NOAA/NCDC’s temperature collection GHCN v2, the unadjusted version. That collection contained for many locations several records, and GISS used an automatic procedure to combine them into a single record, provided the various pieces had a big enough overlap to estimate the respective offsets; non-overlapping pieces were combined if it did not create discontinuities. In cases of a documented station move, the appropriate offset was applied. No attempt was made to automatically detect and correct inhomogeneities, assuming that because of their random nature they would have little effect on the global mean.
+
+After October 2011, NCDC (now NCEI) added no more data to GHCN v2, so GISS used the replacement GHCN v3.1 as the base data. One of its differences from GHCN v2 is that multiple records are replaced by a single record, obtained by using for each month the report from the highest ranked source without applying any offsets when switching from one source to another. The resulting discontinuities are handled by NCEI when creating the adjusted version. Since the multiple records used by the GISS procedure no longer were available, GISS switched to using the adjusted instead of the unadjusted version of GHCN v3.1.
+
+So the differences between the station records of the old v2 and the current site have mainly two causes:
+
+the different combination procedures used by GISS and NCEI for stations with multiple records, homogenization applied by NCEI to any station (single or multiple records), whereas none was applied by GISS.
+
+As part of the v2->v3.1 transition in December 2011, GISS showed its impact on this page . Though substantial for some stations and small regions, it barely changed any global mean trends. However, a few months later, NCEI applied some fixes and refinements to the adjustment scheme, replacing GHCN v3.1 by GHCN v3.2; that change did increase the global trend as documented and explained here . Independent replication of the current GISS results is, e.g., provided by the Berkeley Earth dataset, created without the use of NCEI's adjustments. A list of all changes to the GISS analysis and their impacts is presented in the History Section
+
+> Back to Top.
+
+Communication
+
+Q. What can I do if I have additional questions?
+
+A. Please email any questions to Dr. Reto Ruedy.
+
+Q. What can I do if I notice something odd?
+
+A. If you think the problem is in the GISTEMP analysis, please let us know by email. If it concerns unrealistic looking station data, we will usually forward your note to GHCN or SCAR. If you know who provided that data, you may also contact that source directly. Artifacts do sometimes slip by the quality control checks at NCEI and GISS but can usually be fixed quickly.
+
+Further Reading
+
+> Back to Top.
+
+Return to GISTEMP homepage

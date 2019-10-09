@@ -1,0 +1,92 @@
+What is a degausser? How does a degausser work?
+WHY USE A DEGAUSSER/HARD DRIVE ERASER and OTHER FAQs WHAT IS A DEGUASSER? Degaussing is the process of reducing or eliminating an unwanted magnetic field (or data) stored on tape and disk media such as computer and laptop hard drives, diskettes, reels, cassettes and cartridge tapes. When exposed to the powerful magnetic field of a degausser, the magnetic data on a tape or hard disk is neutralized, or erased. Degaussing is the guaranteed form of hard drive erasure, as such; it serves as the standard method of data destruction. Using the right degausser will guarantee that your information is no longer retrievable. Degaussing is simply a demagnetizing process to erase a hard drive or tape.
+
+Degaussers contain a controlled magnetic field that is measured in units of gauss or oersteds (Oe).
+
+All magnetic media has a magnetic property, called coercivity, that is also measured in units of oersteds (Oe).
+
+The Oersted (Oe) value tells us how easy or how difficult a piece of media is to erase. Basically, higher Oe media requires stronger degausser magnetic field ratings.
+
+HOW DOES A DEGAUSSER ERASE HARD DRIVES AND TAPES? To understand how a degausser works, one must first understand how information is first recorded onto hard drives, tapes, reels, cassettes and other magnetic media. Magnetic media has been with us since the 1920s. Although it has seen dozens of changes over the years, the basic ideas remain the same. Magnetic tape has three basic components: a fine metal iron oxide powder, a binder and the film backing. A tape recorder works by moving the tape past a set of small metal blocks, called heads, at a steady speed. A tape recorder contains both record and playback heads. These heads are specialized electromagnets. When recording, the recording heads will create a magnetic field that alters the positioning of the fine iron oxide powder on the surface of the tape into a digital recording pattern. In turn, the playback heads read this pattern and convert it into sound, video or computer data.
+
+
+
+Image credit: Center for Magnetic Recording Research (CMRR)
+
+Hard drives function in a similar matter, but were built for increased reliability and speed. Here, tape is exchanged for a flat, circular piece of metal, called a platter, which contains a fine coating of iron oxide or chromium dioxide. The platter spins beneath a read/write head. When small pulses of electricity are passed through a coil in the head, the surface of the platter becomes magnetized. Data is recorded using binary code, a series of 1s and 0s (magnetic pulse and reverse pulse, consecutively). A degausser erases by generating a magnetic field so powerful that it permanently removes the magnetic properties from the iron oxide or chromium dioxide coatings which erases, or randomizes, the recorded data pattern.
+
+ARE ALL DEGAUSSERS THE SAME? With so many different degausser models on the market, it’s important to know what to look for when choosing a right model for your needs as not all degaussers are created equally. Electromagnetic degaussers generate a magnetic field by charging a degaussing coil. Permanent magnet degaussers contain one or more rare earth magnets and do not require electricity to operate. Some degaussers are meant for mobile operations, while others are built for high volume. The most important aspect to consider when shopping for a degausser is its ability to erase your media. Degaussers are rated for different media based upon the degausser’s maximum magnetic field strength. The magnetic field strength of a degausser is measured in gauss, or oersteds. Tapes and hard drives also have a measurable magnetic value called coercivity, which is measured in oersteds as well. As technology has advanced through the years, coercivity ratings on tapes and hard drives has grown allowing users to store more information on said media. In turn, these higher-coercivity tapes and hard drives require advanced degaussers with more powerful magnetic fields.
+
+
+
+
+
+At Data Security, Inc., we can help you identify the correct degausser based upon your media sanitization needs. CAN I REUSE MY HARD DRIVE AFTER IT HAS BEEN DEGUASSED? No, you cannot reuse a hard drive once it has been degaussed. This is because the degaussing process not only removes all the data, but it also removes the start up files. As such, a degaussed hard drive will not boot up. CAN I REUSE MAGNETIC TAPES AFTER THEY HAVE BEEN DEGAUSSED? Most tapes are reusable after being degaussed, but a few are not. Non-reusable tapes are those which contain a servo-track, or boot-up files that are erased during the degaussing process. Non-reusable tapes include, but are not limited to:
+
+ADR30
+
+ADR50
+
+TR-4
+
+ADR30
+
+SDR50
+
+TR-5
+
+SLR40
+
+ADR120
+
+AIT1
+
+SLR50
+
+SLR60
+
+SLR100
+
+SLR140
+
+TR-7
+
+AIT2
+
+AIT3
+
+Travan 40GB
+
+Magstar MP
+
+M 3580-B
+
+M 3570-C
+
+M 3570-C/XL
+
+AIT4
+
+AIT Super
+
+M 3590
+
+M 3590-E
+
+STK-9840
+
+STK-T9940
+
+LTO-Ultrium1
+
+SLR24
+
+SLR32
+
+LTO-Ultrium2
+
+LTO-Ultirum3
+
+Zip 100MB
+
+Zip 250MB

@@ -1,0 +1,36 @@
+Guy Claims He Deleted His Entire Company With Just One Line of Bad Code
+Update 17 April 2016: Marsala has admitted that his original post on ServerFault was "a joke" and a terrible attempt at a "viral marketing attempt". ServerFault has since deleted Marsala's post and we've updated the story accordingly.
+
+If you're feeling a little down today, spare a thought for poor Marco Marsala, a web hosting provider who claimed he'd accidentally deleted his entire company with a single line of bad code this week.
+
+By entering code telling his computer to delete everything, Marsala also inadvertently wiped everything on his servers - including all the offsite backups. He posted the dilemma on tech forum ServerFault where it quickly became apparent that there was no way to reverse what he'd done. In other words... damn.
+
+"I run a small hosting provider with more or less 1,535 customers and I use Ansible to automate some operations to be run on all servers. Last night I accidentally ran, on all servers, a Bash script with a rm -rf {foo}/{bar} with those variables undefined due to a bug in the code above this line," Marsala posted on ServerFault on April 11.
+
+Within 20 minutes, he got his reply - although it probably wasn't the answer he was looking for.
+
+"If you really don't have any backups I am sorry to say but you just nuked your entire company," a user named André Borie replied.
+
+A few weeks ago we heard about a programmer who almost broke the internet by deleting 11 lines of code. But that problem - although more far-reaching in scale - was fixed up within hours. So what did Marsala allegedly do that was so irreversibly terrible?
+
+The command he used was "rm -rf", which pretty simply deletes everything it's told to.
+
+"The 'rm' tells the computer to remove; the r deletes everything within a given directory; and the f stands for 'force', telling the computer to ignore the usual warnings that come when deleting files," explains Andrew Griffin for The Independent.
+
+According to Marsala, the command itself wasn't the problem. But the line of code that Marsala had above it was buggy, and so left the variables - which should have told the command where to stop and start deleting - undefined.
+
+Because the backup drives were also mounted to his computer before he ran the script, they got wiped too, he claimed.
+
+"I feel sorry to say that your company is now essentially dead," wrote a user called Sven. "You might have an extremely slim chance to recover from this if you turn off everything right now and hand your disks over to a reputable data recovery company. This will be extremely expensive and still extremely unlikely to really rescue you, and it will take a lot of time."
+
+"You're going out of business. You don't need technical advice, you need to call your lawyer," another user responded.
+
+But Marsala definitely isn't the victim in this situation. As many of ServerFault's users pointed out immediately, he had left himself open to this by not properly backing up his clients' data properly.
+
+"Well, you should have been thinking about how to protect your customers' data before nuking them," wrote one person calling himself Massimo. "I won't even begin enumerating how many errors are simultaneously required in order to be able to completely erase all your servers and all your backups in a single strike. This is not bad luck: it's astonishingly bad design reinforced by complete carelessness."
+
+Things got even worse when it emerged that Marsala had actually made the entire error up "as a joke" and a viral marketing attempt - although we can't really understand the rational behind pretending you'd destroyed your clients' livelihoods to promote your own business. ServerFault has since deleted Marsala's original post.
+
+"The moderators on Server Fault have been in contact with the author about this, and as you can imagine, they're not particularly amused by it," Stack Overflow, who runs the forum, said in a statement.
+
+Let's all just be glad this guy didn't really break any of our favourite websites, and let's all agree to think twice before posting crappy jokes on online forums.

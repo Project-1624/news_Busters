@@ -1,0 +1,46 @@
+Should Fair-Value Accounting Be Used to Measure the Cost of Federal Credit Programs?
+Posted by on
+
+The federal government supports some private activities—such as home ownership, postsecondary education, and certain commercial ventures—by making or guaranteeing loans. At the end of fiscal year 2011, about $2.7 trillion was outstanding in federal direct loans and loan guarantees.
+
+The cost of providing credit assistance is an important consideration for policymakers as they allocate spending among programs and choose between credit assistance and other forms of aid such as federal grants. However, it is difficult to measure the cost of credit assistance because that measurement must account for future cash flows of uncertain amounts that can continue for many years.
+
+The costs of the government’s credit programs are recorded in the federal budget in accordance with rules prescribed in the Federal Credit Reform Act of 1990 (FCRA). Under those rules, the estimated lifetime cost of a new loan or loan guarantee is recorded in the budget in the year in which the loan is disbursed, with that lifetime cost measured in a particular way described below. In a brief released today, CBO examines an alternative method for measuring that lifetime cost called fair-value accounting.
+
+How Do FCRA and Fair-Value Budgetary Treatments Compare?
+
+Under the rules specified in FCRA, the costs of loans and loan guarantees are measured by discounting all of the government’s expected future cash flows—including the amounts disbursed, principal repaid, interest received, fees charged, and net losses that accrue from defaults—to a present value at the date the loan is disbursed. (A present value is a single number that expresses a flow of current and future income, or payments, in terms of a lump sum received, or paid, today; the present value depends on the rate of interest, known as the discount rate, that is used to translate future cash flows into current dollars.) Under FCRA’s rules, the interest rates on U.S. Treasury securities are used for discounting.
+
+The fair-value approach to budgeting for federal credit programs would measure the costs of federal loans and loan guarantees at market prices, meaning that the discount rate applied to expected future cash flows would be the same as what private financial institutions would use. Such rates are higher than the interest rates on Treasury securities. As a result, the discounted value of expected loan repayments would be smaller under the fair-value approach than under FCRA procedures, and therefore the cost of issuing a loan would be greater. (Similar reasoning implies that the private cost of a loan guarantee would be higher than its cost as estimated under FCRA.)
+
+Why Would a Fair-Value Approach Provide a More Comprehensive Measure of the Costs of Federal Credit Programs?
+
+In CBO’s view, a fair-value approach would provide a more comprehensive measure of the costs of federal credit programs to the government than what is currently reported because it would fully incorporate the cost of market risk. (Market risk is the component of financial risk that remains even after investors have diversified their portfolios as much as possible; it arises from shifts in macroeconomic conditions, such as productivity and employment, and from changes in expectations about future macroeconomic conditions.) Treasury rates, which are used for FCRA calculations, are lower than market-based rates primarily because Treasury debt is viewed as having no default risk. But if payments received from borrowers with federal loans fall short of what is owed, the shortfall must ultimately be made up either by raising taxes or by cutting other spending. (Additional federal borrowing can postpone but not avert the need to raise taxes or cut spending.)So, even though the government can fund its loans by issuing Treasury debt and thus does not seem to pay a price for market risk, taxpayers ultimately bear that risk through its potential impact on the federal budget.
+
+Using FCRA procedures instead of market values can obscure the costs of credit assistance that are presented to policymakers:
+
+The costs reported in the budget are generally lower than the costs to even the most efficient private financial institutions for providing credit on the same terms,
+
+The budgetary costs of federal credit programs are almost always lower than those of other federal spending that imposes equivalent true costs on taxpayers, and
+
+Purchases of loans at market prices appear to make money for the government and, conversely, sales of loans at market prices appear to result in losses.
+
+What Are the Challenges of Adopting a Fair-Value Approach?
+
+Several other considerations would be relevant in judging whether to adopt a fair-value approach to federal budgeting. In addition to the practical matters of how to implement and apply a fair-value approach, there are others:
+
+Government agencies would incur additional expense, for instance, for training staff members in fair-value estimating and for the development of new valuation models.
+
+Fair-value cost estimates would be somewhat more volatile over time because of changes in market conditions—although factors that also affect FCRA estimates would continue to be the main cause of volatility.
+
+Fair-value estimates require analysts to make judgments about discount rates for each program, which could be an additional source of inconsistency in the estimates of costs from program to program.
+
+Fair-value estimates also are considered by some observers to be less transparent than FCRA estimates are, and they could be more difficult to communicate to policymakers and the public.
+
+How Much Higher Are Fair-Value Costs?
+
+The government already uses fair-value estimates in budgeting for a few types of programs or transactions, including some of the government’s commitments to the International Monetary Fund and the Troubled Asset Relief Program. In addition, CBO uses a fair-value approach to incorporate the budgetary costs of Fannie Mae and Freddie Mac into its budget projections, and the agency has provided supplementary information to the Congress about fair-value estimates for the costs of other federal credit programs.
+
+In some cases, fair-value estimates of budgetary costs as a percentage of loan amounts are considerably higher than FCRA estimates: CBO has estimated that, for example, the average subsidy for direct student loans made between 2010 and 2020 would be a negative 9 percent under FCRA accounting but a positive 12 percent on a fair-value basis. (A negative subsidy indicates that, for budgetary purposes, the transactions are recorded as generating net income for the government.)
+
+In other cases, however, the difference is more modest: For example, CBO has estimated that the cost of the Federal Housing Administration’s guarantees of single-family home mortgages to be extended in 2012 would be -1.9 percent on a FCRA basis and 1.5 percent on a fair-value basis.

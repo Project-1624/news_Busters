@@ -1,0 +1,188 @@
+Wikipedia
+Photo messaging application
+
+Snapchat is a multimedia messaging app used globally, created by Evan Spiegel, Bobby Murphy, and Reggie Brown,[5] former students at Stanford University, and developed by Snap Inc., originally Snapchat Inc.
+
+One of the principal features of Snapchat is that pictures and messages are usually only available for a short time before they become inaccessible to their recipients. The app has evolved from originally focusing on person-to-person photo sharing to presently featuring users' "Stories" of 24 hours of chronological content, along with "Discover", letting brands show ad-supported short-form content.
+
+Snapchat has become notable for representing a new, mobile-first direction for social media, and places significant emphasis on users interacting with virtual stickers and augmented reality objects. As of February 2018, Snapchat has 187 million daily active users.[6][7]
+
+History
+
+For a chronological guide to this subject, see Timeline of Snapchat
+
+Prototype
+
+According to documents and deposition statements, Reggie Brown brought the idea for a disappearing pictures application to Evan Spiegel because Spiegel had prior business experience. Brown and Spiegel then pulled in Bobby Murphy, who had experience coding. The three worked closely together for several months and launched Snapchat as "Picaboo" on the iOS operating system on July 8, 2011.[8][9] Reggie Brown was ousted from the company months after it was launched.[10]
+
+The app was relaunched as Snapchat in September 2011, and the team focused on usability and technical aspects, rather than branding efforts.[11] One exception was the decision to keep a mascot designed by Brown, "Ghostface Chillah", named after Ghostface Killah of the hip-hop group Wu-Tang Clan.[11]
+
+On May 8, 2012, Reggie Brown sent an email to Evan Spiegel during their senior year at Stanford, in which he offered to re-negotiate his equitable share regarding ownership of the company. Lawyers for Snapchat responded by insisting that he had never had any creative connection to the product. The attorneys also accused Brown of committing fraud against Spiegel and Murphy by falsely claiming to be a product inventor. On behalf of their clients, the law firm concluded that Reggie Brown had made no contributions of value or worth, and was therefore entitled to a share of nothing.[12][13] In September 2014, Brown settled with Spiegel and Murphy for $157.5 million[14] and was credited as one of the original authors of Snapchat.[5][15][16]
+
+In their first blog post, dated May 9, 2012, CEO Evan Spiegel described the company's mission: "Snapchat isn’t about capturing the traditional Kodak moment. It’s about communicating with the full range of human emotion — not just what appears to be pretty or perfect."[17] He presented Snapchat as the solution to stresses caused by the longevity of personal information on social media, evidenced by "emergency detagging of Facebook photos before job interviews and photoshopping blemishes out of candid shots before they hit the internet".[17]
+
+Growth
+
+[18] World map indicating Snapchat's core users by country in 2014. Map based on data from a report from Business Insider Intelligence.
+
+As of May 2012, 25 Snapchat images were being sent per second[19] and, as of November 2012, users had shared over one billion photos on the Snapchat iOS app, with 20 million photos being shared per day.[19][20] That same month, Spiegel cited problems with user base scalability as the reason why Snapchat was experiencing some difficulties delivering its images, known as "snaps", in real time.[19] Snapchat was released as an Android app on October 29, 2012.[19]
+
+In June 2013, Snapchat version 5.0, dubbed "Banquo", was released for iOS. The updated version introduced several speed and design enhancements, including swipe navigation, double-tap to reply, an improved friend finder, and in-app profiles.[21] The name is a reference to the ghostly hero from Shakespeare's Macbeth, a character in the play who is ultimately seen to be victorious over evil.[22] Also in June 2013, Snapchat introduced Snapkidz for users under 13 years of age. Snapkidz was part of the original Snapchat application and was activated when the user provided a date of birth to verify his/her age. Snapkidz allowed children to take snaps and draw on them, but they could not send snaps to other users and could only save snaps locally on the device being used.[23]
+
+According to Snapchat's published statistics, as of May 2015, the app's users were sending 2 billion videos per day, reaching 6 billion by November.[24] By 2016, Snapchat had hit 10 billion daily video views.[25] In May 2016, Snapchat raised $1.81 billion in equity offering, suggesting strong investor interest in the company.[26] By May 31, 2016, the app had almost 10 million daily active users in the United Kingdom.[27] In February 2017, Snapchat had 160 million daily active users,[28][29] growing to 166 million in May.[30][31]
+
+Snapchat Spectacles Vending Machine at SXSW 2017, Austin, Texas
+
+In September 2016, Snapchat Inc. was renamed Snap Inc. to coincide with the introduction of the company's first hardware product, Spectacles— smartglasses with a built-in camera that can record 10 seconds of video at a time.[32] On February 20, 2017, Spectacles became available for purchase online.[33]
+
+Features
+
+Core functionality
+
+Snapchat is primarily used for creating multimedia messages referred to as "snaps"; snaps can consist of a photo or a short video, and can be edited to include filters and effects, text captions, and drawings.[34][35] Snaps can be directed privately to selected contacts, or to a semi-public "Story" or a public "Story" called "Our Story".[36] The ability to send video snaps was added as a feature option in December 2012. By holding down on the photo button while inside the app, a video of up to ten seconds in length can be captured. Spiegel explained that this process allowed the video data to be compressed into the size of a photo.[37] A later update allowed the ability to record indefinitely, but are still segmented into 10 second intervals. After a single viewing, the video disappears by default. On May 1, 2014, the ability to communicate via video chat was added. Direct messaging features were also included in the update, allowing users to send ephemeral text messages to friends and family while saving any needed information by clicking on it.[38][39]. According to CIO, Snapchat uses real-time marketing concepts and temporality to make the app appealing to users.[40] Snapchat is video-based, which helps leave a vivid memory in the audience. According to Marketing Pro, Snapchat attracts interest and potential customers by combining the AIDA (marketing) model with modern digital technology.[41]
+
+Private message photo snaps can be viewed for a user-specified length of time (1 to 10 seconds as determined by the sender) before they become inaccessible. Users were previously required to hold down on the screen in order to view a snap; this behavior was removed in July 2015[42] The requirement to hold on the screen was intended to frustrate the ability to take screenshots of snaps; the Snapchat app does not prevent screenshots from being taken but can notify the sender if it detects that it has been saved. However, these notifications can be bypassed through either unauthorized modifications to the app or by obtaining the image through external means.[11][19][43] One snap per day can be replayed for free.[44] In September 2015, Snapchat introduced the option to purchase additional replays through in-app purchases.[45][44][46] The ability to purchase extra replays was removed in April 2016.[47][48]
+
+Friends can be added via usernames and phone contacts, using customizable "Snapcodes", or through the "Add Nearby" function, which scans for users near their location who are also in the Add Nearby menu.[42][49] Spiegel explained that Snapchat is intended to counteract the trend of users being compelled to manage an idealized online identity of themselves, which he says has "taken all of the fun out of communicating".[11]
+
+In November 2014, Snapchat introduced "Snapcash", a feature that lets users send and receive money to each other through private messaging. The payments system is powered by Square.[50][51]
+
+In July 2016, Snapchat introduced a new, optional feature known as "Memories". Memories allows snaps and story posts to be saved into a private storage area, where they can be viewed alongside other photos stored on the device, as well as edited and published as snaps, story posts, or messages. When shared to a user's current story, the memory would have a white frame and timestamp to indicate its age. Content in the Memories storage area can be searched by date or using a local object recognition system. Snaps accessible within Memories can additionally be placed into a "My Eyes Only" area that is locked with a PIN. Snapchat has stated that the Memories feature was inspired by the practice of manually scrolling through photos on a phone to show them to others.[52] In April 2017, the white border around old memories was removed. While originally intended to let viewers know the material was old, TechCrunch wrote that the indicator "ended up annoying users who didn’t want their snaps altered, sometimes to the point where they would decide not to share the old content at all".[53][54]
+
+In May 2017, an update made it possible to send snaps with unlimited viewing time, dropping the previous ten-second maximum duration, with the content disappearing after being deliberately closed by the recipient. New creative tools, namely the ability to draw with an emoji, videos that play in a loop, and an eraser that lets users remove objects in a photo with the app filling in the space with the background, were also released.[55][56]
+
+In June 2017, Snapchat started allowing users to add links to snaps, enabling them to direct viewers to specific websites; the feature was only available for brands previously. Additionally, the update added more creative tools: A "Backdrop" feature lets users cut out a specific object from their photo and apply colorful patterns to it in order to bring greater emphasis to that object, and "Voice Filters" enable users to remix the sounds of their voices in the snap. Voice Filters was previously available as part of the feature enabling augmented reality lenses, with the new update adding a dedicated speaker icon to remix the audio in any snap.[57][58]
+
+Filters, lenses, and stickers
+
+Snaps can be personalized with various forms of visual effects and stickers. Geofilters are graphical overlays available if the user is within a certain geographical location, such as a city, event, or destination.[60] A similar feature known as Geostickers was launched in 10 major cities in 2016.[61] Bitmoji are stickers featuring personalized cartoon avatars, which can be used in snaps and messaging.[62][63] Bitmoji characters can also be used as World Lenses.[64]
+
+The "Lens" feature, introduced in September 2015, allows users to add real-time effects into their snaps by using face detection technology. This is activated by long-pressing on a face within the viewfinder.[65] In April 2017, Snapchat extended this feature into "World Lenses", which use augmented reality technology to integrate 3D rendered elements (such as objects and animated characters) into scenes; these elements are placed and anchored in 3D space.[66][67]
+
+On October 26, 2018, at TwitchCon, Snap launched the Snap Camera desktop application for macOS and Windows PCs, which enables use of Snapchat lenses in video chat and live streaming services such as Skype, Twitch, YouTube, and Zoom. Snapchat also launched integration with Twitch, including an in-stream widget for Snapcodes, the ability to offer lenses to stream viewers and as an incentive to channel subscribers. Several video game-themed lenses were also launched at this time, including ones themed around League of Legends, Overwatch, and PlayerUnknown's Battlegrounds.[68][69]
+
+Friend emojis
+
+As incentive to send content regularly, emoji icons will appear next to the names of contacts that the user frequently interacts with.[70] Emoji Name Snapchat meaning 💕 Super BFF Appears next to the user's number 1 Best Friend when they are also their number 1 Best Friend for two months in a row. ❤️ BFF Appears next to the user's number 1 Best Friend when they are also their number 1 Best Friend for two weeks in a row. 💛 Besties Appears next to the user's number 1 Best Friend when they are also their number 1 Best Friend. 😊 BFs Appears next to one of the user's Best Friends 😏 Their BF, but... Appears next to someone when the user is one of their Best Friends, but they are not one of the user's. 😬 Mutual Besties Appears next to someone when the user's number 1 Best Friend is also their number 1 Best Friend. 😎 Mutual BFs Appears next to someone whom the user shares a best friend with. 🔥 Snapstreak Appears next to the number of days that the user and a friend have Snapped each other. If the user and their friend do not both send a Snap within 24 hours, they will lose their Snapstreak. ✨ Group Chat Appears next to all of the user's group chats. ⌛️ Hourglass Appears next to someone's name if the user's Snapstreak is going to end soon. 🎂 Birthday Cake Appears next to someone when it is their birthday
+
+Stories and Discover
+
+In October 2013, Snapchat introduced the "My Story" feature, which allows users to compile snaps into chronological storylines, accessible to all of their friends.[36][71] By June 2014, photo and video snaps presented to friends in the Stories functionality had surpassed person-to-person private snaps as the most frequently used function of the service, with over one billion viewed per day — double the daily views tallied in April 2014.[72]
+
+In June 2014, the story feature was expanded to incorporate "Our Stories", which was then changed to "Live Stories" about a year later. The feature allows users on-location at specific events (such as music festivals or sporting events) to contribute snaps to a curated story advertised to all users, showcasing a single event from multiple perspectives and viewpoints. These curated snaps provided by the app's contributors and selected for the "Live" section could also be more localized, but Snapchat eventually scaled back the more personal imaging streams in order to emphasize public events.[73][74][75][76][77][78]
+
+An "Official Stories" designation was added in November 2015 to denote the public stories of notable figures and celebrities, similar to Twitter's "Verified account" program.[79]
+
+In January 2015, Snapchat introduced "Discover", an area containing channels of ad-supported short-form content from major publishers, including BuzzFeed, CNN, ESPN, Mashable, People, Vice and Snapchat itself among others.[80][81][82] To address data usage concerns related to these functions, a "Travel Mode" option was added in August 2015. When activated, the feature prevents the automatic downloading of snaps until they are explicitly requested by the user.[83]
+
+In October 2016, the app was updated to replace its auto-advance functionality, which automatically moved users from one story to the next, with a "Story Playlist" feature, letting users select thumbnails of users in the list to play only selected stories.[84][85]
+
+In January 2017, Snapchat revamped its design, adding search functionality and a new global live "Our Story" feature, to which any user can contribute.[86]
+
+In May 2017, Snapchat introduced "Custom Stories", letting users collaboratively make stories combining their captures.[87][88]
+
+In June 2017, "Snap Map" was introduced, which allows users to optionally share their location with friends. A map display, accessible from the viewfinder, can be used to locate stories based on location data, supporting the use of Bitmoji as place markers. Entering a "Ghost Mode" hides the user from the map.[89][90] The function is based on the app Zenly, which was acquired by Snap Inc. prior to its launch.[91] The map data is supplied from OpenStreetMap and Mapbox, while satellite imagery comes from DigitalGlobe.[92]
+
+Original video content
+
+The Wall Street Journal reported in May 2017 that Snap Inc., the company developing Snapchat, had signed deals with NBCUniversal, A&E Networks, BBC, ABC, Metro–Goldwyn–Mayer and other content producers to develop original shows for viewing through Snapchat's "Stories" format. According to the report, Snap hoped to have several new shows available on a daily basis, with each show lasting between three and five minutes, and the company has sent out detailed reports to its partners on how to produce content for Snapchat. Over 2017 and 2018, Snap and partners launched several shows.[93][94][95]
+
+Messaging
+
+Example Snapchat "snap" on a smartphone.
+
+In contrast to other messaging apps, Spiegel described Snapchat's messaging functions as being "conversational," rather than "transactional," as they sought to replicate the conversations he engaged in with friends. Spiegel stated that he did not experience conversational interactions while using the products of competitors like iMessage.[38]
+
+Rather than a traditional online notification, a blue pulsing "Here" button is displayed within the sender's chat window if the recipient is currently viewing their own chat window. When this button is held down, a video chat function is immediately launched.[38] By default, messages disappear after they are read, and a notification is sent to the recipient only when they start to type.[38] Users can also use messages to reply to snaps that are part of a story.[96] The video chat feature uses technology from AddLive—a real-time communications provider that Snapchat acquired prior to the feature's launch.[97] In regards to the "Here" indicator, Spiegel explained that "the accepted notion of an online indicator that every chat service has is really a negative indicator. It means 'my friend is available and doesn't want to talk to you,' versus this idea in Snapchat where 'my friend is here and is giving you their full attention.'" Spiegel further claimed that the Here video function prevents the awkwardness that can arise from apps that use typing indicators because, with text communication, conversations lose their fluidity as each user tries to avoid typing at the same time.[38]
+
+On March 29, 2016, Snapchat launched a major revision of the messaging functionality known as "Chat 2.0", adding stickers, easier access to audio and video conferencing, the ability to leave audio or video "notes", and the ability to share recent camera photos. The implementation of these features are meant to allow users to easily shift between text, audio, and video chat as needed while retaining an equal level of functionality.[98] In June 2018, Snapchat added the feature of deleting a sent message (including; audio, video, and text) before it is read.[99][100] A feature introduced in August 2018, allows users to send Musical GIFs, TuneMojis.[101][102]
+
+Business and multimedia
+
+Demographics
+
+From its earliest days, Snapchat's main demographic has consisted of millennials.[103] In 2014, researchers from the University of Washington and Seattle Pacific University designed a user survey to help understand how and why the application was being used. The researchers originally hypothesized that due to the ephemeral nature of Snapchat messages, its use would be predominantly for privacy-sensitive content including the much talked about potential use for sexual content and sexting.[104] However, it appears that Snapchat is used for a variety of creative purposes that are not necessarily privacy-related at all.[104] In the study, only 1.6% of respondents reported using Snapchat primarily for sexting, although 14.2% admitted to having sent sexual content via Snapchat at some point.[104] These findings suggest that users do not seem to utilize Snapchat for sensitive content. Rather, the primary use for Snapchat was found to be for comedic content such as "stupid faces" with 59.8% of respondents reporting this use most commonly.[104] The researchers also determined how Snapchat users do not use the application and what types of content they are not willing to send. They found that the majority of users are not willing to send content classified as sexting (74.8% of respondents), photos of documents (85.0% of respondents), messages containing legally questionable content (86.6% of respondents), or content considered mean or insulting (93.7% of respondents).[104]
+
+The study results also suggested that Snapchat's success is not due to its security properties, but because the users found the application to be fun. The researchers found that users seem to be well aware (79.4% of respondents) that recovering snaps is possible and a majority of users (52.8% of respondents) report that this does not affect their behavior and use of Snapchat.[104] Many users (52.8% of respondents) were found to use an arbitrary timeout length on snaps regardless of the content type or recipient. The remaining respondents were found to adjust their snaps' timeout depending on the content or the recipient.[104] Reasons for adjusting the time length of snaps included the level of trust and relationship with the recipient, the time needed to comprehend the snap, and avoiding screenshots.[104]
+
+Communication
+
+Snapchat has often been seen to represent a new direction in social media, with its users, particularly millennials, craving a more in-the-moment way of sharing and communicating via technology. With less emphasis on the accumulation of an ongoing status involving the presence of permanent material, Snapchat put focus on the ephemeral nature of fleeting encounters.[105] Building on this distinction by launching as a mobile-first company, Snapchat, in the midst of the app revolution and the growing presence of cellular communication, didn't have to make the transition to mobile in the way other competing social media networks had to do. Evan Spiegel himself described Snapchat as primarily a camera company.[106][107] Spiegel also dismissed past comparisons to other social media networks such as Facebook and Twitter when he was asked if the 2016 presidential race was going to be remembered as the Snapchat election, although major candidates did occasionally use the app to reach voters.[108] Nevertheless, the growing mobile app moved to offer distinct publication, media, and news content within its Discover channel, as well as with its overall style of presentation. With Snapchat, a clear and identifiable line was drawn between brand content and user-based messaging and sharing, once again distinguishing the popular app from other social media networks, which typically have blended and blurred their different varieties of content.[109]
+
+Monetization
+
+Snapchat's developing features embody a deliberate strategy of monetization.
+
+Snapchat announced its then-upcoming advertising efforts on October 17, 2014, when it acknowledged its need for a revenue stream.[110] The company stated that it wanted to evaluate "if we can deliver an experience that's fun and informative, the way ads used to be, before they got creepy and targeted."[111] Snapchat's first paid advertisement, in the form of a 20-second movie trailer for the horror film Ouija, was shown to users on October 19, 2014.[112][113]
+
+In January 2015, Snapchat began making a shift from focusing on growth to monetization. The company launched its "Discover" feature, which allowed for paid advertising by presenting short-form content from publishers. Its initial launch partners included CNN, Comedy Central, ESPN and Food Network, among others.[81][82][114] In June 2015, Snapchat announced that it would allow advertisers to purchase sponsored geofilters for snaps; an early customer of the offering was McDonald's, who paid for a branded geofilter covering its restaurant locations in the United States. Snapchat made a push to earn ad revenue from its "Live Stories" feature in 2015, after initially launching the feature in 2014. Ad placements can be sold within a live story, or a story can be pitched by a sponsor. Live stories are estimated to reach an average of 20 million viewers in a 24-hour span.[76]
+
+Campaigns
+
+In September 2015, the service entered into a partnership with the National Football League to present live stories from selected games (including a Sunday game, and marquee games such as Monday Night Football and Thursday Night Football), with both parties contributing content and handling ad sales.[76][115] The 2015 Internet Trends Report by Mary Meeker highlighted the significant growth of vertical video viewing. Vertical video ads like Snapchat's are watched in their entirety nine times more than landscape video ads.[116] In 2016, Gatorade came out with an animated filter as part of the Super Bowl ads in 2016.[117] The Dunk Lens of Gatorade received 165m views on Snapchat.[118]
+
+In April 2016, NBC Olympics announced that it had reached a deal with Snapchat to allow stories from the 2016 Summer Olympics to be featured on Snapchat in the United States. The content would include a behind-the-scenes Discover channel curated by BuzzFeed (a company which NBCUniversal has funded), and stories featuring a combination of footage from NBC, athletes, and attendees. NBC will sell advertising and enter into revenue sharing agreements. This marked the first time NBC allowed Olympics footage to be featured on third-party property.[119] In May 2016, as part of a campaign to promote X-Men: Apocalypse, 20th Century Fox paid for the entire array of lenses to be replaced by those based on characters from the X-Men series and films for a single day.[120] In July 2016, it was reported that Snapchat had submitted a patent application for the process of using an object recognition system to deliver sponsored filters based on objects seen in a camera view.[121] Later that year, in Sep 2016, Snapchat released its first hardware product, called the Spectacles. Evan Spiegel, CEO of Snap Inc., called it “a toy” but saw it as an upside to freeing his app from smartphone cameras.[122] Since May 2016, Cisco tells stories about current employees by asking employees of the company to take over its WeAreCisco Snapchat account.[123]
+
+In April 2017, Digiday reported that Snapchat would launch a self-service manager for advertising on the platform.[124] The feature launched the following month, alongside news of a Snapchat Mobile Dashboard for tracking ad campaigns, set to roll out in June to select countries.[125] Also in 2017, Snapchat introduced a "Snap to Store" advertising tool that lets companies using geostickers to track whether users buy their product or visit their store in a 7-day period after seeing the relevant geosticker.[126][127] On November 13 2018, Snapchat announced the launch of the Snap Store, where they sell Bitmoji merchandise personalized by avatars from users and their friends. Items for sale include shirts, mugs, shower curtains, and phone cases.[128]
+
+Development platform
+
+In June 2018, Snapchat announced a new third-party development platform known as Snap Kit—a suite of components that allows partners to provide third-party integrations with aspects of the service. "Login Kit" is a social login platform that utilizes Snapchat accounts; it was promoted as being more privacy-conscious than competing equivalents, as services are only able to receive the user's display name (and, optionally, a Bitmoji avatar) and are subject to a 90-day inactivity timeout, preventing them from being able to collect any further personal information or social graphs through their authorization. "Creative Kit" allows apps to generate their own stickers to overlay into Snapchat posts. "Story Kit" can be used to embed and aggregate publicly posted stories (with for example, Bandsintown using Story Kit to aggregate stories posted by musicians), while "Bitmoji Kit" allows Bitmoji stickers to be integrated into third-party apps.[129]
+
+Controversy
+
+December 2013 hack
+
+Snapchat was hacked on December 31, 2013.[130][131] Gibson Security, an Australian security firm, had disclosed an API security vulnerability to the company on August 27, 2013,[132][133] and then made public the source code for the exploit on Christmas Day (Australian time; Christmas Eve in the US).[134][135] On December 27, Snapchat announced that it had implemented mitigating features.[136] Nonetheless, an anonymous group hacked them, saying that the mitigating features presented only "minor obstacles".[137][138] The hackers revealed parts of approximately 4.6 million Snapchat usernames and phone numbers on a website named "SnapchatDB.info"[131][139][140] and sent a statement to the popular technology blog TechCrunch saying that their objective had been to "raise public awareness ... and ... put public pressure on Snapchat" to fix the vulnerability.[139] Snapchat apologized a week after the hack.[141]
+
+Federal Trade Commission
+
+In 2014, Snapchat settled a complaint made by the Federal Trade Commission. The government agency alleged that the company had exaggerated to the public the degree to which mobile app images and photos could actually be made to disappear. Under the terms of the agreement, Snapchat was not fined, but the app service agreed to have its claims and policies monitored by an independent party for a period of 20 years. The FTC concluded that Snapchat was prohibited from "misrepresenting the extent to which it maintains the privacy, security, or confidentiality of users' information."[142]
+
+Following the agreement, Snapchat updated its privacy page to state that the company "can't guarantee that messages will be deleted within a specific timeframe." [143] Even after Snapchat deletes message data from their servers, that same data may remain in backup for a certain period of time.[143] In a public blog post, the service warned that "If you've ever tried to recover lost data after accidentally deleting a drive or maybe watched an episode of CSI, you might know that with the right forensic tools, it's sometimes possible to retrieve data after it has been deleted."[144]
+
+Lens incidents
+
+In September 2015, an 18-year-old was using a Snapchat feature called "Lens" to record the speed she was driving her Mercedes C230 when she crashed into a Mitsubishi Outlander in Hampton, Georgia. The 107 mph (172 km/h) crash injured both drivers. The driver of the Outlander spent five weeks in intensive care while he was treated for severe traumatic brain injury. In April 2016, the Outlander driver sued both Snapchat and the user of Snapchat, alleging that Snapchat knew its application was being used in unlawful speed contests, yet did nothing to prevent such use so is negligent.[145]
+
+A similar collision while driving at 115 mph (185 km/h), occurred in Tampa, Florida, in October 2016 that killed five people.[146]
+
+Patent infringement
+
+In 2016, Snapchat was sued by Canadian company for infringement on its geofiltering patent.[147][148] The company, Investel Capital Corp., sued Snapchat for patent infringement. They were seeking "monetary compensation and an order that would prohibit California-based Snapchat from infringing on its patent in the future."[149]
+
+"Poor Country" remark
+
+According to former Snapchat employee Anthony Pompliano in a lawsuit filed against Snap Inc., Spiegel made a statement in 2015 that Snapchat is "only for rich people" and that he does not "want to expand into poor countries like India and Spain".[150] The incident sparked a Twitter trend called "#UninstallSnapchat", in which Indian users uninstalled the app,[151] and caused backlash against the company in terms of low "one-star" ratings for the app in the Google Play store and Apple's App Store.[152][153] Snapchat's shares fell by 1.5%.[154] In response to the allegation, Snapchat called Pompliano's claim "ridiculous", and elaborated that "Obviously Snapchat is for everyone. It’s available worldwide to download for free".[153]
+
+"Snap Map" privacy concerns
+
+The June 2017 release of "Snap Map", a feature that broadcasts the user's location on a map, was met with concerns over privacy and safety. The feature, though an opt-in, delivers a message asking if the user would like to show their position on the map, but reportedly doesn't explain the ramifications of doing so, including that the app updates the user's position on the map each time the app is opened and not just when actively capturing snaps, potentially assisting stalkers. The map can be zoomed in to feature detailed geographical information, such as street addresses.[155] The Daily Telegraph reported that police forces had issued child safety warnings,[156] while other media publications wrote that safety concerns were also raised for teenagers and adults unaware of the feature's actual behavior.[155][157] In a statement to The Verge, a Snapchat spokesperson said that "The safety of our community is very important to us and we want to make sure that all Snapchatters, parents, and educators have accurate information about how the Snap Map works".[155] Users have the ability to operate in "Ghost Mode", or select the friends that they wish to share their location with. Although there has been an increase in advertising on Snapchat, Snapchat has stated that they do not plan on running ads on Snap Map stories.
+
+2018 redesign
+
+In November 2017, Snapchat announced a redesign,[158] which proved controversial with many of its followers. CNBC's Ingrid Angulo listed some of the reasons why many disliked the update, citing that sending a snap and re-watching stories was more complicated, stories and incoming snaps were now listed on the same page, and that the Discover page now included featured and sponsored content.[159]
+
+In February 2018, Kylie Jenner sent a tweet criticizing the redesign of the Snapchat app.[160] The tweet reportedly caused Snap Inc to lose more than $1.3 billion in market value.[161][162]
+
+Over 1.2 million people signed a Change.org petition asking the company to remove the new app update.[163]
+
+Rihanna controversy
+
+In March 2018, a poll about Rihanna was posted stating, "Would you rather punch Chris Brown or slap Rihanna?"[164] Rihanna tweeted that Snapchat was "insensitive to domestic violence victims" and urged fans to delete Snapchat.[165]
+
+Body image concerns
+
+The increased use of body and facial reshaping applications such as Snapchat and Facetune has been identified as a potential cause of body dysmorphic disorder. In August 2018, researchers from the Boston Medical Center wrote in a JAMA Facial Plastic Surgery essay that a phenomenon they called 'Snapchat dysmorphia' had been identified, where people request surgery to look like the edited version of themselves as they appear through Snapchat Filters.[166]
+
+See also
+
+Comparison of instant messaging clients
+
+Ephemera – any transitory written or printed matter not meant to be retained or preserved
+
+Timeline of social media
+
+Sobrr, another mobile application which deletes content after a specified time
+
+References

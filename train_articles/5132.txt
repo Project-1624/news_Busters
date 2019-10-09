@@ -1,0 +1,18 @@
+Senate Forecast 2014
+HuffPost Pollster begins by collecting every publicly released poll on the 2014 Senate races. We then use a statistical model to estimate the trend in support for each candidate based on all the survey data, adjusting for sample size and pollsters’ “house effects.” Interactive charts of those support trends are available here and on the HuffPost Pollster home page.
+
+By running a series of simulations (known commonly as the Monte Carlo method), the model allows us to quantify the uncertainty associated with the current polling snapshot. That uncertainty comes from multiple sources: sampling error in the polls themselves, uncertainty about the house effect corrections, and uncertainty about how quickly vote intentions are changing.
+
+The model then calculates a “win probability” for each race that is displayed in the graphics on this page. This probability takes three factors into account:
+
+The time remaining between the current snapshot and the election.
+
+The possibility that the polls could be wrong or that some sort of major event could shake up a race in ways that the current polls can’t measure.
+
+The proportion of “undecided” voters in the polls. If the undecided proportion is high relative to the expected margin between the candidates, the outcome of that race must be less certain.
+
+Lastly, we combine the win probabilities from each race and perform another set of Monte Carlo simulations to calculate the likelihood of each outcome — giving us the probabilities of Democrats keeping control of the Senate or of Republicans taking over.
+
+Read more: HuffPost Pollster Refines Senate Poll Tracking Model Before 2014 Elections; How HuffPost Forecasts Senate Elections: The Technical Details
+
+Download data: Daily HuffPost Pollster Senate Forecasts (CSV)

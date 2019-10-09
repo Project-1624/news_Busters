@@ -1,0 +1,32 @@
+NASA GISS: NASA News & Feature Releases: Examination of Earth's Recent History Key to Predicting Global Temperatures
+NASA News & Feature Releases
+
+Examination of Earth's Recent History Key to Predicting Global Temperatures
+
+Estimates of future global temperatures based on recent observations must account for the differing characteristics of each important driver of recent climate change, according to a new NASA study published Dec. 14 in the journal Nature Climate Change .
+
+To quantify climate change, researchers need to know the Transient Climate Response (TCR) and Equilibrium Climate Sensitivity (ECS) of Earth. Both values are projected global mean surface temperature changes in response to doubled atmospheric carbon dioxide concentrations but on different timescales. TCR is characteristic of short-term predictions, up to a century out, while ECS looks centuries further into the future, when the entire climate system has reached equilibrium and temperatures have stabilized.
+
+There have been many attempts to determine TCR and ECS values based on the history of temperature changes over the last 150 years and the measurements of important climate drivers, such as carbon dioxide. As part of that calculation, researchers have relied on simplifying assumptions when accounting for the temperature impacts of climate drivers other than carbon dioxide, such as tiny particles in the atmosphere known as aerosols, for example. It is well known that aerosols such as those emitted in volcanic eruptions act to cool Earth, at least temporarily, by reflecting solar radiation away from the planet. In a similar fashion, land use changes such as deforestation in northern latitudes result in bare land that increases reflected sunlight.
+
+But the assumptions made to account for these drivers are too simplistic and result in incorrect estimates of TCR and ECS, said climate scientist Gavin Schmidt, the director of NASA's Goddard Institute for Space Studies (GISS) in New York and a co-author on the study. “The problem with that approach is that it falls way short of capturing the individual regional impacts of each of those variables,” he said, adding that only within the last ten years has there been enough available data on aerosols to abandon the simple assumption and instead attempt detailed calculations.
+
+In a NASA first, researchers at GISS accomplished such a feat as they calculated the temperature impact of each of these variables — greenhouse gases, natural and man-made aerosols, ozone concentrations, and land use changes — based on historical observations from 1850 to 2005 using a massive ensemble of computer simulations. Analysis of the results showed that these climate drivers do not necessarily behave like carbon dioxide, which is uniformly spread throughout the globe and produces a consistent temperature response; rather, each climate driver has a particular set of conditions that affects the temperature response of Earth.
+
+The new calculations reveal their complexity, said Kate Marvel, a climatologist at GISS and the paper's lead author. “Take sulfate aerosols, which are created from burning fossil fuels and contribute to atmospheric cooling,” she said. “They are more or less confined to the northern hemisphere, where most of us live and emit pollution. There's more land in the northern hemisphere, and land reacts quicker than the ocean does to these atmospheric changes.”
+
+Because earlier studies do not account for what amounts to a net cooling effect for parts of the northern hemisphere, predictions for TCR and ECS have been lower than they should be. This means that Earth's climate sensitivity to carbon dioxide — or atmospheric carbon dioxide's capacity to affect temperature change — has been underestimated, according to the study. The result dovetails with a GISS study published last year that puts the TCR value at 3.0°F (1.7°C); the Intergovernmental Panel on Climate Change, which draws its TCR estimate from earlier research, places the estimate at 1.8°F (1.0°C).
+
+“If you've got a systematic underestimate of what the greenhouse gas-driven change would be, then you're systematically underestimating what's going to happen in the future when greenhouse gases are by far the dominant climate driver,” Schmidt said.
+
+Reference
+
+Marvel, K., G.A. Schmidt, R.L. Miller, and L. Nazarenko, 2016: Implications for climate sensitivity from the response to individual forcings. Nature Clim. Change , 6, no. 4, 386-389, doi:10.1038/nclimate2888.
+
+Media Contact
+
+Leslie McCarthy, NASA Goddard Institute for Space Studies, New York, N.Y., 212-678-5507, leslie.m.mccarthy@nasa.gov
+
+This article was originally prepared by Samson Reiny as a NASA Earth Science feature.
+
++ Return to NASA Releases Index

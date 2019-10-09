@@ -1,0 +1,72 @@
+Understanding Payment Error Rates for Medicaid
+The numbers are eye opening. The Centers for Medicare & Medicaid Services (CMS), the federal agency that oversees Medicaid, estimates that improper payments in the Medicaid program totaled $21.9 billion in fiscal year 2011. And the national payment error rate (called the “PERM” rate)[1] for Medicaid was 8.1 percent in the same year. Although these figures are reported annually, they are receiving even more attention this year than usual. That’s in part due to the stress that federal and state governments are under to trim budgets and increase the efficiency of programs, but also because, for the first time, CMS has released state-by-state breakdowns of individual state error rates.
+
+Medicaid: Big Budgets, Big Potential for Errors
+
+Medicaid is jointly funded by both the federal and state governments and is one of the largest social programs in the federal budget, according to the Government Accountability Office (GAO). While the Federal government sets broad guidelines and provides a significant amount of funding to the states for Medicaid, every state oversees their own program and designs and runs their own systems within the general federal guidelines. The program covered about 67 million people in fiscal year 2010 and expenditures totaled about $401 billion. Around 67 percent (or $270 billion) came from the federal government while states picked up the rest of the tab - $132 billion in fiscal year 2010.
+
+Due to its sheer size, if only a small percentage of transactions within the Medicaid program are improper it adds up to significant sums of money very quickly. The Kaiser Commission on Medicaid and the Uninsured recognizes the importance of measuring improper payments, particularly such a large program with big budgetary implications, saying, "both the federal and state governments have a stake in ensuring that benefits go only to people who qualify, and estimating errors can serve as a useful program integrity metric."
+
+Check out how much your state spends on Medicaid in the new report, Medicaid Spending in the States, by CSG Health Policy Director Debra Miller.
+
+The GAO designates Medicaid as a “high-risk program” because it is “particularly vulnerable to fraud, waste, abuse[2] and improper payments[3] (payments that should not have been made or were made in an incorrect amount),” and because of concerns about the adequacy of fiscal oversight to prevent inappropriate spending. But what does this “PERM” rate really mean?
+
+Measuring Improper Payments
+
+CMS developed the PERM program in response to the Improper Payment Information Act which was enacted in 2002 and required federal agencies to annually review and report on programs they oversaw that were susceptible to “significant erroneous payments”. PERM is a comprehensive, ongoing federal audit designed to estimate the proportion of Medicaid and Children’s Health Insurance Program (CHIP) payments made in error. The program has three distinct areas:
+
+Data Processing
+
+Medical Necessity
+
+Recipient Eligibility
+
+It is important to note when reviewing error rates that they are not just a measure of fraud and abuse - they also include events like incomplete documentation, clerical error and other unintentional or inadvertant administrative mistakes.
+
+PERM rates are based on a review of the fee-for-service, managed care and eligibility components of Medicaid and CHIP. States are reviewed once every three years, using a 17-state rotation. The 2011 error rate of 8.1 percent actually reflects a three-year weighted average – or a “rolling average" – of the 2009, 2010, and 2011 rates (8.7 percent, 9.0 percent and 6.7 percent respectively) for the states reviewed in those years.
+
+Medicaid and CHIP Measurement Cycles
+
+Source: The Centers for Medicare & Medicaid Services, Payment Error Rate Measurement Manual, Version 2.0, Updated September 30, 2011, Exhibit 1. Medicaid and CHIP Measurement Cycles
+
+The PERM rate has a number of components, including overpayments and underpayments as well as inaccurate payments for services, like unintentional duplicate payments. A CMS analysis of payments from 2007-2009 found that underpayments made up less than 3% of the 3,000 improper payments sampled in the study[4]. The same study noted that documentation discrepancies, including insufficient eligibility information, generate over two thirds of payment error cases but account for less than one quarter of the total cost of improper payments.
+
+PERM: Overpayments and Underpayments – FY2007-FY2009 Cycle
+
+Source: Payment Error Rate Measurement (PERM) Update, A presentation by Cindy D’Annunzio, Director, Division of Error Rate Measurement, Office of Financial Management, Center for Medicare & Medicaid Services, August 16, 2011.
+
+State-by-State Rates Released
+
+On January 13, CMS responded to requests from two congressional committees to release for the first time state-by-state PERM rates. Previously, only the national rate was available to policymakers. Although they are now available, it is extremely important to approach state-by-state rates with caution and understanding: they can vary significantly and become tricky to compare because of the differences in how states implement and administer their programs.
+
+National and State Ranges: Payment Error Rate Measurement (PERM) for Medicaid and CHIP, Combined Rates, FY2009 – FY2011
+
+Source: CSG Analysis of the Centers for Medicare & Medicaid Services Report, Fiscal Years 2009-2011 Medicaid Payment Error Rate Measurement (PERM) Program Rates
+
+CMS warns: “We provide each state their specific error rates and data analysis reports to develop corrective actions designed to reduce major error causes and to identify trends in errors or other factors for purposes of reducing improper payments. Due to the variation of states’ sizes, overall program variations, and different ways that each State’s rate impacts the national rate, we do not encourage comparisons based solely on PERM rates.” In addition, CMS explains that PERM is designed to produce precise error rates at the national level, but sample sizes per state are relatively small, making the precision of state-specific error less reliable.
+
+Following the release of the PERM numbers, Matt Salo, Executive Director of the National Association of Medicaid Directors (NAMD), expressed concerns about the new data in a public statement. “While the objective of the PERM initiative is well-intentioned, the project has been undermined by design flaws and ineffective execution. Countless states report that the composite and overall error rates are a poor measure of fraud, waste and abuse and the overall integrity of their Medicaid programs,” said Salo.
+
+Salo explains that looking at one, composite error rate can be misleading if the data user doesn’t fully understand what they are seeing. “PERM provides overall error rates but the information delivered to Members of Congress does not classify whether these errors are due to incorrect eligibility determinations or claim payments rather than ‘insufficient documentation’ by individuals or providers….As a result error rates in some states may be misleading or inflated,” said Salo.
+
+Some states have pursued initiatives to streamline and simplify eligibility determination at the urging of federal officials and state-level advocates and policymakers. “The new 2011 regulations help to clarify that these initiatives, intended to expedite access to health care for vulnerable citizens, should not end up increasing states’ insufficient documentation as was true in the past,” CSG Health Policy Director Debra Miller observed.
+
+While it is clear that more work needs to be done to assess the accuracy of PERM statistics, the sheer scale of error rates among states with similar characteristics begs the question: why are some states achieving much lower error rates than others?
+
+“While the complexity of the Medicaid program defies easy comparisons, other eligibility driven safety net programs, such as food stamps (SNAP) and housing assistance, have error rates of half that of Medicaid,” said Chris Whatley, director of CSG’s Washington, D.C., office. “Given that our ongoing fiscal crisis is causing both state and federal leaders to scour all accounts in search of savings, reducing improper payments rates is likely to be a hot topic in the year ahead.”
+
+States Respond
+
+Some state leaders, such as South Carolina Governor Nikki Haley, have some harsh words for the way that the Medicaid system is managed. “A year ago, many of us argued that our number one health care problem in this country was its high cost – and that the way to provide better health to our citizens was not just massively expanding a broken system by giving it more government money. Medicaid is that broken system – there is too much waste, too much fraud, and too little focus on prevention and personal responsibility,” said Haley in her State of the State address last week.
+
+As reported in The State, Gov. Haley’s remarks came on the heels of the CMS state-by-state report, which revealed the state’s Medicaid agency improperly paid an estimated $406 million in fiscal year 2011 and around 10.7 percent of South Carolinians the state approved for Medicaid submitted applications that were ineligible or had insufficient documentation. However, that is a big improvement from the fiscal 2007 report, when an estimated 19.2 percent of residents were approved improperly. Approximately 14.6 percent of South Carolinians were Medicaid and CHIP enrollees in 2010 and Medicaid expenditures in the state totaled $4.6 billion.
+
+Tony Keck, head of the state's Department of Health and Human Services - which administers the state’s Medicaid program - wants to use the PERM figures as a catalyst to help modernize and streamline the state’s program. Right now, South Carolina relies heavily on a paper-based system, which Keck says is outdated and a major contributor to the error rate.
+
+The Columbia Free Times reports that Rep. Murrell Smith, who runs the health care subcommittee for the Ways and Means committee, agrees with Keck. “I think what this really shows is that the state is still laboring under an antiquated paper system and that we need to upgrade to an electronic system,” said Smith.
+
+Other states are also focusing on how to curb improper payments, some with great success. The Attorney General’s Office in Missouri, for example, reports that it has collected almost $150 million in Medicaid fraud recoveries over the past three years. The Office collected more than $20 million and took action against 26 providers for Medicaid fraud in 2011. HHS data also shows that the Missouri Medicaid Fraud Control Unit – led by Attorney General Chris Koster – collected more than $31.00 for each dollar spent in federal fiscal year 2010, the highest ratio in the nation.
+
+The Boston Herald reports that in Massachusetts, Attorney General Martha Coakley’s office has recovered $210 million from Medicaid fraud cases since 2007. Last Week, Coakley’s office unveiled a Web page where people can report allegations of Medicaid fraud. “We’re looking at financial fraud first,” Coakley told the Herald. “But we’re also looking at misconduct — negligence and abuse of senior patients, or other incidents of neglect at Medicaid-funded facilities. We have a pretty wide jurisdiction to make sure Medicaid funds are used appropriately.”
+
+Download the state-by-state data HERE.

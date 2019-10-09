@@ -1,0 +1,26 @@
+United States Holocaust Memorial Museum Search Results
+× Help
+
+Searching
+
+Entering terms in the main search box will return results where those terms occur anywhere in the record. You may target your search to certain fields by changing the dropdown selection to the right of the 'Search' box from "All Fields."
+
+Facets
+
+Use the "facets" to limit your searches. These are the links at the left under the "Limit your search" heading, with categories such as "Record Type," "Language," and "Online." You may find "Record Type" to be particularly helpful in narrowing your search to certain type of record.
+
+Advanced Search
+
+An advanced search is available by clicking the link "More Options (Advanced Search)". If you were, for example, interested in searching across photographic records or document records only, excluding other record types, in the advanced search you can click on "Record Type" and select one or more type of records from the list to limit your results to those selected record types.
+
+Geographic Name Expansion
+
+Collections Search also embodies a "geographic name expansion" feature. Often the same place is referred through different names in different languages and various spellings and transliterations. For example, searching for "Lviv", "L'viv", "L'vov", "Lvov", "Lwow", or "Lemberg" will all bring you the same results. Similarly, searching for "Łódź", "Lodz", or "Litzmannstadt" will bring the same results, as will searching for "Munich", "München", or "Muenchen."
+
+Boolean Queries
+
+Collections Search supports boolean queries including AND, NOT, and OR (which must be uppercase) and parentheses. For example, searching:
+
+york NOT ( "new york" OR "memorial books")
+
+results in records including the term "york" but excluding records containing either "new york" or "memorial books."

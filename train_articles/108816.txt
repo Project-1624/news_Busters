@@ -1,0 +1,47 @@
+Science of Heliophysics
+
+Heliophysics is the study of the effects of the Sun on the Solar System; it addresses problems that span a number of existing disciplines – solar and heliospheric physics, and magnetospheric and ionospheric physics for the Earth and other planets. The discipline is closely related to the study of Space Weather, which can affect the technology on which we all depend, however heliophysics is more generalised covering all parts of the Solar System rather than just the Sun-Earth connection.
+
+In order to undertake a search for things that are scientifically interesting in heliophysics, we need to understand the origins of phenomena and how they propagate through interplanetary space, i.e. the path they follow and the time scales involved. This requires the ability to track things in 4-dimensions, but the solution allows us to determine which effects will be observed when and where.
+
+Most effects are caused by different types of emission that are produced by solar activity, although some are related shock fronts associated with propagating phenomena. Whether and when an effect is observed depends on the nature of the phenomenon, the type of emission and the location of the observer. As illustrated, it is possible for very different effects to be observed from vantage points that are relatively close in terms of the scale of the Solar System as a whole – the figure compares the emissions seen at Earth and by the two STEREO spacecraft.
+
+
+
+The figure shows how important the location of the observer is: the STEREO-B (behind) spacecraft is affected by the CME while STEREO-A (ahead) is affected by particles from the flare rather than the CME. Figure courtesy of the STEREO Team, NASA
+
+Effects caused by photon emissions require a line-of-sight view of the source and any delays are related to light travel times. Effects that are caused by particles occur with much longer delays since the velocities are lower and the particles follow a curved path; in some cases the effects are only experienced if the propagating phenomena passes the observer. The location of observer in relation to the source and with respect to a planet determines what is observed; the presence of magnetic field and/or atmosphere influences how a planetary environment is affected.
+
+At the Earth, the effects due to photons occur after approximately 8 minutes; the delay related to energetic particles travelling at near relativistic velocities can be tens of minutes. The effects caused by plasma (low energy ionised material) take much longer – tens of hours. For planets further out in the Solar System, the effects take longer to start and the spread of the delays between them is greater. Typical solar wind velocities can be a few hundred km/sec; Coronal Mass Ejections (CME) can travel at up to 2000 km/sec.
+
+
+
+Typical times for different effects are shown for the Earth – the delays depend on the type of solar emission. Effects due to electromagnetic radiation occur quite quickly while those caused by particles occur with much longer delays. (Figure courtesy of NOAA Space Weather Prediction Center.)
+
+Charged particles follow a spiral path (known as the Parker Spiral) as they move outwards from the Sun along the lines of the interplanetary magnetic field (IMF). The curve of the spiral depends on the particle velocity and the velocity structure of the quiet solar wind is determined by the configuration of the surface magnetic field of the Sun; high velocity portions of the wind are associated with areas of open field called coronal holes. CMEs drive through the spiral at high velocity causing severe distortions – energetic particles and Type II radio waves are emitted from the shock front created ahead of the body of the CME.
+
+
+
+Output from the Hakama-da-Akasofu-Fry model (HAFv.2) showing the spiral of the interplanetary magnetic field (IMF) – the Parker Spiral – distorted by propagating CMEs. The locations of the inner planets are shown; the spacing of the spokes is an indication of the solar wind velocity. (Image courtesy of Geophysical Institute, University of Alaska, Fairbanks, Alaska USA.)
+
+At the distance of the Earth from the Sun (1AU), the spiral has typically curved through around 60°, but by the orbit of Saturn it will have wrapped by more than 360°. At this distance, the delays before the onsets of effects caused by photons (which follow a straight-line path) are significantly less than those caused by particles (which follow the spiral).
+
+When emissions or propagating phenomena interact with a planetary environment, the effects depend on whether the planet has a magnetic field and/or an atmosphere. The magnetic field of the planet acts as a screen and affects how and where charged particles can enter the planetary environment – the aurora are cause by particles entering near the poles and are observed on the Earth and on several other planets. As phenomena are tracked down into the planetary environment, we need to be able to follow them in models and in-situ observations as they cascade down from coordinates that are related to the Sun to those that are centred on the planet.
+
+
+
+Once in the vicinity of a planet, the location of the observer in relation to its magnetic field is important. (Image courtesy NASA)
+
+There is a growing fleet of missions scattered throut the Solar system than can provide observations of these phenome
+
+
+
+The growing fleet of missions making observations of the heliosphere. (Image courtesy NASA)
+
+The Heliophysics Integrated Observatory (HELIO) is deploying a distributed network of services that can be used to address the needs of researchers in this new discipline. It will also coordinate access to the resources that are required and provide tools to mine and analyse the data.
+
+HELIO will use metadata from the different domains to identify observations of interest; a propagation model will be used to help determine which observations, where and when may be of interest in order to satisfy the user's search criteria. Using HELIO, the research community will be able to mine the rapidly increasing volumes of heliosphysical data stored in archives around the world. !-- -->
+
+
+
+Last updated: 4th May 2015

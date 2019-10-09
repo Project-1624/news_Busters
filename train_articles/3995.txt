@@ -1,0 +1,82 @@
+Frequently Asked Questions (FAQ)
+Where is this research being conducted?
+
+Welcome to the Quranic Arabic Corpus. The main researcher on the project is Kais Dukes. The Quranic corpus is part of a PhD research project into Arabic language computing at the University of Leeds. Eric Atwell supervises the Arabic language computing research group within the School of Computing. For a list of other researchers affiliated with the project, please see the contact page. This project is also supported by a wide community of volunteers.
+
+What are the aims of the project?
+
+The Quranic Arabic Corpus project aims to provide a richly annotated linguistic resource for researchers wanting to study the language of the Quran. The grammatical analysis will help readers further in uncovering the detailed intended meanings of each verse and sentence. Each word of the Quran is tagged with its part-of-speech as well as multiple morphological features.
+
+Although there are other online resources that explain the Quran, few are machine-readable, or go into detailed grammatical analysis for each word in context. Having linguistic information in a format that both humans are computers can understand leads to many useful applications. By applying Arabic computing language technology to the Quran, it is possible to achieve rapid morphological and syntactic analysis that would otherwise take far longer manually.
+
+What new research does this work contribute?
+
+This research is the first - and currently only - project that provides:
+
+A manually verified part-of-speech tagged Quranic Arabic corpus.
+
+An annotated treebank of Quranic Arabic.
+
+A novel visualization of traditional Arabic grammar through dependency graphs.
+
+Morphological search for the Quran.
+
+A machine-readable morphological lexicon of Quranic words into English.
+
+A part-of-speech concordance for Quranic Arabic organized by lemma.
+
+Who uses this website?
+
+The website has attracted a wide variety of users including natural language computing researchers, many non-academics wanting to learn more about the Quran, and interested volunteers who are familiar with the source material and traditional grammar. The research project has received positive feedback from both the academic and Islamic communities.
+
+How accurate is the grammar information in the Quranic Arabic Corpus?
+
+Corpus annotation assigns a part-of-speech tag and morphological features to each word. For example, annotation involves deciding whether a word is a noun or a verb, and if it is inflected for masculine or feminine. The first stage of the project involved automatic part-of-speech tagging by applying natural language computing technology to the text. The annotation for each of the 77,429 words in the Quran was then reviewed in stages by two annotators. It is believed that the text is now 99% accurate in terms of morphological annotation, and improvements are still ongoing to further improve accuracy.
+
+How can I contribute corrections to the annotation?
+
+Volunteer annotation is most welcome to this project. If you come across a word and you feel that a better analysis could be provided, you can contact the researchers or else you can leave a message online by clicking on an Arabic word. The best place to discuss the accuracy of grammatical analysis for specific words is the message board. Suggestions are reviewed and checked against traditional commentaries and sources of Quranic Arabic grammar. If approved, these suggestions are then incorporated into the annotation in the corpus.
+
+Has this research been published?
+
+Please see the publications page. This research has been published at several academic conferences and journals.
+
+Can I obtain part-of-speech tagged data for my research project?
+
+The data is still undergoing correction, but morphological annotation has been made publically available for download. We are happy to share the data for research purposes as long as:
+
+You do not use the data for commercial purposes. The data should be used purely for research and is made available under the GNU public license. You give a citation in your research publication.
+
+When contacting us for obtaining research data, it would be useful to know more about your project:
+
+At which university is the research being conducted, and at what level?
+
+Do you aim to get your research published at a conference or in a journal?
+
+What type of data do you need - part-of-speech tags, or syntactic dependency analysis?
+
+Does your research focus on the entire text, or do you prefer to use a sample?
+
+Can I download the Quranic Arabic Corpus data?
+
+All data in the Quranic Arabic Corpus is freely available for online viewing through this website. The data is also available on the download page. The final aim of the project will be to produce a highly accurate annotated Quran available freely for non-commercial use under the GNU public license. Although the information is quite accurate already, currently annotators are reviewing the morphological and syntactic annotation, as well as the word by word translation. This website includes a message board where contributors can click on a word and then suggest corrections to the annotation.
+
+We have already invested in paid annotation, and further corrections are being performed on a volunteer basis. It may be some time before the complete information will be verified. In the meantime, it would be good to let us know more about what you would like to use the data for. You may also be interested in contributing to verification of the annotated Quranic Corpus.
+
+How accurate is English translation in the Quranic Arabic Corpus?
+
+When discussing translation of the Quran, it is important to remember that any translation into another language can never be completely accurate due to the range of meanings of an Arabic word depending on context. This website provides a contextual interlinear translation in English for each Arabic word in the Quran. In the English translation, brackets are used where a corresponding English word is not explicitly part of the Arabic text, but is implied through meaning. For example, the English preposition "of" is usually implicit in the possessive construction of iḍāfa (إضافَة) even though no preposition is used in Arabic for this construction.
+
+It should be emphasised that the English translation in the word by word section of the website is not a new translation of the text. Corresponding English words are based on standard and accepted sources of English translation of the Quran, including:
+
+Sahih International
+
+Mohammed Pickthall
+
+Yusuf Ali
+
+The word by word section of the website aims to ensure that the corresponding contextual translation of Arabic words agrees with accepted authentic translators and traditional commentaries of the Quran. We welcome suggestions to improve the translation with regards to spelling mistakes and omissions of words. However, this research project does not aim to introduce any new translation of the text, or any original research on Quranic translation. The scope of the project is linguistic annotation of the morphology and syntax of Quranic Arabic, and English translation is provided on the website purely as a guide to meaning. If you feel that translation could be improved, please cite references to accepted standard sources of English translation when suggesting a correction.
+
+You can find more information about the resources used as references for this project in the bibliography. When considering the accuracy of the word by word contextual translation, you may also want to review the seven parallel English translations available on the translation page.
+
+See Also

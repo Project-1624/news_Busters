@@ -1,0 +1,46 @@
+Table 2-49: U.S. Coast Guard Search and Rescue Statistics, Fiscal Year
+Excel | CSV
+
+1985 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 Cases 60,775 53,097 52,782 53,294 53,026 53,899 49,704 43,553 41,096 37,218 39,844 40,214 39,457 36,763 31,622 32,540 29,799 28,320 27,092 24,209 23,530 22,226 20,515 19,788 17,801 Responsesa 70,237 64,971 66,409 69,856 69,784 70,337 63,679 55,710 52,141 46,602 50,622 48,226 49,502 46,643 51,391 59,998 52,744 45,900 47,511 44,925 47,464 46,348 43,933 43,864 38,325 Sortiesa 88,449 84,033 84,872 88,388 88,147 108,758 110,267 98,423 91,722 83,307 89,635 57,697 59,015 54,609 33,426 33,107 29,860 29,826 25,411 25,507 24,654 23,159 21,568 21,601 19,426 Search and Rescue resource hoursb U 108,282 109,351 108,639 107,441 102,749 93,984 85,150 80,507 80,116 84,635 80,533 85,008 75,841 65,182 65,876 77,888 60,248 55,312 62,713 59,245 61,616 56,233 59,583 53,911 Lives savedc 6,497 4,407 5,465 17,543 5,826 23,211 4,453 5,047 3,897 3,194 3,743 3,400 4,010 3,661 5,196 5,565 5,650 5,298 5,216 4,898 4,861 4,346 3,793 4,027 3,768 Lives lost, total 1,335 1,085 1,116 939 1,215 931 772 978 744 606 533 1,018 710 635 673 783 846 787 795 825 816 818 734 713 653 Lives lost before notificationd,e 259 622 748 540 800 593 468 611 454 418 353 779 413 399 412 502 523 479 492 534 555 552 480 429 428 Lives lost after notificationf 1,076 463 368 399 415 338 304 367 290 188 180 239 297 236 261 281 323 308 303 291 261 266 254 284 225 Lives unaccounted forg U U U U U U U U U U U 304 515 344 496 691 603 664 733 435 579 411 392 440 251 Persons otherwise assisted 138,791 117,327 113,704 121,826 119,069 116,912 101,357 85,869 75,357 66,138 70,255 54,866 59,910 46,503 38,579 42,008 41,551 44,757 35,797 31,841 34,425 33,411 32,429 27,042 26,249 Value of property lost ($ million)h,i 424.3 368.5 213.6 314.5 316.2 435.5 222.6 273.8 414.8 84.3 262.3 415.2 441.0 76.0 19.6 53.5 97.0 32.8 121.7 1,141.5 114.4 194.3 92.7 53.8 385.9 Value of property assisted ($ million) 2,376.8 2,044.9 2,282.4 1,951.4 2,491.8 2,891.2 4,467.2 3,494.2 1,762.1 1,288.2 1,235.0 778.8 1,501.0 1,589.0 478.8 778.4 1,661.8 778.4 995.6 1,249.0 915.9 779.8 1,461.9 604.8 506.8 Property loss prevented ($ million) 905.4 1,673.4 1,799.3 1,550.1 2,144.7 2,628.4 3,882.8 3,087.3 1,353.5 996.8 1,019.0 84.3 73.0 68.0 106.7 238.7 146.4 111.0 113.1 148.0 94.9 87.0 83.1 123.4 65.2 Value of property unaccounted for ($ million)j U U U U U U U U U U U 2.1 4.4 3.2 4.8 2.9 2.1 3.6 5.9 2.4 10.2 5.1 9.8 5.9 4.4
+
+KEY: U = data are unavailable.
+
+a Responses are the number of U.S. Coast Guard units involved. Sorties are the number of trips made by boat, aircraft, or cutter.
+
+bSearch and Rescue resource hours represent the time that Coast Guard assets (i.e., aircraft, boats, and cutters) perform search and rescue operations.
+
+c The Search and Rescue Management Information System's reporting policy has been revised and now requires complete reporting on all Lives saved. This policy also includes reporting on Lives saved in connection with Coast Guard Law Enforcement Activity (i.e., Alien Migrant Interdiction Operations (AMIO)). AMIO Lives saved in fiscal year 1992 was determined to be approximately 12,000. AMIO Lives saved in fiscal year 1994 was determined to be 15,179.
+
+d Those persons whose lives were lost before the U.S. Coast Guard was notified of an incident.
+
+e The Egypt Air (217 fatalities) and Alaska Air (88 fatalities) crashes account for the increase in 2000.
+
+f Those persons whose lives were lost in an incident to which the U.S. Coast Guard was responding, but who were alive at the time the U.S. Coast Guard was notified of the incident.
+
+g Added category; completes the accounting for all lives associated with USCG Search and Rescue (SAR) responses.
+
+h Includes several out of the normal high cost incidents.
+
+i The B-52 crash in Guam accounts for the increase ($1,040 million) in 2008. The Asiana Airlines Boeing 777 crash in San Francisco ($300M) and the F-16 Crash east of Chincoteague VA ($47M) account for the large increase in Value of property lost in 2013.
+
+j Added category; completes the accounting for all property associated with USCG SAR responses.
+
+SOURCES
+
+All data except Search and Rescue resource hours, lives uncounted for and value of property unaccounted for:
+
+1985-1993: U.S. Department of Transportation, U.S. Coast Guard, Search and Rescue Management Information Systems (SARMIS II) Database, available at www.uscg.mil/hq/g-o/g-opr/92-01summary.htm as of Aug. 8, 2002.
+
+1994-2002: U.S. Department of Transportation, U.S. Coast Guard, ON SCENE The Journal of U.S. Coast Guard Search Rescue, available at www.uscg.mil/hq/g-o/g-opr/On%20Scene/onscene.htm as of July 28, 2004.
+
+2003-13: U.S. Department of Homeland Security, U.S. Coast Guard, Office of Search and Rescue, personal communications, Apr. 1, 2008, July 2, 2010, July 25, 2011, Feb. 25, 2013 and Mar. 7, 2014
+
+Search and Rescue resource hours:
+
+1990-2002: U.S. Department of Transportation, U.S. Coast Guard, Office of Command and Control Architecture, personal communications, Sept. 30, 2003 and July 28, 2004.
+
+2003-13: U.S. Department of Homeland Security, U.S. Coast Guard, Office of Search and Rescue, personal communications, Apr. 1, 2008, July 2, 2010, July 25, 2011, Feb. 25, 2013 and Mar. 7, 2014
+
+Lives uncounted for and value of property unaccounted for:
+
+2000-13: U.S. Department of Homeland Security, U.S. Coast Guard, Office of Search and Rescue, personal communications, July 25, 2011, Feb. 25, 2013 and Mar. 7, 2014.

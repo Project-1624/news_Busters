@@ -1,0 +1,28 @@
+Questions About Physics
+Physics Questions People Ask Fermilab
+
+Zero Point Energy
+
+You Wrote:
+
+I recently read an article that made reference to something called Zero Point Energy. It said that every point in space can never be void of all energy. Could you expand on what the Zero Point Energy theory is?
+
+Thanks..
+
+Jason Holderness
+
+Particles (electrons, photons, etc) are `quantum' excitations of `quantum fields' that fill all of space (more accurately quantum fields are a fundamental property of space itself). A vacuum has no particles in it (in curved space, for example near a black hole or in the very early universe, this can be an ambiguous statement) but the quantum field is still there. Furthermore a quantum field can never be completely bored, it is always slightly excited even in a vacuum. This minimum level of excitation contributes to the energy of the vacuum amongst other things. This is what the zero point energy is. The zero point energies of the electromagnetic quantum field (whose quantum excitations are photons) and other `bosonic' quantum fields give a positive contribution to the energy of the vacuum, while the zero point energies of the electron quantum field and other `fermionic' quantum fields give a negative contribution to the energy of the vacuum. There are also other contributions to the energy of the vacuum.
+
+Can it affect the way particles act?
+
+Yes. For example, if one places two electrically conducting (metal) plates together so that they are almost touching but not quite, the electromagnetic quantum field between the plates will be restricted in the ways it can be excited between the plates and so its zero point energy between the plates will be reduced. The closer the plates are together the more restricted the excitation of the electromagnetic quantum field will be and the lower will be its zero point energy between the plates. This causes an attarctive force between the plates which has been measured in experiments.
+
+It can even affect the way the whole universe acts. Recent observations of distant exploding stars seem to imply that the expansion of the universe is speeding up, which in turn is most plausibly interpreted as evidence that the vacuum has an extremely small but positive energy. (The gravitational effect of a positive vacuum energy is to cause the expansion of the universe to speed up, in contrast with that of ordinary matter (particles) which is to cause the expansion of the universe to slow down and possibly even reverse.) However, the value of this positive vacuum energy is over 10^60 (1 followed by 60 zeros) times smaller than one would naively estimate from adding up the zero point energies of known quantum fields. Other contributions to the vacuum energy must cancel this out to extraordinary accuracy. Why this cancellation occurs is a mystery but may have something to do with the Anthropic Principle.
+
+Could this help explain how light/energy can travel through a vacuum?
+
+No. Light is an excitation of the electromagnetic quantum field and travels through the vacuum because the electromagnetic quantum field is an integral part of the vacuum.
+
+
+
+Back to Questions About Physics Main Page

@@ -1,0 +1,20 @@
+Tax Act Calculator
+Wage and Salary For the principal taxpayer, all income from paid employment, including tips, bonuses, and the like.
+
+Wage and Salary of Spouse For the spouse of the taxpayer, all income from paid employment, including tips, bonuses, and the like.
+
+Dividend Qualified dividends received. Enter non-qualified dividends as "Other Income."
+
+Long Term Capital Gains Profits from the sale of capital assets such as stocks, bonds, or real estate that the taxpayer has owned for more than one year.
+
+Social Security Benefits All benefits for retirees, survivors, and dependents.
+
+Pension Regular payments during retirement from plans tied to previous employment.
+
+Taxable Interest Interest paid on savings accounts and other financial investments, other than tax-exempt interest.
+
+Tax Exempt Interest Interest on instruments such as municipal bonds that is exempt from the federal individual income tax.
+
+Business Income Income from a sole proprietorship, partnership, S corporation, limited liability company, or other business.
+
+Employer-Paid Health Insurance Premiums Health insurance premiums paid by employers.

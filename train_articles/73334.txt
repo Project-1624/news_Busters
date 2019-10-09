@@ -1,0 +1,56 @@
+Illinois elections board 'very likely' named in Mueller indictment of Russian hackers, officials say
+The state’s voter registration database was “very likely” targeted by Russian hackers charged by special counsel Robert Mueller with interfering in the 2016 presidential campaign, the Illinois State Board of Elections announced Friday.
+
+A spokesman said the agency had not received confirmation from the U.S. Department of Justice, but believes Illinois’ elections board is referenced in the indictment released Friday as having the data of 500,000 voters stolen.
+
+Though the Mueller probe continues to make national waves, Illinois voters have known about the cyberattack for nearly two years. It was discovered in July 2016, and the FBI issued an alert the following month. The timeline listed in the indictment matches up with what the state publicly acknowledged about a data breach in 2016.
+
+Still, state officials said Friday’s charges help put to rest some uncertainty.
+
+READ MORE: 12 Russian intelligence officers charged by Mueller in hack of DNC, Clinton emails »
+
+“We are grateful that DOJ has identified who the perpetrators are,” state election board spokesman Matt Dietrich said at a hastily arranged news conference at the Illinois Capitol. “We never had anything on paper until today, and even then we don't have a firm statement saying ‘Yes, it’s you,’ although we think it’s more than likely ‘yes.’ ”
+
+While the indictment alleges that the names, addresses, dates of birth, driver’s license numbers and partial Social Security numbers of about 500,000 Illinois voters were compromised, Dietrich said state officials believe that figure is closer to 76,000 voters. Dietrich said it’s possible the higher figure used in the indictment was “arrived at using a different methodology prescribed under federal criminal code.”
+
+Of the 76,000 voters who were notified by the state that their information was at risk, Dietrich said none have reported suspicious activity to the attorney general’s office.
+
+Illinois elections officials said they have taken steps to try to ensure such a breach does not happen again, noting plans to invest in cybersecurity efforts including hiring a full-time expert.
+
+“You should register to vote with confidence that your information is safe,” Dietrich said.
+
+The bulk of Mueller’s indictment focuses on an alleged conspiracy to hack the Democratic National Committee and Hillary Clinton’s presidential campaign, but it also accuses Russian officers of targeting state boards of elections, secretaries of state and U.S. companies that supplied software and technology related to the administration of the 2016 U.S. elections.
+
+“The object of the conspiracy was to hack into protected computers of persons and entities charged with the administration of the 2016 U.S. elections in order to access those computers and steal voter data and other information stored on those computers,” according to the indictment.
+
+READ MORE: Charges against Russian officers intensify spotlight on Trump adviser Stone »
+
+Several Russian officers began researching U.S. election-related domains in June 2016, searching for vulnerabilities, the indictment says. In June and July 2016, the Russian officers “hacked the website of a state board of elections and stole information related to approximately 500,000 voters, including names, addresses, partial social security numbers, dates of birth, and driver’s license numbers,” it says.
+
+After the FBI issued an alert about the breach in August 2016, the Russian officers deleted records from their accounts, according to the indictment. In October that year, they investigated the possible vulnerabilities of election-related websites in Iowa, Georgia and Florida. And in the days before the November 2016 election, according to the indictment, the Russians used phishing emails to target election officials in several Florida counties.
+
+The Russian officers, operating a military intelligence agency called the Main Intelligence Directorate of the General Staff, or GRU, also used a computer located in Illinois to help steal DNC documents, the indictment says. In order to steal a large number of documents without detection, the indictment says, the Russians used a publicly available technology tool to gather and compress files, including opposition research, from DNC networks.
+
+They then used other malware, known as X-Tunnel, to move the DNC documents to a GRU-leased computer located in Illinois, according to the indictment.
+
+The Russians moved digital information from the DNC networks to the computer in Illinois in April 2016, federal officials say. On April 22, 2016, the Russians moved compressed DNC data using X-Tunnel to the computer in Illinois, according to the indictment. Six days later, they again connected to the computer in Illinois and used X-Tunnel to steal additional documents from the DCCC network.
+
+Illinois voters who suspect they are the victim of identity theft may contact the Illinois Attorney General’s Identity Theft Hotline at 1-866-999-5630.
+
+Patrick O’Connell reported from Chicago.
+
+mcgarcia@chicagotribune.com
+
+poconnell@chicagotribune.com
+
+Twitter @moniquegarcia
+
+Twitter @pmocwriter
+
+MORE COVERAGE
+
+Russian hacking of Illinois voter registration system did not compromise election results, experts say »
+
+Federal cybersecurity funds aimed at preventing another Russian hack into Illinois' elections »
+
+Illinois elections board now says info about 90,000 voters hacked »

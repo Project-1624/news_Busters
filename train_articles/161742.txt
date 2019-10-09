@@ -1,0 +1,68 @@
+This anti-voter-fraud program gets it wrong over 99 percent of the time. The GOP wants to take it nationwide.
+President Trump, accompanied by Vice President Pence, right, and Kansas Secretary of State Kris Kobach, center left, speaks at the first meeting of the Presidential Advisory Commission on Election Integrity. (Jabin Botsford/The Washington Post)
+
+At the inaugural meeting of President Trump's election integrity commission on Wednesday, commission Vice-Chairman Kris Kobach of Kansas praised a data collection program run by his state as a model for a national effort to root out voter fraud.
+
+States participating in the program, known as the Interstate Crosscheck System, send their voter registration files to Kansas. Kansas election authorities compare these files to those from other states. Each participating state receives back a list of their voter registrations that match the first name, last name and date of birth of a voter in another state. States may act upon the findings as they wish, although Crosscheck provides some guidelines for purging voter registrations from the rolls.
+
+In theory, the program is supposed to detect possible cases of people voting in multiple locations. But academics and states that use the program have found that its results are overrun with false positives, creating a high risk of disenfranchising legal voters. A statistical analysis of the program published earlier this year by researchers at Stanford, Harvard, University of Pennsylvania and Microsoft, for instance, found that Crosscheck “would eliminate about 200 registrations used to cast legitimate votes for every one registration used to cast a double vote.”
+
+Kobach's championing of Crosscheck is one reason many voting rights advocates are concerned that President Trump's voter fraud commission may be a vehicle for recommending mass voter purges.
+
+The program, known as the Interstate Crosscheck System, has been plagued by data quality issues. Three states have recently left it, citing accuracy issues.
+
+But Kobach, who also serves as Kansas's secretary of state and is running for governor in 2018, remains undeterred. In his opening remarks before the election commission he said the Crosscheck program “illustrates how a successful multistate effort can be in enhancing the integrity of our elections and in keeping our voter rolls accurate. I'm confident that this commission will be equally successful on the national level.”
+
+How does a program that claims to be getting it right end up so often getting it wrong?
+
+Crosscheck bases its “matches” primarily on just two factors: people's first and last names and their birth date. But in a country of 139 million voters, you're guaranteed to have tens of thousands of individuals who share both names and birthdays.
+
+For instance, in a 2007 paper, elections experts Michael McDonald and Justin Levitt examined voter files from New Jersey's 2014 elections. In those elections, the most common names — William Smith, Maria Rodriguez, etc. — showed up hundreds of times, reflecting their prevalence in the general population.
+
+Shared birthdays are even more common — statistically speaking if you have a group of just 23 people, there's a greater than 50 percent chance that at least two of them will share the same birthday.
+
+At 180 people, according to McDonald and Levitt, there's a 50 percent chance that two of them will share the same birth date — month, day and year.
+
+So if you have 282 William Smiths, as in New Jersey's voter rolls in 2004, you'd expect four of them to share the exact same birthday. Those four William Smiths would be flagged as potentially fraudulent voters by Kobach's Crosscheck system.
+
+The problems don't stop there. Voter files are notoriously messy and often incomplete. Among the 3.6 million New Jersey voters McDonnell and Levitt analyzed, for instance, nearly 1 million were missing a birth date completely. Ten thousand were listed with a birth date of Jan. 1, 1753, and another 20,000 listed as Jan. 1, 1800 — likely placeholder values that were never updated.
+
+Multiply those figures up to the national level, and you can see how a system that naively matches names and birth dates is going to return a lot of noise — and very, very little in the way of people actually trying to game the voting system.
+
+There's no question that incomplete voter data is a problem. But comparing incomplete data sets against each other isn't likely to solve that problem.
+
+To its credit, the Crosscheck program recognizes some of these shortcomings. After primary matches are determined using name and birth date, it attempts to match additional fields including partial Social Security numbers, if such data is available.
+
+But that's far from fail-safe. A working paper published this year by researchers at Stanford, Harvard, University of Pennsylvania and Microsoft quantified some of the problem. In 2012 and 2014, Crosscheck sent the state of Iowa information on nearly 240,000 voter registrations that shared a name and a date of birth with a voter in another state.
+
+Building off McDonnell and Levitt's work, the researchers created a sophisticated model that incorporated the likelihood of shared names and birthdays, factored in Social Security number data where available, attempted to determine if both shared-name pairs actually voted in a given year, and accounted for clerical errors.
+
+Boiling it all down, out of the 240,000 paired registrations that Crosscheck sent to Iowa, there were only six cases where it appeared that the same person registered and voted in two different states.
+
+In other words, well over 99 percent of the 'matches' sent to Iowa were unlikely to have anything to do with even attempted voter fraud.
+
+Incidentally, that's in line with Kobach's prosecution record on Crosscheck cases: a grand total of nine successful convictions so far, “mostly older Republican males,” according to local media reports.
+
+The other issue identified in the working paper is that Crosscheck's user guide recommends purging older voter registrations when the name and partial Social Security number match the name and SSN of a more recent registration.
+
+Based on their research, the Harvard, Stanford, University of Pennsylvania and Microsoft team estimate that following this guideline would result in 200 deletions of legitimate voter registrations for each real-world case of double voting it prevented.
+
+Again, Crosscheck acknowledges some of these shortcomings. “Experience in the Crosscheck program indicates that a significant number of apparent double votes are false positives and not double votes,” according to the program's 2014 user guide. “Many are the result of errors — voters sign the wrong line in the poll book, election clerks scan the wrong line with a bar code scanner, or there is confusion over father/son voters (Jr. and Sr.).”
+
+Which begs the question: If the system is primarily a vehicle for false positives, why bother using it at all?
+
+A number of states have decided it's not worth it. Oregon, Washington and Florida bailed on the program in recent years, citing the data problems. While 28 states still use the program, according to the Kansas secretary of state's office, others have looked at it and decided it's not for them.
+
+Minnesota's one of them. “After looking at the data” on Crosscheck, “there is an unacceptably high risk of false positives,” said Secretary of State Steve Simon, who reviewed the program after taking office in 2015.
+
+Along with 18 other states plus D.C., Minnesota has instead opted to join the Electronic Registration Information Center (ERIC), a separate voter data program started in 2012. ERIC draws on a much wider array of data sources than Crosscheck, including motor vehicle registration data, Social Security death records, and Postal Service data.
+
+“Look at what ERIC's doing. That's the way you clean up the voting rolls,” Simon said. “It's anonymized data, and you don't have nearly the problem with false positives.”
+
+The program has earned already high marks from Democratic and Republican states alike. Independent elections experts speak highly of it as well.
+
+Because of the breadth of data it draws on, ERIC can identify errors in voter files — it's identified over 6 million incorrect or outdated registrations to its member states so far.
+
+Unlike Crosscheck, it also helps states sign up people who are eligible to be registered to vote but aren't. From a political standpoint, that alone makes the program much less controversial than its competitor.
+
+But the naming of Kobach to President Trump's voter fraud commission ensures that Crosscheck will continue to have a role in the spotlight this year. And if the Republican Party has its way, Crosscheck will expand — the 2016 GOP party platform called for “every state to join the Interstate Voter Registration Crosscheck Program to keep voter rolls accurate and to prevent people from voting in more than one state in the same election.”

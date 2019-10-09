@@ -1,0 +1,60 @@
+Fundamentals of Polling-Sampling
+What is a scientific sample?
+
+A scientific sample is a process in which the respondents are chosen randomly by one of several methods. The key component in the scientific sample is that everyone within the designated group (sample frame) has a chance of being selected.
+
+Top
+
+
+
+
+
+How are the surveys conducted?
+
+Two of the most common ways that public opinion polls are conducted include: telephone and/or face-to-face interviews. Other methods include mail, on-line and self-administered surveys.
+
+Top
+
+
+
+
+
+How is the sample selected for a telephone survey?
+
+Typically, survey organizations conducting telephone surveys purchase a Random Digit Dial (RDD) sample of randomly generated phone numbers from a firm that specializes in designing samples that have been purged to eliminate business numbers, dead lines, etc. Much could be said on this topic, but to keep it simple, a 10-digit phone number in the United States consists of 4 parts.
+
+The Dissection of a Telephone Number
+
+(777) 777 77 77 (Area Code) Exchange Block Number RANDOMLY GENERATED NUMBERS
+
+All 4 components are assigned by the telephone company. The first 3 components are based on location and the final component is randomly generated.
+
+The interviewer will then randomly select a person in the household to be interviewed. One common method is to ask for the adult in the household who had the most recent birthday. This is done because certain parts of the population, such as young males, are more difficult to get on the phone than others, such as the elderly.
+
+Top
+
+
+
+
+
+How are face-to-face samples selected?
+
+Face-to-face surveys, also known as 'in-person' interviews, are conducted with the interviewer and the interviewee next to each other. The interviewer reads material from the questionnaire and records the responses. At times the interviewer may hand a card to the respondent for him/her to select response(s).
+
+Scientific face-to-face surveys are normally conducted using geographic area probability sampling. Some refer to this as 'block sampling'. Selecting a sample can be tedious work in order to represent the population you are targeting. The general way it works is referred to as multi-stage sampling. The population frame is first identified by blocks. For instance, you are starting a new business in Cincinnati, and you want to find out how many households have various items. You need to identify the sampling frame. In this case, to make the job cost effective, you divide the city into 1,000 'blocks' based on size so each block has roughly the same number of adults. Within each block there are 250 housing units. In order to get 500 completed interviews, with an estimated 80% completion rate, you first randomly choose 25 blocks then randomly choose 25 housing units within each block. Once at the housing unit level the final step is to randomly choose a respondent within the household.
+
+Top
+
+
+
+
+
+What's a self-administered survey?
+
+In a self-administered survey, the respondent is directly handed the questionnaire to fill out. Exit polls are examples of self-administered surveys. Voters leaving polling booths are randomly selected to fill out a questionnaire in this type of survey.
+
+
+
+For further information please contact The Roper Center at 860.486.4440 or rcweb@ropercenter.uconn.edu.
+
+Top

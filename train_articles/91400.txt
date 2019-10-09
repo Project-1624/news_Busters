@@ -1,0 +1,40 @@
+Polar Ice and Global Warming
+San José State University
+
+applet-magic.com
+
+Thayer Watkins
+
+Silicon Valley
+
+& Tornado Alley
+
+USA
+
+Polar Ice and Global Warming
+
+The thinning of the arctic ice cap is taken as strong evidence for and need for concern about global warming. Although knowledgable people understand that the melting of the floating ice of the arctic will not affect the level of the ocean there are people who erroneously tie the possible melting of the arctic ice cap to the flooding of coastal areas around the world.
+
+There are two measures of the extent of the polar ice caps and both have relevance. One is the area of the ice caps and the other is the volume. For concern about the the volume of fresh water being added to the world's oceans the volume of the ice caps is the pertinent measure. For concern about the amount of solar radiation reflected back into space the area of the ice caps is the relevant measure.
+
+The trends in the area and volume of an ice cap may not be the same. For example, the edges of the Greenland ice cap may be melting yet the thickness of the ice cap in interior of the island may be increasing and thus possibly increasing the volume. The altitude of the ice cap in the interior of the island is about ten thousand feet. Thus global warming that increases the humidity of the atmosphere may lead to increased percipitation in a region well below freezing. Thus global warming could increase the thickness of the ice cap and its volume while at the same time melting the thinner edges.
+
+But the uncertainties about what is happening to the polar ice caps is not just a matter of area changes versus volume changes. Below are shown the statistics for the areas of the arctic and the antarctic ice caps.
+
+While there is a decline in the Arctic ice there is an increase in the Antarctic ice. The sum is shown below.
+
+The National Oceanic and Atmosphere Administration (NOAA) also provides data from satellites on the sea ice. This time series is shown below:
+
+Over the thirty year period there is slight downward trend for Arctic sea ice and a slight upward trend for Antarctic sea ice, for a very slight downward trend for the to total sea ice. For the more recent years the trend is downward for both regions but extrapolating from a five year period is of doubtful validity. The amount of sea ice is the cumulative sum of the annual changes. The statisitcs for such variables always appear to have trends even when there is no underlying trend. For such statistics it is more appropriate to look at the first differences, the annual changes. These statistics for the total sea ice are shown below.
+
+In this display there is no indication that there was any significant shift in the structure of the variable in recent years. A regression analysis of the change on time gives a negative coefficient but the t-ratio for that coefficient is only 1.5 and not statistically significant at the 95 percent level of confidence. The coefficient of determination (R²) for the regression is only 0.078. This indicates that there is no reason to say there is a trend in the annual change in the global sea ice. However there average value for the annual changes over the period is negative and the t-ratio for that average value is 2.9, which is statistically significant at the 95 percent level of confidence. For more on the statistical problems see Statistics.
+
+Some would like to focus on the Arctic ice alone, but if the problem is global there is no more justification for looking only at the Arctic seaice than to look only at the Antarctic sea ice. When the evidence is selected then there is no objective test of a hypothesis.
+
+When a quantity is the sum of terms which have a stochastic component (random variations) then it appears to have trends and cycles even if the underlying phenomena has no trends or cycles. The change in the volume of sea ice is proportional to the net heat energy inflow so the volume of sea is such a variable. The fact that the volume of global sea ice appears to be trending downward is not necessarily evidence for a downward trend. Consider the following simulation for sea ice volume. For the simulation a set of 60 random numbers from a distribution have an expected value of zero. These are summed and the sums plotted.
+
+The preceding analysis pertains only to the sea ice. There is a good chance that what is happening to the sea ice in each polar region is also occurring for the total ice in the regions. Most of the arctic ice is floating and its melting would not add to the volume of the oceans whereas most of the antarctic ice is resting on land its increase would deduct water from the oceans.
+
+When the evidence is examined in detail one finds that the notion of what is happening to the arctic sea ice being global is preposterous. The fact that the antarctic is not experiencing a decline is sea ice shows that the arctic phenomenon is at most hemispheric. But it is not even hemispheric. As the photos below from NASA indicate the sea ice is declining overwhelmingly just off the north coast of Asia.
+
+There are many special circumstances in Asia that are possible sources of the decline in sea ice off its coast. A disproportionate amount of the global warming has occurred in central Asia in the winter during the night. The summer sea ice happened to be at its maximum in 1979. That was also the time that the economy of China began its extraordinary economic growth. There may have been a decrease in the flow of fresh water from the rivers of Siberia. Fresh, nonsaline water is more easily frozen than the saline water of the ocean. Focusing the search for an explanation in terms of northeast Asian phenomena is more likely to be successful than a search in terms of global hydrocarbon use including the southern hemisphere as well as the nothern.

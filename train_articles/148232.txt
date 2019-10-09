@@ -1,0 +1,22 @@
+Net Metering Guidelines
+Battery systems for personal use (customer-owned installations behind the customer’s meter)
+
+For customers interested in installing battery storage systems for personal use (i.e., behind the customer’s meter), FPL has developed the policy below. The policy ensures we adequately protect the safety of those working on the electrical grid, monitor the impact of energy storage systems on the grid, and evaluate the potential economic impact of the installation of these systems to all customers. This policy is subject to change as the implications of this emerging technology are better understood, and as legislative or regulatory action may dictate.
+
+Technical specifications
+
+Battery storage equipment installed behind a customer’s meter must have a certification conducted by a Nationally Recognized Testing Laboratory (NRTL) to the current UL 1741 standard for safety. A placard must be permanently affixed to the meter enclosure stating “Battery storage utilized in this facility.” Battery storage that is not UL 1741 certified must be DC coupled behind a UL 1741 listed device.
+
+Battery storage integrated with customer-owned renewable generation systems
+
+Energy stored by the battery is only for the customer’s use. While it may operate interconnected with the electrical grid, at this time the customer may not export power from the battery to the grid. Battery storage for Tier 3 systems will be reviewed in the fast track study.
+
+Battery for backup support
+
+Battery storage systems installed without a renewable generation system and intended as an emergency backup power source may be charged from the electrical grid. No interconnection agreement is required. However, as with customer-owned backup generators, the customer is responsible for ensuring that power from the battery does not back-feed to the grid to avoid a safety hazard for workers or the public. Customers assume all liability associated with the use of such battery systems.
+
+Battery storage continuously interconnected to the electric utility
+
+Customers are required to notify FPL of battery systems installed without a renewable generation system, and designed to charge from the grid and operate interconnected with the grid. It is anticipated that FPL will develop a standard Utility Interactive Battery Storage application to gather information about such installations. If a customer does not intend to export power to the electrical grid, an interconnection agreement is not required.
+
+If a customer wants to export power to the grid, the customer will be required to complete a Small Generator Interconnection Agreement. Stand-alone battery storage systems are not included in the definition of “renewable energy” pursuant to Rule 25-6.065(2)(d), Florida Administrative Code, and the output from such systems is not net metered.

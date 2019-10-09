@@ -1,0 +1,49 @@
+How One App Might Be A Step Toward Internet Everywhere
+
+Enlarge this image toggle caption iStockphoto iStockphoto
+
+A few weeks ago, January Chang, a student at National Taiwan University, joined her fellow students in protesting a controversial trade agreement, which would bring Taiwan closer to China. The students occupied Taiwan's legislature, and some of them are still there, but they had a problem: With weak or nonexistent cellphone coverage, it was hard to communicate with students in other areas.
+
+They turned to an iOS app called FireChat, which lets them text each other and send messages without using the cellular network or the Internet. As Chang explains, FireChat let them talk to each other using Bluetooth or Wi-Fi (even if the Wi-Fi is not connected to the Internet) in a way creating a small Internet of local users.
+
+FireChat launched two weeks ago, with a more recent Android version on Thursday, and the iOS version has now been downloaded more than a million times. The app is limited to sharing text and photos in a range of around 30 feet, but it relies on a concept called mesh networking, which has greater potential: Mesh networks can be used to set up temporary networks in disaster zones, and even to spread the Internet to remote areas beyond the reach of existing wireless networks and cables. That's the technology that Google and Facebook are counting on for their plans of spreading the Internet across the globe with balloons and drones.
+
+The technology behind it is quite simple, the same as what we use for the Internet today, says Jeff Lunt, a programmer at Northwestern University who helped set up a mesh network in the Chicago area.
+
+Once everyone in the network is connected by Wi-Fi or Bluetooth, they can talk to each other. If one person has access to the Internet, that connection can be shared via the mesh network.
+
+"If you wanted to connect to the Internet and you didn't have Internet, but you had the mesh, and I had Internet, I could publish what's called a route to you," Lunt says. "You can think of it like a road map."
+
+The route, or road map, tells your device about a path its data can take to get out to the Internet. With these routes, traffic on a network knows how to efficiently get from one place to another: from person to person, or between networks.
+
+Lunt built the Chicago mesh net as an experiment. Many other cities, including Detroit, New York and Athens, have larger mesh networks.
+
+Lunt says it's nothing new, but it's getting attention now because of the lack of trust in centralized access control and oversight mechanisms, such as when Internet service providers and companies either partner with, or are ordered to cooperate with the National Security Agency. He explains that governments can shut off access to Internet service providers, but authorities can't shut down mesh networks.
+
+Internet Without Wi-Fi Or A Cell Signal
+
+Open Garden, the company that made FireChat and an Android mesh networking app, has greater ambitions. FireChat, the simple text and photo sharing app, is just the first step: With more users on mesh networks that complement the existing Internet architecture, people could stay connected everywhere, says Christophe Daligault, the vice president for sales and marketing.
+
+"Once you build a mesh network ... now you have a network that is resilient, self-healing, cannot be controlled by any central organization, cannot be shut down and is always working," Daligault says. "I think that solves many other drawbacks or challenges of the mobile broadband Internet today."
+
+He says none of this would be possible without the rapid spread of smartphones, because that means no extra hardware is needed.
+
+"Each [phone] becomes a router and in a sense you're growing the Internet — everyone who joins the mesh network creates an extension of the Internet," Daligault says. "In a year or two from now, I think people won't even remember that you had to be on Wi-Fi or get a cell signal to be able to communicate."
+
+Paul Gardner-Stephen YouTube
+
+Open Garden isn't the only group doing something like this: Paul Gardner-Stephen, a research fellow of rural, remote and humanitarian telecommunications at Flinders University in Australia, started working on the Serval Project, a secure mesh networking app for Android phones, after hearing about the 2010 earthquake in Haiti. The app allows encrypted file-sharing, phone calls, text messages — "the services that you're used to on a cellular network, at least on a local level, when the cellular network isn't there," as he puts it.
+
+His team also made a device to extend the range of the Wi-Fi on phones, and thus the range of the networking app, up to 100 times, going up to thousands of meters. They even did something akin to what Google had in mind back in 2011, with one phone hoisted to 50 meters in the air in a helium balloon, then using it to make a call from a phone that has no SIM card.
+
+Gardner-Stephen envisions this technology being used for disaster relief, and for connecting remote areas like the Australian outback. Through partnerships with other groups, they tested their system with a small community in Nigeria, as well as with the New Zealand Red Cross.
+
+Problems With 'Locally Grown Internet'
+
+Mesh networking technology will keep growing, but although it's far from mainstream, it raises some legal questions, says Primavera De Filippi, a researcher at the Berkman Center for Internet and Society at Harvard University. For instance, law enforcement can be tricky on a decentralized network: Because there is no centralized entity controlling the entire thing, a mesh network is generally more difficult to police, unless someone controls every single node.
+
+But she says a government stepping in could create other problems. As an example, she points to an Italian law that once made it illegal for someone to provide Internet access anonymously: If you provide a wireless network, you needed authorization from the police, and to check the IDs of users. It was introduced for security reasons in the wake of the 2005 London bombings, but it was controversial, blamed for stunting the growth of Wi-Fi in Italy, and eventually removed.
+
+On the other hand, De Filippi says mesh networks start small as tightknit communities in the same area, so there's a greater incentive for users to police themselves, compared with the Internet where another user could be halfway around the world. She points out we all have a vested interest in working out these issues.
+
+"I make the analogy between locally grown food and locally grown Internet," De Filippi says. "More and more you have people making their home gardens and eating local and things like this because we realize that food is quite important. ... I think it's really beautiful to see that to some extent ... because it's so present everywhere in our life, Internet is just as important."

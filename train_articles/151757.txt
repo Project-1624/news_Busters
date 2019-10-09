@@ -1,0 +1,42 @@
+Rep. Joe Kennedy III - Massachusetts District 04
+Top Industries 2017 - 2018
+
+SELECT A CYCLE 2018 2016 2014 Career
+
+SELECT A PROFILE Campaign Committee Only Leadership PAC Profile Only Campaign Committee & Leadership PAC Combined
+
+Industry Favorite
+
+Joe Kennedy III is a top recipient from the following industries in the 2017 - 2018 election cycle:
+
+Top 20 Industries contributing to Campaign Committee Download .csv file
+
+Top: 20 100
+
+Industry Total Individuals PACs Securities & Investment $424,920 $388,420 $36,500 Lawyers/Law Firms $304,577 $277,327 $27,250 Democratic/Liberal $234,590 $230,590 $4,000 Real Estate $161,513 $144,513 $17,000 Retired $119,520 $119,520 $0 Health Professionals $106,354 $53,854 $52,500 Pharmaceuticals/Health Products $100,239 $15,739 $84,500 Education $97,915 $97,915 $0 Lobbyists $84,465 $81,415 $3,050 Health Services/HMOs $76,472 $36,772 $39,700 Misc Finance $70,140 $70,140 $0 Business Services $60,105 $59,105 $1,000 Insurance $59,589 $8,689 $50,900 Building Trade Unions $53,500 $0 $53,500 Electronics Mfg & Equip $52,754 $22,074 $30,680 Non-Profit Institutions $51,585 $50,585 $1,000 Misc Manufacturing & Distributing $47,668 $43,468 $4,200 Internet $45,168 $34,668 $10,500 Printing & Publishing $44,683 $44,683 $0 Human Rights $43,917 $31,917 $12,000
+
+Sector Totals
+
+{:chart=>{:showvalues=>0, :numberprefix=>"$", :formatnumberscale=>1, :showborder=>0, :bgcolor=>"ffffff", :divlinedashed=>1, :showCanvasBorder=>0, :plotGradientColor=>"", :showplotborder=>0, :showAlternateVGridColor=>0, :legendBorderColor=>"ffffff", :legendShadow=>0}, :categories=>[{:category=>[{:label=>"Agribusiness"}, {:label=>"Communications/Electronics"}, {:label=>"Construction"}, {:label=>"Defense"}, {:label=>"Energy & Natural Resources"}, {:label=>"Finance, Insurance & Real Estate"}, {:label=>"Health"}, {:label=>"Lawyers & Lobbyists"}, {:label=>"Transportation"}, {:label=>"Misc Business"}, {:label=>"Labor"}, {:label=>"Ideological/Single-Issue"}, {:label=>"Other"}]}], :dataset=>[{:color=>"#3d71b7", :seriesname=>"Individuals", :data=>[{:value=>16424}, {:value=>141700}, {:value=>27615}, {:value=>3795}, {:value=>18313}, {:value=>632230}, {:value=>139475}, {:value=>358742}, {:value=>11217}, {:value=>185739}, {:value=>520}, {:value=>292997}, {:value=>299952}]}, {:color=>"#DAA520", :seriesname=>"PACs", :data=>[{:value=>1000}, {:value=>70180}, {:value=>2000}, {:value=>41500}, {:value=>35000}, {:value=>152900}, {:value=>181700}, {:value=>30300}, {:value=>30000}, {:value=>42964}, {:value=>148500}, {:value=>30500}, {:value=>1000}]}]}
+
+Sector Total Individuals PACs Agribusiness $17,424 $16,424 $1,000 Communications/Electronics $211,880 $141,700 $70,180 Construction $29,615 $27,615 $2,000 Defense $45,295 $3,795 $41,500 Energy & Natural Resources $53,313 $18,313 $35,000 Finance, Insurance & Real Estate $785,130 $632,230 $152,900 Health $321,175 $139,475 $181,700 Lawyers & Lobbyists $389,042 $358,742 $30,300 Transportation $41,217 $11,217 $30,000 Misc Business $228,703 $185,739 $42,964 Labor $149,020 $520 $148,500 Ideological/Single-Issue $323,497 $292,997 $30,500 Other $300,952 $299,952 $1,000
+
+Percent of Contributions Categorized
+
+Categorized: 85.00% Uncategorized: 15.50% Type Amount Percentage Categorized $2,896,263 85.00% Uncategorized $530,435 15.50%
+
+METHODOLOGY
+
+The figures profiled here include money from two sources: These contributors were either the sponsors of a PAC that gave to the politician, or they were listed as an individual donor's employer. Donors who give more than $200 to any federal candidate, PAC or party committee must list their occupation and employer. Based on that information, the donor is given an economic code. These totals are conservative, as not all of the individual contributions have yet been classified by the Center. In cases where two or more people from the same family contributed, the income-earner's occupation/employer is assigned to all non-wage earning family members. If, for instance, Henry Jones lists his employer as First National Bank, his wife Matilda lists "Homemaker" and 12-year old Tammy shows up as "Student," the Center would identify all their contributions as being related to the "First National Bank" since that's the source of the family's income. Although individual contributions are generally categorized based on the donor's occupation/employer, in some cases individuals may be classified instead as ideological donors. A contribution to a candidate may be given an ideological code, rather than an economic code, if the contributor gives to an ideological political action committee AND the candidate has received money from PACs representing that same ideological interest.
+
+NOTE: All the numbers on this page are for the 2017 - 2018 House election cycle and based on Federal Election Commission data available electronically on October 26, 2018.
+
++ See the reports included in calculating the numbers on this page.
+
+Current cycle reports included in this race profile: Year Report Report Name File Number 2015 12R Pre-run-off 1008553 2015 30S Post-special 1009538 2015 30R Post-run-off 1012055 2015 Q1 April Quarterly 1003818 2015 MY Mid-year Report 1020166 2015 Q2 July Quarterly 1096120 2015 Q3 October Quarterly 1028850 2015 YE Year-end 1052392 2016 12G Pre-general 1138320 2016 12P Pre-primary 1138273 2016 30G Post-general 1138555 2016 Q1 April Quarterly 1077239 2016 Q2 July Quarterly 1138079 2016 Q3 October Quarterly 1160619 2016 YE Year-end 1140020 2017 M2 February Monthly 1150491 2017 Q1 April Quarterly 1164831 2017 Q2 July Quarterly 1169164 2017 M9 September Monthly 1183207 2017 Q3 October Quarterly 1271136 2017 M12 December Monthly 1195200 2017 YE Year-end 1202821 2018 12G Pre-general 1283013 2018 12P Pre-primary 1258870 2018 Q1 April Quarterly 1221685 2018 Q2 July Quarterly 1254390 2018 Q3 October Quarterly 1271136
+
+("Help! The numbers don't add up...")
+
+WHY DON'T THE NUMBERS ADD UP? Sometimes it's hard to make apple-to-apple comparisons across some of the pages in a candidate's profile. Here's why: Summary numbers - specifically "Total Raised and Spent" and "PAC/Individual Split" - are based on summary reports filed by the candidates with the Federal Election Commission. All other numbers in these profiles ("Quality of Disclosure," "Geography" and "Special Interests") are derived from detailed FEC reports that itemize all contributions of $200 or more. There is also a time lag in posting the information. While summary numbers are reported almost immediately by the FEC -- and listed quickly on OpenSecrets -- processing and analyzing the detailed records takes much longer. For that reason, summary numbers are usually higher (and more current) than the numbers based on detailed records. HOW CURRENT ARE THESE FIGURES? The figures in these profiles are taken from databases uploaded by the FEC to the internet on the first day of every month. Those databases are only as current as the FEC has been able to compile by that date (see the note above about lag times for data entry). The Center updates figures for "Total Raised and Spent" and for "PAC/Individual Split" a few days after the first of the month. The remaining figures - based on detailed contribution data - is updated by the Center after the 20th of every month. This gives us time to analyze the contributions and categorize them by industry and interest group.
+
+Feel free to distribute or cite this material, but please credit the Center for Responsive Politics. For permission to reprint for commercial uses, such as textbooks, contact the Center: info[at]crp.org

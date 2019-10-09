@@ -1,0 +1,62 @@
+No Guarantees When It Comes to Telecom Fees - Progressive Policy Institute
+To rebut our estimate of new annual state and local taxes and fees caused by reclassification, Free Press offers two claims: (1) that all of these taxes and fees are preempted by the recent extension of the Internet Tax Freedom Act (ITFA) by Congress, and in the alternative, (2) that the Commission can designate broadband as an interstate service upon reclassification, thereby shielding broadband users from any new state or local taxes. Although the ITFA has been extended, the precise way in which the Commission designates broadband is speculative. Even if broadband is designated as an interstate service, these two elixirs fail to provide the relief for broadband users that Free Press asserts.
+
+The ITFA Claim
+
+In a December 14, 2014 filing with the Commission, Free Press seizes on the recent extension of the ITFA to claim that reclassification would have zero impact on the state and local fees paid by broadband users.[1] Although Free Press previously estimated the new state and local fees caused by reclassification to be $4 billion annually,[2] their revised estimate is apparently zero based on the mistaken assumption that the renewed ITFA will preempt all telecom-related taxes and fees. Free Press claims that our original (pre-extension) estimate of $15 billion is also upwardly biased in light of the extension.
+
+The facts do not bear this out, for several reasons. First, the ITFA pertains to specific taxes such as a “sales or use taxes”[3] as opposed to telecom-related fees. Second, sales taxes constituted only one of several types of taxes and fees we considered.[4] Indeed, in 14 of the states, sales taxes were absent from the list of telecom-related taxes and fees. Third, because extension of the ITFA was uncertain at the time of our initial report, we elected not to exclude those taxes. With the benefit of hindsight, one could revise our estimates downward to exclude these sales taxes, but doing so still leaves a large annual tab for broadband users.[5]
+
+The focus of our report was on state-based telecom-related fees for which there is no federal preemption—not from Congress and not from the Commission.[6] Indeed, the ITFA carves out state-based fees that comprise the majority of our estimate. In a section titled “Exceptions,” the original ITFA explains that the term “tax” excludes: “Any franchise fee or similar fee imposed by a State or local franchising authority, pursuant to section 622 or 653 . . . or any other fee related to obligation of telecommunications carriers under the Communications Act of 1934.”[7] In 2004, the ITFA was amended to permit states and localities to continue to collect “any fee or charges used to preserve and advance Federal universal service or similar state programs.”[8] These exemptions are nowhere to be found in the Free Press analysis. In light of these exemptions, which to our knowledge are perpetuated in the current extension of ITFA, the mere extension of ITFA will not prevent states and localities from continuing to collect all telecom-related fees.
+
+Even with respect to state sales taxes, there is still some uncertainty over how the ITFA would apply. Free Press relies on a legislative history that assumes there is an information component to Internet access, as well as a transmission component.[9] And while it seems clear that the exemption would apply to Internet access if it were classified as a telecom service, or to the transmission component of Internet access if it remained classified as an information service, it is not clear how the exemption would apply to a hypothetical transmission service that is separately offered to end user customers.
+
+Stated differently, the ITFA appears to exempt taxation of transmission when it is an input to Internet access.[10] It is less clear on what happens if the transmission component is offered separately to end users from the information component. This appears to be the approach described by Justice Scalia.[11] It would be very helpful if Free Press and others would explain precisely the service and underlying facilities that they believe should be reclassified, as Justice Scalia did. Without knowing precisely what would be reclassified, there is still some uncertainty over the assessment of general sales taxes on hypothetical broadband transmission services.
+
+The Interstate Designation Claim
+
+In the event that the extension of the ITFA does not afford protection, Free Press offers a backup plan. To negate any telecom-based fees, Free Press claims that the Commission should wave its magic wand and declare broadband service to be an interstate service: It is not a “multiple choice question,” in their words, but instead an obvious conclusion “based on observable facts of how the service functions.”[12] According to Free Press, treating broadband as an interstate service would immunize broadband providers (and thus their customers) from the remaining state-based telecom-related fees, as states have traditionally taxed only intrastate revenues.[13] Free Press is mistaken here as well.
+
+When the Commission previously considered the jurisdiction of Internet traffic, it determined that such traffic was “largely interstate,” but “jurisdictionally mixed.”[14] States routinely tax jurisdictionally mixed services that are classified as “interstate” for purposes of regulation. For example, wireless services may not be regulated by state public utility commissions, but they are subject a host of state and local taxes and fees. In several states, interstate wireless revenues are subject to taxation.[15]
+
+Indeed, the only state or local taxes in our analysis that could be avoided if the FCC were to declare broadband to be an interstate service would be the state-based universal service fees adopted pursuant to state utility commissions. Even here, the protection is not ironclad, as there are a handful of states that assess universal service fees on interstate voice revenues, including South Carolina and Vermont.[16]
+
+It is true that our analysis did not consider state law limitations on the application of taxes and fees to jurisdictionally mixed services that are classified as interstate for regulatory purposes. It is possible that such limitations may mitigate to some extent the effects of reclassification on consumers. Given the widespread application of state taxes and fees on wireless service, however, any such mitigation is likely to be minimal.
+
+———–
+
+ENDNOTES
+
+[1] Free Press Letter, Dec. 14, 2014, at 1 (“Congress’s reauthorization of the Internet Tax Freedom Act (“ITFA”) precludes any new state or local taxes for broadband Internet access, no matter how the Commission defines and classifies it, just as the existing ITFA precluded such taxes before that reauthorization.”) (emphasis added).
+
+[2] Matt Wood, “Claims That Real Net Neutrality Would Result in New Internet Tax Skew the Math and Confuse the Law,” Free Press Blog, Dec. 2, 2014, available at http://www.freepress.net/blog/2014/12/02/claims-real-net-neutrality-would-result-new-internet-tax-skew-math-and-confuse-law
+
+result-new-internet-tax-skew-math-and-confuse-law (last accessed on Dec. 3, 2014) (“Even if you used PPI’s fuzzy math, this would amount to approximately $4 billion in total, nowhere near the $15 billion sum Singer and Litan cite.”).
+
+[3] ITFA, Sec. 1104, 8 (A)(ii) (signed as Public Law 105-277 on October 21, 1998).
+
+[4] For 14 of the states in our sample, there was no general sales tax. For the 36 states with a general sales tax, the average state sales tax was 5.5 percent.
+
+[5] Zeroing out all sales taxes (state and local) in those states reduces our midpoint annual estimate of new state and local fees from $15 billion to $11 billion. It bears noting that we conservatively assumed no increase in the federal program demand, which resulted in a modest $0.5 billion lift in federal fees paid by residential broadband users, as the consumer contribution (compared to business) of broadband revenues (which would be newly added to the fund’s revenues) is proportionally greater than the consumer contribution of long-distance revenues. To the extent that federal program demand increases from reclassification—due to the enhanced political pressures associated with deeming broadband a public utility—the reduction in state and local fees caused by the extension of the ITFA could easily be offset by an increase in federal fees.
+
+[6] In the same December 2, 2014 Free Press blog posting, Free Press argued that the Commission could preempt these state-based fees: “Just as the FCC can decline to extend USF assessments to retail broadband access at this time, it also has the authority to preempt states from doing so.” Section 253 of the Act authorizes the Commission to preempt state laws that would impair a carrier from providing interstate or intrastate telecom services. But assessing fees on broadband providers would not impair a firm from providing broadband services. At most, such fees would reduce broadband penetration by squeezing out marginal (price-sensitive) customers.
+
+[7] ITFA, Sec. 1104, 8 (B) (emphasis added).
+
+[8] ITFA, Sec. 1107, A (amended Apr. 29, 2004).
+
+[9] Free Press Letter, at 4 (citing Report of the Senate Committee on Commerce, Science, and Transportation, “Internet Tax Non-Discrimination Act of 2003,” S. 150, S. Rep. No. 108-155, at 2, Sept. 29, 2003).
+
+[10] ITFA, Sec. 1104(2)(B)(i) (amended Apr. 29, 2004).
+
+[11] Scalia Dissent, NCTA v. Brand X Internet Service, ¶96 (“Since the delivery service provided by cable (the broadband connection between the customer’s computer and the cable company’s computer-processing facilities) is downstream from the computer-processing facilities, there is no question that it merely serves as a conduit for the information services that have already been assembled by the cable company in its capacity as ISP.”).
+
+[12] Free Press Letter, at 3.
+
+[13] Free Press Letter, at 5 (“This means that states will not apply to broadband any taxes or fees, including universal service fund assessments or contributions, that apply solely to intrastate telecommunications services.”).
+
+[14] FCC adopts order addressing dial-up internet traffic, Feb. 25, 1999, available at http://transition.fcc.gov/Bureaus/Common_Carrier/News_Releases/1999/nrcc9014.html.
+
+[15] Scott Mackey & Joseph Henchman, Wireless Taxation in the United States 2014, Tax Foundation Fiscal Fact, Oct. 2014, Appendix A.
+
+[16] Vermont Public Service Board, Universal Service Funds, available at http://psb.vermont.gov/utilityindustries/telecom/backgroundinfo/vusf; 2014 South Carolina Universal Service Contribution Worksheet, available at http://www.regulatorystaff.sc.gov/TTWWW/2014%20SC%20USF%20Contribution%20Worksheet%20Instructions.pdf (instruction that interstate revenues must be reported).

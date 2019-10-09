@@ -1,0 +1,102 @@
+Reversing the Medicaid Fee Bump: How Much Could Medicaid Physician Fees for Primary Care Fall in 2015?
+The Affordable Care Act (ACA) is designed to increase access to health insurance coverage in part through an expansion of eligibility for states’ Medicaid programs. To date, 27 states and the District of Columbia have expanded eligibility for their Medicaid programs, and those states have reportedly added more than 7.5 million Medicaid enrollees since the third quarter of 2013 (Centers for Medicare and Medicaid Services 2014). Because of long-standing concerns about the level of physician reimbursement in the Medicaid program and its effect on physicians’ willingness to accept Medicaid patients, the ACA also includes a mandatory two-year increase in Medicaid fees for primary care services to Medicare levels. This increase is fully funded by the federal government and raises fee-for-service and managed-care Medicaid fees for certain primary care services provided by family physicians, internists, and pediatricians from January 1, 2013, through December 31, 2014. Using fee-for-service data from 2012, the Urban Institute estimates that this primary care “fee bump” would increase fees by approximately 73 percent on average (Zuckerman and Goin 2012). As of June 2014, the federal government had spent an estimated $5.6 billion on the fee bump (Medicaid and CHIP Payment Access Commission 2014).
+
+Delays in federal rulemaking and implementation difficulties at the state level meant that most states did not have a clear policy in place until mid to late 2013, although the higher Medicaid fees were required to be paid back retroactively to the start of the year. Even if the implementation had gone smoothly, a long lag in the availability of survey data about physician acceptance of Medicaid patients would have complicated assessments of the effect of this policy on provider availability for Medicaid enrollees. To date, it is unclear whether the increase in Medicaid primary care payment has had an effect on the number of physicians accepting Medicaid or the number of Medicaid patients that physicians are willing to see, and anecdotal evidence is mixed (Crawford and McGinnis 2014). For example, although Connecticut has reported a significant increase in the number of participating physicians after the fee bump, other states expect little or no effect (Snyder, Paradise, and Rudowitz 2014).
+
+Without an act of Congress, the federally funded payment increase will expire on December 31, 2014. As of October 28, 2014, 15 states had indicated their intent to continue the fee increase in 2015 using state funds, 24 states had said that they did not intend to continue the fee increase, and 12 states were undecided (Snyder, Paradise, and Rudowitz 2014). This paper uses data from the Urban Institute’s 2014 survey of Medicaid physician fees to estimate how large a reduction in Medicaid primary care fees will occur on January 1, 2015, if the ACA’s Medicaid primary care fee bump expires.
+
+Data and Methods
+
+To estimate the effect of the expiration of the Medicaid primary care fee bump on physician fees and to track Medicaid physician fees in general, the Urban Institute conducted a survey of Medicaid physician fees in 49 states and in the District of Columbia. This survey followed methods similar to those used in Urban Institute Medicaid physician fees surveys dating back to 1993. We collected 2014 Medicaid fees for 27 procedures across a range of service types in all states except Tennessee,1 and we compared those fees to 2014 Medicare payments for the same services. For a detailed discussion of the Medicaid-to-Medicare fee ratio calculations and results for all 27 services studied, see appendix A.
+
+To estimate the effect of the expiration of the ACA primary care fee bump, we compared Medicaid fee-for-service rates available on each state’s general Medicaid fee schedule to the Medicare fee schedule for 7 of the nearly 150 procedure codes covered by the ACA fee increase. Research indicates that these seven codes provided a reasonable estimate of the overall fee-for-service primary care fee increase under the ACA, and we therefore restricted our analysis of potential fee decreases to these codes (Zuckerman and Goin 2012). Because not all providers were eligible for the fee increase, all states except Maryland provided a general fee schedule for noneligible providers that did not include the payment increase for primary care providers.2
+
+We aggregated across procedure codes, using the share of total Medicaid spending among the seven surveyed services as a weight. We aggregated across states, using 2010 total Medicaid enrollment (pre– ACA expansion) from the Medicaid Statistical Information System. We conducted sensitivity analysis to determine the effect of using pre- or postexpansion Medicaid enrollment weights, and we found very little effect.3
+
+We grouped states by their intentions regarding the fee increase in 2015 (Snyder, Paradise, and Rudowitz 2014), their 2011 and 2012 Medicaid physician participation rates (Decker 2013), and their decision regarding the ACA Medicaid expansion. We estimated the size of the primary care fee reduction that would occur in each of these subgroups if the fee bump expired in all states. For all analyses of fee reductions, we assumed that the fee bump would expire in all states except Maryland. We also examined whether states that had low primary care physician participation in Medicaid and states that did not expand Medicaid eligibility under the ACA were more or less likely to be planning to extend the fee bump.
+
+Results
+
+In the 49 states studied and in the District of Columbia, expiration of the Medicaid primary care fee bump on January 1, 2015, would lead to an average 42.8 percent reduction in fees for primary care services for eligible providers. The fee reductions would vary substantially by state, with seven states experiencing a fee reduction of 50 percent or more and four states experiencing no fee reduction (figure 1).
+
+In the 23 states included in this analysis4 that have indicated that they do not plan to continue the increase with state funds (Snyder, Paradise, and Rudowitz 2014), primary care fees would fall by an average of 47.4 percent, nearly cutting in half current fee-for-service Medicaid reimbursement for many of the primary care services provided by eligible physicians. In the states that intend to use state funds to continue the increase in 2015, primary care fees would fall by an average of 31.0 percent if the fee bump were not sustained. Among the undecided states, average reimbursement will fall 31.7 percent for the same services (figure 2).
+
+The 23 states included in this analysis that do not plan to continue the fee increase cover 71.3 percent of all Medicaid enrollees; the states that intend to continue the increase cover only 15.6 percent of Medicaid enrollees (figure 3). In seven of the states that do not plan to continue the fee increase with state funds, Medicaid primary care fees for eligible codes will fall by 50 percent or more (Rhode Island, California, New York, New Jersey, Florida, Pennsylvania, and Illinois). Michigan would also have a primary care fee reduction of 50 percent or more in 2015, but it intends to soften the impact of eliminating the primary care fee bump by using state funds to preserve half the value of the ACA increase.5 Among the 15 states with the largest potential drops in Medicaid reimbursement for primary care in 2015, 11 plan to let the fee increase expire, 2 are undecided, 1 plans to fund half of the value of the increase, and 1 plans to fully extend the increase using state funds (table 1).
+
+Primary care fees would fall more significantly in states in which primary care physicians accepted new Medicaid patients at below average rates in 2011 and 2012 (figure 4).6 In these low participation states, Medicaid primary care fees would fall an average of 55.8 percent if none of them extend the primary care fee bump, compared with 41.8 percent in states with average participation and 27.0 percent in states with above average participation.
+
+Three of the four states with below average acceptance of Medicaid patients among primary care physicians do not plan to continue the fee bump in 2015; only Alabama plans to continue the fee bump (table 1).7 Among the 30 states included in this analysis with average primary care physician participation in Medicaid in 2011 and 2012, roughly one-third (9) plan to continue the fee bump. Similarly, one-third of the 15 states with above average primary care physician participation in Medicaid plan to continue the fee bump.
+
+Finally, state intentions to extend the primary care fee increase appear to have little relationship to decisions they made about expanding Medicaid. Among the 27 states that have expanded their Medicaid programs, along with the District of Columbia, nine states plan to continue the fee increase using state funds, compared with six of the states that have not expanded Medicaid (table 1). As of August 2014, twothirds of Medicaid beneficiaries lived in Medicaid expansion states (Centers for Medicare and Medicaid Services 2014). However, primary care fees would fall more in Medicaid expansion states than in nonexpansion states in 2014 if all states allowed the fee increase to expire (figure 5).
+
+Limitations
+
+Our survey of Medicaid fees does not include fees paid through Medicaid managed care. Research by the US Government Accountability Office (2014) suggests that managed-care plans may pay higher rates for primary care than fee-for-service Medicaid in many states, though the differences were small on average (5 percent or less) for most of the states studied. In 2011, 74.2 percent of Medicaid beneficiaries were enrolled in managed care, and that fraction varied significantly by state.8 It is possible that, with respect to managedcare plans, we have overestimated the fee reductions physicians will experience after the expiration of the ACA’s Medicaid primary care physician fee bump. Smaller fee reductions could mitigate some of the potential impact on access to care, but given the Government Accountability Office’s finding of small average fee differences between Medicaid managed-care and fee-for-service plans, differential effects on access of allowing the fee bump to expire are also likely to be small. In fact, discussions with providers suggest that the potentially beneficial effects of higher fees in Medicaid managed care on access may have been diluted because implementation challenges caused these physicians to be less satisfied with the fee bump than those serving fee-for-service patients (Crawford and McGinnis 2014).
+
+Discussion
+
+Overall, primary care fees in the Medicaid program would fall an average of 42.8 percent in 2015 if no extension of the ACA primary care fee increase policy were granted. The fee reduction would be even larger—47.4 percent on average—in those states that do not plan to extend the fee bump using state funds. To put the magnitude of these fee reductions in some context, consider that the projected Medicare fee reduction under the sustainable growth rate formula was 24 percent in 2014. That cut and every potential fee cut under the formula since 2003 has been delayed by Congress.9 It has been uncertain whether congressional action related to continuing the Medicaid primary care fee bump would occur before the policy expires, and time appears to be running out.
+
+In general, states that have seen the largest increases in Medicaid reimbursement for primary care under the ACA are less likely to be planning to extend the policy into 2015 using state funds than are states with smaller increases. This situation likely reflects budgetary concerns. However, significant drops in primary care reimbursement may lead physicians to see fewer Medicaid patients, potentially leading these patients to have difficulty finding a physician or getting an appointment. Although payment is not the only factor in physician acceptance of Medicaid (Long 2013), research has demonstrated a correlation between lower payment rates and fewer physicians accepting new Medicaid patients (Decker 2012).
+
+Overall, Medicaid expansion states face more significant fee reductions than nonexpansion states (46.2 percent versus 36.8 percent), and states that had low Medicaid participation by primary care providers in 2011 and 2012 also face larger fee reductions than states with historically higher participation. The largest seven states by population size all face primary care fee reductions of more than 40 percent, and none of these states intends to continue the fee increase in 2015. Of those seven states, California, Illinois, New York, and Ohio could be faced with a significant expansion of enrollment in their Medicaid programs while implementing substantial Medicaid fee cuts for primary care.
+
+Notes
+
+1. Tennessee was excluded because it does not have any fee-for-service component in its Medicaid program. Tennessee does not plan to continue the fee bump in 2015 (Snyder, Paradise, and Rudowitz 2014), has average primary care physician participation in the Medicaid program (Decker 2013), and has not expanded its Medicaid program.
+
+2. Maryland provided the primary care fee increase to all physician types, not just those specified by the ACA. Therefore, we assume Maryland will continue the fee increase in all scenarios.
+
+
+
+3. We conducted sensitivity analysis using the August 2014 Medicaid and Children’s Health Insurance Program (CHIP) enrollment data as an alternate weight and using that data minus 2013 CHIP enrollment as an alternate weight. Our results varied by 1 percentage point or less across all of our measures, with most measures varying less than half a percentage point between the weighting methodologies. For August 2014 Medicaid and CHIP enrollment, see Centers for Medicare and Medicaid Services (2014).
+
+
+
+4. Tennessee was excluded because it does not have any fee-for-service component in its Medicaid program. Tennessee does not plan to continue the fee bump in 2015 (Snyder, Paradise, and Rudowitz 2014), has average primary care physician participation in the Medicaid program (Decker 2013), and has not expanded its Medicaid program.
+
+
+
+5. Michigan Medicaid will pay halfway between the general Medicaid fee schedule and the Medicare fee schedule for certain codes and physician types. See Snyder, Paradise, and Rudowitz (2014).
+
+
+
+6. Acceptance rates are from Decker (2013). In states with below average participation, between 44.4 and 54.0 percent of primary care physicians do not accept Medicaid, compared with 21.8 to 44.0 percent in states with average participation and 9.9 to 21.7 percent in states with above average participation.
+
+
+
+7. The other three states are California, Missouri, and New Jersey. See Decker (2013).
+
+
+
+8. Data are from “Total Medicaid Managed Care Enrollment,” Kaiser Family Foundation, accessed December 9, 2014, http://kff.org/medicaid/state-indicator/total-medicaid-mc-enrollment/#.
+
+
+
+9. Derek Wallbank and James Rowley, “House Speeds Medicare ‘Doc Fix’ as Support Was Collapsing,” Bloomberg, March 27, 2014, http://www.bloomberg.com/news/2014-03-27/physician-medicare-cuts-to-beav... as-deadline-nears.html.
+
+About the Authors
+
+Stephen Zuckerman is a senior fellow and codirector of the Health Policy Center at the Urban Institute. He has studied health economics and health policy for almost 30 years and is a national expert on Medicare and Medicaid physician payment, including how payments affect enrollee access to care and the volume of services they receive. He is currently examining how payment and delivery system reforms can affect the availability of primary care services, and studying the implementation and impact of the Affordable Care Act.
+
+Laura Skopec is a research associate in the Urban Institute’s Health Policy Center. Her current research focuses on the implementation and impact of the Affordable Care Act. Before joining the Urban Institute, she worked on Affordable Care Act implementation at the Office of the Assistant Secretary for Planning and Evaluation in the US Department of Health and Human Services.
+
+Kristen McCormack was an intern at the Urban Institute's Health Policy Center during summer 2014. She is currently a senior at Pomona College where she is majoring in economics.
+
+Partial funding for this research was provided by the National Institute of Aging (grant number R01 AG043513)
+
+Appendix A: Medicaid Fees in 2014
+
+The Urban Institute collected data on Medicaid physician fees for 27 procedure codes in 2014 to determine Medicaid payment rates. These codes fell under three general service types: primary care, obstetric care, and other services (table A.1). We constructed three separate indexes to compare 2014 Medicaid fees across states (the Medicaid fee index) with Medicare fees for the same services (the Medicaid-to-Medicare fee index) and with 2012 Medicaid fees for the same services (Medicaid fee change index). For each index, we first computed a simple average fee for each service within a state. We then developed a weighted national average fee for each service, with each state’s share of Medicaid enrollment as the weight. For the Medicaid fee index, we computed the ratio of each state’s fee for each service to the national average fee for that service. We then aggregated across services using the share of total Medicaid spending among the surveyed services as a weight (see table A.1).
+
+For the Medicare-to-Medicaid fee index, we computed the ratio of the Medicaid fee for each service in each state to the Medicare fee for the same services. We calculated Medicare fees using the 2014 relative value units, geographic adjusters, and conversion factor. To aggregate fee ratios across services and states, we used the same weights as in the Medicaid fee index. This procedure was repeated for the subset of services included in the Medicaid primary care payment increase under the ACA to develop estimates of fee decreases across different state groups.
+
+Finally, for the Medicaid fee change index, we compared the 2012 and 2014 Medicaid fees for all services using the same weighting procedures previously described.
+
+On average, Medicaid fees for all 27 services surveyed remained relatively stable between 2012 and 2014, increasing only 0.8 percent across all services studied (table A.2). The Medicaid-to-Medicare fee ratio for these services remained constant from 2012 to 2014 at 0.66. For primary care services, not including the ACA primary care fee bump, Medicaid paid 59 percent of Medicare charges in 2014, a figure that was also unchanged from 2012 (table A.3).
+
+ABOUT THE URBAN INSTITUTE
+
+The nonprofit Urban Institute is dedicated to elevating the debate on social and economic policy. For nearly five decades, Urban scholars have conducted research and offered evidence-based solutions that improve lives and strengthen communities across a rapidly urbanizing world. Their objective research helps expand opportunities for all, reduce hardship among the most vulnerable, and strengthen the effectiveness of the public sector.
+
+Copyright © December 2014. Urban Institute. Permission is granted for reproduction of this file, with attribution to the Urban Institute.

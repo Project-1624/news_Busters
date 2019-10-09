@@ -1,0 +1,71 @@
+0615 teapftexas
+
+Emails, Lauren Callahan, information specialist, Texas Education Agency, June 17-18, 2015
+
+How many students graduated in 2013-14 in Texas? If there is a chart I should look at, please say.
+
+g.
+
+9:57 a.m.
+
+June 17, 2015
+
+The class of 2014 count of graduates will be released in early August.
+
+The annual count of graduates for 2013-14 is run off of this page: http://ritter.tea.state.tx.us/adhocrpt/adstg.html. This count includes students from more than one cohort.
+
+LC
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Wednesday, June 17, 2015 10:21 AM
+
+To: Callahan, Lauren
+
+Subject: Following up
+
+Thanks. Does the following paragraph, drawing on agency data, read accurately? Any cautionary notes for our story?
+
+In 2010-11, according to the TEA, 390,465 students were in ninth grade. Three years later, the agency says, there were 308,851 12th graders, a 21 percent difference. That same year, 2013-14, 303,109 students had plans to graduate, the agency says. If all did so--agency spokeswoman Lauren Callahan told us by email the actual number of 2014 graduates would be announced in August 2015--then the class of 2014 four-year completion rate was 78 percent, a figure based on comparing the number of students in ninth grade in 2010-11 to the number of graduates three years later.
+
+4:33 p.m.
+
+June 17, 2015
+
+...
+
+The paragraph does not read accurately because this is not how our Research and Analysis team calculates our four-year graduation rates. “Class of 2014 four-year completion rate was 78 percent” implies a longitudinal methodology tracking individual students was used. Instead, as the statement later clarifies, an attrition-based method of comparing two aggregate counts was used to calculate the percentage. Please do not use the term “class of 2014 four-year completion rate” to refer to this rate.
+
+The grade 9 enrollment count used in the calculation includes every student in grade 9 on the fall snapshot date. This count includes students from multiple cohorts, for example, students who were retained in grade in 2010-11 – these students belong to the class of 2013. Almost 10 percent of ninth graders in 2010-11 were repeating the grade and were not in the class of 2014. By using an inflated grade 9 count, the resulting calculation artificially depresses the resulting graduation percentage. In addition, the aggregate count of graduates also includes students from multiple cohorts. The resulting percentage excludes students who graduate early or who take longer to graduate.
+
+Basically, what you’re seeing by using aggregate PEIMS enrollment and graduate data is attrition-based – it counts everyone, regardless of situation. But our Research and Analysis team calculates our graduation rates by keeping students in cohorts, or tracks – which is why you see terms like four-year, five-year, and six-year graduation rates in our annual graduation reports. So the 390,665 students that were counted in Grade 9 are students from different cohorts – it doesn’t count leaver codes or retention rates, for one thing – to adjust the cohort for students who enter Texas public schools in high school and students who leave. Likewise, the 303,109 count of 2013-14 graduating seniors is pulling students from multiple cohorts, so it’s impossible with this data to come up with an accurate four-year graduation rate for the class of 2014 at this time.
+
+Calculating graduation rate estimates from aggregate counts is useful when student-level data are not available. When information on individual student enrollment and leaver statuses is available, the accuracy of a method based on tracking students in and out of school and across multiple years is preferred and is the only method that can be used for accountability and monitoring purposes.
+
+There are a couple of additional corrections that I’d recommend. First, the 303,109 students DID graduate. That is a firm number and can be written as such. Also, the 2010-11 enrollment report indicates that there were 390,665 students in the 9th grade, not 390,465: http://ritter.tea.state.tx.us/adhocrpt/adste.html. (The report will not link correctly for me, but I ran the 2010-11 report and pulled the 9th grade number.)
+
+From: Selby, Gardner (CMG-Austin)
+
+Sent: Wednesday, June 17, 2015 6:09 PM
+
+To: Callahan, Lauren
+
+Subject: RE: Following up
+
+Julian Heilig has told us schools are free to liberally use leaver codes to effectively obscure dropouts. Make sense?
+
+11:39 a.m.
+
+June 18, 2015
+
+I would disagree with Julian. Districts must document their leaver codes. The requirements are spelled out in a PEIMS Data Standards appendix http://tea.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25769812436&libID=25769812453.
+
+If their leaver data submission looks suspicious, it can trigger an evaluation. That is spelled out here http://tea.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25769815800&libID=25769815848 .
+
+Is some leaver information ultimately inaccurate? Yes, but it is usually not because someone is intentionally lying. People just change their minds. At the time a student withdrew from public school, the parent signed a document saying the child was being transferred to a private school, for example. Ultimately something happens and the child never enrolls anywhere.
+
+Lauren Callahan
+
+Information Specialist
+
+Texas Education Agency

@@ -1,0 +1,54 @@
+Automatic Voter Registration
+This webpage addresses automatic—or automated—voter registration, a process that generally involves the state department of motor vehicles and possibly other state agencies.
+
+In 1993, Congress passed the National Voter Registration Act (NVRA). The NVRA pioneered a new way of registering to vote in America. It required most states to provide citizens with an opportunity to register to vote when applying for or renewing a driver’s license at a department of motor vehicles (DMV) or other designated state agencies. Because of the requirement for DMVs to participate in voter registration, the NVRA is often referred to as “motor-voter.” This trend continues today. The U.S. Election Assistance Commission notes that during the 2016 election cycle, 33% of all voter registration applications, approximately 25 million, originated in a DMV. The technological improvements since 1993, and the scrapping of paper records, have prompted many states to upgrade and modernize their registration processes.
+
+An Automated Process
+
+The improvements and efficiencies noted above commonly include upgrades in how voter registration data is transferred from DMVs to state voter registration systems. Throughout the 1990s and even into the early 2000s, many states relied on a paper-heavy registration process at the DMV, and some still do. Eligible voters in these states are asked to complete a paper registration form which is then sent to either a state or local election official for them to review and then input the voter’s information into the registration database.
+
+Now, the collection of voter information is shifting from paper-based forms to digital. Many state DMV systems are now linked to the state voter registration database. This allows the DMV system to not only collect information on eligible voters but to electronically transfer information to the voter registration database, often through scheduled uploads.
+
+As the DMV process becomes more automated and streamlined, many states are looking to apply these same standards to other state-designated agencies covered under NVRA. Under Section 7 of the NVRA, any state office that provides public assistance or operates state-funded programs that serve individuals with disabilities must offer opportunities to register to vote. It also requires states to designate other offices that provide this opportunity. Below is a table of state agencies that are currently participating in their state’s AVR program.
+
+Table 1: Agencies Participating in Automatic Voter Registration State Participating Agencies Alaska Permanent Fund Dividend (PFD) California DMV Colorado DMV Connecticut DMV District of Columbia DM Illinois DMV and other designated automatic voter registration agencies Maryland DMV, health benefit exchange, local departments of social services and the Mobility Certification Office Massachusetts DMV, division of medical assistance, health insurance connector authority, other agencies that collect “reliable citizenship information” New Jersey DMV and any state agency that the secretary of state verifies meets that requirements New Mexico DMV Nevada DMV Oregon DMV Rhode Island DMV and other state agencies verified by the secretary of state Vermont DMV Washington DMV, health benefit exchange, other state agencies approved by the governor West Virginia DMV
+
+In some cases, these upgrades include automatically register a person transacting business at the DMV or other NVRA agency to vote. Depending on the state, the person may be asked to say “yes” to voter registration or say “no” if they do not want to be registered. This can be called automatic voter registration, or automated registration, or simply updated NVRA processes.
+
+How AVR Works
+
+In January 2016, Oregon became the first state to implement AVR. In what is sometimes referred to as the “Oregon model,” an eligible voter who interacts with the DMV is not asked whether they would like to register to vote, but instead is automatically opted into registering. The voter is later sent a notification informing them that they were registered and that they can opt-out by returning the notification.
+
+As other states have adopted AVR, they have chosen different approaches. There are four main approaches states may use:
+
+1) Postcard via mail: A DMV license applicant who is not registered to vote is later sent a mailing informing them that they will be registered by a date certain unless they choose to opt out by signing and returning a postcard. The person’s eligibility for the voter rolls is based on citizenship, age and residency information provided during their recent visit to the DMV. Oregon (through the DMV) and Alaska (through its Permanent Fund ) use this method.
+
+2) Postcard provided at the agency: The DMV applicant for a license is given a postcard at the agency that says the information they provided to the DMV will be used to register them to vote or to update their voter registration record, unless they sign and return the card to opt out. A signed opt-out card can be left with the DMV or the applicant can return it by mail. We know of no states that use this system so far.
+
+3) Registration “opt-out” at the agency: As part of their DMV transaction, customers provide information needed to register to vote. Voters see a screen that tells them their information will be used for voter registration unless they choose to decline. Assuming they do not decline, they will be given the opportunity to choose a political party, if appropriate in that state. In some states, they will be asked to attest to eligibility. In other cases, their signature at the agency will serve as their attestation of eligibility. Citizens that are already registered will automatically receive a new voter registration card in the mail with their updated voter information. Examples of states implementing this process include Rhode Island and California.
+
+4) Registration “opt in” at the agency: Customers during their DMV transaction provide information needed to register to vote. An electronic screen asks them whether they would like to register to vote. If they say yes, they are taken to another screen where they are given the opportunity to choose a party, if appropriate. Individuals do not have to take further action to register to vote. An example of this system is Delaware.
+
+As of April 2019, 17 states and the District of Columbia are categorized by NCSL as having automatic voter registration.
+
+*In qualifying states, NCSL is using its own approach: If a legislature enacts a bill with the words “automatic” or “automated” in it to describe a paperless system for registering voters at DMVs or other state agencies, we’re including them on this page. Likewise, if, through existing authority and administrative action a state moves toward any of the top three categories, we’re including them. Last, if we hear from a representative of the state’s chief election official (often the secretary of state) that their system qualifies as automatic or automated, we add them, too.
+
+Another important part of the AVR process is how a voter is verified when registering during the AVR process. The first form of verification is a self-verification by the registrant. When registering to vote, an individual must affirm that they are a citizen of the United States (knowingly providing false information could result in a felony). In addition, during the process, new registrants must provide either a state-issued ID or the last four digits of their Social Security number. This information is noted and, in some states, like Colorado, not only is the type of identification presented recorded, but a digital copy of the document is captured and maintained. This information can also be verified by utilizing other sources of information, such as the Social Security Administration or a state department of revenue. Lastly, in some states all registrant information is sent to their local election official’s office, which can provide a final check before the registration is fully entered into the state voter database.
+
+What Are the Benefits of Automatic Voter Registration?
+
+Proponents of automatic voter registration say the policy will remove barriers to registration for eligible voters, the first step on the way to increasing voter participation. By registering through a routine and necessary transaction such as those at the DMV, voters won’t have to worry about registration deadlines or application submissions. In a sense, they are automatically enfranchised.
+
+Automatic registration also leads to cleaner voter registration rolls because the process updates existing registrations with current addresses. This, in turn, will lead to more efficient elections, with the added benefit of reducing the use of costly provisional ballots, which are a fail-safe voting option when there is a discrepancy in a voter’s registration status. Some supporters also expect automatic voter registration to lead to higher voter turnout, although evidence is not yet available to prove this point.
+
+A last possible benefit of automatic voter registration is that the practice allows states to better comply with the NVRA. Because the federal law requires eligible voters be offered an opportunity to vote at designated agencies, automatically registering individuals follows the law and reduces the possibility of human error in the process.
+
+What Are the Disadvantages of Automatic Voter Registration?
+
+Opponents of automatic voter registration have concerns that the government should not be in the business of telling citizens what to do or that they must register to vote. They may see automatic voter registration as an infringement upon the First Amendment right to free speech, particularly in states, such as Oregon and Alaska, that provide the "opt-out" choice by mail, after the fact.
+
+They question whether opt-out forms that are sent and received through the mail are sufficient to ensure an individual can decline to register. Fraud is also a concern, as some have questioned whether the process can adequately filter out noncitizens who are able to obtain state identification cards legally.
+
+Opponents also argue that more voter registration does not necessarily lead to higher voter turnout. Just because a voter is registered does not mean he or she will vote on Election Day. It remains to be seen whether more voters will get to the polls because of automatic voter registration.
+
+Additional Resources

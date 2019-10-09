@@ -1,0 +1,74 @@
+QCEW State and County Map Application: US: 12 month percent change in employment, Total, all industries Total Covered Dec 2011-Dec 2012 : U.S. Bureau of Labor Statistics
+United States Start over
+
+
+
+Footnotes:
+
+Not Disclosed (ND): Data do not meet BLS or State agency disclosure standards
+
+Dashed table cells (-): No data is available.
+
+Assumptions: All establishment sizes
+
+Help:
+
+Save the map as an image to your computer by right-clicking on the white space inside the map area and select "Save as image..."
+
+Print the map by right-clicking on the white space inside the map area and select "Print chart..."
+
+Additional help: QCEW Map User Guide
+
+
+
+Feedback:
+
+Submit feedback, rate this application, and see other user feedback
+
+Period The Quarterly Census of Employment and Wages (QCEW) is published quarterly by the U.S. Bureau of Labor Statistics. This data is usually released 6 to 7 months after the end of the quarter. For more information, see the QCEW Calendar.
+
+Map Series This drop-down menu allows you to select the time series to be displayed on the map. The Map Series can also be selected from the “Show on Map” buttons at the heading of each column in the data table. Available Time series to Map: Number of Establishments
+
+Number Employed
+
+12-Month Percent Change in Employment (default)
+
+12-Month Net Change in Employment
+
+Average Weekly Wage
+
+12-Month Percent Change in Average Weekly Wage
+
+Location Quotient
+
+Industry This application displays only “super-sector” and higher levels of the North American Industrial Classification System (NAICS) hierarchy. QCEW data for 2007 forward are classified according to the 2007 version of the North American Industry Classification System (NAICS). The NAICS coded QCEW data for 2006 and earlier are classified according to the 2002 version of NAICS. Click for more information.
+
+Color Groups Map colors are automatically specified into five positive groups and five negative groups based on the underlining data.
+
+The coloring method can be either "Rank", "Equal Steps", or "Fixed".
+
+Rank rules cause the same number of areas, e.g. states, to exist in each group.
+
+Equal Steps rules divide the range into five even parts, so if the lowest number in the range is 0 and the highest is 10, each range would be 2.
+
+The "Fixed" coloring method is for percent change data only. This color mode has fixed-sized ranges of 2% each. The Fixed mode is useful for comparing maps over time, as the coloring rules for every map will be the same.
+
+Ownership Indicates the ownership sector for which the data were reported. Total gov’t is the sum of the federal, state, and local government categories.
+
+Establishment Size This application only shows All establishment sizes combined.
+
+Downloads CSV for Excel This CSV (comma separated value) is formatted for Excel. It has additional header rows. The period is stored in separates quarter and year fields so Excel does not interpret the period as a "Date" cell. CSV Data Feed This CSV file is formatted for data exchanged . It is designed to work with 3rd party data visualization tools such as the Google Motion Chart and other "mash-ups". XML This XML file is formatted to work as a Web-based data source. For instance, the XML file works in Excel's "Get External Data, From Web" feature.
+
+Number of establishments: An establishment is an economic unit, such as a farm, mine, factory, or store, that produces goods or provides services. It is typically at a single physical location and engaged in one, or predominantly one, type of economic activity for which a single industrial classification may be applied. Occasionally, a single physical location encompasses two or more distinct and significant activities. Each activity should be reported as a separate establishment if separate records are kept and the various activities are classified under different NAICS industries. QCEW collects data at the establishment level whenever possible.
+
+Employment: Number of persons employed for the third month of the quarter selected.
+
+One-year % change in employment: Percent change calculated from data for one-year prior.
+
+One-year jobs gains/lost: Difference in employment calculated from data for one-year prior.
+
+Average weekly wage: These are the total wages for all employees as submitted by employer reports. The unit is dollars.
+
+Average weekly wage, % change: Percent change calculated from data for one-year prior.
+
+Change in average weekly wage: One year dollar difference.

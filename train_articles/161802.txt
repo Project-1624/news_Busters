@@ -1,0 +1,98 @@
+Based on Trump’s detailed diagram of his slat wall, here is some advanced mathematics
+For probably the first time in American history, part of the government is shut down for lack of funding because of a dispute over a construction project.
+
+President Trump, as you may have heard, promised during the 2016 presidential campaign that he would solve most of America’s immigration problems and many of its other issues by building a wall on the border between the United States and Mexico. This wall was going to be paid for by Mexico, he claimed, an assertion that was never believable. More believable: that the wall was going to be made of concrete slabs, a point he made in some detail on the trail.
+
+“Concrete plank,” he said at a rally in August 2016. “Precast. Precast, right? Boom. Bing. Done. Keep going.”
+
+There was a problem, though, that also crept into his rhetoric. Trump warned drug dealers, stymied by the wall, would simply throw bags of drugs over the top of it, potentially killing anyone walking on the other side. (We talked to experts; Such a throw would be a remarkable feat.) So, he said, the wall needed windows or, somehow, to be transparent.
+
+Which brings us to Trump’s tweets about the barrier as the government was grinding to a halt. No longer would the wall be concrete planks, he said, but instead “artistically designed steel slats.” In case that phrase was insufficiently evocative, he tweeted on Friday an image of what he was talking about.
+
+A design of our Steel Slat Barrier which is totally effective while at the same time beautiful! pic.twitter.com/sGltXh0cu9 — Donald J. Trump (@realDonaldTrump) December 21, 2018
+
+There you are. An artistic steel-slat wall.
+
+What’s interesting about this image is not just that the zoomed-in detail (showing triangular spikes) doesn’t match the fence as shown (the top of which looks more like a picket fence). It’s not just that vertical bars are about as artistically evocative as a blank canvas. It’s that, included in the diagram, is an image of a car meant to evoke some sense of scale.
+
+Thanks to that car, we can, in fact, estimate down to the square foot the amount of steel needed for Trump’s wall.
+
+What are the dimensions of the barrier?
+
+We start with the car.
+
+Images of Customs and Border Protection vehicles show they are mostly midsize Ford SUVs. So let’s compare the truck in the image to the latest model of Ford Explorer, images of which can be seen at Ford’s website.
+
+When we clip a photo of the Explorer from the website and drop it into the image, something’s off. It’s far longer than the vehicle in Trump’s diagram.
+
+Why? Are we using the wrong model of SUV? No. The problem is that Trump’s car has been scaled incorrectly. Notice that the wheels are more ovals than circles, a shape that works poorly for driving.
+
+
+
+(President Trump/Ford Motor Company/The Washington Post) (Philip Bump/New York)
+
+We scaled our Explorer to the same squashed dimensions as Trump’s truck and got something like this. Since the dimensions of the vehicle are important, we’ve added them.
+
+
+
+(President Trump/Ford Motor Company/The Washington Post) (Philip Bump/New York)
+
+The scale of the car doesn’t really affect the calculations we’re doing, we’ll note, but the effect is important. Because the vehicle is squashed, the slats (and the gaps between the slats) look narrower than they would be in real life. Our calculations should otherwise be straightforward: There’s no important distortion from perspective in this diagram. The car is close to the fence and it is seen in perfect silhouette.
+
+Let’s do some math.
+
+The fence is a little taller than five stacked SUVs — or, if we consider the spikes to be separate from the fence, the fence is a bit shorter than the five cars. The SUV spans 10 full slat-gap combinations, covering nearly another full slat at the end. (Note what’s covered by the yellow bar.)
+
+
+
+(President Trump/Ford Motor Company/The Washington Post) (Philip Bump/New York)
+
+Now, it’s just simple algebra. The slats are slightly wider than the gaps in the image — meaning that they are in real-life, too. By our calculations:
+
+The slats are about 10 inches wide.
+
+The gaps are nine inches.
+
+The fence is 341 inches tall — or about 28.4 feet — with 13-inch spikes on top.
+
+(Those figures have all been rounded, we’ll note. The calculations below use the numbers that were not rounded.)
+
+How much barrier is needed?
+
+The combined width of the slats and gaps is just over 19 inches. How many slats would, therefore, be needed?
+
+Well, the border is about 1,954 miles long. About 580 miles already have fence of some type. Let’s assume that all the rest, regardless of terrain, is getting our slat barrier.
+
+We have 1,374 miles to cover, but that excludes ports of entry. There are 48 ports of entry on the border now. The largest is at San Ysidro, near San Diego.
+
+We can use the entry to estimate a maximum size of the gap we need to leave in the wall. According to Google Earth, it’s about 0.15 miles wide.
+
+
+
+San Ysidro border crossing. (Google Earth/The Washington Post) (Philip Bump/New York)
+
+That means that about 7.2 miles of the border belong to ports of entry, which leaves 1,366.8 miles.
+
+The result? We need about 4.6 million steel slats to cover that ground. At a height of 28.4 feet and a presumed thickness of one inch, each slat requires a bit less than 2 cubic feet of steel. For all of the slats, we’d need about 9 million cubic feet of steel.
+
+As CNBC notes, that steel is a lot pricier than it was a year ago, thanks to the tariffs Trump imposed on foreign steel. At the beginning of 2018, this barrier would have cost 25 percent less.
+
+Update: A civil engineer wrote in to note that, at current prices of $160 per cubic foot, the steel alone would cost about $1.5 billion -- excluding steel that would need to be used to extend the slats into the ground. She also noted that a 1-inch-thick wall wouldn’t be terribly sturdy.
+
+Would this even be effective?
+
+This is really the crux of the question, isn’t it? Is a barrier this long at these dimensions actually something that would work to keep out people and illegal drugs?
+
+It clearly wouldn’t do much about the latter. Most drugs that cross that border illegally already come through ports of entry, smuggled in vehicles or on people crossing legally. What’s more, a barrier with nine-inch gaps seems like it might allow for pretty easy transfer of bulky packages, without having to throw them 28 feet in the air to clear the wall.
+
+What’s more, an nine-inch gap wouldn’t necessarily keep people out. In 2010, a prisoner in a jail in Tennessee escaped his cell by covering himself with grease and squeezing between bars set 4.5 inches apart. He would have found the steel slats — with gaps between that are twice that size — practically roomy.
+
+In China, people who pass through a gap of 5.9 inches at a restaurant eat for free. Pass through a gap of seven inches and you get five beers on the house. Get through a gap that’s only slightly wider than Trump’s wall, 9.8 inches, and you only get one beer.
+
+Chinese restaurant gives discounts for the skinny A restaurant in Binzhou, China, came up with a quirky idea to give discounts to customers who can squeeze through narrow metal bars. “People are always thinking about a big meal when they enter a restaurant. If they fail to squeeze through the frame they might think -- maybe we are overweight, maybe we should control the amount of food we order,” said Zhao Lang, the owner of the restaurant, in an interview. Read more: http://www.koreaherald.com/view.php?ud=20180529000506 #RUPTLY Posted by The Korea Herald on Monday, May 28, 2018
+
+It’s possible, we’ll admit, that Trump’s illustration isn’t meant to be a specific representation of the actual size of the barrier that he would like to see on the border, any more than he plans to order the Border Patrol to use only semi-compressed Ford Explorers on their routes from now on.
+
+But, as of writing, this is all moot anyway. There’s no money to build the wall coming from either Mexico or the United States at this point. Those looking to squeeze through narrow gaps for great rewards will have to migrate to China, trying their best at winning those five beers.
+
+correction: The original calculations for the height incorrectly excluded several feet. The article has been corrected.

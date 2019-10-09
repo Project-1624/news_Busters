@@ -1,0 +1,22 @@
+Industrial Production: Durable manufacturing: Primary metal
+NOTES
+
+Source: Board of Governors of the Federal Reserve System (US)
+
+Release: G.17 Industrial Production and Capacity Utilization
+
+Units: Index 2012=100, Seasonally Adjusted
+
+Frequency: Monthly
+
+Notes:
+
+The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
+
+
+
+NAICS = 331
+
+
+
+Source Code: IP.G331.S

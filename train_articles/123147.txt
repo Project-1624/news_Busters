@@ -1,0 +1,60 @@
+Latitude and Longitude
+In ancient times, people positioned themselves using landmarks and rudimentary maps. This worked well locally, but different methods were needed for travelling further afield across featureless terrain such as sea or desert. Travellers now required a frame of reference, or co-ordinates, to fix their position.
+
+Latitude
+
+Both the Phoenicians (600 BC) and the Polynesians (400 AD) used the heavens to calculate latitude. Over the centuries, increasingly sophisticated devices, like the gnomon and the Arabian Kamel were designed, to measure the height of the sun and stars above the horizon and thereby measure latitude.
+
+The first instruments used at sea to measure latitude were the quadrant and the astrolabe, both of which had been used for years by astronomers to measure the inclination of stars.
+
+But knowing your latitude wasn’t enough. To determine your exact location you also need to measure your line of longitude.
+
+Longitude
+
+Great minds had tried for centuries to develop a method of determining longitude. Hipparchus, a Greek astronomer (190–120 BC), was the first to specify location using latitude and longitude as co-ordinates. He proposed a zero meridian passing through Rhodes. He further suggested that absolute time be determined by observing lunar eclipses, measuring the time when a lunar eclipse started and finished, and finding the difference between this absolute time and local time. However, his method required an accurate clock, something yet to be invented.
+
+In 1530, Gemma Frisius proposed a new method of calculating longitude using a clock. The clock would be set on departure and kept at absolute time, which could be compared with the local time on arrival. Unfortunately, sufficiently accurate clocks weren’t going to be available for another 230 years or so, but when they were, the method Frisius used was shown to work.
+
+Cracking longitude was not only important for the safety of navigators, but vital for the development of sea-borne trade. In 1567, Philip II of Spain offered a prize to any person who could provide a solution to the problem. This was followed in 1598 by a similar challenge from Philip III, to whom Galileo wrote, telling him that eclipses of Jupiter’s moons would reveal the secret. The King remained unconvinced.
+
+In 1667, the Italian astronomer Cassini was persuaded to visit the Academie Royale des Sciences observatory in Paris. As Galileo had suggested, he used the moons of Jupiter to map the world. The eclipses of Jupiter’s moons were timed in Paris using a pendulum clock. In 1681, Cassini travelled to the island of Goree in the West Indies to repeat his measurements. Absolute time was found on the island by observing the eclipses, and this was compared to local time (obtained using the sun), so enabling the island’s longitude to be calculated.
+
+The problem of determining longitude on land had been solved, but the method was useless at sea because a ship’s movements made it impossible to time the eclipses of Jupiter’s moons accurately.
+
+Cracking Longitude at Sea
+
+In 1714, the English Parliament offered a prize of £20 000 to anyone who could determine longitude at sea to within a half a degree (or two minutes: the Earth revolves through 360o in 24 hours, so every one degree of longitude corresponds to four minutes). Many eminent scientists set to work, but it was an unknown amateur clockmaker from Yorkshire, John Harrison, who rose to the challenge.
+
+He saw time as the key and realised that if you could determine local time (from the position of the sun) and the time at some reference point (like Greenwich), you could calculate the time difference between the two. From this, you could work out how far apart the two places were in terms of longitude.
+
+The problem was that no timepiece existed that could be set at home and relied on to keep time accurately while at sea, where pendulums were notoriously unreliable. So, even if local time could be determined from the noonday sun, there was no time to compare it against. This was the problem that Harrison set out to solve.
+
+Harrison's Clock - The Answer At Last
+
+After decades of diligence, and many design changes, he eventually produced his marine chronometer, H4, a spring-driven clock that could measure longitude to within the half-degree required for the £20 000 prize. Despite this, Harrison was initially awarded only half the promised amount.
+
+On a voyage from England to Jamaica in 1761–62, H4 lost just five seconds in over two months at sea. It was now possible for a navigator to determine local time by measuring high noon, and compare this to the absolute time, which had been set on an accurate chronometer at the start of the voyage. With this information, he could then determine the number of degrees of longitude that he’d traversed during his journey.
+
+At long last, both latitude and longitude could now be determined accurately, and for the first time you could say exactly where on Earth you were.
+
+Global positioning systems
+
+Today, it's all done electronically through GPS, a world-wide radio navigation system made up of a constellation of 24 satellites and their ground stations. These 'artificial stars' are used as reference points to calculate a terrestrial position to within an accuracy of a few metres. In fact, with advanced forms of GPS you can make measurements to within a centimetre! What would Harrison have made of it?
+
+Weblinks
+
+National Maritime Museum
+
+History of Navigation at Sea
+
+Secrets of Ancient Navigation
+
+The BBC and the Open University are not responsible for the content of external websites
+
+Reading
+
+Fisher D., Latitude Hooks and Azimuth Rings: How to build and use 18 traditional navigational instruments, International Marine Publishing
+
+Larijani L.C., GPS for Everyone: How the Global Positioning System can work for you, American Interface Corporation
+
+Sobel D., Longitude, Walker & Co.

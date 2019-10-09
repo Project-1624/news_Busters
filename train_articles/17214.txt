@@ -1,0 +1,50 @@
+Prison Point-in-Time Dashboards
+Content_Area1
+
+​Prison Point-in-Time Populations
+
+The point-in-time prison population data presented includes inmates who were physically present in a WI DOC prison and also includes:
+
+Inmates occupying contract beds in county jails, mental health facilities, or prisons in other states
+
+Interstate compact inmates serving another state’s sentence or a federal sentence in a WI facility
+
+It does not include offenders under supervision of the Division of Community Corrections held in a prison as a temporary hold. Additionally, it not does include inmates with adult convictions who are being housed in a juvenile facility.
+
+The locations of inmates are categorized as either:
+
+WI Institution (DOC facilities and Department of Health Services facility - Wisconsin Resource Center)
+
+Jail (county jail bed)
+
+Out of State (in another state on the point-in-time date)
+
+Other (all other types of facilities, including community placements and mental health facilities)
+
+Most Serious Offense
+
+Offense categories were based on the Association of State Correctional Administrators (ASCA) Performance-Based Measures System (PBMS) standards. The most serious offense was selected based on the order of the categories listed below, with violent offenses as the most serious, and public order offenses as the least serious. Click on Wisconsin DOC Offense Categorization for more information about the offense categories.
+
+
+
+For the most serious offense analysis, inmates were removed from each point-in-time if they:
+
+Did not have an active offense
+
+Did not have a valid end date for their period of incarceration
+
+Were in prison for alternatives to revocation
+
+Had an erroneous admission
+
+Were admitted pending revocation hearings
+
+Were interstate compact offenders (with no WI sentence), as these inmates were not serving time in prison for the confinement portion of a WI sentence
+
+Drug, Sex, or OWI Offense
+
+An inmate was included in one or more of the three offense categories if any of his or her active offenses (at the point-in-time that he or she was in prison) was a drug, sex, or OWI offense. This means that an inmate could be counted in each of the three categories, if he or she had an active drug offense, sex offense, and OWI offense when in prison. The category that an inmate was included in does not necessarily indicate the inmate’s most serious offense. Note that not all offenders on the sex offender registry are included in the sex offense category, as some inmates have sex offenses that have already discharged.
+
+Link to DAI Point-in-Time Populations 2000-2016 Executive Summary
+
+Link to DAI Point-in-Time Populations 2000-2016 Report

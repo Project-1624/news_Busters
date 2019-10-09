@@ -1,0 +1,45 @@
+Low income cut-offs
+
+What are the LICOs ?
+
+The low income cut-offs (LICOs) are income thresholds below which a family will likely devote a larger share of its income on the necessities of food, shelter and clothing than the average family. The approach is essentially to estimate an income threshold at which families are expected to spend 20 percentage points more than the average family on food, shelter and clothing.1 The first set of published LICOs used the 1959 Family Expenditure Survey to estimate five different cut-offs varying between families of size one to five. These thresholds were then compared to family income from Statistics Canada's major income survey, the Survey of Consumer Finances (SCF)2, to produce low income rates.
+
+Today, Statistics Canada continues to use precisely this approach to construct LICOs , with the exception that cut-offs now vary by 7 family sizes and 5 different populations of the area of residence3. This additional variability is intended to capture differences in the cost of living amongst community sizes.4
+
+How are LICOs calculated?
+
+As mentioned previously, a LICO is an income threshold below which a family will likely devote a larger share of its income to the necessities of food, shelter and clothing than an average family would. According to the most recent base for LICOs , the 1992 Family Expenditures Survey, the average family spent 43% of its after-tax income on food, shelter and clothing. Figure 1 shows the calculation of a LICO using the example of a family of four living in a community with a population between 30,000 and 99,999. The 63% line represents the average proportion of after-tax income that all families (regardless of size) spent on food, shelter and clothing in 1992 ( i.e. 43%) plus the 20 percentage point margin. The dots on the chart show the actual observed proportion of income spent by four-person families in that community size on necessities, according to the 1992 Family Expenditure Survey. A regression line is fitted to this distribution and the intersection of that curve and the 63% line gives the LICO —in this case, $21,359.5, 6, 7
+
+This process is carried out for seven family sizes and five community sizes and results in a table of 35 cut-offs. This operation is done twice: once for before-tax cut-offs, once for after-tax cut-offs.
+
+Figure 1 Calculation of an after-tax low income cut-off
+
+Rebasing and indexing the LICOs
+
+Over time, Canadian families have spent a smaller percentage of their income on the necessities of food, shelter and clothing. This relationship between families' income and spending is associated with a specific point in time, i.e. the year of the expenditure survey used to derive the cut-offs. That particular year is referred to as the base year for the set of cut-offs. In order to account for changing spending patterns, Statistics Canada has in the past recalculated new LICOs after each subsequent Family Expenditure Survey. This process is referred to as rebasing and includes recalculating new LICOs using the method described in 'How are low income cut-offs calculated?' and the new spending data. In addition to the 1992 base, LICOs have also been based on the 1986, 1978, 1969 and 1959 Family Expenditure Surveys; although cut-offs based on 1992 are the most commonly used and are available for the income reference years from 1976 onwards.8
+
+After having calculated LICOs in the base year, cut-offs for other years are obtained by applying the corresponding Consumer Price Index (CPI) inflation rate to the cut-offs from the base year – the process of indexing the LICOs . The CPI are provided at the end of this document. For example, continuing with the 1992 after-tax LICO for a family of four living in an community with a population between 30,000 and 99,999; to calculate the corresponding LICO for 2011, the Consumer Price Index is used as follows:
+
+LICO 2011 = LICO 1992 x CPI 2011 / CPI 1992 = 21,359 x 119.9 / 84.0 =30,487
+
+Thus for 2011, the 1992 based after-tax LICO for a family of four living in an community with a population between 30,000 and 99,999 is $30,487, expressed in current dollars.
+
+Because the LICOs only depend on the annual Consumer Price Index, they can be produced as soon as the CPI is available, that is January following the reference year.
+
+Note that using the CPI to update the cut-offs takes inflation into account, but does not reflect any changes that might occur over time in the average spending on necessities.
+
+Use of after-tax and before-tax LICOs
+
+The average proportion of income that families spend on food, shelter and clothing, which figures prominently in the low income cut-offs, is undoubtedly a useful gauge of economic well-being no matter which income concept is used. The choice of after-tax income, total income or market income depends on whether one wants to take into account the added spending power that a family gets from receiving government transfers or its reduced spending power after paying taxes.
+
+Statistics Canada produces two sets of low income cut-offs and their corresponding rates—those based on total income ( i.e. , income including government transfers, before the deduction of income taxes) and those based on after-tax income. Derivation of before-tax versus after-tax low income cut-offs are each done independently. There is no simple relationship, such as the average amount of taxes payable, to distinguish the two types of cut-offs.
+
+Although both sets of low income cut-offs and rates continue to be available, Statistics Canada prefers the use of the after-tax measure.
+
+The choice to highlight after-tax rates was made for two main reasons. First, income taxes and transfers are essentially two methods of income redistribution. The before-tax rates only partly reflect the entire redistributive impact of Canada's tax/transfer system because they include the effect of transfers but not the effect of income taxes. Second, since the purchase of necessities is made with after-tax dollars, it is logical to use people's after-tax income to draw conclusions about their overall economic well-being.
+
+Differences in after-tax and before-tax rates
+
+The number of people falling below the cut-offs has been consistently lower on an after-tax basis than on a before-tax basis. This result may appear inconsistent at first glance, since incomes after tax cannot be any higher than they are before tax, considering that all transfers, including refundable tax credits, are included in the definition of "before-tax" total income. However, with a relative measure of low income such as the LICO , this result is to be expected with any income tax system which, by and large, taxes those with more income at a higher rate than those with less. These "progressive" tax rates compress the distribution of income. Therefore, some families in low income before taking taxes into account are relatively better off and not in low income on an after-tax basis.
+
+Notes

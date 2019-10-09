@@ -1,0 +1,90 @@
+Obstruction of Justice in the Mueller Report: A Heat Map
+The Mueller report describes numerous instances in which President Trump may have obstructed justice. A few days ago, I threw together a quick spreadsheet on Twitter to assess how Special Counsel Robert Mueller seemed to assess the evidence. Unexpectedly, that spreadsheet got a fair amount of attention—so I thought I would delve back into the evidence to provide a revised visualization with a little more nuance, which will hopefully be helpful to people attempting to parse a legally and factually dense document.
+
+The key question is how Robert Mueller and his team assessed the three elements “common to most of the relevant statutes” relating to obstruction of justice: an obstructive act, a nexus between the act and an official proceeding, and corrupt intent. As Mueller describes, the special counsel’s office “gathered evidence … relevant to the elements of those crimes and analyzed them within an elements framework—while refraining from reaching ultimate conclusions about whether crimes were committed,” because of the Office of Legal Counsel (OLC)’s guidelines against the indictment of a sitting president.
+
+The below heat map is an effort to simplify Mueller’s analysis of the evidence in relation to the three common elements of the obstruction statutes. Instances of possibly obstructive conduct are identified by their section marking in Volume II of the report. (Section A is a general overview of the Trump campaign’s response to public reporting on Russian support for Trump and does not contain an analysis.) Some sections contained varying analysis of multiple possibly obstructive acts, which are identified separately. More information about how the special counsel assessed each possible instance of obstruction is available below the chart itself, with page numbers corresponding to Volume II.
+
+I should emphasize that the below is my interpretation of the evidence as Mueller seems to provide it—others may have different readings. (Richard Hoeg has provided a slightly different take, also available on Twitter.) My assessment rests on an assumption that Mueller is correct in his legal analysis that a president may still obstruct justice even if the act in question is taken entirely under his Article II authority. Under Attorney General William Barr’s reading of Article II, this heat map would look very different. I’ve also accepted at face value Mueller’s statutory argument that 18 U.S.C. § 1512(c)(2) “states a broad, independent, and unqualified prohibition on obstruction of justice,” rather than, as Trump’s personal counsel apparently argued to Mueller, covering only “acts that would impair the integrity and availability of evidence.”
+
+B. Conduct regarding the Flynn investigation
+
+Obstructive act (p. 43): Trump asked for Comey’s loyalty and pressured Comey to “let this go” regarding the FBI investigation into former National Security Adviser Michael Flynn. “In analyzing whether these statements constitute an obstructive act, a threshold question is whether Comey’s account of the interaction is accurate, and, if so, whether the President’s statements had the tendency to impede the administration of justice by shutting down an inquiry that could result in a grand jury investigation and criminal charge.” “[S]ubstantial evidence corroborates Comey’s account.”
+
+Nexus (p. 46): By the time Trump spoke to Comey, Trump had been informed that Flynn had been interviewed by the FBI and that his statements could violate 18 U.S.C. § 1001, the prohibition on lying to federal investigators. “[T]he President’s instruction to the FBI Director to ‘let[] Flynn go’ suggests his awareness that Flynn could face criminal exposure for his conduct and was at risk of prosecution.”
+
+Intent: “[E]vidence is inconclusive” as to whether Trump was aware of Flynn’s calls with Kislyak when they occurred. But “[e]vidence does establish that the President connected the Flynn investigation to the FBI’s broader Russia investigation.”
+
+Trump attempted to have Deputy National Security Adviser K.T. McFarland “draft an internal email” stating that Trump did not ask Flynn to discuss sanctions with Russian Ambassador Sergei Kislyak, which McFarland did not do because she was not sure if the statement would be accurate. Though “evidence does not establish” that Trump was trying to make McFarland lie, the incident “highlights the President’s concern about being associated with Flynn’s conduct,” and McFarland was disturbed by the request and felt it was “irregular.”
+
+C. Conduct regarding public confirmation of the Russia investigation
+
+Obstructive act (p. 60): Though “evidence shows” that Trump reached out to intelligence community leadership, that outreach was “not interpreted … as directives to improperly interfere with the investigation.” Mueller notes that Trump’s outreach to NSA Director Mike Rogers was “significant enough that Rogers thought it important to document the encounter in a written memorandum.”
+
+Nexus (p. 60): The outreach took place following FBI Director James Comey’s announcement of the FBI’s counterintelligence and criminal investigation of Russian election interference.
+
+Intent (p. 60): “The evidence does not establish that the President asked or directed intelligence agency leaders to stop or interfere with the FBI’s Russia investigation[.]” However, “the President’s intent in trying to prevent Sessions’s recusal, and in reaching out the Coats, Pompeo, Rogers, and Comey following Comey’s public announcement of the FBI’s Russia investigation, is nevertheless relevant to understanding what motivated the President’s other actions towards the investigation.” In other words, while Trump’s actions here do not indicate intent as to the specific potentially obstructive conduct at issue in this section, they are relevant to understanding his intent as to his broader pattern of conduct toward the investigation.
+
+D. Firing of James Comey
+
+Obstructive act (p. 74): “Firing Comey would qualify as an obstructive act if it had the natural and probable effect of interfering with or impeding the investigation.” Trump’s handling of the Comey firing and his actions in the subsequent days “had the potential to affect a successor director’s conduct of the investigation,” though removing Comey “would not necessarily … prevent or impede the FBI from continuing its investigation.”
+
+Nexus (p. 75): By the time of the Comey firing, Trump was aware of both the FBI investigation into Russian election interference and the investigation into Flynn.
+
+Intent (p. 75): “Substantial evidence” indicates that Trump fired Comey because of “Comey’s unwillingness to publicly state that the President was not personally under investigation.” Mueller notes that “[s]ome evidence indicates that the President believed that the erroneous perception he was under investigation harmed his ability to manage domestic and foreign affairs”—but “[o]ther evidence … indicates that the President wanted to protect himself from an investigation into his campaign.” “The initial reliance on a pretextual justification [for Comey’s firing] could support an inference that the President had concerns about providing the real reason for the firing, although the evidence does not resolve whether those concerns were personal, personal, or both.”
+
+E. Efforts to fire Mueller
+
+Obstructive act (p. 87): Former White House Counsel Don McGahn is a “credible witness” in providing evidence that Trump indeed attempted to fire Mueller. This “would qualify as an obstructive act” if the firing “would naturally obstruct the investigation and any grand jury proceedings that might flow from the inquiry.”
+
+Nexus (p. 89): “Substantial evidence” indicates that, at this point, Trump was aware that “his conduct was under investigation by a federal prosecutor who could present any evidence of federal crimes to a grand jury.”
+
+Intent (p. 89): “Substantial evidence indicates that the President’s attempts to remove the Special Counsel were linked to the Special Counsel’s oversight of investigations that involved the President’s conduct[.]”
+
+F. Efforts to curtail Mueller
+
+Obstructive act (p. 97): Trump’s effort to force Sessions to confine the investigation to only investigating future election interference “would qualify as an obstructive act if it would naturally obstruct the investigation and any grand jury proceedings that might flow from the inquiry.” “Taken together, the President’s directives indicate that Sessions was being instructed to tell the Special Counsel to end the existing investigation into the President and his campaign[.]”
+
+Nexus (p. 97): At the relevant point, “the existence of a grand jury investigation supervised by the Special Counsel was public knowledge.”
+
+Intent (p. 97): “Substantial evidence” indicates that Trump’s efforts were “intended to prevent further investigative structiny of the President’s and his campaign’s conduct.”
+
+G. Efforts to prevent disclosure of Trump Tower emails
+
+Obstructive act (p. 105): “[T]he evidence does not establish” that Trump sought to prevent information about the Trump Tower meeting from reaching Congress or the special counsel’s office. Rather, the obfuscation “occurred in the context of developing a press strategy.”
+
+Nexus (p. 105): “[T]he existence of a grand jury investigation supervised by the Special Counsel was public knowledge, and the President had been told that the emails were responsive to congressional inquiries.” But “the evidence does not establish that the President sought to prevent disclosure” to the grand jury or to congressional inquiries.
+
+Intent (p. 105): “The evidence does not establish” that Trump intended to prevent Mueller or Congress from obtaining the information.
+
+H. Efforts to have Sessions take over the investigation
+
+Obstructive act (p. 111): This question “would not turn on what Attorney General Sessions would actually do if unrecused, but on whether the efforts to reverse his recusal would naturally have had the effect of impeding the Russia investigation. … The duration of the President’s efforts … and the fact that the President repeatedly criticized Sessions in public and private for failing to tell the President that he would have to recuse is relevant to assessing whether the President’s efforts to have Sessions unrecuse could qualify as obstructive acts.”
+
+Nexus (p. 111): At the relevant point, “the existence of a grand jury investigation supervised by the Special Counsel was public knowledge,” as well as the existence of a second grand jury empaneled in July 2017. However, “[w]hether the conduct towards the Attorney General would have a foreseeable impact on proceedings turns much of the same evidence discussed with respect to the obstructive-act element.”
+
+Intent (p. 111): “There is evidence that at least one purpose of the President’s conduct toward Sessions was to have Sessions assume control over the Russia investigation and supervise it in a way that would restrict its scope.”
+
+I. Order to McGahn to deny Trump’s order to fire Mueller
+
+Obstructive act (p. 118): This effort “would qualify as an obstructive act if it had the natural tendency to constrain McGahn from testifying truthfully or to undermine his credibility as a potential witness[.]” There is “some evidence” that Trump genuinely believed press reports that he had ordered McGahn to fire Mueller were wrong. However, “[o]ther evidence cuts against that understanding of the president’s conduct”—and the special counsel lists a great deal more evidence on this latter point.
+
+Nexus (p. 119): At this point “the Special Counsel’s use of a grand jury had been further confirmed by the return of several indictments.” Mueller’s office had indicated to Trump’s lawyers that it was investigating obstruction, and Trump knew that McGahn had already been interviewed by Mueller on the topic. “That evidence indicates the President’s awareness” that his efforts to fire Mueller were relevant to official proceedings. Trump “likely contemplated the ongoing investigation and any proceedings arising from it” in directing McGahn to create a false record of the earlier interaction.
+
+Intent (p. 120): “Substantial evidence indicates that … the President acted for the purpose of influencing McGahn’s account in order to deflect or prevent further scrutiny” of Trump.
+
+J. Conduct toward Flynn, Manafort, and unknown individual (Stone?)
+
+Obstructive act (p. 131): “The President’s actions toward witnesses … would qualify as obstructive if they had the natural tendency to prevent particular witnesses from testifying truthfully, or otherwise would have the probable effect of influencing, delaying, or preventing their testimony to law enforcement.” Though Trump’s lawyers exchange with Flynn’s lawyers “could have had the potential to affect Flynn’s decision to cooperate,” Mueller “could not determine” whether Trump had any knowledge of or involvement in the exchange. Regarding Manafort, “there is evidence that the President’s actions had the potential” to influence Manafort’s thinking on cooperation, and his public statements “had the potential to influence the trial jury.”
+
+Nexus (p. 132): Trump’s actions toward all three individuals “appear to have been connected to pending or anticipated official proceedings involving each individual.”
+
+Intent (p. 132): “Evidence concerning the President’s intent related to Flynn as a potential witness is inconclusive.” But “[e]vidence … indicates that the President intended to encourage Manafort not to cooperate with the government,” though “there are alternative explanations” for Trump’s comments during the Manafort trial.
+
+K. Conduct toward Michael Cohen
+
+Obstructive act (p. 153): “[T]he evidence available to us does not establish that the President directed or aided Cohen’s false testimony.” But “the evidence … could support an inference that the President used inducements in the form of positive messages in an effort to get Cohen not to cooperate, and then turned to attacks and intimidation to deter the provision of information or to undermine Cohen’s credibility once Cohen began to cooperate.”
+
+Nexus (p. 154): Trump was aware of investigations into Cohen by the Special Counsel’s Office, Congress, and the U.S. Attorney’s Office for the Southern District of New York.
+
+Intent (p. 155): “There is evidence that could support the inference that the President intended to discourage Cohen from cooperating with the government. … The evidence could support an inference that the President was aware of [Cohen’s efforts to continue the Moscow Project past January 2016] at the time of Cohen’s false statements to Congress. … The President’s public remarks following Cohen’s guilty plea also suggest that the President may have been concerned about what Cohen told investigators about the Trump Tower Moscow project. … The President’s concern about Cohen cooperating may have been directed at the Southern District of New York investigation into other aspects of the President’s dealings with Cohen rather than the investigation of Trump Tower Moscow. There is also some evidence that the President’s concern about Cohen cooperating was based on the President’s stated belief that Cohen would provide false testimony against the President in an attempt to obtain a lesser sentence for his unrelated criminal conduct. … Finally, the President’s statements insinuating that members of Cohen’s family committed crimes after Cohen began cooperating with the government could be viewed as an effort to retaliate against Cohen and chill further testimony adverse to the President by Cohen or others.”

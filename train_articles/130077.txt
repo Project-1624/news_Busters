@@ -1,0 +1,66 @@
+Can you trace a missing person using their phone’s IMEI number… even when it’s off?
+South Africa’s police minister tweeted that the search for missing persons could be eased if people knew the IMEI number of their loved ones’ cellphones. What is this number and can it be used to help find missing persons, even when their phone is off?
+
+In the wake of increased media coverage of people going missing, South Africa’s newly appointed police minister, took to social media to offer advice.
+
+“Assist us in finding you if the worst happens,” Minister Fikile Mbalula tweeted. “Your IMEI number can be of great use”.
+
+The minister had attached an image which encouraged the public to find out what their IMEI numbers are, as these could help trace the last or current location of the phone user “even if the sim card had been removed from ur phone [sic]” the image’s text read.
+
+“Give ur IMEI NUMBER to family and friends so that when u disappear without an explanation and ur phone is off or rings unanswered, they can make the case easy for the police by providing them with this number which can then be used to track ur movements,” it further said.
+
+Two readers asked us to check if this really works.
+
+Assist us in finding you if the worst happens. Your IMEI number can be of great use. pic.twitter.com/yZ6O7nX17r — RSA Police Minister (@MbalulaFikile) May 21, 2017
+
+What is an IMEI number?
+
+The International Mobile Equipment Identity, or IMEI, number “is essentially a serial number” Arthur Goldstuck, the managing director of technology research company World Wide Worx told Africa Check.
+
+“Every phone has a unique IMEI number. As with a human ID number, this in turn allows the phone to be linked to a range of information, including manufacturer and model number,” Goldstuck added.
+
+As Mbalula had tweeted, the number can be accessed by dialling *#06# on a cellphone, Dr Dustin van der Haar, the deputy head of the Academy of Computer Science and Software Engineering at the University of Johannesburg, told Africa Check.
+
+Court order required to trace phone
+
+Both Goldstuck and Van der Haar told Africa Check the IMEI number can be used to track the location of a mobile device.
+
+However, tracking “can only be done by the mobile network operator to which the phone is connected. Usually, this can only happen when there is a court order requiring the operator to track a specific phone,” Goldstuck said.
+
+“It is usually a last resort, and in extreme cases, as the operator is most commonly asked to trace and intercept calls via a regular phone number.”
+
+Van der Haar told Africa Check that tracking is possible but requires “the appropriate legal documentation”. The Regulation of Interception of Communications and Provision of Communication-Related Information Act (RICA) provides allowances to do this, Van der Haar added.
+
+The act allows law enforcement “to see which new SIM cards are put into a stolen device and retrieve [details of] the SIM card owner from the RICA database, thereby aiding in the investigation,” Van der Haar said.
+
+Number ‘works like a tracker’
+
+Though Brigadier Vish Naidoo, spokesman for the police’s operational services, declined to comment on the matter (stating they “are unfortunately not at liberty to discuss such matters in the public domain as it borders on police operations”) two other police officials confirmed to Africa Check that the IMEI number is used to track missing people.
+
+Police ministry spokesman Vuyo Mhaga said the IMEI number “works like a tracker” and that it “is part of the alerts we use as police to find missing persons”.
+
+Colonel Fanie van Deventer of the police’s Missing Persons Bureau confirmed that tracking a person’s location using the IMEI number is a technique the Bureau has previously used in finding missing persons.
+
+Phone can’t be traced when switched off
+
+However, using the IMEI number as a tracking tool requires certain conditions be met.
+
+“The phone can only be tracked when it connects to the mobile network,” Goldstuck told Africa Check. “When it’s switched off, it can’t be tracked, unless additional surveillance devices with their own power supply have been installed surreptitiously. This is highly unlikely if those doing the surveillance have not had direct physical access to the phone.”
+
+Although the phone needs to be powered up, a change of SIM cards won’t affect the use of the IMEI number as a tracking tool, Goldstuck and Van der Haar told Africa Check.
+
+“The IMEI number is not affected by the SIM card, so it does not matter how many times the SIM card is changed, the phone itself can still be tracked,” Goldstuck said.
+
+“Again, this would require a court order to a specific operator, and it would largely depend on the user of the phone still using the same operator or using the phone in the same geography and not having had the IMEI number changed.”
+
+Conclusion: The claim is mostly correct
+
+Police minister Fikile Mbalula tweeted that providing law enforcement with your cellphone’s IMEI number will enable them to track you “if the worst happens”.
+
+Technology experts told us that it is possible since the 15 digit IMEI number acts like a cellphone’s identity number. It can therefore help find the last or current location of a cellphone, even if the SIM card was changed.
+
+However, tracking a person’s movements or location using their cellphone’s IMEI number requires a court order. And unlike the minister tweeted, the phone can’t be traced when it’s switched off. Based on this qualifier, we rate the claim mostly correct.
+
+Edited by Anim van Wyk
+
+© Copyright Africa Check 2017. You may reproduce this piece or content from it for the purpose of reporting and/or discussing news and current events. This is subject to: Crediting Africa Check in the byline, keeping all hyperlinks to the sources used and adding this sentence at the end of your publication: “This report was written by Africa Check, a non-partisan fact-checking organisation. View the original piece on their website", with a link back to this page.

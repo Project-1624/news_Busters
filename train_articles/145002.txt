@@ -1,0 +1,126 @@
+Gas pump and ATM skimmers: How to spot and avoid them
+The content on this page is accurate as of the posting date; however, some of the offers mentioned may have expired. Please see the bank’s website for the most current version of card offers; and please review our list of best credit cards , or use our CardMatch™ tool to find cards matched to your needs.
+
+The editorial content below is based solely on the objective assessment of our writers and is not driven by advertising dollars. However, we may receive compensation when you click on links to products from our partners. Learn more about our advertising policy.
+
+Your eyes, fingers and now even your smartphone may be able to help you spot card skimmers at gas pumps and ATMs, but nothing is foolproof.
+
+“Some of the newer skimmers are almost impossible to see, even if you know what you’re looking for,” says David Tente, U.S. executive director of the ATM Industry Association.
+
+See related: Skim Reaper: The death of card skimmers?
+
+Skimmer fraud soaring at ATMs and gas pumps
+
+Sign up for our newsletter Get the latest news, advice, articles and tips delivered to your inbox. It's FREE.
+
+During 2017, the number of compromised ATMs and point-of-sale devices rose 8 percent, according to data FICO released in March 2018. Meanwhile, the number of compromised cards climbed 10 percent.
+
+That comes on the heels of a 70 percent jump in the number of payment cards compromised U.S. ATMs and merchants in 2016, according to FICO. The number of hacked card readers at U.S. ATMs, restaurants and merchants rose 30 percent in 2016. About 60 percent of those compromises were at nonbank ATMs, such as those in convenience stores.
+
+Experts also note an increase in gas pump skimmers. Florida, for example, tracks the number of skimmers found at gas stations. Florida inspectors are on pace to find card skimmers in about 1,000 gas pumps in 2018, according to the Sun-Sentinel in Fort Lauderdale. That’s up from more than 650 pumps last year and nearly 220 in 2016.
+
+The ATM EMV liability shift was in October 2016 for Mastercard and October 2017 for Visa.
+
+Gas pumps received a three-year extension on EMV transition in 2017, meaning fuel pumps will continue to be a fertile field for fraudsters with skimmers until October 2020. EMV chip technology has reduced fraud at the checkout counter since the EMV liability shift in October 2015.
+
+Until fueling pumps read EMV chip cards, gas stations will be “one of the last bastions” for thieves, says Eva Velasquez, president and CEO of the Identity Theft Resource Center.
+
+Magnetic-stripe technology, she says, lacks layers of protection. “If thieves know how to compromise that, that’s where they will go,” she says. “It’s lucrative – people wouldn’t do it if it wasn’t.”
+
+See related: How to report and protect yourself from credit card fraud and ID theft
+
+Gas pump skimming: How big a risk is it? There are no reliable statistics on the extent of skimming, since it is a local crime and not centrally tracked, but experts say it is on the rise. How big is the risk? According to the National Association for Convenience Stores: 37 million Americans refuel every day.
+
+Americans refuel every day. Of them, 29 million pay for fuel with a credit or debit card.
+
+pay for fuel with a credit or debit card. When skimming occurs at a gas station, it usually takes place at only one pump .
+
+. A single compromised pump can capture data from 30 to 100 cards per day.
+
+So how can you spot a skimmer and reduce your risk of card fraud during your travels?
+
+1. Use your eyes: Look before you insert your card.
+
+Before you slide your card in a fuel pump or ATM, take a good look at the keyboard and card reader, says Jeremy Hajek, industry associate professor of information technology and management at the Illinois Institute of Technology.
+
+“Does anything look different if this is an ATM you’ve used before?” Tente asks.
+
+Bad guys can use a 3-D printer to create a new keyboard to put on top of the real one. The keyboard might look different from the rest of the ATM, or the keys could look bigger.
+
+With fuel pumps, is the seal broken? To place a skimmer inside a fuel pump, fraudsters must open the fuel dispenser door to insert the skimmer.
+
+Station employees may place serial-numbered security tape across the dispenser door, so check to see if the tape has been broken, according to NACS, the Association for Convenience & Fuel Retailing. If there’s no tape, check to see if the dispenser door looks as though it has been forced open.
+
+Also, look inside the throat of the card reader to see if you can spot anything hidden there, Tente says. A skimmer inside a gas pump or ATM can steal the information off the magnetic stripe of your credit card or debit card.
+
+Looking deep in the throat of a card reader is exactly what a new device to find skimmers does. The “Skim Reaper,” developed by University of Florida researchers, is being field-tested with the New York Police Department, and preliminary results show the device is able to detect skimmers with high reliability.
+
+According to the University of Florida’s Steve Orlando, consumers may be able to get their hands on one of the devices in six to nine months, and it may be small enough to fit in your wallet.
+
+2. Use your fingers: If something doesn’t feel right, move on.
+
+Wiggle the ATM card reader to see if it’s loose, Tente suggests. The crooks might place a card reader on top of the existing one, he says.
+
+You should also be wary if it’s hard to insert your credit card or debit card.
+
+Some gas station credit card skimming victims have, in hindsight, remembered that the card reader had “a weird feeling, like the slot had been tampered with,” says Lt. John Faine, criminal investigations section commander in Warren County Sheriff’s Office, Lebanon, Ohio.
+
+“It wasn’t noticeable when it happened, but after the fact, they said, ‘You know what, it did feel like something was off when I put my card in.’”
+
+3. Use your phone: Apps now can alert you to possible skimmers.
+
+A free Skimmer Scanner Android app released in September 2017 scans for available Bluetooth connections looking for a device with title HC-05. How does it work? A blog post from SparkFun, the app maker, explains:
+
+“If found, the app will attempt to connect using the default password of 1234. Once connected, the letter ‘P’ will be sent. If a response of ‘M’ then there is a very high likelihood there is a skimmer in the Bluetooth range of your phone (5 to 15 feet).”
+
+If your smartphone detects a skimmer, use a different pump or go to a different gas station.
+
+How does Bluetooth relate to skimmers?
+
+In the past, bad guys had to return to the the fuel pump or ATM to retrieve skimmers. That’s not always the case now.
+
+Thieves have begun to use Bluetooth technology to glean your credit card or debit card information. The crime is called bluesnarfing or blue skimming, and the crooks can sit 100 yards away in their vehicle while credit and debit card information is transmitted to their laptop.
+
+Blue skimming is tough to detect, says Karl Sigler, threat intelligence manager at Trustwave SpiderLabs Research. Sigler has tried to do spot skimmers by checking the Bluetooth on his phone. “It’s hard to decide what’s skimming and what’s a Bluetooth headphone,” he says.
+
+A new twist on the card skimmer is a shimmer. Our Jay MacDonald first wrote about shimmers in August 2017, noting that shimmers target EMV chip cards and are hard to detect. Shimmers were rare then, but they were back in the news in spring 2018 as shimmers were detected at fuel pumps in Maryland Heights, Missouri; Pasadena, California; and a handful of Florida cities.
+
+SparkFun, the maker of the Skimmer Scanner app, received a shimmer from detectives and dissected it. In an April 30, 2018, blog post (since removed) detailing the dissection of the shimmer, the writer notes, “We may know what it’s capable of doing, but we don’t know exactly what it is doing.”
+
+See related: 3 major mobile payment security risks, and how to avoid them
+
+4. Use your common sense: Use fuel pumps and ATMs in safe places.
+
+Avoid gas pumps that are out of sight of the clerk and ATMs in areas with little traffic.
+
+“Criminals attack low-hanging fruit,” says Hayek.
+
+It’s particularly important to be cautious at nonbank ATMs, such as those located at convenience stores or nightclubs, says Michael Betron, senior director of product management at FICO.
+
+Nonbank ATMs accounted for the majority of compromised devices in 2016, he notes. Often with nonbank ATMs, “no one is around for a long time so it’s easier to get a skimmer in there,” he says.
+
+At banks, on the other hand, security is tighter, with cameras recording transactions and more people coming and going. But “bank ATMs are more profitable” for the bad guys, Betron says, as more transactions take place there.
+
+At ATMs, always cover the keyboard when you type your PIN. There might be a new cardboard box containing literature next to the ATM, which crooks set up to conceal a pinhole camera, Tente says. They use the camera to record you as you key in your PIN.
+
+There is no foolproof way to spot skimmers.
+
+The challenge comes from skimmers that are so small that they can be embedded inside the ATM, says Sigler. “It’s becoming harder and harder to physically identify skimmers that are in place.”
+
+These small skimmers can’t be spotted – even if you’re using your eyes, fingers and your common sense – he says, and the criminal needs to use a special retriever to extricate them.
+
+So what else can you do to protect your card information when you’re out shopping, using an ATM or filling your gas tank?
+
+Law officers and gas pump and ATM experts suggest:
+
+Pay inside, with cash or a credit card, rather than at the pump. There is less chance a fraudster placed a card skimmer on the payment terminal in front of the clerk inside the gas station or convenience store. However, it takes just seconds to place a skimmer on a card reader, as this video shows, if a clerk is distracted. In fact, the sheriff’s office in Austin, Texas, has urged area residents to pay for gas inside because card skimmers were so common at area fuel pumps.
+
+Choose pumps closest to a physical building. Also, for obvious personal safety reasons, do not use fuel pumps or ATMs hidden around the corner of the building. Avoid sketchy ATMs, warns CreditCards.com expert Erica Sandberg. If the ATM seems jimmied, steer clear, she says.
+
+Use a credit card, not a debit card, when you pay. If a credit card number is skimmed, you’re playing with the bank’s money and protected by the card’s zero-liability policy. A stolen debit card number could yield far worse damage. “If a debit card gets compromised, and they have your PIN, you’ve just given someone access to your cash,” says Velasquez of the Identity Theft Resource Center.
+
+Use your issuer’s fraud alerts and check your card statements. Set up fraud alerts on your credit cards. Nearly every issuer offers these, and many will email and/or text you when your card is used at a gas station. Check your credit card and debit card transactions frequently to make sure no fraudulent activity has occurred.
+
+Consider paying or withdrawing cash with your digital wallet. If you have Apple Pay, Samsung Pay or Android Pay – or your card issuer, bank or gas station’s mobile wallet – paying by phone is an incognito way to fuel up or withdraw cash at an ATM offering cardless access. By paying at phone at gas stations, your card never goes in the payment reader that may contain a skimmer. Essentially, your credit card company sends a randomly generated 16-number token or code to your smartphone as a stand-in credit card number. As our John Egan notes, you can defeat gas pump skimmers by using payment apps.
+
+See related: 6 ways to reduce your risk of skimmer fraud, How credit cards take a bite out of gas prices, Rack up card rewards on your next road trip, Gas rewards credit cards

@@ -1,0 +1,28 @@
+Daily cost of an intensive care unit day: the contribution of mechanical ventilation.
+OBJECTIVE:
+
+To quantify the mean daily cost of intensive care, identify key factors associated with increased cost, and determine the incremental cost of mechanical ventilation during a day in the intensive care unit.
+
+DESIGN:
+
+Retrospective cohort analysis using data from NDCHealth's Hospital Patient Level Database.
+
+SETTING:
+
+A total of 253 geographically diverse U.S. hospitals.
+
+PATIENTS:
+
+The study included 51,009 patients >/=18 yrs of age admitted to an intensive care unit between October 1, 2002, and December 31, 2002.
+
+INTERVENTIONS:
+
+None.
+
+MEASUREMENTS AND MAIN RESULTS:
+
+Days of intensive care and mechanical ventilation were identified using billing data, and daily costs were calculated as the sum of daily charges multiplied by hospital-specific cost-to-charge ratios. Cost data are presented as mean (+/-sd). Incremental daily cost of mechanical ventilation was calculated using log-linear regression, adjusting for patient and hospital characteristics. Approximately 36% of identified patients were mechanically ventilated at some point during their intensive care unit stay. Mechanically ventilated patients were older (63.5 yrs vs. 61.7 yrs, p < .0001) and more likely to be male (56.1% vs. 51.8%, p < 0.0001), compared with patients who were not mechanically ventilated, and required mechanical ventilation for a mean duration of 5.6 days +/- 9.6. Mean intensive care unit cost and length of stay were 31,574 +/- 42,570 dollars and 14.4 days +/- 15.8 for patients requiring mechanical ventilation and 12,931 +/- 20,569 dollars and 8.5 days +/- 10.5 for those not requiring mechanical ventilation. Daily costs were greatest on intensive care unit day 1 (mechanical ventilation, 10,794 dollars; no mechanical ventilation, 6,667 dollars), decreased on day 2 (mechanical ventilation:, 4,796 dollars; no mechanical ventilation, 3,496 dollars), and became stable after day 3 (mechanical ventilation, 3,968 dollars; no mechanical ventilation, 3,184 dollars). Adjusting for patient and hospital characteristics, the mean incremental cost of mechanical ventilation in intensive care unit patients was 1,522 dollars per day (p < .001).
+
+CONCLUSIONS:
+
+Intensive care unit costs are highest during the first 2 days of admission, stabilizing at a lower level thereafter. Mechanical ventilation is associated with significantly higher daily costs for patients receiving treatment in the intensive care unit throughout their entire intensive care unit stay. Interventions that result in reduced intensive care unit length of stay and/or duration of mechanical ventilation could lead to substantial reductions in total inpatient cost.

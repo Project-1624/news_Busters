@@ -1,0 +1,46 @@
+Cost-Sharing Reductions in CBO’s Spring 2018 Baseline
+At hearings about the Congressional Budget Office’s Budget and Economic Outlook on April 11 and April 12, I answered several questions asked by Members of Congress about how cost-sharing reductions (CSRs) have been incorporated in the agency’s baseline budget projections. Time to answer questions during the hearings was limited, so this blog post provides additional information.
+
+Background
+
+The Affordable Care Act (ACA), in section 1402, requires insurers who participate in the marketplaces established under that act to offer CSRs to eligible people who purchase silver plans through the marketplaces. CBO views that requirement as establishing an entitlement for those eligible.
+
+To qualify for CSRs, people must purchase a plan through a marketplace and generally have income between 100 percent and 250 percent of the federal poverty guidelines (also known as the federal poverty level, or FPL). The size of the subsidy varies with income.1
+
+CSRs reduce deductibles and other out-of-pocket expenses like copayments. For example, in 2017, by CBO’s estimates, the average deductible for a single policyholder (for medical and drug expenses combined) with a silver plan varied according to income in the following way:
+
+Income as a Percentage of the FPL Approximate Deductible (Dollars) Above 250 (Without CSRs) 3,600 Between 200 and 250 2,900 Between 150 and 200 800 Between 100 and 150 300
+
+Individuals with income generally between 100 percent and 400 percent of the FPL are also eligible for tax credits to help cover a portion of their premiums. The size of those premium tax credits varies with income and premiums.
+
+Before October 12, 2017, the federal government reimbursed insurers for the cost of CSRs through a direct payment. However, on that date, the Administration announced that, without an appropriation for that purpose, it would no longer make such payments to insurers. Because insurers are still required to offer CSRs and to bear their costs even without a direct payment from the government, most have covered those costs by increasing premiums for silver plans offered through the marketplaces for the 2018 plan year. (For the most part, insurers did not increase premiums for other plans to cover the cost of CSRs because the CSR entitlement is not available for those plans.)
+
+Budgetary Treatment
+
+Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985, which specifies rules for constructing CBO’s baseline, requires that the agency assume full funding of entitlement authority.2 CBO and the staff of the Joint Committee on Taxation (JCT) have long viewed the requirement that the federal government compensate insurers for CSRs as a form of entitlement authority. On that basis, CBO included the CSR payments as direct spending (that is, spending that does not require appropriation action) in the agency’s June 2017 baseline.
+
+For the spring 2018 baseline, CBO and JCT project that the entitlement for subsidies for CSRs is being funded through higher premiums and larger premium tax credit subsidies instead of a direct payment. The projection reflects the manner in which insurers are currently reimbursed for the cost of providing CSRs to eligible enrollees in light of the Administration’s change in policy in October 2017. That approach complies with section 257 of the Deficit Control Act because the CSR entitlement is assumed to be fully funded. The revised baseline treatment of CSRs’ means of financing was made by CBO after consultation with the House and Senate Budget Committees.
+
+On the basis of an analysis of insurers’ rate filings, CBO and JCT estimate that gross premiums for silver plans offered through the marketplaces are, on average, about 10 percent higher in 2018 than they would have been if CSRs were funded through a direct payment. The agencies project that the amount will grow to roughly 20 percent by 2021.
+
+Effect on the Baseline
+
+The size of premium tax credits is linked to the premiums for the second-lowest-cost silver plans offered through the marketplaces: Out-of-pocket payments for premiums for enrollees who are eligible for subsidies are based on a percentage of their income, and the government pays the difference through the premium tax credits. As a result, in CBO’s projections, higher gross premiums for silver plans increase the amount of tax credits paid by the federal government, thereby covering insurers’ costs for CSRs. Higher gross premiums for silver plans do not significantly affect the out-of-pocket payments that subsidized enrollees pay for premiums for silver plans offered through the marketplaces because the structure of the premium tax credit largely insulates them from those increases.
+
+For plans besides silver ones, insurers in most states have not increased gross premiums much, if at all, to cover the costs of CSRs. Because the premium tax credits are primarily based on the income levels of enrollees and not the nature of the plan they choose, enrollees could use those credits to cover a greater share of premiums for plans other than silver ones in those states. For example, more people are able to use their higher premium tax credits to obtain bronze plans, which cover a smaller share of benefits than silver plans, for free or for very low out-of-pocket premiums. Also, some people with income between 200 percent and 400 percent of the FPL can purchase gold plans, which cover a greater share of benefits than do silver plans, with similar or lower premiums after tax credits. As a result of those changes, in most years, between 2 million and 3 million more people are estimated to purchase subsidized plans in the marketplaces than would have if the federal government had directly reimbursed insurers for the costs of CSRs.
+
+In CBO’s projections, higher gross premiums for silver plans affect premiums for people who are not eligible for premium tax credits (most of whom have income above 400 percent of the FPL). However, many of those enrollees have options for purchasing other plans to avoid paying the premium increases resulting from the Administration’s policy change in October 2017. Just as insurers in most states have not increased premiums for plans other than silver ones much to cover the costs of CSRs, insurers in many states have not increased the premiums of silver plans sold outside the marketplaces to cover the costs of CSRs either. Therefore, many people who are not eligible for subsidies are able to select a plan besides a silver one or a silver plan sold outside the marketplaces and avoid paying the premium increases related to the lack of a direct appropriation for CSRs.
+
+Future Cost Estimates
+
+In recent cost estimates for legislation that would appropriate funding for the payment of CSRs, CBO and JCT estimated that the appropriation would not affect direct spending or revenues because such payments were already incorporated in CBO’s baseline projections.3 After consulting with the budget committees about the baseline and about cost estimates relative to that baseline, the agency will continue that practice.
+
+For legislation that would change the means of funding the CSR entitlement, CBO will estimate that enactment would not affect the federal deficit—because the obligations stemming from the entitlement can be fully satisfied through either a direct payment or higher premiums and larger premium tax credit subsidies. However, if legislation was enacted that appropriated funds for direct payments for CSRs, the agency would update its baseline projections to incorporate those appropriations and to reflect lower premium tax credits and other effects—because insurers would no longer increase gross premiums for silver plans offered through the marketplaces to cover the costs of providing CSRs.
+
+Keith Hall is CBO’s Director.
+
+1 In most marketplaces, people can choose among plans—such as bronze, silver, and gold—for which the portion of covered medical expenses paid by the insurer differs. The average percentage of covered expenses paid by the insurer is called the actuarial value of the plan. Silver plans differ from other plans because they must provide CSRs to eligible enrollees. For people at most income levels, the actuarial value of a silver plan is 70 percent; however, people who qualify for CSRs are eligible for silver plans with higher actuarial values: 73 percent for people with income between 200 percent and 250 percent of the FPL; 87 percent for people with income between 150 percent and 200 percent of the FPL; and 94 percent for people with income between 100 percent and 150 percent of the FPL. The actuarial values of bronze and gold plans are 60 percent and 80 percent, respectively.
+
+2 2 U.S.C. §907(b)(1) (2012). Entitlement authority is authority for federal agencies to incur obligations to make payments to entities that meet the eligibility criteria set in law.
+
+3 See Congressional Budget Office, cost estimate for the Bipartisan Health Care Stabilization Act of 2018 (March 19, 2018).

@@ -1,0 +1,20 @@
+Expanding Fact-Checking to Photos and Videos
+By Antonia Woodford, Product Manager
+
+We know that people want to see accurate information on Facebook, so for the last two years, we’ve made fighting misinformation a priority. One of the many steps we take to reduce the spread of false news is working with independent, third-party fact-checkers to review and rate the accuracy of content. To date, most of our fact-checking partners have focused on reviewing articles. However, we have also been actively working to build new technology and partnerships so that we can tackle other forms of misinformation. Today, we’re expanding fact-checking for photos and videos to all of our 27 partners in 17 countries around the world (and are regularly on-boarding new fact-checking partners). This will help us identify and take action against more types of misinformation, faster.
+
+How does this work?
+
+Similar to our work for articles, we have built a machine learning model that uses various engagement signals, including feedback from people on Facebook, to identify potentially false content. We then send those photos and videos to fact-checkers for their review, or fact-checkers can surface content on their own. Many of our third-party fact-checking partners have expertise evaluating photos and videos and are trained in visual verification techniques, such as reverse image searching and analyzing image metadata, like when and where the photo or video was taken. Fact-checkers are able to assess the truth or falsity of a photo or video by combining these skills with other journalistic practices, like using research from experts, academics or government agencies.
+
+As we get more ratings from fact-checkers on photos and videos, we will be able to improve the accuracy of our machine learning model. We are also leveraging other technologies to better recognize false or misleading content. For example, we use optical character recognition (OCR) to extract text from photos and compare that text to headlines from fact-checkers’ articles. We are also working on new ways to detect if a photo or video has been manipulated. These technologies will help us identify more potentially deceptive photos and videos to send to fact-checkers for manual review. Learn more about how we approach this work in an interview with Tessa Lyons, Product Manager on News Feed.
+
+How do we categorize false photos and videos?
+
+Based on several months of research and testing with a handful of partners since March, we know that misinformation in photos and videos usually falls into three categories: (1) Manipulated or Fabricated, (2) Out of Context, and (3) Text or Audio Claim. These are the kinds of false photos and videos that we see on Facebook and hope to further reduce with the expansion of photo and video fact-checking.
+
+(See more details on these examples from the fact-checkers’ debunking articles: Animal Politico, AFP, France 24, and Boom Live).
+
+What’s different about photos and videos?
+
+People share millions of photos and videos on Facebook every day. We know that this kind of sharing is particularly compelling because it’s visual. That said, it also creates an easy opportunity for manipulation by bad actors. Based on research with people around the world, we know that false news spreads in many different forms, varying from country to country. For example, in the US, people say they see more misinformation in articles, whereas in Indonesia, people say they see more misleading photos. However, these categories are not distinct. The same hoax can travel across different content types, so it’s important to build defenses against misinformation across articles, as well as photos and videos.

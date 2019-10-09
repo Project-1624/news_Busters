@@ -1,0 +1,20 @@
+Congress Slips CISA Into a Budget Bill That's Sure to Pass
+Update 12/18/2015 12pm: The House and Senate have now passed the omnibus bill, including the new version of CISA.
+
+Privacy advocates were aghast in October when the Senate passed the Cybersecurity Information Sharing Act by a vote of 74 to 21, leaving intact portions of the law they say make it more amenable to surveillance than actual security. Now, as CISA gets closer to the President's desk, those privacy critics argue that Congress has quietly stripped out even more of its remaining privacy protections.
+
+In a late-night session of Congress, House Speaker Paul Ryan announced a new version of the "omnibus" bill, a massive piece of legislation that deals with much of the federal government's funding. It now includes a version of CISA as well. Lumping CISA in with the omnibus bill further reduces any chance for debate over its surveillance-friendly provisions, or a White House veto. And the latest version actually chips away even further at the remaining personal information protections that privacy advocates had fought for in the version of the bill that passed the Senate.
+
+"They took a bad bill, and they made it worse," says Robyn Greene, policy counsel for the Open Technology Institute.
+
+CISA had alarmed the privacy community by giving companies the ability to share cybersecurity information with federal agencies, including the NSA, "notwithstanding any other provision of law." That means CISA's information-sharing channel, ostensibly created for responding quickly to hacks and breaches, could also provide a loophole in privacy laws that enabled intelligence and law enforcement surveillance without a warrant.
+
+The latest version of the bill appended to the omnibus legislation seems to exacerbate that problem. It creates the ability for the president to set up "portals" for agencies like the FBI and the Office of the Director of National Intelligence, so that companies hand information directly to law enforcement and intelligence agencies instead of to the Department of Homeland Security. And it also changes when information shared for cybersecurity reasons can be used for law enforcement investigations. The earlier bill had only allowed that backchannel use of the data for law enforcement in cases of "imminent threats," while the new bill requires just a "specific threat," potentially allowing the search of the data for any specific terms regardless of timeliness.
+
+Senator Ron Wyden also spoke out against the changes to the bill in a press statement, writing they'd worsened a bill he already opposed as a surveillance bill in the guise of cybersecurity protections. "Americans deserve policies that protect both their security and their liberty," he wrote. "This bill fails on both counts." Senator Richard Burr, who had introduced the earlier version of bill, didn't immediately respond to a request for comment.
+
+Even in its earlier version, CISA had drawn the opposition of tech firms including Apple, Twitter, and Reddit, as well as the Business Software Alliance and the Computer and Communications Industry Association. In April, a coalition of 55 civil liberties groups and security experts signed onto an open letter opposing it. In July, the Department of Homeland Security itself warned that the bill could overwhelm the agency with data of “dubious value” at the same time as it “sweep[s] away privacy protections.”
+
+That Senate CISA bill was already likely on its way to become law. The White House expressed its support for the bill in August, despite its threat to veto similar legislation in the past. But the inclusion of CISA in the omnibus package may make it even more likely to be signed into law in its current form. Any "nay" vote in the house—or President Obama's veto—would also threaten the entire budget of the federal government.
+
+"They’re kind of pulling a Patriot Act," says OTI's Greene. "They’ve got this bill that’s kicked around for years and had been too controversial to pass, so they’ve seen an opportunity to push it through without debate. And they’re taking that opportunity."

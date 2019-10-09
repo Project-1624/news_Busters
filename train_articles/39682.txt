@@ -1,0 +1,52 @@
+OFLC Performance Data
+OFLC annually issues a report presenting employment-based cumulative immigration program data and analysis based on applications submitted to the Department by employers across the country. The OFLC annual reports include information about the labor certification and labor attestation programs that are administered by OFLC including the temporary, H-1B, H-1B1 (Chile/Singapore), E-3 (Australia), H-2A, H-2B, and D-1 visa categories which enable employers to hire temporary foreign workers, as well as the permanent labor certification program which enables employers to secure permanent residence for foreign workers. The OFLC annual reports provide internal and external stakeholders with a context for understanding the Department's role in the immigration system.
+
+The Office of Foreign Labor Certification is making available program factsheets displaying key selected statistics about each of our major immigration programs. These factsheets include cumulative information and are updated on a quarterly basis.
+
+This page allows the public to access the latest quarterly and annual disclosure data in easily accessible formats for the purpose of performing in-depth longitudinal research and analysis. OFLC case disclosure data is available for download by the federal fiscal year cycle covering the October 1 through September 30 period (all disclosure data sets are saved in the Microsoft Excel (.xls) file format). Each data set is cumulative, containing unique records identified by the applicable OFLC case number, and any noticeable typographical or other data anomalies may be due to internal data entry or other external customer errors in completing the application form.
+
+Select data fields for each case record are extracted from foreign labor certification application tables within OFLC case management systems based on the most recent date a determination decision was issued. Please refer the File Structure document for each field title and respective field description.
+
+Please refer to our Disclosure Data User Guide that provides an example of how, using Microsoft Excel, the data can be filtered or sorted to provide relevant information specific to your needs.
+
+Important Notice: Employer-specific case information that appears on this website (and FLCDataCenter.com) was provided to OFLC by employers who submitted foreign labor certification applications. These are not employer responses to the Bureau of Labor Statistics' Occupational Employment Statistics (BLS-OES) survey. The BLS-OES program provides estimates used to assist in setting the wage levels in the FLC wage library. However, the BLS does not provide OFLC with the wage rates reported to BLS by individual businesses. The identity of respondents and the information that they report to BLS is kept in strict confidence in accordance with BLS Data Integrity Guidelines and with the Confidentiality Information Protection and Statistical Efficiency Act (CIPSEA) of 2002.
+
+For H-2A Case Disclosure Data Only: The H-2A public disclosure files contain administrative data from employers' H-2A Applications for Temporary Employment Certification (ETA Form 9142) and the certification determinations processed by OFLC.
+
+When using the H-2A program data, you will notice that there are multiple case records displaying the same case number (CASE_NO). This reflects the way in which the Department receives and processes H-2A applications filed by more than one employer (i.e., either (a) an association of agricultural producers who will jointly employ workers with one or more of its employer members; or (b) two or more individual employers who intend to jointly employ the workers. When these H-2A applications are received by OFLC, they are assigned a single unique case number, and the first employer named on the application is data-entered as the "master" record. Each subsequent joint employer is data-entered as a "sub" record under the same case number. Therefore, when analyzing H-2A program use, it is recommended to use the total number of workers certified (NBR_WORKERS_CERTIFIED) listed on the "master" record (i.e., the first employer record listed in the series of duplicate case numbers), which represents the total unique number of workers certified for the entire H-2A application, including all of the "sub" employer records.
+
+Analysis of H-2A program data using the "sub" employer records should be done with caution because the sum of the number of workers certified (NBR_WORKERS_CERTIFIED) for the "sub" employer records may or may not equal the number of workers certified for the "master" record. For example:
+
+When the sum of the workers certified for the "sub" employer records results in a number that is smaller than the number of workers certified in the "master" record, this likely means that the association of agricultural employers will directly employ the remaining workers full-time;
+
+When the sum of the "sub" employer records is greater than the "master" record, this likely means that a rush change was made during case processing to the total number of workers, as reflected in the "master" record, and that change was not successfully reflected in the case management record(s) for affected "sub" employer(s), before the certification was issued (in compliance with statutory/regulatory processing times) to the association or the individual employer listed as the "master" record;
+
+When a "sub" employer record reflects "0" workers certified, this likely means that an employer's farm or ranch is being used to house the workers that will be employed by one or more other "sub" employers listed on the H-2A application.
+
+Finally, although each "sub" employer record may reflect a specific, positive number of workers certified, it is important to understand that an associations of agricultural employers has the authority to transfer more workers than requested, or fewer workers than requested, to each of its "sub" employers depending on that employer's need in relation to changing weather or market conditions to plant, cultivate, or harvest crops.
+
+The following case disclosure files cover determinations issued between October 1, 2018 through December 31, 2018. A small percentage of determinations are subject to change in subsequent quarterly releases due to appeal or redetermination decisions on employer applications.
+
+OFLC Program FY 2019 Disclosure File File Structure PERM PERM_FY2019.xlsx PERM_Record_Layout_FY19.doc Prevailing Wage PW_Case_Data_FY2019.xlsx PW_Record_Layout_FY19.doc H-1B H-1B_FY2019.xlsx H1B_Record_Layout_FY19.doc H-2A H-2A_FY2019.xlsx H-2A_Record_Layout_FY19.doc H-2B H-2B_FY2019.xlsx H-2B_Record_Layout_FY19.doc
+
+Historical Case Disclosure Data
+
+Where available, OFLC program disclosure files for prior fiscal years are also available on our Foreign Labor Certification Data Center website at www.flcdatacenter.com.
+
+OFLC has become aware of an anomaly in the published Prevailing Wage Disclosure datasets titled "PERM_FY 2013.xlsx" and "PERM_FY 2014_Q2." The error is with respect to the listing of wage levels (Level I-IV) under the column "Pwd_Wage_Level" for all H-2B wage determinations issued on or after April 24, 2013. Effective April 24, 2013 wage levels I-IV were no longer issued for all H-2B wages, and the wage level listed on the disclosure dataset is inaccurate. H-2B OES Wages were and are issued at the OES mean wage.
+
+PERM Program
+
+H-2A Program
+
+H-2B Program
+
+LCA Programs (H-1B, H-1B1, E-3)
+
+Prevailing Wage Program
+
+(1)In FY 2009 the iCert Visa Portal System replaced the H-1B Legacy System. Consequently, two FY 2009 H-1B data disclosure files were published-the "H-1B Case Data FY2009" file for applications processed through the iCERT Visa Portal System beginning on April 15, 2009 and the "H-1B Efile Case Data FY2009" file for applications processed through the H-1B Legacy System.
+
+(2)Disclosure data includes prevailing wage determinations issued from the OFLC iCERT Visa Portal System between January 20 and September 30, 2010 when employers began electronic filing of requests for prevailing wage determinations.
+
+(3)Prior to January 1, 2010, all prevailing wage determinations were received and processed by State Workforce Agencies. No national level electronic record data are available.

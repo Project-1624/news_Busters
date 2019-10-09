@@ -1,0 +1,198 @@
+Chart Check: Did Obama's Graphics 'Enhance' His Big Speech?
+Wonky
+
+Chart Check: Did Obama's Graphics 'Enhance' His Big Speech?
+
+These days, Washington is crawling with fact checkers who scour political speeches looking for errors and lies.
+
+But sometimes, even accuracy can be misleading, especially when it comes to graphics and charts. On Tuesday night, President Obama gave his State of the Union address and the White House launched an "enhanced" experience, a multimedia display with video, 107 slides and 27 charts.
+
+We'll let the fact checkers chase down the numbers. What we wanted to know is whether the graphic designs enhanced our understanding of the information in the president's speech. We reviewed several of the charts, with a little help from Stephen Few, an information design expert and author of the popular data guide Show Me the Numbers, and Nathan Yau, who runs a leading data visualization and statistics blog, FlowingData.com.
+
+Here's what we found:
+
+Natural Gas Wells
+
+whitehouse.gov
+
+Overall, Few said Obama's team created well-designed charts that presented information "simply, clearly and honestly."
+
+But he questioned some in which design flaws affected the "integrity of the data," including this one about natural gas wells.
+
+"This graph depicting growth in natural gas wells suffers from a problem related to the quantitative scale, specifically the fact that it does not begin at zero. Although it is not always necessary to begin the scale of a line graph at zero, in this case because the graph was shown to the general public, narrowing the scale to begin at 400,000 probably exaggerated people's perception of the degree in change."
+
+"What this reveals that isn't obvious in the SOTU graph is that the number of natural gas wells did not increase to a great degree — roughly 14 percent. The only reason to narrow the scale would be to highlight the fact that from 2009 to 2010 the number of wells decreased, but then rose again in the following year. In other words, the number decreased slightly during the early days of the Obama administration, but has started back up since. The following display, which combines two graphs — one with a zero-based scale and one with a narrowed scale — tells the story more comprehensively."
+
+Stephen Few/for NPR
+
+— Matt Stiles/NPR
+
+12 Of The Hottest Years On Record
+
+whitehouse.gov
+
+This graph appears to use data from NASA's Goddard Institute for Space Studies (topmost graph) — but the labeling has been changed. The y-axis (which runs up and down) label on the NASA graph says "Temperature Anomaly (°C)," while the White House graphic's y-axis label says "Global Surface Temperature," with no units. They do, at least, label the line as representing a five-year running mean.
+
+Also, the x-axis line is heaviest at -0.4 degrees, rather than at 0 degrees. This is potentially misleading, making the warming trend look even more dramatic at a glance.
+
+It also would make the information more clear if the labels on the y-axis intervals used "0.6," "0.4," etc., rather than ".6," ".4," etc., to underscore that these are fractions of degrees rather than whole degrees.
+
+— Alyson Hurt/NPR
+
+Job Training
+
+whitehouse.gov
+
+We see two inverse statements here about education in the workforce. But it really seems as if the level of education required in American jobs has just simply gone up in the past few decades.
+
+If nearly 75 percent of jobs in 1973 required a high school education or less, the assumption is that 25 percent of jobs required more than high school training. And that number can be easily compared with the projected 66 percent of jobs in 2020 that will require "training beyond high school."
+
+This (see Page 4) might be the data source.
+
+Below is a quick chart that shows the trend even more clearly than all those chairs:
+
+i Andrew Prince/NPR Andrew Prince/NPR
+
+— Andrew Prince/NPR
+
+Social Security
+
+whitehouse.gov
+
+First, the initial data point (for 1959) appears to start higher than the y-axis line, so you don't know what the number really is. The y-axis should be resized to fit all the data in the chart. Also, the y-axis would be easier to read with cleaner intervals — for example, 35%, 30%, etc., instead of 33.5%, 28.5%, etc.
+
+Second, there's no explanation for the dotted line between 1959 and (I think) 1965. (My guess is that figures were not available for the intervening years.)
+
+There's also no marker to show when Social Security went into effect.
+
+I also find myself looking for context. How does the poverty rate among seniors compare over time with the overall poverty rate in the U.S.?
+
+The statistic at the very bottom — "Without Social Security, 43% of elderly Americans would have incomes below the poverty line" — also could use some explanation and context. The graph above doesn't illustrate the point.
+
+— Alyson Hurt/NPR
+
+U.S. Energy-Related CO 2 Emissions
+
+whitehouse.gov
+
+We found that the data behind this chart match up with what the U.S. Energy Information Administration reports in its table of U.S. Macroeconomic Indicators and CO 2 Emissions. But the y-axis is too compressed and as a result the chart exaggerates the trend a bit.
+
+Given the size of the numbers, the chart might be easier to read if the units of measure were changed from millions of metric tons to billions. And it would help to display the actual numbers for 1994 (5.24 billion metric tons), 2012 (5.28 billion metric tons) and maybe the highest point in the chart (6.01 billion metric tons in 2007).
+
+This also is another example of a chart that didn't have zero-based y-axes. "It's OK to do this, but the thick axis line for 5,000 makes it look like that's as low as it can go," Yau said. "It would've worked better if the axis line was the same color as the grid lines above it."
+
+— Alyson Hurt and Matt Stiles/NPR
+
+Doubling Renewable Electricity Generation
+
+whitehouse.gov
+
+The use of red for solar and orange for geothermal makes them bleed together a bit, which can be confusing, especially against the more striking light blue for wind. More distinct colors would aid in legibility.
+
+The narrow focus of the chart — just renewable electricity — raises questions about how this compares with nonrenewable energy sources, like coal and oil. How large a share of overall energy production does renewable energy represent? Has that share increased?
+
+Also, to underscore the graphic's title — that renewable energy generation has doubled — it would help to include the overall number for each year so readers of the chart don't have to guess.
+
+— Alyson Hurt/NPR
+
+Domestic Oil Production
+
+whitehouse.gov
+
+This is another case where the information on the chart actually goes off the scale. The 2012 bar is actually taller than the y-axis line, so you don't really know how high it is.
+
+In addition, it feels odd that a tiny slice of the 2009 bar is colored red (to reflect the tenure of former President George W. Bush). It might have been simpler to color the full bar blue and change the label above to reflect the date that President Obama took office. If crediting a particular president is truly important, the chart should use more granular data (monthly or weekly, if available) or present the data as a line chart instead of bars.
+
+— Alyson Hurt/NPR
+
+Our Troops Are Coming Home From Afghanistan
+
+whitehouse.gov
+
+Annotating discrete data points as this chart does can be helpful to tease out the story in a bunch of numbers, but that's not a replacement for properly labeled axes. And this chart has none.
+
+The second and more serious issue is the treatment of the x-axis scale along the bottom, which Few calls "a misrepresentation of time." The data set contains dates at irregular intervals, but the space between each one is presented as if the time between them is roughly the same.
+
+"Values for these dates should be separated from one another by distances that accurately represent the actual passage of time. The graph below positions the dates correctly," Few said.
+
+"Notice that in this version of the graph, I did not connect the values with lines. Straight lines connecting these irregular dates suggest a smooth rate of change in troop levels from one to the next, which is not the case. Also, I made the final value appear different from the others because it is a future forecast, not an actual value that we can rely on with confidence."
+
+Yau said a "straightforward timeline" would have been more useful, and he had concerns about axis labeling:
+
+Stephen Few/for NPR
+
+"The label on the bottom looks like the axis label, which it isn't, because the horizontal axis is time, and the bottom label is actually for the vertical axis. The lead-in title 'Our troops are coming home ...' also would suggest that the chart shows number of troops coming home, especially since 'coming home' is in yellow and the troop counts are also in yellow."
+
+— Danny DeBelius/NPR
+
+China And The U.S. Are Matching Pace
+
+whitehouse.gov
+
+Is this a failed attempt at a Venn diagram or a proportional symbol chart gone horribly awry?
+
+Either way, this chart is silly. The difference in investment that the chart is trying to highlight is so small it's hard to see any difference in the size of the two circles.
+
+Plus, having them overlap draws attention to the point where they are connected, but that doesn't actually mean anything. This is a case where a chart doesn't really help. The numbers tell the story on their own.
+
+— Danny DeBelius/NPR
+
+Science And Engineering
+
+whitehouse.gov
+
+Few also found fault with the chart depicting new jobs in science and engineering:
+
+"The chart [above] suffers from unnecessary cuteness. In an attempt to decorate the chart by using pencils as bars to tie thematically to science and engineering jobs (at least they didn't use pocket protectors), the chart caused the number of new engineering technician and new physical scientist jobs to appear less than they actually are compared to the others. This is because the tip of the pencil narrows down to a point and thus has less visual weight than the rest. As a result, because these two categories of jobs were represented almost entirely by pencil tips, we tend to perceive their values as less than they are."
+
+He continued: "A simple graph with normal bars, such as the following, would have represented the information more clearly:"
+
+Stephen Few/for NPR
+
+— Matt Stiles/NPR
+
+Jobs
+
+whitehouse.gov
+
+This chart attempts to visualize job losses and gains during Obama's presidency. The chart notes the job losses the country experienced during the Great Recession that began under George W. Bush's administration, with Republican red bars indicating that time period. That politicizes data that are primarily economic.
+
+The chart lacks some historical context that would help to show the extent of job losses in recent years. In the version we created below, we added more years and used red to indicate negative values, not political party:
+
+Matt Stiles/NPR
+
+— Matt Stiles/NPR
+
+Deficit Reduction
+
+whitehouse.gov
+
+This stacked chart describes the administration's approach to the nation's debt problems by separating spending cuts, new revenue and interest savings.
+
+The chart says the new revenue, in green, is the smallest chunk of the "progress" section, at $600 billion. But on the chart the green block is actually smaller than the interest section, at $500 billion. Maybe we're nitpicking — but it's incorrect.
+
+It would have made the chart more useful (and readable) if the units of measure had been standardized. Having trillions and billions appearing on the same chart can be misleading at worst and hard to follow at best.
+
+— Matt Stiles and Alyson Hurt/NPR
+
+Stock Market
+
+whitehouse.gov
+
+The stock market may indeed be at a five-year high, but the x-axis in the chart shows a decade of data, with red and blue colors again showing the split between administrations.
+
+Again, that brings political colors into a chart that already notes when Obama took office. It's also unclear why the chart showing the Bush years is partially faded.
+
+— Matt Stiles/NPR
+
+Veterans Jobs
+
+whitehouse.gov
+
+This column chart shows growth in the government program known as "Joining Forces," which seeks to help former military members find work. At minimum, the chart could benefit from clearer labeling.
+
+The bars appear to represent cumulative totals — the total number of veterans and spouses hired between August 2011 and a given month — rather than single-month numbers. But the labeling doesn't make that clear. (Finding jobs for 125,000 veterans and spouses in the single month of August 2012 would be remarkable indeed.)
+
+Yau said the "chart looks like a standard time series, but I bet most people would miss that the chart is cumulative. Kind of like this one from BP a couple of years ago. Not that they're doing anything dishonest, but for a wide audience, I'd be concerned with how people interpreted the graph."
+
+— Matt Stiles and Alyson Hurt/NPR

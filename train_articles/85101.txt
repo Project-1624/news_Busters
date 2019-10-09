@@ -1,0 +1,102 @@
+Global Analysis - June 2013
+Report: ----- National ----- National Overview Drought Wildfires Hurricanes & Tropical Storms National Snow & Ice Tornadoes Synoptic Discussion ----- Global ----- Global Analysis Upper Air Global Snow & Ice Global Hazards El Niño/Southern Oscillation ----- Entire Report ----- Year: 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000 1999 1998 Month: January February Winter March April May Spring June July August Summer September October November Autumn December Annual
+
+Note: The data presented in this report are preliminary. Ranks and anomalies may change as more complete data are received and processed. Effective September 2012, the GHCN-M version 3.2.0 dataset of monthly mean temperature replaced the GHCN-M version 3.1.0 monthly mean temperature dataset. Beginning with the August 2012 Global monthly State of the Climate Report, released on September 17, 2012, GHCN-M version 3.2.0 is used for NCDC climate monitoring activities, including calculation of global land surface temperature anomalies and trends. For more information about this newest version, please see the GHCN-M version 3.2.0 Technical Report. *The GHCN-M version 3.1.0 Technical Report was revised on September 5, 2012 to accurately reflect the changes incorporated in that version. Previously that report incorrectly included discussion of changes to the Pairwise Homogeneity Algorithm (PHA). Changes to the PHA are included in version 3.2.0 and described in the version 3.2.0 Technical Report. Please see the Frequently Asked Questions to learn more about this update.
+
+Contents of this Section:
+
+Collapse ↑ Note: GHCN-M Data Notice An omission in processing a correction algorithm led to some small errors on the Global Historical Climatology Network-Monthly dataset (GHCN-M v3.2.0). This led to small errors in the reported land surface temperatures in the October, November, December and Annual U.S. and global climate reports. On February 14, 2013, NCDC fixed this error in its software, included an additional improvement (described below), and implemented both changes as GHCN-M version 3.2.1. With this update to GHCN-M, the Merged Land and Ocean Surface Temperature dataset also is subsequently revised as MLOST version 3.5.3. The net result of this new version of GHCN-M reveals very small changes in temperature and ranks. The 2012 U.S. temperature is 0.01°F higher than reported in early January, but still remains approximately 1.0°F warmer than the next warmest year, and approximately 3.25°F warmer than the 20th century average. The U.S. annual time series from version 3.2.1 is almost identical to the series from version 3.2.0 and that the 1895-2012 annual temperature trend remains 0.13°F/decade. The trend for certain calendar months changed more than others (discussed below). For the globe, ranks of individual years changed in some instances by a few positions, but global land temperature trends changed no more than 0.01°C/century for any month since 1880. NCDC uses two correction processes to remove inhomogeneities associated with factors unrelated to climate such as changes in observer practices, instrumentation, and changes in station location and environment that have occurred through time. The first correction for time of observation changes in the United States was inadvertently disabled during late 2012. That algorithm provides for a physically based correction for observing time changes based on station history information. NCDC also routinely runs a .pairwise correction. algorithm that addresses such issues, but in an indirect manner. It successfully corrected for many of the time of observation issues, which minimized the effect of this processing omission. The version 3.2.1 release also includes the use of updated data to improve quality control and correction processes of other U.S. stations and neighboring stations in Canada and Mexico. Compared to analyses released in January 2013, the trend for certain calendar months has changed more than others. This effect is related to the seasonal nature of the reintroduced time-of-observation correction. Trends in U.S. winter temperature are higher while trends in summer temperatures are lower. For the globe, ranks of individual years changed in some instances by a few positions, but global temperature trends changed no more than 0.01°C/century for any month since 1880. More complete information about this issue is available at this supplemental page. NCDC will not update the static reports from October through December 2012 and the 2012 U.S and Global annual reports, but will use the current dataset (GHCN-M v. 3.2.1 and MLOST v. 3.5.3) for the January 2013 report and other comparisons to previous months and years. Collapse ↑
+
+Global Highlights
+
+The combined average temperature over global land and ocean surfaces for June 2013 tied with 2006 as the fifth highest on record, at 0.64°C (1.15°F) above the 20 th century average of 15.5°C (59.9°F).
+
+century average of 15.5°C (59.9°F). The global land surface temperature was 1.05°C (1.89°F) above the 20 th century average of 13.3°C (55.9°F), marking the third warmest June on record. For the ocean, the June global sea surface temperature was 0.48°C (0.86°F) above the 20 th century average of 16.4°C (61.5°F), the 10 th warmest June on record.
+
+century average of 13.3°C (55.9°F), marking the third warmest June on record. For the ocean, the June global sea surface temperature was 0.48°C (0.86°F) above the 20 century average of 16.4°C (61.5°F), the 10 warmest June on record. The combined global land and ocean average surface temperature for the January–June period (year-to-date) was 0.59°C (1.06°F) above the 20th century average of 13.5°C (56.3°F), tying with 2003 as the seventh warmest such period on record.
+
+Introduction
+
+Temperature anomalies and percentiles are shown on the gridded maps below. The anomaly map on the left is a product of a merged land surface temperature (Global Historical Climatology Network, GHCN) and sea surface temperature (ERSST.v3b) anomaly analysis developed by Smith et al. (2008). Temperature anomalies for land and ocean are analyzed separately and then merged to form the global analysis. For more information, please visit NCDC's Global Surface Temperature Anomalies page. The June 2013 Global State of the Climate report introduces percentile maps that complement the information provided by the anomaly maps. These new maps on the right provide additional information by placing the temperature anomaly observed for a specific place and time period into historical perspective, showing how the most current month, season or year compares with the past.
+
+[ top ]
+
+Temperatures
+
+In the atmosphere, 500-millibar height pressure anomalies correlate well with temperatures at the Earth's surface. The average position of the upper-level ridges of high pressure and troughs of low pressure—depicted by positive and negative 500-millibar height anomalies on the June 2013 map—is generally reflected by areas of positive and negative temperature anomalies at the surface, respectively.
+
+June
+
+June 2013 tied with 2006 as the fifth warmest June across global land and ocean surfaces, at 0.64°C (1.15°F) above the 20th century average of 15.5°C (59.9°F). The warmth was distributed fairly evenly between the hemispheres, with the Northern Hemisphere observing its fifth warmest June on record and the Southern Hemisphere tying with 2002 as sixth warmest. Over land surfaces alone, the average global temperature was 1.05°C (1.89°F) above average, making this the third highest for June on record. According to the Land & Ocean Temperature Percentiles map above, monthly record warmth was observed over much of northern Canada, far northwestern Russia, southern Japan, the Philippines, part of southwestern China, and central southern Africa. It was cooler than average across part of central Asia, central India, western Europe, and far northeastern Canada. No record cold was observed over land areas during the month.
+
+Spain observed its coolest June since 1997, with the average monthly temperature 0.3°C (0.5°F) below the 1971–2000 average. The north central region of the country had the coolest anomalies, with temperatures as much as 2°C (4°F) below average.
+
+
+
+The United Kingdom temperature was 0.2°C (0.4°F) below the long-term average for June; however, it was also the warmest June since 2010 according to the UK Met Office. In England, East Anglia observed its coolest June since 1995.
+
+
+
+Much of Croatia, was warmer than the 1961–1990 average. Scattered areas in the northwestern part of the country were "very warm" (falling within the 91 st –98 th percentile), according to Drzavni Hirometeoroloski Zavod.
+
+–98 percentile), according to Drzavni Hirometeoroloski Zavod.
+
+June was warmer than average across all of Japan, with temperatures ranging from 0.3°C to 1.4°C (0.5°F to 2.5°F) above the 1981–2010 average. According to the Japan Meteorological Agency, Hokuriku in eastern Japan and the southern island of Okinawa had temperatures that were significantly above average.
+
+
+
+Select national information is highlighted below:
+
+The June 2013 globally-averaged temperature across ocean surfaces was the 10th highest in the 134-year period of record, at 0.48°C (0.86°F) above the 20th century average. Record warmth was observed in parts of the Arctic Seas, the central Sea of Okhotsk, part of the equatorial western Pacific, and a region in the central southern Pacific. Much of the remainder of the western Pacific was much warmer than average, while the main development region for Atlantic hurricanes (10°N–20°N) was near average to warmer than average, helping make this area conducive for hurricane formation. Across the eastern and central equatorial Pacific Ocean, ENSO conditions remained neutral for the 15th straight month; below-average sea surface temperatures were observed in the eastern equatorial Pacific while near-average temperatures were seen across the central equatorial Pacific. According to NOAA's Climate Prediction Center, neutral conditions are favored into the Northern Hemisphere fall 2013. Images of sea surface temperature conditions are available for all weeks during 2013 from the weekly SST page.
+
+June Anomaly Rank
+
+(out of 134 years) Records °C °F Year(s) °C °F Global Land +1.05 ± 0.14 +1.89 ± 0.25 Warmest 3rd 2012 +1.19 +2.14 Coolest 132nd 1885, 1907 -0.64 -1.15 Ocean +0.48 ± 0.04 +0.86 ± 0.07 Warmest 10th 1998 +0.59 +1.06 Coolest 125th 1909, 1911 -0.50 -0.90 Land and Ocean +0.64 ± 0.08 +1.15 ± 0.14 Warmest 5th 2010 +0.69 +1.24 Coolest 130th 1911 -0.46 -0.83 Ties: 2006 Northern Hemisphere Land +1.06 ± 0.15 +1.91 ± 0.27 Warmest 5th 2012 +1.37 +2.47 Coolest 130th 1907 -0.72 -1.30 Ocean +0.53 ± 0.05 +0.95 ± 0.09 Warmest 5th 2005, 2009 +0.62 +1.12 Coolest 130th 1910 -0.53 -0.95 Ties: 2002 Land and Ocean +0.73 ± 0.11 +1.31 ± 0.20 Warmest 5th 2010, 2012 +0.81 +1.46 Coolest 130th 1913 -0.52 -0.94 Southern Hemisphere Land +1.03 ± 0.14 +1.85 ± 0.25 Warmest 2nd 2005 +1.13 +2.03 Coolest 133rd 1911 -0.91 -1.64 Ocean +0.45 ± 0.05 +0.81 ± 0.09 Warmest 12th 1998 +0.61 +1.10 Coolest 123rd 1911 -0.55 -0.99 Ties: 2007 Land and Ocean +0.54 ± 0.06 +0.97 ± 0.11 Warmest 6th 1998 +0.63 +1.13 Coolest 129th 1911 -0.60 -1.08 Ties: 2002
+
+The most current data may be accessed via the Global Surface Temperature Anomalies page.
+
+[ top ]
+
+Year-to-date (January–June)
+
+With ENSO-neutral conditions present during the first half of 2013, the January–June global temperature across land and ocean surfaces tied with 2003 as the seventh warmest such period, at 0.59°C (1.06°F) above the 20th century average. The global land temperature was the sixth highest for January–June since records began in 1880, with the Southern Hemisphere land areas fourth warmest for the period and the Northern Hemisphere land areas eighth warmest. According to the Land & Ocean Temperature Percentile map above, a region of coastal west Africa, part of Greece, northwestern Iran, much of the southern Philippines, and central and south central Australia were record warm for the period. The global ocean temperature was tied with 2007 and 2009 as the seventh highest for January–June, with the Indian Ocean south of Australia, the Black Sea, small sections of the Arctic Ocean, and part of the equatorial western Pacific having record warmth. No record cold regions over land or water were observed for the January–June period.
+
+The most current data may be accessed via the Global Surface Temperature Anomalies page.
+
+[ top ]
+
+Precipitation
+
+The maps below represent precipitation percent of normal (left) and precipitation percentiles (right) based on the GHCN dataset of land surface stations using a base period of 1961–1990. As is typical, precipitation anomalies during June 2013 varied significantly around the world. As indicated by the June precipitation percentiles map below, the eastern United States and much of India were much wetter than average, with record rainfall across portions of India. Record precipitation was also observed in part of central North America and in eastern Europe around Moldova and the Ukraine. Record dryness was present across southeastern Algeria, eastern Niger, and parts of the Ivory Coast and Ghana in Africa, as well as part of the southwestern United States, a region of eastern Australia, and far northwestern Russia.
+
+Some regions in New Zealand were record wet for June. According to NIWA, eastern and northern parts of the South Island and southern and southeastern parts of the North Island had the most anomalous rainfall, two to four times higher than the monthly average in some regions.
+
+
+
+June was drier than average across the Republic of the Marshall Islands in the western Pacific Ocean as drought gripped the area. A state of disaster had been declared for the northern region on May 8 th and was renewed on June 7 th , with the atolls of Wotje and Utirik hardest hit. Please visit the June U.S. drought report for more details.
+
+and was renewed on June 7 , with the atolls of Wotje and Utirik hardest hit. Please visit the June U.S. drought report for more details.
+
+Northern Austria was wet for June, with rainfall up to 1.5 times higher than average. Several areas, including Bregenz, Rohrbach, Laa an der Thaya, and Vienna observed record monthly precipitation. This contrasts with regions to the south of the Alps, which were dry. Preliminary data indicate that Villach likely had its driest June since local records began in 1888, according to ZAMG.
+
+
+
+Norway had its fourth wettest June since national records began in 1900, with average rainfall 60 percent higher than the monthly average.
+
+
+
+June marks the onset of the southwest Asian monsoon season. For the month, India as a whole received rainfall 27 percent above the 1951–2000 average, according to the India Meteorological Department. Northwest India received nearly double (+97 percent) its June average; flooding devastated regions in Uttarakhand. Only the region of East and Northeast India was below average (-37 percent) for the month.
+
+[ top ]
+
+References
+
+Peterson, T.C. and R.S. Vose, 1997: An Overview of the Global Historical Climatology Network Database. Bull. Amer. Meteorol. Soc., 78, 2837-2849.
+
+Quayle, R.G., T.C. Peterson, A.N. Basist, and C. S. Godfrey, 1999: An operational near-real-time global temperature index. Geophys. Res. Lett., 26, 333-335.
+
+Smith, T.M. and R.W. Reynolds, 2005: A global merged land air and sea surface temperature reconstruction based on historical observations (1880-1997), J. Clim., 18, 2021-2036.
+
+Smith et al., 2008, Improvements to NOAA's Historical Merged Land-Ocean Surface Temperature Analysis (1880-2006), J. Climate., 21, 2283-2293.
+
+[ top ]

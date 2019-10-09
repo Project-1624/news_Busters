@@ -1,0 +1,65 @@
+User Guide
+
+TARP Tracker Overview
+
+Timeline Event Details
+
+How to use the TARP Tracker
+
+Date Range Slider
+
+The Date Range Slider will allow you to filter the data in the graphs and timeline by month and year. To change the date range, click and drag the date markers to adjust the time period for the graphs and the timeline. The arrows at each end of the slider allow you to increase/decrease the current selected date range. The data for each month is based on the TARP Update for the last day of the month.
+
+
+
+
+
+Program Tabs
+
+
+
+There are six tabs that you can click on to filter the graphs and timeline data.
+
+All: Shows data for all TARP programs
+
+AIG: Shows AIG specific data. AIG data is represented by the color red.
+
+Auto: Shows specific data for the Automotive Industry Financing Program (AIFP). Auto data is represented by the color green.
+
+Bank: Shows specific data for Bank Investment Programs. Bank data is represented by the color blue.
+
+Credit: Shows specific data for Credit Market Programs. Credit data is represented by the color orange.
+
+Housing: Shows specific data for Housing Programs under TARP. Housing data is represented by the color purple.
+
+Timeline
+
+Timeline events are grouped by month and year, and are in chronological order from top to bottom. A scroll bar will appear to the right of the timeline when the number of events exceeds the timeline’s viewing pane.
+
+Timeline Events
+
+To view the details of a timeline event, click on the event and the details window will pop-up and overlay on top of the TARP Tracker page. Some events may contain attachments or links to other sources related to that specific event. When finished, you can return to the TARP Tracker by closing the event. You can close the event by using the close button or by clicking within the darkened area that surrounds the event details.
+
+TARP Reports
+
+Daily TARP Update
+
+This report provides a daily snapshot on the amount of funds disbursed and recovered to date for each individual TARP program, as well as additional financial information. This report is updated after each business day. Dividends and Interest Report
+
+This report include information on all dividend and interest payments received on TARP investments in the previous month. These reports are released on the 10th of every month (or the first business day following the 10th when it falls on a weekend or holiday). Making Home Affordable Program Performance Report
+
+Each month Treasury releases a Making Home Affordable Program Performance Report, which provides detailed metrics on the Making Home Affordable (MHA) Program. Once per quarter, the MHA report is expanded to include detailed assessments of the performance of servicers participating in the Making Home Affordable program. Treasury provides information about servicer performance through two types of data: Compliance data, which reflects servicer compliance with specific MHA guidelines; and
+
+Program results data, which reflects how timely and effectively servicers assist eligible homeowners and report program activity. Monthly Report to Congress
+
+This report, formerly known as the 105(a) report, provides a monthly overview of how TARP funds have been used, how much has been recovered, the latest cost estimates for TARP, the program's operating expenses, and other information on the program. The report is issued pursuant to Section 105(a) of the Emergency Economic Stabilization Act of 2008. Treasury publishes it on the 10th of each month (or the first business day following the 10th, when it falls on a weekend or holiday). Public Private Investment Program Quarterly Report
+
+Treasury produces a quarterly report on PPIP that provides detailed information on the funds, their investments, and returns. It is typically released within one month after the end of each quarter. Annual Agency Financial Report
+
+These annual reports contain the financial statements for TARP, the Government Accountability Office's (GAO) audit opinion on those financial statements, a separate opinion on OFS' internal controls over financial reporting, and results of GAO's tests of OFS' compliance with selected laws and regulations. The AFR is produced annually for the prior fiscal year and released during the last quarter of the calendar year. TARP Housing Transaction Reports
+
+TARP Housing Transaction Reports show TARP investments in Making Home Affordable, the Hardest Hit Fund, and the FHA Short Refinance Program and are updated to reflect transactions such as periodic adjustments to MHA program participation caps and MHA incentive payments. Transactions Reports are published to this website within two business days of the completion of any new transaction. TARP Investment Program Transaction Reports
+
+Transactions Investment Program Reports provide transaction-level detail for all TARP programs except housing programs. Information found in these report includes: investment amount, capital repayments, warrant dispositions, and exchanges. Transactions Reports are published to this website within two business days of the completion of any new transaction.
+
+Definitions:

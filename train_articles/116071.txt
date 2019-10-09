@@ -1,0 +1,46 @@
+Illinois biometrics lawsuits may help define rules for Facebook, Google
+It’s annoying enough when hackers get your credit card number and you have to change it. But what would you have to do if they got your thumbprint?
+
+Biometric identifiers — which include fingerprints, retina or iris scans and facial scans — have become part of everyday life as consumers use them to easily tag their friends in photos or use thumbprints to open their iPhones. Privacy advocates say the collection of biometric identifiers could put consumers at risk, but others worry too-strict laws could hinder innovation.
+
+In 2017, class-action lawsuits pertaining to an Illinois law will progress — eventually deciding how companies can collect and use consumers' biometrics.
+
+The Illinois Biometric Information Privacy Act, which passed in 2008, says no private entity can gather and keep an individual’s biometric information without prior notification and written permission from that person. The Illinois law is considered to be strict in that it allows for private citizens to sue companies that collect their data without meeting those requirements. Recently, the law has become the subject of a slew of lawsuits against tech giants Facebook, Google, Shutterfly and Snapchat, with consumers claiming their biometric information was handled illegally.
+
+Though the Illinois law isn't new, the blitz of suits is, said Jennifer Lynch, a senior staff attorney at the Electronic Frontier Foundation, a nonprofit digital rights group.
+
+“Even though the law passed in 2008, there haven’t really been any cases challenging companies’ practices under that law,” Lynch said. “It’s the first time we’ll have a judge interpret the law and see if it applies to a company like Facebook. And if a judge finds that it does apply, then that can have ramifications for the rest of the country — because it could require Facebook to change their practices.”
+
+The Foundation was among groups that struck back at an attempt to amend the law last year.
+
+“I think that companies more and more will be moving to use biometric data as an identifier in the future, and we could see a world in which we’re no longer identified by our Social Security number or our driver's license, but actually by a biometric,” Lynch said. “That could be a big security risk, because you can change a driver's license number or a Social Security number if there’s identity theft or fraud, but you can’t change your biometric information.”
+
+In December, a Cook County judge approved a settlement related to the Illinois law. L.A. Tan Enterprises agreed to pay $1.5 million to a class of customers after allegedly sharing customers' fingerprint scans — which were used by customers to check in — with an out-of-state, third-party software vendor.
+
+One of the most-watched suits has been from three Illinois men against Facebook, alleging the tech giant’s collection, storage, and subsequent use biometric information without informed consent. Facebook has facial recognition software that uses an algorithm to calculate a number based on someone's features, which it then uses to suggest photo tags. But the company points out that users can turn that that feature off.
+
+Groups like the Internet Association, the trade group that represents tech companies including Facebook and Amazon, say the lawsuits allege billions of dollars in damages without any evidence of actual consumer harm for technical violations of the Illinois statute.
+
+"Companies looking to innovate on their products and services should not be penalized today for something that may or may not happen in the future," said Abigail Slater, the group's general counsel.
+
+The suit is in the discovery phase through Feb. 3, though there's a possibility that period will be extended, said Paul Geller, an attorney with Robbins Geller Rudman & Dowd, one of the firms representing the plaintiffs.
+
+The suit may hinge on whether users were sufficiently informed about how their Facebook data would be used, said Matthew Kugler, an assistant professor at the Northwestern University Pritzker School of Law.
+
+Kugler published a study in 2016 on whether privacy policy language was irrelevant to consumers, in the wake of the biometric lawsuits in Illinois. Among other subjects, the study looked at how intrusive users found Facebook's policies.
+
+“We did ask 'how much do you mind,' and they said they minded it a fair bit,” Kugler said. “But there’s an extent to which someone wonders if that's cheap talk, because you don’t have to have a Facebook account.”
+
+And these kind of suits can be tricky when the potential of privacy harm may not be known until well in the future.
+
+“We don’t know now which privacy we’re going to wish we protected five years from now,” Kugler said.
+
+But our biometric information is out there, whether we like it or not, and whether we use Facebook or not, said Anil Jain, a professor in the Department of Computer Science & Engineering at Michigan State University. He pointed out that our faces are available to our employers and law enforcement.
+
+“If it was such a security pitfall, then people should have been worried about their face images in the driver license database and university ID cards,” he said. Imagine a stolen facial image being used to unlock the door to a smart home.
+
+But Jain said security is catching up with those kinds of potential high-tech hoodwinks. He said face-recognition systems are being beefed up to distinguish a live face versus a photo, called “liveness detection.” Other technology, like one built by China-based Goodix, include biometric fingerprint scanners that can sense that they’re being unlocked by a human finger.
+
+Other researchers are looking at how biometrics might be supplemented with other security methods to keep consumers safe. Jeremy Hajek, an industry associate professor of information technology and management at Illinois Tech, said multiple-factor authentication will be a must.
+
+“Anything, whether it’s a voice pattern, a fingerprint, a retinal scan, (is) reduced to some kind of mathematical representation — it’s reduced to a giant code. Maybe a big code with ... billions or trillions of possibilities, but in the end, it’s no different than a password you have for your email,” Hajek said. “Anything digital can be copied or intercepted.”

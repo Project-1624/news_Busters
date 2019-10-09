@@ -1,0 +1,20 @@
+PERI: Toxic 100 Water Polluters Index
+Explanatory notes (also see the technical notes): Toxic Hazard: Pounds released directly to surface water plus pounds estimated released post-treatment multiplied by chemical-specific toxicity weights. Sources: (1) pounds released and transferred: US EPA's Toxics Release Inventory, 2009; (2) toxicity weights and post-treatment release estimator: US EPAs Risk Screening Environmental Indicators, version 2.3.0. For details, see Technical Notes.
+
+
+
+
+
+Toxics released directly to surface water and pounds transfered to sewage treatment: Millions of pounds of toxic chemicals released directly to water on-site at each TRI facility or transferred off-site to POTWs for sewage treatment, without weighting for toxicity.
+
+
+
+
+
+Total toxics released to surface water: Millions of pounds ot toxic chemical released directly to water on-site plus estimated post-treatment release to surface water of toxic chemical transfered to POTWs for sewage treatment.
+
+
+
+
+
+Coverage: This table presents the RSEI Hazard for companies and agencies reporting to the US EPAs Toxics Release Inventory. Individual facilities are assigned to corporate parents on the basis of 2011 information on the ownership structure.

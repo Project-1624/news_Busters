@@ -1,0 +1,222 @@
+(PDF) Concerns about Infrasound from Wind Turbines
+30 Acoustics Today , July 2013
+
+Infrasound
+
+I nfra sou nd has been defin ed as:
+
+“ Acou st ic oscil lat ions who se f re-
+
+quency is b elow the low frequency
+
+limit of audible sound (about 16 Hz). ”
+
+(IEC 1994)
+
+How ever, sound remain s audi ble a t
+
+frequ encies well below 16 Hz. For exam-
+
+ple, me asur emen ts of hearing thresho ld
+
+hav e been made down to 4Hz for expo-
+
+sure i n an acoust ic chamber (W atanab e
+
+and M øller 1990) and do wn to 1.5 Hz fo r
+
+earph one liste ning (Y eo wart et al. 1 967).
+
+The limit o f 16 Hz, o r more com-
+
+monl y co nsidered as 20 H z, arises from the lowe r frequen cy
+
+limi t for which the standa rdized equal loud ness hearin g con-
+
+tour s have been measured , not f rom t he lower l imit of hea ring.
+
+Fro m the subje ctive point of v iew, th ere is no lo gical reaso n for
+
+termi nati ng a contin uous process of h earing a t an arbitra ry fre-
+
+quen cy , so th at fro m abou t 10Hz to 10 0Hz could be t aken as the
+
+low f requ ency ra nge. I t may also be ar gued th at there is no log-
+
+ical reason for termin atin g at 100 Hz, and the range is some-
+
+times extended to about 200Hz and down to 5Hz. How ever,
+
+objec tors to wi nd turb ine dev elopmen ts are no w requ esting
+
+that measu reme nts a re mad e down to bel ow 1H z.
+
+Atmospheric infrasound
+
+This is a well-established discipline, studying f requencies
+
+from about o ne c ycle in 1000 seconds u p to, say , 2Hz and
+
+higher (Bedard and George 2000). Atmospheric infrasounds
+
+are caused by weather va riations, turbulence, meteori tes, dis-
+
+tant explosions, ocean waves in teracting (microbaroms) or
+
+waves breaking on the s hore, practically any occurrence
+
+which puts energy into the a tmosphere over a relatively short
+
+period of time a nd any process with a low repetition rate. The
+
+attenuatio n with distance is small and propagation can be
+
+complex. Monito r ing of atmospheric infrasound is an essen-
+
+tial part of ensuring the success of the Nuclear T est Ban
+
+T reaty, since explosions in the air generate inf rasound, and
+
+there are about 60 monitoring stations around the world.
+
+Of course, it is important to realise that our evol ution has
+
+been in the presence of na turally occurring atmospheric
+
+infrasound, which overlaps t he lo wer end o f wind turb ine
+
+infrasound.
+
+The Apollo Space Programme
+
+Early work on low frequency noise an d its sub jective
+
+effects was stimulated by the Apollo space p rogramme. I t was
+
+known tha t large la unch vehicles p roduce their maxim um
+
+noise energy in the inf rasound region. Furthermore, as the
+
+vehicle accelerates, the crew com partment is subjected to
+
+boundary layer turbulence noise for a
+
+few minu tes after lift-off. Experiments
+
+were carried out in low frequency noise
+
+chambers on short term subjective to l-
+
+erance to bands of noise at levels of
+
+140dB to 150dB in the range up to
+
+100Hz (Mohr, Cole et al. 1965). I t was
+
+concluded that subjects who were expe-
+
+rienced in noise exposure, and who
+
+were wearing ear protection, could t ol-
+
+erate both broad¬band and discrete fre-
+
+quency noise in the range 1Hz to 100Hz
+
+at sound pres sure levels up to 150dB.
+
+Later work suggests that, for 24 hour
+
+exposure, levels of 120-130dB are tolerable below 20Hz (von
+
+Gierke 1973, von Gierke and Nixon 1976). These high, long-
+
+term limits were set to prevent direct physiological damage.
+
+It was not suggested that the exposure is pleasant, or subjec-
+
+tively acceptable, for anybody except those whose occupation
+
+requires them to be expos ed to the noise.
+
+W ork was also in progress in the UK (Y eowart, Bryan et
+
+al. 1969, H o od and Leventhall 1971) and France (Gavreau,
+
+Condat et al. 1966, Gavreau 1968) from the 1960s and in
+
+Japan and Scandina vi a from the 1970s (Møller 1980, Y amada
+
+1980). Japan and Scandinavia are now the main centres for
+
+work on infrasound and lo w frequency noise. A review of
+
+studies of low f requency noise has been given by Leventhall
+
+(Leventhall, Benton et al. 2003)
+
+Origins of the Concerns
+
+The e arly American work was published from the mid-
+
+dle 1960s and did not attract public a ttention, but a few years
+
+later infrasound entered u p on its “ mythologi cal” phase,
+
+echoes of which still occur, currently in relation to wind tur-
+
+bines. The main name associ ated with the early phase is that
+
+of Gavreau from CNRS Marseille, whose work was in
+
+progress at the same time as t hat of the Apollo space pro-
+
+gramme. (Gavreau, Condat et al. 1966, Gavrea u 1968).
+
+Infrasound at 7H z from a defective industrial fan, which ma y
+
+have been operating at an unstable point on its characteristic,
+
+led to investigations o f the problem and to the design of high
+
+intensity low frequency s ound sources. The frequencies and
+
+levels reported in Gavreau (1968) were:
+
+Frequency Hz Reported level dB
+
+2600 Not given
+
+340 155dB
+
+196 160dB
+
+37 Not given
+
+7 Not given
+
+CONCERNS ABOUT INFRASOUND FROM WIND TURBINES
+
+Geoff Leven thall
+
+150 Craddocks Ave
+
+Ashtead, Surrey KT21 1NL
+
+United Kingdom
+
+“It appea rs that concerns over
+
+infrasou nd and low frequency
+
+noise have found a place deep
+
+in the national psyc he of a
+
+number of coun tries and lie
+
+waiti ng for a trigger to bring
+
+them to the surface. ”
+
+v9i3_pfinal_rev3_ECHOES fall 04 final 8/27/13 2:22 PM Page 30

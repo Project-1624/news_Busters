@@ -1,0 +1,148 @@
+Backscatter X-ray
+[1] Backscatter technology produces an image that resembles a chalk etching.
+
+Backscatter X-ray is an advanced X-ray imaging technology. Traditional X-ray machines detect hard and soft materials by the variation in x-ray intensity transmitted through the target. In contrast, backscatter X-ray detects the radiation that reflects from the target. It has potential applications where less-destructive examination is required, and can operate even if only one side of the target is available for examination.
+
+The technology is one of two types of whole-body imaging technologies that have been used to perform full-body scans of airline passengers to detect hidden weapons, tools, liquids, narcotics, currency, and other contraband. A competing technology is millimeter wave scanner. One can refer to an airport security machine of this type as a "body scanner", "whole body imager (WBI)", "security scanner" or "naked scanner".[2]
+
+Deployments at airports [ edit ]
+
+In the United States, the FAA Modernization and Reform Act of 2012 required that all full-body scanners operated in airports by the Transportation Security Administration use "Automated Target Recognition" software, which replaces the picture of a nude body with the cartoon-like representation.[3] As a result of this law, all backscatter X-ray machines formerly in use by the Transportation Security Administration were removed from airports by May 2013, since the agency said the vendor (Rapiscan) did not meet their contractual deadline to implement the software.[4]
+
+In the European Union, backscatter X-ray screening of airline passengers was banned in 2012 to protect passenger safety, and the deployment at Manchester Airport was removed.[5]
+
+Technology [ edit ]
+
+Backscatter technology is based on the Compton scattering effect of X-rays, a form of ionizing radiation. Unlike a traditional X-ray machine, which relies on the transmission of X-rays through the object, backscatter X-ray detects the radiation that reflects from the object and forms an image. The backscatter pattern is dependent on the material property and is good for imaging organic material.
+
+In contrast to millimeter wave scanners, which create a 3D image, backscatter X-ray scanners will typically only create a 2D image. For airport screening, images are taken from both sides of the human body.[6]
+
+Backscatter X-ray was first applied in a commercial low-dose personnel scanning system by Dr. Steven W. Smith.[7][8][9] Smith developed the Secure 1000 whole-body scanner in 1992 and then sold the device and associated patents to Rapiscan Systems, who now manufactures and distributes the device.
+
+The following companies manufacture commercial backscatter X-ray devices that are used in security scanning applications with price ranging from $250,000 to $2,000,000:
+
+Large scale [ edit ]
+
+RVACIS
+
+Rapiscan GaRDS
+
+Mobile Search
+
+ZBV, by AS&E
+
+MVACIS (Gamma Ray)
+
+Some backscatter X-ray scanners can scan much larger objects, such as trucks and containers. This scan is much faster than a physical search and could potentially allow a larger percentage of shipping to be checked for smuggled items, weapons, drugs, or people.[16]
+
+The "Z Backscatter Van", or ZBV, from AS&E is a mobile backscatter X-ray machine in a van, which "from the outside looks like an ordinary delivery van, allowing it to blend in to urban and other landscapes". It is being promoted as a means of examining the contents of vehicles, containers, and dumpsters. Unlike many of the truck-based scanners, it has no "arm" that deploys from the van to be able to scan other vehicles passing through, therefore allowing larger items and objects to be scanned in comparison to the limitations in width and height of "scanning arms".[17]
+
+Other companies in the industry are Smiths Detection and Rapiscan.[18]
+
+There are also gamma-ray-based systems coming to market, like the MVACIS.[19]
+
+In May 2011, the Electronic Privacy Information Center filed suit against the United States Department of Homeland Security (DHS) under the Freedom of Information Act, claiming that DHS had withheld nearly 1000 pages of documents related to the Z backscatter vans and other mobile backscatter devices.[20]
+
+Concerns [ edit ]
+
+Legality [ edit ]
+
+Since in addition to weapons, these machines are designed to be capable of detecting drugs, currency and contraband, which have no direct effect on airport security and passenger safety, some have argued that the use of these full body scanners is a violation of the 4th Amendment to the United States Constitution and can be construed as an illegal search and seizure.[21]
+
+Privacy [ edit ]
+
+An image of Susan Hallowell, Director of the Transportation Security Administration's research lab taken with backscatter x-ray system.
+
+Backscatter x-ray technology has been proposed as an alternative to personal searches at airport and other security checkpoints easily penetrating clothing to reveal concealed weapons. It raises privacy concerns about what is seen by the person viewing the scan. Some[who?] worry that viewing the image violates confidential medical information, such as the fact a passenger uses a colostomy bag, has a missing limb or wears a prosthesis, or is transgender.
+
+The ACLU and the Electronic Privacy Information Center are opposed to this use of the technology. The ACLU refers to backscatter x-rays as a "virtual strip search".[22] According to the Transportation Security Administration (TSA), in one trial 79 percent of the public opted to try backscatter over the traditional pat-down in secondary screening.[23]
+
+It is "possible for backscatter X-raying to produce photo-quality images of what's going on beneath our clothes", thus, many software implementations of the scan have been designed to distort private areas.[24] According to the TSA, further distortion is used in the Phoenix airport's trial system where photo-quality images are replaced by chalk outlines.[25][26] The TSA has also commented that screening procedures such as having the screener viewing the image located far away from the person being screened could be a possibility.[citation needed]
+
+In light of this, some journalists have expressed concern that this blurring may allow people to carry weapons or certain explosives aboard by attaching the object or substance to their genitals.[24][27]
+
+The British newspaper The Guardian has revealed concern among British officials that the use of such scanners to scan children may be illegal under the Protection of Children Act 1978, which prohibits the creation and distribution of indecent images of children. This concern may delay the introduction of routine backscatter scanning in UK airports, which had been planned in response to the attempted Christmas Day 2009 attack on Northwest Airlines Flight 253.[28]
+
+The Fiqh Council of North America have also issued the following fatwa in relation to full-body scanners:
+
+It is a violation of clear Islamic teachings that men or women be seen naked by other men and women. Islam highly emphasizes haya (modesty) and considers it part of faith. The Quran has commanded the believers, both men and women, to cover their private parts.[29]
+
+In August 2010, it was reported[30][who?] that U.S. Marshals (part of the Department of Justice),[31] saved thousands of images from a low resolution MM wave scanner: This machine does not show details of human anatomy, and is a different kind of machine from the one used in airports. TSA, part of the Department of Homeland Security, said that its scanners do not save images and that the scanners do not have the capability to save images when they are installed in airports,[32] but later admitted that the scanners are required to be capable of saving images for the purpose of evaluation, training and testing.[33][34]
+
+Health effects [ edit ]
+
+Unlike cell phone signals, or millimeter-wave scanners, the energy being emitted by a backscatter X-ray is a type of ionizing radiation that breaks chemical bonds. Ionizing radiation is considered carcinogenic even in very small doses but at the doses used in airport scanners this effect is believed to be negligible for an individual.[35][36][37][38] If 1 million people were exposed to 520 scans in one year, one study estimated that roughly four additional cancers would occur due to the scanner, in contrast to the 600 additional cancers that would occur from the higher levels of radiation during flight.[39]
+
+Since the scanners do not have a medical purpose, the United States Food and Drug Administration (FDA) does not need to subject them to the same safety evaluations as medical X-rays.[40] However, the FDA has created a webpage comparing known estimates of the radiation from backscatter X-ray body scanners to that of other known sources, which cites various reasons they deem the technology to be safe.[41]
+
+Four professors at the University of California, San Francisco, among them members of NAS and an expert in cancer and imaging, in an April 2010 letter[42] to the presidential science and technology advisor raised several concerns about the validity of the indirect comparisons the Food and Drug Administration used in evaluating the safety of backscatter x-ray machines.[43] They argued that the effective dose is higher than claimed by the TSA and the body scanner manufacturers because the dose was calculated as if distributed throughout the whole body, whereas most of the radiation is absorbed in the skin and tissues immediately underneath. Other professors from the radiology department at UCSF disagree with the claims of the signing four professors.[44]
+
+The UCSF professors requested that additional data be made public detailing the specific data regarding sensitive areas, such as the skin and certain organs, as well as data on the special (high-risk) population. In October 2010, the FDA and TSA responded to these concerns.[45][46] The letter cites reports which show that the specific dose to the skin is some 89,000 times lower than the annual limit to the skin established by the NCRP. Regarding the UCSF concerns over the high-risk population to sensitive organs, the letter states that such an individual "would have to receive more than 1,000 screenings to begin to approach the annual limit".[47][48][49]
+
+John Sedat, the principal author of the UCSF letter, responded in November 2010 that the White House's claim that full-body scanners pose no health risks to air travelers is in "error," adding that the White House statement has "many misconceptions, and we will write a careful answer pointing out their errors."[50]
+
+In a December 2, 2010 letter to the House of Representatives, Dr. Steven Smith, inventor of the body scanner in 1991, stated that the concerns of Brenner and UCSF regarding the skin dose of backscatter scanners is incorrect and the result of a confusion between dose and imaging penetration. Smith demonstrated this difference with two experiments using plastic (with a similar rate of absorption as body tissue), copper (the image subject), and an x-ray scanner. The dose-penetration experiment shows that 5 and 50 mm (0.20 and 1.97 in) plastic samples absorb 5% and 50% of the beam intensity respectively, whereas the imaging penetration experiment shows that 4.8 and 10 mm (0.19 and 0.39 in) plastic samples reduce the image darkness by 23% and 50% respectively. Dr. Smith states that those who calculate high skin dosage have incorrectly used the shallow imaging penetration value of a few millimeters (~0.16 in), whereas the actual dosage is calculated by the deeper dose penetration.[51]
+
+The TSA has also made public various independent safety assessments of the Secure 1000 Backscatter X-ray Scanner.[52][53][54][55]
+
+Radiation safety authorities including the National Council on Radiation Protection and Measurements, The Health Physics Society and the American College of Radiology, have stated that there is no specific evidence that full-body scans are unsafe.[56] The Secure 1000 Backscatter X-ray scanner was developed in 1992 by Dr. Steve Smith.[9] The scanner has been studied extensively for almost 20 years by the leading independent radiation safety authorities in the United States.[56][57] Experimental and epidemiological data do not support the proposition, however, that there is a threshold dose of radiation below which there is no increased risk of cancer.[58]
+
+The UK Health Protection Agency has completed an analysis of the X-ray dose from backscatter scanners and has written that the dose is extremely low and "about the same as people receive from background radiation in an hour".[59]
+
+The Health Physics Society (HPS) reports that a person undergoing a backscatter scan receives approximately 0.05 μSv (0.005 mrem) of radiation; American Science and Engineering Inc. reports 0.09 μSv (0.009 mrem). At the high altitudes typical of commercial flights, naturally occurring cosmic radiation is considerably higher than at ground level. The radiation dose for a six-hour flight is 20 μSv (2 mrem) – 200 to 400 times larger than a backscatter scan. The U.S. Nuclear Regulatory Agency limits radiation exposure to the public to less than 1 mSv (100 mrem) per year from nuclear power plants.[60] While this is not specifically for airline-associated radiation, the limit is an effective proxy for understanding what level is deemed safe by a regulatory agency.
+
+According to a draft[needs update] standard on the United States FDA website, the allowable dose from a scan would be 0.1 μSv, and that report uses a model whereby a 0.01 μSv dose increases an individual's risk of death by cancer during his or her lifetime by 5×10−10.[61] Since the dose limit is ten times higher than 0.01 μSv, their model would predict one additional cancer death per 200 million scans. Since the airports in the UK handled 218 million passengers in 2009,[62] if all passengers in the UK were scanned at the maximum dosage, then each year this would produce on average one additional cancer death (since there would be 200 million scans per year that the scanners were in operation), though usually each death would not occur in the same year as the particular scan that caused it, since the cancer may take years to grow. In addition, additional people would be given cancer but would die from other causes.
+
+There may not yet be evidence of hereditary effects of x-rays administered by backscatter scanners, but backscatter scanners use the same kind of x-ray photons as are produced in medical x-ray machines but expose the subject at a considerably lower dose, so it is possible that the results from medical radiology may be relevant, at least until a study is done of any effects specific to backscatter x-ray machines. Fathers exposed to medical diagnostic x-rays are more likely to have infants who contract leukemia, especially if exposure is closer to conception or includes two or more X-rays of the lower gastrointestinal (GI) tract or lower abdomen.[63] In medical radiography the x-ray beam is adjusted to expose only the area of which an image is required, so that generally shielding is applied to the patient to avoid exposing the gonads,[64] whereas in an airport backscatter scan, the testicles of men and boys will be deliberately subjected to the direct beam in order to check for weapons in the underpants, and some radiation will also reach the ovaries of female subjects. A linear dose-response relationship has been observed between x-ray dose and double-strand breaks in DNA in human sperm.[65]
+
+Extrapolations of cancer risk from minuscule exposures to radiation across large populations, however, are not supported by analysis by the National Council on Radiation Protection (NCRP). On May 26, 2010 NCRP issued a press release to address such comments about full body scanners that are compliant with ANSI N43.17. In Commentary No.16 issued on May 26, 2010, it reads as follows:
+
+As stated in NCRP Report No. 121 (1995), Principles and Application of Collective Dose in Radiation Protection, the summation of trivial average risks over very large populations or time periods into a single value produces a distorted image of risk, completely out of perspective with risks accepted every day, both voluntarily and involuntarily.[66]
+
+According to NCRP, the use of statistical extrapolations that predict 1 death for every 200 million persons scanned for example (as above) is an unrealistic over-estimation.[66][67]
+
+Other scientists at Columbia University have made the following statements in support of the safety of body scanners:[68]
+
+‘A passenger would need to be scanned using a backscatter scanner, from both the front and the back, about 200,000 times to receive the amount of radiation equal to one typical CT scan,’ said Dr. Andrew J. Einstein, director of cardiac CT research at Columbia University Medical Center in New York City. ´Another way to look at this is that if you were scanned with a backscatter scanner every day of your life, you would still only receive a tenth of the dose of a typical CT scan,’ he said. By comparison, the amount of radiation from a backscatter scanner is equivalent to about 10 minutes of natural background radiation in the United States, Einstein said. ´I believe that the general public has nothing to worry about in terms of the radiation from airline scanning,’ he added. For moms-to-be, no evidence supports an increased risk of miscarriage or fetal abnormalities from these scanners, Einstein added. ‘A pregnant woman will receive much more radiation from cosmic rays she is exposed to while flying than from passing through a scanner in the airport,’ he said.
+
+Furthermore, other scientists claim the health effects of backscatter are well understood whereas those from millimeter wave scanners are not:
+
+‘From a radiation standpoint there has been no evidence that there is really any untoward effect from the use of this device [backscatter scanner], so I would not be concerned about it from a radiation dose standpoint – the issues of personal privacy are a different thing,’ he said. The health effects of the more common millimeter wave scanner are largely unknown, and at least one expert believes a safety study is warranted. ‘I am very interested in performing a National Council on Radiation Protection and Measurements study on the use of millimeter-wave security screening systems,’ said Thomas S. Tenforde, council president. However, no long-term studies have been done on the health effects of millimeter wave scanners.[68]
+
+Experts evaluating backscatter x-ray machine technology have also argued that defects in the machines, damage from normal wear-and-tear, or software errors could focus an intense dose of radiation on just one spot of the body.[42] For example, Dr. Peter Rez, a professor of physics at Arizona State University, has said, "The thing that worries me the most, is not what happens if the machine works as advertised, but what happens if it doesn't," adding that a potential malfunction of the machine could increase the radiation dose.[69][70]
+
+The designers and manufacturers of backscatter X-ray scanners claim that the scanners are designed to prevent the occurrence of these kinds of errors. The scanners' safety requirements include fail-safe controls and multiple overlapping interlocks. These features, combined with fault analysis, ensure that failure of any subsystem results in non-operation of the x-ray generator to prevent accidental exposures. In the United States, the TSA requires that certification to the ANSI N43.17 safety standard is performed by a third party and not by the manufacturer themselves.[71]
+
+The European Commission issued a report stating that backscatter x-ray scanners pose no known health risk, and that "assuming all other conditions equal", that backscatter x-ray scanners, which expose people to ionizing radiation, should not be used when millimeter-wave scanners that "have less effects on the human body" are available.[72]
+
+However, the European Commission report provides no data substantiating its claim that "all other conditions are equal". One area where backscatter X-ray scanners can provide better performance than MM wave scanners, for example, is in the inspection of the shoes, groin and armpit regions of the body.[73]
+
+In a study published in the Archives of Internal Medicine on March 28, 2011 researchers at the University of California "calculated that fully implementing backscatter scanners would not significantly increase the lifetime risk of cancer for travelers."[74][75] The researchers calculated that for every 100 million passengers who flew seven one-way flights, there would be one additional cancer.[76][77]
+
+Efficacy [ edit ]
+
+In March 2012, scientist and blogger Jonathan Corbett demonstrated the ineffectiveness of the technology by publishing a viral video showing how he was able to get a metal box through backscatter x-ray and millimeter wave scanners (including the currently-used "Automated Target Recognition" scanners) in two US airports.[78][79] In April 2012, Corbett released a second video interviewing a TSA screener, who described firearms and simulated explosives passing through the scanners during internal testing and training.[80]
+
+Backscatter scanners installed by the TSA until 2013 were unable to screen adequately for security threats inside hats and head coverings, casts, prosthetics and loose clothing.[81][82] This technology limitation of current scanners often requires these persons to undergo additional screening by hand or other methods and can cause additional delay or feelings of harassment.[83]
+
+The next generation of backscatter scanners are able to screen these types of clothing, according to manufacturers; however, these machines are not currently in use in public airports.[84]
+
+In Germany, field tests on more than 800,000 passengers over a 10-month trial period concluded that scanners were effective, but not ready to be deployed in German airports due to a high rate of false alarms.[85] The Italian Civil Aviation Authority removed scanners from airports after conducting a study that revealed them to be inaccurate and inconvenient.[86] The European Commission decided to effectively ban backscatter machines.[87] In a 2011 staff report by Republican Members of Congress about the TSA, airport body scanners were described as "ineffective" and "easily thwarted."[88]
+
+Safety regulations and standards [ edit ]
+
+In the US, manufacturers of security related equipment can apply for protection under the SAFETY act, which limits their financial liability in product liability cases to the amount of their insurance coverage. The Rapiscan Secure 1000 was listed in 2006.[89]
+
+In the US, an X-ray system can be considered to comply with requirements for general purpose security screening of humans if the device complies with American National Standards Institute (ANSI) Standard #N43.17.[90][91]
+
+In the most general sense, N43.17 states that a device can be used for general purpose security screening of humans if the dose to the subject is less than 0.25 μSv (25 μrem) per examination and complies with other requirements of the standard. This is comparable to the average dose due to background radiation (i.e. radioactivity within the surrounding environment) at sea level in 1.5 hours; it is also comparable to the dose from cosmic rays when traveling in an airplane at cruising altitude for two minutes.[92]
+
+Many types of X-ray systems can be designed to comply with ANSI N43.17 including transmission X-ray,[93] backscatter X-ray and gamma ray systems. Not all backscatter X-ray devices necessarily comply with ANSI N43.17; only the manufacturer or end user can confirm compliance of a particular product to the standard.
+
+ANSI standards use a standard of measurement algorithm called "effective dose" that considers the different exposure of all parts of the body and then weights them differently. The interior of the human body is given more weight in this survey, and the exterior, including the skin organ, are given less weight.
+
+Technical countermeasures [ edit ]
+
+Some people wish to prevent either the loss of privacy or the possibility of health problems or genetic damage that might be associated with being subjected to a backscatter X-ray scan. One company sells X-ray absorbing underwear which is said to have X-ray absorption equivalent to 0.5 mm (0.020 in) of lead.[94] Another product, Flying Pasties, "are designed to obscure the most private parts of the human body when entering full body airport scanners," but their description does not seem to claim any protection from the X-ray beam penetrating the body of the person being scanned.[95]
+
+See also [ edit ]

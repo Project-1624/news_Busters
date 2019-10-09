@@ -1,0 +1,36 @@
+Guide to Bridge Condition Terms
+A Guide to Important National Bridge Inventory Terms
+
+Sufficiency Rating
+
+The bridge sufficiency is a method of evaluating highway bridge data by calculating four separate factors to obtain a numeric value which is indicative of bridge sufficiency to remain in service. The result of this method is a percentage in which 100 percent would represent a entirely sufficient bridge and zero percent would represent an entirely insufficient or deficient bridge.
+
+Sufficiency Rating is essentially an overall rating of a bridge's fitness for the duty that it performs based on factors derived from over 20 NBI data fields, including fields that describe its Structural Evaluation, Functional Obsolescence, and its essentiality to the public. A low Sufficiency Rating may be due to structural defects, narrow lanes, low vertical clearance, or any of many possible issues.
+
+Structural Evaluation
+
+Structural Evaluation is an appraisal rating that in plain English describes an overall rating of the condition of the bridge structure. This is the summary of the separately rated conditions of the structural components of the bridge. This is the truest measure in the National Bridge Inventory of the structural fitness of a bridge.
+
+Status
+
+Functionally Obsolete
+
+Functionally Obsolete is a status used to describe a bridge that is no longer by design functionally adequate for its task. Reasons for this status include that the bridge doesn't have enough lanes to accommodate the traffic flow, it may be a drawbridge on a congested highway, or it may not have space for emergency shoulders. Functionally Obsolete does not communicate anything of a structural nature. A Functionally Obsolete bridge may be perfectly safe and structurally sound, but may be the source of traffic jams or may not have a high enough clearance to allow an oversized vehicle.
+
+Structurally Deficient
+
+Structurally Deficient is a status used to describe a bridge that has one or more structural defects that require attention. This status does not indicate the severity of the defect but rather that a defect is present. Please see the Structural Evaluation and the Condition ratings of each bridge Deck, Substructure, and Superstructure for details of the nature and severity of the defect(s).
+
+Condition Ratings:
+
+Deck
+
+The bridge deck is the supporting surface of the bridge. It may or may not be covered with a wear surface such as asphalt. The bridge deck is often steel-reinforced concrete and is supported by the Superstructure.
+
+Superstructure
+
+The bridge Superstructure includes the structural elements that support the bridge deck. These may include steel beams, a concrete frame or culvert, steel cables and a floorbeam system as used in a suspension bridge, or a steel truss.
+
+Substructure
+
+The bridge Substructure is essentially the bridge's foundation supporting the Superstructure. This includes abutments and piers.

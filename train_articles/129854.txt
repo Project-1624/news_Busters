@@ -1,0 +1,86 @@
+5G Frequency Bands and Spectrum Allocation in the UK
+Updated: 21st January, 2019
+
+All mobile data has to travel on a frequency band and those bands have different properties, with some carrying data further than others and some being better at passing through walls and other obstacles.
+
+There’s also varying amounts of different frequency bands available, all of which adds up to a big puzzle as to what bands 5G will use.
+
+5G needs to be able to access enough spectrum to keep up with the super high demands that are expected of it. But the spectrum also needs to be versatile enough for all different usage scenarios, which will likely mean using multiple different frequency bands.
+
+Each operator will need a wide block of spectrum in the different bands in order to allow the data throughput required for 5G. Furthermore, mobile spectrum will need to be globally harmonised to ensure 5G delivers its full potential.
+
+While not all the 5G spectrum bands have been finalised yet there’s a lot of research taking place and we’re narrowing down on the bands we’re likely to see used.
+
+What frequencies will be used?
+
+Ofcom, its European counterparts and the International Telecommunication Union (ITU) have worked with other international organisations to ensure there is global harmonisation over the spectrum to be used for 5G. There is no indication that Ofcom will move away from any agreements already reached for 5G frequencies within Europe once the UK leaves the EU. So far, three main spectrum bands that have been specified for use in 5G:
+
+Sub 1GHz, dubbed the ‘coverage layer’, will provide wide area and deep indoor coverage, and in Europe encompasses the 700MHz band. These frequencies will combine with the next band to enable operators to roll out 5G quickly and more cost-effectively.
+
+1GHz-6GHz, aka the ‘coverage and capacity layer’, relies on C-band spectrum around the 3.5GHz mark to deliver the best compromise between capacity and coverage. European regulators have identified the 3.4-3.8GHz band and plan to harmonise it to make it suitable for 5G. It will be the main frequency band for the launch of 5G.
+
+Above 6GHz, aka the ‘super data layer’, uses higher frequency millimetre-wave (mmWave) spectrum to deliver high data rates for specific use cases. Europe has agreed to harmonise frequencies in the 24.25-27.5GHz band, although it’s commonly referred to the 26GHz band. It will be the key enabler of future 5G services and be critical to 5G networks.
+
+It is highly like that additional spectrum will be opened up or auctioned for 5G use, and work is ongoing to identify what that spectrum might be. For example, Ofcom plans to put the 37-43.5 and 66-71GHz bands forward for discussion at the World Radiocommunications Conference 2019 (WRC-19) in late 2019. It may also raise the 32GHz (31.8 – 33.4GHz) band for further discussion.
+
+What frequencies are available in the UK?
+
+It’s likely that the UK’s mobile operators will repurpose some of their existing spectrum for 5G use, as we’ve seen in the past with 4G. But given the speed and capacity requirements of 5G, they’ll all need a lot more spectrum than they currently have.
+
+The first auction of 5G spectrum concluded in April 2018 when Ofcom sold 150MHz of 3.4GHz spectrum previously used by the Ministry of Defence. All four operators secured spectrum , although the fifth bidder, Airspan Spectrum Holdings, failed in its bid. The 3.4GHz spectrum will be used for – and central to – rolling out 5G networks.
+
+Ofcom also auctioned off 40MHz of 2.3GHz spectrum (also recovered from the MoD) for immediate use to provide additional capacity for existing networks, which can also be used for 5G in the future. O2 won all the available 2.3GHz spectrum.
+
+Ofcom took the decision to clear the 700MHz band for mobile use in November 2014, in line with similar moves across Europe. The spectrum band is currently used for digital terrestrial television (DTT) and wireless microphones for programme making and special events (PMSE).
+
+The process began in 2017 and is expected to be complete by May 2020. It’s a process that will involve – among other things – compensating and supporting PMSE equipment owners, a task for which Equiniti Limited has recently been chosen.
+
+Ofcom intends to auction the 700MHz spectrum in early 2020, with auction applications expected to begin in December 2019 and with the process set to be complete by Spring 2020.
+
+80MHz of this band will be auctioned, likely alongside 120MHz in the 3.6-3.8GHz band, for 200MHz of spectrum in total.
+
+However, unlike the previous spectrum auction, obligations are likely to be attached to this spectrum. Ofcom has spoken vaguely about improving coverage in rural areas as well as Scotland and Wales, and has more specifically highlighted the following things that would have to be achieved within four years of being awarded the spectrum:
+
+Extending good, outdoor data coverage to at least 90% of the UK.
+
+Improve coverage for at least 140,000 homes and offices that they don’t already cover.
+
+Providing coverage from at least 500 new mobile mast stations in rural areas.
+
+In return for this, Ofcom proposes reducing the cost of the spectrum by up to £300 million to £400 million. It’s not currently clear though whether all spectrum at this auction will be sold under these terms.
+
+Future auctions are also likely to be held for other spectrum, including parts of the 26GHz mmWave band, but there are no timetables at present.
+
+What is mmWave?
+
+mmWave spectrum sits between microwave and infrared waves. It’s been around for a while but hasn’t really been used for much. It’s only recently that its use for high-speed wireless communications has come to the fore as a key enabler of 5G services. mmWave spectrum technically encompasses frequencies in the 30-300GHz range (extremely high frequency, EHF) but it more commonly refers to bands above 24GHz.
+
+mmWave spectrum is highly desirable for 5G because there’s a lot of it and it can deliver very high data transfer rates. Cells can be located close to each other without causing interference, making them ideal for high capacity networks in specific locations.
+
+However, the disadvantages of of mmWave are that signals don’t travel as far as in lower spectrum bands and are unable to pass through physical objects like buildings or trees. They are also subject to other interferences, such as rain scattering the signal, system performance degraded by brightness, and atmospheric absorption, all of which contribute to the low range.
+
+mmWave frequency bands will therefore require many more antennas and antenna sites to overcome these shortcomings, and new technologies like Massive MIMO and beamforming will be key to unlocking the potential of mmWave frequencies. mmWave frequencies will also be used in tandem with lower frequency bands to deliver both the coverage and capacity that 5G will require.
+
+Useful reading: What is Massive MIMO Technology?
+
+Defragmenting spectrum
+
+As well as acquiring additional spectrum, it is desirable for networks to have at least 80MHz of contiguous spectrum, as this can allow for higher peak speeds and potentially better coverage.
+
+Ofcom has considered using future auctions to rearrange spectrum holdings so that this is possible, but its provisional view is that the market should be allowed to determine the best allocation of spectrum.
+
+Ofcom likely will however facilitate post-auction trades between networks, so that they can rearrange their spectrum holdings on their own.
+
+We’ve already seen an example of spectrum being linked up by Three, which was allowed by Ofcom to switch from holding the 3580-3600MHz and 3605-3689MHz parts of a band (with a 5MHz gap in the middle), to holding a contiguous block covering 3580-3680Mhz. So there’s a good chance more rearrangements like this will happen in future, just handled by the networks themselves.
+
+Where are we now?
+
+Much has been done to identify and harmonise the spectrum that will be needed by operators to roll out 5G networks. In the UK, Ofcom is on track to clear the 700MHz spectrum so it can be used for 5G, and the first auction has been successfully completed so all four operators have the necessary spectrum to trial 5G and start to build out 5G networks.
+
+We’ve already seen many of these trials take place, and networks have even begun talking about their initial 5G roll out plans, which in most cases will start later in 2019.
+
+Further auctions will take place soon to make more spectrum available, and work is ongoing to identify more frequency bands that can be utilised for 5G.
+
+The lower frequency spectrum will underpin the early stages of 5G, but it is the higher frequencies that will be the true future of 5G. There are technical challenges that need to be overcome to unleash the full potential of mmWave frequencies, but equipment manufacturers and operators are on the case. We’ll keep you up to date every step of the way!
+
+Useful reading: 5G Coverage and Networks

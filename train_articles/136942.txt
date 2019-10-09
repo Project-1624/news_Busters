@@ -1,0 +1,42 @@
+Evidence mounts linking DNC email hacker to Russia
+Emails sent by Guccifer 2.0 to The Hill show evidence that the hacker used a Russian-language anonymity protection service — a language he has claimed he could not read or even recognize.
+
+The news comes amid mounting reports linking Guccifer 2.0’s hack of Democratic National Committee (DNC) emails to Russian intelligence.
+
+ADVERTISEMENT
+
+Guccifer 2.0 communicates with journalists using different disposable web-based email accounts each time. With The Hill, he communicated using addresses from ProtonMail and Mail.com.
+
+To further protect his anonymity, he connected to the webmail accounts using a Virtual Private Network (VPN). Users send VPN servers the address of a site they would like to reach, and the VPN accesses it in their stead – masking the users' internet addresses.
+
+Metadata of emails sent from Guccifer 2.0 to The Hill was shared with the cybersecurity firm ThreatConnect. In the interest of protecting Guccifer 2.0’s identity, his account information was not included.
+
+The Mail.com metadata includes the internet address of who is mailing outgoing messages — in Guccifer 2.0’s case, the VPN.
+
+Vocativ reported Tuesday that ThreatConnect had discovered the hacker used a predominantly-Russian-language VPN when he corresponded with them through a French AOL account. ThreatConnect matched that same internet address from the same VPN to the Mail.com email.
+
+VPNs often let users route their traffic through a variety of servers in a variety of countries. Guccifer 2.0 routed his traffic through a French internet address operated by the Elite VPN service.
+
+But that French internet address was not available for public use – it was not one of the French servers Elite VPN allowed its clients to select. Instead, the French server appears to have only been used by a select, criminal clientele in the past, including text message scammers.
+
+Elite VPN’s website is written in Russian, with links to English translations. Parts of the site, including graphics, are only written in Russian, and when ThreatConnect went through the process of signing up for an account, they found the signup process written entirely in Russian.
+
+Guccifer 2.0 has long claimed to be Romanian. In an online chat interview with Motherboard , Guccifer 2.0 claimed not to know how to speak Russian. In it, Motherboard asked a question in Russian, and Guccifer replied "What's this? Is it russian?"
+
+The site then asked if he understood Russian.
+
+"R u kidding?" wrote Guccifer 2.0.
+
+In the same interview, when forced to answered questions in Romanian, he used such clunky grammar and terminology that experts believed he was using an online translator.
+
+The two active payment services for Elite VPN are options that are popular in Russia, including the Moscow-based Web Money. The site also includes a link to a long-defunct Costa Rican payment processor that was seized by law enforcement in 2013.
+
+There are other anonymity services besides VPNs — including Tor — and a large international community of other VPNs both better known and better esteemed than Elite VPN. But the Edward Snowden documents and recent investigations by U.S. law enforcement show a U.S. interest in cracking through the anonymity of these so-called proxy servers.
+
+“They might be making sure they are leveraging proxy infrastructure within their own borders,” said Rich Barger, ThreatConnect director of threat intelligence.
+
+The fact that Guccifer 2.0’s VPN is Russian is not the first indicator that Russia was involved in the attack on the DNC. The email hack leveraged the same tools, methods and command servers seen in other attacks linked to Russian intelligence, including on the German Parliament.
+
+“The noose is tightening around Russia,” said Barger.
+
+Guccifer 2.0 leaked a number of documents to the press, including convention strategies, donor information and opposition research. The first few packages of files were released to the public directly; the last two were first sent to The Hill. Guccifer has also claimed responsibility for leaking emails to WikiLeaks, something WikiLeaks refuses to confirm or deny.

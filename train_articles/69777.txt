@@ -1,0 +1,72 @@
+EPA Actions to Reduce Risk for New Chemicals under TSCA
+EPA may take certain regulatory actions if the Agency finds there is insufficient information to evaluate the human health and environmental effects of the chemical and the chemical may present an unreasonable risk. It is important to note that almost 90 percent of Premanufacture Notices submitted to EPA complete the review process without being restricted or regulated in any way.
+
+One outcome of EPA's review of a PMN for a new chemical substance is the issuance of an order under section 5(e) of the Toxic Substances Control Act (TSCA). Most TSCA section 5(e) orders issued by EPA are Consent Orders that are negotiated with the submitter of the PMN. When reviewing a PMN for a new chemical substance, the Agency can determine that use under certain specific conditions and with appropriate precautions would not pose an unreasonable risk, but that use under other conditions may pose an unreasonable risk. In addition, EPA may determine that the chemical substance may be produced in substantial quantities and will either enter the environment in substantial quantities or may result in significant or substantial human exposure. In such cases, EPA may develop a Consent Order based on a finding of potential unreasonable risk ("risk-based" order) or significant/substantial exposure ("exposure-based" order). A TSCA section 5(e) Consent Order typically contains some or all of the following requirements as conditions:
+
+A Company subject to a TSCA section 5(e) Order that requires testing to be conducted must notify, in writing, the EPA Monitoring Assistance and Media Programs Division (2227A), Office of Enforcement and Compliance Assurance (OECA), U.S. Environmental Protection Agency, 1200 Pennsylvania Avenue, N.W., Washington D.C. 20460, of certain study-related information within 10 days of scheduling any study required to be performed pursuant to the Order. In older TSCA section 5(e) Orders, the OECA group for this notification had been the Laboratory Data Integrity Branch. All such notifications should now be submitted to the Monitoring Assistance and Media Programs Division.
+
+Top of Page
+
+Significant New Use Rules (SNURs)
+
+SNURs for Existing Chemicals (i.e., SNURs not promulgated as a result of TSCA New Chemicals Program review)
+
+TSCA Section 5(a) Significant New Use Rules (SNURs) can be used to require notice to EPA before chemical substances and mixtures are used in new ways that might create concerns.
+
+Under section 5(a) EPA can determine that a use of a chemical substance is a “significant new use.” EPA must make this determination by rule after considering all relevant factors, including those listed in TSCA section 5(a)(2):
+
+Projected volume of manufacturing and processing of a chemical substance.
+
+Extent to which a use changes the type or form of exposure of humans or the environment to a chemical substance.
+
+Extent to which a use increases the magnitude and duration of exposure of humans or the environment to a chemical substance.
+
+Reasonably anticipated manner and methods of manufacturing, processing, distribution in commerce, and disposal of a chemical substance.
+
+Once EPA determines that a use of a chemical substance is a significant new use, TSCA section 5(a) requires persons to submit a significant new use notice (SNUN) to EPA at least 90 days before they manufacture (including import), or process the chemical substance for that use. The notification required by SNURs, known as a Significant New Use Notification (SNUN), allows EPA the opportunity to review and if necessary prevent or limit potentially adverse exposure to, or effects from, the new use of the substance.
+
+Learn about how to submit a Significant New Use Notice (SNUN).
+
+SNURs for New Chemicals (i.e., SNURs promulgated as a result of TSCA New Chemicals Program review)
+
+EPA often issues SNURs for new chemicals following the Agency's PMN review. EPA sometimes uses the short-hand reference "section 5(e) SNUR" and "non-section 5(e) SNUR" when referring to SNURs promulgated pursuant to TSCA section 5(a) as a result of the TSCA new chemicals program review. These are discussed below. Because there is detailed communication between EPA and pre-manufacture notice (PMN) submitters during the review period leading to the Agency's final regulatory decision, these SNURs are generally issued as "direct final" rules (see 40 CFR 721.50).
+
+SNURs following a PMN review and TSCA section 5(e) Consent Order
+
+TSCA section 5(e) Consent Orders are only binding on the original PMN submitter for that substance. Consequently, after issuing a section 5(e) Consent Order, EPA generally promulgates a SNUR that mimics the Consent Order to bind all other manufacturers and processors to the terms and conditions contained in the Consent Order. The SNUR requires that manufacturers (which includes importers) and processors of certain substances notify EPA at least 90 days before beginning any activity that EPA has designated as a "significant new use." These new use designations are typically those activities prohibited by the section 5(e) Consent Order.
+
+SNURs following a PMN review
+
+Even though EPA does not find that the manufacture, processing, use and disposal of a PMN substance, as described in the PMN, may present an unreasonable risk to human health and the environment, the Agency may promulgate a SNUR in the absence of a Consent Order. EPA takes this regulatory action when it determines that potential new uses different from those identified in the PMN could result in increased exposures to, or releases of, the substance, and may result in an unreasonable risk to health or the environment. In the past these SNURs have been referred to as "non-section 5(e) SNURs." For example, if EPA identifies an environmental toxicity concern concentration (e.g., 5 parts per billion, or ppb) in surface waters that is not expected to be exceeded under the circumstances described in the PMN but which might be exceeded under other potential use scenarios, the Agency could choose to take no regulatory action on the PMN submitter (e.g., via a consent order), but instead promulgate a non-section 5(e) SNUR requiring a SNUN to be submitted, for any other uses that have releases that could result in exceedance of that surface water concentration.
+
+View all SNURs in ChemView by checking the SNUR box under EPA Actions in the Show Output Selection area of ChemView.
+
+Proposed Changes to General Provisions for SNURs
+
+EPA is proposing changes to the existing regulations governing significant new uses of chemical substances under TSCA to update and align these regulations with revisions to the Occupational Safety and Health Administration’s Hazard Communications Standard , the United Nations’ Globally Harmonized System of Classification and Labelling of Chemicals and with changes to the OSHA Respiratory Protection Standard and the National Institute for Occupational Safety and Health respirator certification requirements pertaining to respiratory protection of workers from exposure to chemicals. EPA is also proposing changes to other general significant new use regulations. On September 22, EPA extended the comment period on this proposal; comments are now due by October 26, 2016. Read the proposal.
+
+EPA’s efforts to coordinate its SNUR program with Canada
+
+EPA and Environment Canada/Health Canada (EC/HC) are working together under the Regulatory Cooperation Council (RCC) to conduct a comparison of the new chemicals review programs in both nations, specifically EPA’s SNUR and Canada’s Significant New Activity (SNAc) programs that require notice to the governments before chemical substances and mixtures are used in new ways that might create environmental or health concerns. EPA and Canada convened stakeholders throughout the supply chain and facilitated two roundtable discussions to identify opportunities for regulators and stakeholders to increase regulatory transparency and coordination between the two countries. Read the summary report of the SNUR/SNAc RCC roundtable meetings, which identifies ways in which government and industry can work to better educate and inform stakeholders throughout the supply chain on their compliance requirements, and the best practices for meeting those requirements under the SNUR and SNAc programs.
+
+
+
+Top of Page
+
+Is My Chemical Subject to a SNUR?
+
+To facilitate determining whether a substance is subject to a SNUR, substances on the TSCA Inventory that are subject to SNUR requirements are designated as such by an "S" flag in the Inventory listing. If your chemical substance is subject to a SNUR and your intended manufacture, processing, or use of the substance is a significant new use, you would be required to submit a SNUN 90 days prior to the manufacture of that substance.
+
+Several steps should be followed to ascertain the TSCA Inventory/SNUR status of a chemical substance. Information on non-confidential chemical substances can be found in the TSCA Chemical Substance Inventory. Because the chemical identities of the chemical substances can be claimed to be Confidential Business Information (CBI) by the submitters of PMNs, EPA maintains a CBI version of the TSCA Inventory. If an intended manufacturer submits a PMN or a Notice of Bona Fide Intent to Manufacture (pursuant to the procedures at 40 CFR Section 720.25) on a substance that has a listing on the Confidential Inventory, the Agency will notify the submitter of the existence of the SNUR.
+
+Access the TSCA Chemical Substance Inventory and learn about submitting a Notice of Bona Fide Intent to Manufacture.
+
+It is always the obligation of the manufacturer or processor selling a chemical substance to notify the user of the SNUR status of that substance. Buyers of a chemical substance whose identity is confidential, and thus not disclosed to them, should seek certification from the sellers that their intended use is not a significant new use.
+
+Top of Page
+
+TSCA section 5(f) Actions
+
+If EPA determines that a new chemical will present unreasonable risk, EPA may (1) limit the amount or impose other restrictions on the substance via an immediately effective proposed rule, or (2) completely prohibit the substance by issuing a proposed order or applying to a U.S. District Court for an injunction.
+
+Top of Page

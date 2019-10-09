@@ -1,0 +1,88 @@
+Computing the optimal road trip across the U.S.
+Last week, Tracy Staedter from Discovery News proposed an interesting idea to me: Why not use the same algorithm from my Where’s Waldo article to compute the optimal road trip across every state in the U.S.? Visiting every U.S. state has long been on my bucket list, so I jumped on the opportunity and opened up my machine learning tool box for another quick weekend project.
+
+Note: If you’re not interested in the technical details of the project, skip down to the Road trip stopping at major U.S. landmarks section.
+
+Planning the road trip
+
+One of the hardest parts of planning a road trip is deciding where to stop along the way. Given how large and diverse the U.S. is, it’s especially difficult to make a road trip that will appeal to everyone. To stand a chance at making an interesting road trip, Tracy and I laid out a few rules from the beginning:
+
+The trip must make at least one stop in all 48 states in the contiguous U.S. The trip would only make stops at National Natural Landmarks, National Historic Sites, National Parks, or National Monuments. The trip must be taken by car and never leave the U.S.
+
+With those objectives in mind, Tracy compiled a list of 50 major U.S. landmarks — one in each state excluding Alaska/Hawaii and including D.C., and two in California. Tracy wrote about that process on Discovery News here.
+
+The result was an epic itinerary with a mix of inner city exploration, must-see historical sites, and beautiful natural landscapes. All that was left was to figure out the path that would minimize our time spent driving and maximize our time spent enjoying the landmarks.
+
+Image credit: Dean Franklin
+
+Computing the optimal road trip across the U.S.
+
+With the list of landmarks in hand, the next step was to find the “true” distance between all of the landmarks by car. Since we can’t just drive a straight line between every landmark — driving by car has this pesky limitation of having to stay on roads — we needed to find the shortest route by road between every landmark.
+
+If you’ve ever used Google Maps to get the directions between two addresses, that’s basically what we had to do here. Except this time, we needed to look up 2,450 directions to get the “true” distance between all 50 landmarks — a monumental task if we had to do it by hand. Thankfully, the Google Maps API makes this information freely available, so all it took was a short Python script to calculate the distance and time driven for all 2,450 routes between the 50 landmarks.
+
+Now with the 2,450 landmark-landmark distances, our next step was to approach the task as a traveling salesman problem: We needed to order the list of landmarks such that the total distance traveled between them is as small as possible if we visited them in order. This means finding the route that backtracks as little as possible, which is especially difficult when visiting Florida and the Northeast.
+
+If you read my Where’s Waldo article, you’re already aware of how difficult it can be to solve route optimization problems like this one. With 50 landmarks to put in order, we would have to exhaustively evaluate 3 x 1064 possible routes to find the shortest one.
+
+To provide some context: If you started computing this problem on your home computer right now, you’d find the optimal route in about 9.64 x 1052 years — long after the Sun has entered its red giant phase and devoured the Earth. This complication is why Google Map’s route optimization service only optimizes routes of up 10 waypoints, and the best free route optimization service only optimizes 20 waypoints unless you pay them a lot of money to dedicate some bigger computers to it.
+
+The traveling salesman problem is so notoriously difficult to solve that even xkcd poked fun at it:
+
+Clearly, we need a smarter solution if we want to take this epic road trip in our lifetime. Thankfully, the traveling salesman problem has been well-studied over the years and there are many ways for us to solve it in a reasonable amount of time.
+
+If we’re willing to accept that we don’t need the absolute best route between all of the landmarks, then we can turn to smarter techniques such as genetic algorithms to find a solution that’s good enough for our purposes. Instead of exhaustively looking at every possible solution, genetic algorithms start with a handful of random solutions and continually tinkers with these solutions — always trying something slightly different from the current solutions and keeping the best ones — until they can’t find a better solution any more.
+
+I’ve included a visualization of a genetic algorithm solving a similar routing problem below.
+
+Road trip stopping at major U.S. landmarks
+
+After less than a minute, the genetic algorithm reached a near-perfect solution that makes a complete trip around the U.S. in only 13,699 miles (22,046 km) of driving. I’ve mapped that route below.
+
+Note: There’s an extra stop in Cleveland to force the route between Vermont and Michigan to stay in the U.S. rather than go through Canada. If you’re able to drive through Canada without issue, then take the direct route through Canada instead.
+
+Click here for the interactive version
+
+Assuming no traffic, this road trip will take about 224 hours (9.33 days) of driving in total, so it’s truly an epic undertaking that will take at least 2-3 months to complete. The best part is that this road trip is designed so that you can start anywhere on the route as long as you follow it from then on. You’ll hit every major area in the U.S. on this trip, and as an added bonus, you won’t spend too long driving through the endless corn fields of Nebraska.
+
+Here’s the Google Maps of the route: [1] [2] [3] [4] [5] [6]
+
+(Note that Google maps itself only allows 10 waypoints to be routed at a time, hence why there’s multiple Maps links.)
+
+Here’s the full list of landmarks in order:
+
+Grand Canyon, AZ Bryce Canyon National Park, UT Craters of the Moon National Monument, ID Yellowstone National Park, WY Pikes Peak, CO Carlsbad Caverns National Park, NM The Alamo, TX The Platt Historic District, OK Toltec Mounds, AR Elvis Presley’s Graceland, TN Vicksburg National Military Park, MS French Quarter, New Orleans, LA USS Alabama, AL Cape Canaveral Air Force Station, FL Okefenokee Swamp Park, GA Fort Sumter National Monument, SC Lost World Caverns, WV Wright Brothers National Memorial Visitor Center, NC Mount Vernon, VA White House, Washington, DC Colonial Annapolis Historic District, MD New Castle Historic District, Delaware Cape May Historic District, NJ Liberty Bell, PA Statue of Liberty, NY The Mark Twain House & Museum, CT The Breakers, RI USS Constitution, MA Acadia National Park, ME Mount Washington Hotel, NH Shelburne Farms, VT Fox Theater, Detroit, MI Spring Grove Cemetery, OH Mammoth Cave National Park, KY West Baden Springs Hotel, IN Abraham Lincoln’s Home, IL Gateway Arch, MO C. W. Parker Carousel Museum, KS Terrace Hill Governor’s Mansion, IA Taliesin, WI Fort Snelling, MN Ashfall Fossil Bed, NE Mount Rushmore, SD Fort Union Trading Post, ND Glacier National Park, MT Hanford Site, WA Columbia River Highway, OR San Francisco Cable Cars, CA San Andreas Fault, CA Hoover Dam, NV
+
+Bonus: Road trip stopping at popular U.S. cities
+
+If you’re more of a city slicker, the road trip above may not look very appealing to you because it involves spending a lot of time outdoors. But worry not, for I created a second road trip just for you! The road trip below stops at the TripAdvisor-rated Best City to Visit in every contiguous U.S. state.
+
+Note: Again, there’s an extra stop in Cleveland to force the route between New Hampshire and Michigan to stay in the U.S. rather than go through Canada. If you’re able to drive through Canada without issue, then take the direct route through Canada instead. But really, Cleveland is a nice city to stop in (ranked #53 on TripAdvisor).
+
+Click here for the interactive version
+
+This road trip will more-or-less follow the same path as the major U.S. landmarks trip, covering a slightly shorter 12,290 mile (19,780 km) route around the U.S. Some larger states — like California and Texas — may have multiple cities you’d like to visit, so it’s probably worthwhile to stop at other larger cities along the route.
+
+You may note that cities from North Dakota, Vermont, and West Virginia are missing. Out of the top 400 recommended cities to visit on TripAdvisor, none were from North Dakota, Vermont, nor West Virginia. This is especially interesting because TripAdvisor reviewers recommend cities like Flint, MI — the 7th most crime-ridden city in the U.S. — over any city in North Dakota, Vermont, and West Virginia. I’ll leave the interpretation of that fact to the reader.
+
+Here’s the Google Maps of the route: [1] [2] [3] [4] [5] [6]
+
+Here’s the full list of cities in order:
+
+Oklahoma City, Oklahoma Wichita, Kansas Denver, Colorado Albuquerque, New Mexico Phoenix, Arizona Las Vegas, Nevada San Francisco, California Portland, Oregon Seattle, Washington Boise, Idaho Park City, Utah Jackson, Wyoming Billings, Montana Sioux Falls, South Dakota Omaha, Nebraska Des Moines, Iowa Minneapolis, Minnesota Milwaukee, Wisconsin Chicago, Illinois Indianapolis, Indiana Louisville, Kentucky Columbus, Ohio Detroit, Michigan Cleveland, Ohio Manchester, New Hampshire Portland, Maine Boston, Massachusetts Providence, Rhode Island New Haven, Connecticut New York City, New York Ocean City, New Jersey Philadelphia, Pennsylvania Wilmington, Delaware Baltimore, Maryland Washington, D.C. Virginia Beach, Virginia Charlotte, North Carolina Charleston, South Carolina Orlando, Florida Atlanta, Georgia Nashville, Tennessee Birmingham, Alabama Jackson, Mississippi New Orleans, Louisiana Houston, Texas Little Rock, Arkansas Branson, Missouri
+
+Make your own road trip
+
+If you’d like to customize your own road trip, I’ve released the Python code I used in this project with an open source license and instructions for how to optimize your custom road trip. You can find the code here.
+
+What about other parts of the world?
+
+I’ve made another version for Europe here and for South America here. I also made a road trip for Michigan, and optimized walking tours for NYC and Philadelphia. Check ’em out!
+
+Conclusions
+
+The saying goes, “A journey of a thousand miles begins with a single step.” Really, that’s not true. Every major journey begins with a plan: where you’re going, where you’re stopping along the way, and how you’re getting there. I hope this article convinced you that machine learning can play a crucial role in that planning phase and save you a ton of time along the way.
+
+Of course, it may not be practical for you to take a road trip of epic proportions like the ones described here. But really, this algorithm works just as well when you’re planning a smaller trip within your state as when you’re planning a larger trip spanning the entire world. All the algorithm needs are the distances travelled between every stop so it can try to compute the optimal route. How you get between those stops is up to you.
+
+Happy road tripping!

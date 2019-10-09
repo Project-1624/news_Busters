@@ -1,0 +1,42 @@
+Cyber researchers confirm Russian government hack of Democratic National Committee
+Cyber security firms have confirmed that a recent hack of the DNC was carried out by Russian groups. (Damian Dovarganes/AP)
+
+Two independent research firms have confirmed an assessment by the Democratic National Committee that its network was compromised by Russian government hackers.
+
+The firms’ conclusions come several days after someone going by the moniker “Guccifer 2.0” claimed responsibility for the hack in an apparent attempt to deflect blame from the Russian government.
+
+The DNC had hired the cybersecurity firm CrowdStrike to investigate the breach, and the firm found that two Russian hacker groups penetrated the network at different times.
+
+Guccifer 2.0’s claim came a day after the DNC acknowledged the intrusion and CrowdStrike announced its findings in a blog post. The hacker posted documents to a website that appeared to have been stolen from the DNC.
+
+Now at least two other cybersecurity firms — Fidelis Cybersecurity and Mandiant — have seconded CrowdStrike’s conclusion.
+
+Russian goverment hackers penetrated the Democratic National Committee and had access to the DNC network for about a year, but all were expelled earlier in June. (Jhaan Elker/The Washington Post)
+
+CrowdStrike attributed the intrusions to two groups, which it has dubbed Cozy Bear and Fancy Bear. The latter group stole opposition research files on presumptive GOP presidential nominee Donald Trump.
+
+“Based on our comparative analysis, we agree with CrowdStrike and believe that the Cozy Bear and Fancy Bear . . . groups were involved in successful intrusions at the DNC,” Michael Buratowski, a senior executive at Fidelis, said in a blog post Monday.
+
+Fidelis analyzed samples of the malicious software used in the DNC hack.
+
+“The malware samples matched the description, form and function that was described in the CrowdStrike blog post,” Fidelis stated. “In addition, they were similar and at times identical to malware that other [research firms] have associated to these actor sets.”
+
+Mandiant, a cyber-forensics firm owned by FireEye, based its analysis on five DNC malware samples. In a statement to The Washington Post, Mandiant researcher Marshall Heilman said that the malware and associated servers are consistent with those previously used by “APT 28 and APT 29,’’ which are Mandiant’s names for Fancy Bear and Cozy Bear, respectively.
+
+Meanwhile, a third cyber-analysis firm, ThreatConnect, followed up on CrowdStrike’s analysis by looking at computer Internet protocol addresses that CrowdStrike said it had found while investigating the DNC intrusion. It discovered an Internet domain name that looked suspiciously like that of the firm the DNC had hired to manage its computer network, MIS Department.
+
+The domain name found was misdepatrment.com. But for the transposition of the “t” and “r,” it was identical to the firm’s actual domain name.
+
+Registering domains that look similar to a legitimate domain name is a technique used by Fancy Bear, CrowdStrike has reported.
+
+Such a technique is useful, for instance, in deceiving a target into thinking an email is coming from a known and trusted source when it actually contains malware.
+
+Moreover, the domain name was registered on March 21, several weeks prior to when CrowdStrike said the hacker group gained entry into the network. Targeting the DNC’s network management team makes perfect sense, said Rich Barger, ThreatConnect’s chief information officer. “These are the guys that have the keys to the kingdom,” he said.
+
+Analysts suspect but don’t have hard evidence that Guccifer 2.0 is, in fact, part of one of the Russian groups who hacked the DNC.
+
+“Since the documents have been posted anonymously, there is no clear way to prove their origin,” Buratowski said. But he said it was “notable” that time and date stamps were missing in places one would expect to see them. “This could suggest that the content was copied and pasted into non-original documents.”
+
+It is also possible, researchers said, that someone else besides the Russians were inside the DNC’s network and had access to the same documents.
+
+Read more:

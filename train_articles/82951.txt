@@ -1,0 +1,88 @@
+Unbeknownst to Clinton, IT firm had emails stored on cloud; now in FBI’s hands | McClatchy Washington Bureau
+Where does Hillary Clinton Stand? On April 12, 2015 former senator and Secretary of State Hillary Clinton announced her run for President of the United States. Find out where the democratic candidate stands on immigration, ISIS, the minimum wage and gay marriage. Video by Natalie Up Next × SHARE COPY LINK On April 12, 2015 former senator and Secretary of State Hillary Clinton announced her run for President of the United States. Find out where the democratic candidate stands on immigration, ISIS, the minimum wage and gay marriage. Video by Natalie
+
+A Connecticut company, which backed up Hillary Clinton‘s emails at the request of a Colorado firm, apparently surprised her aides by storing the emails on a “cloud” storage system designed to optimize data recovery.
+
+The firm, Datto Inc., said Wednesday that it turned over the contents of its storage to the FBI on Tuesday.
+
+A Republican Senate committee chairman, Wisconsin Sen. Ron Johnson, also has asked the firm to provide the committee copies of any data from Clinton’s account still in its possession.
+
+There were conflicting accounts as to whether the developments could lead to retrieval of any of Clinton’s more than 31,000 personal emails, which she said she deleted from her private server upon turning over her work-related emails to the State Department, at its request, in December 2014.
+
+Congressional Republicans have voiced skepticism as to whether the 30,940 business emails that the Democratic presidential candidate handed over represented all of those related to her position as secretary of state. Clinton has said her lawyers carefully pruned them.
+
+SHARE COPY LINK Not all of America is sick of the ongoing investigations into Hillary Clinton. Almost half of registered voters think the Benghazi investigation should continue. However, America is not split as cleanly on her use of a private email server. Lee Me
+
+The FBI is separately investigating whether Clinton’s arrangement put classified information at risk but has yet to characterize it as a criminal inquiry.
+
+Datto, based in Norwalk, Conn., became the second data storage firm to become entangled in the inquiry into Clinton’s unusual email arrangement, which has sparked a furor that has dogged her campaign. In August, Clinton and Colorado-based Platte River Networks, which had managed her primary server since June 2013, agreed to surrender it for examination by the FBI.
+
+Datto and Platte River seemed at odds, however, over how Clinton’s emails wound up on Datto’s cloud storage, which may have resulted from a misunderstanding.
+
+Platte River spokesman Andy Boian said the firm bought a device from Datto that constantly snaps images of a server’s contents and connected it to the Clinton server at a New Jersey data storage facility. Platte River never asked Datto to beam the images to an off-site cloud storage node and never was billed for that service, he said. Company officials were bewildered when they learned of the cloud storage, he said.
+
+“We said, ‘You have a cloud? You were told not to have a cloud.’ We never received an invoice for any cloud for the Clintons.’”
+
+The source familiar with Datto’s account, however, said Platte River was billed for “private cloud” storage, which requires a cloud storage node. Because Platte River lacks one, the source said, the data bounced to Datto’s off-site cloud storage. The source said that senior Platte River officials may not have realized it, but company technicians “were managing the off-site storage throughout.”
+
+Datto did not know it was backing up Clintons’ email server until mid August, the source said.
+
+As to whether the FBI might recover Clinton’s personal emails from Datto’s storage, the source said: “People don’t Datto’s service for getting rid of data.”
+
+The FBI requested the contents of Datto’s storage on Sept. 10, a person familiar with the situation said. On Friday, Clinton’s attorney, David Kendall, and Platte River agreed to allow Datto to turn over the data from the backup server to the FBI, said this person, who spoke on condition of anonymity because of the sensitivity of the matter.
+
+Boian said Platte River also would give the FBI the backup device it purchased from Datto.
+
+Michael Fass, Datto’s general counsel, said in a statement that “with the consent of our client and their end user, and consistent with our policies regarding data privacy, Datto is working with the FBI to provide data in conjunction with its investigation.”
+
+He said Datto had “no role in monitoring the content or source of data stored” by Platte River.
+
+Boian said the firm had set up a 30-day retention policy for the backup server in 2013, at the request of Clinton’s representatives, meaning that any emails deleted would disappear within 30 days. Boian said Platte River did not “wipe” the server clean, such as by overwriting deleted material several times with encrypted data.
+
+Clinton’s decision to have her lawyers prune and delete all of her personal emails when she turned the others over to the State Department could complicate FBI attempts to resurrect emails from the backup. But if the personal emails were stored on a part of the server’s disk or the cloud backup that has not been overwritten, the task still might be easy. Bloomberg News reported recently that the FBI has recovered some of Clinton’s emails, apparently from the server they seized from Platte River.
+
+In laying out facts gathered by the Senate Homeland Security and Governmental Affairs Committee, which he chairs, Wisconsin Sen. Johnson offered the first public confirmation that Clinton or her representatives had arranged for a backup of her email server after she left office in early 2013.
+
+His letter also cited internal emails recounting requests in late 2014 and early 2015 from Clinton representatives for Platte River Networks to direct Datto to reduce the amount of her emails it was backing up. These communications led a Platte River employee to air suspicions that “this whole thing really is covering up some shaddy (sic) shit,” according to an excerpt of an email cited by Johnson.
+
+Boian said, however, that Platte River was asked to limit email retention to 30 days as soon as it was hired -- a directive that never changed.
+
+The controversy seems sure to come up on Oct. 22, when Clinton is scheduled to testify to a House committee investigating the fatal 2012 attacks on U.S. facilities in Benghazi, Libya. It was the panel’s chairman who first declared last March that she had “wiped” her server clean based on a letter from Clinton’s attorney.
+
+Spokesmen for Clinton’s campaign declined to respond to requests for comment about Johnson’s letter Tuesday.
+
+EDITORS: STORY CAN END HERE
+
+On May 31, 2013, four months after Clinton left office, the Clinton Executive Service Corp., which oversaw her email server contracts, hired Platte River to maintain her account. Its New Jersey-based server replaced the server in her New York home that had handled her emails throughout her tenure as secretary of state.
+
+Several weeks ago, Platte River employees discovered that her private server was syncing with an offsite Datto server, he said.
+
+When Datto acknowledged that was the case, a Platte River employee replied in an email: “This is a problem.”
+
+Clinton will testify on Capitol Hill about her email practices Oct. 22
+
+Despite Boian’s statement that Platte River set up a 30-day revolving retention policy for Clinton’s emails, Johnson’s letter noted that Platte River employees were directed to reduce the amount of email data being stored with each backup. Late this summer, Johnson wrote, a Platte River employee took note of this change and inquired whether the company could search its archives for an email from Clinton Executive Service Corp. directing such a reduction in October or November 2014 and then again around February, advising Platte River to save only emails sent during the most recent 30 days.
+
+Those reductions would have occurred after the State Department requested that Clinton turn over her emails.
+
+It is unclear why Secretary Clinton’s representatives apparently directed (Platte River) to reduce the backup time period of her emails around the same time period or in the months following the State Department’s request. Wisconsin Sen. Ron Johnson, in letter to Datto
+
+It was here that a Platte River employee voiced suspicions about a cover-up and sought to protect the company. “If we have it in writing that they told us to cut the backups,” the employee wrote, “and that we can go public with our statement saying we have had backups since day one, then we were told to trim to 30 days, it would make us look a WHOLE LOT better,” according to the email cited by Johnson.
+
+In the letter to Austin McChord, Datto’s CEO, Johnson asked the firm to produce copies of all communications it had relating to Clinton’s server, including those with Platte River and the Clinton firm.” He also asked whether Datto and its employees were authorized to store and view classified information and for details of any cyberattacks on the backup server.
+
+In an ongoing review of Clinton’s work emails, the State Department and intelligence agencies have found more than 400 containing classified information, including at least two declared “Top Secret,” the most sensitive national security data. Clinton has said none of the emails were marked classified during her tenure although some communications by their nature are classified at creation.
+
+In other developments, the State Department is asking Clinton to search again for any emails, regardless of format, from the first two months of her tenure, according to a document filed Tuesday by the State Department in response to a lawsuit about her emails.
+
+The request to Clinton attorney David Kendall, dated Oct. 2, comes weeks after the State Department obtained a series of emails that Clinton did not turn over despite her claim that she sent the agency all her work-related correspondence.
+
+To the extent her emails might be found on any internet service and email providers, we encourage you to contact them. Patrick Kennedy, under secretay of state for management
+
+The chain of emails, dating from Jan. 10, 2009 to Feb. 1, 2009, were exchanged with former Gen. David Petraeus when he headed the military’s U.S. Central Command, responsible for running the wars in Iraq and Afghanistan and mostly relate to personnel matters.
+
+“These emails are now in our possession and will be subject to Freedom of Information Act requests,” State Department spokesman John Kirby said last week. “Furthermore, we asked the IG to incorporate this matter into the review Secretary Kerry requested in March. We have also informed Congress of this matter.”
+
+Clinton said she was unable to turn over emails she sent or received from late January to March 18, 2009, because she continued to use the AT&T Blackberry account she had when she was a senator. But after the Petraeus emails surfaced and showed she had not turned over emails sent or received on her new account, aides said said she could not turn over emails because they had not been captured on her private server.
+
+Clinton’s campaign and Kendall did not immediately respond to questions about Johnon’s letter or the State Department’s new request.

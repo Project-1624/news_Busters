@@ -1,0 +1,28 @@
+Border Crossing/Entry Data
+Hide Coverage, Availability, Definitions and Notes.
+
+Incoming vehicle, container, passenger, and pedestrian counts at U.S.-Mexico and U.S.-Canada land border ports.
+
+Number of arriving buses at a particular port, whether or not they are carrying passengers.
+
+A Container is defined as any conveyance entering the U.S. used for commercial purposes, either full or empty. Includes containers moving in-bond for the port initiating the bonded movements.
+
+The following are examples of a Container: Stakebed truck, truck with a car carrier, van, pickup truck/car, flatbed truck, piggyback truck with two linked trailers/containers = 2 containers, straight truck, bobtail truck, railcar, rail flatbed car stacked with four containers = 4 containers (on each rail car if there is multiple box containers count each container and the flatbed car.), and tri-level boxcar with multiple containers inside = 3 containers
+
+Number of persons arriving by bus requiring U.S. Customs processing.
+
+Persons entering the United States at a particular port by private automobiles, pick-up trucks, motorcycles, recreational vehicles, taxis, ambulances, hearses, tractors, snowmobiles and other motorized private ground vehicles.
+
+Number of passengers and crew arriving by train and requiring U.S. Customs processing.
+
+The number of persons arriving on foot or by certain conveyance (such as bicycles, mopeds, or wheel chairs) requiring U.S. Customs processing.
+
+Number of privately owned vehicles (POVs) arriving at a particular port. Includes pick-up trucks, motorcycles, recreational vehicles, taxis, snowmobiles, ambulances, hearses, and other motorized private ground vehicles.
+
+A container is any conveyance entering the U.S. used for commercial purposes, full or empty. In this case, it is the number of full or empty rail containers arriving at a port. This series includes containers moving as inbound shipments.
+
+Number of arriving trains at a particular port.
+
+A container is any conveyance entering the U.S. used for commercial purposes, full or empty. In this case, it is the number of full or empty truck containers arriving at a port. This series includes containers moving as inbound shipments.
+
+Number of arriving trucks; does not include privately owned pick-up trucks.

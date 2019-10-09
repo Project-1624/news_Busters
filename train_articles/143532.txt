@@ -1,0 +1,20 @@
+Apple’s iOS 12 securely and automatically shares emergency location with 911
+Nashville, Tennessee — iPhone users in the United States who call 911 will be able to automatically and securely share their location data with first responders beginning later this year with iOS 12, providing faster and more accurate information to help reduce emergency response times.
+
+Approximately 80 percent of 911 calls today come from mobile devices, but outdated, landline-era infrastructure often makes it difficult for 911 centers to quickly and accurately obtain a mobile caller’s location. To address this challenge, Apple launched HELO (Hybridized Emergency Location) in 2015, which estimates a mobile 911 caller’s location using cell towers and on-device data sources like GPS and WiFi Access Points.
+
+Apple today announced it will also use emergency technology company RapidSOS’s Internet Protocol-based data pipeline to quickly and securely share HELO location data with 911 centers, improving response time when lives and property are at risk. RapidSOS’s system will deliver the emergency location data of iOS users by integrating with many 911 centers’ existing software, which rely on industry-standard protocols.
+
+“Communities rely on 911 centers in an emergency, and we believe they should have the best available technology at their disposal,” said Tim Cook, Apple’s CEO. “When every moment counts, these tools will help first responders reach our customers when they most need assistance.”
+
+In keeping with Apple’s focus on privacy, user data cannot be used for any non-emergency purpose and only the responding 911 center will have access to the user’s location during an emergency call.
+
+“911 telecommunicators do extraordinary work managing millions of emergencies with little more than a voice connection,” said RapidSOS CEO, Michael Martin. “We are excited to work with Apple to provide first responders a new path for accurate, device-based caller location using transformative Next Generation 911 technology.”
+
+The FCC requires carriers to locate callers to within 50 meters at least 80 percent of the time by 2021. iOS location services are capable of exceeding this requirement today, even in challenging, dense, urban environments. This new feature allows Apple to make these benefits available to local 911 centers now rather than years from now.
+
+“We’re thrilled that Apple is giving 911 centers access to device-based location data via a thoroughly-tested, standards-based approach,” said Rob McMullen, President of the National Emergency Number Association, the 911 Association. “This will accelerate the deployment of Next Generation 911 for everyone, saving lives and protecting property.”
+
+“This new functionality is an example of how companies and first responders can use technology to dramatically improve public safety,” said Tom Wheeler, FCC Chairman from 2013 to 2017. “Lives will be saved thanks to this effort by Apple and RapidSOS.”
+
+“Helping 911 services quickly and accurately assess caller location has been a major issue since my time at the FCC,” said Dennis Patrick, FCC Chairman from 1987 to 1989. “This advancement from Apple and RapidSOS will be transformative for emergency response in the United States.”

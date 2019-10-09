@@ -1,0 +1,96 @@
+A diverse suite of pharmaceuticals contaminates stream and riparian food webs
+Study sites and site characteristics
+
+We selected 50-m reaches within six streams in the greater Eastern Melbourne region (Supplementary Table. 1), Victoria, Australia. Sites spanned a gradient of wastewater influence based on isotopic sewage signature, with multiple potential sources, including direct discharge from a wastewater treatment facility (WWTF), septic tank effluent, and leaky sewage infrastructure. Wastewater influence was estimated from biofilm δ15N, the stable isotope ratio of 15N:14N in organic matter coating rock surfaces on the stream bottom. Elevated δ15N is commonly used as an indicator of anthropogenic inputs to aquatic systems, particularly human derived waste26. Sites ranged in wastewater influence from a pristine site (Lyrebird Creek, Dandenong Ranges National Park) where no known sewage influence is present, to an urbanized stream (Brushy Creek) that receives treated sewage from a WWTF at a mean discharge rate of 15 ML d−1. Riparian habitats at the sampling reaches ranged from dense Eucalyptus forest (pristine site) to a mixture of mature trees, vegetation, and structures such as bridges (semi-urban sites), to revegetated patchy habitats with engineered channel walls (urban sites). We sampled each site twice over a 7-month period from June 2014 to January 2015.
+
+Assessment of stream physicochemical properties
+
+At each site, physicochemical properties were characterised including flow and water chemistry (Supplementary Table 2). We collected unfiltered water samples in 50-mL polypropylene (PPE) bottles in triplicate for total nitrogen and total phosphorus analysis. We also collected triplicate water samples for ammonium (NH 4 + + NH 3 ), filterable reactive P (FRP), and NO 3 − in 50-mL PPE bottles, after filtration through a 0.2 µm disposable sterile syringe membrane filter (Sartorius, Göttingen, Germany). Total organic carbon (TOC) samples (n = 3) were collected in pre-cleaned 50-mL amber glass jars. TOC samples were acidified with 2M HCl upon collection, before being refrigerated prior to analysis. Dissolved organic carbon (DOC) samples were also collected and acidified, after filtration through a membrane filter (pore size: 0.2 µm, diameter: 47 mm, PALL Corporation). We also collected dissolved inorganic carbon (DIC) samples. All water chemistry samples were analysed by the NATA-accredited Water Studies Centre Analytical Laboratory, Monash University, Melbourne (Australia). Other water quality variables were measured using a pre-calibrated Horiba U-10 Water Quality Checker. Variables measured in the field included pH, dissolved oxygen (DO) concentration, temperature, electrical conductivity (EC), and turbidity. Depending on the individual site we also measured flow either by the salt slug method57 or with a Pygmy Flow Meter (Hydrological Service Pty. Ltd., Australia).
+
+Algal stable isotope sample collection and analysis
+
+The stable isotope ratio of biofilms (δ15N) was measured as an indicator of wastewater influence. At each site, 5 rocks, uniform in size, were randomly sampled and placed into zip-lock bags in the dark for transportation back to the laboratory. Rocks were then scrubbed to create a biofilm slurry from which subsamples were taken and dried at 60 °C. Biofilm samples were then ground to a fine powder and each sample was weighed and packed into tin capsules for analysis. Samples were analysed for nitrogen stable isotope ratios at the Water Studies Centre, Monash University on a calibrated elemental analyser (ANCA GSL2) interfaced to a continuous-flow isotope-ratio mass spectrometer (Hydra 20-22, Sercon Ltd., Cheshire, UK). Four internal standards (ammonium sulfate, sucrose, gelatine and bream) were used to correct for any variations in peak size linearity and instrumental drift. Typical precision was ±0.2 per mil for δ15N. Based on these internal standards, the accuracy of the data is calculated to fall within ±0.3 per mil for δ15N. All internal standards were calibrated against internationally recognised reference materials that included USGS 40, USGS 41, IAEA N1, USGS 25, USGS 26 and IAEA C-6 (the certified values can be obtained from https://nucleus.iaea.org). The laboratory checks the isotope values of internal standards every 6 months to ensure that there is no fractionation associated with the shelf life of the chemicals.
+
+Aquatic invertebrate and spider sample collection
+
+To estimate benthic invertebrate population densities at each site, we collected 5 replicate quantitative benthic invertebrate samples using a Surber sampler (area 1200 cm2, mesh size 250 µm, Supplementary Table 5). Benthic samples were preserved on site with 70% ethanol for later identification in the laboratory. To estimate pharmaceutical concentrations in the total stream invertebrate community, we counted all individuals in Surber samples, estimated the biomass of individuals in those samples using the individual weights of each taxon measured in the isotope samples, and multiplied the biomass by the pharmaceutical concentrations in each taxon. We collected individual specimens from kick net samples (mesh size 500 µm, Wildco). From each study reach, we also collected web-building spiders (mostly from the family Tetragnathidae) before 07:00 h on the day of sampling by visually searching for webs on the banks within 1 m of the stream. Aquatic invertebrates were identified to genus or species where appropriate with reference to46,47. Spiders were identified to family level48. Identified invertebrates and spiders were rinsed with distilled water, any foreign material was removed, and specimens were frozen until pharmaceutical analysis (see below). The invertebrates analysed for pharmaceuticals accounted for over 90% of aquatic invertebrate biomass at all sites, with the exception of Sassafras and Lyrebird Creek, where due to higher community diversity but lower abundance of individual taxa, our samples were only able to account for 21 and 36% of the total biomass, respectively.
+
+Pharmaceutical analysis of invertebrate and spider tissue
+
+We prepared frozen invertebrate specimens for pharmaceutical extraction by carefully placing single invertebrate and spider individuals in sterile microcentrifuge tubes, drying them for 24 h at 60 °C, and then weighing the dried samples on a microbalance. When invertebrates had low individual body mass (e.g., chironomids) we added additional individuals to the sample to create a composite to meet the minimum mass required for extraction (2 mg). Samples were placed in new sterile microcentrifuge tubes and were extracted after addition of 50 ng of a mixed internal pharmaceutical standard, and three extractions were performed: 1.5 mL methanol and water (7:3) with 0.1% formic acid, 1.5 ml acetonitrile, and 1.5 ml acetonitrile. Details of the extraction, pre-concentration through solid-phase extraction, and subsequent chemical analysis are given in ref. 49. Samples were analysed using a triple-stage quadrupole mass spectrometer (Quantum Ultra EMR (Thermo Fisher Scientific, San Jose, CA)) coupled with a liquid chromatographic pump (Accela, Thermo Fisher Scientific) and an autosampler (PAL HTC, CTC Analytics AG, Zwingen, Switzerland). See Supplementary Table 3 for a list of target pharmaceuticals and LOQ (limit of quantification) values.
+
+Limits of quantification
+
+A result lower than the limit of quantification (LOQ) does not mean that the target analyte was not present, since the LOQ is the lowest concentration at which the compound can be reliably measured50. In order to develop an appropriate average concentration that included low concentrations, we estimated the concentrations for samples below detection. Within a taxon, if an individual sample was below the detection limit but another individual from that taxon and site had a measurable concentration of that pharmaceutical, we assigned the one that was below detection with half of the LOQ value. This is a standard technique to estimate concentrations below the detection limit51.
+
+QA/QC information for pharmaceutical analysis
+
+For quality assurance and quality control (QA/QC), two MS/MS transitions were used to ensure positive identification of analytes with the criterion that the ratio between the transitions was not allowed to deviate more than ±30% from the ratio in the corresponding calibration standard within the same concentration range. Retention times for all analytes had to be within ±2.5% of the retention time in the corresponding calibration standard. Limits of quantification (LOQ) were determined from standard curves based on repeated measurements of low-level spiked tissue samples, and the lowest point in the standard curve that had a signal/noise ratio of 10 was considered to be equal to the LOQ. A seven-point matrix-adjusted calibration curve over the range of 0.05–100 ng ml−1 was used for linearity evaluation and quantification. Carry-over effects were evaluated by injecting standards at 100 ng l−1 followed by two mobile phase blanks. Several instrumental and field blanks were included in each analytical run.
+
+Data analysis and calculations
+
+We used violin kernel probability density plots to display invertebrate and spider tissue concentrations (Fig. 2). Violin plots are a combination of a box plot and a kernel density plot. Each plot adds distribution data to summary statistics found in box plots, allowing for visual data analysis and exploration52. Where direct comparisons were made between invertebrates and riparian spiders, we included only insects with flying adult life stages.
+
+The calculations of pharmaceuticals in invertebrates and spiders are shown in the next two subsections:
+
+Invertebrate enumeration and biomass estimation
+
+The number and mass of benthic invertebrates per m2 of stream bottom were determined by equations 1–3. We averaged measured densities from Surber samples (n = 5 per site) from both sampling trips to estimate aquatic invertebrate abundances. The mass per individual was estimated from the total weight and number of individuals that contributed to the pooled dried samples used for pharmaceutical analysis. Equation 1 calculates the average biomass per individual in each pharmaceutical invertebrate sample:
+
+$$M = x/i,$$ (1)
+
+where \(M\)= biomass per individual (mg), \(x\)= total biomass of that taxon in the pharmaceutical sample (mg), and \(i\)= number of individuals per pharmaceutical sample.
+
+The average biomass per individual, AM, was then arithmetically averaged overall replicate pharmaceutical samples (n) for a particular taxon, according to Equation 2:
+
+$${\rm AM} = \mathop {\sum }
+
+olimits_1^n M/n.$$ (2)
+
+The average number of individuals of that species found in a Surber sample, \(n^{{\rm Surber}}\), was determined by the arithmetic mean of the number of individuals found in each of the n Surber samples at that site. Equation 3 then estimated the average biomass of that species, AveMass, per m2 of benthic invertebrate biomass:
+
+$${\rm AveMass}\,({\rm mg}/{\rm m}^2) = n^{{\rm Surber}} \times {\rm AM} \times 10,000\,{\rm cm}^2/1200\,{\rm cm}^2.$$ (3)
+
+Pharmaceutical concentration estimates
+
+For each taxon at each site, the average individual pharmaceutical concentration, AvePharm, per sample was determined per g of dried biomass according to Equation 4:
+
+$${\rm AvePharm}\,({\rm ng}/{\rm g}) = \mathop {\sum }
+
+olimits_1^n {\rm Pharm}\,({\rm ng}/{\rm g})/n.$$ (4)
+
+On an areal basis, the amount of each pharmaceutical per species per m2 of benthic invertebrates, ArealPharm, was given by Equation 5:
+
+$${\rm ArealPharm}\left( {\frac{{{\rm ng}}}{{{\rm m}^2}}} \right) = {\rm AvePharm}\left( {\frac{{{\rm ng}}}{{\rm g}}} \right){\mathrm{x}}\frac{{{\rm AveMass}\left( {\frac{{{\rm mg}}}{{{\rm m}^2}}} \right)}}{{1000\left( {\frac{{{\rm mg}}}{{\rm g}}} \right)}}.$$ (5)
+
+The areal pharmaceutical estimates were summed across all invertebrate taxa to give the total concentration of that pharmaceutical in benthic invertebrates per m2. Finally, all of the individual total pharmaceutical concentrations were summed to give the grand total of all pharmaceuticals in the benthic invertebrates per m2.
+
+Estimating pharmaceutical dietary intake by predators
+
+Our estimates of the dietary intake of pharmaceuticals by platypus are based on a study of the macroinvertebrate prey of the platypus in the Shoalhaven River, New South Wales, Australia38. Energetic requirements of platypus have been estimated at 68453 and 341 kJ kg day−122. For the purpose of this study, we took the mean of those two estimates (512.5 kJ kg day−1) and converted kJ kg to g kg (1 g of dry mass = 21 kJ), obtaining a daily food demand (as dry weight of invertebrates) of 24.4 g day−1. Based on foraging behaviour, a previous study estimated that platypus have a digestion efficiency of 80%38, and therefore to meet their metabolic needs, a platypus would need to eat 30.5 g kg−1 day−1. Platypus body weight is based on the mean weight of male and female platypus sampled in the Shoalhaven River (1.18 kg)54.
+
+Brown trout dietary intake estimates are based on a previous estimate that at 15 °C, a 100 g trout would consume 1.35 g day-1 dry weight of invertebrate food55. We used these estimates to calculate the dietary intake of pharmaceuticals for a 100 g trout feeding at 15 °C.
+
+Based on these estimates of prey consumption and the pharmaceutical concentrations measured in invertebrate tissues in Brushy Creek, the stream receiving treated wastewater effluent, we estimated the maximum amount of pharmaceutical ingested by a consumer (µg g−1). We calculated the percentage of a human therapeutic dose of pharmaceuticals to which a platypus and a trout would be exposed through consumption of aquatic invertebrates in this stream. To estimate average human daily dose, we obtained the maximum daily dose (DD) for each pharmaceutical compound that we detected using data obtained from the World Health Organisation34, and then calculated the average daily dose for that pharmaceutical class.
+
+Therapeutic classes were defined using the World Health Organization (WHO) Anatomical Therapeutic Chemical (ATC) codes34. Pharmaceuticals were grouped into classes that best defined their therapeutic outcome, using ATC classes from levels 2, 3, and 4. Levels represent the organ on which they are biologically active and the chemical, therapeutic and pharmacological characteristics of the compound. Levels 2, 3 and 4 represent the chemical/therapeutic/pharmacological subgroups34 and most accurately group each of the pharmaceuticals detected in this study without going into excessive detail. In order to make therapeutic classification clearer to the reader, we chose to use common class names rather than the ATC classification. For example, we classed all anti-bacterials (including quinolones, fluoroquinolones, macrolides and tetracyclines) as antibiotics. Similarly, we took this approach for antimycotics, including anti-infectives, labelling them as anti-fungal medication. Supplementary Table 3 provides a summary of ATC classification and human daily dose. We also acknowledge that some compounds have multiple therapeutic uses, and have made reference to these compounds within the summary table.
+
+Different aquatic invertebrates had different pharmaceutical concentrations in their tissues so the distribution of invertebrate taxa within the total benthic invertebrate biomass was used to estimate the biomass-weighted mean pharmaceutical concentrations of the benthic community as a whole. To account for the relative biomass of each invertebrate group in the stream (Brushy Creek), we used the following equation:
+
+$${\rm fAveMass}_i = \frac{{{\rm AveMass}_i\left( {\frac{{{\rm ng}}}{{{\rm m}^2}}} \right)}}{{\mathop {\sum }
+
+olimits_{i = 1}^{i = j} {\rm AveMass}_i\,\left( {\frac{{{\rm ng}}}{{{\rm m}^2}}} \right)}},$$ (6)
+
+where \(\mathop {\sum }\limits_{i = 1}^{i = j} {\rm {AveMass}}_i\) is the sum of each individual areal biomass for the j invertebrate group present. For example, larval caddisflies of the Hydropsychidae family accounted for 73% of total invertebrate biomass in Brushy Creek, and their concentration of fluoxetine (an antidepressant) was 1901ng/g. The biomass-weighted mean pharmaceutical concentrations for Brushy Creek invertebrates were used to estimate relative consumption by a predator at that site, effectively assuming that predators consume invertebrate taxa in proportion to their relative biomass in the stream.
+
+To calculate the amount of pharmaceuticals per therapeutic class consumed by a trout or platypus we used bio-energetic estimates and body mass. For example, a platypus needs 30.5 g dry weight of invertebrate prey per kg per day, and average weight of platypus = 1.18 kg. The daily intake of pharmaceuticals by the platypus is given by Equation 7:
+
+$${\rm {Intake}}\left( {{\rm {ng}}\,{\rm {day}}^{ - 1}} \right) = \mathop {\sum }\limits_{i = 1}^{i = j} \left\{ {{\rm {fAveMass}}_i\,{\times}\,{\rm {AvePharm}}\left( {\frac{{{\rm {ng}}}}{{\rm {g}}}} \right)} \right\}{\mathrm{x}}\,30.5\,x\,1.18,$$ (7)
+
+which can also be expressed on a per kg platypus body weight basis:
+
+$${\rm {Intake}}\,\left( {{\rm {ng}}\,{\rm {kg}}\,{\rm {day}}^{ - 1}} \right) = {\rm {Intake}}\,\left( {{\rm {ng}}\,{\rm {day}}^{ - 1}} \right)/1.18\,{\rm {kg}}.$$ (8)
+
+Finally, to estimate what percentage of the average recommended human daily dose (aveDD) a predator is exposed to through dietary intake, we used equations 9 and 10, where an average adult human from Oceania weighs 74.1 kg56.
+
+$${\rm {Human}}\,{\rm {pharmaceutical}}\,{\rm {consumption}}\,\left( {{\mathrm{\mu }}{\rm {g}}\,{\rm {kg}}\,{\rm {day}}^{ - 1}} \right) = {\rm {aveDD}}\,\left( {{\rm {mg}}} \right)/74.1\,{\rm {kg}} \times 1000.$$ (9)

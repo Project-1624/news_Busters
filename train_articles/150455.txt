@@ -1,0 +1,36 @@
+Promotion of natural tooth repair by small molecule GSK3 antagonists
+Study design
+
+The purpose of this study was to investigate whether natural dentine repair could be enhanced by stimulating the formation of reparative dentine. Adult CD1 wild-type mouse first molars were used and damage stimulated by controlling drilling (see below). The drugs of choice and vehicle were based on previous reports in the literature and also translational potential into a simple, cost effective dental therapy.
+
+In order to evaluate the reparative capacity of the drugs, six to nine teeth were evaluated per time point and a sample size of 20–30 teeth per group was used for the in vivo gene expression assay. The reparative time points used in this study were in accordance with UK Home Office animal regulations. This study was not blind and sample selection was not random.
+
+Injury Protocol
+
+All animals used in this study were handled in accordance to UK Home Office Regulations project license 70/7866 and personal license I6517C8EF. Experimental procedures were approved by the King’s College Ethical Review Process. The mice were anaesthetized with a solution made with Hypnorm (Fentanyl/fluanisone - VetaPharma Ltd.), sterile water and Hypnovel (Midazolam - Roche) in the ratio 1:2:1 at the rate of 10 ml/kg intraperitonially. A rounded carbide burr FG 1/4 coupled to a high speed hand piece was used to access the dentine of the mouse superior molar teeth. Once the burr cut exposed the dentine, a 30G needle was used to penetrate the pulp. In order to protect the pulp from external contamination and stimulate dentine repair, the injury was capped either with ProRoot Mineral Trioxide Aggregate (MTA) (Maillfer Dentsply), or Kolspon (Fish Collage Type 1- Eucare Ltd) alone, or in association with 50 nM BIO (SIGMA), 5 μM CHIR99021 (SIGMA), or 50 nM Tideglusib (SIGMA) dissolved and diluted in DMSO, in contact with the pulp. A layer of 3 M Ketac-Cem Radiopaque was used as a capping material to seal the injured site. The damage was performed on the two upper first molars. For incisor damage a fine needle was inserted through the mouse lower tooth into the pulp. Post-op the mice were given Vetergesic (Buprenorphine – Ceva) at the rate of 0.3 mg/kg by intraperitoneal injection as analgesic. The animals were sacrificed after 1 day, 4 weeks and 6 weeks.
+
+Cytotoxity assay
+
+17IA4 cells were plated in 96 well plates at 20,000 cells/cm2 and incubated (37 °C, 5% CO 2 /95% air, 100% humidity) for 24 hrs using standard culture medium. Thereafter, the medium was replaced with conditioned (drugs + media) and control media (media alone) for another 24 hrs. (10 μl of drug in DMSO + 90 μl of media resulting on the following concentrations BIO: 200, 100, 50 nM; CHIR99021: 10, 8, 5 μM; Tideglusib: 200, 100, 50 nM). To determine the cell metabolic activity, MTT (3-(4,5-Dimethylthiazol-2-yl)-2,5- diphenyltetrazolium bromide, Sigma) was added to the controls and the conditioned media after 24 hrs. The resulting formazan product was then dissolved in 200 μl of dimethyl sulfoxide per well (DMSO, Sigma). A colorimetric plate reader (Thermo Multiskan Ascent 354 microplate reader) was used to read the absorbance at 540 nm with background subtraction at 630 nm.
+
+In vitro drug release
+
+17IA4 cells were plated in 24-well plates and incubated (37 °C, 5% CO 2 /95% air, 100% humidity) for 24 h using standard culture medium. FalconTM cell culture inserts for use with 24-well plates (3 μm pore size) were placed in the wells carrying 96 mm2 Kolspon cubes either dry or soaked in 30 μl of the drug optimal concentration for 15 and 30 minutes, 1, 6, and 12 hours. The cells were collected with TRIzol and stored at −20 °C.
+
+Pulp collection
+
+P21 mice had their superior first molars drilled according to the drilling protocol. Tooth pulp tissue was collected according to the experiment time course after injury. The superior first molars were extracted using a 21 G needle as an elevator to lift them from the alveolar bone and the extracted molars were kept in ice cold PBS. Using a 23 scalpel blade the molars were separated at the crown-root junction, so that the pulp chamber could be visualized. Using a 0.6 mm straight tip tweezer the pulp was gently scraped from the pulp chamber and the root canal. The pulp was then placed into cold Sigma RNAlater and stored at −80 °C.
+
+Q-PCR
+
+RNA was extracted from the cells in culture with the drugs in after 15, and 30 mins, 1, 6, and 12 hours, and also from the dental pulp collected from CD1 P21 wild-type mice without injury (control) and 1 day after injury using TRIzol. (Thermo Fisher Scientific) as recommended by the manufacturer. The RNA was quantified using Nanodrop and reverse transcribed into cDNA. Beta-actin was used as housekeeping gene (Forward- GGCTGTATTCCCCTCCATCG, Reverse- CCAGTTGGTAACAATGCCTGT) and Axin2 was the read-out for Wnt pathway activity (Forward-TGACTCTCCTTCCAGATCCCA, Reverse-TGCCCACACTAGGCTGACA).
+
+MicroCT/mineral analysis
+
+Mice upper molars were dissected and fixed with PFA 4% overnight and scanned using a Bruker Skyscan1272 micro-CT scanner. After scanning, Microview software programme (GE) was used for visualization and analysis. Two dimensional (2D) images were obtained from micro-CT cross-sectional images of superior first molar internal part, to evaluate if the drilling was successful and mineral formation. In order to assay tissue mineral content a ROI of X = 0.2 mm, Y = 0.4 mm, and Z = 0.2 mm was set as standard for all the samples and the mineral analysis was performed. The region measured comprised only of the injury site. ROI complete filled with mineral = 0.0017 mg.
+
+Histology
+
+After 4 weeks decalcification in 19% EDTA the teeth were embedded in wax blocks and sectioned using 8 μm thickness. Sections were stained using Masson’s Trichrome.
+
+β-galactosidase staining
